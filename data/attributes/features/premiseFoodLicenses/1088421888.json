@@ -1,0 +1,43 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1088421888,
+        2,
+        [
+          [
+            2915805260,
+            4,
+            "Big Wave Bay's Snack",
+            "FRIED CHICKEN SHOP, LEVEL 2, WATER WORLD, OCEAN PARK, TAI SHUE WAN, HONG KONG",
+            null,
+            "2027-02-13"
+          ],
+          [
+            2915805288,
+            4,
+            "HORIZON GRILL",
+            "HALAL FOOD SHOP, LEVEL 3, WATER WORLD, OCEAN PARK, TAI SHUE WAN, HONG KONG",
+            null,
+            "2027-02-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1088422096
+        ]
+      ],
+      "coordinate": [
+        1.9926110566250492,
+        0.3880953936351323,
+        20.0
+      ],
+      "halfSize": [
+        130.12633840739727,
+        102.17264185851673,
+        7.0
+      ]
+    }
+  ]
+}

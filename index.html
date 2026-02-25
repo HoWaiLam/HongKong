@@ -1,0 +1,80 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="js/cesium1.138/Widgets/widgets.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="assets/css/style.css">
+		<script src="js/cesium1.138/Cesium.js"></script>
+		
+		<script src="js/bundle.js"></script>
+		
+		<template id="accordion-template">
+			<div class="accordion">
+				<div class="heading">
+					<div class="labels"></div>
+					<div class="icon succeeding">
+						<i class="fa fa-fw fa-angle-left"></i>
+					</div>
+				</div>
+			</div>
+		</template>
+		<template id="auxiliary-accordion-template">
+			<div class="accordion">
+				<div class="heading">
+					<div class="icon preceding">
+						<i class="fa fa-fw"></i>
+					</div>
+					<div class="labels"></div>
+				</div>
+			</div>
+		</template>
+		<template id="symbol-selection-template">
+			<div class="symbol-selection">
+				<div class="label"></div>
+			</div>
+		</template>
+		<template id="expandable-info-template">
+			<div class="expandable-info">
+				<div class="expandable-info-value"></div>
+				<div class="icon">
+					<i class="fa fa-fw"></i>
+				</div>
+			</div>
+		</template>
+		<template id="info-content-template">
+			<div class="content">
+				<div class="info">
+					<div class="secondary-label info-label"></div>
+				</div>
+				<div class="icon first">
+					<i class="fa fa-fw"></i>
+				</div>
+				<div class="icon second">
+					<i class="fa fa-fw"></i>
+				</div>
+			</div>
+		</template>
+		<template id="content-accordion-template">		
+			<div class="content-accordion">
+				<div class="content-heading">
+					<div class="secondary-label info-label"></div>
+					<div class="icon">
+						<i class="fa fa-fw"></i>
+					</div>
+				</div>
+				<div class="content-panel">
+				</div>
+			</div>
+		</template>
+		<template id="legend-block-template">
+			<div class="legend-block">
+				<div class="symbol box"></div>
+				<div class="secondary-label"></div>
+			</div>
+		</template>
+		<title>Hong Kong</title>
+	</head>
+	<body>
+		<div id="map-container">
+		</div>
+	</body>
+</html>

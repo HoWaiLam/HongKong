@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "attributes": [
+        1430257664,
+        1,
+        [
+          [
+            2998000897,
+            4,
+            "Wellcome Fresh Food Centre",
+            "PORTION OF 9 CHUN KWONG STREET, TSEUNG KWAN O INDUSTRIAL ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1430257667
+        ]
+      ],
+      "coordinate": [
+        1.9944407693283563,
+        0.38892418214188285,
+        13.0
+      ],
+      "halfSize": [
+        83.4250000002794,
+        83.90500000026077,
+        8.0
+      ]
+    },
+    {
+      "attributes": [
+        1430257665,
+        1,
+        [
+          [
+            2598000024,
+            3,
+            "Hong Kong Trade Development Council",
+            "2/F (MINOR PORTION), HONG KONG TRADE DEVELOPMENT COUNCIL EXHIBITION SERVICES & LOGISTIC CENTRE, 83 CHUN YAT STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-19"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1430257692
+        ]
+      ],
+      "coordinate": [
+        1.9943865549744673,
+        0.38889765578231955,
+        16.44999885559082
+      ],
+      "halfSize": [
+        52.222509999759495,
+        42.020500000566244,
+        9.34999942779541
+      ]
+    },
+    {
+      "attributes": [
+        1430257666,
+        7,
+        [
+          [
+            2998000198,
+            4,
+            "\u5361\u6a02B",
+            "G/F (PORTION), TSEUNG KWAN O INDUSTRIAL ESTATE, 9 CHUN CHEONG STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-25"
+          ],
+          [
+            2998802460,
+            4,
+            "Pat Chun International Ltd.",
+            "1/F, PAT CHUN BUILDING, 18 CHUN WANG STREET, TSEUNG KWAN O INDUSTRIAL ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-05"
+          ],
+          [
+            2998802479,
+            4,
+            "Pat Chun International Ltd",
+            "G/F, PAT CHUN BUILDING, TSEUNG KWAN O INDUSTRIAL ESTATE, 18 CHUN WANG STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2027-02-05"
+          ],
+          [
+            2998803454,
+            4,
+            "Shiu Pong Ice (Cube Ice & Ice Carving) Limited",
+            "FACTORY 1, G/F, 10 CHUN KWONG STREET, TSEUNG KWAN O INDUSTRIAL ESTATE, TKO T.L. 39, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-06"
+          ],
+          [
+            2998807067,
+            4,
+            "ORIENT RISE DEVELOPMENT LIMITED",
+            "FACTORY 2, G/F, 10 CHUN KWONG STREET, TSEUNG KWAN O INDUSTRIAL ESTATE, TKO T.L. 39, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-05"
+          ],
+          [
+            2998807748,
+            4,
+            "SHIU PONG MANAGEMENT AND INVESTMENT COMPANY LIMITED",
+            "FACTORY 3, G/F, 10 CHUN KWONG STREET, TSEUNG KWAN O INDUSTRIAL ESTATE, TKO T.L. 39, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-11"
+          ],
+          [
+            2998807854,
+            4,
+            "SHIU PONG DRY ICE COMPANY LIMITED",
+            "FACTORY 4, G/F, 10 CHUN KWONG STREET, TSEUNG KWAN O INDUSTRIAL ESTATE, TKO T.L. 39, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-10-01"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1430257752
+        ]
+      ],
+      "coordinate": [
+        1.9943734758611653,
+        0.38892470871030455,
+        7.350000381469727
+      ],
+      "halfSize": [
+        7.194914999883622,
+        8.117499999701977,
+        2.750000238418579
+      ]
+    }
+  ]
+}
