@@ -519,7 +519,75 @@
         1105687607,
         null,
         "151 LOK MA CHAU",
-        []
+        [
+          [
+            "DD96 1843",
+            "Old Schedule Lot",
+            "C5401895",
+            [
+              [
+                "YL23098",
+                "1913-01-31",
+                "-",
+                null
+              ],
+              [
+                "YL61997",
+                "1925-03-13",
+                "-",
+                null
+              ],
+              [
+                "YL134927",
+                "1956-02-20",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "YL576068",
+                "1993-11-30",
+                "-",
+                null
+              ],
+              [
+                "YL1061511",
+                "2000-04-13",
+                "ASSENT (PREVIOUSLY REGISTERED BY M/N 919028)",
+                null
+              ],
+              [
+                "YL919028",
+                "2000-04-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "YL1055971",
+                "2003-08-19",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "95832.0"
+              ],
+              [
+                "YL1075048",
+                "2004-02-14",
+                "ASSIGNMENT",
+                "95832.0"
+              ],
+              [
+                "05071100880118",
+                "2005-05-18",
+                "WAIVER LETTER WITH PLANS (STW NO.3213)",
+                null
+              ],
+              [
+                "06112400460010",
+                "2006-10-27",
+                "SUPPLEMENTARY AGREEMENT TO WAIVER LETTER (STW NO. 3213)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911026218471932,
@@ -538,7 +606,51 @@
         1107624028,
         null,
         null,
-        []
+        [
+          [
+            "DD93 2937",
+            "Old Schedule Lot",
+            "C3583581",
+            [
+              [
+                "N129535",
+                "1952-11-11",
+                "-",
+                "1200.0"
+              ],
+              [
+                "N129534",
+                "1952-11-11",
+                "-",
+                null
+              ],
+              [
+                "N140687",
+                "1960-01-11",
+                "CONVEYANCE ON SALE",
+                null
+              ],
+              [
+                "N406301",
+                "1997-09-30",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "16112902390169",
+                "2016-11-04",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "785822.4"
+              ],
+              [
+                "17022102390082",
+                "2017-02-07",
+                "ASSIGNMENT",
+                "785822.4"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912479663051088,
@@ -557,7 +669,51 @@
         1107624074,
         null,
         null,
-        []
+        [
+          [
+            "DD93 2937",
+            "Old Schedule Lot",
+            "C3583581",
+            [
+              [
+                "N129535",
+                "1952-11-11",
+                "-",
+                "1200.0"
+              ],
+              [
+                "N129534",
+                "1952-11-11",
+                "-",
+                null
+              ],
+              [
+                "N140687",
+                "1960-01-11",
+                "CONVEYANCE ON SALE",
+                null
+              ],
+              [
+                "N406301",
+                "1997-09-30",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "16112902390169",
+                "2016-11-04",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "785822.4"
+              ],
+              [
+                "17022102390082",
+                "2017-02-07",
+                "ASSIGNMENT",
+                "785822.4"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912463584913007,
@@ -671,7 +827,14 @@
         1910247194,
         null,
         null,
-        []
+        [
+          [
+            "LMCIL 2",
+            "New Grant Lot",
+            "D5162580",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9910151110093102,
@@ -690,7 +853,14 @@
         1910247197,
         null,
         null,
-        []
+        [
+          [
+            "LMCIL 2",
+            "New Grant Lot",
+            "D5162580",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9910092889223987,
@@ -709,7 +879,14 @@
         1910247198,
         null,
         null,
-        []
+        [
+          [
+            "LMCIL 2",
+            "New Grant Lot",
+            "D5162580",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9910061527041125,
@@ -747,7 +924,75 @@
         1910257957,
         null,
         null,
-        []
+        [
+          [
+            "LOOPL 1",
+            "New Grant Lot",
+            "D6303706",
+            [
+              [
+                "25052001390027",
+                "2025-05-02",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR MANAGEMENT STAFF FACILITIES",
+                null
+              ],
+              [
+                "25052001390018",
+                "2025-05-02",
+                "LETTER OF UNDERTAKING FOR GREENERY AREAS UNDER PNAP APP-152",
+                null
+              ],
+              [
+                "25071401050152",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR COVERED LANDSCAPE AREAS",
+                null
+              ],
+              [
+                "25071401050139",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR BALCONIES IN RESIDENTIAL BUILDING",
+                null
+              ],
+              [
+                "25071401050167",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GREENERY AREAS UNDER PNAP APP-152",
+                null
+              ],
+              [
+                "25071401050118",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR RESIDENTIAL RECREATIONAL FACILITIES",
+                null
+              ],
+              [
+                "25071401050104",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR VOID OVER MAIN COMMON ENTRANCE LOBBY",
+                null
+              ],
+              [
+                "25071401050096",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR TRELLISES AT GARDEN AREA ON G/F",
+                null
+              ],
+              [
+                "25071401050123",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR VOIDS IN RESIDENTIAL RECREATIONAL FACILITIES",
+                ""
+              ],
+              [
+                "25071401050142",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR MANAGEMENT STAFF FACILITIES",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991018062186563,
@@ -766,7 +1011,75 @@
         1910257958,
         null,
         null,
-        []
+        [
+          [
+            "LOOPL 1",
+            "New Grant Lot",
+            "D6303706",
+            [
+              [
+                "25052001390027",
+                "2025-05-02",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR MANAGEMENT STAFF FACILITIES",
+                null
+              ],
+              [
+                "25052001390018",
+                "2025-05-02",
+                "LETTER OF UNDERTAKING FOR GREENERY AREAS UNDER PNAP APP-152",
+                null
+              ],
+              [
+                "25071401050152",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR COVERED LANDSCAPE AREAS",
+                null
+              ],
+              [
+                "25071401050139",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR BALCONIES IN RESIDENTIAL BUILDING",
+                null
+              ],
+              [
+                "25071401050167",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GREENERY AREAS UNDER PNAP APP-152",
+                null
+              ],
+              [
+                "25071401050118",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR RESIDENTIAL RECREATIONAL FACILITIES",
+                null
+              ],
+              [
+                "25071401050104",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR VOID OVER MAIN COMMON ENTRANCE LOBBY",
+                null
+              ],
+              [
+                "25071401050096",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR TRELLISES AT GARDEN AREA ON G/F",
+                null
+              ],
+              [
+                "25071401050123",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR VOIDS IN RESIDENTIAL RECREATIONAL FACILITIES",
+                ""
+              ],
+              [
+                "25071401050142",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR MANAGEMENT STAFF FACILITIES",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910208739963318,
@@ -804,7 +1117,75 @@
         1910264223,
         null,
         null,
-        []
+        [
+          [
+            "LOOPL 1",
+            "New Grant Lot",
+            "D6303706",
+            [
+              [
+                "25052001390027",
+                "2025-05-02",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR MANAGEMENT STAFF FACILITIES",
+                null
+              ],
+              [
+                "25052001390018",
+                "2025-05-02",
+                "LETTER OF UNDERTAKING FOR GREENERY AREAS UNDER PNAP APP-152",
+                null
+              ],
+              [
+                "25071401050152",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR COVERED LANDSCAPE AREAS",
+                null
+              ],
+              [
+                "25071401050139",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR BALCONIES IN RESIDENTIAL BUILDING",
+                null
+              ],
+              [
+                "25071401050167",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GREENERY AREAS UNDER PNAP APP-152",
+                null
+              ],
+              [
+                "25071401050118",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR RESIDENTIAL RECREATIONAL FACILITIES",
+                null
+              ],
+              [
+                "25071401050104",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR VOID OVER MAIN COMMON ENTRANCE LOBBY",
+                null
+              ],
+              [
+                "25071401050096",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR TRELLISES AT GARDEN AREA ON G/F",
+                null
+              ],
+              [
+                "25071401050123",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR VOIDS IN RESIDENTIAL RECREATIONAL FACILITIES",
+                ""
+              ],
+              [
+                "25071401050142",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR MANAGEMENT STAFF FACILITIES",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910079549315371,
@@ -823,7 +1204,75 @@
         1910264224,
         null,
         null,
-        []
+        [
+          [
+            "LOOPL 1",
+            "New Grant Lot",
+            "D6303706",
+            [
+              [
+                "25052001390027",
+                "2025-05-02",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR MANAGEMENT STAFF FACILITIES",
+                null
+              ],
+              [
+                "25052001390018",
+                "2025-05-02",
+                "LETTER OF UNDERTAKING FOR GREENERY AREAS UNDER PNAP APP-152",
+                null
+              ],
+              [
+                "25071401050152",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR COVERED LANDSCAPE AREAS",
+                null
+              ],
+              [
+                "25071401050139",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR BALCONIES IN RESIDENTIAL BUILDING",
+                null
+              ],
+              [
+                "25071401050167",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GREENERY AREAS UNDER PNAP APP-152",
+                null
+              ],
+              [
+                "25071401050118",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR RESIDENTIAL RECREATIONAL FACILITIES",
+                null
+              ],
+              [
+                "25071401050104",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR VOID OVER MAIN COMMON ENTRANCE LOBBY",
+                null
+              ],
+              [
+                "25071401050096",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR TRELLISES AT GARDEN AREA ON G/F",
+                null
+              ],
+              [
+                "25071401050123",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR VOIDS IN RESIDENTIAL RECREATIONAL FACILITIES",
+                ""
+              ],
+              [
+                "25071401050142",
+                "2025-06-27",
+                "LETTER OF UNDERTAKING FOR GRANTING GFA CONCESSION FOR MANAGEMENT STAFF FACILITIES",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910207111774638,

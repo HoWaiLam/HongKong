@@ -6,7 +6,14 @@
         1106111075,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2091",
+            "Old Schedule Lot",
+            "C5543891",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9972878978747672,
@@ -25,7 +32,14 @@
         1106111076,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2475",
+            "New Grant Lot",
+            "C2025100",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.997276307356977,
@@ -44,7 +58,20 @@
         1106111077,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2098",
+            "Old Schedule Lot",
+            "C4900264",
+            []
+          ],
+          [
+            "DDPCL 2099",
+            "Old Schedule Lot",
+            "C2022689",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.997291341060905,
@@ -63,7 +90,14 @@
         1106111078,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2467",
+            "New Grant Lot",
+            "C2025070",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9972772013612838,
@@ -82,7 +116,14 @@
         1106111079,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2467",
+            "New Grant Lot",
+            "C2025070",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9972778777120428,
@@ -101,7 +142,14 @@
         1106111080,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2467",
+            "New Grant Lot",
+            "C2025070",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9972787009694477,
@@ -120,7 +168,27 @@
         1106111081,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2511",
+            "New Grant Lot",
+            "C4900513",
+            [
+              [
+                "TP204505",
+                "1981-07-10",
+                "STATUTORY DECLARATION BY CHOY KWOK WING",
+                null
+              ],
+              [
+                "TP204504",
+                "1981-07-10",
+                "STATUTORY DECLARATION OF WONG KOON HOP ALIAS WONG HOP LEE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9972794306673196,
@@ -139,7 +207,14 @@
         1106111082,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2513",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9972801478236286,
@@ -158,7 +233,14 @@
         1106111083,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2410",
+            "New Grant Lot",
+            "C2024610",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9972707861963694,
@@ -196,7 +278,45 @@
         1106111086,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2423",
+            "New Grant Lot",
+            "C2024739",
+            []
+          ],
+          [
+            "DDPCL 2436",
+            "New Grant Lot",
+            "C2024864",
+            [
+              [
+                "08010300941435",
+                "2007-11-14",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "25032102220038",
+                "2020-11-17",
+                "A SEALED COPY OF BANKRUPTCY ORDER ON DEBTOR'S PETITION WITH ATTACHMENT NOTICE",
+                null
+              ],
+              [
+                "24121000300014",
+                "2024-11-19",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "25020401790024",
+                "2024-12-30",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.997291280344543,
@@ -215,7 +335,27 @@
         1106111087,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2474",
+            "New Grant Lot",
+            "C2025098",
+            [
+              [
+                "08060400920031",
+                "2008-05-05",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "13012401270029",
+                "2012-12-24",
+                "MEMO AS TO ERROR IN RESPECT OF MEM. NO. 08060400920031",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9972754987667731,
@@ -234,7 +374,33 @@
         1106111088,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2470",
+            "New Grant Lot",
+            "C2025085",
+            [
+              [
+                "TP203139",
+                "1981-03-03",
+                "CONVEYANCE ON SALE",
+                "14000.0"
+              ],
+              [
+                "TP203138",
+                "1981-03-03",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TP563824",
+                "1998-03-10",
+                "LETTER OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9972763005341427,
@@ -253,7 +419,14 @@
         1106111089,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2468",
+            "New Grant Lot",
+            "C5295596",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9972770204747137,
@@ -272,7 +445,14 @@
         1106111090,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2468",
+            "New Grant Lot",
+            "C5295596",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.997277738972029,
@@ -291,7 +471,14 @@
         1106111091,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2468",
+            "New Grant Lot",
+            "C5295596",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9972784745104648,
@@ -386,7 +573,27 @@
         1810147996,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 1749",
+            "Old Schedule Lot",
+            "C2020639",
+            [
+              [
+                "TP147794",
+                "1962-07-30",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "10110802860015",
+                "2010-10-18",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9972498011113433,

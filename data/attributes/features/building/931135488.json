@@ -6,7 +6,81 @@
         1105686854,
         null,
         null,
-        []
+        [
+          [
+            "DD96 1283",
+            "Old Schedule Lot",
+            "C5832092",
+            [
+              [
+                "YL1048868",
+                "2003-06-27",
+                "ORDER UNDER SECTION 27A OF THE BUILDINGS ORDINANCE (WITH PLAN)",
+                null
+              ],
+              [
+                "12031501300012",
+                "2011-11-08",
+                "NOTIFICATION LETTER OF COMPLETION OF WORKS RELATING TO  ORDER NO. BD DH0073/NT/03/C",
+                null
+              ],
+              [
+                "13031802250049",
+                "2013-02-08",
+                "CERTIFICATE UNDER SECTION 33(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "22030101000035",
+                "2022-02-22",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION  23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "22052000410027",
+                "2022-05-17",
+                "CERTIFIED TRUE COPY OF REINSTATEMENT NOTICE ISSUED UNDER SECTION  23(3) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "23051902050036",
+                "2023-05-18",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION  23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "23052201030020",
+                "2023-05-19",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION  23(8A) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "24011701310050",
+                "2024-01-15",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION 23(1) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "24020501120036",
+                "2024-02-01",
+                "CERTIFIED TRUE COPY OF REINSTATEMENT NOTICE ISSUED UNDER SECTION 23(3) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "24072901460058",
+                "2024-07-24",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(4A) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "24072901460010",
+                "2024-07-25",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION  23(8A) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991366613906949,
@@ -1640,7 +1714,21 @@
         1105687043,
         null,
         null,
-        []
+        [
+          [
+            "DD96 1206",
+            "Old Schedule Lot",
+            "C6663987",
+            [
+              [
+                "YL29867",
+                "1915-03-24",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914229144986573,
@@ -1811,7 +1899,21 @@
         1105687095,
         null,
         null,
-        []
+        [
+          [
+            "DD96 1259",
+            "Old Schedule Lot",
+            "C3005270",
+            [
+              [
+                "YL79874",
+                "1931-05-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913909826547733,
@@ -1830,7 +1932,39 @@
         1105687101,
         null,
         null,
-        []
+        [
+          [
+            "DD96 1190",
+            "Old Schedule Lot",
+            "C5620016",
+            [
+              [
+                "YL144036",
+                "1961-02-20",
+                "-",
+                null
+              ],
+              [
+                "YL255829",
+                "1981-11-03",
+                "-",
+                null
+              ],
+              [
+                "YL256737",
+                "1982-01-08",
+                "-",
+                null
+              ],
+              [
+                "YL256738",
+                "1982-01-09",
+                "POWER OF ATTORNEY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991404561823237,
@@ -1849,7 +1983,21 @@
         1105687102,
         null,
         null,
-        []
+        [
+          [
+            "DD96 1259",
+            "Old Schedule Lot",
+            "C3005270",
+            [
+              [
+                "YL79874",
+                "1931-05-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991389547291303,
@@ -3483,7 +3631,27 @@
         1105687506,
         null,
         null,
-        []
+        [
+          [
+            "DD96 946",
+            "Old Schedule Lot",
+            "C3004128",
+            [
+              [
+                "YL850830",
+                "1998-07-22",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "YL850831",
+                "1999-01-21",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913726287383395,
@@ -3502,7 +3670,27 @@
         1105687510,
         null,
         null,
-        []
+        [
+          [
+            "DD96 946",
+            "Old Schedule Lot",
+            "C3004128",
+            [
+              [
+                "YL850830",
+                "1998-07-22",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "YL850831",
+                "1999-01-21",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913734781792616,
@@ -3521,7 +3709,33 @@
         1105687528,
         null,
         null,
-        []
+        [
+          [
+            "DD96 800",
+            "Old Schedule Lot",
+            "C3003240",
+            [
+              [
+                "YL233815",
+                "1980-06-04",
+                "-",
+                null
+              ],
+              [
+                "YL521982",
+                "1992-08-07",
+                "ASSIGNMENT",
+                "55000.0"
+              ],
+              [
+                "22092000710036",
+                "2022-09-17",
+                "DEED OF SEVERANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913922036738563,
@@ -3540,7 +3754,33 @@
         1105687530,
         null,
         null,
-        []
+        [
+          [
+            "DD96 800",
+            "Old Schedule Lot",
+            "C3003240",
+            [
+              [
+                "YL233815",
+                "1980-06-04",
+                "-",
+                null
+              ],
+              [
+                "YL521982",
+                "1992-08-07",
+                "ASSIGNMENT",
+                "55000.0"
+              ],
+              [
+                "22092000710036",
+                "2022-09-17",
+                "DEED OF SEVERANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913910200009082,
@@ -3559,7 +3799,39 @@
         1105687549,
         null,
         null,
-        []
+        [
+          [
+            "DD96 816 RP",
+            "Old Schedule Lot",
+            "C3003345",
+            [
+              [
+                "YL143361",
+                "1960-11-23",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "YL238611",
+                "1980-10-20",
+                "APPOINTMENT OF MANAGERSHIP",
+                null
+              ],
+              [
+                "06022800490054",
+                "2005-01-31",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGERS",
+                null
+              ],
+              [
+                "06022800490069",
+                "2005-12-16",
+                "APPROVAL OF APPOINTMENT OF MANAGERS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991408270705478,
@@ -3578,7 +3850,171 @@
         1105687605,
         null,
         null,
-        []
+        [
+          [
+            "DD96 814 RP",
+            "Old Schedule Lot",
+            "C6286430",
+            [
+              [
+                "YL46633",
+                "1920-08-16",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "05092400200025",
+                "2005-09-21",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "06091402720149",
+                "2006-09-12",
+                "CERTIFIED  TRUE COPY OF  NOTICE ISSUED UNDER SECTION 23(8A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "07111202960024",
+                "2007-11-08",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "10102000530027",
+                "2010-10-15",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION  23(1) OF THE TOWN PLANNING ORDINANCE *",
+                null
+              ],
+              [
+                "10102000530061",
+                "2010-10-15",
+                "CERTIFIED TRUE COPY OF THE NOTICE ISSUED PURSUANT TO THE POWER UNDER SECTION 46(A) *",
+                null
+              ],
+              [
+                "16021101270088",
+                "2016-02-04",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(8A) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "17041301010026",
+                "2017-04-11",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION 23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "17121802460026",
+                "2017-12-13",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION  23(8A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "17122801590071",
+                "2017-12-20",
+                "CERTIFIED TRUE COPY OF REINSTATEMENT NOTICE ISSUED UNDER SECTION  23(3) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "21101500530015",
+                "2020-07-13",
+                "DEED OF AGREEMENT FOR SALE AND PURCHASE",
+                "4150000.0"
+              ],
+              [
+                "21102100520032",
+                "2020-09-22",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF TSUN TSAI TONG",
+                null
+              ],
+              [
+                "22083100590229",
+                "2021-06-01",
+                "SEALED COPY RE-AMENDED WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "21102100520044",
+                "2021-09-25",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "22062300570016",
+                "2022-06-13",
+                "SEALED COPY AMENDED WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "22101800640019",
+                "2022-07-29",
+                "WITHDRAWAL OF APPROVAL OF APPOINTMENT OF MANAGER OF TSUN TSAI TONG",
+                null
+              ],
+              [
+                "24050600450028",
+                "2022-11-30",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF TSUN TSAI TONG",
+                null
+              ],
+              [
+                "23030101380351",
+                "2023-02-27",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION  23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "23033102300103",
+                "2023-03-30",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 46(A) OF THE INTERPRETATION AND GENERAL*",
+                null
+              ],
+              [
+                "24050600450010",
+                "2024-04-25",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF TSUN TSAI TONG",
+                null
+              ],
+              [
+                "24111101030504",
+                "2024-11-07",
+                "CERTIFIED TRUE COPY OF  NOTICE ISSUED UNDER SECTION  46(A)*",
+                null
+              ],
+              [
+                "24111201460493",
+                "2024-11-08",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION 23(1) OF THE TOWN PLANNING ORDINANCE *",
+                null
+              ],
+              [
+                "25042401380229",
+                "2025-04-17",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION  23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "25042401380243",
+                "2025-04-22",
+                "CERTIFIED TRUE COPY OF REINSTATEMENT NOTICE ISSUED UNDER SECTION  23(3) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "25091201400275",
+                "2025-09-10",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION 23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "25093002140620",
+                "2025-09-26",
+                "CERTIFIED TRUE COPY OF REINSTATEMENT NOTICE ISSUED UNDER SECTION  23(3) OF THE TOWN PLANNING ORDINANCE*",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991401663831173,
@@ -3711,7 +4147,33 @@
         1107623644,
         null,
         "4 LIU POK 3RD LANE",
-        []
+        [
+          [
+            "LPL 39",
+            "Old Schedule Lot",
+            "C5666127",
+            [
+              [
+                "N198972",
+                "1980-07-03",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "07082302750022",
+                "2007-07-26",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "07082302750017",
+                "2007-07-26",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915073613062615,
@@ -3749,7 +4211,46 @@
         1107623657,
         null,
         "14 LIU POK 2ND LANE",
-        []
+        [
+          [
+            "LPL 24",
+            "Old Schedule Lot",
+            "C5251313",
+            [
+              [
+                "N204261",
+                "1982-03-17",
+                "-",
+                null
+              ],
+              [
+                "N332139",
+                "1995-07-17",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "LPL 25",
+            "Old Schedule Lot",
+            "C6421717",
+            [
+              [
+                "N70144",
+                "1928-04-16",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "18113001480018",
+                "2018-09-17",
+                "SEALED COPY JUDGMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915004382472246,
@@ -3768,7 +4269,87 @@
         1107623667,
         null,
         "12 LIU POK 2ND LANE",
-        []
+        [
+          [
+            "LPL 22",
+            "Old Schedule Lot",
+            "C6421708",
+            [
+              [
+                "N189106",
+                "1978-03-15",
+                "-",
+                null
+              ],
+              [
+                "N491337",
+                "2000-05-09",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N523646",
+                "2001-12-17",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "N523647",
+                "2001-12-17",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "N523827",
+                "2001-12-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "500000.0"
+              ],
+              [
+                "N524452",
+                "2001-12-17",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "14011701120117",
+                "2014-01-06",
+                "LEGAL CHARGE",
+                "Please refer to the ConsiderationTextCHN Field."
+              ],
+              [
+                "19071700240062",
+                "2019-06-18",
+                "LEGAL CHARGE",
+                "Please refer to the ConsiderationTextCHN Field."
+              ],
+              [
+                "19071700240076",
+                "2019-06-18",
+                "SECOND LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "20050601930029",
+                "2020-03-18",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "25051600640103",
+                "2020-06-08",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "20071001030095",
+                "2020-06-08",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915015350195318,
@@ -3787,7 +4368,33 @@
         1107623671,
         null,
         "7 LIU POK 3RD LANE",
-        []
+        [
+          [
+            "LPL 116",
+            "Old Schedule Lot",
+            "C3589432",
+            [
+              [
+                "N198920",
+                "1980-06-16",
+                "-",
+                null
+              ],
+              [
+                "N519078",
+                "2001-10-17",
+                "STATUTORY DECLARATION AS TO ALIAS AND LOSS OF TITLE DEEDS",
+                null
+              ],
+              [
+                "N519079",
+                "2001-10-24",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915058728339912,
@@ -3806,7 +4413,39 @@
         1107623678,
         null,
         "8 LIU POK 3RD LANE",
-        []
+        [
+          [
+            "LPL 36",
+            "Old Schedule Lot",
+            "C3589004",
+            [
+              [
+                "N200789",
+                "1981-01-31",
+                "-",
+                null
+              ],
+              [
+                "15122800680014",
+                "2015-12-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "25102400050014",
+                "2025-06-25",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                ""
+              ],
+              [
+                "25111100870017",
+                "2025-08-13",
+                "ASSENT",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915053476667295,
@@ -3825,7 +4464,39 @@
         1107623680,
         null,
         "17 LIU POK 2ND LANE",
-        []
+        [
+          [
+            "LPL 27",
+            "Old Schedule Lot",
+            "C5417183",
+            [
+              [
+                "N131450",
+                "1954-01-22",
+                "CONVEYANCE ON SALE",
+                "2000.0"
+              ],
+              [
+                "N134786",
+                "1956-04-27",
+                "-",
+                null
+              ],
+              [
+                "N221216",
+                "1986-05-07",
+                "-",
+                null
+              ],
+              [
+                "06121201780061",
+                "2005-05-17",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914988102770321,
@@ -3844,7 +4515,76 @@
         1107623685,
         null,
         "9 LIU POK 3RD LANE",
-        []
+        [
+          [
+            "LPL 35",
+            "Old Schedule Lot",
+            "C3588998",
+            [
+              [
+                "N70199",
+                "1928-04-26",
+                "-",
+                null
+              ],
+              [
+                "N85507",
+                "1933-02-03",
+                "-",
+                "20.0"
+              ],
+              [
+                "N135502",
+                "1956-11-01",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N202276",
+                "1981-08-13",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N326181",
+                "1995-03-09",
+                "MEMO AS TO ERROR IN RESPECT OF M/N 135502",
+                null
+              ]
+            ]
+          ],
+          [
+            "LPL 36",
+            "Old Schedule Lot",
+            "C3589004",
+            [
+              [
+                "N200789",
+                "1981-01-31",
+                "-",
+                null
+              ],
+              [
+                "15122800680014",
+                "2015-12-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "25102400050014",
+                "2025-06-25",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                ""
+              ],
+              [
+                "25111100870017",
+                "2025-08-13",
+                "ASSENT",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915047928219893,
@@ -3863,7 +4603,21 @@
         1107623687,
         null,
         "18 LIU POK 2ND LANE",
-        []
+        [
+          [
+            "DD93 3798",
+            "New Grant Lot",
+            "C5666094",
+            [
+              [
+                "N221216",
+                "1986-05-07",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914979597465472,
@@ -3901,7 +4655,101 @@
         1107623699,
         null,
         "10 LIU POK 3RD LANE",
-        []
+        [
+          [
+            "LPL 32",
+            "Old Schedule Lot",
+            "C3588970",
+            [
+              [
+                "N72726",
+                "1929-09-04",
+                "PROHIBITORY ORDER",
+                null
+              ],
+              [
+                "N112849",
+                "1941-06-20",
+                "-",
+                null
+              ],
+              [
+                "N120632",
+                "1948-05-24",
+                "-",
+                "100.0"
+              ],
+              [
+                "N149187",
+                "1963-02-08",
+                "-",
+                null
+              ],
+              [
+                "N264313",
+                "1991-10-25",
+                "-",
+                "250000.0"
+              ],
+              [
+                "25031301740014",
+                "2025-03-12",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ],
+          [
+            "LPL 33",
+            "Old Schedule Lot",
+            "C3588988",
+            [
+              [
+                "N130337",
+                "1953-06-08",
+                "-",
+                null
+              ],
+              [
+                "N264313",
+                "1991-10-25",
+                "-",
+                "250000.0"
+              ],
+              [
+                "25031301740014",
+                "2025-03-12",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ],
+          [
+            "LPL 34",
+            "Old Schedule Lot",
+            "C6600380",
+            [
+              [
+                "N130180",
+                "1953-04-08",
+                "-",
+                null
+              ],
+              [
+                "N264313",
+                "1991-10-25",
+                "-",
+                "250000.0"
+              ],
+              [
+                "25031301740014",
+                "2025-03-12",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915031555526834,
@@ -3920,7 +4768,14 @@
         1107623708,
         null,
         "1A LIU POK 4TH LANE",
-        []
+        [
+          [
+            "LPL 44",
+            "Old Schedule Lot",
+            "C3589041",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.99150909448884,
@@ -3958,7 +4813,27 @@
         1107623726,
         null,
         null,
-        []
+        [
+          [
+            "DD93 TL T42 S.C",
+            "Taxlord Lot",
+            "D4775020",
+            [
+              [
+                "18101601070022",
+                "2018-09-13",
+                "ASSIGNMENT",
+                "14720000.0"
+              ],
+              [
+                "23032902350061",
+                "2022-08-26",
+                "WARNING LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916184234451846,
@@ -3977,7 +4852,33 @@
         1107623728,
         null,
         "11 LIU POK 3RD LANE",
-        []
+        [
+          [
+            "LPL 30",
+            "Old Schedule Lot",
+            "C3588957",
+            [
+              [
+                "N34129",
+                "1916-10-16",
+                "MORTGAGE",
+                "100.0"
+              ],
+              [
+                "N199768",
+                "1980-10-23",
+                "-",
+                null
+              ],
+              [
+                "15050801240011",
+                "2015-04-09",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991501291952266,
@@ -4015,7 +4916,33 @@
         1107623753,
         null,
         "16 LIU POK 3RD LANE",
-        []
+        [
+          [
+            "LPL 28",
+            "Old Schedule Lot",
+            "C5982253",
+            [
+              [
+                "N130397",
+                "1953-06-24",
+                "-",
+                null
+              ],
+              [
+                "N383287",
+                "1995-03-23",
+                "DEATH AND APPOINTMENT OF MANAGER OF FUNG WAI FUNG TSO",
+                null
+              ],
+              [
+                "N383288",
+                "1996-12-17",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF FUNG WAI FUNG TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914999078437967,
@@ -4034,7 +4961,27 @@
         1107623757,
         null,
         "25 TAK YUET LAU",
-        []
+        [
+          [
+            "DD93 TL T42 S.C",
+            "Taxlord Lot",
+            "D4775020",
+            [
+              [
+                "18101601070022",
+                "2018-09-13",
+                "ASSIGNMENT",
+                "14720000.0"
+              ],
+              [
+                "23032902350061",
+                "2022-08-26",
+                "WARNING LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916181011664356,
@@ -4053,7 +5000,51 @@
         1107623759,
         null,
         "8 LIU POK 4TH LANE",
-        []
+        [
+          [
+            "LPL 48",
+            "Old Schedule Lot",
+            "C6566387",
+            [
+              [
+                "N74144",
+                "1929-11-23",
+                "-",
+                null
+              ],
+              [
+                "N194855",
+                "1979-04-27",
+                "-",
+                null
+              ],
+              [
+                "N347389",
+                "1996-01-17",
+                "-",
+                null
+              ],
+              [
+                "12091902130012",
+                "2012-06-01",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12091902130024",
+                "2012-08-20",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "12091902130038",
+                "2012-08-20",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915053722941902,
@@ -4072,7 +5063,33 @@
         1107623763,
         null,
         "19 LIU POK 3RD LANE",
-        []
+        [
+          [
+            "DD93 3837",
+            "New Grant Lot",
+            "C3588710",
+            [
+              [
+                "N220356",
+                "1986-01-29",
+                "LETTER OF TOLERATION",
+                null
+              ],
+              [
+                "13052002240110",
+                "2013-01-16",
+                "PROBATE",
+                null
+              ],
+              [
+                "13052002240129",
+                "2013-05-10",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914984732898071,
@@ -4110,7 +5127,39 @@
         1107623772,
         null,
         "10 LIU POK 4TH LANE",
-        []
+        [
+          [
+            "LPL 49",
+            "Old Schedule Lot",
+            "C3589075",
+            [
+              [
+                "N27596",
+                "1914-07-17",
+                "-",
+                null
+              ],
+              [
+                "N92084",
+                "1935-03-14",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N149187",
+                "1963-02-08",
+                "-",
+                null
+              ],
+              [
+                "N266775",
+                "1991-12-05",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915043349031512,
@@ -4129,7 +5178,45 @@
         1107623780,
         null,
         "20 LIU POK 3RD LANE",
-        []
+        [
+          [
+            "DD93 3780",
+            "New Grant Lot",
+            "C5915752",
+            [
+              [
+                "05112500130176",
+                "2005-10-18",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "15082400370010",
+                "2015-07-29",
+                "MEMORANDUM FOR SALE AND PURCHASE",
+                "1850000.0"
+              ],
+              [
+                "15121500370099",
+                "2015-11-30",
+                "ASSIGNMENT",
+                "1850000.0"
+              ],
+              [
+                "21072000200037",
+                "2021-06-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3760000.0"
+              ],
+              [
+                "21100800140143",
+                "2021-09-13",
+                "ASSIGNMENT",
+                "3760000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914976506563347,
@@ -4148,7 +5235,39 @@
         1107623782,
         null,
         "10 LIU POK 4TH LANE",
-        []
+        [
+          [
+            "LPL 50",
+            "Old Schedule Lot",
+            "C6466227",
+            [
+              [
+                "N27596",
+                "1914-07-17",
+                "-",
+                null
+              ],
+              [
+                "N92084",
+                "1935-03-14",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N149187",
+                "1963-02-08",
+                "-",
+                null
+              ],
+              [
+                "N266775",
+                "1991-12-05",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915037771999284,
@@ -4167,7 +5286,33 @@
         1107623785,
         null,
         "1B LIU POK 5TH LANE",
-        []
+        [
+          [
+            "DD93 3835",
+            "New Grant Lot",
+            "C6466216",
+            [
+              [
+                "N224825",
+                "1987-09-29",
+                "TOLERATION LETTER",
+                null
+              ],
+              [
+                "06091901710010",
+                "2006-08-25",
+                "PROBATE",
+                null
+              ],
+              [
+                "07012602140257",
+                "2006-12-18",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915136146297114,
@@ -4186,7 +5331,21 @@
         1107623790,
         null,
         "21 LIU POK 3RD LANE",
-        []
+        [
+          [
+            "DD93 3781",
+            "New Grant Lot",
+            "C3588445",
+            [
+              [
+                "12091700890029",
+                "2012-08-17",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99149708023033,
@@ -4205,7 +5364,57 @@
         1107623800,
         null,
         "13 LIU POK 4TH LANE",
-        []
+        [
+          [
+            "LPL 53",
+            "Old Schedule Lot",
+            "C3589108",
+            [
+              [
+                "N105222",
+                "1939-03-17",
+                "MORTGAGE",
+                "125.4"
+              ],
+              [
+                "N205106",
+                "1982-07-20",
+                "-",
+                null
+              ],
+              [
+                "N244952",
+                "1990-07-10",
+                "STATUTORY DECLARATION BY LIU KOON HING",
+                null
+              ],
+              [
+                "N244953",
+                "1990-07-10",
+                "STATUTORY DECLARATION BY FUNG MOON (OR MUN) CHIU",
+                null
+              ],
+              [
+                "N264576",
+                "1991-11-11",
+                "-",
+                null
+              ],
+              [
+                "N285746",
+                "1993-04-28",
+                "STATUTORY DECLARATION OF LIU KWAI CHUEN",
+                null
+              ],
+              [
+                "N285747",
+                "1993-05-15",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915021946983533,
@@ -4224,7 +5433,76 @@
         1107623802,
         null,
         "5 LIU POK 5TH LANE",
-        []
+        [
+          [
+            "LPL 72",
+            "Old Schedule Lot",
+            "C3589230",
+            [
+              [
+                "N95552",
+                "1936-02-14",
+                "-",
+                null
+              ],
+              [
+                "N107003",
+                "1939-11-17",
+                "-",
+                null
+              ],
+              [
+                "N125544",
+                "1950-01-26",
+                "TRANSFER",
+                null
+              ],
+              [
+                "N125543",
+                "1950-01-27",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "N329546",
+                "1995-05-22",
+                "-",
+                "50000.0"
+              ],
+              [
+                "N329440",
+                "1995-05-22",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "50000.0"
+              ]
+            ]
+          ],
+          [
+            "LPL 73",
+            "Old Schedule Lot",
+            "C3589248",
+            [
+              [
+                "N95552",
+                "1936-02-14",
+                "-",
+                null
+              ],
+              [
+                "N107003",
+                "1939-11-17",
+                "-",
+                null
+              ],
+              [
+                "N125543",
+                "1950-01-27",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915081309184135,
@@ -4243,7 +5521,27 @@
         1107623808,
         null,
         "14 LIU POK 4TH LANE",
-        []
+        [
+          [
+            "LPL 54",
+            "Old Schedule Lot",
+            "C5924381",
+            [
+              [
+                "N198921",
+                "1980-06-16",
+                "CONVEYANCE ON SALE",
+                null
+              ],
+              [
+                "N222709",
+                "1987-03-05",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915016681353894,
@@ -4262,7 +5560,33 @@
         1107623810,
         null,
         "6 LIU POK 5TH LANE",
-        []
+        [
+          [
+            "LPL 71",
+            "Old Schedule Lot",
+            "C3589222",
+            [
+              [
+                "N223723",
+                "1987-07-30",
+                "-",
+                null
+              ],
+              [
+                "12111400240039",
+                "2012-11-01",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "20082701710017",
+                "2020-07-30",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991507560269455,
@@ -4281,7 +5605,82 @@
         1107623814,
         null,
         "15 LIU POK 4TH LANE",
-        []
+        [
+          [
+            "LPL 54",
+            "Old Schedule Lot",
+            "C5924381",
+            [
+              [
+                "N198921",
+                "1980-06-16",
+                "CONVEYANCE ON SALE",
+                null
+              ],
+              [
+                "N222709",
+                "1987-03-05",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "LPL 55",
+            "Old Schedule Lot",
+            "C5417196",
+            [
+              [
+                "N27596",
+                "1914-07-17",
+                "-",
+                null
+              ],
+              [
+                "N108457",
+                "1940-04-03",
+                "-",
+                null
+              ],
+              [
+                "N140448",
+                "1959-10-05",
+                "-",
+                null
+              ],
+              [
+                "N140449",
+                "1959-10-05",
+                "-",
+                null
+              ],
+              [
+                "N225236",
+                "1987-12-03",
+                "-",
+                null
+              ],
+              [
+                "07110800300012",
+                "2007-10-06",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "120000.0"
+              ],
+              [
+                "07110800300023",
+                "2007-10-06",
+                "ASSIGNMENT",
+                "120000.0"
+              ],
+              [
+                "24050601810039",
+                "2024-04-19",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915011423369504,
@@ -4319,7 +5718,88 @@
         1107623822,
         null,
         "16 LIU POK 4TH LANE",
-        []
+        [
+          [
+            "LPL 55",
+            "Old Schedule Lot",
+            "C5417196",
+            [
+              [
+                "N27596",
+                "1914-07-17",
+                "-",
+                null
+              ],
+              [
+                "N108457",
+                "1940-04-03",
+                "-",
+                null
+              ],
+              [
+                "N140448",
+                "1959-10-05",
+                "-",
+                null
+              ],
+              [
+                "N140449",
+                "1959-10-05",
+                "-",
+                null
+              ],
+              [
+                "N225236",
+                "1987-12-03",
+                "-",
+                null
+              ],
+              [
+                "07110800300012",
+                "2007-10-06",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "120000.0"
+              ],
+              [
+                "07110800300023",
+                "2007-10-06",
+                "ASSIGNMENT",
+                "120000.0"
+              ],
+              [
+                "24050601810039",
+                "2024-04-19",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "LPL 56",
+            "Old Schedule Lot",
+            "C3589110",
+            [
+              [
+                "N59487",
+                "1924-05-09",
+                "-",
+                null
+              ],
+              [
+                "N77210",
+                "1930-09-19",
+                "-",
+                null
+              ],
+              [
+                "N84890",
+                "1932-12-29",
+                "-",
+                "100.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991500627798441,
@@ -4338,7 +5818,21 @@
         1107623823,
         null,
         "2A LIU POK 5TH LANE",
-        []
+        [
+          [
+            "DD93 3752",
+            "New Grant Lot",
+            "C3588319",
+            [
+              [
+                "15013000520011",
+                "2014-12-12",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991511635005269,
@@ -4357,7 +5851,27 @@
         1107623827,
         null,
         "7 LIU POK 5TH LANE",
-        []
+        [
+          [
+            "LPL 69",
+            "Old Schedule Lot",
+            "C6333419",
+            [
+              [
+                "N199808",
+                "1980-10-29",
+                "-",
+                null
+              ],
+              [
+                "N329150",
+                "1995-05-31",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915064772654931,
@@ -4376,7 +5890,33 @@
         1107623830,
         null,
         "17 LIU POK 4TH LANE",
-        []
+        [
+          [
+            "LPL 57",
+            "Old Schedule Lot",
+            "C5417200",
+            [
+              [
+                "N33949",
+                "1916-07-15",
+                "MORTGAGE",
+                "50.0"
+              ],
+              [
+                "N107015",
+                "1939-11-20",
+                "-",
+                null
+              ],
+              [
+                "N211678",
+                "1984-02-28",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915000417740114,
@@ -4471,7 +6011,39 @@
         1107623853,
         null,
         "8 LIU POK 5TH LANE",
-        []
+        [
+          [
+            "LPL 67",
+            "Old Schedule Lot",
+            "C3589192",
+            [
+              [
+                "N200789",
+                "1981-01-31",
+                "-",
+                null
+              ],
+              [
+                "15122800680014",
+                "2015-12-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "25102400050014",
+                "2025-06-25",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                ""
+              ],
+              [
+                "25111100870017",
+                "2025-08-13",
+                "ASSENT",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915049135818763,
@@ -4509,7 +6081,14 @@
         1107623859,
         null,
         "19 LIU POK 4TH LANE",
-        []
+        [
+          [
+            "DD93 3844",
+            "New Grant Lot",
+            "C3588764",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9914980517821692,
@@ -4528,7 +6107,51 @@
         1107623865,
         null,
         "9 LIU POK 5TH LANE",
-        []
+        [
+          [
+            "LPL 66",
+            "Old Schedule Lot",
+            "C3589188",
+            [
+              [
+                "N45023",
+                "1920-03-17",
+                "MORTGAGE",
+                "60.0"
+              ],
+              [
+                "N62184",
+                "1925-04-21",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N107004",
+                "1939-11-17",
+                "-",
+                null
+              ],
+              [
+                "N124750",
+                "1949-09-14",
+                "-",
+                null
+              ],
+              [
+                "N329544",
+                "1995-05-18",
+                "-",
+                "50000.0"
+              ],
+              [
+                "N329438",
+                "1995-05-18",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "50000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915043426100199,
@@ -4566,7 +6189,51 @@
         1107623880,
         null,
         "3 LIU POK 6TH LANE",
-        []
+        [
+          [
+            "DD93 3740",
+            "New Grant Lot",
+            "C3588240",
+            [
+              [
+                "N66419",
+                "1927-01-24",
+                "-",
+                null
+              ],
+              [
+                "N131930",
+                "1954-07-23",
+                "-",
+                null
+              ],
+              [
+                "N134546",
+                "1956-03-09",
+                "-",
+                null
+              ],
+              [
+                "12050901320182",
+                "2012-04-19",
+                "PROBATE",
+                null
+              ],
+              [
+                "16021801720041",
+                "2016-01-26",
+                "ASSIGNMENT",
+                "2000000.0"
+              ],
+              [
+                "16021801720031",
+                "2016-01-26",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "2000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915140351613387,
@@ -4585,7 +6252,57 @@
         1107623886,
         null,
         "12 LIU POK 5TH LANE",
-        []
+        [
+          [
+            "LPL 63",
+            "Old Schedule Lot",
+            "C3589163",
+            [
+              [
+                "N131943",
+                "1954-07-26",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N328654",
+                "1995-04-28",
+                "VESTING DEED",
+                null
+              ],
+              [
+                "N327948",
+                "1995-04-28",
+                "STATUTORY DECLARATION OF FUNG CHAU CHUEN ALSO KNOWN AS FUNG TSAU TSUN",
+                null
+              ],
+              [
+                "N327946",
+                "1995-04-28",
+                "STATUTORY DECLARATION OF CHENG WO ALSO KNOWN AS FUNG CHENG WO",
+                null
+              ],
+              [
+                "N327947",
+                "1995-04-28",
+                "STATUTORY DECLARATION OF FUNG CHAU HOI ALSO KNOWN AS FUNG TSAU HOI",
+                null
+              ],
+              [
+                "N328887",
+                "1995-05-18",
+                "ASSIGNMENT",
+                "90000.0"
+              ],
+              [
+                "N328886",
+                "1995-05-18",
+                "AGREEMENT FOR SALE AND PURCHASE RE 1/2 SHARE",
+                "90000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915027966822862,
@@ -4623,7 +6340,130 @@
         1107623893,
         null,
         "13 LIU POK 5TH LANE",
-        []
+        [
+          [
+            "LPL 62",
+            "Old Schedule Lot",
+            "C3589157",
+            [
+              [
+                "N123890",
+                "1949-05-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N198834",
+                "1980-06-09",
+                "STATUTORY DECLARATION OF FUNG YAT CHUN ALSO KNOWN AS FUNG YIK CHUN",
+                null
+              ],
+              [
+                "N221614",
+                "1986-08-01",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N224173",
+                "1987-09-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N226766",
+                "1988-03-17",
+                "DEED OF RELEASE",
+                null
+              ],
+              [
+                "N246218",
+                "1990-08-14",
+                "STATUTORY DECLARATION OF FUNG YAT CHUN ALSO KNOWN AS FUNG YIK CHUN",
+                null
+              ],
+              [
+                "N248433",
+                "1990-12-01",
+                "-",
+                null
+              ],
+              [
+                "N519324",
+                "2001-07-26",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N519325",
+                "2001-10-23",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "23092700300041",
+                "2023-08-28",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "24060401490045",
+                "2024-04-30",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "LPL 63",
+            "Old Schedule Lot",
+            "C3589163",
+            [
+              [
+                "N131943",
+                "1954-07-26",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N328654",
+                "1995-04-28",
+                "VESTING DEED",
+                null
+              ],
+              [
+                "N327948",
+                "1995-04-28",
+                "STATUTORY DECLARATION OF FUNG CHAU CHUEN ALSO KNOWN AS FUNG TSAU TSUN",
+                null
+              ],
+              [
+                "N327946",
+                "1995-04-28",
+                "STATUTORY DECLARATION OF CHENG WO ALSO KNOWN AS FUNG CHENG WO",
+                null
+              ],
+              [
+                "N327947",
+                "1995-04-28",
+                "STATUTORY DECLARATION OF FUNG CHAU HOI ALSO KNOWN AS FUNG TSAU HOI",
+                null
+              ],
+              [
+                "N328887",
+                "1995-05-18",
+                "ASSIGNMENT",
+                "90000.0"
+              ],
+              [
+                "N328886",
+                "1995-05-18",
+                "AGREEMENT FOR SALE AND PURCHASE RE 1/2 SHARE",
+                "90000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991502238351916,
@@ -4642,7 +6482,39 @@
         1107623894,
         null,
         "4A LIU POK 6TH LANE",
-        []
+        [
+          [
+            "DD93 3765",
+            "New Grant Lot",
+            "C3588392",
+            [
+              [
+                "N130602",
+                "1953-09-03",
+                "-",
+                null
+              ],
+              [
+                "N133632",
+                "1955-08-23",
+                "MORTGAGE",
+                "800.0"
+              ],
+              [
+                "N135250",
+                "1956-08-20",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N371538",
+                "1996-06-07",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915127187983568,
@@ -4661,7 +6533,58 @@
         1107623901,
         null,
         "5A LIU POK 6TH LANE",
-        []
+        [
+          [
+            "DD93 3735 RP",
+            "New Grant Lot",
+            "D1570684",
+            [
+              [
+                "N407621",
+                "1997-10-31",
+                "APPROVAL OF SUCCESSION OF FUNG KING YUNG",
+                null
+              ],
+              [
+                "10042002180047",
+                "2010-04-07",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "50000.0"
+              ],
+              [
+                "10042300130027",
+                "2010-04-07",
+                "ASSIGNMENT",
+                "50000.0"
+              ]
+            ]
+          ],
+          [
+            "DD93 3735 S.A",
+            "New Grant Lot",
+            "D1570679",
+            [
+              [
+                "N407621",
+                "1997-10-31",
+                "APPROVAL OF SUCCESSION OF FUNG KING YUNG",
+                null
+              ],
+              [
+                "10042002180033",
+                "2010-04-07",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "50000.0"
+              ],
+              [
+                "10042300130015",
+                "2010-04-07",
+                "ASSIGNMENT",
+                "50000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915104056198594,
@@ -4699,7 +6622,57 @@
         1107623910,
         null,
         "15 LIU POK 5TH LANE",
-        []
+        [
+          [
+            "LPL 60",
+            "Old Schedule Lot",
+            "C3589135",
+            [
+              [
+                "N40546",
+                "1919-01-02",
+                "SALE",
+                "20.0"
+              ],
+              [
+                "N105222",
+                "1939-03-17",
+                "MORTGAGE",
+                "125.4"
+              ],
+              [
+                "N110416",
+                "1940-12-02",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N205107",
+                "1982-07-20",
+                "CONVEYANCE AS GIFT",
+                null
+              ],
+              [
+                "12021001590124",
+                "2012-01-20",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "12072000240045",
+                "2012-06-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "23062902060024",
+                "2023-05-22",
+                "ASSIGNMENT",
+                "1500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915011657714463,
@@ -4718,7 +6691,33 @@
         1107623913,
         null,
         "5 LIU POK 6TH LANE",
-        []
+        [
+          [
+            "DD93 3735 S.A",
+            "New Grant Lot",
+            "D1570679",
+            [
+              [
+                "N407621",
+                "1997-10-31",
+                "APPROVAL OF SUCCESSION OF FUNG KING YUNG",
+                null
+              ],
+              [
+                "10042002180033",
+                "2010-04-07",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "50000.0"
+              ],
+              [
+                "10042300130015",
+                "2010-04-07",
+                "ASSIGNMENT",
+                "50000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915098055755995,
@@ -4737,7 +6736,33 @@
         1107623918,
         null,
         "6 LIU POK 6TH LANE",
-        []
+        [
+          [
+            "DD93 3737 S.B",
+            "New Grant Lot",
+            "C5098284",
+            [
+              [
+                "N140967",
+                "1960-01-09",
+                "-",
+                null
+              ],
+              [
+                "10090201000091",
+                "2010-03-29",
+                "PROBATE",
+                null
+              ],
+              [
+                "10090201000101",
+                "2010-08-21",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915093120018235,
@@ -4756,7 +6781,33 @@
         1107623932,
         null,
         "7 LIU POK 6TH LANE",
-        []
+        [
+          [
+            "DD93 3737 S.A",
+            "New Grant Lot",
+            "C3588200",
+            [
+              [
+                "N66418",
+                "1927-01-24",
+                "-",
+                "5.0"
+              ],
+              [
+                "N117571",
+                "1947-08-13",
+                "-",
+                "300.0"
+              ],
+              [
+                "N469351",
+                "1999-07-02",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915087478473998,
@@ -4775,7 +6826,14 @@
         1107623935,
         null,
         "17 LIU POK 5TH LANE",
-        []
+        [
+          [
+            "DD93 3843",
+            "New Grant Lot",
+            "C3588756",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9914993869619115,
@@ -4794,7 +6852,20 @@
         1107623936,
         null,
         "8 LIU POK 6TH LANE",
-        []
+        [
+          [
+            "DD93 3724",
+            "New Grant Lot",
+            "C3588128",
+            []
+          ],
+          [
+            "DD93 3782",
+            "New Grant Lot",
+            "C3588459",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9915074044643089,
@@ -4813,7 +6884,51 @@
         1107623970,
         null,
         "9 LIU POK 6TH LANE",
-        []
+        [
+          [
+            "DD93 3738 RP",
+            "New Grant Lot",
+            "C3588220",
+            [
+              [
+                "N234406",
+                "1989-11-13",
+                "-",
+                null
+              ],
+              [
+                "N335784",
+                "1995-07-07",
+                "-",
+                "100000.0"
+              ],
+              [
+                "15071600630093",
+                "2015-06-22",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "20102800750036",
+                "2015-09-14",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "25100901980076",
+                "2015-09-14",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                ""
+              ],
+              [
+                "15100600970033",
+                "2015-09-14",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915056642167994,
@@ -4832,7 +6947,27 @@
         1107623985,
         null,
         "10 LIU POK 6TH LANE",
-        []
+        [
+          [
+            "DD93 3738 S.A",
+            "New Grant Lot",
+            "C3588234",
+            [
+              [
+                "N234406",
+                "1989-11-13",
+                "-",
+                null
+              ],
+              [
+                "N346050",
+                "1995-12-12",
+                "-",
+                "100000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915051071655334,
@@ -4851,7 +6986,45 @@
         1107623991,
         null,
         "2 LIU POK 7TH LANE",
-        []
+        [
+          [
+            "DD93 3768",
+            "New Grant Lot",
+            "C3588404",
+            [
+              [
+                "05120901260011",
+                "2005-11-29",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "06061302300026",
+                "2006-06-07",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "09041500060022",
+                "2009-04-01",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "23112701630394",
+                "2023-11-09",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "24032100350023",
+                "2024-03-04",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915108111752047,
@@ -4870,7 +7043,111 @@
         1107623993,
         null,
         "11 LIU POK 6TH LANE",
-        []
+        [
+          [
+            "DD93 3741",
+            "New Grant Lot",
+            "C3588255",
+            [
+              [
+                "N78654",
+                "1931-02-11",
+                "-",
+                null
+              ],
+              [
+                "N106186",
+                "1939-06-14",
+                "-",
+                null
+              ],
+              [
+                "N202694",
+                "1981-10-08",
+                "STATUTORY DECLARATION BY FUNG KIT TSAN ALIAS FUNG KIT CHAN",
+                null
+              ],
+              [
+                "N329146",
+                "1995-05-27",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "2000000.0"
+              ],
+              [
+                "N329002",
+                "1995-05-27",
+                "STATUTORY DECLARATION OF FUNG KIT TSAN ALIAS FUNG KIT CHAN",
+                null
+              ],
+              [
+                "N329147",
+                "1995-05-27",
+                "-",
+                "2000000.0"
+              ],
+              [
+                "N474600",
+                "2000-03-30",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "N474599",
+                "2000-03-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "500000.0"
+              ],
+              [
+                "09070901230018",
+                "2008-12-24",
+                "PROBATE",
+                null
+              ],
+              [
+                "09100901360020",
+                "2009-10-01",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "19073000020017",
+                "2018-05-09",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "19080902450031",
+                "2019-07-10",
+                "VESTING DEED",
+                null
+              ],
+              [
+                "19080902450026",
+                "2019-07-10",
+                "ASSENT",
+                null
+              ],
+              [
+                "19080902450016",
+                "2019-07-10",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "19090602400033",
+                "2019-08-28",
+                "DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "25101402240039",
+                "2025-09-29",
+                "ASSIGNMENT",
+                "200000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915045334711177,
@@ -4889,7 +7166,14 @@
         1107623997,
         null,
         "3 LIU POK 7TH LANE",
-        []
+        [
+          [
+            "DD93 3725",
+            "New Grant Lot",
+            "C5666063",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9915103085685053,
@@ -4908,7 +7192,45 @@
         1107624003,
         null,
         "12 LIU POK 6TH LANE",
-        []
+        [
+          [
+            "DD93 3744",
+            "New Grant Lot",
+            "C3588296",
+            [
+              [
+                "N201035",
+                "1981-03-12",
+                "-",
+                null
+              ],
+              [
+                "N226812",
+                "1988-04-12",
+                "-",
+                null
+              ],
+              [
+                "05120901260011",
+                "2005-11-29",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "06061302300026",
+                "2006-06-07",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "09041500060022",
+                "2009-04-01",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915039514512263,
@@ -4927,7 +7249,39 @@
         1107624006,
         null,
         "4 LIU POK 7TH LANE",
-        []
+        [
+          [
+            "LPL 77",
+            "Old Schedule Lot",
+            "C6333447",
+            [
+              [
+                "N63924",
+                "1926-01-25",
+                "MORTGAGE",
+                "30.0"
+              ],
+              [
+                "N66438",
+                "1927-01-24",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N135805",
+                "1957-01-09",
+                "-",
+                null
+              ],
+              [
+                "N353038",
+                "1986-02-05",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99150979377173,
@@ -4965,7 +7319,33 @@
         1107624020,
         null,
         "5 LIU POK 7TH LANE",
-        []
+        [
+          [
+            "LPL 78",
+            "Old Schedule Lot",
+            "C5666160",
+            [
+              [
+                "N29867",
+                "1915-03-24",
+                "-",
+                null
+              ],
+              [
+                "N117570",
+                "1947-08-13",
+                "-",
+                "200.0"
+              ],
+              [
+                "N371537",
+                "1996-06-18",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915093128761023,
@@ -4984,7 +7364,39 @@
         1107624023,
         null,
         "13 LIU POK 6TH LANE",
-        []
+        [
+          [
+            "DD93 3834",
+            "New Grant Lot",
+            "C3588706",
+            [
+              [
+                "11092602240109",
+                "2011-07-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11092602240117",
+                "2011-09-09",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "11092602240137",
+                "2011-09-09",
+                "ASSENT",
+                null
+              ],
+              [
+                "22053101140072",
+                "2022-05-26",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915029935412525,
@@ -5003,7 +7415,136 @@
         1107624026,
         null,
         "6 LIU POK 7TH LANE",
-        []
+        [
+          [
+            "LPL 78",
+            "Old Schedule Lot",
+            "C5666160",
+            [
+              [
+                "N29867",
+                "1915-03-24",
+                "-",
+                null
+              ],
+              [
+                "N117570",
+                "1947-08-13",
+                "-",
+                "200.0"
+              ],
+              [
+                "N371537",
+                "1996-06-18",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "LPL 79",
+            "Old Schedule Lot",
+            "C3589258",
+            [
+              [
+                "N62230",
+                "1925-04-28",
+                "MORTGAGE",
+                "96.0"
+              ],
+              [
+                "N69362",
+                "1928-02-16",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N70199",
+                "1928-04-26",
+                "-",
+                null
+              ],
+              [
+                "N131648",
+                "1954-05-13",
+                "-",
+                null
+              ],
+              [
+                "N408197",
+                "1997-10-31",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N408198",
+                "1997-10-31",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "15020402390018",
+                "2015-01-22",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "15061600390010",
+                "2015-06-02",
+                "ASSENT",
+                null
+              ],
+              [
+                "15120802140017",
+                "2015-11-23",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "16050900060022",
+                "2016-04-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "19011100510018",
+                "2018-04-30",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "22111701800039",
+                "2022-11-03",
+                "LETTERS OF ADMINISTRATION WITH THE WILL ANNEXED",
+                null
+              ],
+              [
+                "23032000750014",
+                "2023-02-21",
+                "ASSENT",
+                null
+              ],
+              [
+                "25050802130030",
+                "2025-04-26",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "25050802130018",
+                "2025-04-26",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "25050802130026",
+                "2025-04-26",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915088740281508,
@@ -5041,7 +7582,27 @@
         1107624035,
         null,
         "7 LIU POK 7TH LANE",
-        []
+        [
+          [
+            "LPL 80",
+            "Old Schedule Lot",
+            "C3589265",
+            [
+              [
+                "N140990",
+                "1960-01-09",
+                "-",
+                null
+              ],
+              [
+                "N425519",
+                "1998-07-23",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915083866152394,
@@ -5060,7 +7621,51 @@
         1107624041,
         null,
         "8 LIU POK 7TH LANE",
-        []
+        [
+          [
+            "LPL 81",
+            "Old Schedule Lot",
+            "C5666174",
+            [
+              [
+                "N32548",
+                "1916-01-28",
+                "-",
+                "115.0"
+              ],
+              [
+                "N134553",
+                "1956-03-10",
+                "-",
+                null
+              ],
+              [
+                "11092602240109",
+                "2011-07-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11092602240124",
+                "2011-09-09",
+                "ASSENT",
+                null
+              ],
+              [
+                "11092602240117",
+                "2011-09-09",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "20112400400059",
+                "2020-11-11",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915078382428502,
@@ -5079,7 +7684,45 @@
         1107624051,
         null,
         "1A LIU POK 9TH LANE",
-        []
+        [
+          [
+            "DD93 3832",
+            "New Grant Lot",
+            "C3588694",
+            [
+              [
+                "15100902150144",
+                "2015-09-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3500000.0"
+              ],
+              [
+                "15111902110090",
+                "2015-11-02",
+                "ASSIGNMENT",
+                "3500000.0"
+              ],
+              [
+                "22062201750057",
+                "2022-06-02",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6000000.0"
+              ],
+              [
+                "22080501330158",
+                "2022-07-19",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "22080501330147",
+                "2022-07-19",
+                "ASSIGNMENT",
+                "6000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915160617315355,
@@ -5098,7 +7741,39 @@
         1107624056,
         null,
         "9 LIU POK 7TH LANE",
-        []
+        [
+          [
+            "LPL 82",
+            "Old Schedule Lot",
+            "C5417218",
+            [
+              [
+                "N74147",
+                "1929-11-23",
+                "-",
+                null
+              ],
+              [
+                "N194855",
+                "1979-04-27",
+                "-",
+                null
+              ],
+              [
+                "N195087",
+                "1979-05-11",
+                "-",
+                null
+              ],
+              [
+                "N348412",
+                "1996-01-22",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915073382992026,
@@ -5117,7 +7792,45 @@
         1107624067,
         null,
         "1 LIU POK 8TH LANE",
-        []
+        [
+          [
+            "DD93 3727",
+            "New Grant Lot",
+            "C6510515",
+            [
+              [
+                "N112155",
+                "1941-05-05",
+                "-",
+                null
+              ],
+              [
+                "N153940",
+                "1964-09-30",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N361626",
+                "1996-05-13",
+                "SEALED COPY OF ORDER IN HIGH COURT NO.M.P. 1468 OF 1966",
+                null
+              ],
+              [
+                "N377195",
+                "1996-10-24",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N529142",
+                "2002-05-02",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991511942493028,
@@ -5136,7 +7849,75 @@
         1107624077,
         null,
         "2 LIU POK 8TH LANE",
-        []
+        [
+          [
+            "DD93 3726",
+            "New Grant Lot",
+            "C3588139",
+            [
+              [
+                "N106187",
+                "1939-06-14",
+                "-",
+                null
+              ],
+              [
+                "N153940",
+                "1964-09-30",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N154323",
+                "1964-11-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N163075",
+                "1969-03-05",
+                "-",
+                null
+              ],
+              [
+                "N361626",
+                "1996-05-13",
+                "SEALED COPY OF ORDER IN HIGH COURT NO.M.P. 1468 OF 1966",
+                null
+              ],
+              [
+                "N377195",
+                "1996-10-24",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N529141",
+                "2002-05-02",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "10032200990025",
+                "2010-03-17",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "12100402460023",
+                "2012-09-20",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "24032501980012",
+                "2024-02-05",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915113305498175,
@@ -5155,7 +7936,63 @@
         1107624084,
         null,
         "11 LIU POK 7TH LANE",
-        []
+        [
+          [
+            "LPL 83",
+            "Old Schedule Lot",
+            "C3589277",
+            [
+              [
+                "N59487",
+                "1924-05-09",
+                "-",
+                null
+              ],
+              [
+                "N77210",
+                "1930-09-19",
+                "-",
+                null
+              ],
+              [
+                "N230214",
+                "1988-03-21",
+                "GENERAL POWER OF ATTORNEY BY FUNG SHU TAM",
+                null
+              ],
+              [
+                "N230215",
+                "1988-03-21",
+                "GENERAL POWER OF ATTORNEY BY FUNG KAM WAI",
+                null
+              ],
+              [
+                "N230283",
+                "1989-03-03",
+                "STATUTORY DECLARATION OF FUNG MI FAT ALIAS FUNG MEI FAT",
+                null
+              ],
+              [
+                "N230284",
+                "1989-04-13",
+                "-",
+                null
+              ],
+              [
+                "N230282",
+                "1989-04-13",
+                "STATUTORY DECLARATION OF FUNG LIN SHING SERENA",
+                null
+              ],
+              [
+                "18011500900064",
+                "2017-12-28",
+                "DEED OF PARTITION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915055789006992,
@@ -5174,7 +8011,39 @@
         1107624088,
         null,
         "3 LIU POK 8TH LANE",
-        []
+        [
+          [
+            "LPL 98",
+            "Old Schedule Lot",
+            "C5098366",
+            [
+              [
+                "N133216",
+                "1955-05-18",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N221070",
+                "1986-05-07",
+                "DECLARATION OF FUNG KUNG SHAU ALSO KNOWN AS FUNG KUNG SAU",
+                null
+              ],
+              [
+                "N221071",
+                "1986-05-21",
+                "-",
+                null
+              ],
+              [
+                "12111400240046",
+                "2012-11-01",
+                "DEED OF EXCHANGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915108305946885,
@@ -5193,7 +8062,58 @@
         1107624095,
         null,
         "4 LIU POK 8TH LANE",
-        []
+        [
+          [
+            "LPL 100",
+            "Old Schedule Lot",
+            "C5098372",
+            [
+              [
+                "N135568",
+                "1956-10-26",
+                "CONVEYANCE ON SALE",
+                "6000.0"
+              ],
+              [
+                "N336803",
+                "1995-09-02",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "LPL 98",
+            "Old Schedule Lot",
+            "C5098366",
+            [
+              [
+                "N133216",
+                "1955-05-18",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N221070",
+                "1986-05-07",
+                "DECLARATION OF FUNG KUNG SHAU ALSO KNOWN AS FUNG KUNG SAU",
+                null
+              ],
+              [
+                "N221071",
+                "1986-05-21",
+                "-",
+                null
+              ],
+              [
+                "12111400240046",
+                "2012-11-01",
+                "DEED OF EXCHANGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915103432631869,
@@ -5212,7 +8132,45 @@
         1107624101,
         null,
         "5 LIU POK 8TH LANE",
-        []
+        [
+          [
+            "DD93 3728",
+            "New Grant Lot",
+            "C6333355",
+            [
+              [
+                "N201035",
+                "1981-03-12",
+                "-",
+                null
+              ],
+              [
+                "N226812",
+                "1988-04-12",
+                "-",
+                null
+              ],
+              [
+                "05120901260011",
+                "2005-11-29",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "06061302300026",
+                "2006-06-07",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "09041500060018",
+                "2009-04-01",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915098568273206,
@@ -5231,7 +8189,88 @@
         1107624107,
         null,
         "6 LIU POK 8TH LANE",
-        []
+        [
+          [
+            "DD93 3728",
+            "New Grant Lot",
+            "C6333355",
+            [
+              [
+                "N201035",
+                "1981-03-12",
+                "-",
+                null
+              ],
+              [
+                "N226812",
+                "1988-04-12",
+                "-",
+                null
+              ],
+              [
+                "05120901260011",
+                "2005-11-29",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "06061302300026",
+                "2006-06-07",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "09041500060018",
+                "2009-04-01",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "LPL 99",
+            "Old Schedule Lot",
+            "C3589361",
+            [
+              [
+                "N135567",
+                "1956-10-26",
+                "-",
+                "4500.0"
+              ],
+              [
+                "N325525",
+                "1995-03-01",
+                "STATUTORY DECLARATION BY FUNG KAM YIU ALIAS FUNG KAM YIU",
+                null
+              ],
+              [
+                "N326020",
+                "1995-03-22",
+                "STATUTORY DECLARATION OF FUNG KAM YIU ALIAS FUNG KAM YIU",
+                null
+              ],
+              [
+                "N488827",
+                "2000-08-01",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "24011600750027",
+                "2024-01-02",
+                "Please refer to the NatureDescriptionCHN Field.",
+                "1250000.0"
+              ],
+              [
+                "24020902120017",
+                "2024-02-05",
+                "ASSIGNMENT",
+                "1250000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915093799221952,
@@ -5250,7 +8289,93 @@
         1107624120,
         null,
         "15 LIU POK 7TH LANE",
-        []
+        [
+          [
+            "LPL 118",
+            "Old Schedule Lot",
+            "C6466234",
+            [
+              [
+                "N15174",
+                "1911-02-14",
+                "-",
+                "30.0"
+              ],
+              [
+                "N123890",
+                "1949-05-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N198834",
+                "1980-06-09",
+                "STATUTORY DECLARATION OF FUNG YAT CHUN ALSO KNOWN AS FUNG YIK CHUN",
+                null
+              ],
+              [
+                "N221614",
+                "1986-08-01",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N224173",
+                "1987-09-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N226766",
+                "1988-03-17",
+                "DEED OF RELEASE",
+                null
+              ],
+              [
+                "N246218",
+                "1990-08-14",
+                "STATUTORY DECLARATION OF FUNG YAT CHUN ALSO KNOWN AS FUNG YIK CHUN",
+                null
+              ],
+              [
+                "N248433",
+                "1990-12-01",
+                "-",
+                null
+              ],
+              [
+                "N519324",
+                "2001-07-26",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N519325",
+                "2001-10-23",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "23092700300041",
+                "2023-08-28",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "24060401490045",
+                "2024-04-30",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "LPL 86",
+            "Old Schedule Lot",
+            "C3589280",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9915036668281458,
@@ -5269,7 +8394,70 @@
         1107624121,
         null,
         "7 LIU POK 8TH LANE",
-        []
+        [
+          [
+            "DD93 3742 S.A",
+            "New Grant Lot",
+            "C3588286",
+            [
+              [
+                "N183587",
+                "1976-08-04",
+                "-",
+                null
+              ],
+              [
+                "N274703",
+                "1991-12-20",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "LPL 99",
+            "Old Schedule Lot",
+            "C3589361",
+            [
+              [
+                "N135567",
+                "1956-10-26",
+                "-",
+                "4500.0"
+              ],
+              [
+                "N325525",
+                "1995-03-01",
+                "STATUTORY DECLARATION BY FUNG KAM YIU ALIAS FUNG KAM YIU",
+                null
+              ],
+              [
+                "N326020",
+                "1995-03-22",
+                "STATUTORY DECLARATION OF FUNG KAM YIU ALIAS FUNG KAM YIU",
+                null
+              ],
+              [
+                "N488827",
+                "2000-08-01",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "24011600750027",
+                "2024-01-02",
+                "Please refer to the NatureDescriptionCHN Field.",
+                "1250000.0"
+              ],
+              [
+                "24020902120017",
+                "2024-02-05",
+                "ASSIGNMENT",
+                "1250000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991508832342269,
@@ -5288,7 +8476,51 @@
         1107624126,
         null,
         "16 LIU POK 7TH LANE",
-        []
+        [
+          [
+            "LPL 87",
+            "Old Schedule Lot",
+            "C3589290",
+            [
+              [
+                "N55155",
+                "1923-03-13",
+                "-",
+                null
+              ],
+              [
+                "N92085",
+                "1935-03-14",
+                "-",
+                null
+              ],
+              [
+                "N133625",
+                "1955-08-22",
+                "-",
+                null
+              ],
+              [
+                "N403035",
+                "1997-09-13",
+                "STATUTORY DECLARATION OF CHEUNG LAN ALSO KNOWN AS FUNG CHEUNG SHI",
+                null
+              ],
+              [
+                "N403036",
+                "1997-09-13",
+                "STATUTORY DECLARATION OF FUNG TO KWAI CHI",
+                null
+              ],
+              [
+                "N403037",
+                "1997-09-13",
+                "DEED OF RELEASE OF TRUSTEESHIP",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991503147707334,
@@ -5307,7 +8539,45 @@
         1107624129,
         null,
         "8 LIU POK 8TH LANE",
-        []
+        [
+          [
+            "DD93 3742 RP",
+            "New Grant Lot",
+            "C3588279",
+            [
+              [
+                "N152322",
+                "1964-01-24",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "N183584",
+                "1976-06-21",
+                "POWER OF ATTORNEY BY FUNG KAN LOK",
+                null
+              ],
+              [
+                "N183587",
+                "1976-08-04",
+                "-",
+                null
+              ],
+              [
+                "N328259",
+                "1995-05-19",
+                "STATUTORY DECLARATION BY FUNG KAN PONG ALIAS FUNG KAN BONG",
+                null
+              ],
+              [
+                "N328263",
+                "1995-05-19",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991508319412679,
@@ -5326,7 +8596,64 @@
         1107624136,
         null,
         "17 LIU POK 7TH LANE",
-        []
+        [
+          [
+            "LPL 87",
+            "Old Schedule Lot",
+            "C3589290",
+            [
+              [
+                "N55155",
+                "1923-03-13",
+                "-",
+                null
+              ],
+              [
+                "N92085",
+                "1935-03-14",
+                "-",
+                null
+              ],
+              [
+                "N133625",
+                "1955-08-22",
+                "-",
+                null
+              ],
+              [
+                "N403035",
+                "1997-09-13",
+                "STATUTORY DECLARATION OF CHEUNG LAN ALSO KNOWN AS FUNG CHEUNG SHI",
+                null
+              ],
+              [
+                "N403036",
+                "1997-09-13",
+                "STATUTORY DECLARATION OF FUNG TO KWAI CHI",
+                null
+              ],
+              [
+                "N403037",
+                "1997-09-13",
+                "DEED OF RELEASE OF TRUSTEESHIP",
+                null
+              ]
+            ]
+          ],
+          [
+            "LPL 88",
+            "Old Schedule Lot",
+            "C3589308",
+            [
+              [
+                "N186746",
+                "1977-07-29",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991502618926617,
@@ -5345,7 +8672,21 @@
         1107624137,
         null,
         "1B LIU POK 9TH LANE",
-        []
+        [
+          [
+            "DD93 3830",
+            "New Grant Lot",
+            "C3588674",
+            [
+              [
+                "N328265",
+                "1995-05-19",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915130238814382,
@@ -5364,7 +8705,21 @@
         1107624139,
         null,
         "1A LIU POK 10TH LANE",
-        []
+        [
+          [
+            "DD93 3839",
+            "New Grant Lot",
+            "C3588737",
+            [
+              [
+                "24032501980012",
+                "2024-02-05",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915185823875388,
@@ -5383,7 +8738,39 @@
         1107624174,
         null,
         "3 LIU POK 9TH LANE",
-        []
+        [
+          [
+            "LPL 102",
+            "Old Schedule Lot",
+            "C5098388",
+            [
+              [
+                "N148693",
+                "1962-11-29",
+                "-",
+                null
+              ],
+              [
+                "N198808",
+                "1980-05-28",
+                "-",
+                null
+              ],
+              [
+                "N329605",
+                "1995-05-10",
+                "-",
+                null
+              ],
+              [
+                "09101300150280",
+                "2009-09-14",
+                "DEED OF EXCHANGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915110000662994,
@@ -5402,7 +8789,33 @@
         1107624189,
         null,
         "4 LIU POK 9TH LANE",
-        []
+        [
+          [
+            "LPL 103",
+            "Old Schedule Lot",
+            "C5098393",
+            [
+              [
+                "N135291",
+                "1956-08-28",
+                "-",
+                null
+              ],
+              [
+                "N137817",
+                "1958-05-06",
+                "-",
+                null
+              ],
+              [
+                "N411240",
+                "1996-02-16",
+                "ORDER: H.C.M.P. NO. 561 OF 1996",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915104437872426,
@@ -5421,7 +8834,64 @@
         1107624190,
         null,
         "14 LIU POK 8TH LANE",
-        []
+        [
+          [
+            "DD93 3762",
+            "New Grant Lot",
+            "C3588350",
+            [
+              [
+                "N153940",
+                "1964-09-30",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N361626",
+                "1996-05-13",
+                "SEALED COPY OF ORDER IN HIGH COURT NO.M.P. 1468 OF 1966",
+                null
+              ],
+              [
+                "N377195",
+                "1996-10-24",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N529140",
+                "2002-05-02",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ]
+            ]
+          ],
+          [
+            "LPL 96",
+            "Old Schedule Lot",
+            "C6333464",
+            [
+              [
+                "N132432",
+                "1954-11-22",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N222620",
+                "1987-02-19",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "12111400240020",
+                "2012-11-01",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915050918353274,
@@ -5440,7 +8910,51 @@
         1107624195,
         null,
         "5 LIU POK 9TH LANE",
-        []
+        [
+          [
+            "LPL 104",
+            "Old Schedule Lot",
+            "C5666180",
+            [
+              [
+                "N148693",
+                "1962-11-29",
+                "-",
+                null
+              ],
+              [
+                "N198808",
+                "1980-05-28",
+                "-",
+                null
+              ],
+              [
+                "N329604",
+                "1995-05-10",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "N347913",
+                "1995-11-23",
+                "-",
+                null
+              ],
+              [
+                "09101300150280",
+                "2009-09-14",
+                "DEED OF EXCHANGE",
+                null
+              ],
+              [
+                "12052500330155",
+                "2012-04-26",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915099572858657,
@@ -5459,7 +8973,63 @@
         1107624196,
         null,
         "15 LIU POK 8TH LANE",
-        []
+        [
+          [
+            "LPL 95",
+            "Old Schedule Lot",
+            "C3589354",
+            [
+              [
+                "N200740",
+                "1981-02-12",
+                "-",
+                "5000.0"
+              ],
+              [
+                "N202092",
+                "1981-07-09",
+                "-",
+                null
+              ],
+              [
+                "N488880",
+                "2000-07-08",
+                "STATUTORY DECLARATION OF FUNG KAM POI (OTHERWISE SPELT AS PUI)",
+                null
+              ],
+              [
+                "N488881",
+                "2000-07-08",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "22122300250065",
+                "2022-12-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1870000.0"
+              ],
+              [
+                "23012600890021",
+                "2023-01-09",
+                "ASSIGNMENT",
+                "1870000.0"
+              ],
+              [
+                "25021301450012",
+                "2025-02-04",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1500000.0"
+              ],
+              [
+                "25040201740019",
+                "2025-03-21",
+                "ASSIGNMENT",
+                "1500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915046401556402,
@@ -5478,7 +9048,75 @@
         1107624202,
         null,
         "6 LIU POK 9TH LANE",
-        []
+        [
+          [
+            "LPL 105",
+            "Old Schedule Lot",
+            "C3589375",
+            [
+              [
+                "N106187",
+                "1939-06-14",
+                "-",
+                null
+              ],
+              [
+                "N153940",
+                "1964-09-30",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N154323",
+                "1964-11-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N163075",
+                "1969-03-05",
+                "-",
+                null
+              ],
+              [
+                "N361626",
+                "1996-05-13",
+                "SEALED COPY OF ORDER IN HIGH COURT NO.M.P. 1468 OF 1966",
+                null
+              ],
+              [
+                "N377195",
+                "1996-10-24",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N529143",
+                "2002-05-02",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "10032200990025",
+                "2010-03-17",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "12100402460013",
+                "2012-09-20",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "12100402460023",
+                "2012-09-20",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915094473676611,
@@ -5497,7 +9135,21 @@
         1107624204,
         null,
         "1 LIU POK 10TH LANE",
-        []
+        [
+          [
+            "DD93 3829",
+            "New Grant Lot",
+            "C3588668",
+            [
+              [
+                "N376826",
+                "1996-10-31",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915149971639083,
@@ -5535,7 +9187,39 @@
         1107624211,
         null,
         "17 LIU POK 8TH LANE",
-        []
+        [
+          [
+            "LPL 94",
+            "Old Schedule Lot",
+            "C3589341",
+            [
+              [
+                "N135567",
+                "1956-10-26",
+                "-",
+                "4500.0"
+              ],
+              [
+                "N325525",
+                "1995-03-01",
+                "STATUTORY DECLARATION BY FUNG KAM YIU ALIAS FUNG KAM YIU",
+                null
+              ],
+              [
+                "N326020",
+                "1995-03-22",
+                "STATUTORY DECLARATION OF FUNG KAM YIU ALIAS FUNG KAM YIU",
+                null
+              ],
+              [
+                "N488256",
+                "2000-07-25",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915037019945638,
@@ -5554,7 +9238,51 @@
         1107624213,
         null,
         "7 LIU POK 9TH LANE",
-        []
+        [
+          [
+            "LPL 106",
+            "Old Schedule Lot",
+            "C3589389",
+            [
+              [
+                "N27596",
+                "1914-07-17",
+                "-",
+                null
+              ],
+              [
+                "N106186",
+                "1939-06-14",
+                "-",
+                null
+              ],
+              [
+                "N202694",
+                "1981-10-08",
+                "STATUTORY DECLARATION BY FUNG KIT TSAN ALIAS FUNG KIT CHAN",
+                null
+              ],
+              [
+                "N329002",
+                "1995-05-27",
+                "STATUTORY DECLARATION OF FUNG KIT TSAN ALIAS FUNG KIT CHAN",
+                null
+              ],
+              [
+                "17012400250025",
+                "2016-12-08",
+                "ASSIGNMENT",
+                "530000.0"
+              ],
+              [
+                "17012400250012",
+                "2016-12-08",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "530000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915089291546262,
@@ -5573,7 +9301,27 @@
         1107624232,
         null,
         "2 LIU POK 10TH LANE",
-        []
+        [
+          [
+            "DD93 3809",
+            "New Grant Lot",
+            "C5098316",
+            [
+              [
+                "N156707",
+                "1965-10-23",
+                "-",
+                null
+              ],
+              [
+                "08121200120026",
+                "2008-11-20",
+                "ASSIGNMENT",
+                "160000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915137331906632,
@@ -5592,7 +9340,21 @@
         1107624233,
         null,
         "1A LIU POK 12TH LANE",
-        []
+        [
+          [
+            "DD93 3845",
+            "New Grant Lot",
+            "C3588771",
+            [
+              [
+                "15050801240011",
+                "2015-04-09",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915245410750289,
@@ -5611,7 +9373,51 @@
         1107624237,
         null,
         "3 LIU POK 10TH LANE",
-        []
+        [
+          [
+            "DD93 3826",
+            "New Grant Lot",
+            "C6333376",
+            [
+              [
+                "N426335",
+                "1998-09-18",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N560138",
+                "2004-03-17",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N560139",
+                "2004-03-26",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "N560140",
+                "2004-03-26",
+                "ASSENT",
+                null
+              ],
+              [
+                "12062900100074",
+                "2012-06-20",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "450000.0"
+              ],
+              [
+                "12071102540076",
+                "2012-06-20",
+                "ASSIGNMENT",
+                "450000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915130471240297,
@@ -5630,7 +9436,21 @@
         1107624240,
         null,
         "8A LIU POK 9TH LANE",
-        []
+        [
+          [
+            "DD93 3825",
+            "New Grant Lot",
+            "C3588633",
+            [
+              [
+                "N387613",
+                "1997-02-14",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991507213119824,
@@ -5649,7 +9469,64 @@
         1107624255,
         null,
         "4 LIU POK 10TH LANE",
-        []
+        [
+          [
+            "DD93 3806",
+            "New Grant Lot",
+            "C3588526",
+            [
+              [
+                "N247439",
+                "1990-10-13",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD93 3826",
+            "New Grant Lot",
+            "C6333376",
+            [
+              [
+                "N426335",
+                "1998-09-18",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N560138",
+                "2004-03-17",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N560139",
+                "2004-03-26",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "N560140",
+                "2004-03-26",
+                "ASSENT",
+                null
+              ],
+              [
+                "12062900100074",
+                "2012-06-20",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "450000.0"
+              ],
+              [
+                "12071102540076",
+                "2012-06-20",
+                "ASSIGNMENT",
+                "450000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915123925073641,
@@ -5687,7 +9564,51 @@
         1107624267,
         null,
         "5 LIU POK 10TH LANE",
-        []
+        [
+          [
+            "LPL 114",
+            "Old Schedule Lot",
+            "C5098405",
+            [
+              [
+                "N107004",
+                "1939-11-17",
+                "-",
+                null
+              ],
+              [
+                "N124750",
+                "1949-09-14",
+                "-",
+                null
+              ],
+              [
+                "N329545",
+                "1995-05-22",
+                "-",
+                "150000.0"
+              ],
+              [
+                "N329439",
+                "1995-05-22",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "150000.0"
+              ],
+              [
+                "09061900720013",
+                "2009-05-06",
+                "MEMORANDUM AGREEMENT FOR SALE AND PURCHASE",
+                "150000.0"
+              ],
+              [
+                "09061900720022",
+                "2009-05-06",
+                "ASSIGNMENT",
+                "150000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915109513205989,
@@ -5706,7 +9627,51 @@
         1107624275,
         null,
         "6 LIU POK 10TH LANE",
-        []
+        [
+          [
+            "LPL 114",
+            "Old Schedule Lot",
+            "C5098405",
+            [
+              [
+                "N107004",
+                "1939-11-17",
+                "-",
+                null
+              ],
+              [
+                "N124750",
+                "1949-09-14",
+                "-",
+                null
+              ],
+              [
+                "N329545",
+                "1995-05-22",
+                "-",
+                "150000.0"
+              ],
+              [
+                "N329439",
+                "1995-05-22",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "150000.0"
+              ],
+              [
+                "09061900720013",
+                "2009-05-06",
+                "MEMORANDUM AGREEMENT FOR SALE AND PURCHASE",
+                "150000.0"
+              ],
+              [
+                "09061900720022",
+                "2009-05-06",
+                "ASSIGNMENT",
+                "150000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915102025838811,
@@ -5725,7 +9690,21 @@
         1107624279,
         null,
         "13 LIU POK 9TH LANE",
-        []
+        [
+          [
+            "LPL 108",
+            "Old Schedule Lot",
+            "C5796611",
+            [
+              [
+                "N140991",
+                "1960-01-09",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915046929294367,
@@ -5744,7 +9723,51 @@
         1107624289,
         null,
         "7 LIU POK 10TH LANE",
-        []
+        [
+          [
+            "LPL 113",
+            "Old Schedule Lot",
+            "C3589425",
+            [
+              [
+                "N136463",
+                "1957-06-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "17072800250289",
+                "2017-04-18",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "17102400280278",
+                "2017-09-18",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "17102400280269",
+                "2017-09-18",
+                "ASSENT",
+                null
+              ],
+              [
+                "22102400030046",
+                "2022-09-09",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "22120101710026",
+                "2022-11-23",
+                "NOTICE OF SEVERANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915094504107853,
@@ -5763,7 +9786,45 @@
         1107624290,
         null,
         "1A LIU POK 11TH LANE",
-        []
+        [
+          [
+            "DD93 3831",
+            "New Grant Lot",
+            "C3588689",
+            [
+              [
+                "N191233",
+                "1978-09-12",
+                "RECTIFICATION AGREEMENT",
+                null
+              ],
+              [
+                "13022200410022",
+                "2013-02-16",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "13022200410011",
+                "2013-02-16",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "18091201060018",
+                "2018-08-22",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "24052900380092",
+                "2024-02-16",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915173339325036,
@@ -5782,7 +9843,39 @@
         1107624298,
         null,
         "8 LIU POK 10TH LANE",
-        []
+        [
+          [
+            "LPL 112",
+            "Old Schedule Lot",
+            "C6767576",
+            [
+              [
+                "N134487",
+                "1956-02-28",
+                "-",
+                null
+              ],
+              [
+                "N504332",
+                "2000-10-24",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N539612",
+                "2002-11-28",
+                "ASSENT",
+                null
+              ],
+              [
+                "05063000180243",
+                "2005-06-10",
+                "ASSIGNMENT",
+                "100000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915089197570293,
@@ -5801,7 +9894,14 @@
         1107624309,
         null,
         "1B LIU POK 11TH LANE",
-        []
+        [
+          [
+            "DD93 3823",
+            "New Grant Lot",
+            "C6065512",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9915164234369838,
@@ -5820,7 +9920,21 @@
         1107624324,
         null,
         "1C LIU POK 11TH LANE",
-        []
+        [
+          [
+            "DD93 3805",
+            "New Grant Lot",
+            "C3588513",
+            [
+              [
+                "N158636",
+                "1966-10-11",
+                "CONVEYANCE AS A GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991515739582221,
@@ -5839,7 +9953,45 @@
         1107624343,
         null,
         "1 LIU POK 11TH LANE",
-        []
+        [
+          [
+            "DD93 3810",
+            "New Grant Lot",
+            "C3588556",
+            [
+              [
+                "N231352",
+                "1989-06-26",
+                "DECLARATION AS TO THE LOSS OF TILTLE DEEDS",
+                null
+              ],
+              [
+                "N231350",
+                "1989-06-26",
+                "DECLARATION OF FUNG MOON CHIU ALIAS FUNG MUN CHIU",
+                null
+              ],
+              [
+                "N231351",
+                "1989-06-29",
+                "DECLARATION BY FUNG KAM FOOK",
+                null
+              ],
+              [
+                "N231787",
+                "1989-08-09",
+                "ASSIGNMENT",
+                "285525.0"
+              ],
+              [
+                "08022700250230",
+                "2008-01-26",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991514496760961,
@@ -5858,7 +10010,21 @@
         1107624358,
         null,
         "2 LIU POK 11TH LANE",
-        []
+        [
+          [
+            "DD93 3799",
+            "New Grant Lot",
+            "C3588484",
+            [
+              [
+                "N195583",
+                "1979-06-11",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991513722670662,
@@ -5877,7 +10043,45 @@
         1107624363,
         null,
         "3 LIU POK 11TH LANE",
-        []
+        [
+          [
+            "DD93 3803",
+            "New Grant Lot",
+            "C5098308",
+            [
+              [
+                "17072800250289",
+                "2017-04-18",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "17102400280278",
+                "2017-09-18",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "17102400280269",
+                "2017-09-18",
+                "ASSENT",
+                null
+              ],
+              [
+                "22102400030051",
+                "2022-10-13",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "22120101710047",
+                "2022-11-23",
+                "NOTICE OF SEVERANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915130618202375,
@@ -5896,7 +10100,21 @@
         1107624388,
         null,
         "4 LIU POK 11TH LANE",
-        []
+        [
+          [
+            "DD93 3801",
+            "New Grant Lot",
+            "C3588497",
+            [
+              [
+                "12040201180011",
+                "1966-05-03",
+                "OCCUPATION PERMIT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915117343560118,
@@ -5915,7 +10133,27 @@
         1107624405,
         null,
         "5 LIU POK 11TH LANE",
-        []
+        [
+          [
+            "DD93 3836",
+            "New Grant Lot",
+            "C5098337",
+            [
+              [
+                "N264576",
+                "1991-11-11",
+                "-",
+                null
+              ],
+              [
+                "16120600660022",
+                "2016-09-28",
+                "LETTERS OF ADMINISTRATION WITH WILL ANNEXED DE BONIS NON",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991510748578248,
@@ -5934,7 +10172,33 @@
         1107624428,
         null,
         "1 LIU POK 12TH LANE",
-        []
+        [
+          [
+            "DD93 3802",
+            "New Grant Lot",
+            "C3588500",
+            [
+              [
+                "06061302300017",
+                "2006-06-07",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "06061302300026",
+                "2006-06-07",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "09041500060018",
+                "2009-04-01",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915164583747191,
@@ -5953,7 +10217,21 @@
         1107624432,
         null,
         "209 LIU POK",
-        []
+        [
+          [
+            "DD93 3846",
+            "New Grant Lot",
+            "C5417171",
+            [
+              [
+                "N489658",
+                "2000-08-08",
+                "TOLERATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991505636145021,
@@ -5972,7 +10250,21 @@
         1107624444,
         null,
         "2A LIU POK 12TH LANE",
-        []
+        [
+          [
+            "DD93 3842",
+            "New Grant Lot",
+            "C5796604",
+            [
+              [
+                "N375406",
+                "1996-07-17",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991515064897319,
@@ -5991,7 +10283,33 @@
         1107624474,
         null,
         "2 LIU POK 12TH LANE",
-        []
+        [
+          [
+            "DD93 3827",
+            "New Grant Lot",
+            "C3588645",
+            [
+              [
+                "N434813",
+                "1998-07-29",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N449084",
+                "1999-07-21",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "N449085",
+                "1999-07-21",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915137887045502,
@@ -6010,7 +10328,14 @@
         1107624493,
         null,
         "3 LIU POK 12TH LANE",
-        []
+        [
+          [
+            "DD93 3833",
+            "New Grant Lot",
+            "C5417165",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9915125402334217,
@@ -6029,7 +10354,21 @@
         1107624574,
         null,
         "9 LIU POK 12TH LANE",
-        []
+        [
+          [
+            "DD93 3848",
+            "New Grant Lot",
+            "C3588790",
+            [
+              [
+                "N488697",
+                "2000-08-01",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915072685401276,
@@ -6048,7 +10387,14 @@
         1107624605,
         null,
         null,
-        []
+        [
+          [
+            "LPL 115",
+            "Old Schedule Lot",
+            "C5334177",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9915105722076005,
@@ -6846,7 +11192,81 @@
         1107627014,
         null,
         null,
-        []
+        [
+          [
+            "DD96 1283",
+            "Old Schedule Lot",
+            "C5832092",
+            [
+              [
+                "YL1048868",
+                "2003-06-27",
+                "ORDER UNDER SECTION 27A OF THE BUILDINGS ORDINANCE (WITH PLAN)",
+                null
+              ],
+              [
+                "12031501300012",
+                "2011-11-08",
+                "NOTIFICATION LETTER OF COMPLETION OF WORKS RELATING TO  ORDER NO. BD DH0073/NT/03/C",
+                null
+              ],
+              [
+                "13031802250049",
+                "2013-02-08",
+                "CERTIFICATE UNDER SECTION 33(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "22030101000035",
+                "2022-02-22",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION  23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "22052000410027",
+                "2022-05-17",
+                "CERTIFIED TRUE COPY OF REINSTATEMENT NOTICE ISSUED UNDER SECTION  23(3) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "23051902050036",
+                "2023-05-18",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION  23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "23052201030020",
+                "2023-05-19",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION  23(8A) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "24011701310050",
+                "2024-01-15",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION 23(1) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "24020501120036",
+                "2024-02-01",
+                "CERTIFIED TRUE COPY OF REINSTATEMENT NOTICE ISSUED UNDER SECTION 23(3) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "24072901460058",
+                "2024-07-24",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(4A) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "24072901460010",
+                "2024-07-25",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION  23(8A) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99136216990577,
@@ -7720,7 +12140,87 @@
         1107628422,
         null,
         null,
-        []
+        [
+          [
+            "DD89 354",
+            "Old Schedule Lot",
+            "C5415225",
+            [
+              [
+                "N379048",
+                "1996-06-28",
+                "DEATH AND APPOINTMENT OF MANAGER OF YUN (OR YUN) KING YUK TSO",
+                null
+              ],
+              [
+                "N379049",
+                "1996-11-26",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF YUN (OR UN) KING YUK TSO",
+                null
+              ],
+              [
+                "N393443",
+                "1997-05-16",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1713450.0"
+              ],
+              [
+                "N402047",
+                "1997-08-11",
+                "ASSIGNMENT",
+                "1713450.0"
+              ],
+              [
+                "05042702530049",
+                "2005-03-22",
+                "ASSIGNMENT",
+                "350000.0"
+              ],
+              [
+                "16101200630110",
+                "2016-09-26",
+                "ASSIGNMENT",
+                "784080.0"
+              ],
+              [
+                "16101200630108",
+                "2016-09-26",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "784080.0"
+              ],
+              [
+                "16101302140021",
+                "2016-09-27",
+                "ASSIGNMENT",
+                "784080.0"
+              ],
+              [
+                "16101302140019",
+                "2016-09-27",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "784080.0"
+              ],
+              [
+                "20082400310081",
+                "2020-07-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1380000.0"
+              ],
+              [
+                "20091600360015",
+                "2020-08-31",
+                "ASSIGNMENT",
+                "1380000.0"
+              ],
+              [
+                "25040102240072",
+                "2025-03-10",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991659810889877,
@@ -7739,7 +12239,14 @@
         1107628484,
         null,
         null,
-        []
+        [
+          [
+            "DD89 349 RP",
+            "Old Schedule Lot",
+            "C3515056",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9916603690824937,
@@ -7796,7 +12303,21 @@
         1107628818,
         null,
         null,
-        []
+        [
+          [
+            "DD89 370",
+            "Old Schedule Lot",
+            "C6731360",
+            [
+              [
+                "06041301450157",
+                "2005-10-31",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916411485222874,
@@ -7853,7 +12374,45 @@
         1107629547,
         null,
         null,
-        []
+        [
+          [
+            "DD89 381",
+            "Old Schedule Lot",
+            "C3515215",
+            [
+              [
+                "N10791",
+                "1910-01-21",
+                "-",
+                "40.0"
+              ],
+              [
+                "N42817",
+                "1919-07-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N77542",
+                "1930-11-05",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N135759",
+                "1956-12-28",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "N545619",
+                "2003-03-21",
+                "ASSIGNMENT",
+                "871200.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991655635221915,
@@ -7910,7 +12469,69 @@
         1107629945,
         null,
         null,
-        []
+        [
+          [
+            "DD89 154 RP",
+            "Old Schedule Lot",
+            "C3514157",
+            [
+              [
+                "N133455",
+                "1955-07-12",
+                "CONVEYANCE ON SALE",
+                "9900.0"
+              ],
+              [
+                "N242093",
+                "1990-01-19",
+                "-",
+                null
+              ],
+              [
+                "N242092",
+                "1990-01-19",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "N285396",
+                "1993-04-02",
+                "-",
+                null
+              ],
+              [
+                "07050901990069",
+                "2007-04-12",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "07050901990071",
+                "2007-04-12",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "07050901990057",
+                "2007-04-12",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "07050901990047",
+                "2007-04-12",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "07050901990035",
+                "2007-04-19",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991714914072547,
@@ -8366,7 +12987,57 @@
         1107631688,
         null,
         null,
-        []
+        [
+          [
+            "TAXLORD LOT 1494",
+            "Taxlord Lot [old]",
+            "C3614003",
+            [
+              [
+                "N3035",
+                "1906-11-20",
+                "-",
+                null
+              ],
+              [
+                "N42817",
+                "1919-07-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N77542",
+                "1930-11-05",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N135759",
+                "1956-12-28",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "N294401",
+                "1993-10-14",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N374956",
+                "1996-07-11",
+                "BUILDING LICENCE NO. 41/95",
+                null
+              ],
+              [
+                "16122100960014",
+                "2016-11-24",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991605858312939,
@@ -8404,7 +13075,27 @@
         1107631759,
         null,
         "G21A HO SHEUNG HEUNG",
-        []
+        [
+          [
+            "DD95 2201",
+            "New Grant Lot",
+            "C3613426",
+            [
+              [
+                "N540701",
+                "2002-01-08",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "N538822",
+                "2002-11-28",
+                "UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991609043038141,
@@ -8442,7 +13133,39 @@
         1107631783,
         null,
         null,
-        []
+        [
+          [
+            "TAXLORD LOT 1493 RP",
+            "Taxlord Lot [old]",
+            "C3613992",
+            [
+              [
+                "N77542",
+                "1930-11-05",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N135759",
+                "1956-12-28",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "N294401",
+                "1993-10-14",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N374953",
+                "1996-07-11",
+                "BUILDING LICENCE NO.40/95",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916059102883026,
@@ -8499,7 +13222,21 @@
         1107631945,
         null,
         "G20 TSUNG YUEN",
-        []
+        [
+          [
+            "TAXLORD LOT 1491 RP",
+            "Taxlord Lot [old]",
+            "C5417832",
+            [
+              [
+                "N212686",
+                "1984-06-13",
+                "-",
+                "80000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916012811558472,
@@ -8556,7 +13293,33 @@
         1107632078,
         null,
         "H18 HO SHEUNG HEUNG",
-        []
+        [
+          [
+            "DD95 2236",
+            "New Grant Lot",
+            "C5667919",
+            [
+              [
+                "N533383",
+                "2002-07-25",
+                "TOLERATION LETTER",
+                null
+              ],
+              [
+                "N540978",
+                "2002-09-12",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "09060200340011",
+                "2004-12-20",
+                "DEED OF UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915872368106398,
@@ -8594,7 +13357,14 @@
         1107659637,
         null,
         "1B LIU POK 4TH LANE",
-        []
+        [
+          [
+            "DD93 3849",
+            "New Grant Lot",
+            "D1335408",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9915140749217497,
@@ -8746,7 +13516,14 @@
         1109659106,
         null,
         "H20 HO SHEUNG HEUNG",
-        []
+        [
+          [
+            "DD95 2220",
+            "New Grant Lot",
+            "C3613543",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9915856063350406,
@@ -8765,7 +13542,14 @@
         1109659335,
         null,
         "H21 HO SHEUNG HEUNG",
-        []
+        [
+          [
+            "DD95 2218",
+            "New Grant Lot",
+            "C3613535",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.991584793116084,
@@ -8803,7 +13587,135 @@
         1110006337,
         null,
         "G14A TSUNG YUEN",
-        []
+        [
+          [
+            "DD95 2109",
+            "New Grant Lot",
+            "C5334879",
+            [
+              [
+                "N372777",
+                "1996-08-22",
+                "TOLERATION LETTER",
+                null
+              ],
+              [
+                "N372776",
+                "1996-09-04",
+                "DEED OF RECTIFICATION",
+                null
+              ],
+              [
+                "N415199",
+                "1998-01-09",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "N412218",
+                "1998-01-13",
+                "MORTGAGE TO SECURE GENERAL CREDIT FACILITIES",
+                null
+              ],
+              [
+                "N412217",
+                "1998-01-13",
+                "ASSIGNMENT",
+                "2500000.0"
+              ],
+              [
+                "N412216",
+                "1998-01-13",
+                "MEMORANDUM OF AGREEMENT FOR SALE & PURCHASE",
+                "2500000.0"
+              ],
+              [
+                "N451104",
+                "1999-08-31",
+                "WRIT SUMMONS: (H.C. ACTION NO.14043 OF 1999)",
+                null
+              ],
+              [
+                "N536546",
+                "2002-09-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1350000.0"
+              ],
+              [
+                "N540425",
+                "2002-12-31",
+                "CANCELLATION AGREEMENT",
+                "1350000.0"
+              ],
+              [
+                "07092500800593",
+                "2007-04-11",
+                "WARNING LETTER",
+                null
+              ],
+              [
+                "08081100660129",
+                "2008-07-04",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "08072500650167",
+                "2008-07-04",
+                "FIRST LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "10070200510023",
+                "2010-06-04",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "10070200510033",
+                "2010-06-04",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "14010200320040",
+                "2013-12-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4500000.0"
+              ],
+              [
+                "14032800420049",
+                "2014-03-03",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "14032700470049",
+                "2014-03-03",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "14032700470038",
+                "2014-03-03",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "14032700470021",
+                "2014-03-03",
+                "ASSIGNMENT",
+                "4500000.0"
+              ],
+              [
+                "25103100490013",
+                "2025-09-02",
+                "CERTIFIED COPY OF CERTIFICATE OF AMALGAMATION",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991602650201553,
@@ -8822,7 +13734,33 @@
         1110006384,
         null,
         "G9 TSUNG YUEN",
-        []
+        [
+          [
+            "TUL 5",
+            "Old Schedule Lot",
+            "C3614045",
+            [
+              [
+                "N42817",
+                "1919-07-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N46649",
+                "1920-08-19",
+                "-",
+                "50.0"
+              ],
+              [
+                "N134643",
+                "1956-03-26",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916038621154135,
@@ -8860,7 +13798,33 @@
         1110006392,
         null,
         "H5 HO SHEUNG HEUNG",
-        []
+        [
+          [
+            "DD95 2120",
+            "New Grant Lot",
+            "C5334885",
+            [
+              [
+                "N231272",
+                "1989-07-07",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "N249886",
+                "1990-05-23",
+                "CERTIFIED COPY CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "N249887",
+                "1990-11-14",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915893319935238,
@@ -8879,7 +13843,99 @@
         1110006409,
         null,
         "G11 TSUNG YUEN",
-        []
+        [
+          [
+            "TUL 6 S.A",
+            "Old Schedule Lot",
+            "C3614062",
+            [
+              [
+                "N27990",
+                "1914-11-14",
+                "-",
+                null
+              ],
+              [
+                "N100743",
+                "1937-09-16",
+                "-",
+                null
+              ],
+              [
+                "N147734",
+                "1962-07-20",
+                "-",
+                null
+              ],
+              [
+                "N195874",
+                "1979-04-24",
+                "STATUTORY DECLARATION OF HAU KIT LUN ALSO KNOWN AS HAU SHEK LUN",
+                null
+              ],
+              [
+                "N195875",
+                "1979-04-24",
+                "STATUTORY DECLARATION OF HAU MOON ALSO KNOWN AS HAU KAN MUN",
+                null
+              ],
+              [
+                "N195876",
+                "1979-04-24",
+                "STATUTORY DECLARATION OF HAU SUI LUN ALSO KNOWN AS HAU SHUI LUN",
+                null
+              ],
+              [
+                "10081000800033",
+                "2010-06-02",
+                "SEALED COPY OF THE CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "10081000800029",
+                "2010-06-07",
+                "SEALED COPY OF THE CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "19103100860023",
+                "2010-08-20",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "10102801550017",
+                "2010-08-20",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "10102801550022",
+                "2010-08-20",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "19103100860010",
+                "2010-08-20",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "25031900630025",
+                "2025-02-11",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "25031900630014",
+                "2025-02-17",
+                "SEALED COPY ORDER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991604202160898,
@@ -8898,7 +13954,21 @@
         1110006459,
         null,
         "G14 TSUNG YUEN",
-        []
+        [
+          [
+            "TAXLORD LOT 1487 S.A",
+            "Taxlord Lot [old]",
+            "C3613945",
+            [
+              [
+                "N176044",
+                "1973-10-10",
+                "-",
+                "1000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916024369565677,
@@ -8917,7 +13987,58 @@
         1110006468,
         null,
         "G8 TSUNG YUEN",
-        []
+        [
+          [
+            "TUL 3",
+            "Old Schedule Lot",
+            "C3614022",
+            [
+              [
+                "N25272",
+                "1913-11-28",
+                "MORTGAGE",
+                "100.0"
+              ],
+              [
+                "N66945",
+                "1927-04-20",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "TUL 4",
+            "Old Schedule Lot",
+            "C3614031",
+            [
+              [
+                "N172762",
+                "1972-11-21",
+                "-",
+                null
+              ],
+              [
+                "N231929",
+                "1989-08-22",
+                "POWER OF ATTORNEY BY HAU CHI TAK",
+                null
+              ],
+              [
+                "N231930",
+                "1989-09-08",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "N247716",
+                "1990-03-13",
+                "POWER OF ATTORNEY BY HAU CHI TAK",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991603601070852,
@@ -8936,7 +14057,21 @@
         1110006542,
         null,
         "H6 HO SHEUNG HEUNG",
-        []
+        [
+          [
+            "DD95 2128",
+            "New Grant Lot",
+            "C3612971",
+            [
+              [
+                "N329556",
+                "1995-06-16",
+                "TOLERATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915907851306398,
@@ -8955,7 +14090,69 @@
         1110006544,
         null,
         "H25 HO SHEUNG HEUNG",
-        []
+        [
+          [
+            "DD95 2222",
+            "New Grant Lot",
+            "C3613558",
+            [
+              [
+                "N429267",
+                "1996-03-21",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF DRAINAGE WORKS",
+                null
+              ],
+              [
+                "N429266",
+                "1996-03-21",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF BUILDING WORKS",
+                null
+              ],
+              [
+                "N429268",
+                "1996-03-21",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF SITE FORMATION WORKS",
+                null
+              ],
+              [
+                "N421587",
+                "1998-06-17",
+                "TOLERATION LETTER",
+                null
+              ],
+              [
+                "N427401",
+                "1998-09-10",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "N429269",
+                "1998-10-27",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "N429398",
+                "1998-11-24",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "1550000.0"
+              ],
+              [
+                "N429396",
+                "1998-11-24",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "1900000.0"
+              ],
+              [
+                "N429397",
+                "1998-11-24",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "1550000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915829547931803,
@@ -8974,7 +14171,57 @@
         1110006640,
         null,
         "G6 TSUNG YUEN",
-        []
+        [
+          [
+            "TUL 2",
+            "Old Schedule Lot",
+            "C6335600",
+            [
+              [
+                "N15087",
+                "1911-01-24",
+                "TRANSFER",
+                null
+              ],
+              [
+                "N103437",
+                "1938-07-22",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N103438",
+                "1938-07-22",
+                "TRANSFER",
+                null
+              ],
+              [
+                "N135355",
+                "1956-09-17",
+                "CANCELLATION OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "N197659",
+                "1979-11-22",
+                "CONVEYANCE ON SALE",
+                "3000.0"
+              ],
+              [
+                "12102400350016",
+                "2012-09-25",
+                "ASSIGNMENT",
+                "300000.0"
+              ],
+              [
+                "12101500030013",
+                "2012-09-25",
+                "MEMORANDUM FOR SALE AND PURCHASE",
+                "300000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991603252300807,
@@ -8993,7 +14240,39 @@
         1110006645,
         null,
         "G13 TSUNG YUEN",
-        []
+        [
+          [
+            "DD95 1923",
+            "New Grant Lot",
+            "C5667816",
+            [
+              [
+                "N147734",
+                "1962-07-20",
+                "-",
+                null
+              ],
+              [
+                "N195876",
+                "1979-04-24",
+                "STATUTORY DECLARATION OF HAU SUI LUN ALSO KNOWN AS HAU SHUI LUN",
+                null
+              ],
+              [
+                "N195874",
+                "1979-04-24",
+                "STATUTORY DECLARATION OF HAU KIT LUN ALSO KNOWN AS HAU SHEK LUN",
+                null
+              ],
+              [
+                "N195875",
+                "1979-04-24",
+                "STATUTORY DECLARATION OF HAU MOON ALSO KNOWN AS HAU KAN MUN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916045770383102,
@@ -9031,7 +14310,27 @@
         1110006668,
         null,
         "G22A TSUNG YUEN",
-        []
+        [
+          [
+            "TAXLORD LOT 1493 S.A",
+            "Taxlord Lot [old]",
+            "C6017243",
+            [
+              [
+                "18102300020028",
+                "2018-09-28",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "N217362",
+                "9999-12-31",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916070298253699,
@@ -9050,7 +14349,99 @@
         1110006696,
         null,
         "G12 TSUNG YUEN",
-        []
+        [
+          [
+            "TUL 6 S.A",
+            "Old Schedule Lot",
+            "C3614062",
+            [
+              [
+                "N27990",
+                "1914-11-14",
+                "-",
+                null
+              ],
+              [
+                "N100743",
+                "1937-09-16",
+                "-",
+                null
+              ],
+              [
+                "N147734",
+                "1962-07-20",
+                "-",
+                null
+              ],
+              [
+                "N195874",
+                "1979-04-24",
+                "STATUTORY DECLARATION OF HAU KIT LUN ALSO KNOWN AS HAU SHEK LUN",
+                null
+              ],
+              [
+                "N195875",
+                "1979-04-24",
+                "STATUTORY DECLARATION OF HAU MOON ALSO KNOWN AS HAU KAN MUN",
+                null
+              ],
+              [
+                "N195876",
+                "1979-04-24",
+                "STATUTORY DECLARATION OF HAU SUI LUN ALSO KNOWN AS HAU SHUI LUN",
+                null
+              ],
+              [
+                "10081000800033",
+                "2010-06-02",
+                "SEALED COPY OF THE CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "10081000800029",
+                "2010-06-07",
+                "SEALED COPY OF THE CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "19103100860023",
+                "2010-08-20",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "10102801550017",
+                "2010-08-20",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "10102801550022",
+                "2010-08-20",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "19103100860010",
+                "2010-08-20",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "25031900630025",
+                "2025-02-11",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "25031900630014",
+                "2025-02-17",
+                "SEALED COPY ORDER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916043811279058,
@@ -9069,7 +14460,33 @@
         1110006769,
         null,
         "G21 TSUNG YUEN",
-        []
+        [
+          [
+            "TUL 11",
+            "Old Schedule Lot",
+            "C3614111",
+            [
+              [
+                "N212464",
+                "1984-05-11",
+                "-",
+                "80000.0"
+              ],
+              [
+                "N287346",
+                "1993-05-04",
+                "MEMO AS TO ERROR OF MEM.NO.135759",
+                null
+              ],
+              [
+                "N405382",
+                "1997-09-25",
+                "ASSIGNMENT (DEED OF GIFT)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991606023328583,
@@ -9088,7 +14505,14 @@
         1110006775,
         null,
         "H27 HO SHEUNG HEUNG",
-        []
+        [
+          [
+            "DD95 2212",
+            "New Grant Lot",
+            "C3613491",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9915810593873147,
@@ -9107,7 +14531,21 @@
         1110006901,
         null,
         "G16 TSUNG YUEN",
-        []
+        [
+          [
+            "TUL 7 RP",
+            "Old Schedule Lot",
+            "C5101419",
+            [
+              [
+                "N215524",
+                "1985-02-08",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991603098964075,
@@ -9126,7 +14564,33 @@
         1110006991,
         null,
         "G18 TSUNG YUEN",
-        []
+        [
+          [
+            "TUL 9",
+            "Old Schedule Lot",
+            "C5334933",
+            [
+              [
+                "N212685",
+                "1984-06-13",
+                "-",
+                "50000.0"
+              ],
+              [
+                "N224097",
+                "1987-09-08",
+                "-",
+                null
+              ],
+              [
+                "N287346",
+                "1993-05-04",
+                "MEMO AS TO ERROR OF MEM.NO.135759",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916037928090708,
@@ -9145,7 +14609,58 @@
         1110007041,
         null,
         "G17 TSUNG YUEN",
-        []
+        [
+          [
+            "TUL 8",
+            "Old Schedule Lot",
+            "C3614108",
+            [
+              [
+                "N212464",
+                "1984-05-11",
+                "-",
+                "80000.0"
+              ],
+              [
+                "N228667",
+                "1988-11-03",
+                "-",
+                null
+              ],
+              [
+                "N287346",
+                "1993-05-04",
+                "MEMO AS TO ERROR OF MEM.NO.135759",
+                null
+              ]
+            ]
+          ],
+          [
+            "TUL 9",
+            "Old Schedule Lot",
+            "C5334933",
+            [
+              [
+                "N212685",
+                "1984-06-13",
+                "-",
+                "50000.0"
+              ],
+              [
+                "N224097",
+                "1987-09-08",
+                "-",
+                null
+              ],
+              [
+                "N287346",
+                "1993-05-04",
+                "MEMO AS TO ERROR OF MEM.NO.135759",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916034574742432,
@@ -9164,7 +14679,21 @@
         1110007065,
         null,
         "H26 HO SHEUNG HEUNG",
-        []
+        [
+          [
+            "DD95 2217",
+            "New Grant Lot",
+            "C3613522",
+            [
+              [
+                "N426190",
+                "1998-09-17",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915818784069956,
@@ -9183,7 +14712,21 @@
         1110007088,
         null,
         "G19 TSUNG YUEN",
-        []
+        [
+          [
+            "TAXLORD LOT 1491 RP",
+            "Taxlord Lot [old]",
+            "C5417832",
+            [
+              [
+                "N212686",
+                "1984-06-13",
+                "-",
+                "80000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991601055139,
@@ -9202,7 +14745,105 @@
         1110007112,
         null,
         "H24 HO SHEUNG HEUNG",
-        []
+        [
+          [
+            "DD95 2216",
+            "New Grant Lot",
+            "C5101339",
+            [
+              [
+                "13083001110081",
+                "2013-04-11",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "13121301970078",
+                "2013-11-18",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "18120400640035",
+                "2013-11-18",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "18102302210021",
+                "2018-09-19",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "19050601960046",
+                "2019-04-01",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "24011501720120",
+                "2019-04-01",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "21091501030022",
+                "2021-07-23",
+                "ORDER NO. \"VVS/B74/100070/21/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23010401120065",
+                "2022-11-03",
+                "LETTER OF WITHDRAWAL (ORDER NO. \"VVS/B74/100070/21/NT\")",
+                null
+              ],
+              [
+                "23102601220104",
+                "2022-12-20",
+                "A SEALED COPY OF AMENDED CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "23041802110013",
+                "2023-02-21",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "23091401940031",
+                "2023-06-26",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "24022101510030",
+                "2024-01-05",
+                "A SEALED COPY OF ORDER",
+                null
+              ],
+              [
+                "25060501830042",
+                "2025-04-28",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "25081501260144",
+                "2025-07-28",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "25102301750319",
+                "2025-09-17",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915837725527268,
@@ -9221,7 +14862,39 @@
         1110007115,
         null,
         "H7A HO SHEUNG HEUNG",
-        []
+        [
+          [
+            "DD95 1401 S.A SS.1",
+            "Old Schedule Lot",
+            "C6665905",
+            [
+              [
+                "N259130",
+                "1991-06-20",
+                "-",
+                null
+              ],
+              [
+                "N313546",
+                "1993-12-09",
+                "POWER OF ATTORNEY BY HAU CHI TAK",
+                null
+              ],
+              [
+                "N312588",
+                "1994-04-13",
+                "LICENCE NO.45/93",
+                null
+              ],
+              [
+                "N494755",
+                "1995-02-17",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915925432694874,
@@ -9240,7 +14913,27 @@
         1110007206,
         null,
         "G7 TSUNG YUEN",
-        []
+        [
+          [
+            "TUL 3",
+            "Old Schedule Lot",
+            "C3614022",
+            [
+              [
+                "N25272",
+                "1913-11-28",
+                "MORTGAGE",
+                "100.0"
+              ],
+              [
+                "N66945",
+                "1927-04-20",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991603429415046,
@@ -9259,7 +14952,27 @@
         1110007209,
         null,
         "G15 TSUNG YUEN",
-        []
+        [
+          [
+            "TUL 7 S.A",
+            "Old Schedule Lot",
+            "C3614090",
+            [
+              [
+                "N215524",
+                "1985-02-08",
+                "-",
+                null
+              ],
+              [
+                "N292126",
+                "1993-08-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916029450806776,
@@ -9278,7 +14991,39 @@
         1110007223,
         null,
         "G10 TSUNG YUEN",
-        []
+        [
+          [
+            "TUL 6 S.B",
+            "Old Schedule Lot",
+            "C3614078",
+            [
+              [
+                "N27990",
+                "1914-11-14",
+                "-",
+                null
+              ],
+              [
+                "N100743",
+                "1937-09-16",
+                "-",
+                null
+              ],
+              [
+                "N195361",
+                "1979-05-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N234380",
+                "1990-01-15",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916040385869687,
@@ -9620,7 +15365,105 @@
         1810066216,
         null,
         "11 LIU POK 5TH LANE",
-        []
+        [
+          [
+            "LPL 64",
+            "Old Schedule Lot",
+            "C6732669",
+            [
+              [
+                "N78758",
+                "1931-02-25",
+                "MORTGAGE",
+                "120.0"
+              ],
+              [
+                "N79180",
+                "1931-03-28",
+                "MORTGAGE",
+                "240.0"
+              ],
+              [
+                "N79179",
+                "1931-03-28",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N91121",
+                "1934-12-28",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N194624",
+                "1979-04-19",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "14120500610087",
+                "2014-11-08",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "100000.0"
+              ],
+              [
+                "14120500610097",
+                "2014-11-11",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "441300.0"
+              ],
+              [
+                "15011900500030",
+                "2014-12-22",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "848700.0"
+              ],
+              [
+                "15021600520306",
+                "2015-02-05",
+                "ASSIGNMENT",
+                "441300.0"
+              ],
+              [
+                "15051500620294",
+                "2015-04-23",
+                "ASSIGNMENT",
+                "848700.0"
+              ],
+              [
+                "15051100720017",
+                "2015-05-07",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "17061200730181",
+                "2017-05-25",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "19092600570015",
+                "2019-08-22",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "800000.0"
+              ],
+              [
+                "19110600570383",
+                "2019-10-17",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "20020401240119",
+                "2020-01-18",
+                "ASSIGNMENT",
+                "800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915033143538083,
@@ -9639,7 +15482,14 @@
         1810068862,
         null,
         null,
-        []
+        [
+          [
+            "DD89 363",
+            "Old Schedule Lot",
+            "C3515156",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.991637755993288,
@@ -9658,7 +15508,14 @@
         1810089934,
         null,
         "95 LIU POK",
-        []
+        [
+          [
+            "DD93 3850",
+            "New Grant Lot",
+            "D2318303",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9915290789155216,
@@ -9696,7 +15553,39 @@
         1810094919,
         null,
         "1 LIU POK 4TH LANE",
-        []
+        [
+          [
+            "LPL 43",
+            "Old Schedule Lot",
+            "C6732650",
+            [
+              [
+                "N112244",
+                "1941-05-20",
+                "-",
+                null
+              ],
+              [
+                "N195583",
+                "1979-06-11",
+                "-",
+                null
+              ],
+              [
+                "22041101060016",
+                "2022-04-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1450000.0"
+              ],
+              [
+                "22051901100012",
+                "2022-05-12",
+                "ASSIGNMENT",
+                "1450000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915095958262956,
@@ -9753,7 +15642,39 @@
         1810106842,
         null,
         null,
-        []
+        [
+          [
+            "DD96 816 RP",
+            "Old Schedule Lot",
+            "C3003345",
+            [
+              [
+                "YL143361",
+                "1960-11-23",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "YL238611",
+                "1980-10-20",
+                "APPOINTMENT OF MANAGERSHIP",
+                null
+              ],
+              [
+                "06022800490054",
+                "2005-01-31",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGERS",
+                null
+              ],
+              [
+                "06022800490069",
+                "2005-12-16",
+                "APPROVAL OF APPOINTMENT OF MANAGERS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914069530711338,
@@ -9810,7 +15731,14 @@
         1810107824,
         null,
         null,
-        []
+        [
+          [
+            "DD96 1189",
+            "Old Schedule Lot",
+            "C3004955",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9914049017656583,
@@ -9981,7 +15909,63 @@
         1910214168,
         null,
         "12 LIU POK 4TH LANE",
-        []
+        [
+          [
+            "LPL 52",
+            "Old Schedule Lot",
+            "C3589091",
+            [
+              [
+                "N59487",
+                "1924-05-09",
+                "-",
+                null
+              ],
+              [
+                "N77210",
+                "1930-09-19",
+                "-",
+                null
+              ],
+              [
+                "N230215",
+                "1988-03-21",
+                "GENERAL POWER OF ATTORNEY BY FUNG KAM WAI",
+                null
+              ],
+              [
+                "N230214",
+                "1988-03-21",
+                "GENERAL POWER OF ATTORNEY BY FUNG SHU TAM",
+                null
+              ],
+              [
+                "N230283",
+                "1989-03-03",
+                "STATUTORY DECLARATION OF FUNG MI FAT ALIAS FUNG MEI FAT",
+                null
+              ],
+              [
+                "N230282",
+                "1989-04-13",
+                "STATUTORY DECLARATION OF FUNG LIN SHING SERENA",
+                null
+              ],
+              [
+                "N230284",
+                "1989-04-13",
+                "-",
+                null
+              ],
+              [
+                "18011500900064",
+                "2017-12-28",
+                "DEED OF PARTITION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915027091944313,
@@ -10000,7 +15984,27 @@
         1910214169,
         null,
         "11 LIU POK 4TH LANE",
-        []
+        [
+          [
+            "LPL 51",
+            "Old Schedule Lot",
+            "C3589083",
+            [
+              [
+                "N198921",
+                "1980-06-16",
+                "CONVEYANCE ON SALE",
+                null
+              ],
+              [
+                "N207860",
+                "1983-02-28",
+                "-",
+                "10000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915032376924446,
@@ -10019,7 +16023,76 @@
         1910214208,
         null,
         "8 LIU POK 9TH LANE",
-        []
+        [
+          [
+            "LPL 106",
+            "Old Schedule Lot",
+            "C3589389",
+            [
+              [
+                "N27596",
+                "1914-07-17",
+                "-",
+                null
+              ],
+              [
+                "N106186",
+                "1939-06-14",
+                "-",
+                null
+              ],
+              [
+                "N202694",
+                "1981-10-08",
+                "STATUTORY DECLARATION BY FUNG KIT TSAN ALIAS FUNG KIT CHAN",
+                null
+              ],
+              [
+                "N329002",
+                "1995-05-27",
+                "STATUTORY DECLARATION OF FUNG KIT TSAN ALIAS FUNG KIT CHAN",
+                null
+              ],
+              [
+                "17012400250025",
+                "2016-12-08",
+                "ASSIGNMENT",
+                "530000.0"
+              ],
+              [
+                "17012400250012",
+                "2016-12-08",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "530000.0"
+              ]
+            ]
+          ],
+          [
+            "LPL 107",
+            "Old Schedule Lot",
+            "C6674690",
+            [
+              [
+                "N27596",
+                "1914-07-17",
+                "-",
+                null
+              ],
+              [
+                "N139428",
+                "1959-04-29",
+                "-",
+                null
+              ],
+              [
+                "N250484",
+                "1990-12-27",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915084563446843,
@@ -10057,7 +16130,33 @@
         1910260210,
         null,
         null,
-        []
+        [
+          [
+            "LPL 23",
+            "Old Schedule Lot",
+            "C5666112",
+            [
+              [
+                "N385303",
+                "1996-08-21",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N386431",
+                "1997-03-07",
+                "ASSENT",
+                null
+              ],
+              [
+                "N388049",
+                "1997-04-03",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915009633761094,
@@ -10076,7 +16175,94 @@
         1910263455,
         null,
         null,
-        []
+        [
+          [
+            "DD96 1201",
+            "Old Schedule Lot",
+            "C3005011",
+            [
+              [
+                "YL70144",
+                "1928-04-16",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD96 1203",
+            "Old Schedule Lot",
+            "C3005034",
+            [
+              [
+                "YL43699",
+                "1919-12-22",
+                "-",
+                "8.0"
+              ],
+              [
+                "YL111592",
+                "1941-02-18",
+                "-",
+                null
+              ],
+              [
+                "YL747158",
+                "1997-04-19",
+                "APPROVAL LETTER OF SUCCESSION UNDER S.17 & 12 OF THE N.T. (EXEMPTION)",
+                null
+              ],
+              [
+                "YL925838",
+                "2000-07-08",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "17041202060028",
+                "2017-03-15",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "731808.0"
+              ],
+              [
+                "17051901380033",
+                "2017-04-28",
+                "ASSIGNMENT",
+                "731808.0"
+              ],
+              [
+                "18060501900018",
+                "2018-05-02",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "180338.0"
+              ],
+              [
+                "18062700910048",
+                "2018-06-01",
+                "ASSIGNMENT",
+                "180338.0"
+              ],
+              [
+                "23091400010068",
+                "2023-03-09",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "23091400010074",
+                "2023-07-31",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "23091400010080",
+                "2023-07-31",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914194634840867,
@@ -10095,7 +16281,14 @@
         1910266093,
         null,
         null,
-        []
+        [
+          [
+            "DD95 2215",
+            "New Grant Lot",
+            "C3613514",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9915836889450778,

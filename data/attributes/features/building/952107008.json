@@ -6,7 +6,63 @@
         1103043203,
         null,
         "149 TAI PENG",
-        []
+        [
+          [
+            "DD2 LIL 100 S.B",
+            "Old Schedule Lot",
+            "C4029511",
+            [
+              [
+                "IS70023",
+                "1960-01-19",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "IS107254",
+                "1981-07-15",
+                "ASSIGNMENT (REMOVAL OF TRUSTEE)",
+                null
+              ],
+              [
+                "IS206110",
+                "1993-10-28",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "IS262151",
+                "1998-03-07",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "IS279830",
+                "2000-01-21",
+                "BUILDING LICENCE NO.1112 WITH PLAN",
+                null
+              ],
+              [
+                "12112601040018",
+                "2012-09-28",
+                "CONSENT LETTER (GRANT OF WAYLEAVE)",
+                null
+              ],
+              [
+                "16090900620021",
+                "2016-08-10",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "18080301700039",
+                "2017-11-23",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917178410202503,
@@ -101,7 +157,39 @@
         1103056398,
         null,
         null,
-        []
+        [
+          [
+            "DD2 LIL 101 RP",
+            "Old Schedule Lot",
+            "C4029532",
+            [
+              [
+                "IS70023",
+                "1960-01-19",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "IS107254",
+                "1981-07-15",
+                "ASSIGNMENT (REMOVAL OF TRUSTEE)",
+                null
+              ],
+              [
+                "IS206110",
+                "1993-10-28",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "21060301640016",
+                "2021-05-21",
+                "ASSIGNMENT",
+                "100000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917296747056958,
@@ -139,7 +227,69 @@
         1103056471,
         null,
         "73 TAI PENG",
-        []
+        [
+          [
+            "DD2 LIL 100 RP",
+            "Old Schedule Lot",
+            "C4029505",
+            [
+              [
+                "IS70023",
+                "1960-01-19",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "IS107254",
+                "1981-07-15",
+                "ASSIGNMENT (REMOVAL OF TRUSTEE)",
+                null
+              ],
+              [
+                "IS206110",
+                "1993-10-28",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "IS261949",
+                "1998-03-07",
+                "DEED POLL WITH PLAN RE SEC. B & R.P.",
+                null
+              ],
+              [
+                "12090401170044",
+                "2012-08-10",
+                "PROBATE",
+                null
+              ],
+              [
+                "12090401170051",
+                "2012-09-01",
+                "ASSENT",
+                null
+              ],
+              [
+                "12112601040018",
+                "2012-09-28",
+                "CONSENT LETTER (GRANT OF WAYLEAVE)",
+                null
+              ],
+              [
+                "17060900280021",
+                "2017-06-02",
+                "DEED POLL WITH PLAN",
+                null
+              ],
+              [
+                "25020401770013",
+                "2025-01-27",
+                "ASSIGNMENT",
+                "10000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917188144693228,
@@ -177,7 +327,51 @@
         1109176563,
         null,
         "40 LO TIK WAN",
-        []
+        [
+          [
+            "DD4 LIL 341",
+            "New Grant Lot",
+            "C6384979",
+            [
+              [
+                "IS93696",
+                "1978-02-17",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS95541",
+                "1978-09-07",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS103418",
+                "1980-12-15",
+                "REVOCATION OF POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS114033",
+                "1983-02-21",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                "100000.0"
+              ],
+              [
+                "IS127035",
+                "1986-02-04",
+                "-",
+                null
+              ],
+              [
+                "IS127036",
+                "1986-07-01",
+                "RELEASE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991845017839397,
@@ -196,7 +390,21 @@
         1109176617,
         null,
         "38 LO TIK WAN",
-        []
+        [
+          [
+            "DD4 LIL 401",
+            "New Grant Lot",
+            "C4240562",
+            [
+              [
+                "IS111401",
+                "1982-08-08",
+                "POWER OF ATTORNEY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918474872509664,
@@ -215,7 +423,27 @@
         1109176673,
         null,
         "5 LUK CHAU VILLAGE",
-        []
+        [
+          [
+            "DD5 LIL 194",
+            "New Grant Lot",
+            "C4248471",
+            [
+              [
+                "IS266704",
+                "1998-11-30",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "15100801320014",
+                "2015-09-07",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991961920054833,
@@ -234,7 +462,33 @@
         1109176699,
         null,
         "19 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 367",
+            "New Grant Lot",
+            "C5717809",
+            [
+              [
+                "IS89914",
+                "1976-05-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS90895",
+                "1976-09-17",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS96249",
+                "1978-12-20",
+                "POWER OF ATTORNEY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917549999611854,
@@ -253,7 +507,27 @@
         1109176805,
         null,
         "2 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 381",
+            "New Grant Lot",
+            "C4240498",
+            [
+              [
+                "IS94862",
+                "1978-08-04",
+                "POWER OF ATTORNEY BY CHAN WAI CHEONG",
+                null
+              ],
+              [
+                "IS108688",
+                "1981-12-02",
+                "DEED OF REVOCATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917621869034134,
@@ -291,7 +565,33 @@
         1109176837,
         null,
         "17 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 344",
+            "New Grant Lot",
+            "C4240272",
+            [
+              [
+                "IS89651",
+                "1976-03-15",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS94352",
+                "1978-05-18",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS94934",
+                "1978-08-03",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917657245104408,
@@ -310,7 +610,51 @@
         1109176984,
         null,
         "23 LO TIK WAN",
-        []
+        [
+          [
+            "DD4 LIL 330 &EXT THERETO",
+            "New Grant Lot",
+            "C5433516",
+            [
+              [
+                "IS82505",
+                "1969-02-26",
+                "EXTENSION LETTER BY THE DISTRICT OFFICER, SOUTH",
+                null
+              ],
+              [
+                "IS108310",
+                "1980-11-14",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS107941",
+                "1981-09-12",
+                "-",
+                null
+              ],
+              [
+                "IS107940",
+                "1981-09-12",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "IS271161",
+                "1998-09-28",
+                "STATUTORY DECLARATION BY KWOK TIM HO AS TO LOSS OF TITLE DEEDS",
+                null
+              ],
+              [
+                "IS271160",
+                "1998-09-28",
+                "STATUTORY DECLARATION OF NG KAM WAH, NG KAM TONG AND NG KAM WING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918612691682676,
@@ -348,7 +692,51 @@
         1109177065,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 12",
+            "Old Schedule Lot",
+            "C4247293",
+            [
+              [
+                "IS74086",
+                "1962-04-16",
+                "-",
+                null
+              ],
+              [
+                "IS74252",
+                "1962-05-26",
+                "-",
+                "4800.0"
+              ],
+              [
+                "IS116406",
+                "1983-09-13",
+                "DECLARATION OF LOSS BY CHAN NAM",
+                null
+              ],
+              [
+                "IS305641",
+                "2002-07-04",
+                "CERTIFIED TRUE COPY OF THE NOTICE OF APPLICATION FOR ANCILLARY RELIEF",
+                null
+              ],
+              [
+                "IS312352",
+                "2002-11-27",
+                "SEALED COPY OF ORDER",
+                null
+              ],
+              [
+                "11122001840039",
+                "2007-10-24",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992024996098087,
@@ -386,7 +774,87 @@
         1109177296,
         null,
         "37 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 368 &EXT THERETO",
+            "New Grant Lot",
+            "C5717811",
+            [
+              [
+                "IS101722",
+                "1980-06-27",
+                "MORTGAGE RE DD4 LAMMA ISLAND LOT NO.368",
+                "150000.0"
+              ],
+              [
+                "IS111769",
+                "1982-10-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "200000.0"
+              ],
+              [
+                "IS133958",
+                "1987-06-23",
+                "RELEASE",
+                null
+              ],
+              [
+                "IS240960",
+                "1997-01-22",
+                "ASSIGNMENT",
+                "700000.0"
+              ],
+              [
+                "IS263118",
+                "1998-03-24",
+                "CERTIFICATE OF EXEMPTION FROM ESTATE DUTY",
+                null
+              ],
+              [
+                "IS263117",
+                "1998-04-19",
+                "CERTIFIED COPY OF DEATH CERTIFICATE OF NG, AH HING \"DECEASED\"",
+                null
+              ],
+              [
+                "11103100350116",
+                "2011-10-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "5400000.0"
+              ],
+              [
+                "12031500220037",
+                "2012-03-02",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12042300940013",
+                "2012-03-28",
+                "ASSIGNMENT",
+                "5400000.0"
+              ],
+              [
+                "12040500230129",
+                "2012-03-28",
+                "CONFIRMATORY ASSIGNMENT",
+                null
+              ],
+              [
+                "12042300940029",
+                "2012-03-28",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "25103100490013",
+                "2025-09-02",
+                "CERTIFIED COPY OF CERTIFICATE OF AMALGAMATION",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917851368719315,
@@ -405,7 +873,27 @@
         1109177392,
         null,
         "9 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 346",
+            "New Grant Lot",
+            "C4240283",
+            [
+              [
+                "IS90896",
+                "1976-08-17",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS97252",
+                "1979-04-27",
+                "POWER OF ATTORNEY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917627384006913,
@@ -462,7 +950,39 @@
         1109177515,
         null,
         "13 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 348",
+            "New Grant Lot",
+            "C4240300",
+            [
+              [
+                "IS89927",
+                "1976-05-12",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS95679",
+                "1978-01-24",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS94479",
+                "1978-06-12",
+                "DEED OF REVOCATION",
+                null
+              ],
+              [
+                "IS107742",
+                "1981-09-03",
+                "LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917566285273511,
@@ -481,7 +1001,147 @@
         1109177552,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 215",
+            "New Grant Lot",
+            "C4248613",
+            [
+              [
+                "IS225058",
+                "1980-12-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS103777",
+                "1981-01-05",
+                "-",
+                "350000.0"
+              ],
+              [
+                "IS106766",
+                "1981-05-18",
+                "FURTHER CHARGE AND MORTGAGE",
+                "1800000.0"
+              ],
+              [
+                "IS113085",
+                "1983-01-24",
+                "FURTHER CHARGE AND DEED OF VARIATION INCORPORATING MORTGAGE",
+                null
+              ],
+              [
+                "IS138689",
+                "1988-01-29",
+                "RELEASE",
+                null
+              ],
+              [
+                "IS225532",
+                "1995-11-13",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2200000.0"
+              ],
+              [
+                "IS225807",
+                "1995-11-25",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "IS225806",
+                "1995-11-25",
+                "ASSIGNMENT",
+                "2200000.0"
+              ],
+              [
+                "IS238391",
+                "1996-12-15",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2500000.0"
+              ],
+              [
+                "IS242048",
+                "1997-02-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS242049",
+                "1997-02-28",
+                "ASSIGNMENT",
+                "2500000.0"
+              ],
+              [
+                "IS242050",
+                "1997-02-28",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "IS271074",
+                "1999-03-26",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2500000.0"
+              ],
+              [
+                "IS271351",
+                "1999-04-15",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS271352",
+                "1999-04-15",
+                "ASSIGNMENT",
+                "2500000.0"
+              ],
+              [
+                "IS271353",
+                "1999-04-15",
+                "LEGAL CHARGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "05090301100011",
+                "2005-08-12",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "05090301100026",
+                "2005-08-23",
+                "MEMORANDUM OF  AGREEMENT FOR SALE AND PURCHASE",
+                "1500000.0"
+              ],
+              [
+                "05090800730015",
+                "2005-08-23",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "19010400930048",
+                "2018-12-06",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "14000000.0"
+              ],
+              [
+                "19031100740017",
+                "2019-02-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "14000000.0"
+              ],
+              [
+                "19031100740025",
+                "2019-02-21",
+                "ASSIGNMENT",
+                "14000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9919771939904154,
@@ -538,7 +1198,27 @@
         1109177634,
         null,
         "10 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 374",
+            "New Grant Lot",
+            "C4240443",
+            [
+              [
+                "IS94543",
+                "1978-05-29",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS102765",
+                "1980-10-10",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917649864796338,
@@ -576,7 +1256,21 @@
         1109177690,
         null,
         null,
-        []
+        [
+          [
+            "DD4 LIL 359",
+            "New Grant Lot",
+            "C4240388",
+            [
+              [
+                "IS97056",
+                "1979-04-11",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918560948655988,
@@ -614,7 +1308,63 @@
         1109177828,
         null,
         "27 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 319 RP",
+            "New Grant Lot",
+            "C6075717",
+            [
+              [
+                "IS79336",
+                "1965-07-14",
+                "MEMORANDUM OF AGREEMENT (RESITE) RE DD4 LAMMA ISLAND LOT NO.319",
+                null
+              ],
+              [
+                "IS96773",
+                "1979-03-12",
+                "-",
+                "260000.0"
+              ],
+              [
+                "IS96790",
+                "1979-03-13",
+                "AGREEMENT",
+                null
+              ],
+              [
+                "IS102091",
+                "1980-07-10",
+                "EQUITABLE CHARGE BY CHEUNG CHIN HON & COMPANY LIMITED",
+                null
+              ],
+              [
+                "IS105747",
+                "1981-02-03",
+                "DEED OF RELEASE",
+                null
+              ],
+              [
+                "IS105748",
+                "1981-02-04",
+                "VARIATION AGREEMENT",
+                "1330100.0"
+              ],
+              [
+                "IS105749",
+                "1981-02-09",
+                "DEED POLL RE S.B, S.C AND R.P.",
+                null
+              ],
+              [
+                "IS218485",
+                "1994-12-30",
+                "GOVERNMENT NOTICE NO.5022 OF 1994 PURSUANT TO SECTION 22(1)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917609831272487,
@@ -652,7 +1402,45 @@
         1109177946,
         null,
         "24 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 319 S.A",
+            "New Grant Lot",
+            "C5717758",
+            [
+              [
+                "IS79336",
+                "1965-07-14",
+                "MEMORANDUM OF AGREEMENT (RESITE) RE DD4 LAMMA ISLAND LOT NO.319",
+                null
+              ],
+              [
+                "IS82944",
+                "1969-08-08",
+                "-",
+                "19066.0"
+              ],
+              [
+                "IS82945",
+                "1969-08-08",
+                "DEED OF COVENANT",
+                null
+              ],
+              [
+                "IS102305",
+                "1980-09-09",
+                "JOINT VENTURE AGREEMENT",
+                null
+              ],
+              [
+                "IS107326",
+                "1981-06-26",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991765745547456,
@@ -671,7 +1459,27 @@
         1109178122,
         null,
         "12 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 378",
+            "New Grant Lot",
+            "C4240460",
+            [
+              [
+                "IS103315",
+                "1977-12-30",
+                "POWER OF ATTORNEY BY CHEN SUI YUNG",
+                null
+              ],
+              [
+                "IS103316",
+                "1980-10-10",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917544886048966,
@@ -690,7 +1498,33 @@
         1109178264,
         null,
         "8 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 345",
+            "New Grant Lot",
+            "C6075724",
+            [
+              [
+                "IS89928",
+                "1976-05-12",
+                "POWER OF ATTORNEY FROM 12-5-76 TO 11-5-79",
+                null
+              ],
+              [
+                "IS90894",
+                "1976-08-17",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS94480",
+                "1978-06-12",
+                "DEED OF REVOCATION OF POWER OF ATTORNEY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99176055934729,
@@ -728,7 +1562,33 @@
         1109178479,
         null,
         "36 LO TIK WAN",
-        []
+        [
+          [
+            "DD4 LIL 322",
+            "New Grant Lot",
+            "C4240171",
+            [
+              [
+                "14072100410026",
+                "2014-03-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "14081800380030",
+                "2014-08-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "25081301270084",
+                "2024-07-31",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918508895327849,
@@ -747,7 +1607,39 @@
         1109178483,
         null,
         "16 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 349",
+            "New Grant Lot",
+            "C4240310",
+            [
+              [
+                "IS89634",
+                "1976-03-15",
+                "-",
+                "70000.0"
+              ],
+              [
+                "IS123000",
+                "1985-10-28",
+                "RECTIFICATION AGREEMENT",
+                null
+              ],
+              [
+                "09052001800032",
+                "2009-04-20",
+                "PROBATE",
+                null
+              ],
+              [
+                "24012500630017",
+                "2022-07-12",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917634847329453,
@@ -785,7 +1677,57 @@
         1109178696,
         null,
         "30 LO TIK WAN",
-        []
+        [
+          [
+            "DD4 LIL 329",
+            "New Grant Lot",
+            "C6384960",
+            [
+              [
+                "IS313789",
+                "1969-10-02",
+                "COPY CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS312960",
+                "2002-07-15",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS313790",
+                "2003-02-12",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "IS313787",
+                "2003-02-12",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "24022800220052",
+                "2024-01-08",
+                "PROBATE",
+                null
+              ],
+              [
+                "24052700680038",
+                "2024-05-02",
+                "ASSENT",
+                null
+              ],
+              [
+                "25070900700093",
+                "2025-06-26",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918600159211013,
@@ -804,7 +1746,45 @@
         1109178725,
         null,
         null,
-        []
+        [
+          [
+            "DD4 LIL 363",
+            "New Grant Lot",
+            "C4240403",
+            [
+              [
+                "IS94275",
+                "1978-05-11",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS97668",
+                "1979-06-11",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS100623",
+                "1980-04-01",
+                "DEED OF REVOCATION",
+                null
+              ],
+              [
+                "IS100624",
+                "1980-04-01",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS110176",
+                "1982-03-25",
+                "LETTER BETWEEN DISTRICT OFFICER, ISLANDS AND TAM SHAU YING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991853388826894,
@@ -861,7 +1841,21 @@
         1109178921,
         null,
         "38 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 389",
+            "New Grant Lot",
+            "C5350012",
+            [
+              [
+                "IS205311",
+                "1993-09-07",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917816157197599,
@@ -880,7 +1874,33 @@
         1109178962,
         null,
         "21 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 379",
+            "New Grant Lot",
+            "C4240479",
+            [
+              [
+                "IS125213",
+                "1978-10-23",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS96985",
+                "1979-04-07",
+                "POWER OF ATTORNEY BY CHAN CHUK WAI",
+                null
+              ],
+              [
+                "IS100094",
+                "1979-11-26",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991759762269756,
@@ -899,7 +1919,93 @@
         1109179060,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 220",
+            "New Grant Lot",
+            "C4248636",
+            [
+              [
+                "IS126847",
+                "1986-06-25",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "IS147224",
+                "1988-12-01",
+                "DISCHARGE",
+                null
+              ],
+              [
+                "IS153303",
+                "1989-05-27",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1200000.0"
+              ],
+              [
+                "IS154415",
+                "1989-07-27",
+                "NOMINATION BY ROLAND PAUL MARCZ",
+                null
+              ],
+              [
+                "IS154416",
+                "1989-07-28",
+                "-",
+                "1200000.0"
+              ],
+              [
+                "IS154417",
+                "1989-07-28",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                "1440000.0"
+              ],
+              [
+                "IS154418",
+                "1989-07-28",
+                "OPTION AGREEMENT",
+                null
+              ],
+              [
+                "IS200877",
+                "1993-05-14",
+                "FURTHER CHARGE",
+                "1440000.0"
+              ],
+              [
+                "IS262674",
+                "1998-03-28",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "10500000.0"
+              ],
+              [
+                "IS263240",
+                "1998-04-28",
+                "ASSIGNMENT",
+                "10500000.0"
+              ],
+              [
+                "IS263239",
+                "1998-04-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "07080300310078",
+                "2007-07-06",
+                "WAIVER LETTER (STW NO. CX1547) WITH PLAN",
+                null
+              ],
+              [
+                "21090201890025",
+                "2021-08-18",
+                "LEGAL CHARGE/MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9919915810418056,
@@ -918,7 +2024,117 @@
         1109179138,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 202",
+            "Old Schedule Lot",
+            "C4248523",
+            [
+              [
+                "IS76060",
+                "1963-08-15",
+                "POWER OF ATTORNEY BY YIU MING",
+                null
+              ],
+              [
+                "IS87504",
+                "1974-07-29",
+                "-",
+                "20000.0"
+              ],
+              [
+                "IS119697",
+                "1984-12-19",
+                "RECTIFICATION AGREEMENT",
+                null
+              ],
+              [
+                "IS120015",
+                "1985-01-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "650000.0"
+              ],
+              [
+                "IS120708",
+                "1985-03-29",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "IS120707",
+                "1985-03-29",
+                "-",
+                "650000.0"
+              ],
+              [
+                "IS153302",
+                "1989-05-27",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "800000.0"
+              ],
+              [
+                "IS154413",
+                "1989-07-27",
+                "NOMINATION BY ROLAND PAUL MARCZ",
+                null
+              ],
+              [
+                "IS154417",
+                "1989-07-28",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                "1440000.0"
+              ],
+              [
+                "IS154414",
+                "1989-07-28",
+                "-",
+                "800000.0"
+              ],
+              [
+                "IS154418",
+                "1989-07-28",
+                "OPTION AGREEMENT",
+                null
+              ],
+              [
+                "IS154412",
+                "1989-07-28",
+                "RELEASE",
+                null
+              ],
+              [
+                "IS200877",
+                "1993-05-14",
+                "FURTHER CHARGE",
+                "1440000.0"
+              ],
+              [
+                "IS262674",
+                "1998-03-28",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "10500000.0"
+              ],
+              [
+                "IS263239",
+                "1998-04-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS263240",
+                "1998-04-28",
+                "ASSIGNMENT",
+                "10500000.0"
+              ],
+              [
+                "21090201890025",
+                "2021-08-18",
+                "LEGAL CHARGE/MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9919906511839789,
@@ -937,7 +2153,141 @@
         1109179180,
         null,
         "33 LO TIK WAN",
-        []
+        [
+          [
+            "DD4 LIL 328",
+            "New Grant Lot",
+            "C6384953",
+            [
+              [
+                "IS82703",
+                "1969-05-28",
+                "MEMORANDUM OF AGREEMENT (RE-SITE) BY THE DISTRICT OFFICER, SOUTH",
+                null
+              ],
+              [
+                "IS85944",
+                "1973-01-30",
+                "-",
+                null
+              ],
+              [
+                "IS208918",
+                "1994-02-15",
+                "-",
+                "230000.0"
+              ],
+              [
+                "12041701860020",
+                "2012-03-31",
+                "ASSIGNMENT",
+                "1290000.0"
+              ],
+              [
+                "12041701860033",
+                "2012-03-31",
+                "LEGAL CHARGE",
+                "1240000.0"
+              ],
+              [
+                "13101001340037",
+                "2013-10-04",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "13101001340048",
+                "2013-10-04",
+                "FIRST LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "14101700610032",
+                "2014-09-24",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "14122301070016",
+                "2014-11-12",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "19101501070171",
+                "2014-11-12",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "15050801750010",
+                "2015-05-04",
+                "SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "15061000210057",
+                "2015-06-02",
+                "SEALED COPY OF AMENDED CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "20082601360102",
+                "2020-08-13",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4000000.0"
+              ],
+              [
+                "20102001100102",
+                "2020-09-23",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "20102001100116",
+                "2020-09-23",
+                "ASSIGNMENT",
+                "4000000.0"
+              ],
+              [
+                "20102702200016",
+                "2020-09-24",
+                "A SATISFACTION CERTIFICATE",
+                null
+              ],
+              [
+                "20112600530045",
+                "2020-10-07",
+                "SEALED COPY OF ORDER",
+                null
+              ],
+              [
+                "23062801610014",
+                "2023-05-19",
+                "NOTICE OF CHARGE LAID UNDER HOTEL AND GUESTHOUSE ACCOMMODATION ORDINCANCE (CAP. 349) SECTION 5B(1)",
+                null
+              ],
+              [
+                "23080900650017",
+                "2023-06-13",
+                "NOTICE OF CONVICTION*",
+                null
+              ],
+              [
+                "25032101530065",
+                "2025-03-10",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8200000.0"
+              ],
+              [
+                "25050901600026",
+                "2025-04-17",
+                "ASSIGNMENT",
+                "8200000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918588129758183,
@@ -956,7 +2306,58 @@
         1109179474,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 205",
+            "New Grant Lot",
+            "C4248545",
+            [
+              [
+                "IS235868",
+                "1996-10-15",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "IS244289",
+                "1997-01-22",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "IS338321",
+                "2004-09-01",
+                "ASSIGNMENT",
+                "740000.0"
+              ],
+              [
+                "IS338921",
+                "2004-09-01",
+                "RELEASE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD5 LIL 95",
+            "Old Schedule Lot",
+            "C4247881",
+            [
+              [
+                "IS111781",
+                "1982-10-12",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS120704",
+                "1985-05-01",
+                "-",
+                "240000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9919854795876442,
@@ -1013,7 +2414,39 @@
         1109179852,
         null,
         "6 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 347",
+            "New Grant Lot",
+            "C4240296",
+            [
+              [
+                "IS89915",
+                "1976-05-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS90897",
+                "1976-09-27",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS99717",
+                "1980-01-22",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS102451",
+                "1980-06-03",
+                "POWER OF ATTORNEY BY CHAN WAI HUNG OF 1/4 SHARE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991756078652724,
@@ -1108,7 +2541,21 @@
         1109180093,
         null,
         "29 LO TIK WAN",
-        []
+        [
+          [
+            "DD4 LIL 361",
+            "New Grant Lot",
+            "C4240398",
+            [
+              [
+                "IS87691",
+                "1974-07-16",
+                "POWER OF ATTORNEY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918597839512424,
@@ -1146,7 +2593,69 @@
         1109180208,
         "CONCERTO INN",
         "28 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 366",
+            "New Grant Lot",
+            "C4240433",
+            [
+              [
+                "IS140279",
+                "1978-12-15",
+                "CERTIFIED TRUE COPY OF LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS140282",
+                "1988-04-30",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "IS140280",
+                "1988-04-30",
+                "STATUTORY DECLARATION AS TO THE LOSS OF NEW GRANT NO. 6045",
+                null
+              ],
+              [
+                "IS140281",
+                "1988-04-30",
+                "-",
+                "800000.0"
+              ],
+              [
+                "IS161519",
+                "1990-05-18",
+                "DEED OF RECTIFICATION",
+                null
+              ],
+              [
+                "IS202088",
+                "1993-06-29",
+                "RELEASE",
+                null
+              ],
+              [
+                "10020201100046",
+                "2010-01-14",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "11062401860068",
+                "2011-06-13",
+                "SECOND LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "24090301600019",
+                "2024-08-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917569045901644,
@@ -1222,7 +2731,21 @@
         1109180349,
         null,
         null,
-        []
+        [
+          [
+            "DD4 LIL 338",
+            "New Grant Lot",
+            "C6520567",
+            [
+              [
+                "IS108920",
+                "1981-11-25",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918449969624394,
@@ -1279,7 +2802,27 @@
         1109180397,
         null,
         null,
-        []
+        [
+          [
+            "DD4 LIL 391",
+            "New Grant Lot",
+            "C6686030",
+            [
+              [
+                "IS169179",
+                "1982-09-01",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS168564",
+                "1991-01-08",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918679133368693,
@@ -1317,7 +2860,51 @@
         1109180691,
         null,
         null,
-        []
+        [
+          [
+            "DD4 LIL 317",
+            "New Grant Lot",
+            "C4240153",
+            [
+              [
+                "IS313785",
+                "1962-07-12",
+                "CERTIFIED FILE COPY OF OCCUPATION LETTER",
+                null
+              ],
+              [
+                "IS81865",
+                "1968-03-20",
+                "MEMORANDUM OF AGREEMENT (RESITE) BY THE DISTRICT OFFICER SOUTH",
+                null
+              ],
+              [
+                "IS312960",
+                "2002-07-15",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS313786",
+                "2003-01-08",
+                "LETTER CONFIRMING DEEMING COMPLIANCE OF NEW GRANT NO.3819",
+                null
+              ],
+              [
+                "IS313788",
+                "2003-02-12",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "IS313787",
+                "2003-02-12",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918600630728571,
@@ -1336,7 +2923,33 @@
         1109180734,
         null,
         "4 LUK CHAU VILLAGE",
-        []
+        [
+          [
+            "DD5 LIL 195",
+            "New Grant Lot",
+            "C5267300",
+            []
+          ],
+          [
+            "DD5 LIL 197",
+            "New Grant Lot",
+            "C4248498",
+            [
+              [
+                "IS108044",
+                "1981-10-19",
+                "-",
+                null
+              ],
+              [
+                "15100801320014",
+                "2015-09-07",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9919632806239835,
@@ -1412,7 +3025,33 @@
         1109181252,
         null,
         "26 LONG TSAI TSUEN",
-        []
+        [
+          [
+            "DD3 LIL 1381 S.A",
+            "Old Schedule Lot",
+            "C4047582",
+            [
+              [
+                "IS87405",
+                "1974-06-17",
+                "-",
+                "1000.0"
+              ],
+              [
+                "IS112701",
+                "1983-01-14",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS94393",
+                "9999-12-31",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917234667542674,
@@ -1450,7 +3089,51 @@
         1109181273,
         null,
         "1 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 385",
+            "New Grant Lot",
+            "C4240500",
+            [
+              [
+                "IS107234",
+                "1981-07-20",
+                "BUILDING MORTGAGE BY CHAN HON SHAN",
+                "350000.0"
+              ],
+              [
+                "IS107233",
+                "1981-07-20",
+                "UNDERTAKING BETWEEN D.O. ISLANDS AND YEUNG KAM BOR",
+                null
+              ],
+              [
+                "IS123683",
+                "1985-09-13",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS181301",
+                "1991-10-26",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS217859",
+                "1993-12-23",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS217515",
+                "1994-10-17",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991760079805934,
@@ -1469,7 +3152,51 @@
         1109181576,
         null,
         "22 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 387",
+            "New Grant Lot",
+            "C5717827",
+            [
+              [
+                "IS108683",
+                "1981-11-12",
+                "-",
+                "450000.0"
+              ],
+              [
+                "IS110489",
+                "1982-04-29",
+                "MORTGAGE",
+                "315000.0"
+              ],
+              [
+                "IS119063",
+                "1984-08-15",
+                "SUPPLEMENTAL SUB-MORTGAGE (SUPPLEMENTAL TO A SUB-MORTGAGE)",
+                "100000000.0"
+              ],
+              [
+                "IS125529",
+                "1986-03-07",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "IS125911",
+                "1986-05-05",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS119537",
+                "1994-10-26",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991761620683138,
@@ -1507,7 +3234,33 @@
         1109181702,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 103",
+            "Old Schedule Lot",
+            "C4247893",
+            [
+              [
+                "IS7487",
+                "1913-03-06",
+                "-",
+                null
+              ],
+              [
+                "IS266704",
+                "1998-11-30",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "15100801320014",
+                "2015-09-07",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9919624970107015,
@@ -1545,7 +3298,40 @@
         1109181836,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 106",
+            "Old Schedule Lot",
+            "C5433727",
+            [
+              [
+                "IS74086",
+                "1962-04-16",
+                "-",
+                null
+              ],
+              [
+                "IS94670",
+                "1978-07-11",
+                "STATUTORY DECLARATION BY YIU HOI SANG ALIAS YIU HOI SAN RE 1/2 SHARE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD5 LIL 107",
+            "Old Schedule Lot",
+            "C5762748",
+            [
+              [
+                "IS94954",
+                "1978-08-22",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9919586252255153,
@@ -1564,7 +3350,52 @@
         1109181903,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 107",
+            "Old Schedule Lot",
+            "C5762748",
+            [
+              [
+                "IS94954",
+                "1978-08-22",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD5 LIL 108",
+            "Old Schedule Lot",
+            "C4247913",
+            [
+              [
+                "IS111781",
+                "1982-10-12",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS302835",
+                "2002-02-15",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "07020600450060",
+                "2007-01-02",
+                "PROBATE",
+                null
+              ],
+              [
+                "21110102330047",
+                "2021-09-25",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9919581088294573,
@@ -1602,7 +3433,27 @@
         1109182178,
         null,
         "25 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 319 S.B",
+            "New Grant Lot",
+            "C5180328",
+            [
+              [
+                "IS79336",
+                "1965-07-14",
+                "MEMORANDUM OF AGREEMENT (RESITE) RE DD4 LAMMA ISLAND LOT NO.319",
+                null
+              ],
+              [
+                "IS96773",
+                "1979-03-12",
+                "-",
+                "260000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991764026624903,
@@ -1621,7 +3472,45 @@
         1109182263,
         null,
         "18 HUNG SHING YE",
-        []
+        [
+          [
+            "DD3 LIL 1870",
+            "New Grant Lot",
+            "C4050638",
+            [
+              [
+                "IS91489",
+                "1977-02-23",
+                "POWER OF ATTORNEY FROM 23RD FEB 1977 UNTIL 22ND FEB 1980",
+                null
+              ],
+              [
+                "IS100738",
+                "1980-04-16",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS104383",
+                "1981-02-03",
+                "SUBSTITUTION POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS110205",
+                "1982-04-01",
+                "DEED OF REVOCATION",
+                null
+              ],
+              [
+                "IS110206",
+                "1982-04-01",
+                "DEED OF REVOCATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917527771747598,
@@ -1640,7 +3529,39 @@
         1109182308,
         null,
         "5 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 371",
+            "New Grant Lot",
+            "C6019227",
+            [
+              [
+                "IS89916",
+                "1976-05-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS96253",
+                "1978-12-20",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS100391",
+                "1979-03-01",
+                "SUBSTITUTED POWER OF ATTORNEY BY CHAN WAI MAN",
+                null
+              ],
+              [
+                "IS113475",
+                "1983-02-23",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917687385085787,
@@ -1659,7 +3580,39 @@
         1109182431,
         null,
         "7 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 372",
+            "New Grant Lot",
+            "C5851812",
+            [
+              [
+                "IS89917",
+                "1976-05-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS96252",
+                "1978-12-20",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS100393",
+                "1979-03-01",
+                "SUBSTITUTED POWER OF ATTORNEY BY CHAN WAI MAN",
+                null
+              ],
+              [
+                "IS110257",
+                "1982-03-31",
+                "LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917581409201321,
@@ -1716,7 +3669,39 @@
         1109182699,
         null,
         "4 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 350",
+            "New Grant Lot",
+            "C4240328",
+            [
+              [
+                "IS89902",
+                "1976-05-07",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS92316",
+                "1976-08-12",
+                "MODIFICATON LETTER",
+                null
+              ],
+              [
+                "IS96254",
+                "1978-12-20",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS100392",
+                "1979-03-01",
+                "SUBSTITUTED POWER OF ATTORNEY BY CHAN WAI MAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991766553484489,
@@ -1773,7 +3758,51 @@
         1109183045,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 12",
+            "Old Schedule Lot",
+            "C4247293",
+            [
+              [
+                "IS74086",
+                "1962-04-16",
+                "-",
+                null
+              ],
+              [
+                "IS74252",
+                "1962-05-26",
+                "-",
+                "4800.0"
+              ],
+              [
+                "IS116406",
+                "1983-09-13",
+                "DECLARATION OF LOSS BY CHAN NAM",
+                null
+              ],
+              [
+                "IS305641",
+                "2002-07-04",
+                "CERTIFIED TRUE COPY OF THE NOTICE OF APPLICATION FOR ANCILLARY RELIEF",
+                null
+              ],
+              [
+                "IS312352",
+                "2002-11-27",
+                "SEALED COPY OF ORDER",
+                null
+              ],
+              [
+                "11122001840039",
+                "2007-10-24",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920257404358621,
@@ -1792,7 +3821,27 @@
         1109183053,
         null,
         "32 LO TIK WAN",
-        []
+        [
+          [
+            "DD4 LIL 332",
+            "New Grant Lot",
+            "C6686026",
+            [
+              [
+                "IS265520",
+                "1998-09-21",
+                "MORTGAGE",
+                "500000.0"
+              ],
+              [
+                "IS294219",
+                "2001-08-02",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918595815676747,
@@ -1849,7 +3898,14 @@
         1109183196,
         null,
         "24 LO TIK WAN",
-        []
+        [
+          [
+            "DD4 LIL 395",
+            "New Grant Lot",
+            "C6520588",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9918603020244257,
@@ -1868,7 +3924,57 @@
         1109183303,
         null,
         "3 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 386",
+            "New Grant Lot",
+            "C5851822",
+            [
+              [
+                "IS130818",
+                "1981-12-10",
+                "BUILDING MORTGAGE",
+                "350000.0"
+              ],
+              [
+                "IS130819",
+                "1981-12-10",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "IS130820",
+                "1981-12-10",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "IS119608",
+                "1984-12-06",
+                "RECTIFICATION AGREEMENT",
+                null
+              ],
+              [
+                "IS181600",
+                "1991-11-15",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS197377",
+                "1992-08-07",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS196828",
+                "1992-10-30",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917643157775766,
@@ -1887,7 +3993,51 @@
         1109183408,
         null,
         "37B LO TIK WAN",
-        []
+        [
+          [
+            "DD4 LIL 325",
+            "New Grant Lot",
+            "C4240193",
+            [
+              [
+                "IS98768",
+                "1979-10-22",
+                "MODIFICATION LETTER TO PERMIT 3- STOREY DEVELOPMENT",
+                "2000.0"
+              ],
+              [
+                "IS101764",
+                "1980-03-21",
+                "POWER OF ATTORNEY BY NG YUNG FU",
+                null
+              ],
+              [
+                "IS117959",
+                "1984-02-13",
+                "-",
+                null
+              ],
+              [
+                "IS117961",
+                "1984-04-02",
+                "MORTGAGE",
+                "100000.0"
+              ],
+              [
+                "IS117960",
+                "1984-04-02",
+                "-",
+                null
+              ],
+              [
+                "IS118769",
+                "1984-07-16",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918523421685632,
@@ -1906,7 +4056,99 @@
         1109183435,
         null,
         "11 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 343",
+            "New Grant Lot",
+            "C4240267",
+            [
+              [
+                "IS89903",
+                "1976-05-07",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS90893",
+                "1976-08-20",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS96802",
+                "1979-01-04",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS96803",
+                "1979-02-28",
+                "-",
+                "190000.0"
+              ],
+              [
+                "IS98590",
+                "1979-10-01",
+                "-",
+                "250000.0"
+              ],
+              [
+                "12070301060026",
+                "2012-06-08",
+                "ORDER NO. DH0064/NT/12/C  UNDER SECTION 27(A)  OF THE BUILDINGS ORDINANCE  WITH PLAN",
+                null
+              ],
+              [
+                "20042402040158",
+                "2020-03-23",
+                "ORDER NO. \"DH0005/NT/20/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "20042402040141",
+                "2020-03-23",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0064/NT/12/C\")",
+                null
+              ],
+              [
+                "20080501530062",
+                "2020-07-03",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7900000.0"
+              ],
+              [
+                "21030900670081",
+                "2021-02-09",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "21031500160139",
+                "2021-03-10",
+                "ASSIGNMENT",
+                "7900000.0"
+              ],
+              [
+                "21092901230017",
+                "2021-09-20",
+                "LETTER OF WITHDRAWAL (ORDER NO. \"DH0005/NT/20/C\")",
+                null
+              ],
+              [
+                "24061301160018",
+                "2024-05-24",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "10800000.0"
+              ],
+              [
+                "24070900910023",
+                "2024-06-26",
+                "ASSIGNMENT",
+                "10800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917672416778778,
@@ -1982,7 +4224,51 @@
         1109183712,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 12",
+            "Old Schedule Lot",
+            "C4247293",
+            [
+              [
+                "IS74086",
+                "1962-04-16",
+                "-",
+                null
+              ],
+              [
+                "IS74252",
+                "1962-05-26",
+                "-",
+                "4800.0"
+              ],
+              [
+                "IS116406",
+                "1983-09-13",
+                "DECLARATION OF LOSS BY CHAN NAM",
+                null
+              ],
+              [
+                "IS305641",
+                "2002-07-04",
+                "CERTIFIED TRUE COPY OF THE NOTICE OF APPLICATION FOR ANCILLARY RELIEF",
+                null
+              ],
+              [
+                "IS312352",
+                "2002-11-27",
+                "SEALED COPY OF ORDER",
+                null
+              ],
+              [
+                "11122001840039",
+                "2007-10-24",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920193528137644,
@@ -2001,7 +4287,21 @@
         1109183716,
         null,
         "50 LO TIK WAN",
-        []
+        [
+          [
+            "DD4 LIL 360",
+            "New Grant Lot",
+            "C5717785",
+            [
+              [
+                "IS95746",
+                "1978-11-08",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918826042630364,
@@ -2077,7 +4377,75 @@
         1109183970,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 208",
+            "New Grant Lot",
+            "C6102442",
+            [
+              [
+                "IS89195",
+                "1975-12-08",
+                "-",
+                null
+              ],
+              [
+                "IS322235",
+                "2003-09-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1088000.0"
+              ],
+              [
+                "IS322882",
+                "2003-09-22",
+                "ASSIGNMENT",
+                "1088000.0"
+              ],
+              [
+                "IS322883",
+                "2003-09-22",
+                "MORTGAGE",
+                "288000.0"
+              ],
+              [
+                "05110101530024",
+                "2005-10-06",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "288000.0"
+              ],
+              [
+                "07062700950019",
+                "2007-06-08",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "09061501950020",
+                "2009-05-19",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4000000.0"
+              ],
+              [
+                "09072800080025",
+                "2009-07-13",
+                "MORTGAGE",
+                "TO SECURE A PRINCIPAL SUM OF HK$1,000,000.00 AND INTEREST THEREON"
+              ],
+              [
+                "09072800080012",
+                "2009-07-13",
+                "ASSIGNMENT",
+                "4000000.0"
+              ],
+              [
+                "18042501540025",
+                "2018-03-22",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9919956393648979,
@@ -2096,7 +4464,118 @@
         1109183974,
         "TIN HAU TEMPLE",
         null,
-        []
+        [
+          [
+            "DD5 LIL 4",
+            "Old Schedule Lot",
+            "C4247256",
+            []
+          ],
+          [
+            "DD5 LIL 5 RP",
+            "Old Schedule Lot",
+            "C5762739",
+            [
+              [
+                "IS74252",
+                "1962-05-26",
+                "-",
+                "4800.0"
+              ],
+              [
+                "IS116406",
+                "1983-09-13",
+                "DECLARATION OF LOSS BY CHAN NAM",
+                null
+              ],
+              [
+                "11122001840039",
+                "2007-10-24",
+                "PROBATE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD5 LIL 5 S.A",
+            "Old Schedule Lot",
+            "C6385443",
+            [
+              [
+                "IS74252",
+                "1962-05-26",
+                "-",
+                "4800.0"
+              ],
+              [
+                "IS116595",
+                "1983-09-13",
+                "-",
+                "550000.0"
+              ],
+              [
+                "IS116406",
+                "1983-09-13",
+                "DECLARATION OF LOSS BY CHAN NAM",
+                null
+              ],
+              [
+                "IS167331",
+                "1990-01-03",
+                "-",
+                null
+              ],
+              [
+                "IS167803",
+                "1990-11-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "480000.0"
+              ],
+              [
+                "IS168351",
+                "1990-12-06",
+                "AGREEMENT FOR SUB-SALE AND PURCHASE BY GUIDESON INVESTMENTS LIMITED",
+                "580000.0"
+              ],
+              [
+                "IS168615",
+                "1990-12-12",
+                "-",
+                "580000.0"
+              ],
+              [
+                "IS168616",
+                "1990-12-12",
+                "MORTGAGE",
+                "460000.0"
+              ],
+              [
+                "IS278329",
+                "1999-11-30",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "660000.0"
+              ],
+              [
+                "IS279356",
+                "1999-12-30",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "IS279355",
+                "1999-12-30",
+                "ASSIGNMENT",
+                "660000.0"
+              ],
+              [
+                "IS297792",
+                "2001-10-26",
+                "RECEIPT ON DISCHARGE OF A CHARGE/ MORTGAGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920092605822337,
@@ -2115,7 +4594,75 @@
         1109184062,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 201",
+            "New Grant Lot",
+            "C4248513",
+            [
+              [
+                "IS74469",
+                "1962-07-11",
+                "LETTER TO MADAM IU CHEUNG LING",
+                null
+              ],
+              [
+                "IS133022",
+                "1987-05-01",
+                "DUPLICATE TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "07020600450060",
+                "2007-01-02",
+                "PROBATE",
+                null
+              ],
+              [
+                "07032900310038",
+                "2007-03-15",
+                "ASSENT",
+                null
+              ],
+              [
+                "07072400740045",
+                "2007-06-12",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "07062600410157",
+                "2007-06-20",
+                "ASSIGNMENT",
+                "800000.0"
+              ],
+              [
+                "17062601490072",
+                "2017-06-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "24112800650020",
+                "2024-11-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "24120200250013",
+                "2024-11-18",
+                "ASSIGNMENT",
+                "2200000.0"
+              ],
+              [
+                "24120301540015",
+                "2024-11-25",
+                "ASSIGNMENT",
+                "2200000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992006516575618,
@@ -2134,7 +4681,51 @@
         1109184070,
         null,
         null,
-        []
+        [
+          [
+            "DD3 LIL 1416",
+            "Old Schedule Lot",
+            "C5989176",
+            [
+              [
+                "IS70135",
+                "1960-02-22",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "IS99029",
+                "1979-11-26",
+                "STATUTORY DECLARATION BY CHAN LOI FUK OTHERWISE SPELT AS CHAN LOY FUK",
+                null
+              ],
+              [
+                "IS99030",
+                "1979-11-26",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "IS199147",
+                "1993-01-27",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "IS227588",
+                "1993-01-27",
+                "ASSIGNMENT (PREVIOUSLY REGISTERED BY MEMORIAL NO. 199147)",
+                "200000.0"
+              ],
+              [
+                "25032001760133",
+                "2025-03-07",
+                "DEED POLL WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917226163410056,
@@ -2153,7 +4744,14 @@
         1109184133,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 213",
+            "New Grant Lot",
+            "C4248599",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992001912136645,
@@ -2191,7 +4789,14 @@
         1109184192,
         null,
         "21 LONG TSAI TSUEN",
-        []
+        [
+          [
+            "DD3 LIL 1616",
+            "Old Schedule Lot",
+            "C4049174",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9917259803016458,
@@ -2229,7 +4834,172 @@
         1109184457,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 3",
+            "Old Schedule Lot",
+            "C4247247",
+            [
+              [
+                "IS74086",
+                "1962-04-16",
+                "-",
+                null
+              ],
+              [
+                "IS74252",
+                "1962-05-26",
+                "-",
+                "4800.0"
+              ],
+              [
+                "IS116406",
+                "1983-09-13",
+                "DECLARATION OF LOSS BY CHAN NAM",
+                null
+              ],
+              [
+                "IS116595",
+                "1983-09-13",
+                "-",
+                "550000.0"
+              ],
+              [
+                "IS167331",
+                "1990-01-03",
+                "-",
+                null
+              ],
+              [
+                "IS167803",
+                "1990-11-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "480000.0"
+              ],
+              [
+                "IS168351",
+                "1990-12-06",
+                "AGREEMENT FOR SUB-SALE AND PURCHASE BY GUIDESON INVESTMENTS LIMITED",
+                "580000.0"
+              ],
+              [
+                "IS168615",
+                "1990-12-12",
+                "-",
+                "580000.0"
+              ],
+              [
+                "IS168616",
+                "1990-12-12",
+                "MORTGAGE",
+                "460000.0"
+              ],
+              [
+                "IS278329",
+                "1999-11-30",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "660000.0"
+              ],
+              [
+                "IS279356",
+                "1999-12-30",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "IS279355",
+                "1999-12-30",
+                "ASSIGNMENT",
+                "660000.0"
+              ],
+              [
+                "IS297792",
+                "2001-10-26",
+                "RECEIPT ON DISCHARGE OF A CHARGE/ MORTGAGE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD5 LIL 5 S.A",
+            "Old Schedule Lot",
+            "C6385443",
+            [
+              [
+                "IS74252",
+                "1962-05-26",
+                "-",
+                "4800.0"
+              ],
+              [
+                "IS116595",
+                "1983-09-13",
+                "-",
+                "550000.0"
+              ],
+              [
+                "IS116406",
+                "1983-09-13",
+                "DECLARATION OF LOSS BY CHAN NAM",
+                null
+              ],
+              [
+                "IS167331",
+                "1990-01-03",
+                "-",
+                null
+              ],
+              [
+                "IS167803",
+                "1990-11-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "480000.0"
+              ],
+              [
+                "IS168351",
+                "1990-12-06",
+                "AGREEMENT FOR SUB-SALE AND PURCHASE BY GUIDESON INVESTMENTS LIMITED",
+                "580000.0"
+              ],
+              [
+                "IS168615",
+                "1990-12-12",
+                "-",
+                "580000.0"
+              ],
+              [
+                "IS168616",
+                "1990-12-12",
+                "MORTGAGE",
+                "460000.0"
+              ],
+              [
+                "IS278329",
+                "1999-11-30",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "660000.0"
+              ],
+              [
+                "IS279356",
+                "1999-12-30",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "IS279355",
+                "1999-12-30",
+                "ASSIGNMENT",
+                "660000.0"
+              ],
+              [
+                "IS297792",
+                "2001-10-26",
+                "RECEIPT ON DISCHARGE OF A CHARGE/ MORTGAGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920097415793627,
@@ -2248,7 +5018,27 @@
         1109184503,
         null,
         "23 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 388",
+            "New Grant Lot",
+            "C4240519",
+            [
+              [
+                "IS108677",
+                "1981-11-12",
+                "-",
+                "450000.0"
+              ],
+              [
+                "IS118561",
+                "1984-05-15",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917636389201239,
@@ -2267,7 +5057,33 @@
         1109184518,
         null,
         "14 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 373",
+            "New Grant Lot",
+            "C6742462",
+            [
+              [
+                "IS89904",
+                "1976-05-07",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS101028",
+                "1980-02-07",
+                "-",
+                null
+              ],
+              [
+                "IS105930",
+                "1981-05-04",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917590455082963,
@@ -2286,7 +5102,21 @@
         1109184540,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 204",
+            "New Grant Lot",
+            "C4248539",
+            [
+              [
+                "15100801320014",
+                "2015-09-07",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9919678745842264,
@@ -2305,7 +5135,87 @@
         1109184604,
         null,
         null,
-        []
+        [
+          [
+            "DD4 LIL 356",
+            "New Grant Lot",
+            "C4240360",
+            [
+              [
+                "IS93380",
+                "1977-12-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS105802",
+                "1981-05-04",
+                "POWER OF ATTORNEY BY NG SHU FAT",
+                null
+              ],
+              [
+                "IS112311",
+                "1982-12-14",
+                "REVOCATION",
+                null
+              ],
+              [
+                "IS112775",
+                "1983-01-22",
+                "DEED OF RECTIFICATION OF BOUNDARIES",
+                null
+              ],
+              [
+                "IS220190",
+                "1983-12-07",
+                "COPY OF CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS117143",
+                "1983-12-09",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS117706",
+                "1984-02-20",
+                "-",
+                "1000000.0"
+              ],
+              [
+                "IS216345",
+                "1994-07-19",
+                "TENANCY AGREEMENT INCLUDING OPTION TO PURCHASE",
+                null
+              ],
+              [
+                "IS219763",
+                "1995-03-09",
+                "-",
+                null
+              ],
+              [
+                "IS220059",
+                "1995-04-07",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ],
+              [
+                "IS220988",
+                "1995-05-08",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "IS220987",
+                "1995-05-17",
+                "STATUTORY DECLARATION OF MONICA OLIVE HODGSON",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918813118924028,
@@ -2324,7 +5234,39 @@
         1109184657,
         null,
         "20 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 342",
+            "New Grant Lot",
+            "C6010258",
+            [
+              [
+                "IS87733",
+                "1974-10-16",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "IS92557",
+                "1977-08-10",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS92556",
+                "1977-08-22",
+                "-",
+                null
+              ],
+              [
+                "IS97467",
+                "1979-05-24",
+                "POWER OF ATTORNEY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917574902618902,
@@ -2419,7 +5361,21 @@
         1109185229,
         null,
         "15 LONG TSAI TSUEN",
-        []
+        [
+          [
+            "DD3 LIL 1863",
+            "New Grant Lot",
+            "C5157033",
+            [
+              [
+                "IS97607",
+                "1979-06-26",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917213167355983,
@@ -2438,7 +5394,69 @@
         1109185244,
         null,
         null,
-        []
+        [
+          [
+            "DD4 LIL 393",
+            "New Grant Lot",
+            "C6593924",
+            [
+              [
+                "IS227031",
+                "1996-02-05",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1500000.0"
+              ],
+              [
+                "IS257874",
+                "1997-09-19",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "IS257682",
+                "1997-09-19",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "IS257401",
+                "1997-09-30",
+                "MODIFICATION LETTER FROM DISTRICT LANDS OFFICER, ISLANDS",
+                null
+              ],
+              [
+                "IS282777",
+                "2000-05-19",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS282778",
+                "2000-05-19",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "06061701780013",
+                "2006-04-20",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "1638000.0"
+              ],
+              [
+                "08020401540111",
+                "2006-05-27",
+                "ASSIGNMENT",
+                "1638000.0"
+              ],
+              [
+                "06061301140029",
+                "2006-05-29",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918660140470665,
@@ -2514,7 +5532,27 @@
         1109185534,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 212",
+            "New Grant Lot",
+            "C6385514",
+            [
+              [
+                "07020600450060",
+                "2007-01-02",
+                "PROBATE",
+                null
+              ],
+              [
+                "07061600750036",
+                "2007-06-11",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991999526222011,
@@ -2552,7 +5590,178 @@
         1109185691,
         null,
         "15 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 351 RP",
+            "New Grant Lot",
+            "C6520570",
+            [
+              [
+                "IS129630",
+                "1976-05-05",
+                "PLAIN COPY OF CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS90364",
+                "1976-08-13",
+                "-",
+                "65000.0"
+              ],
+              [
+                "IS94912",
+                "1978-08-14",
+                "MORTGAGE",
+                "75000.0"
+              ],
+              [
+                "IS94911",
+                "1978-08-14",
+                "-",
+                "90000.0"
+              ],
+              [
+                "IS118026",
+                "1984-05-04",
+                "RECEIPT ON REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "IS129631",
+                "1986-11-12",
+                "-",
+                "180000.0"
+              ],
+              [
+                "IS129632",
+                "1986-11-12",
+                "LEGAL CHARGE TO SECURE GENERAL BANKING FACILITIES",
+                "100000.0"
+              ],
+              [
+                "IS148237",
+                "1989-01-07",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS148238",
+                "1989-01-07",
+                "-",
+                null
+              ],
+              [
+                "IS185874",
+                "1992-03-03",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "735000.0"
+              ],
+              [
+                "IS187337",
+                "1992-03-27",
+                "-",
+                "735000.0"
+              ],
+              [
+                "IS256516",
+                "1997-09-05",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1450000.0"
+              ],
+              [
+                "IS258710",
+                "1997-10-13",
+                "NOMINATION BY MAH BING HONG",
+                null
+              ],
+              [
+                "IS258711",
+                "1997-10-18",
+                "ASSIGNMENT",
+                "1450000.0"
+              ],
+              [
+                "IS258712",
+                "1997-10-18",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "08080500450137",
+                "2008-07-15",
+                "RELEASE",
+                "ALL MONIES"
+              ],
+              [
+                "14110400840049",
+                "2014-10-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1950000.0"
+              ],
+              [
+                "15012100900083",
+                "2015-01-08",
+                "ASSIGNMENT",
+                "1950000.0"
+              ],
+              [
+                "15032000860218",
+                "2015-03-06",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ],
+          [
+            "DD4 LIL 351 S.A",
+            "New Grant Lot",
+            "C4240334",
+            [
+              [
+                "IS89974",
+                "1976-05-20",
+                "-",
+                "69000.0"
+              ],
+              [
+                "IS93398",
+                "1978-01-04",
+                "-",
+                "95000.0"
+              ],
+              [
+                "IS107387",
+                "1981-07-20",
+                "-",
+                "420000.0"
+              ],
+              [
+                "IS108815",
+                "1981-09-10",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "IS119416",
+                "1984-08-09",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "IS119417",
+                "1984-08-10",
+                "-",
+                "100000.0"
+              ],
+              [
+                "19082202380030",
+                "2019-08-06",
+                "ASSIGNMENT",
+                "1900000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991761255691092,
@@ -2571,7 +5780,51 @@
         1109185776,
         null,
         null,
-        []
+        [
+          [
+            "DD4 LIL 337",
+            "New Grant Lot",
+            "C4240230",
+            [
+              [
+                "IS95666",
+                "1978-11-10",
+                "POWER OF ATTORNEY BY TAM TAI ON",
+                null
+              ],
+              [
+                "IS95667",
+                "1978-11-10",
+                "STATUTORY DECLARATION BY TAM TAI ON",
+                null
+              ],
+              [
+                "IS98203",
+                "1979-08-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS110391",
+                "1982-03-29",
+                "-",
+                "1200000.0"
+              ],
+              [
+                "10020500140029",
+                "2010-01-22",
+                "ASSIGNMENT",
+                "32285.76"
+              ],
+              [
+                "10020500140010",
+                "2010-01-22",
+                "MEMORANDUM FOR SALE AND PURCHASE",
+                "32285.76"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918616702254694,
@@ -2590,7 +5843,45 @@
         1109185795,
         "BAYSHORE INN",
         "29 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 394",
+            "New Grant Lot",
+            "C4240530",
+            [
+              [
+                "IS113753",
+                "1983-02-26",
+                "BUILDING MORTGAGE",
+                "150000.0"
+              ],
+              [
+                "IS117389",
+                "1983-12-09",
+                "DEED OF VARIATION (ANNEXED TO BUILDING MORTGAGE MEM.NO. 113753)",
+                null
+              ],
+              [
+                "IS117991",
+                "1984-03-30",
+                "MORTGAGE",
+                "160000.0"
+              ],
+              [
+                "IS117990",
+                "1984-03-30",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "IS171031",
+                "1991-03-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917691655969079,
@@ -2609,7 +5900,57 @@
         1109185836,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 216",
+            "New Grant Lot",
+            "C5181306",
+            [
+              [
+                "IS272442",
+                "1999-05-29",
+                "ASSIGNMENT",
+                "700000.0"
+              ],
+              [
+                "IS272440",
+                "1999-05-29",
+                "MEMORANDUM OF SALE",
+                "700000.0"
+              ],
+              [
+                "IS305641",
+                "2002-07-04",
+                "CERTIFIED TRUE COPY OF THE NOTICE OF APPLICATION FOR ANCILLARY RELIEF",
+                null
+              ],
+              [
+                "IS312352",
+                "2002-11-27",
+                "SEALED COPY OF ORDER",
+                null
+              ],
+              [
+                "IS341355",
+                "2004-11-05",
+                "NOTICE OF SEVERANCE OF JOINT TENANCY",
+                null
+              ],
+              [
+                "11122001840039",
+                "2007-10-24",
+                "PROBATE",
+                null
+              ],
+              [
+                "17073101100033",
+                "2017-07-17",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920141836837522,
@@ -2628,7 +5969,27 @@
         1109185837,
         null,
         "22 LONG TSAI TSUEN",
-        []
+        [
+          [
+            "DD3 LIL 1414 RP",
+            "Old Schedule Lot",
+            "D2863052",
+            [
+              [
+                "IS242032",
+                "1997-03-13",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "15060801640040",
+                "2015-05-19",
+                "ASSIGNMENT",
+                "180000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917245697924955,
@@ -2666,7 +6027,33 @@
         1109185923,
         null,
         "30 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 365",
+            "New Grant Lot",
+            "C4240423",
+            [
+              [
+                "IS96147",
+                "1978-04-11",
+                "POWER OF ATTORNEY BY MOK MAN",
+                null
+              ],
+              [
+                "IS96148",
+                "1978-11-19",
+                "POWER OF ATTORNEY BY LAM WOON PUI AND TONG WAI CHING",
+                null
+              ],
+              [
+                "IS96149",
+                "1978-11-29",
+                "LETTER BETWEEN DISTRICT OFFICE ISLANDS AND MOK MAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991770181701249,
@@ -2742,7 +6129,33 @@
         1109186205,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 93 RP",
+            "Old Schedule Lot",
+            "C5181198",
+            [
+              [
+                "IS111781",
+                "1982-10-12",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS120705",
+                "1985-05-01",
+                "ASSIGNMENT",
+                "30000.0"
+              ],
+              [
+                "IS121133",
+                "1985-06-13",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9919872921923603,
@@ -2780,7 +6193,51 @@
         1109186343,
         null,
         null,
-        []
+        [
+          [
+            "DD4 LIL 362",
+            "New Grant Lot",
+            "C5717799",
+            [
+              [
+                "21052801570095",
+                "1975-12-10",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS112463",
+                "1982-12-21",
+                "-",
+                null
+              ],
+              [
+                "07102301010034",
+                "2007-09-21",
+                "ORDER NO. DH0104/NT/07/C BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "19011601600019",
+                "2018-12-21",
+                "NOTIFICATION LETTER OF COMPLETION OF WORKS  (ORDER NO. \"DH0104/NT/07/C\")",
+                null
+              ],
+              [
+                "20120901510019",
+                "2020-11-20",
+                "ASSIGNMENT",
+                "1140000.0"
+              ],
+              [
+                "21031701510014",
+                "2021-02-03",
+                "LETTER OF DISCHARGE (ORDER NO. \"DH0104/NT/07/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918578254836907,
@@ -2894,7 +6351,63 @@
         1109186807,
         "BELLAGIO PET FRIENDLY RESORT",
         "26 HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 319 S.C",
+            "New Grant Lot",
+            "C5180334",
+            [
+              [
+                "IS79336",
+                "1965-07-14",
+                "MEMORANDUM OF AGREEMENT (RESITE) RE DD4 LAMMA ISLAND LOT NO.319",
+                null
+              ],
+              [
+                "IS105749",
+                "1981-02-09",
+                "DEED POLL RE S.B, S.C AND R.P.",
+                null
+              ],
+              [
+                "IS105530",
+                "1981-03-17",
+                "-",
+                "435000.0"
+              ],
+              [
+                "IS149149",
+                "1989-01-27",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "IS149148",
+                "1989-01-27",
+                "-",
+                "850000.0"
+              ],
+              [
+                "IS218485",
+                "1994-12-30",
+                "GOVERNMENT NOTICE NO.5022 OF 1994 PURSUANT TO SECTION 22(1)",
+                null
+              ],
+              [
+                "IS248423",
+                "1997-06-21",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "07030501650016",
+                "2006-09-06",
+                "WARNING LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917624184540377,
@@ -2913,7 +6426,46 @@
         1109186818,
         null,
         "6 LUK CHAU VILLAGE",
-        []
+        [
+          [
+            "DD5 LIL 193",
+            "New Grant Lot",
+            "C4248467",
+            [
+              [
+                "IS266704",
+                "1998-11-30",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "15100801320014",
+                "2015-09-07",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD5 LIL 194",
+            "New Grant Lot",
+            "C4248471",
+            [
+              [
+                "IS266704",
+                "1998-11-30",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "15100801320014",
+                "2015-09-07",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9919613820953168,
@@ -2989,7 +6541,14 @@
         1109186973,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 211",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9920097730452941,
@@ -3008,7 +6567,57 @@
         1109186979,
         null,
         null,
-        []
+        [
+          [
+            "DD5 LIL 203",
+            "New Grant Lot",
+            "C5181293",
+            [
+              [
+                "IS85205",
+                "1972-04-07",
+                "-",
+                null
+              ],
+              [
+                "IS133022",
+                "1987-05-01",
+                "DUPLICATE TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "IS225003",
+                "1995-10-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "800000.0"
+              ],
+              [
+                "IS225004",
+                "1995-10-30",
+                "ASSIGNMENT",
+                "800000.0"
+              ],
+              [
+                "IS334548",
+                "2004-05-28",
+                "ORDER NO.DH0060/NT/04/C UNDER S.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "17060502380108",
+                "2017-05-23",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "18010200460014",
+                "2017-12-11",
+                "LETTER OF WITHDRAWAL (ORDER NO. \"DH0060/NT/04/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920052878560048,
@@ -3027,7 +6636,51 @@
         1109187022,
         null,
         null,
-        []
+        [
+          [
+            "DD4 LIL 385",
+            "New Grant Lot",
+            "C4240500",
+            [
+              [
+                "IS107234",
+                "1981-07-20",
+                "BUILDING MORTGAGE BY CHAN HON SHAN",
+                "350000.0"
+              ],
+              [
+                "IS107233",
+                "1981-07-20",
+                "UNDERTAKING BETWEEN D.O. ISLANDS AND YEUNG KAM BOR",
+                null
+              ],
+              [
+                "IS123683",
+                "1985-09-13",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS181301",
+                "1991-10-26",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS217859",
+                "1993-12-23",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS217515",
+                "1994-10-17",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99175981490644,
@@ -3046,7 +6699,21 @@
         1109685199,
         null,
         "21B HUNG SHING YE",
-        []
+        [
+          [
+            "DD4 LIL 397",
+            "New Grant Lot",
+            "C6476151",
+            [
+              [
+                "IS154344",
+                "1989-08-08",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917581264197448,
@@ -3065,7 +6732,27 @@
         1109685267,
         null,
         null,
-        []
+        [
+          [
+            "DD4 LIL 399",
+            "New Grant Lot",
+            "C5433525",
+            [
+              [
+                "IS152203",
+                "1988-06-17",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS151163",
+                "1989-04-10",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917601754511711,
@@ -3179,7 +6866,21 @@
         1810129315,
         null,
         "17 LO TIK WAN",
-        []
+        [
+          [
+            "DD4 LIL 390",
+            "New Grant Lot",
+            "C4240520",
+            [
+              [
+                "24041702140216",
+                "2022-09-28",
+                "CERTIFIED COPY OF CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991873832120505,

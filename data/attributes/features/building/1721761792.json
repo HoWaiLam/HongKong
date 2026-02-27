@@ -25,7 +25,75 @@
         1101763616,
         null,
         null,
-        []
+        [
+          [
+            "DD276 560",
+            "Old Schedule Lot",
+            "C6356021",
+            [
+              [
+                "SK92586",
+                "1978-11-16",
+                "-",
+                null
+              ],
+              [
+                "SK92587",
+                "1978-11-16",
+                "-",
+                null
+              ],
+              [
+                "SK228930",
+                "1992-12-31",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "402501.0"
+              ],
+              [
+                "SK233757",
+                "1995-04-25",
+                "SUPPLEMENTAL AGREEMENT",
+                "402501.0"
+              ],
+              [
+                "SK247003",
+                "1996-05-08",
+                "-",
+                "201250.5"
+              ],
+              [
+                "SK301885",
+                "1997-11-21",
+                "ASSIGNMENT",
+                "201250.5"
+              ],
+              [
+                "SK388032",
+                "1999-08-13",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "05101000270127",
+                "2005-09-14",
+                "SECOND MORTGAGE",
+                "FOR CONSIDERATION & SHARES AFFECTED SEE MEMORIAL"
+              ],
+              [
+                "15091802040010",
+                "2015-09-07",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18022301740075",
+                "2018-01-30",
+                "RELEASE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.996159456017491,

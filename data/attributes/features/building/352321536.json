@@ -6,7 +6,75 @@
         1103051544,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 237",
+            "New Grant Lot",
+            "C5183999",
+            [
+              [
+                "IS265411",
+                "1998-06-05",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS265412",
+                "1998-09-15",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF PO LAM TONG",
+                null
+              ],
+              [
+                "08111400530010",
+                "2008-05-19",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF PO LAM TONG",
+                null
+              ],
+              [
+                "08111400530026",
+                "2008-10-21",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "12070602760029",
+                "2012-06-05",
+                "ORDER NO. DH0076/NT/12/C UNDER SECTION 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "12070602760036",
+                "2012-06-05",
+                "ORDER NO. DH0077/NT/12/C BY BUILDING AUTHORITY UNDER SECTION 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "18110600570055",
+                "2018-10-15",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "20051901070226",
+                "2020-05-06",
+                "AMENDED PERMISSION LETTER",
+                null
+              ],
+              [
+                "21021001090113",
+                "2020-11-27",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0077/NT/12/C\")",
+                null
+              ],
+              [
+                "21021001090109",
+                "2020-11-27",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0076/NT/12/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9883519026244099,
@@ -44,7 +112,75 @@
         1103051555,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 237",
+            "New Grant Lot",
+            "C5183999",
+            [
+              [
+                "IS265411",
+                "1998-06-05",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS265412",
+                "1998-09-15",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF PO LAM TONG",
+                null
+              ],
+              [
+                "08111400530010",
+                "2008-05-19",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF PO LAM TONG",
+                null
+              ],
+              [
+                "08111400530026",
+                "2008-10-21",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "12070602760029",
+                "2012-06-05",
+                "ORDER NO. DH0076/NT/12/C UNDER SECTION 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "12070602760036",
+                "2012-06-05",
+                "ORDER NO. DH0077/NT/12/C BY BUILDING AUTHORITY UNDER SECTION 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "18110600570055",
+                "2018-10-15",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "20051901070226",
+                "2020-05-06",
+                "AMENDED PERMISSION LETTER",
+                null
+              ],
+              [
+                "21021001090113",
+                "2020-11-27",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0077/NT/12/C\")",
+                null
+              ],
+              [
+                "21021001090109",
+                "2020-11-27",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0076/NT/12/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.988355038025177,
@@ -63,7 +199,33 @@
         1103051556,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 230",
+            "New Grant Lot",
+            "C4268815",
+            [
+              [
+                "IS92644",
+                "1977-08-18",
+                "-",
+                null
+              ],
+              [
+                "IS274765",
+                "1999-07-27",
+                "PROBATE",
+                null
+              ],
+              [
+                "IS281554",
+                "2000-04-07",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9883700317363195,
@@ -101,7 +263,26 @@
         1103051568,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 142",
+            "New Grant Lot",
+            null,
+            []
+          ],
+          [
+            "DDTTTL 21",
+            "New Grant Lot",
+            null,
+            []
+          ],
+          [
+            "DDTTTL 27",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.988403708236671,
@@ -120,7 +301,14 @@
         1103051571,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 142",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9884016614361684,
@@ -158,7 +346,14 @@
         1103051578,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 142",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9884058868294132,
@@ -196,7 +391,14 @@
         1103051602,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 11",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.98840849105782,
@@ -215,7 +417,14 @@
         1103051604,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 12 EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.988386691783918,
@@ -272,7 +481,20 @@
         1103051629,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 12",
+            "New Grant Lot",
+            null,
+            []
+          ],
+          [
+            "DDTTTL 22 RP",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.988386770256347,
@@ -310,7 +532,14 @@
         1103051642,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 132",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9883890029635767,
@@ -329,7 +558,14 @@
         1103051644,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 22 S.A",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9884019729277296,
@@ -367,7 +603,14 @@
         1103051663,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 22 S.A",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9883986551972157,
@@ -386,7 +629,14 @@
         1103051671,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 22 RP",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.988387702815279,
@@ -424,7 +674,20 @@
         1103051676,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 136",
+            "New Grant Lot",
+            null,
+            []
+          ],
+          [
+            "DDTTTL 137",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9884221617730244,
@@ -462,7 +725,33 @@
         1103051702,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 224",
+            "New Grant Lot",
+            "C4268796",
+            [
+              [
+                "IS292018",
+                "2001-05-08",
+                "PROBATE",
+                null
+              ],
+              [
+                "10102601190026",
+                "2010-10-25",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "10102601190011",
+                "2010-10-25",
+                "MEMORANDUM OF SALE",
+                "1000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9884240748446413,
@@ -481,7 +770,33 @@
         1103051722,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 224",
+            "New Grant Lot",
+            "C4268796",
+            [
+              [
+                "IS292018",
+                "2001-05-08",
+                "PROBATE",
+                null
+              ],
+              [
+                "10102601190026",
+                "2010-10-25",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "10102601190011",
+                "2010-10-25",
+                "MEMORANDUM OF SALE",
+                "1000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.988422020811345,
@@ -500,7 +815,14 @@
         1103051760,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 29",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9883912664129482,
@@ -519,7 +841,20 @@
         1103051783,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 121",
+            "New Grant Lot",
+            null,
+            []
+          ],
+          [
+            "DDTTTL 80",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.988403494051196,
@@ -538,7 +873,14 @@
         1103051784,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 81",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9884020363566337,
@@ -595,7 +937,14 @@
         1103051805,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 121",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9884008745668553,
@@ -614,7 +963,20 @@
         1103051819,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 150",
+            "New Grant Lot",
+            null,
+            []
+          ],
+          [
+            "DDTTTL 86 &EXT THERETO",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9883976022218992,
@@ -633,7 +995,14 @@
         1103051833,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 150",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9883947205314847,
@@ -652,7 +1021,14 @@
         1103051850,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 135",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9883803821335824,
@@ -690,7 +1066,20 @@
         1103051858,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 130",
+            "New Grant Lot",
+            null,
+            []
+          ],
+          [
+            "DDTTTL 135",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9883809994161876,
@@ -728,7 +1117,39 @@
         1103051861,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 228",
+            "New Grant Lot",
+            "C5434439",
+            [
+              [
+                "21041502200037",
+                "2021-04-01",
+                "PROBATE",
+                null
+              ],
+              [
+                "24100701190018",
+                "2024-09-20",
+                "ASSENT",
+                null
+              ],
+              [
+                "24100201440010",
+                "2024-09-20",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "24121701640016",
+                "2024-11-18",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.988420721708112,
@@ -766,7 +1187,14 @@
         1103051871,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 135",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9883824825179157,
@@ -785,7 +1213,20 @@
         1103051874,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 130",
+            "New Grant Lot",
+            null,
+            []
+          ],
+          [
+            "DDTTTL 135",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9883818268675457,
@@ -842,7 +1283,14 @@
         1103051934,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 144",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9883763763267785,
@@ -880,7 +1328,14 @@
         1103052008,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 140",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9884414279228844,
@@ -956,7 +1411,14 @@
         1810004527,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 129",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.988430558383195,

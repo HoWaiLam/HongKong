@@ -6,7 +6,135 @@
         1100011574,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 RP",
+            "New Grant Lot",
+            "C4759109",
+            [
+              [
+                "TW726757",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW805653",
+                "1991-12-18",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW847315",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1240292",
+                "1998-09-11",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1272287",
+                "1999-03-04",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1283058",
+                "1999-05-24",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1306389",
+                "1999-09-02",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1322248",
+                "1999-12-10",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1367325",
+                "2000-08-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1432071",
+                "2001-10-08",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1543900",
+                "2003-10-22",
+                "TEMPORARY WAVIER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11012501590025",
+                "2011-01-13",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11102001730024",
+                "2011-10-04",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12070301630029",
+                "2012-06-21",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750031",
+                "2015-10-02",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750046",
+                "2015-10-05",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "16012801210042",
+                "2015-12-11",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22041400910020",
+                "2022-01-19",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22053001880012",
+                "2022-02-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23011802300152",
+                "2022-11-16",
+                "TEMPORARY WAIVER LETTER WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991125028681772,
@@ -25,7 +153,135 @@
         1100011576,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 RP",
+            "New Grant Lot",
+            "C4759109",
+            [
+              [
+                "TW726757",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW805653",
+                "1991-12-18",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW847315",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1240292",
+                "1998-09-11",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1272287",
+                "1999-03-04",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1283058",
+                "1999-05-24",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1306389",
+                "1999-09-02",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1322248",
+                "1999-12-10",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1367325",
+                "2000-08-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1432071",
+                "2001-10-08",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1543900",
+                "2003-10-22",
+                "TEMPORARY WAVIER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11012501590025",
+                "2011-01-13",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11102001730024",
+                "2011-10-04",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12070301630029",
+                "2012-06-21",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750031",
+                "2015-10-02",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750046",
+                "2015-10-05",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "16012801210042",
+                "2015-12-11",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22041400910020",
+                "2022-01-19",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22053001880012",
+                "2022-02-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23011802300152",
+                "2022-11-16",
+                "TEMPORARY WAIVER LETTER WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911387272937222,
@@ -44,7 +300,135 @@
         1100011578,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 RP",
+            "New Grant Lot",
+            "C4759109",
+            [
+              [
+                "TW726757",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW805653",
+                "1991-12-18",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW847315",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1240292",
+                "1998-09-11",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1272287",
+                "1999-03-04",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1283058",
+                "1999-05-24",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1306389",
+                "1999-09-02",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1322248",
+                "1999-12-10",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1367325",
+                "2000-08-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1432071",
+                "2001-10-08",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1543900",
+                "2003-10-22",
+                "TEMPORARY WAVIER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11012501590025",
+                "2011-01-13",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11102001730024",
+                "2011-10-04",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12070301630029",
+                "2012-06-21",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750031",
+                "2015-10-02",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750046",
+                "2015-10-05",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "16012801210042",
+                "2015-12-11",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22041400910020",
+                "2022-01-19",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22053001880012",
+                "2022-02-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23011802300152",
+                "2022-11-16",
+                "TEMPORARY WAIVER LETTER WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911136601796682,
@@ -63,7 +447,135 @@
         1100011579,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 RP",
+            "New Grant Lot",
+            "C4759109",
+            [
+              [
+                "TW726757",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW805653",
+                "1991-12-18",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW847315",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1240292",
+                "1998-09-11",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1272287",
+                "1999-03-04",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1283058",
+                "1999-05-24",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1306389",
+                "1999-09-02",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1322248",
+                "1999-12-10",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1367325",
+                "2000-08-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1432071",
+                "2001-10-08",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1543900",
+                "2003-10-22",
+                "TEMPORARY WAVIER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11012501590025",
+                "2011-01-13",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11102001730024",
+                "2011-10-04",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12070301630029",
+                "2012-06-21",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750031",
+                "2015-10-02",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750046",
+                "2015-10-05",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "16012801210042",
+                "2015-12-11",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22041400910020",
+                "2022-01-19",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22053001880012",
+                "2022-02-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23011802300152",
+                "2022-11-16",
+                "TEMPORARY WAIVER LETTER WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911159172830042,
@@ -82,7 +594,135 @@
         1100011746,
         "HUD DEVELOPMENT B SUBSTATION",
         null,
-        []
+        [
+          [
+            "TYTL 108 RP",
+            "New Grant Lot",
+            "C4759109",
+            [
+              [
+                "TW726757",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW805653",
+                "1991-12-18",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW847315",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1240292",
+                "1998-09-11",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1272287",
+                "1999-03-04",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1283058",
+                "1999-05-24",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1306389",
+                "1999-09-02",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1322248",
+                "1999-12-10",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1367325",
+                "2000-08-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1432071",
+                "2001-10-08",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1543900",
+                "2003-10-22",
+                "TEMPORARY WAVIER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11012501590025",
+                "2011-01-13",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11102001730024",
+                "2011-10-04",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12070301630029",
+                "2012-06-21",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750031",
+                "2015-10-02",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750046",
+                "2015-10-05",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "16012801210042",
+                "2015-12-11",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22041400910020",
+                "2022-01-19",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22053001880012",
+                "2022-02-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23011802300152",
+                "2022-11-16",
+                "TEMPORARY WAIVER LETTER WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911443538904814,
@@ -101,7 +741,135 @@
         1100011800,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 RP",
+            "New Grant Lot",
+            "C4759109",
+            [
+              [
+                "TW726757",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW805653",
+                "1991-12-18",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW847315",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1240292",
+                "1998-09-11",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1272287",
+                "1999-03-04",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1283058",
+                "1999-05-24",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1306389",
+                "1999-09-02",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1322248",
+                "1999-12-10",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1367325",
+                "2000-08-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1432071",
+                "2001-10-08",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1543900",
+                "2003-10-22",
+                "TEMPORARY WAVIER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11012501590025",
+                "2011-01-13",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11102001730024",
+                "2011-10-04",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12070301630029",
+                "2012-06-21",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750031",
+                "2015-10-02",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750046",
+                "2015-10-05",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "16012801210042",
+                "2015-12-11",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22041400910020",
+                "2022-01-19",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22053001880012",
+                "2022-02-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23011802300152",
+                "2022-11-16",
+                "TEMPORARY WAIVER LETTER WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911462424846185,
@@ -120,7 +888,135 @@
         1100011854,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 RP",
+            "New Grant Lot",
+            "C4759109",
+            [
+              [
+                "TW726757",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW805653",
+                "1991-12-18",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW847315",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1240292",
+                "1998-09-11",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1272287",
+                "1999-03-04",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1283058",
+                "1999-05-24",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1306389",
+                "1999-09-02",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1322248",
+                "1999-12-10",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1367325",
+                "2000-08-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1432071",
+                "2001-10-08",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1543900",
+                "2003-10-22",
+                "TEMPORARY WAVIER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11012501590025",
+                "2011-01-13",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11102001730024",
+                "2011-10-04",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12070301630029",
+                "2012-06-21",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750031",
+                "2015-10-02",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750046",
+                "2015-10-05",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "16012801210042",
+                "2015-12-11",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22041400910020",
+                "2022-01-19",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22053001880012",
+                "2022-02-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23011802300152",
+                "2022-11-16",
+                "TEMPORARY WAIVER LETTER WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911160579380758,
@@ -139,7 +1035,135 @@
         1100011998,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 RP",
+            "New Grant Lot",
+            "C4759109",
+            [
+              [
+                "TW726757",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW805653",
+                "1991-12-18",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW847315",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1240292",
+                "1998-09-11",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1272287",
+                "1999-03-04",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1283058",
+                "1999-05-24",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1306389",
+                "1999-09-02",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1322248",
+                "1999-12-10",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1367325",
+                "2000-08-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1432071",
+                "2001-10-08",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1543900",
+                "2003-10-22",
+                "TEMPORARY WAVIER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11012501590025",
+                "2011-01-13",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11102001730024",
+                "2011-10-04",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12070301630029",
+                "2012-06-21",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750031",
+                "2015-10-02",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750046",
+                "2015-10-05",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "16012801210042",
+                "2015-12-11",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22041400910020",
+                "2022-01-19",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22053001880012",
+                "2022-02-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23011802300152",
+                "2022-11-16",
+                "TEMPORARY WAIVER LETTER WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911211510262712,
@@ -158,7 +1182,135 @@
         1100012014,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 RP",
+            "New Grant Lot",
+            "C4759109",
+            [
+              [
+                "TW726757",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW805653",
+                "1991-12-18",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW847315",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1240292",
+                "1998-09-11",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1272287",
+                "1999-03-04",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1283058",
+                "1999-05-24",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1306389",
+                "1999-09-02",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1322248",
+                "1999-12-10",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1367325",
+                "2000-08-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1432071",
+                "2001-10-08",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1543900",
+                "2003-10-22",
+                "TEMPORARY WAVIER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11012501590025",
+                "2011-01-13",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11102001730024",
+                "2011-10-04",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12070301630029",
+                "2012-06-21",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750031",
+                "2015-10-02",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750046",
+                "2015-10-05",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "16012801210042",
+                "2015-12-11",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22041400910020",
+                "2022-01-19",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22053001880012",
+                "2022-02-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23011802300152",
+                "2022-11-16",
+                "TEMPORARY WAIVER LETTER WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911182726496823,
@@ -177,7 +1329,135 @@
         1100012230,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 RP",
+            "New Grant Lot",
+            "C4759109",
+            [
+              [
+                "TW726757",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW805653",
+                "1991-12-18",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW847315",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1240292",
+                "1998-09-11",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1272287",
+                "1999-03-04",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1283058",
+                "1999-05-24",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1306389",
+                "1999-09-02",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1322248",
+                "1999-12-10",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1367325",
+                "2000-08-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1432071",
+                "2001-10-08",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1543900",
+                "2003-10-22",
+                "TEMPORARY WAVIER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11012501590025",
+                "2011-01-13",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11102001730024",
+                "2011-10-04",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12070301630029",
+                "2012-06-21",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750031",
+                "2015-10-02",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750046",
+                "2015-10-05",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "16012801210042",
+                "2015-12-11",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22041400910020",
+                "2022-01-19",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22053001880012",
+                "2022-02-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23011802300152",
+                "2022-11-16",
+                "TEMPORARY WAIVER LETTER WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911428748352824,
@@ -196,7 +1476,57 @@
         1100012751,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911593545333675,
@@ -215,7 +1545,57 @@
         1100012813,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911637737077281,
@@ -234,7 +1614,57 @@
         1100012831,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911780092710192,
@@ -253,7 +1683,57 @@
         1100012942,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911787061846136,
@@ -272,7 +1752,57 @@
         1100012944,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911825118655608,
@@ -291,7 +1821,57 @@
         1100013112,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991186733842767,
@@ -310,7 +1890,57 @@
         1100013136,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911862516621162,
@@ -329,7 +1959,57 @@
         1100013158,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911860105342194,
@@ -348,7 +2028,57 @@
         1100013204,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991192178321127,
@@ -367,7 +2097,57 @@
         1100013217,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911966862901844,
@@ -386,7 +2166,57 @@
         1100013357,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911689755910196,
@@ -405,7 +2235,57 @@
         1100013367,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911756322445746,
@@ -424,7 +2304,57 @@
         1100013419,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911662890450115,
@@ -443,7 +2373,57 @@
         1100013506,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911520555761946,
@@ -462,7 +2442,57 @@
         1100013529,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911865635912986,
@@ -481,7 +2511,57 @@
         1100013543,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911607173259869,
@@ -500,7 +2580,57 @@
         1100013559,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991151593742194,
@@ -538,7 +2668,57 @@
         1100013673,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991166252039383,
@@ -557,7 +2737,57 @@
         1100013749,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912217476886755,
@@ -576,7 +2806,57 @@
         1100013770,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912447858748694,
@@ -595,7 +2875,57 @@
         1100013797,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912755244760423,
@@ -614,7 +2944,57 @@
         1100013813,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912495048912162,
@@ -633,7 +3013,153 @@
         1100013837,
         null,
         "4 - 6 TSING TIM STREET",
-        []
+        [
+          [
+            "TYTL 48 S.A SS.1 &EXT",
+            "New Grant Lot",
+            "C4758822",
+            [
+              [
+                "TW83313",
+                "1969-07-17",
+                "A PLAN RE TYTL 48",
+                null
+              ],
+              [
+                "TW117098",
+                "1974-08-01",
+                "MODIFICATION LETTER RE TYTL 48",
+                null
+              ],
+              [
+                "TW136608",
+                "1976-07-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW187135",
+                "1979-12-28",
+                "DEED POLL",
+                null
+              ],
+              [
+                "TW188232",
+                "1979-12-28",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "15442000.0"
+              ],
+              [
+                "TW188233",
+                "1979-12-28",
+                "-",
+                "15442000.0"
+              ],
+              [
+                "TW224394",
+                "1981-06-01",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW268174",
+                "1982-12-01",
+                "EXTENSION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW364648",
+                "1985-11-13",
+                "MEMORANDUM WITH CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TW379498",
+                "1986-04-14",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW482236",
+                "1987-11-18",
+                "AGREEMENT AS PER PLAN",
+                null
+              ],
+              [
+                "TW593113",
+                "1989-06-26",
+                "MEMORANDUM WITH CARPARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TW1151111",
+                "1997-07-03",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YEARS FROM 1.7.1997 TO 30.6.1999",
+                null
+              ],
+              [
+                "TW1173704",
+                "1997-08-28",
+                "TENANCY AGREEMENT WITH PLAN RE BLOCK B ON 1/F",
+                null
+              ],
+              [
+                "TW1283270",
+                "1999-05-24",
+                "TENANCY AGREEMENT WITH PLANS RE BLOCK B ON 1/F",
+                null
+              ],
+              [
+                "TW1315649",
+                "1999-07-12",
+                "TNEANCY AGREEMENT WITH PLAN FOR 2 YRS FROM 1.7.99 TO 30.6.2001",
+                null
+              ],
+              [
+                "10051900940061",
+                "2010-04-29",
+                "ORDER NO. CCOS/RT/000972/10/NT  UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE WITH PLANS",
+                null
+              ],
+              [
+                "10102501120070",
+                "2010-08-31",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "25110501920052",
+                "2013-05-15",
+                "CERTIFIED COPY OF CERTIFICATE OF CHANGE OF NAME",
+                ""
+              ],
+              [
+                "19091800150011",
+                "2019-08-12",
+                "TENANCY AGREEMENT WITH PLANS",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "23071800280066",
+                "2023-06-15",
+                "CONSENT TO ASSIGN",
+                null
+              ],
+              [
+                "25070700610094",
+                "2025-06-25",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "25110501920062",
+                "2025-10-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "663000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912935591686818,
@@ -652,7 +3178,153 @@
         1100013844,
         null,
         "4 - 6 TSING TIM STREET",
-        []
+        [
+          [
+            "TYTL 48 S.A SS.1 &EXT",
+            "New Grant Lot",
+            "C4758822",
+            [
+              [
+                "TW83313",
+                "1969-07-17",
+                "A PLAN RE TYTL 48",
+                null
+              ],
+              [
+                "TW117098",
+                "1974-08-01",
+                "MODIFICATION LETTER RE TYTL 48",
+                null
+              ],
+              [
+                "TW136608",
+                "1976-07-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW187135",
+                "1979-12-28",
+                "DEED POLL",
+                null
+              ],
+              [
+                "TW188232",
+                "1979-12-28",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "15442000.0"
+              ],
+              [
+                "TW188233",
+                "1979-12-28",
+                "-",
+                "15442000.0"
+              ],
+              [
+                "TW224394",
+                "1981-06-01",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW268174",
+                "1982-12-01",
+                "EXTENSION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW364648",
+                "1985-11-13",
+                "MEMORANDUM WITH CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TW379498",
+                "1986-04-14",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW482236",
+                "1987-11-18",
+                "AGREEMENT AS PER PLAN",
+                null
+              ],
+              [
+                "TW593113",
+                "1989-06-26",
+                "MEMORANDUM WITH CARPARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TW1151111",
+                "1997-07-03",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YEARS FROM 1.7.1997 TO 30.6.1999",
+                null
+              ],
+              [
+                "TW1173704",
+                "1997-08-28",
+                "TENANCY AGREEMENT WITH PLAN RE BLOCK B ON 1/F",
+                null
+              ],
+              [
+                "TW1283270",
+                "1999-05-24",
+                "TENANCY AGREEMENT WITH PLANS RE BLOCK B ON 1/F",
+                null
+              ],
+              [
+                "TW1315649",
+                "1999-07-12",
+                "TNEANCY AGREEMENT WITH PLAN FOR 2 YRS FROM 1.7.99 TO 30.6.2001",
+                null
+              ],
+              [
+                "10051900940061",
+                "2010-04-29",
+                "ORDER NO. CCOS/RT/000972/10/NT  UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE WITH PLANS",
+                null
+              ],
+              [
+                "10102501120070",
+                "2010-08-31",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "25110501920052",
+                "2013-05-15",
+                "CERTIFIED COPY OF CERTIFICATE OF CHANGE OF NAME",
+                ""
+              ],
+              [
+                "19091800150011",
+                "2019-08-12",
+                "TENANCY AGREEMENT WITH PLANS",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "23071800280066",
+                "2023-06-15",
+                "CONSENT TO ASSIGN",
+                null
+              ],
+              [
+                "25070700610094",
+                "2025-06-25",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "25110501920062",
+                "2025-10-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "663000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99128713323458,
@@ -690,7 +3362,153 @@
         1100013881,
         null,
         "4 - 6 TSING TIM STREET",
-        []
+        [
+          [
+            "TYTL 48 S.A SS.1 &EXT",
+            "New Grant Lot",
+            "C4758822",
+            [
+              [
+                "TW83313",
+                "1969-07-17",
+                "A PLAN RE TYTL 48",
+                null
+              ],
+              [
+                "TW117098",
+                "1974-08-01",
+                "MODIFICATION LETTER RE TYTL 48",
+                null
+              ],
+              [
+                "TW136608",
+                "1976-07-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW187135",
+                "1979-12-28",
+                "DEED POLL",
+                null
+              ],
+              [
+                "TW188232",
+                "1979-12-28",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "15442000.0"
+              ],
+              [
+                "TW188233",
+                "1979-12-28",
+                "-",
+                "15442000.0"
+              ],
+              [
+                "TW224394",
+                "1981-06-01",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW268174",
+                "1982-12-01",
+                "EXTENSION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW364648",
+                "1985-11-13",
+                "MEMORANDUM WITH CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TW379498",
+                "1986-04-14",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW482236",
+                "1987-11-18",
+                "AGREEMENT AS PER PLAN",
+                null
+              ],
+              [
+                "TW593113",
+                "1989-06-26",
+                "MEMORANDUM WITH CARPARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TW1151111",
+                "1997-07-03",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YEARS FROM 1.7.1997 TO 30.6.1999",
+                null
+              ],
+              [
+                "TW1173704",
+                "1997-08-28",
+                "TENANCY AGREEMENT WITH PLAN RE BLOCK B ON 1/F",
+                null
+              ],
+              [
+                "TW1283270",
+                "1999-05-24",
+                "TENANCY AGREEMENT WITH PLANS RE BLOCK B ON 1/F",
+                null
+              ],
+              [
+                "TW1315649",
+                "1999-07-12",
+                "TNEANCY AGREEMENT WITH PLAN FOR 2 YRS FROM 1.7.99 TO 30.6.2001",
+                null
+              ],
+              [
+                "10051900940061",
+                "2010-04-29",
+                "ORDER NO. CCOS/RT/000972/10/NT  UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE WITH PLANS",
+                null
+              ],
+              [
+                "10102501120070",
+                "2010-08-31",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "25110501920052",
+                "2013-05-15",
+                "CERTIFIED COPY OF CERTIFICATE OF CHANGE OF NAME",
+                ""
+              ],
+              [
+                "19091800150011",
+                "2019-08-12",
+                "TENANCY AGREEMENT WITH PLANS",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "23071800280066",
+                "2023-06-15",
+                "CONSENT TO ASSIGN",
+                null
+              ],
+              [
+                "25070700610094",
+                "2025-06-25",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "25110501920062",
+                "2025-10-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "663000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912857461121196,
@@ -709,7 +3527,57 @@
         1100013903,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 S.A",
+            "New Grant Lot",
+            "C4759111",
+            [
+              [
+                "TW492995",
+                "1988-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW674056",
+                "1990-05-18",
+                "ASSIGNMENT AS PER PLAN",
+                "500000000.0"
+              ],
+              [
+                "TW726068",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW847316",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1141015",
+                "1997-06-10",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052302230021",
+                "2022-04-13",
+                "CONSENT LETTER TO SUB-LEASE & TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23032100500016",
+                "2022-04-13",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912700259671623,
@@ -728,7 +3596,171 @@
         1100013918,
         null,
         "8 - 12 TSING TIM STREET",
-        []
+        [
+          [
+            "TYTL 97",
+            "New Grant Lot",
+            "C5945979",
+            [
+              [
+                "TW413351",
+                "1986-05-02",
+                "-",
+                null
+              ],
+              [
+                "TW455121",
+                "1986-08-18",
+                "SUPPLEMENTAL DEED OF LICENCE AS PER PLAN",
+                null
+              ],
+              [
+                "TW410942",
+                "1986-11-14",
+                "MEMORANDUM WITH CERTIFIED TRUE COPIES C.P. LAYOUT PLANS ANNEXED",
+                null
+              ],
+              [
+                "TW457200",
+                "1987-07-20",
+                "BUILDING MORTGAGE",
+                null
+              ],
+              [
+                "TW482236",
+                "1987-11-18",
+                "AGREEMENT AS PER PLAN",
+                null
+              ],
+              [
+                "TW506263",
+                "1988-05-05",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW506264",
+                "1988-05-16",
+                "MEMORANDUM WITH CERTIFIED TRUE COPY CAR PARK LAYOUT PLAN ANNEXED",
+                null
+              ],
+              [
+                "TW521940",
+                "1988-07-26",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "TW521939",
+                "1988-07-26",
+                "RELEASE",
+                null
+              ],
+              [
+                "TW621183",
+                "1989-04-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW801732",
+                "1991-12-11",
+                "DEED OF VARIATION AND FURTHER CHARGE",
+                null
+              ],
+              [
+                "TW1159072",
+                "1997-08-05",
+                "MEMORANDUM OF AGREEMENT (FOR SALE AND PURCHASE)",
+                "218000000.0"
+              ],
+              [
+                "TW1162185",
+                "1997-08-16",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "218000000.0"
+              ],
+              [
+                "TW1169723",
+                "1997-09-03",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "TW1169474",
+                "1997-09-03",
+                "DUPLICATE TENANCY AGREEMENT FOR 3 YEARS FROM 3.9.1997 TO 2.9.2000",
+                null
+              ],
+              [
+                "TW1169724",
+                "1997-09-03",
+                "ASSIGNMENT",
+                "218000000.0"
+              ],
+              [
+                "TW1169475",
+                "1997-09-03",
+                "SUB-TENANCY AGREEMENT (IN DUPLICATE)FOR 3 YRS FROM 3.9.1997",
+                null
+              ],
+              [
+                "TW1245733",
+                "1998-09-28",
+                "DUPLICATE SUPPLEMENTAL AGREEMENT TO M/N 1162185",
+                null
+              ],
+              [
+                "TW1245734",
+                "1998-10-19",
+                "SUPPLEMENTAL AGREEMENT TO M/N 1169475",
+                null
+              ],
+              [
+                "TW1469827",
+                "2002-06-25",
+                "TENANCY AGREEMENT FOR A TERM OF TWO YEARS FROM 1.5.2002 TO 30.4.2004",
+                null
+              ],
+              [
+                "TW1607122",
+                "2004-11-10",
+                "TENANCY AGREEMENT FOR 4 YRS FROM 1.5.2004-30.4.2008",
+                null
+              ],
+              [
+                "09020200510083",
+                "2008-04-16",
+                "TENANCY AGREEMENT",
+                "THE RENT IS $1,550,000 PER MONTH"
+              ],
+              [
+                "11030701040075",
+                "2010-11-29",
+                "ORDER NO. CBZ/RT/014136/09/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE WITH PLANS",
+                null
+              ],
+              [
+                "12022802060061",
+                "2011-11-15",
+                "SATISFACTION LETTER",
+                null
+              ],
+              [
+                "23011701660019",
+                "2023-01-13",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "23011601390025",
+                "2023-01-13",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912849801449644,
@@ -747,7 +3779,123 @@
         1100013928,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 48 RP &EXTS THERETO",
+            "New Grant Lot",
+            "C4758790",
+            [
+              [
+                "TW83313",
+                "1969-07-17",
+                "A PLAN RE TYTL 48",
+                null
+              ],
+              [
+                "TW117098",
+                "1974-08-01",
+                "MODIFICATION LETTER RE TYTL 48",
+                null
+              ],
+              [
+                "TW136608",
+                "1976-07-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW135179",
+                "1976-08-24",
+                "DEED OF COVENANTS",
+                null
+              ],
+              [
+                "TW173189",
+                "1978-11-27",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW184912",
+                "1979-11-06",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW227037",
+                "1981-07-15",
+                "AGREEMENT FOR SALE & PURCHASE",
+                null
+              ],
+              [
+                "TW230264",
+                "1981-08-14",
+                "-",
+                "119855964.0"
+              ],
+              [
+                "TW240794",
+                "1981-12-28",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW246921",
+                "1982-04-16",
+                "DEED OF CONFIRMATION",
+                null
+              ],
+              [
+                "TW376626",
+                "1985-01-22",
+                "-",
+                null
+              ],
+              [
+                "TW345018",
+                "1985-05-16",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW346954",
+                "1985-05-17",
+                "ORDER UNDER SEC. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW372915",
+                "1985-11-12",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "TW452149",
+                "1987-03-27",
+                "CERTIFIED TRUE COPY OF ORDER UNDER S. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW468101",
+                "1987-09-12",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW474273",
+                "1987-10-20",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "25090401720010",
+                "2005-10-21",
+                "CERTIFIED COPY CERTIFICATE OF CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912943852901663,
@@ -804,7 +3952,21 @@
         1100013956,
         null,
         null,
-        []
+        [
+          [
+            "KTPP 34",
+            "New Grant Lot",
+            "C1563509",
+            [
+              [
+                "25090401720010",
+                "2005-10-21",
+                "CERTIFIED COPY CERTIFICATE OF CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912471086337957,
@@ -842,7 +4004,123 @@
         1100013964,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 48 RP &EXTS THERETO",
+            "New Grant Lot",
+            "C4758790",
+            [
+              [
+                "TW83313",
+                "1969-07-17",
+                "A PLAN RE TYTL 48",
+                null
+              ],
+              [
+                "TW117098",
+                "1974-08-01",
+                "MODIFICATION LETTER RE TYTL 48",
+                null
+              ],
+              [
+                "TW136608",
+                "1976-07-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW135179",
+                "1976-08-24",
+                "DEED OF COVENANTS",
+                null
+              ],
+              [
+                "TW173189",
+                "1978-11-27",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW184912",
+                "1979-11-06",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW227037",
+                "1981-07-15",
+                "AGREEMENT FOR SALE & PURCHASE",
+                null
+              ],
+              [
+                "TW230264",
+                "1981-08-14",
+                "-",
+                "119855964.0"
+              ],
+              [
+                "TW240794",
+                "1981-12-28",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW246921",
+                "1982-04-16",
+                "DEED OF CONFIRMATION",
+                null
+              ],
+              [
+                "TW376626",
+                "1985-01-22",
+                "-",
+                null
+              ],
+              [
+                "TW345018",
+                "1985-05-16",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW346954",
+                "1985-05-17",
+                "ORDER UNDER SEC. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW372915",
+                "1985-11-12",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "TW452149",
+                "1987-03-27",
+                "CERTIFIED TRUE COPY OF ORDER UNDER S. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW468101",
+                "1987-09-12",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW474273",
+                "1987-10-20",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "25090401720010",
+                "2005-10-21",
+                "CERTIFIED COPY CERTIFICATE OF CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912867077707517,
@@ -861,7 +4139,123 @@
         1100013971,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 48 RP &EXTS THERETO",
+            "New Grant Lot",
+            "C4758790",
+            [
+              [
+                "TW83313",
+                "1969-07-17",
+                "A PLAN RE TYTL 48",
+                null
+              ],
+              [
+                "TW117098",
+                "1974-08-01",
+                "MODIFICATION LETTER RE TYTL 48",
+                null
+              ],
+              [
+                "TW136608",
+                "1976-07-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW135179",
+                "1976-08-24",
+                "DEED OF COVENANTS",
+                null
+              ],
+              [
+                "TW173189",
+                "1978-11-27",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW184912",
+                "1979-11-06",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW227037",
+                "1981-07-15",
+                "AGREEMENT FOR SALE & PURCHASE",
+                null
+              ],
+              [
+                "TW230264",
+                "1981-08-14",
+                "-",
+                "119855964.0"
+              ],
+              [
+                "TW240794",
+                "1981-12-28",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW246921",
+                "1982-04-16",
+                "DEED OF CONFIRMATION",
+                null
+              ],
+              [
+                "TW376626",
+                "1985-01-22",
+                "-",
+                null
+              ],
+              [
+                "TW345018",
+                "1985-05-16",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW346954",
+                "1985-05-17",
+                "ORDER UNDER SEC. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW372915",
+                "1985-11-12",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "TW452149",
+                "1987-03-27",
+                "CERTIFIED TRUE COPY OF ORDER UNDER S. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW468101",
+                "1987-09-12",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW474273",
+                "1987-10-20",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "25090401720010",
+                "2005-10-21",
+                "CERTIFIED COPY CERTIFICATE OF CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912933435062659,
@@ -880,7 +4274,117 @@
         1100013981,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913003129696523,
@@ -899,7 +4403,123 @@
         1100013982,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 48 RP &EXTS THERETO",
+            "New Grant Lot",
+            "C4758790",
+            [
+              [
+                "TW83313",
+                "1969-07-17",
+                "A PLAN RE TYTL 48",
+                null
+              ],
+              [
+                "TW117098",
+                "1974-08-01",
+                "MODIFICATION LETTER RE TYTL 48",
+                null
+              ],
+              [
+                "TW136608",
+                "1976-07-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW135179",
+                "1976-08-24",
+                "DEED OF COVENANTS",
+                null
+              ],
+              [
+                "TW173189",
+                "1978-11-27",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW184912",
+                "1979-11-06",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW227037",
+                "1981-07-15",
+                "AGREEMENT FOR SALE & PURCHASE",
+                null
+              ],
+              [
+                "TW230264",
+                "1981-08-14",
+                "-",
+                "119855964.0"
+              ],
+              [
+                "TW240794",
+                "1981-12-28",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW246921",
+                "1982-04-16",
+                "DEED OF CONFIRMATION",
+                null
+              ],
+              [
+                "TW376626",
+                "1985-01-22",
+                "-",
+                null
+              ],
+              [
+                "TW345018",
+                "1985-05-16",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW346954",
+                "1985-05-17",
+                "ORDER UNDER SEC. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW372915",
+                "1985-11-12",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "TW452149",
+                "1987-03-27",
+                "CERTIFIED TRUE COPY OF ORDER UNDER S. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW468101",
+                "1987-09-12",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW474273",
+                "1987-10-20",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "25090401720010",
+                "2005-10-21",
+                "CERTIFIED COPY CERTIFICATE OF CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99131419696731,
@@ -918,7 +4538,117 @@
         1100013983,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913021638691992,
@@ -937,7 +4667,123 @@
         1100013986,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 48 RP &EXTS THERETO",
+            "New Grant Lot",
+            "C4758790",
+            [
+              [
+                "TW83313",
+                "1969-07-17",
+                "A PLAN RE TYTL 48",
+                null
+              ],
+              [
+                "TW117098",
+                "1974-08-01",
+                "MODIFICATION LETTER RE TYTL 48",
+                null
+              ],
+              [
+                "TW136608",
+                "1976-07-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW135179",
+                "1976-08-24",
+                "DEED OF COVENANTS",
+                null
+              ],
+              [
+                "TW173189",
+                "1978-11-27",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW184912",
+                "1979-11-06",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW227037",
+                "1981-07-15",
+                "AGREEMENT FOR SALE & PURCHASE",
+                null
+              ],
+              [
+                "TW230264",
+                "1981-08-14",
+                "-",
+                "119855964.0"
+              ],
+              [
+                "TW240794",
+                "1981-12-28",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW246921",
+                "1982-04-16",
+                "DEED OF CONFIRMATION",
+                null
+              ],
+              [
+                "TW376626",
+                "1985-01-22",
+                "-",
+                null
+              ],
+              [
+                "TW345018",
+                "1985-05-16",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW346954",
+                "1985-05-17",
+                "ORDER UNDER SEC. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW372915",
+                "1985-11-12",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "TW452149",
+                "1987-03-27",
+                "CERTIFIED TRUE COPY OF ORDER UNDER S. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW468101",
+                "1987-09-12",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW474273",
+                "1987-10-20",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "25090401720010",
+                "2005-10-21",
+                "CERTIFIED COPY CERTIFICATE OF CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912452186583556,
@@ -956,7 +4802,117 @@
         1100013989,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913075337101478,
@@ -975,7 +4931,123 @@
         1100013991,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 48 RP &EXTS THERETO",
+            "New Grant Lot",
+            "C4758790",
+            [
+              [
+                "TW83313",
+                "1969-07-17",
+                "A PLAN RE TYTL 48",
+                null
+              ],
+              [
+                "TW117098",
+                "1974-08-01",
+                "MODIFICATION LETTER RE TYTL 48",
+                null
+              ],
+              [
+                "TW136608",
+                "1976-07-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW135179",
+                "1976-08-24",
+                "DEED OF COVENANTS",
+                null
+              ],
+              [
+                "TW173189",
+                "1978-11-27",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW184912",
+                "1979-11-06",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW227037",
+                "1981-07-15",
+                "AGREEMENT FOR SALE & PURCHASE",
+                null
+              ],
+              [
+                "TW230264",
+                "1981-08-14",
+                "-",
+                "119855964.0"
+              ],
+              [
+                "TW240794",
+                "1981-12-28",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW246921",
+                "1982-04-16",
+                "DEED OF CONFIRMATION",
+                null
+              ],
+              [
+                "TW376626",
+                "1985-01-22",
+                "-",
+                null
+              ],
+              [
+                "TW345018",
+                "1985-05-16",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW346954",
+                "1985-05-17",
+                "ORDER UNDER SEC. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW372915",
+                "1985-11-12",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "TW452149",
+                "1987-03-27",
+                "CERTIFIED TRUE COPY OF ORDER UNDER S. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW468101",
+                "1987-09-12",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW474273",
+                "1987-10-20",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "25090401720010",
+                "2005-10-21",
+                "CERTIFIED COPY CERTIFICATE OF CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912858070828239,
@@ -994,7 +5066,123 @@
         1100013994,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 48 RP &EXTS THERETO",
+            "New Grant Lot",
+            "C4758790",
+            [
+              [
+                "TW83313",
+                "1969-07-17",
+                "A PLAN RE TYTL 48",
+                null
+              ],
+              [
+                "TW117098",
+                "1974-08-01",
+                "MODIFICATION LETTER RE TYTL 48",
+                null
+              ],
+              [
+                "TW136608",
+                "1976-07-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW135179",
+                "1976-08-24",
+                "DEED OF COVENANTS",
+                null
+              ],
+              [
+                "TW173189",
+                "1978-11-27",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW184912",
+                "1979-11-06",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW227037",
+                "1981-07-15",
+                "AGREEMENT FOR SALE & PURCHASE",
+                null
+              ],
+              [
+                "TW230264",
+                "1981-08-14",
+                "-",
+                "119855964.0"
+              ],
+              [
+                "TW240794",
+                "1981-12-28",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW246921",
+                "1982-04-16",
+                "DEED OF CONFIRMATION",
+                null
+              ],
+              [
+                "TW376626",
+                "1985-01-22",
+                "-",
+                null
+              ],
+              [
+                "TW345018",
+                "1985-05-16",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW346954",
+                "1985-05-17",
+                "ORDER UNDER SEC. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW372915",
+                "1985-11-12",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "TW452149",
+                "1987-03-27",
+                "CERTIFIED TRUE COPY OF ORDER UNDER S. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW468101",
+                "1987-09-12",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW474273",
+                "1987-10-20",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "25090401720010",
+                "2005-10-21",
+                "CERTIFIED COPY CERTIFICATE OF CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913164527300533,
@@ -1013,7 +5201,117 @@
         1100014001,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913139193813274,
@@ -1032,7 +5330,123 @@
         1100014006,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 48 RP &EXTS THERETO",
+            "New Grant Lot",
+            "C4758790",
+            [
+              [
+                "TW83313",
+                "1969-07-17",
+                "A PLAN RE TYTL 48",
+                null
+              ],
+              [
+                "TW117098",
+                "1974-08-01",
+                "MODIFICATION LETTER RE TYTL 48",
+                null
+              ],
+              [
+                "TW136608",
+                "1976-07-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW135179",
+                "1976-08-24",
+                "DEED OF COVENANTS",
+                null
+              ],
+              [
+                "TW173189",
+                "1978-11-27",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW184912",
+                "1979-11-06",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW227037",
+                "1981-07-15",
+                "AGREEMENT FOR SALE & PURCHASE",
+                null
+              ],
+              [
+                "TW230264",
+                "1981-08-14",
+                "-",
+                "119855964.0"
+              ],
+              [
+                "TW240794",
+                "1981-12-28",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW246921",
+                "1982-04-16",
+                "DEED OF CONFIRMATION",
+                null
+              ],
+              [
+                "TW376626",
+                "1985-01-22",
+                "-",
+                null
+              ],
+              [
+                "TW345018",
+                "1985-05-16",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW346954",
+                "1985-05-17",
+                "ORDER UNDER SEC. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW372915",
+                "1985-11-12",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "TW452149",
+                "1987-03-27",
+                "CERTIFIED TRUE COPY OF ORDER UNDER S. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW468101",
+                "1987-09-12",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW474273",
+                "1987-10-20",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "25090401720010",
+                "2005-10-21",
+                "CERTIFIED COPY CERTIFICATE OF CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912937495598297,
@@ -1089,7 +5503,123 @@
         1100014026,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 48 RP &EXTS THERETO",
+            "New Grant Lot",
+            "C4758790",
+            [
+              [
+                "TW83313",
+                "1969-07-17",
+                "A PLAN RE TYTL 48",
+                null
+              ],
+              [
+                "TW117098",
+                "1974-08-01",
+                "MODIFICATION LETTER RE TYTL 48",
+                null
+              ],
+              [
+                "TW136608",
+                "1976-07-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW135179",
+                "1976-08-24",
+                "DEED OF COVENANTS",
+                null
+              ],
+              [
+                "TW173189",
+                "1978-11-27",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW184912",
+                "1979-11-06",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW227037",
+                "1981-07-15",
+                "AGREEMENT FOR SALE & PURCHASE",
+                null
+              ],
+              [
+                "TW230264",
+                "1981-08-14",
+                "-",
+                "119855964.0"
+              ],
+              [
+                "TW240794",
+                "1981-12-28",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW246921",
+                "1982-04-16",
+                "DEED OF CONFIRMATION",
+                null
+              ],
+              [
+                "TW376626",
+                "1985-01-22",
+                "-",
+                null
+              ],
+              [
+                "TW345018",
+                "1985-05-16",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW346954",
+                "1985-05-17",
+                "ORDER UNDER SEC. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW372915",
+                "1985-11-12",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "TW452149",
+                "1987-03-27",
+                "CERTIFIED TRUE COPY OF ORDER UNDER S. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW468101",
+                "1987-09-12",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW474273",
+                "1987-10-20",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "25090401720010",
+                "2005-10-21",
+                "CERTIFIED COPY CERTIFICATE OF CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912441411555297,
@@ -1108,7 +5638,117 @@
         1100014037,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991294660760779,
@@ -1127,7 +5767,123 @@
         1100014038,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 48 RP &EXTS THERETO",
+            "New Grant Lot",
+            "C4758790",
+            [
+              [
+                "TW83313",
+                "1969-07-17",
+                "A PLAN RE TYTL 48",
+                null
+              ],
+              [
+                "TW117098",
+                "1974-08-01",
+                "MODIFICATION LETTER RE TYTL 48",
+                null
+              ],
+              [
+                "TW136608",
+                "1976-07-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW135179",
+                "1976-08-24",
+                "DEED OF COVENANTS",
+                null
+              ],
+              [
+                "TW173189",
+                "1978-11-27",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW184912",
+                "1979-11-06",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW227037",
+                "1981-07-15",
+                "AGREEMENT FOR SALE & PURCHASE",
+                null
+              ],
+              [
+                "TW230264",
+                "1981-08-14",
+                "-",
+                "119855964.0"
+              ],
+              [
+                "TW240794",
+                "1981-12-28",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW246921",
+                "1982-04-16",
+                "DEED OF CONFIRMATION",
+                null
+              ],
+              [
+                "TW376626",
+                "1985-01-22",
+                "-",
+                null
+              ],
+              [
+                "TW345018",
+                "1985-05-16",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW346954",
+                "1985-05-17",
+                "ORDER UNDER SEC. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW372915",
+                "1985-11-12",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "TW452149",
+                "1987-03-27",
+                "CERTIFIED TRUE COPY OF ORDER UNDER S. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW468101",
+                "1987-09-12",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW474273",
+                "1987-10-20",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "25090401720010",
+                "2005-10-21",
+                "CERTIFIED COPY CERTIFICATE OF CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991246948711261,
@@ -1146,7 +5902,123 @@
         1100014045,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 48 RP &EXTS THERETO",
+            "New Grant Lot",
+            "C4758790",
+            [
+              [
+                "TW83313",
+                "1969-07-17",
+                "A PLAN RE TYTL 48",
+                null
+              ],
+              [
+                "TW117098",
+                "1974-08-01",
+                "MODIFICATION LETTER RE TYTL 48",
+                null
+              ],
+              [
+                "TW136608",
+                "1976-07-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW135179",
+                "1976-08-24",
+                "DEED OF COVENANTS",
+                null
+              ],
+              [
+                "TW173189",
+                "1978-11-27",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW184912",
+                "1979-11-06",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW227037",
+                "1981-07-15",
+                "AGREEMENT FOR SALE & PURCHASE",
+                null
+              ],
+              [
+                "TW230264",
+                "1981-08-14",
+                "-",
+                "119855964.0"
+              ],
+              [
+                "TW240794",
+                "1981-12-28",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW246921",
+                "1982-04-16",
+                "DEED OF CONFIRMATION",
+                null
+              ],
+              [
+                "TW376626",
+                "1985-01-22",
+                "-",
+                null
+              ],
+              [
+                "TW345018",
+                "1985-05-16",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW346954",
+                "1985-05-17",
+                "ORDER UNDER SEC. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW372915",
+                "1985-11-12",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "TW452149",
+                "1987-03-27",
+                "CERTIFIED TRUE COPY OF ORDER UNDER S. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW468101",
+                "1987-09-12",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW474273",
+                "1987-10-20",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "25090401720010",
+                "2005-10-21",
+                "CERTIFIED COPY CERTIFICATE OF CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912763017128305,
@@ -1165,7 +6037,117 @@
         1100014056,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991299930510227,
@@ -1184,7 +6166,123 @@
         1100014059,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 48 RP &EXTS THERETO",
+            "New Grant Lot",
+            "C4758790",
+            [
+              [
+                "TW83313",
+                "1969-07-17",
+                "A PLAN RE TYTL 48",
+                null
+              ],
+              [
+                "TW117098",
+                "1974-08-01",
+                "MODIFICATION LETTER RE TYTL 48",
+                null
+              ],
+              [
+                "TW136608",
+                "1976-07-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW135179",
+                "1976-08-24",
+                "DEED OF COVENANTS",
+                null
+              ],
+              [
+                "TW173189",
+                "1978-11-27",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW184912",
+                "1979-11-06",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TW227037",
+                "1981-07-15",
+                "AGREEMENT FOR SALE & PURCHASE",
+                null
+              ],
+              [
+                "TW230264",
+                "1981-08-14",
+                "-",
+                "119855964.0"
+              ],
+              [
+                "TW240794",
+                "1981-12-28",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW246921",
+                "1982-04-16",
+                "DEED OF CONFIRMATION",
+                null
+              ],
+              [
+                "TW376626",
+                "1985-01-22",
+                "-",
+                null
+              ],
+              [
+                "TW345018",
+                "1985-05-16",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW346954",
+                "1985-05-17",
+                "ORDER UNDER SEC. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW372915",
+                "1985-11-12",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "TW452149",
+                "1987-03-27",
+                "CERTIFIED TRUE COPY OF ORDER UNDER S. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW468101",
+                "1987-09-12",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW474273",
+                "1987-10-20",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "25090401720010",
+                "2005-10-21",
+                "CERTIFIED COPY CERTIFICATE OF CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912444311449324,
@@ -1203,7 +6301,117 @@
         1100014076,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912899956706702,
@@ -1222,7 +6430,117 @@
         1100014084,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913062388328948,
@@ -1241,7 +6559,14 @@
         1100014087,
         null,
         null,
-        []
+        [
+          [
+            "KTPPL 41",
+            "New Grant Lot",
+            "D5345906",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9912390728333151,
@@ -1260,7 +6585,117 @@
         1100014109,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912641180245931,
@@ -1279,7 +6714,117 @@
         1100014122,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991273851237716,
@@ -1298,7 +6843,153 @@
         1100659895,
         null,
         "4 - 6 TSING TIM STREET",
-        []
+        [
+          [
+            "TYTL 48 S.A SS.1 &EXT",
+            "New Grant Lot",
+            "C4758822",
+            [
+              [
+                "TW83313",
+                "1969-07-17",
+                "A PLAN RE TYTL 48",
+                null
+              ],
+              [
+                "TW117098",
+                "1974-08-01",
+                "MODIFICATION LETTER RE TYTL 48",
+                null
+              ],
+              [
+                "TW136608",
+                "1976-07-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW187135",
+                "1979-12-28",
+                "DEED POLL",
+                null
+              ],
+              [
+                "TW188232",
+                "1979-12-28",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "15442000.0"
+              ],
+              [
+                "TW188233",
+                "1979-12-28",
+                "-",
+                "15442000.0"
+              ],
+              [
+                "TW224394",
+                "1981-06-01",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW268174",
+                "1982-12-01",
+                "EXTENSION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW364648",
+                "1985-11-13",
+                "MEMORANDUM WITH CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TW379498",
+                "1986-04-14",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW482236",
+                "1987-11-18",
+                "AGREEMENT AS PER PLAN",
+                null
+              ],
+              [
+                "TW593113",
+                "1989-06-26",
+                "MEMORANDUM WITH CARPARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TW1151111",
+                "1997-07-03",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YEARS FROM 1.7.1997 TO 30.6.1999",
+                null
+              ],
+              [
+                "TW1173704",
+                "1997-08-28",
+                "TENANCY AGREEMENT WITH PLAN RE BLOCK B ON 1/F",
+                null
+              ],
+              [
+                "TW1283270",
+                "1999-05-24",
+                "TENANCY AGREEMENT WITH PLANS RE BLOCK B ON 1/F",
+                null
+              ],
+              [
+                "TW1315649",
+                "1999-07-12",
+                "TNEANCY AGREEMENT WITH PLAN FOR 2 YRS FROM 1.7.99 TO 30.6.2001",
+                null
+              ],
+              [
+                "10051900940061",
+                "2010-04-29",
+                "ORDER NO. CCOS/RT/000972/10/NT  UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE WITH PLANS",
+                null
+              ],
+              [
+                "10102501120070",
+                "2010-08-31",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "25110501920052",
+                "2013-05-15",
+                "CERTIFIED COPY OF CERTIFICATE OF CHANGE OF NAME",
+                ""
+              ],
+              [
+                "19091800150011",
+                "2019-08-12",
+                "TENANCY AGREEMENT WITH PLANS",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "23071800280066",
+                "2023-06-15",
+                "CONSENT TO ASSIGN",
+                null
+              ],
+              [
+                "25070700610094",
+                "2025-06-25",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "25110501920062",
+                "2025-10-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "663000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912805204692223,
@@ -1317,7 +7008,45 @@
         1810168456,
         null,
         "14 - 18 TSING TIM STREET",
-        []
+        [
+          [
+            "TYTL 98",
+            "New Grant Lot",
+            "C5279755",
+            [
+              [
+                "TW455121",
+                "1986-08-18",
+                "SUPPLEMENTAL DEED OF LICENCE AS PER PLAN",
+                null
+              ],
+              [
+                "TW594549",
+                "1989-04-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW831120",
+                "1992-05-04",
+                "-",
+                "35500000.0"
+              ],
+              [
+                "17041000650026",
+                "2017-03-02",
+                "TEMPORARY WAIVER LETTER",
+                null
+              ],
+              [
+                "20110402240113",
+                "2020-09-30",
+                "TEMPORARY WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912826156199739,
@@ -1336,7 +7065,135 @@
         1810202349,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 RP",
+            "New Grant Lot",
+            "C4759109",
+            [
+              [
+                "TW726757",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW805653",
+                "1991-12-18",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW847315",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1240292",
+                "1998-09-11",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1272287",
+                "1999-03-04",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1283058",
+                "1999-05-24",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1306389",
+                "1999-09-02",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1322248",
+                "1999-12-10",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1367325",
+                "2000-08-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1432071",
+                "2001-10-08",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1543900",
+                "2003-10-22",
+                "TEMPORARY WAVIER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11012501590025",
+                "2011-01-13",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11102001730024",
+                "2011-10-04",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12070301630029",
+                "2012-06-21",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750031",
+                "2015-10-02",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750046",
+                "2015-10-05",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "16012801210042",
+                "2015-12-11",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22041400910020",
+                "2022-01-19",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22053001880012",
+                "2022-02-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23011802300152",
+                "2022-11-16",
+                "TEMPORARY WAIVER LETTER WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911119365937364,
@@ -1355,7 +7212,135 @@
         1810205180,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 RP",
+            "New Grant Lot",
+            "C4759109",
+            [
+              [
+                "TW726757",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW805653",
+                "1991-12-18",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW847315",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1240292",
+                "1998-09-11",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1272287",
+                "1999-03-04",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1283058",
+                "1999-05-24",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1306389",
+                "1999-09-02",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1322248",
+                "1999-12-10",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1367325",
+                "2000-08-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1432071",
+                "2001-10-08",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1543900",
+                "2003-10-22",
+                "TEMPORARY WAVIER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11012501590025",
+                "2011-01-13",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11102001730024",
+                "2011-10-04",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12070301630029",
+                "2012-06-21",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750031",
+                "2015-10-02",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750046",
+                "2015-10-05",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "16012801210042",
+                "2015-12-11",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22041400910020",
+                "2022-01-19",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22053001880012",
+                "2022-02-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23011802300152",
+                "2022-11-16",
+                "TEMPORARY WAIVER LETTER WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911129584702019,
@@ -1374,7 +7359,135 @@
         1810205250,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 RP",
+            "New Grant Lot",
+            "C4759109",
+            [
+              [
+                "TW726757",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW805653",
+                "1991-12-18",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW847315",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1240292",
+                "1998-09-11",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1272287",
+                "1999-03-04",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1283058",
+                "1999-05-24",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1306389",
+                "1999-09-02",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1322248",
+                "1999-12-10",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1367325",
+                "2000-08-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1432071",
+                "2001-10-08",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1543900",
+                "2003-10-22",
+                "TEMPORARY WAVIER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11012501590025",
+                "2011-01-13",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11102001730024",
+                "2011-10-04",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12070301630029",
+                "2012-06-21",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750031",
+                "2015-10-02",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750046",
+                "2015-10-05",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "16012801210042",
+                "2015-12-11",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22041400910020",
+                "2022-01-19",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22053001880012",
+                "2022-02-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23011802300152",
+                "2022-11-16",
+                "TEMPORARY WAIVER LETTER WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991103236736413,
@@ -1526,7 +7639,135 @@
         1910238937,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 RP",
+            "New Grant Lot",
+            "C4759109",
+            [
+              [
+                "TW726757",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW805653",
+                "1991-12-18",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW847315",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1240292",
+                "1998-09-11",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1272287",
+                "1999-03-04",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1283058",
+                "1999-05-24",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1306389",
+                "1999-09-02",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1322248",
+                "1999-12-10",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1367325",
+                "2000-08-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1432071",
+                "2001-10-08",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1543900",
+                "2003-10-22",
+                "TEMPORARY WAVIER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11012501590025",
+                "2011-01-13",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11102001730024",
+                "2011-10-04",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12070301630029",
+                "2012-06-21",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750031",
+                "2015-10-02",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750046",
+                "2015-10-05",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "16012801210042",
+                "2015-12-11",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22041400910020",
+                "2022-01-19",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22053001880012",
+                "2022-02-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23011802300152",
+                "2022-11-16",
+                "TEMPORARY WAIVER LETTER WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9911691808511713,
@@ -1545,7 +7786,135 @@
         1910239896,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 RP",
+            "New Grant Lot",
+            "C4759109",
+            [
+              [
+                "TW726757",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW805653",
+                "1991-12-18",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW847315",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1240292",
+                "1998-09-11",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1272287",
+                "1999-03-04",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1283058",
+                "1999-05-24",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1306389",
+                "1999-09-02",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1322248",
+                "1999-12-10",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1367325",
+                "2000-08-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1432071",
+                "2001-10-08",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1543900",
+                "2003-10-22",
+                "TEMPORARY WAVIER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11012501590025",
+                "2011-01-13",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11102001730024",
+                "2011-10-04",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12070301630029",
+                "2012-06-21",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750031",
+                "2015-10-02",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750046",
+                "2015-10-05",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "16012801210042",
+                "2015-12-11",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22041400910020",
+                "2022-01-19",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22053001880012",
+                "2022-02-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23011802300152",
+                "2022-11-16",
+                "TEMPORARY WAIVER LETTER WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991173076147792,
@@ -1564,7 +7933,135 @@
         1910265949,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 108 RP",
+            "New Grant Lot",
+            "C4759109",
+            [
+              [
+                "TW726757",
+                "1991-01-21",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW805653",
+                "1991-12-18",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW847315",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1240292",
+                "1998-09-11",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1272287",
+                "1999-03-04",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1283058",
+                "1999-05-24",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1306389",
+                "1999-09-02",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1322248",
+                "1999-12-10",
+                "TEMPORARY WAIVER LETTER FOR ADDITIONAL WAIVER AREA WITH PLAN",
+                null
+              ],
+              [
+                "TW1367325",
+                "2000-08-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1432071",
+                "2001-10-08",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1543900",
+                "2003-10-22",
+                "TEMPORARY WAVIER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11012501590025",
+                "2011-01-13",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11102001730024",
+                "2011-10-04",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12070301630029",
+                "2012-06-21",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750031",
+                "2015-10-02",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "15111600750046",
+                "2015-10-05",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "16012801210042",
+                "2015-12-11",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22041400910020",
+                "2022-01-19",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22053001880012",
+                "2022-02-15",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "23011802300152",
+                "2022-11-16",
+                "TEMPORARY WAIVER LETTER WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991175774631415,

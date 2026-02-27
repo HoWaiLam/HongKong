@@ -6,7 +6,39 @@
         1107623655,
         null,
         "48 FUNG HANG",
-        []
+        [
+          [
+            "DD50 387",
+            "Old Schedule Lot",
+            "C3236784",
+            [
+              [
+                "N25346",
+                "1913-12-12",
+                "-",
+                "135.0"
+              ],
+              [
+                "N144762",
+                "1961-07-26",
+                "-",
+                null
+              ],
+              [
+                "N149413",
+                "1962-12-13",
+                "-",
+                "300.0"
+              ],
+              [
+                "N208100",
+                "1983-03-12",
+                "-",
+                "1500.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993616542239745,
@@ -25,7 +57,33 @@
         1107623661,
         null,
         "47 FUNG HANG",
-        []
+        [
+          [
+            "DD50 388",
+            "Old Schedule Lot",
+            "C5835758",
+            [
+              [
+                "N120059",
+                "1948-05-07",
+                "-",
+                null
+              ],
+              [
+                "N402263",
+                "1997-07-16",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N448483",
+                "1999-06-15",
+                "APPROVAL OF SUCCESSION OF CHEUNG MA SAU ALIAS CHEUNG KAI MEE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936159406721938,
@@ -44,7 +102,33 @@
         1107623666,
         null,
         "46 FUNG HANG",
-        []
+        [
+          [
+            "DD50 389",
+            "Old Schedule Lot",
+            "C6305299",
+            [
+              [
+                "N53075",
+                "1922-07-27",
+                "-",
+                null
+              ],
+              [
+                "N192107",
+                "1978-11-13",
+                "-",
+                null
+              ],
+              [
+                "N192106",
+                "1978-11-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936153389357218,
@@ -101,7 +185,69 @@
         1107624262,
         null,
         null,
-        []
+        [
+          [
+            "DD54 2103",
+            "Old Schedule Lot",
+            "C3315267",
+            [
+              [
+                "N23230",
+                "1913-02-21",
+                "-",
+                null
+              ],
+              [
+                "N91916",
+                "1935-02-19",
+                "MORTGAGE",
+                "700.0"
+              ],
+              [
+                "N97382",
+                "1936-10-28",
+                "-",
+                "700.0"
+              ],
+              [
+                "N102023",
+                "1938-02-14",
+                "-",
+                "400.0"
+              ],
+              [
+                "N102024",
+                "1938-02-14",
+                "MORTGAGE",
+                "300.0"
+              ],
+              [
+                "N113501",
+                "1941-11-05",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N446298",
+                "1999-05-05",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N474176",
+                "2000-03-29",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "728758.8"
+              ],
+              [
+                "N484193",
+                "2000-06-05",
+                "ASSIGNMENT",
+                "728758.8"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937488943571398,
@@ -120,7 +266,75 @@
         1107625393,
         null,
         null,
-        []
+        [
+          [
+            "DD54 1467",
+            "Old Schedule Lot",
+            "C3311911",
+            [
+              [
+                "N133370",
+                "1955-06-27",
+                "-",
+                null
+              ],
+              [
+                "N133369",
+                "1955-06-27",
+                "-",
+                null
+              ],
+              [
+                "N329249",
+                "1995-05-18",
+                "MEMO AS TO ERROR IN RESPECT OF M/N 133369 & 133370",
+                null
+              ],
+              [
+                "N371535",
+                "1996-08-07",
+                "MEMO AS TO ERROR IN RESPECT OF M/N 133369",
+                null
+              ],
+              [
+                "N398259",
+                "1997-07-18",
+                "MEMO AS TO ERROR IN RESPECT OF M/N 133370",
+                null
+              ],
+              [
+                "N407622",
+                "1997-10-30",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N407623",
+                "1997-10-31",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "21072701600440",
+                "2017-01-05",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "23062302180049",
+                "2023-06-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2299968.0"
+              ],
+              [
+                "23072801800061",
+                "2023-07-21",
+                "ASSIGNMENT",
+                "2299968.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937889008966556,
@@ -177,7 +391,57 @@
         1107626111,
         null,
         null,
-        []
+        [
+          [
+            "DD54 1242",
+            "Old Schedule Lot",
+            "C3310623",
+            [
+              [
+                "N85920",
+                "1933-03-17",
+                "-",
+                null
+              ],
+              [
+                "N413885",
+                "1998-03-13",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N417515",
+                "1998-05-12",
+                "ASSIGNMENT",
+                "220000.0"
+              ],
+              [
+                "N428958",
+                "1998-11-24",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "07100900760017",
+                "2000-06-16",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "N563907",
+                "2004-06-17",
+                "SEALED COPY OF WRIT OF SUMMONS TOGETHER WITH STATEMENT OF CLAIM",
+                null
+              ],
+              [
+                "07080900040010",
+                "2006-04-07",
+                "A DEED TO DECLARE THAT ASSIGNMENT MEM NO. N417515 AND LETTERS OF ADMINISTRATION MEM. NO. N413885 *",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938126191105932,
@@ -215,7 +479,58 @@
         1107626254,
         null,
         "43 NG TO",
-        []
+        [
+          [
+            "DD54 1359",
+            "Old Schedule Lot",
+            "C3311276",
+            [
+              [
+                "N415721",
+                "1998-03-25",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "14112400160047",
+                "2014-08-22",
+                "PROBATE",
+                null
+              ],
+              [
+                "14112400160066",
+                "2014-11-13",
+                "ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 1360",
+            "Old Schedule Lot",
+            "C3311282",
+            [
+              [
+                "N425518",
+                "1998-07-17",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "14112400160047",
+                "2014-08-22",
+                "PROBATE",
+                null
+              ],
+              [
+                "14112400160066",
+                "2014-11-13",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937862264133068,
@@ -234,7 +549,33 @@
         1107626262,
         null,
         "41 NG TO",
-        []
+        [
+          [
+            "DD54 1358",
+            "Old Schedule Lot",
+            "C3311261",
+            [
+              [
+                "N97914",
+                "1936-11-24",
+                "-",
+                null
+              ],
+              [
+                "N413885",
+                "1998-03-13",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N417515",
+                "1998-05-12",
+                "ASSIGNMENT",
+                "220000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993785294271196,
@@ -291,7 +632,46 @@
         1107626321,
         null,
         "41 - 42 NG TO",
-        []
+        [
+          [
+            "DD54 1356",
+            "Old Schedule Lot",
+            "C3311250",
+            [
+              [
+                "N133536",
+                "1955-07-28",
+                "-",
+                null
+              ],
+              [
+                "N133537",
+                "1955-07-28",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 1357",
+            "Old Schedule Lot",
+            "C6561923",
+            [
+              [
+                "N133537",
+                "1955-07-28",
+                "-",
+                null
+              ],
+              [
+                "N133536",
+                "1955-07-28",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937858891012705,
@@ -329,7 +709,75 @@
         1107627094,
         null,
         null,
-        []
+        [
+          [
+            "DD55 4",
+            "Old Schedule Lot",
+            "C3316134",
+            [
+              [
+                "N133369",
+                "1955-06-27",
+                "-",
+                null
+              ],
+              [
+                "N133370",
+                "1955-06-27",
+                "-",
+                null
+              ],
+              [
+                "N329249",
+                "1995-05-18",
+                "MEMO AS TO ERROR IN RESPECT OF M/N 133369 & 133370",
+                null
+              ],
+              [
+                "N371535",
+                "1996-08-07",
+                "MEMO AS TO ERROR IN RESPECT OF M/N 133369",
+                null
+              ],
+              [
+                "N398259",
+                "1997-07-18",
+                "MEMO AS TO ERROR IN RESPECT OF M/N 133370",
+                null
+              ],
+              [
+                "N407622",
+                "1997-10-30",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N407623",
+                "1997-10-31",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "21072701600440",
+                "2017-01-05",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "23062302180049",
+                "2023-06-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2299968.0"
+              ],
+              [
+                "23072801800061",
+                "2023-07-21",
+                "ASSIGNMENT",
+                "2299968.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938101122073684,
@@ -348,7 +796,33 @@
         1107627275,
         null,
         null,
-        []
+        [
+          [
+            "DD54 1418",
+            "Old Schedule Lot",
+            "C3311676",
+            [
+              [
+                "N97914",
+                "1936-11-24",
+                "-",
+                null
+              ],
+              [
+                "N413885",
+                "1998-03-13",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N417515",
+                "1998-05-12",
+                "ASSIGNMENT",
+                "220000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993762124926623,
@@ -367,7 +841,39 @@
         1107630046,
         null,
         null,
-        []
+        [
+          [
+            "DD55 475",
+            "Old Schedule Lot",
+            "C3317644",
+            []
+          ],
+          [
+            "DD55 476",
+            "Old Schedule Lot",
+            "C3317651",
+            []
+          ],
+          [
+            "DD55 477",
+            "Old Schedule Lot",
+            "C5645216",
+            []
+          ],
+          [
+            "DD55 478",
+            "Old Schedule Lot",
+            "C5645220",
+            [
+              [
+                "07102302020017",
+                "2007-09-28",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939459790981529,

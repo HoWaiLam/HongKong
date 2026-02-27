@@ -101,7 +101,39 @@
         1106111020,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 570",
+            "Old Schedule Lot",
+            "C2013780",
+            [
+              [
+                "TP147786",
+                "1962-07-30",
+                "-",
+                null
+              ],
+              [
+                "TP624635",
+                "1999-12-28",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TP688068",
+                "2002-06-20",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "TP688069",
+                "2002-06-20",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9971551851211922,
@@ -253,7 +285,14 @@
         1106111031,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2520",
+            "New Grant Lot",
+            "C4900533",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.997171292849341,
@@ -272,7 +311,14 @@
         1106111036,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 698",
+            "Old Schedule Lot",
+            "C2014540",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9971834266962494,
@@ -291,7 +337,71 @@
         1106111040,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 707",
+            "Old Schedule Lot",
+            "C2014603",
+            [
+              [
+                "TP204482",
+                "1981-07-08",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "12121200290067",
+                "2012-09-25",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12121400320030",
+                "2012-11-30",
+                "VESTING ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DDPCL 708 S.A",
+            "Old Schedule Lot",
+            "C2014622",
+            [
+              [
+                "TP87938",
+                "1933-11-14",
+                "-",
+                null
+              ],
+              [
+                "TP90941",
+                "1934-11-22",
+                "DIVISION OF PROPERTY",
+                null
+              ]
+            ]
+          ],
+          [
+            "DDPCL 708 S.B",
+            "Old Schedule Lot",
+            "C6209560",
+            [
+              [
+                "TP87938",
+                "1933-11-14",
+                "-",
+                null
+              ],
+              [
+                "TP90941",
+                "1934-11-22",
+                "DIVISION OF PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9971888428026812,
@@ -310,7 +420,14 @@
         1106111042,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 727",
+            "Old Schedule Lot",
+            "C2014727",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9971754068646066,
@@ -329,7 +446,14 @@
         1106111044,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 727",
+            "Old Schedule Lot",
+            "C2014727",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.99717505271817,
@@ -386,7 +510,20 @@
         1106111047,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2516",
+            "New Grant Lot",
+            "C2025317",
+            []
+          ],
+          [
+            "DDPCL 2517",
+            "New Grant Lot",
+            "C4900525",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9971824287807496,
@@ -405,7 +542,33 @@
         1106111050,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 722",
+            "Old Schedule Lot",
+            "C4899242",
+            []
+          ],
+          [
+            "DDPCL 723 S.A",
+            "Old Schedule Lot",
+            "C5817088",
+            [
+              [
+                "TP114340",
+                "1946-08-16",
+                "-",
+                "500.0"
+              ],
+              [
+                "TP162905",
+                "1968-10-29",
+                "REDEVELOPMENT NOTICE NO. RN165/68",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.997190409942612,
@@ -424,7 +587,33 @@
         1106111051,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2417",
+            "New Grant Lot",
+            "C2024697",
+            [
+              [
+                "TP204846",
+                "1981-07-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "15041000620035",
+                "2015-03-27",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "15040200250050",
+                "2015-03-27",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9971921637035839,
@@ -443,7 +632,33 @@
         1106111052,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2417",
+            "New Grant Lot",
+            "C2024697",
+            [
+              [
+                "TP204846",
+                "1981-07-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "15041000620035",
+                "2015-03-27",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "15040200250050",
+                "2015-03-27",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9971926691085788,
@@ -462,7 +677,14 @@
         1106111053,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 957",
+            "Old Schedule Lot",
+            "C2016079",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9971443254617887,
@@ -500,7 +722,20 @@
         1106111056,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2455",
+            "New Grant Lot",
+            "C2024992",
+            []
+          ],
+          [
+            "DDPCL 2471",
+            "New Grant Lot",
+            "C5544042",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9972687786286445,
@@ -519,7 +754,14 @@
         1106111057,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2455",
+            "New Grant Lot",
+            "C2024992",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9972693174396277,
@@ -538,7 +780,14 @@
         1106111058,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2446",
+            "New Grant Lot",
+            "C4900486",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9972699001736227,
@@ -576,7 +825,14 @@
         1106111060,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2453",
+            "New Grant Lot",
+            "C6397152",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9972710701724898,
@@ -595,7 +851,27 @@
         1106111061,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2505",
+            "New Grant Lot",
+            "C5211158",
+            [
+              [
+                "09011302420016",
+                "2008-11-17",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "09011302420022",
+                "2008-12-28",
+                "ASSIGNMENT",
+                "100000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9972776670485914,
@@ -614,7 +890,27 @@
         1106111063,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2434",
+            "New Grant Lot",
+            "C4900474",
+            [
+              [
+                "08060400920031",
+                "2008-05-05",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "13012401270029",
+                "2012-12-24",
+                "MEMO AS TO ERROR IN RESPECT OF MEM. NO. 08060400920031",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9972769673689779,
@@ -633,7 +929,14 @@
         1106111064,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2479",
+            "New Grant Lot",
+            "C6542381",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9972727433137825,
@@ -652,7 +955,14 @@
         1106111067,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2503",
+            "New Grant Lot",
+            "C2025230",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9972835517158576,
@@ -690,7 +1000,14 @@
         1106111072,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2070",
+            "Old Schedule Lot",
+            "C2022551",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9972785155329293,
@@ -728,7 +1045,27 @@
         1106111074,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2100",
+            "Old Schedule Lot",
+            "C4900271",
+            [
+              [
+                "10042300520017",
+                "2008-11-11",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF TIN HAU KUNG",
+                null
+              ],
+              [
+                "10042300520027",
+                "2010-04-01",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF TIN HAU KUNG",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.997296496456644,
@@ -766,7 +1103,14 @@
         1810163584,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2504",
+            "New Grant Lot",
+            "C2025248",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.997284217586449,
@@ -823,7 +1167,14 @@
         1910227439,
         null,
         null,
-        []
+        [
+          [
+            "DDPCL 2448 S.B",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.997198981114575,

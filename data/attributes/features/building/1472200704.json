@@ -120,7 +120,21 @@
         1107615658,
         null,
         "71 AP CHAU",
-        []
+        [
+          [
+            "DDACL 6",
+            "New Grant Lot",
+            "C3094324",
+            [
+              [
+                "N287337",
+                "1993-06-18",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9943796433512526,
@@ -291,7 +305,39 @@
         1107615701,
         null,
         "62 AP CHAU",
-        []
+        [
+          [
+            "DDACL 5",
+            "New Grant Lot",
+            "C6502839",
+            [
+              [
+                "14091800820019",
+                "2013-02-26",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "16031600980020",
+                "2016-03-08",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "16031600980035",
+                "2016-03-08",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "23102401590048",
+                "2023-09-28",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9943734549382226,
@@ -443,7 +489,21 @@
         1107615729,
         null,
         "55 AP CHAU",
-        []
+        [
+          [
+            "DDACL 1",
+            "New Grant Lot",
+            "C3094301",
+            [
+              [
+                "N311576",
+                "1994-04-08",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9943708849807904,
@@ -481,7 +541,21 @@
         1107615734,
         null,
         "56 AP CHAU",
-        []
+        [
+          [
+            "DDACL 2",
+            "New Grant Lot",
+            "C3094317",
+            [
+              [
+                "N520181",
+                "2001-11-12",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9943714897318878,
@@ -785,7 +859,20 @@
         1810063318,
         null,
         "67 - 68 AP CHAU",
-        []
+        [
+          [
+            "DDACL 3",
+            "New Grant Lot",
+            "C5036886",
+            []
+          ],
+          [
+            "DDACL 4",
+            "New Grant Lot",
+            "C5036897",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9943766600455215,

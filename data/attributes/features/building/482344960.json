@@ -25,7 +25,123 @@
         1109177215,
         null,
         null,
-        []
+        [
+          [
+            "DD337 LL 179",
+            "New Grant Lot",
+            "C4211659",
+            [
+              [
+                "IS109932",
+                "1982-02-23",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS111187",
+                "1982-07-12",
+                "-",
+                "500000.0"
+              ],
+              [
+                "IS112673",
+                "1982-12-06",
+                "MORTGAGE",
+                "1000000.0"
+              ],
+              [
+                "IS122872",
+                "1985-09-20",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS218937",
+                "1995-01-27",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "IS233598",
+                "1996-08-12",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS268515",
+                "1998-10-20",
+                "ASSIGNMENT (PREVIOUSLY REGD. BY M/N 265781)",
+                "1.0"
+              ],
+              [
+                "IS265781",
+                "1998-10-20",
+                "ASSIGNMENT",
+                "1.0"
+              ],
+              [
+                "06010901020047",
+                "2005-12-20",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8200000.0"
+              ],
+              [
+                "06031801830016",
+                "2006-02-20",
+                "ASSIGNMENT",
+                "8200000.0"
+              ],
+              [
+                "06111101240054",
+                "2006-10-12",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "07081002710081",
+                "2006-10-12",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "15052100830067",
+                "2015-04-28",
+                "RENTAL ASSIGNMENT",
+                null
+              ],
+              [
+                "15052100830039",
+                "2015-04-28",
+                "RELEASE",
+                null
+              ],
+              [
+                "15052100830053",
+                "2015-04-28",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "15052100830049",
+                "2015-04-28",
+                "RELEASE OF ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "18121101030035",
+                "2018-11-20",
+                "ORDER NO. \"DH0045/NT/18/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "21081102630033",
+                "2021-07-19",
+                "RELEASE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9894058626994393,
@@ -82,7 +198,238 @@
         1109178838,
         null,
         null,
-        []
+        [
+          [
+            "DD337 LL 186",
+            "New Grant Lot",
+            "C4211691",
+            [
+              [
+                "IS96264",
+                "1978-08-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS112239",
+                "1980-09-11",
+                "DEED BY FAN TAO KAU",
+                null
+              ],
+              [
+                "IS218478",
+                "1982-05-07",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS111605",
+                "1982-08-24",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS111606",
+                "1982-09-16",
+                "-",
+                "700000.0"
+              ],
+              [
+                "IS218937",
+                "1995-01-27",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "IS233598",
+                "1996-08-12",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS265781",
+                "1998-10-20",
+                "ASSIGNMENT",
+                "1.0"
+              ],
+              [
+                "IS268515",
+                "1998-10-20",
+                "ASSIGNMENT (PREVIOUSLY REGD. BY M/N 265781)",
+                "1.0"
+              ],
+              [
+                "06010901020047",
+                "2005-12-20",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8200000.0"
+              ],
+              [
+                "06031801830016",
+                "2006-02-20",
+                "ASSIGNMENT",
+                "8200000.0"
+              ],
+              [
+                "07081002710081",
+                "2006-10-12",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "06111101240054",
+                "2006-10-12",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "15052100830039",
+                "2015-04-28",
+                "RELEASE",
+                null
+              ],
+              [
+                "15052100830053",
+                "2015-04-28",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "15052100830067",
+                "2015-04-28",
+                "RENTAL ASSIGNMENT",
+                null
+              ],
+              [
+                "15052100830049",
+                "2015-04-28",
+                "RELEASE OF ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "21081102630033",
+                "2021-07-19",
+                "RELEASE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD337 LL 187",
+            "New Grant Lot",
+            "C4211709",
+            [
+              [
+                "IS96261",
+                "1978-08-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS112240",
+                "1980-09-11",
+                "DEED OF FAN SING YUK",
+                null
+              ],
+              [
+                "IS218479",
+                "1982-05-21",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS111607",
+                "1982-08-25",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS111608",
+                "1982-09-16",
+                "-",
+                "700000.0"
+              ],
+              [
+                "IS218937",
+                "1995-01-27",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "IS233598",
+                "1996-08-12",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS268515",
+                "1998-10-20",
+                "ASSIGNMENT (PREVIOUSLY REGD. BY M/N 265781)",
+                "1.0"
+              ],
+              [
+                "IS265781",
+                "1998-10-20",
+                "ASSIGNMENT",
+                "1.0"
+              ],
+              [
+                "06010901020047",
+                "2005-12-20",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8200000.0"
+              ],
+              [
+                "06031801830016",
+                "2006-02-20",
+                "ASSIGNMENT",
+                "8200000.0"
+              ],
+              [
+                "06111101240054",
+                "2006-10-12",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "07081002710081",
+                "2006-10-12",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "15052100830039",
+                "2015-04-28",
+                "RELEASE",
+                null
+              ],
+              [
+                "15052100830049",
+                "2015-04-28",
+                "RELEASE OF ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "15052100830053",
+                "2015-04-28",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "15052100830067",
+                "2015-04-28",
+                "RENTAL ASSIGNMENT",
+                null
+              ],
+              [
+                "21081102630033",
+                "2021-07-19",
+                "RELEASE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9894039654950013,
@@ -101,7 +448,238 @@
         1109180039,
         null,
         null,
-        []
+        [
+          [
+            "DD337 LL 179",
+            "New Grant Lot",
+            "C4211659",
+            [
+              [
+                "IS109932",
+                "1982-02-23",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS111187",
+                "1982-07-12",
+                "-",
+                "500000.0"
+              ],
+              [
+                "IS112673",
+                "1982-12-06",
+                "MORTGAGE",
+                "1000000.0"
+              ],
+              [
+                "IS122872",
+                "1985-09-20",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS218937",
+                "1995-01-27",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "IS233598",
+                "1996-08-12",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS268515",
+                "1998-10-20",
+                "ASSIGNMENT (PREVIOUSLY REGD. BY M/N 265781)",
+                "1.0"
+              ],
+              [
+                "IS265781",
+                "1998-10-20",
+                "ASSIGNMENT",
+                "1.0"
+              ],
+              [
+                "06010901020047",
+                "2005-12-20",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8200000.0"
+              ],
+              [
+                "06031801830016",
+                "2006-02-20",
+                "ASSIGNMENT",
+                "8200000.0"
+              ],
+              [
+                "06111101240054",
+                "2006-10-12",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "07081002710081",
+                "2006-10-12",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "15052100830067",
+                "2015-04-28",
+                "RENTAL ASSIGNMENT",
+                null
+              ],
+              [
+                "15052100830039",
+                "2015-04-28",
+                "RELEASE",
+                null
+              ],
+              [
+                "15052100830053",
+                "2015-04-28",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "15052100830049",
+                "2015-04-28",
+                "RELEASE OF ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "18121101030035",
+                "2018-11-20",
+                "ORDER NO. \"DH0045/NT/18/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "21081102630033",
+                "2021-07-19",
+                "RELEASE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD337 LL 180",
+            "New Grant Lot",
+            "C5176434",
+            [
+              [
+                "IS109933",
+                "1982-02-24",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS111188",
+                "1982-07-12",
+                "-",
+                "500000.0"
+              ],
+              [
+                "IS112673",
+                "1982-12-06",
+                "MORTGAGE",
+                "1000000.0"
+              ],
+              [
+                "IS122872",
+                "1985-09-20",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS218937",
+                "1995-01-27",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "IS233598",
+                "1996-08-12",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS265781",
+                "1998-10-20",
+                "ASSIGNMENT",
+                "1.0"
+              ],
+              [
+                "IS268515",
+                "1998-10-20",
+                "ASSIGNMENT (PREVIOUSLY REGD. BY M/N 265781)",
+                "1.0"
+              ],
+              [
+                "06010901020047",
+                "2005-12-20",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8200000.0"
+              ],
+              [
+                "06031801830016",
+                "2006-02-20",
+                "ASSIGNMENT",
+                "8200000.0"
+              ],
+              [
+                "06111101240054",
+                "2006-10-12",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "07081002710081",
+                "2006-10-12",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "15052100830067",
+                "2015-04-28",
+                "RENTAL ASSIGNMENT",
+                null
+              ],
+              [
+                "15052100830039",
+                "2015-04-28",
+                "RELEASE",
+                null
+              ],
+              [
+                "15052100830053",
+                "2015-04-28",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "15052100830049",
+                "2015-04-28",
+                "RELEASE OF ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "18121101030035",
+                "2018-11-20",
+                "ORDER NO. \"DH0045/NT/18/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "21081102630033",
+                "2021-07-19",
+                "RELEASE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9894064184433495,
@@ -120,7 +698,123 @@
         1109180867,
         null,
         null,
-        []
+        [
+          [
+            "DD337 LL 187",
+            "New Grant Lot",
+            "C4211709",
+            [
+              [
+                "IS96261",
+                "1978-08-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS112240",
+                "1980-09-11",
+                "DEED OF FAN SING YUK",
+                null
+              ],
+              [
+                "IS218479",
+                "1982-05-21",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS111607",
+                "1982-08-25",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS111608",
+                "1982-09-16",
+                "-",
+                "700000.0"
+              ],
+              [
+                "IS218937",
+                "1995-01-27",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "IS233598",
+                "1996-08-12",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS268515",
+                "1998-10-20",
+                "ASSIGNMENT (PREVIOUSLY REGD. BY M/N 265781)",
+                "1.0"
+              ],
+              [
+                "IS265781",
+                "1998-10-20",
+                "ASSIGNMENT",
+                "1.0"
+              ],
+              [
+                "06010901020047",
+                "2005-12-20",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8200000.0"
+              ],
+              [
+                "06031801830016",
+                "2006-02-20",
+                "ASSIGNMENT",
+                "8200000.0"
+              ],
+              [
+                "06111101240054",
+                "2006-10-12",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "07081002710081",
+                "2006-10-12",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "15052100830039",
+                "2015-04-28",
+                "RELEASE",
+                null
+              ],
+              [
+                "15052100830049",
+                "2015-04-28",
+                "RELEASE OF ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "15052100830053",
+                "2015-04-28",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "15052100830067",
+                "2015-04-28",
+                "RENTAL ASSIGNMENT",
+                null
+              ],
+              [
+                "21081102630033",
+                "2021-07-19",
+                "RELEASE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9894039667844976,
@@ -139,7 +833,39 @@
         1109181649,
         null,
         null,
-        []
+        [
+          [
+            "DD337 LL 89",
+            "Old Schedule Lot",
+            "C4211142",
+            [
+              [
+                "IS63753",
+                "1956-01-16",
+                "-",
+                null
+              ],
+              [
+                "IS80618",
+                "1966-09-21",
+                "-",
+                null
+              ],
+              [
+                "IS291847",
+                "2001-05-05",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "07092702610167",
+                "2007-09-12",
+                "ASSIGNMENT",
+                "100000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9893998266029254,
@@ -158,7 +884,57 @@
         1109181872,
         null,
         "4 MONG TUNG WAN",
-        []
+        [
+          [
+            "DD337 LL 91",
+            "Old Schedule Lot",
+            "C4211166",
+            [
+              [
+                "IS49621",
+                "1947-10-17",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "IS73116",
+                "1961-09-26",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS86446",
+                "1973-07-31",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS86786",
+                "1973-11-02",
+                "-",
+                "7926.0"
+              ],
+              [
+                "IS96037",
+                "1978-12-08",
+                "-",
+                "17424.0"
+              ],
+              [
+                "IS291845",
+                "2001-05-07",
+                "ASSIGNMENT",
+                "50000.0"
+              ],
+              [
+                "IS291844",
+                "2001-05-07",
+                "STATUTORY DECLARATION AS TO THE LOSS OF TITLE DEEDS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9893963110254274,
@@ -177,7 +953,123 @@
         1109182984,
         "THE BLISS LODGE",
         null,
-        []
+        [
+          [
+            "DD337 LL 185",
+            "New Grant Lot",
+            "C4211684",
+            [
+              [
+                "IS96263",
+                "1978-08-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS118542",
+                "1980-09-11",
+                "DEED BY FAN WAH HUNG",
+                null
+              ],
+              [
+                "IS218477",
+                "1983-05-19",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS118544",
+                "1984-06-20",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS118546",
+                "1984-06-25",
+                "-",
+                "700000.0"
+              ],
+              [
+                "IS218937",
+                "1995-01-27",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "IS233598",
+                "1996-08-12",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS265781",
+                "1998-10-20",
+                "ASSIGNMENT",
+                "1.0"
+              ],
+              [
+                "IS268515",
+                "1998-10-20",
+                "ASSIGNMENT (PREVIOUSLY REGD. BY M/N 265781)",
+                "1.0"
+              ],
+              [
+                "06010901020047",
+                "2005-12-20",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8200000.0"
+              ],
+              [
+                "06031801830016",
+                "2006-02-20",
+                "ASSIGNMENT",
+                "8200000.0"
+              ],
+              [
+                "06111101240054",
+                "2006-10-12",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "07081002710081",
+                "2006-10-12",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "15052100830049",
+                "2015-04-28",
+                "RELEASE OF ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "15052100830053",
+                "2015-04-28",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "15052100830039",
+                "2015-04-28",
+                "RELEASE",
+                null
+              ],
+              [
+                "15052100830067",
+                "2015-04-28",
+                "RENTAL ASSIGNMENT",
+                null
+              ],
+              [
+                "21081102630033",
+                "2021-07-19",
+                "RELEASE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9894039739931992,
@@ -234,7 +1126,238 @@
         1109183965,
         null,
         null,
-        []
+        [
+          [
+            "DD337 LL 184",
+            "New Grant Lot",
+            "C5176443",
+            [
+              [
+                "IS96260",
+                "1978-08-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS118541",
+                "1980-09-11",
+                "DEED BY FAN SIU PING",
+                null
+              ],
+              [
+                "IS218476",
+                "1983-05-18",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS118543",
+                "1984-06-20",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS118545",
+                "1984-06-25",
+                "-",
+                "700000.0"
+              ],
+              [
+                "IS218937",
+                "1995-01-27",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "IS233598",
+                "1996-08-12",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS265781",
+                "1998-10-20",
+                "ASSIGNMENT",
+                "1.0"
+              ],
+              [
+                "IS268515",
+                "1998-10-20",
+                "ASSIGNMENT (PREVIOUSLY REGD. BY M/N 265781)",
+                "1.0"
+              ],
+              [
+                "06010901020047",
+                "2005-12-20",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8200000.0"
+              ],
+              [
+                "06031801830016",
+                "2006-02-20",
+                "ASSIGNMENT",
+                "8200000.0"
+              ],
+              [
+                "06111101240054",
+                "2006-10-12",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "07081002710081",
+                "2006-10-12",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "15052100830049",
+                "2015-04-28",
+                "RELEASE OF ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "15052100830039",
+                "2015-04-28",
+                "RELEASE",
+                null
+              ],
+              [
+                "15052100830067",
+                "2015-04-28",
+                "RENTAL ASSIGNMENT",
+                null
+              ],
+              [
+                "15052100830053",
+                "2015-04-28",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "21081102630033",
+                "2021-07-19",
+                "RELEASE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD337 LL 185",
+            "New Grant Lot",
+            "C4211684",
+            [
+              [
+                "IS96263",
+                "1978-08-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS118542",
+                "1980-09-11",
+                "DEED BY FAN WAH HUNG",
+                null
+              ],
+              [
+                "IS218477",
+                "1983-05-19",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS118544",
+                "1984-06-20",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS118546",
+                "1984-06-25",
+                "-",
+                "700000.0"
+              ],
+              [
+                "IS218937",
+                "1995-01-27",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "IS233598",
+                "1996-08-12",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS265781",
+                "1998-10-20",
+                "ASSIGNMENT",
+                "1.0"
+              ],
+              [
+                "IS268515",
+                "1998-10-20",
+                "ASSIGNMENT (PREVIOUSLY REGD. BY M/N 265781)",
+                "1.0"
+              ],
+              [
+                "06010901020047",
+                "2005-12-20",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8200000.0"
+              ],
+              [
+                "06031801830016",
+                "2006-02-20",
+                "ASSIGNMENT",
+                "8200000.0"
+              ],
+              [
+                "06111101240054",
+                "2006-10-12",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "07081002710081",
+                "2006-10-12",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "15052100830049",
+                "2015-04-28",
+                "RELEASE OF ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "15052100830053",
+                "2015-04-28",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "15052100830039",
+                "2015-04-28",
+                "RELEASE",
+                null
+              ],
+              [
+                "15052100830067",
+                "2015-04-28",
+                "RENTAL ASSIGNMENT",
+                null
+              ],
+              [
+                "21081102630033",
+                "2021-07-19",
+                "RELEASE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9894047559757866,
@@ -253,7 +1376,33 @@
         1109185191,
         null,
         "2 MONG TUNG WAN",
-        []
+        [
+          [
+            "DD337 LL 85",
+            "Old Schedule Lot",
+            "C4211111",
+            [
+              [
+                "IS63753",
+                "1956-01-16",
+                "-",
+                null
+              ],
+              [
+                "IS80618",
+                "1966-09-21",
+                "-",
+                null
+              ],
+              [
+                "IS291846",
+                "2001-05-05",
+                "ASSIGNMENT",
+                "146000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989398249993687,
@@ -291,7 +1440,220 @@
         1109186432,
         "LANTAU SEAVIEW RESORT",
         null,
-        []
+        [
+          [
+            "DD337 LL 191",
+            "New Grant Lot",
+            "C6382588",
+            [
+              [
+                "IS229370",
+                "1995-03-20",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS223590",
+                "1995-09-27",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS233081",
+                "1995-09-27",
+                "CERTIFIED COPY GENERAL POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS229856",
+                "1996-05-18",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2000000.0"
+              ],
+              [
+                "IS233082",
+                "1996-08-15",
+                "STATUTORY DECLARATION OF LAM PAK TONG",
+                null
+              ],
+              [
+                "IS233084",
+                "1996-08-15",
+                "MORTGAGE",
+                "1000000.0"
+              ],
+              [
+                "IS233083",
+                "1996-08-15",
+                "ASSIGNMENT",
+                "2000000.0"
+              ],
+              [
+                "IS321338",
+                "2003-08-05",
+                "DEED OF TRANSFER",
+                null
+              ],
+              [
+                "06050902310060",
+                "2006-04-19",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3000000.0"
+              ],
+              [
+                "06111101240025",
+                "2006-10-12",
+                "RELEASE",
+                null
+              ],
+              [
+                "07081002710081",
+                "2006-10-12",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "06111101240031",
+                "2006-10-12",
+                "ASSIGNMENT",
+                "3000000.0"
+              ],
+              [
+                "06111101240054",
+                "2006-10-12",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "15052100830053",
+                "2015-04-28",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "15052100830049",
+                "2015-04-28",
+                "RELEASE OF ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "15052100830039",
+                "2015-04-28",
+                "RELEASE",
+                null
+              ],
+              [
+                "15052100830067",
+                "2015-04-28",
+                "RENTAL ASSIGNMENT",
+                null
+              ],
+              [
+                "21081102630033",
+                "2021-07-19",
+                "RELEASE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD337 LL 192",
+            "New Grant Lot",
+            "C4211741",
+            [
+              [
+                "IS229371",
+                "1995-03-20",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS223591",
+                "1995-09-27",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS233085",
+                "1995-09-27",
+                "CERTIFIED COPY GENERAL POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS229855",
+                "1996-05-18",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2000000.0"
+              ],
+              [
+                "IS233087",
+                "1996-08-15",
+                "ASSIGNMENT",
+                "2000000.0"
+              ],
+              [
+                "IS233086",
+                "1996-08-15",
+                "STATUTORY DECLARATION OF LAM PAK TONG",
+                null
+              ],
+              [
+                "06050902310075",
+                "2006-04-19",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3000000.0"
+              ],
+              [
+                "07081002710081",
+                "2006-10-12",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "06111101240040",
+                "2006-10-12",
+                "ASSIGNMENT",
+                "3000000.0"
+              ],
+              [
+                "06111101240054",
+                "2006-10-12",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "15052100830053",
+                "2015-04-28",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "15052100830049",
+                "2015-04-28",
+                "RELEASE OF ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "15052100830067",
+                "2015-04-28",
+                "RENTAL ASSIGNMENT",
+                null
+              ],
+              [
+                "15052100830039",
+                "2015-04-28",
+                "RELEASE",
+                null
+              ],
+              [
+                "21081102630033",
+                "2021-07-19",
+                "RELEASE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9894035648262496,
@@ -348,7 +1710,123 @@
         1109186670,
         null,
         null,
-        []
+        [
+          [
+            "DD337 LL 182",
+            "New Grant Lot",
+            "C4211672",
+            [
+              [
+                "IS96262",
+                "1978-08-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS112238",
+                "1980-09-11",
+                "DEED BY FAN SHEK",
+                null
+              ],
+              [
+                "IS110061",
+                "1982-03-10",
+                "LETTER",
+                null
+              ],
+              [
+                "IS111603",
+                "1982-08-18",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS111604",
+                "1982-09-16",
+                "-",
+                "700000.0"
+              ],
+              [
+                "IS218937",
+                "1995-01-27",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "IS233598",
+                "1996-08-12",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS268515",
+                "1998-10-20",
+                "ASSIGNMENT (PREVIOUSLY REGD. BY M/N 265781)",
+                "1.0"
+              ],
+              [
+                "IS265781",
+                "1998-10-20",
+                "ASSIGNMENT",
+                "1.0"
+              ],
+              [
+                "06010901020047",
+                "2005-12-20",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8200000.0"
+              ],
+              [
+                "06031801830016",
+                "2006-02-20",
+                "ASSIGNMENT",
+                "8200000.0"
+              ],
+              [
+                "06111101240054",
+                "2006-10-12",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "07081002710081",
+                "2006-10-12",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "15052100830053",
+                "2015-04-28",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "15052100830067",
+                "2015-04-28",
+                "RENTAL ASSIGNMENT",
+                null
+              ],
+              [
+                "15052100830049",
+                "2015-04-28",
+                "RELEASE OF ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "15052100830039",
+                "2015-04-28",
+                "RELEASE",
+                null
+              ],
+              [
+                "21081102630033",
+                "2021-07-19",
+                "RELEASE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989407130062143,

@@ -6,7 +6,75 @@
         1108530684,
         null,
         "97 HO YEUNG STREET",
-        []
+        [
+          [
+            "TMTL 320 RP",
+            "New Grant Lot",
+            "D3271557",
+            [
+              [
+                "TM412642",
+                "1989-12-07",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM451635",
+                "1990-10-23",
+                "MEMORANDUM TOGETHER WITH AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM501838",
+                "1991-06-25",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM754874",
+                "1991-11-15",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "TM783629",
+                "1997-05-07",
+                "ASSIGNMENT",
+                "280000000.0"
+              ],
+              [
+                "TM819330",
+                "1997-05-07",
+                "RE-REGISTRATION OF ASSIGNMENT MEM. NO. TM783629",
+                "280000000.0"
+              ],
+              [
+                "12020600620707",
+                "2012-01-04",
+                "ORDER NO. UBCS/02-47/0001/10 UNDER  S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLANS",
+                null
+              ],
+              [
+                "16021501000012",
+                "2016-02-05",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "16080801720010",
+                "2016-08-03",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "20060401510454",
+                "2020-04-23",
+                "LETTER OF WITHDRAWAL (ORDER NO. \"UBCS/02-47/0001/10\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9887448167738695,
@@ -25,7 +93,105 @@
         1108530810,
         null,
         null,
-        []
+        [
+          [
+            "TMTL 393",
+            "New Grant Lot",
+            "C4752804",
+            [
+              [
+                "TM812647",
+                "1997-09-30",
+                "BUILDING MORTGAGE",
+                null
+              ],
+              [
+                "TM864672",
+                "1998-08-30",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM892695",
+                "1999-03-23",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM892696",
+                "1999-03-23",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM896655",
+                "1999-03-25",
+                "ASSIGNMENT WITH PLAN",
+                "85756002.0"
+              ],
+              [
+                "TM896654",
+                "1999-03-25",
+                "PARTIAL RELEASE WITH PLANS",
+                "76154002.0"
+              ],
+              [
+                "TM1067524",
+                "2000-05-02",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM954170",
+                "2000-05-02",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM971544",
+                "2000-11-20",
+                "LETTER (WITH CAR PARK LAYOUT PLANS ATTACHED) WITH PLAN",
+                null
+              ],
+              [
+                "TM1074516",
+                "2003-07-22",
+                "WAIVER LETTER (EXCLUDING THE GOVERNMENT ACCOMMODATION)",
+                null
+              ],
+              [
+                "06100901750159",
+                "2006-09-29",
+                "DEED OF RELEASE",
+                null
+              ],
+              [
+                "12021700880114",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS",
+                null
+              ],
+              [
+                "12021700880128",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS INDICATING THE UPDATED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "18030500870124",
+                "2017-11-15",
+                "ORDER NO. \"C/TE/003715/17/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24081300840207",
+                "2024-01-25",
+                "LETTER OF COMPLIANCE (ORDER NO. \"C/TE/003715/17/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9887320709407494,
@@ -44,7 +210,105 @@
         1108530825,
         null,
         null,
-        []
+        [
+          [
+            "TMTL 393",
+            "New Grant Lot",
+            "C4752804",
+            [
+              [
+                "TM812647",
+                "1997-09-30",
+                "BUILDING MORTGAGE",
+                null
+              ],
+              [
+                "TM864672",
+                "1998-08-30",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM892695",
+                "1999-03-23",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM892696",
+                "1999-03-23",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM896655",
+                "1999-03-25",
+                "ASSIGNMENT WITH PLAN",
+                "85756002.0"
+              ],
+              [
+                "TM896654",
+                "1999-03-25",
+                "PARTIAL RELEASE WITH PLANS",
+                "76154002.0"
+              ],
+              [
+                "TM1067524",
+                "2000-05-02",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM954170",
+                "2000-05-02",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM971544",
+                "2000-11-20",
+                "LETTER (WITH CAR PARK LAYOUT PLANS ATTACHED) WITH PLAN",
+                null
+              ],
+              [
+                "TM1074516",
+                "2003-07-22",
+                "WAIVER LETTER (EXCLUDING THE GOVERNMENT ACCOMMODATION)",
+                null
+              ],
+              [
+                "06100901750159",
+                "2006-09-29",
+                "DEED OF RELEASE",
+                null
+              ],
+              [
+                "12021700880114",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS",
+                null
+              ],
+              [
+                "12021700880128",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS INDICATING THE UPDATED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "18030500870124",
+                "2017-11-15",
+                "ORDER NO. \"C/TE/003715/17/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24081300840207",
+                "2024-01-25",
+                "LETTER OF COMPLIANCE (ORDER NO. \"C/TE/003715/17/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9887332797221238,
@@ -63,7 +327,105 @@
         1108530875,
         null,
         null,
-        []
+        [
+          [
+            "TMTL 393",
+            "New Grant Lot",
+            "C4752804",
+            [
+              [
+                "TM812647",
+                "1997-09-30",
+                "BUILDING MORTGAGE",
+                null
+              ],
+              [
+                "TM864672",
+                "1998-08-30",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM892695",
+                "1999-03-23",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM892696",
+                "1999-03-23",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM896655",
+                "1999-03-25",
+                "ASSIGNMENT WITH PLAN",
+                "85756002.0"
+              ],
+              [
+                "TM896654",
+                "1999-03-25",
+                "PARTIAL RELEASE WITH PLANS",
+                "76154002.0"
+              ],
+              [
+                "TM1067524",
+                "2000-05-02",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM954170",
+                "2000-05-02",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM971544",
+                "2000-11-20",
+                "LETTER (WITH CAR PARK LAYOUT PLANS ATTACHED) WITH PLAN",
+                null
+              ],
+              [
+                "TM1074516",
+                "2003-07-22",
+                "WAIVER LETTER (EXCLUDING THE GOVERNMENT ACCOMMODATION)",
+                null
+              ],
+              [
+                "06100901750159",
+                "2006-09-29",
+                "DEED OF RELEASE",
+                null
+              ],
+              [
+                "12021700880114",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS",
+                null
+              ],
+              [
+                "12021700880128",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS INDICATING THE UPDATED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "18030500870124",
+                "2017-11-15",
+                "ORDER NO. \"C/TE/003715/17/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24081300840207",
+                "2024-01-25",
+                "LETTER OF COMPLIANCE (ORDER NO. \"C/TE/003715/17/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9887275013018515,
@@ -82,7 +444,105 @@
         1108531057,
         null,
         null,
-        []
+        [
+          [
+            "TMTL 393",
+            "New Grant Lot",
+            "C4752804",
+            [
+              [
+                "TM812647",
+                "1997-09-30",
+                "BUILDING MORTGAGE",
+                null
+              ],
+              [
+                "TM864672",
+                "1998-08-30",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM892695",
+                "1999-03-23",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM892696",
+                "1999-03-23",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM896655",
+                "1999-03-25",
+                "ASSIGNMENT WITH PLAN",
+                "85756002.0"
+              ],
+              [
+                "TM896654",
+                "1999-03-25",
+                "PARTIAL RELEASE WITH PLANS",
+                "76154002.0"
+              ],
+              [
+                "TM1067524",
+                "2000-05-02",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM954170",
+                "2000-05-02",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM971544",
+                "2000-11-20",
+                "LETTER (WITH CAR PARK LAYOUT PLANS ATTACHED) WITH PLAN",
+                null
+              ],
+              [
+                "TM1074516",
+                "2003-07-22",
+                "WAIVER LETTER (EXCLUDING THE GOVERNMENT ACCOMMODATION)",
+                null
+              ],
+              [
+                "06100901750159",
+                "2006-09-29",
+                "DEED OF RELEASE",
+                null
+              ],
+              [
+                "12021700880114",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS",
+                null
+              ],
+              [
+                "12021700880128",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS INDICATING THE UPDATED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "18030500870124",
+                "2017-11-15",
+                "ORDER NO. \"C/TE/003715/17/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24081300840207",
+                "2024-01-25",
+                "LETTER OF COMPLIANCE (ORDER NO. \"C/TE/003715/17/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9887369165358326,
@@ -101,7 +561,105 @@
         1108531555,
         "TUEN MUN FIREBOAT STATION",
         null,
-        []
+        [
+          [
+            "TMTL 393",
+            "New Grant Lot",
+            "C4752804",
+            [
+              [
+                "TM812647",
+                "1997-09-30",
+                "BUILDING MORTGAGE",
+                null
+              ],
+              [
+                "TM864672",
+                "1998-08-30",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM892695",
+                "1999-03-23",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM892696",
+                "1999-03-23",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM896655",
+                "1999-03-25",
+                "ASSIGNMENT WITH PLAN",
+                "85756002.0"
+              ],
+              [
+                "TM896654",
+                "1999-03-25",
+                "PARTIAL RELEASE WITH PLANS",
+                "76154002.0"
+              ],
+              [
+                "TM1067524",
+                "2000-05-02",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM954170",
+                "2000-05-02",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM971544",
+                "2000-11-20",
+                "LETTER (WITH CAR PARK LAYOUT PLANS ATTACHED) WITH PLAN",
+                null
+              ],
+              [
+                "TM1074516",
+                "2003-07-22",
+                "WAIVER LETTER (EXCLUDING THE GOVERNMENT ACCOMMODATION)",
+                null
+              ],
+              [
+                "06100901750159",
+                "2006-09-29",
+                "DEED OF RELEASE",
+                null
+              ],
+              [
+                "12021700880114",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS",
+                null
+              ],
+              [
+                "12021700880128",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS INDICATING THE UPDATED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "18030500870124",
+                "2017-11-15",
+                "ORDER NO. \"C/TE/003715/17/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24081300840207",
+                "2024-01-25",
+                "LETTER OF COMPLIANCE (ORDER NO. \"C/TE/003715/17/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9887682656936836,
@@ -120,7 +678,105 @@
         1108531567,
         "TUEN MUN CUSTOMS MARINE BASE",
         null,
-        []
+        [
+          [
+            "TMTL 393",
+            "New Grant Lot",
+            "C4752804",
+            [
+              [
+                "TM812647",
+                "1997-09-30",
+                "BUILDING MORTGAGE",
+                null
+              ],
+              [
+                "TM864672",
+                "1998-08-30",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM892695",
+                "1999-03-23",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM892696",
+                "1999-03-23",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM896655",
+                "1999-03-25",
+                "ASSIGNMENT WITH PLAN",
+                "85756002.0"
+              ],
+              [
+                "TM896654",
+                "1999-03-25",
+                "PARTIAL RELEASE WITH PLANS",
+                "76154002.0"
+              ],
+              [
+                "TM1067524",
+                "2000-05-02",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM954170",
+                "2000-05-02",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM971544",
+                "2000-11-20",
+                "LETTER (WITH CAR PARK LAYOUT PLANS ATTACHED) WITH PLAN",
+                null
+              ],
+              [
+                "TM1074516",
+                "2003-07-22",
+                "WAIVER LETTER (EXCLUDING THE GOVERNMENT ACCOMMODATION)",
+                null
+              ],
+              [
+                "06100901750159",
+                "2006-09-29",
+                "DEED OF RELEASE",
+                null
+              ],
+              [
+                "12021700880114",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS",
+                null
+              ],
+              [
+                "12021700880128",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS INDICATING THE UPDATED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "18030500870124",
+                "2017-11-15",
+                "ORDER NO. \"C/TE/003715/17/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24081300840207",
+                "2024-01-25",
+                "LETTER OF COMPLIANCE (ORDER NO. \"C/TE/003715/17/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9887661461120647,
@@ -139,7 +795,105 @@
         1108531601,
         "IMMIGRATION DEPARTMENT HARBOUR DIVISION RIVER TRADE TERMINAL SUB-STATION",
         null,
-        []
+        [
+          [
+            "TMTL 393",
+            "New Grant Lot",
+            "C4752804",
+            [
+              [
+                "TM812647",
+                "1997-09-30",
+                "BUILDING MORTGAGE",
+                null
+              ],
+              [
+                "TM864672",
+                "1998-08-30",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM892695",
+                "1999-03-23",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM892696",
+                "1999-03-23",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM896655",
+                "1999-03-25",
+                "ASSIGNMENT WITH PLAN",
+                "85756002.0"
+              ],
+              [
+                "TM896654",
+                "1999-03-25",
+                "PARTIAL RELEASE WITH PLANS",
+                "76154002.0"
+              ],
+              [
+                "TM1067524",
+                "2000-05-02",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM954170",
+                "2000-05-02",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM971544",
+                "2000-11-20",
+                "LETTER (WITH CAR PARK LAYOUT PLANS ATTACHED) WITH PLAN",
+                null
+              ],
+              [
+                "TM1074516",
+                "2003-07-22",
+                "WAIVER LETTER (EXCLUDING THE GOVERNMENT ACCOMMODATION)",
+                null
+              ],
+              [
+                "06100901750159",
+                "2006-09-29",
+                "DEED OF RELEASE",
+                null
+              ],
+              [
+                "12021700880114",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS",
+                null
+              ],
+              [
+                "12021700880128",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS INDICATING THE UPDATED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "18030500870124",
+                "2017-11-15",
+                "ORDER NO. \"C/TE/003715/17/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24081300840207",
+                "2024-01-25",
+                "LETTER OF COMPLIANCE (ORDER NO. \"C/TE/003715/17/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9887631672261907,
@@ -158,7 +912,105 @@
         1108531614,
         null,
         null,
-        []
+        [
+          [
+            "TMTL 393",
+            "New Grant Lot",
+            "C4752804",
+            [
+              [
+                "TM812647",
+                "1997-09-30",
+                "BUILDING MORTGAGE",
+                null
+              ],
+              [
+                "TM864672",
+                "1998-08-30",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM892695",
+                "1999-03-23",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM892696",
+                "1999-03-23",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM896655",
+                "1999-03-25",
+                "ASSIGNMENT WITH PLAN",
+                "85756002.0"
+              ],
+              [
+                "TM896654",
+                "1999-03-25",
+                "PARTIAL RELEASE WITH PLANS",
+                "76154002.0"
+              ],
+              [
+                "TM1067524",
+                "2000-05-02",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM954170",
+                "2000-05-02",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM971544",
+                "2000-11-20",
+                "LETTER (WITH CAR PARK LAYOUT PLANS ATTACHED) WITH PLAN",
+                null
+              ],
+              [
+                "TM1074516",
+                "2003-07-22",
+                "WAIVER LETTER (EXCLUDING THE GOVERNMENT ACCOMMODATION)",
+                null
+              ],
+              [
+                "06100901750159",
+                "2006-09-29",
+                "DEED OF RELEASE",
+                null
+              ],
+              [
+                "12021700880114",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS",
+                null
+              ],
+              [
+                "12021700880128",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS INDICATING THE UPDATED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "18030500870124",
+                "2017-11-15",
+                "ORDER NO. \"C/TE/003715/17/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24081300840207",
+                "2024-01-25",
+                "LETTER OF COMPLIANCE (ORDER NO. \"C/TE/003715/17/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9887341809670955,
@@ -177,7 +1029,105 @@
         1108531620,
         null,
         null,
-        []
+        [
+          [
+            "TMTL 393",
+            "New Grant Lot",
+            "C4752804",
+            [
+              [
+                "TM812647",
+                "1997-09-30",
+                "BUILDING MORTGAGE",
+                null
+              ],
+              [
+                "TM864672",
+                "1998-08-30",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM892695",
+                "1999-03-23",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM892696",
+                "1999-03-23",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM896655",
+                "1999-03-25",
+                "ASSIGNMENT WITH PLAN",
+                "85756002.0"
+              ],
+              [
+                "TM896654",
+                "1999-03-25",
+                "PARTIAL RELEASE WITH PLANS",
+                "76154002.0"
+              ],
+              [
+                "TM1067524",
+                "2000-05-02",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM954170",
+                "2000-05-02",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM971544",
+                "2000-11-20",
+                "LETTER (WITH CAR PARK LAYOUT PLANS ATTACHED) WITH PLAN",
+                null
+              ],
+              [
+                "TM1074516",
+                "2003-07-22",
+                "WAIVER LETTER (EXCLUDING THE GOVERNMENT ACCOMMODATION)",
+                null
+              ],
+              [
+                "06100901750159",
+                "2006-09-29",
+                "DEED OF RELEASE",
+                null
+              ],
+              [
+                "12021700880114",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS",
+                null
+              ],
+              [
+                "12021700880128",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS INDICATING THE UPDATED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "18030500870124",
+                "2017-11-15",
+                "ORDER NO. \"C/TE/003715/17/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24081300840207",
+                "2024-01-25",
+                "LETTER OF COMPLIANCE (ORDER NO. \"C/TE/003715/17/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9887430888863273,
@@ -310,7 +1260,14 @@
         1810197400,
         null,
         "15 HO WO STREET",
-        []
+        [
+          [
+            "TMTL 491",
+            "New Grant Lot",
+            "D3400528",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9887916100382805,
@@ -329,7 +1286,14 @@
         1810197401,
         null,
         "15 HO WO STREET",
-        []
+        [
+          [
+            "TMTL 491",
+            "New Grant Lot",
+            "D3400528",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9887962132920949,
@@ -462,7 +1426,14 @@
         1910215576,
         "CKS",
         "15 HO WO STREET",
-        []
+        [
+          [
+            "TMTL 491",
+            "New Grant Lot",
+            "D3400528",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9888065976167213,

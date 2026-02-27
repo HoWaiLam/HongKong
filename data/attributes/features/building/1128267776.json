@@ -6,7 +6,33 @@
         1107645885,
         null,
         "43 HOK TAU WAI",
-        []
+        [
+          [
+            "DD76 2403",
+            "Old Schedule Lot",
+            "C3392914",
+            [
+              [
+                "N178535",
+                "1974-09-20",
+                "-",
+                null
+              ],
+              [
+                "12010500690464",
+                "2011-12-02",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "12010500690452",
+                "2011-12-02",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992721250330828,
@@ -25,7 +51,75 @@
         1107645912,
         null,
         "51B HOK TAU WAI",
-        []
+        [
+          [
+            "DD76 2376",
+            "New Grant Lot",
+            "C3392701",
+            [
+              [
+                "N77093",
+                "1930-08-18",
+                "MORTGAGE",
+                "350.0"
+              ],
+              [
+                "N105411",
+                "1939-04-12",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N154784",
+                "1965-01-13",
+                "-",
+                null
+              ],
+              [
+                "N429038",
+                "1998-10-27",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N524986",
+                "2002-01-14",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "N534610",
+                "2002-08-09",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "N557356",
+                "2003-10-23",
+                "SEALED COPY OF BANKRUPTCY ORDER ON DEBTOR'S PETITION",
+                null
+              ],
+              [
+                "13110400300057",
+                "2013-10-07",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "15103000060023",
+                "2015-10-14",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "15122901590011",
+                "2015-11-02",
+                "DEED OF PARTITION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927176994879543,
@@ -44,7 +138,33 @@
         1107645914,
         null,
         null,
-        []
+        [
+          [
+            "DD76 2403",
+            "Old Schedule Lot",
+            "C3392914",
+            [
+              [
+                "N178535",
+                "1974-09-20",
+                "-",
+                null
+              ],
+              [
+                "12010500690464",
+                "2011-12-02",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "12010500690452",
+                "2011-12-02",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927212583459537,
@@ -82,7 +202,51 @@
         1107645999,
         null,
         "61 LAU SHUI HEUNG",
-        []
+        [
+          [
+            "DD85 583 S.C RP",
+            "Old Schedule Lot",
+            "D0398094",
+            [
+              [
+                "N327772",
+                "1995-04-26",
+                "ASSIGNMENT",
+                "10000.0"
+              ],
+              [
+                "N329904",
+                "1995-04-26",
+                "ASSIGNMENT (PREVIOUSLY REGD. BY M/N N327772)",
+                "10000.0"
+              ],
+              [
+                "N494797",
+                "2000-10-09",
+                "BUILDING LICENCE NO.44/2000 WITH PLAN",
+                null
+              ],
+              [
+                "05110500170071",
+                "2003-12-22",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "05041302830044",
+                "2005-03-09",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "06060200190128",
+                "2006-05-19",
+                "DEED OF LICENCE WITH PLAN",
+                "100.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9926095821340684,
@@ -101,7 +265,69 @@
         1107646002,
         null,
         "62 LAU SHUI HEUNG",
-        []
+        [
+          [
+            "DD85 583 S.A",
+            "Old Schedule Lot",
+            "C3507163",
+            [
+              [
+                "N327772",
+                "1995-04-26",
+                "ASSIGNMENT",
+                "10000.0"
+              ],
+              [
+                "N329904",
+                "1995-04-26",
+                "ASSIGNMENT (PREVIOUSLY REGD. BY M/N N327772)",
+                "10000.0"
+              ],
+              [
+                "N347585",
+                "1996-01-13",
+                "-",
+                "50000.0"
+              ],
+              [
+                "N500135",
+                "2000-12-14",
+                "BUILDING LICENCE NO.95/2000 WITH PLAN",
+                null
+              ],
+              [
+                "05110500170059",
+                "2003-12-22",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "06050400190054",
+                "2006-04-06",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "06060200190113",
+                "2006-04-22",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "06062900150048",
+                "2006-06-14",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "06072101520013",
+                "2006-06-15",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9926075947489295,
@@ -120,7 +346,21 @@
         1107646039,
         null,
         "51 HOK TAU WAI",
-        []
+        [
+          [
+            "HTL 28 S.A",
+            "Old Schedule Lot",
+            "D1354901",
+            [
+              [
+                "N559765",
+                "2004-02-28",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927199057437892,
@@ -139,7 +379,27 @@
         1107646043,
         null,
         "50 HOK TAU WAI",
-        []
+        [
+          [
+            "HTL 28 RP",
+            "Old Schedule Lot",
+            "D1354898",
+            [
+              [
+                "N559765",
+                "2004-02-28",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "09042700790177",
+                "2009-04-03",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927205014488758,
@@ -177,7 +437,14 @@
         1107646063,
         null,
         "48 HOK TAU WAI",
-        []
+        [
+          [
+            "DD76 2525",
+            "New Grant Lot",
+            "C3393406",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927231475291869,
@@ -196,7 +463,39 @@
         1107646075,
         null,
         "52 HOK TAU WAI",
-        []
+        [
+          [
+            "DD76 2517",
+            "New Grant Lot",
+            "C3393341",
+            [
+              [
+                "N176770",
+                "1973-12-28",
+                "MEMORANDUM OF AGREEMENT",
+                null
+              ],
+              [
+                "N336609",
+                "1995-08-07",
+                "-",
+                "250000.0"
+              ],
+              [
+                "N336608",
+                "1995-08-07",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "250000.0"
+              ],
+              [
+                "N567071",
+                "2004-07-28",
+                "ASSIGNMENT",
+                "210000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927164407950606,
@@ -215,7 +514,69 @@
         1107646090,
         null,
         "63 LAU SHUI HEUNG",
-        []
+        [
+          [
+            "DD85 583 S.B",
+            "Old Schedule Lot",
+            "C5897537",
+            [
+              [
+                "N329904",
+                "1995-04-26",
+                "ASSIGNMENT (PREVIOUSLY REGD. BY M/N N327772)",
+                "10000.0"
+              ],
+              [
+                "N327772",
+                "1995-04-26",
+                "ASSIGNMENT",
+                "10000.0"
+              ],
+              [
+                "N347586",
+                "1996-01-10",
+                "-",
+                "50000.0"
+              ],
+              [
+                "N515405",
+                "2001-08-20",
+                "BUILDING LICENCE NO.54/2001 WITH PLAN",
+                null
+              ],
+              [
+                "05110500170064",
+                "2003-12-22",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "06060200190113",
+                "2006-04-22",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "06062900150048",
+                "2006-06-14",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "06072101520013",
+                "2006-06-15",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "06110800240032",
+                "2006-10-18",
+                "CONSENT LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9926070063209258,
@@ -272,7 +633,105 @@
         1107646171,
         null,
         null,
-        []
+        [
+          [
+            "DD85 612 S.E RP",
+            "Old Schedule Lot",
+            "C5659426",
+            [
+              [
+                "N198441",
+                "1980-03-19",
+                "CONVEYANCE ON SALE",
+                "2400000.0"
+              ],
+              [
+                "N200049",
+                "1980-11-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N200112",
+                "1980-11-28",
+                "CONVEYANCE ON SALE",
+                "650000.0"
+              ],
+              [
+                "N200233",
+                "1980-12-05",
+                "CONVEYANCE ON SALE",
+                "650000.0"
+              ],
+              [
+                "N227075",
+                "1988-04-11",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "12000000.0"
+              ],
+              [
+                "N228250",
+                "1988-09-24",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "N228526",
+                "1988-10-04",
+                "SECOND SUPPLEMENTAL AGREEMENT RE R.P.",
+                null
+              ],
+              [
+                "N229687",
+                "1989-01-30",
+                "AGREEMNT FOR SUB-SALE & PURCHASE",
+                "3494556.0"
+              ],
+              [
+                "N230260",
+                "1989-03-30",
+                "DEED POLL",
+                null
+              ],
+              [
+                "N230592",
+                "1989-04-06",
+                "-",
+                "3494556.0"
+              ],
+              [
+                "N230593",
+                "1989-04-06",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "N231682",
+                "1989-08-07",
+                "DEED OF GRANT OF RIGHT OF WAY",
+                null
+              ],
+              [
+                "N413899",
+                "1998-03-03",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "22101701040015",
+                "2022-10-05",
+                "MORTGAGE",
+                "ALL-MONEY"
+              ],
+              [
+                "25022700980017",
+                "2025-02-06",
+                "TENANCY AGREEMENT WITH PLAN",
+                "THE RENT IS $201,952.85 PER MONTH"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925087730041127,
@@ -348,7 +807,27 @@
         1107646333,
         null,
         "2 LAU SHUI HEUNG",
-        []
+        [
+          [
+            "DD85 745",
+            "New Grant Lot",
+            "C3508544",
+            [
+              [
+                "N260122",
+                "1991-03-12",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "N285362",
+                "1993-02-20",
+                "DEED OF RECTIFICATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9926244624242637,
@@ -367,7 +846,105 @@
         1107646382,
         null,
         null,
-        []
+        [
+          [
+            "DD85 612 S.E RP",
+            "Old Schedule Lot",
+            "C5659426",
+            [
+              [
+                "N198441",
+                "1980-03-19",
+                "CONVEYANCE ON SALE",
+                "2400000.0"
+              ],
+              [
+                "N200049",
+                "1980-11-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N200112",
+                "1980-11-28",
+                "CONVEYANCE ON SALE",
+                "650000.0"
+              ],
+              [
+                "N200233",
+                "1980-12-05",
+                "CONVEYANCE ON SALE",
+                "650000.0"
+              ],
+              [
+                "N227075",
+                "1988-04-11",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "12000000.0"
+              ],
+              [
+                "N228250",
+                "1988-09-24",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "N228526",
+                "1988-10-04",
+                "SECOND SUPPLEMENTAL AGREEMENT RE R.P.",
+                null
+              ],
+              [
+                "N229687",
+                "1989-01-30",
+                "AGREEMNT FOR SUB-SALE & PURCHASE",
+                "3494556.0"
+              ],
+              [
+                "N230260",
+                "1989-03-30",
+                "DEED POLL",
+                null
+              ],
+              [
+                "N230592",
+                "1989-04-06",
+                "-",
+                "3494556.0"
+              ],
+              [
+                "N230593",
+                "1989-04-06",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "N231682",
+                "1989-08-07",
+                "DEED OF GRANT OF RIGHT OF WAY",
+                null
+              ],
+              [
+                "N413899",
+                "1998-03-03",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "22101701040015",
+                "2022-10-05",
+                "MORTGAGE",
+                "ALL-MONEY"
+              ],
+              [
+                "25022700980017",
+                "2025-02-06",
+                "TENANCY AGREEMENT WITH PLAN",
+                "THE RENT IS $201,952.85 PER MONTH"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925029326885648,
@@ -386,7 +963,70 @@
         1107646413,
         null,
         "2A - 2B LAU SHUI HEUNG",
-        []
+        [
+          [
+            "DD85 743",
+            "New Grant Lot",
+            "C5088184",
+            [
+              [
+                "N223155",
+                "1983-09-28",
+                "CERTIFIED TRUE COPY LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "N223157",
+                "1987-05-02",
+                "-",
+                null
+              ],
+              [
+                "11080302450011",
+                "2007-12-27",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "25021202090017",
+                "2024-11-06",
+                "PROBATE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD85 744",
+            "New Grant Lot",
+            "C3508534",
+            [
+              [
+                "N223156",
+                "1983-09-28",
+                "CERTIFIED TRUE COPY LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "N223157",
+                "1987-05-02",
+                "-",
+                null
+              ],
+              [
+                "11080302450011",
+                "2007-12-27",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "25021202090017",
+                "2024-11-06",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992623917163339,
@@ -424,7 +1064,87 @@
         1107646685,
         null,
         "7 LAU SHUI HEUNG",
-        []
+        [
+          [
+            "LSHL 1",
+            "Old Schedule Lot",
+            "C5795243",
+            [
+              [
+                "N27782",
+                "1914-09-23",
+                "-",
+                null
+              ],
+              [
+                "N87957",
+                "1933-11-17",
+                "-",
+                null
+              ],
+              [
+                "N153189",
+                "1964-06-16",
+                "-",
+                null
+              ],
+              [
+                "N227621",
+                "1987-01-16",
+                "NOTICE OF DEATH OF MANAGER",
+                null
+              ],
+              [
+                "N227622",
+                "1988-04-15",
+                "-",
+                null
+              ],
+              [
+                "N441643",
+                "1999-04-26",
+                "MEMO AS TO ERROR IN RESPECT OF MEMORIAL NO. N27782",
+                null
+              ],
+              [
+                "15042701200029",
+                "2013-09-17",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "15042701200037",
+                "2014-12-29",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "16122300910094",
+                "2016-04-26",
+                "NOTICE OF RESIGNATION OF MANAGER OF LI MAN LIN TSO",
+                null
+              ],
+              [
+                "16122300910107",
+                "2016-11-08",
+                "RESIGNATION OF MANAGER OF LI MAN LIN TSO",
+                null
+              ],
+              [
+                "17022301570014",
+                "2016-11-18",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "17022301570029",
+                "2017-01-18",
+                "RESIGNATION OF MANAGER OF LI MAN LIN TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9926235338448963,
@@ -500,7 +1220,153 @@
         1107646804,
         null,
         null,
-        []
+        [
+          [
+            "LSHL 4",
+            "Old Schedule Lot",
+            "C5751556",
+            [
+              [
+                "N10991",
+                "1910-02-02",
+                "MORTGAGE",
+                "130.0"
+              ],
+              [
+                "N31985",
+                "1916-01-19",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N62963",
+                "1925-07-17",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N145477",
+                "1961-10-25",
+                "-",
+                null
+              ],
+              [
+                "N145478",
+                "1961-10-25",
+                "-",
+                null
+              ],
+              [
+                "N222669",
+                "1987-02-12",
+                "-",
+                null
+              ],
+              [
+                "N226635",
+                "1988-03-10",
+                "-",
+                null
+              ],
+              [
+                "N249900",
+                "1988-03-10",
+                "-",
+                null
+              ],
+              [
+                "N232199",
+                "1989-09-01",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N232198",
+                "1989-09-01",
+                "STATUTORY DECLARATION OF LI TAM LOI",
+                null
+              ],
+              [
+                "N249901",
+                "1991-02-27",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "N266933",
+                "1991-11-28",
+                "-",
+                null
+              ],
+              [
+                "N282833",
+                "1992-12-09",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N282834",
+                "1992-12-09",
+                "STATUTORY DECLARATION OF TSUI LOI YAU ALSO KNOWN AS TSUI AH YING",
+                null
+              ],
+              [
+                "N282836",
+                "1993-02-02",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "N282837",
+                "1993-02-02",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "N282838",
+                "1993-02-02",
+                "DEED OF INDEMNITY",
+                null
+              ],
+              [
+                "N282835",
+                "1993-02-02",
+                "STATUTORY DECLARATION OF CHUNG FONG KIU",
+                null
+              ],
+              [
+                "N438185",
+                "1999-04-21",
+                "STATUTORY DECLARATION OF LEE SAU",
+                null
+              ],
+              [
+                "N438186",
+                "1999-04-21",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "N448769",
+                "1999-07-26",
+                "DEED OF GIFT OF LEE SAU",
+                null
+              ],
+              [
+                "N462656",
+                "1999-10-29",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "N471642",
+                "2000-02-02",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992622665385431,
@@ -880,7 +1746,141 @@
         1110007314,
         null,
         null,
-        []
+        [
+          [
+            "DD85 612 S.G",
+            "Old Schedule Lot",
+            "C3507827",
+            [
+              [
+                "N198441",
+                "1980-03-19",
+                "CONVEYANCE ON SALE",
+                "2400000.0"
+              ],
+              [
+                "N200049",
+                "1980-11-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N200112",
+                "1980-11-28",
+                "CONVEYANCE ON SALE",
+                "650000.0"
+              ],
+              [
+                "N200233",
+                "1980-12-05",
+                "CONVEYANCE ON SALE",
+                "650000.0"
+              ],
+              [
+                "N227075",
+                "1988-04-11",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "12000000.0"
+              ],
+              [
+                "N228251",
+                "1988-09-24",
+                "AGREEMENT FOR SUB-SALE & PURCHASE",
+                "3405000.0"
+              ],
+              [
+                "N228250",
+                "1988-09-24",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "N229291",
+                "1988-11-07",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "N229290",
+                "1988-11-07",
+                "-",
+                "3405000.0"
+              ],
+              [
+                "N231682",
+                "1989-08-07",
+                "DEED OF GRANT OF RIGHT OF WAY",
+                null
+              ],
+              [
+                "N236945",
+                "1990-02-27",
+                "ELECTRICITY NETWORKS STATUTORY EASEMENTS) ORDER 1990",
+                null
+              ],
+              [
+                "N249752",
+                "1990-11-06",
+                "OFFER LETTER",
+                null
+              ],
+              [
+                "N285705",
+                "1992-12-07",
+                "SHORT TERM WAIVER",
+                null
+              ],
+              [
+                "N388991",
+                "1997-04-21",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "N402846",
+                "1997-09-10",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "20500000.0"
+              ],
+              [
+                "N409753",
+                "1997-12-09",
+                "ASSIGNMENT",
+                "20500000.0"
+              ],
+              [
+                "N409754",
+                "1997-12-09",
+                "LEGAL CHARGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "N531524",
+                "2001-12-28",
+                "MIZUHO CORPORATE BANK LTD. (HONG KONG CONSOLIDATION) ORDINANCE",
+                null
+              ],
+              [
+                "N544917",
+                "2003-03-20",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "23021501450017",
+                "2023-01-30",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "93750000.0"
+              ],
+              [
+                "23052301830107",
+                "2023-04-28",
+                "ASSIGNMENT",
+                "93750000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925225359449112,
@@ -937,7 +1937,52 @@
         1910234839,
         null,
         null,
-        []
+        [
+          [
+            "HTL 27",
+            "Old Schedule Lot",
+            "C3368426",
+            [
+              [
+                "N46582",
+                "1920-07-23",
+                "MORTGAGE",
+                "60.0"
+              ],
+              [
+                "N46754",
+                "1920-09-16",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N47166",
+                "1920-12-21",
+                "-",
+                null
+              ],
+              [
+                "N143455",
+                "1961-02-24",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "HTL 28 S.A",
+            "Old Schedule Lot",
+            "D1354901",
+            [
+              [
+                "N559765",
+                "2004-02-28",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927190674950355,
@@ -956,7 +2001,39 @@
         1910234842,
         null,
         null,
-        []
+        [
+          [
+            "HTL 27",
+            "Old Schedule Lot",
+            "C3368426",
+            [
+              [
+                "N46582",
+                "1920-07-23",
+                "MORTGAGE",
+                "60.0"
+              ],
+              [
+                "N46754",
+                "1920-09-16",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N47166",
+                "1920-12-21",
+                "-",
+                null
+              ],
+              [
+                "N143455",
+                "1961-02-24",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99271857547501,
@@ -975,7 +2052,27 @@
         1910235115,
         null,
         null,
-        []
+        [
+          [
+            "LSHL 10",
+            "Old Schedule Lot",
+            "C5415097",
+            [
+              [
+                "N200765",
+                "1981-01-27",
+                "-",
+                "80000.0"
+              ],
+              [
+                "N220065",
+                "1984-11-02",
+                "-",
+                "20354900.76"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9926211129351303,
@@ -1013,7 +2110,274 @@
         1910251222,
         null,
         "3 LAU SHUI HEUNG",
-        []
+        [
+          [
+            "LSHL 15",
+            "Old Schedule Lot",
+            "C3508633",
+            [
+              [
+                "N16436",
+                "1911-06-06",
+                "-",
+                null
+              ],
+              [
+                "N62963",
+                "1925-07-17",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N68363",
+                "1927-12-07",
+                "MORTGAGE LI YAU CHEUNG'S SHARE",
+                "160.0"
+              ],
+              [
+                "N145477",
+                "1961-10-25",
+                "-",
+                null
+              ],
+              [
+                "N145478",
+                "1961-10-25",
+                "-",
+                null
+              ],
+              [
+                "N222669",
+                "1987-02-12",
+                "-",
+                null
+              ],
+              [
+                "N226635",
+                "1988-03-10",
+                "-",
+                null
+              ],
+              [
+                "N249900",
+                "1988-03-10",
+                "-",
+                null
+              ],
+              [
+                "N232199",
+                "1989-09-01",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N232198",
+                "1989-09-01",
+                "STATUTORY DECLARATION OF LI TAM LOI",
+                null
+              ],
+              [
+                "N249901",
+                "1991-02-27",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "N266933",
+                "1991-11-28",
+                "-",
+                null
+              ],
+              [
+                "N282834",
+                "1992-12-09",
+                "STATUTORY DECLARATION OF TSUI LOI YAU ALSO KNOWN AS TSUI AH YING",
+                null
+              ],
+              [
+                "N282833",
+                "1992-12-09",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N282835",
+                "1993-02-02",
+                "STATUTORY DECLARATION OF CHUNG FONG KIU",
+                null
+              ],
+              [
+                "N282838",
+                "1993-02-02",
+                "DEED OF INDEMNITY",
+                null
+              ],
+              [
+                "N282836",
+                "1993-02-02",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "N282837",
+                "1993-02-02",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "N438185",
+                "1999-04-21",
+                "STATUTORY DECLARATION OF LEE SAU",
+                null
+              ],
+              [
+                "N462655",
+                "1999-10-15",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "N471643",
+                "2000-02-03",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "13121600920012",
+                "2013-11-09",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "LSHL 16",
+            "Old Schedule Lot",
+            "C3508642",
+            [
+              [
+                "N62963",
+                "1925-07-17",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N145478",
+                "1961-10-25",
+                "-",
+                null
+              ],
+              [
+                "N145477",
+                "1961-10-25",
+                "-",
+                null
+              ],
+              [
+                "N222669",
+                "1987-02-12",
+                "-",
+                null
+              ],
+              [
+                "N226635",
+                "1988-03-10",
+                "-",
+                null
+              ],
+              [
+                "N249900",
+                "1988-03-10",
+                "-",
+                null
+              ],
+              [
+                "N232199",
+                "1989-09-01",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N232198",
+                "1989-09-01",
+                "STATUTORY DECLARATION OF LI TAM LOI",
+                null
+              ],
+              [
+                "N249901",
+                "1991-02-27",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "N266933",
+                "1991-11-28",
+                "-",
+                null
+              ],
+              [
+                "N282834",
+                "1992-12-09",
+                "STATUTORY DECLARATION OF TSUI LOI YAU ALSO KNOWN AS TSUI AH YING",
+                null
+              ],
+              [
+                "N282833",
+                "1992-12-09",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N282835",
+                "1993-02-02",
+                "STATUTORY DECLARATION OF CHUNG FONG KIU",
+                null
+              ],
+              [
+                "N282837",
+                "1993-02-02",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "N282838",
+                "1993-02-02",
+                "DEED OF INDEMNITY",
+                null
+              ],
+              [
+                "N282836",
+                "1993-02-02",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "N438185",
+                "1999-04-21",
+                "STATUTORY DECLARATION OF LEE SAU",
+                null
+              ],
+              [
+                "N444705",
+                "1999-05-13",
+                "ASSIGNMENT",
+                "350000.0"
+              ],
+              [
+                "N480593",
+                "2000-05-05",
+                "ASSIGNMENT",
+                "350000.0"
+              ],
+              [
+                "13121600920028",
+                "2013-11-09",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9926228206217258,
@@ -1032,7 +2396,57 @@
         1910266548,
         null,
         null,
-        []
+        [
+          [
+            "DD76 597 RP",
+            "Old Schedule Lot",
+            "C5978956",
+            [
+              [
+                "N175018",
+                "1973-06-13",
+                "-",
+                null
+              ],
+              [
+                "N210690",
+                "1983-10-12",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N228440",
+                "1988-09-21",
+                "TENANCY AGREEMENT FOR THE TERM OF 5 YEARS FROM 21.11.1988",
+                null
+              ],
+              [
+                "N229195",
+                "1988-11-02",
+                "TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "N285513",
+                "1993-04-30",
+                "LEASE AGREEMENT",
+                null
+              ],
+              [
+                "N285514",
+                "1993-04-30",
+                "SUB-LEASE AGREENENT",
+                null
+              ],
+              [
+                "N574991",
+                "2004-12-02",
+                "ASSIGNMENT",
+                "800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927769167280482,

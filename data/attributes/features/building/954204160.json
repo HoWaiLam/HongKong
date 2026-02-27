@@ -177,7 +177,57 @@
         1103056047,
         null,
         null,
-        []
+        [
+          [
+            "DD2 LIL 38",
+            "Old Schedule Lot",
+            "C4029126",
+            [
+              [
+                "IS70029",
+                "1960-01-21",
+                "-",
+                null
+              ],
+              [
+                "IS102174",
+                "1980-09-04",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS107941",
+                "1981-09-12",
+                "-",
+                null
+              ],
+              [
+                "IS107940",
+                "1981-09-12",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "IS312960",
+                "2002-07-15",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS313791",
+                "2003-02-12",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "IS313787",
+                "2003-02-12",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917967315355865,

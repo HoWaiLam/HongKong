@@ -348,7 +348,21 @@
         1109177716,
         null,
         "10 SHA LO WAN TSUEN 4TH LANE",
-        []
+        [
+          [
+            "DD305 LL 2129",
+            "Old Schedule Lot",
+            "C4094776",
+            [
+              [
+                "IS6230",
+                "1912-06-27",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879704900736723,
@@ -367,7 +381,77 @@
         1109177954,
         null,
         "15 SHA LO WAN TSUEN 4TH LANE",
-        []
+        [
+          [
+            "DD305 LL 2133",
+            "Old Schedule Lot",
+            "C5906395",
+            [
+              [
+                "IS101676",
+                "1980-06-16",
+                "POWER OF ATTORNEY BY MAN CHU YAU",
+                null
+              ],
+              [
+                "IS104738",
+                "1981-01-31",
+                "-",
+                "100000.0"
+              ],
+              [
+                "IS107586",
+                "1981-08-18",
+                "-",
+                "223672.8"
+              ],
+              [
+                "IS120145",
+                "1984-11-02",
+                "ASSIGNMENT",
+                "20354900.76"
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2134",
+            "Old Schedule Lot",
+            "C5706208",
+            [
+              [
+                "IS97093",
+                "1979-04-27",
+                "-",
+                null
+              ],
+              [
+                "15012802550122",
+                "2014-12-30",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2135",
+            "Old Schedule Lot",
+            "C4094819",
+            [
+              [
+                "IS97093",
+                "1979-04-27",
+                "-",
+                null
+              ],
+              [
+                "15012802550122",
+                "2014-12-30",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987973826478892,
@@ -386,7 +470,21 @@
         1109178145,
         null,
         "2 - 3 SHA LO WAN TSUEN 3RD LANE",
-        []
+        [
+          [
+            "DD305 LL 2190",
+            "Old Schedule Lot",
+            "C5346557",
+            [
+              [
+                "IS98522",
+                "1979-10-09",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879633022989545,
@@ -424,7 +522,14 @@
         1109178228,
         null,
         "5 SHA LO WAN TSUEN 4TH LANE",
-        []
+        [
+          [
+            "DD305 LL 2186",
+            "Old Schedule Lot",
+            "C4095047",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.987966946513887,
@@ -481,7 +586,207 @@
         1109178788,
         null,
         "7 SHA LO WAN TSUEN 3RD LANE",
-        []
+        [
+          [
+            "DD305 LL 2121",
+            "Old Schedule Lot",
+            "C4094721",
+            [
+              [
+                "IS83011",
+                "1969-10-08",
+                "-",
+                null
+              ],
+              [
+                "IS90705",
+                "1976-10-01",
+                "-",
+                null
+              ],
+              [
+                "08102200410030",
+                "1991-09-17",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF SITE FORMATION WORKS",
+                null
+              ],
+              [
+                "08102200410047",
+                "1991-09-17",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF BUILDING WORKS WITH PLAN",
+                null
+              ],
+              [
+                "08102200410024",
+                "1991-09-17",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF DRAINAGE WORKS",
+                null
+              ],
+              [
+                "IS197348",
+                "1992-11-07",
+                "-",
+                "500000.0"
+              ],
+              [
+                "08102200410051",
+                "1992-12-28",
+                "CERTIFIED COPY NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "IS220077",
+                "1995-04-27",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "IS231209",
+                "1996-05-24",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS231210",
+                "1996-06-24",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "IS301708",
+                "2002-01-05",
+                "TRANSFER OF MORTGAGES",
+                null
+              ],
+              [
+                "06082600470035",
+                "2006-08-23",
+                "RELEASE",
+                "ALL MONEYS"
+              ],
+              [
+                "08102200410011",
+                "2008-10-17",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "14042200710106",
+                "2014-04-11",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "14051501160243",
+                "2014-04-11",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "15050700810012",
+                "2015-05-06",
+                "DEED OF TRANSFER OF MORTGAGES",
+                null
+              ],
+              [
+                "15080401570120",
+                "2015-07-23",
+                "RELEASE",
+                "ALL MONEYS"
+              ],
+              [
+                "15072801410159",
+                "2015-07-23",
+                "FIRST LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "17032102300038",
+                "2017-03-15",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "17033102590095",
+                "2017-03-15",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "17072102330033",
+                "2017-07-14",
+                "SECOND LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18030800630104",
+                "2018-02-09",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18021200890080",
+                "2018-02-09",
+                "SECOND LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18070602640037",
+                "2018-07-04",
+                "THIRD LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19032502040053",
+                "2019-03-15",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19032000880163",
+                "2019-03-15",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19100201880099",
+                "2019-09-27",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19100201880103",
+                "2019-09-27",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "20111700540164",
+                "2020-11-10",
+                "SECOND LEGAL CHARGE",
+                "TO SECURE GENERAL CREDIT FACILITIES TO THE EXTENT OF $500,000.00"
+              ],
+              [
+                "21093000240508",
+                "2021-09-14",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "TO SECURE GENERAL CREDIT FACILITIES TO THE EXTENT OF $500,000.00"
+              ],
+              [
+                "21121300270214",
+                "2021-11-18",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "21121300270202",
+                "2021-11-18",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.98796912159105,
@@ -595,7 +900,33 @@
         1109179278,
         null,
         "13 SHA LO WAN TSUEN 4TH LANE",
-        []
+        [
+          [
+            "DD305 LL 2132",
+            "Old Schedule Lot",
+            "C4094802",
+            [
+              [
+                "IS85603",
+                "1972-10-17",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS85607",
+                "1972-10-17",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "IS108908",
+                "1981-12-22",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879722759723857,
@@ -785,7 +1116,51 @@
         1109179998,
         null,
         "4 SHA LO WAN TSUEN 4TH LANE",
-        []
+        [
+          [
+            "DD305 LL 2185",
+            "Old Schedule Lot",
+            "C4095036",
+            [
+              [
+                "IS3191",
+                "1909-02-01",
+                "-",
+                "2.5"
+              ],
+              [
+                "IS76507",
+                "1963-11-13",
+                "-",
+                null
+              ],
+              [
+                "IS280019",
+                "1999-12-23",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "25060500480048",
+                "2024-09-02",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "25090400350387",
+                "2025-09-01",
+                "ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2186",
+            "Old Schedule Lot",
+            "C4095047",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9879663694992669,
@@ -842,7 +1217,70 @@
         1109180115,
         null,
         "6 SHA LO WAN TSUEN 3RD LANE",
-        []
+        [
+          [
+            "DD305 LL 2124 RP",
+            "Old Schedule Lot",
+            "C5162615",
+            [
+              [
+                "IS90159",
+                "1976-07-02",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS93656",
+                "1978-02-16",
+                "-",
+                null
+              ],
+              [
+                "IS119414",
+                "1984-10-31",
+                "-",
+                null
+              ],
+              [
+                "IS211132",
+                "1994-04-19",
+                "-",
+                "1.0"
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2124 S.A",
+            "Old Schedule Lot",
+            "C5162626",
+            [
+              [
+                "IS90159",
+                "1976-07-02",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS93657",
+                "1978-02-16",
+                "DEED OF GIFT WITH PLANS",
+                null
+              ],
+              [
+                "22012400650042",
+                "2021-12-20",
+                "PROBATE",
+                null
+              ],
+              [
+                "24112101870038",
+                "2024-10-25",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987967769596362,
@@ -899,7 +1337,33 @@
         1109180500,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 2181",
+            "Old Schedule Lot",
+            "C6429293",
+            [
+              [
+                "IS82437",
+                "1969-01-22",
+                "-",
+                null
+              ],
+              [
+                "25060500480048",
+                "2024-09-02",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "25090400350387",
+                "2025-09-01",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879644923124395,
@@ -994,7 +1458,69 @@
         1109180686,
         null,
         "27 SHAM SHEK TSUEN",
-        []
+        [
+          [
+            "DD308 LL 334",
+            "New Grant Lot",
+            "C4097365",
+            [
+              [
+                "IS95219",
+                "1978-09-21",
+                "MORTGAGE",
+                "60000.0"
+              ],
+              [
+                "IS114425",
+                "1983-04-19",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS114650",
+                "1983-05-04",
+                "MORTGAGE",
+                "40000.0"
+              ],
+              [
+                "IS119196",
+                "1984-09-04",
+                "-",
+                null
+              ],
+              [
+                "IS119403",
+                "1984-10-30",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS212533",
+                "1994-04-28",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "IS212534",
+                "1994-04-28",
+                "-",
+                null
+              ],
+              [
+                "15070901440010",
+                "2015-06-11",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "1000000.0"
+              ],
+              [
+                "15070901440022",
+                "2015-06-11",
+                "ASSIGNMENT",
+                "1000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9878695965914253,
@@ -1013,7 +1539,94 @@
         1109180743,
         null,
         "4 SHA LO WAN TSUEN 3RD LANE",
-        []
+        [
+          [
+            "DD305 LL 2188",
+            "Old Schedule Lot",
+            "C4095107",
+            [
+              [
+                "IS3047",
+                "1908-12-17",
+                "CHINESE CUSTOMARY MORTGAGE",
+                "10.0"
+              ],
+              [
+                "IS50596",
+                "1948-04-07",
+                "-",
+                null
+              ],
+              [
+                "IS101325",
+                "1980-06-16",
+                "STATUTORY DECLARATION BY LEE MAI YAU",
+                null
+              ],
+              [
+                "IS228862",
+                "1996-03-28",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "24042601570047",
+                "2024-03-28",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1500000.0"
+              ],
+              [
+                "24050601430014",
+                "2024-03-28",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "25021201720010",
+                "2024-12-23",
+                "ASSIGNMENT",
+                "1500000.0"
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2189",
+            "Old Schedule Lot",
+            "C4095115",
+            [
+              [
+                "IS99216",
+                "1979-12-04",
+                "-",
+                null
+              ],
+              [
+                "IS228862",
+                "1996-03-28",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "24050601430014",
+                "2024-03-28",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "24042601570047",
+                "2024-03-28",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1500000.0"
+              ],
+              [
+                "25021201720010",
+                "2024-12-23",
+                "ASSIGNMENT",
+                "1500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879647922679962,
@@ -1127,7 +1740,39 @@
         1109181180,
         null,
         "5 SHA LO WAN TSUEN 3RD LANE",
-        []
+        [
+          [
+            "DD305 LL 2124 RP",
+            "Old Schedule Lot",
+            "C5162615",
+            [
+              [
+                "IS90159",
+                "1976-07-02",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS93656",
+                "1978-02-16",
+                "-",
+                null
+              ],
+              [
+                "IS119414",
+                "1984-10-31",
+                "-",
+                null
+              ],
+              [
+                "IS211132",
+                "1994-04-19",
+                "-",
+                "1.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879669468994432,
@@ -1165,7 +1810,119 @@
         1109181259,
         null,
         "2 SHA LO WAN TSUEN 5TH LANE",
-        []
+        [
+          [
+            "DD305 LL 2172",
+            "Old Schedule Lot",
+            "C4094989",
+            [
+              [
+                "IS90159",
+                "1976-07-02",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS93657",
+                "1978-02-16",
+                "DEED OF GIFT WITH PLANS",
+                null
+              ],
+              [
+                "IS107587",
+                "1981-08-18",
+                "-",
+                "60000.0"
+              ],
+              [
+                "IS120145",
+                "1984-11-02",
+                "ASSIGNMENT",
+                "20354900.76"
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2173",
+            "Old Schedule Lot",
+            "C4094990",
+            [
+              [
+                "IS107325",
+                "1981-08-12",
+                "-",
+                null
+              ],
+              [
+                "IS152920",
+                "1989-06-13",
+                "-",
+                null
+              ],
+              [
+                "IS266989",
+                "1998-12-15",
+                "APPROVAL LETTER OF SUCCESSION WITH CHINESE TRANSLATION",
+                null
+              ],
+              [
+                "IS268210",
+                "1999-01-12",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "07030102310012",
+                "2007-01-25",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "07030102310023",
+                "2007-02-01",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2176",
+            "Old Schedule Lot",
+            "C4095011",
+            [
+              [
+                "IS83823",
+                "1970-06-23",
+                "-",
+                null
+              ],
+              [
+                "IS85300",
+                "1972-06-13",
+                "-",
+                null
+              ],
+              [
+                "IS85531",
+                "1972-09-19",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "IS230028",
+                "1996-06-04",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "13032801290010",
+                "2013-02-21",
+                "ASSIGNMENT",
+                "1.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879714431897513,
@@ -1336,7 +2093,51 @@
         1109181862,
         null,
         "10 SHA LO WAN TSUEN 5TH LANE",
-        []
+        [
+          [
+            "DD305 LL 2175",
+            "Old Schedule Lot",
+            "C4095004",
+            [
+              [
+                "IS81299",
+                "1967-06-15",
+                "-",
+                null
+              ],
+              [
+                "IS260722",
+                "1997-08-07",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS260723",
+                "1997-12-18",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF CHAN YU HAU TONG",
+                null
+              ],
+              [
+                "12080801070016",
+                "2012-06-05",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "12080801070025",
+                "2012-07-26",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "13123101120074",
+                "2012-07-26",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879730626502772,
@@ -1355,7 +2156,57 @@
         1109181913,
         null,
         "10 SHAM SHEK TSUEN",
-        []
+        [
+          [
+            "DD308 LL 224",
+            "Old Schedule Lot",
+            "C4096721",
+            [
+              [
+                "IS80390",
+                "1966-07-06",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS80391",
+                "1966-07-06",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS81660",
+                "1967-11-29",
+                "-",
+                "350.0"
+              ],
+              [
+                "IS111182",
+                "1982-07-27",
+                "-",
+                null
+              ],
+              [
+                "IS244447",
+                "1996-06-14",
+                "AGREEMENT BY SOU IUN CHAI",
+                null
+              ],
+              [
+                "IS264779",
+                "1998-07-29",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "IS264780",
+                "1998-07-30",
+                "LICENCE BY LEE MAY LING RE 1/2 SHARE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9878221347345526,
@@ -1374,7 +2225,21 @@
         1109181924,
         null,
         "22 SHAM WAT",
-        []
+        [
+          [
+            "DD301 LL 164",
+            "New Grant Lot",
+            "C4079532",
+            [
+              [
+                "IS118704",
+                "1984-07-25",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987739773139074,
@@ -1412,7 +2277,63 @@
         1109182185,
         null,
         "7 SHA LO WAN TSUEN 4TH LANE",
-        []
+        [
+          [
+            "DD305 LL 2125",
+            "Old Schedule Lot",
+            "C4094751",
+            [
+              [
+                "IS107325",
+                "1981-08-12",
+                "-",
+                null
+              ],
+              [
+                "IS152920",
+                "1989-06-13",
+                "-",
+                null
+              ],
+              [
+                "IS266989",
+                "1998-12-15",
+                "APPROVAL LETTER OF SUCCESSION WITH CHINESE TRANSLATION",
+                null
+              ],
+              [
+                "IS268210",
+                "1999-01-12",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "IS276256",
+                "1999-10-16",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "07030102310012",
+                "2007-01-25",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "07030102310023",
+                "2007-02-01",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2126",
+            "Old Schedule Lot",
+            "C4094766",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9879680951766412,
@@ -1469,7 +2390,70 @@
         1109182489,
         null,
         "21 SHAM SHEK TSUEN",
-        []
+        [
+          [
+            "DD308 LL 173",
+            "Old Schedule Lot",
+            "C4096360",
+            [
+              [
+                "IS101998",
+                "1980-08-18",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS106510",
+                "1981-06-08",
+                "-",
+                "240000.0"
+              ],
+              [
+                "IS107981",
+                "1981-10-09",
+                "-",
+                "170537.4"
+              ],
+              [
+                "IS120145",
+                "1984-11-02",
+                "ASSIGNMENT",
+                "20354900.76"
+              ]
+            ]
+          ],
+          [
+            "DD308 LL 174",
+            "Old Schedule Lot",
+            "C4096376",
+            [
+              [
+                "IS53268",
+                "1949-09-19",
+                "-",
+                null
+              ],
+              [
+                "IS105856",
+                "1981-05-12",
+                "-",
+                null
+              ],
+              [
+                "IS196426",
+                "1992-09-28",
+                "-",
+                "1191801.6"
+              ],
+              [
+                "18042302090226",
+                "2016-12-16",
+                "ASSIGNMENT",
+                "21852158.42"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9878452472543917,
@@ -1507,7 +2491,45 @@
         1109182701,
         null,
         "19 SHAM WAT",
-        []
+        [
+          [
+            "DD301 LL 163",
+            "New Grant Lot",
+            "C4079527",
+            [
+              [
+                "IS97956",
+                "1979-07-18",
+                "MORTGAGE",
+                "50000.0"
+              ],
+              [
+                "IS194589",
+                "1992-07-29",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS267167",
+                "1998-09-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS303075",
+                "2002-03-15",
+                "ASSIGNMENT",
+                "300000.0"
+              ],
+              [
+                "IS302967",
+                "2002-03-15",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "300000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987737010928612,
@@ -1773,7 +2795,63 @@
         1109183434,
         null,
         "2 SHA LO WAN TSUEN 4TH LANE",
-        []
+        [
+          [
+            "DD305 LL 2183",
+            "Old Schedule Lot",
+            "C5989844",
+            []
+          ],
+          [
+            "DD305 LL 2184",
+            "Old Schedule Lot",
+            "C5706228",
+            [
+              [
+                "IS110323",
+                "1982-04-20",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS176778",
+                "1991-07-01",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "IS176780",
+                "1991-07-26",
+                "-",
+                "30000.0"
+              ],
+              [
+                "IS191395",
+                "1992-06-29",
+                "-",
+                "108000.0"
+              ],
+              [
+                "IS191394",
+                "1992-06-29",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "108000.0"
+              ],
+              [
+                "25082002080023",
+                "2025-06-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "25082002080032",
+                "2025-08-12",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879650627126093,
@@ -1830,7 +2908,57 @@
         1109183729,
         null,
         "6 SHA LO WAN TSUEN 4TH LANE",
-        []
+        [
+          [
+            "DD305 LL 2125",
+            "Old Schedule Lot",
+            "C4094751",
+            [
+              [
+                "IS107325",
+                "1981-08-12",
+                "-",
+                null
+              ],
+              [
+                "IS152920",
+                "1989-06-13",
+                "-",
+                null
+              ],
+              [
+                "IS266989",
+                "1998-12-15",
+                "APPROVAL LETTER OF SUCCESSION WITH CHINESE TRANSLATION",
+                null
+              ],
+              [
+                "IS268210",
+                "1999-01-12",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "IS276256",
+                "1999-10-16",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "07030102310012",
+                "2007-01-25",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "07030102310023",
+                "2007-02-01",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.98796735566411,
@@ -1849,7 +2977,69 @@
         1109183781,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 2187 RP",
+            "Old Schedule Lot",
+            "C5162684",
+            [
+              [
+                "IS81300",
+                "1967-06-15",
+                "-",
+                null
+              ],
+              [
+                "IS215851",
+                "1994-09-06",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "IS242712",
+                "1997-01-03",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "IS242713",
+                "1997-04-10",
+                "DEED POLL WITH PLAN RE S.C, S.D, S.E & R.P.",
+                null
+              ],
+              [
+                "IS260724",
+                "1997-08-07",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS260725",
+                "1997-12-18",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "12080801070032",
+                "2012-06-05",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "12080801070046",
+                "2012-07-26",
+                "APPROVAL OF APPOINTMENT OF MANAGER *",
+                null
+              ],
+              [
+                "13123101120067",
+                "2012-07-26",
+                "RE-REGISTRATION OF APPROVAL OF APPOINTMENT OF MANAGER *",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879641853901264,
@@ -1868,7 +3058,45 @@
         1109183856,
         null,
         "3 SHA LO WAN TSUEN 4TH LANE",
-        []
+        [
+          [
+            "DD305 LL 2185",
+            "Old Schedule Lot",
+            "C4095036",
+            [
+              [
+                "IS3191",
+                "1909-02-01",
+                "-",
+                "2.5"
+              ],
+              [
+                "IS76507",
+                "1963-11-13",
+                "-",
+                null
+              ],
+              [
+                "IS280019",
+                "1999-12-23",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "25060500480048",
+                "2024-09-02",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "25090400350387",
+                "2025-09-01",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879658109405831,
@@ -1982,7 +3210,33 @@
         1109184207,
         null,
         "11 SHA LO WAN TSUEN 4TH LANE",
-        []
+        [
+          [
+            "DD305 LL 2130",
+            "Old Schedule Lot",
+            "C4094785",
+            [
+              [
+                "IS85603",
+                "1972-10-17",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS85608",
+                "1972-10-17",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2131",
+            "Old Schedule Lot",
+            "C4094798",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9879711503972206,
@@ -2058,7 +3312,21 @@
         1109184435,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 2190",
+            "Old Schedule Lot",
+            "C5346557",
+            [
+              [
+                "IS98522",
+                "1979-10-09",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879624223119032,
@@ -2096,7 +3364,39 @@
         1109184530,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 2177",
+            "Old Schedule Lot",
+            "C5162669",
+            [
+              [
+                "IS106924",
+                "1981-07-14",
+                "-",
+                null
+              ],
+              [
+                "IS111334",
+                "1982-08-17",
+                "-",
+                null
+              ],
+              [
+                "13062501500016",
+                "2013-05-31",
+                "ASSIGNMENT",
+                "300000.0"
+              ],
+              [
+                "22033001260068",
+                "2021-12-14",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.98797126650116,
@@ -2153,7 +3453,119 @@
         1109184684,
         null,
         "1 SHA LO WAN TSUEN 5TH LANE",
-        []
+        [
+          [
+            "DD305 LL 2171",
+            "Old Schedule Lot",
+            "C5162659",
+            [
+              [
+                "IS82620",
+                "1969-04-23",
+                "-",
+                null
+              ],
+              [
+                "IS82621",
+                "1969-04-23",
+                "-",
+                null
+              ],
+              [
+                "IS312333",
+                "2002-12-17",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS317218",
+                "2003-04-30",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "IS317219",
+                "2003-04-30",
+                "ASSENT",
+                null
+              ],
+              [
+                "24061700070337",
+                "2024-05-30",
+                "ASSIGNMENT BY WAY OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2172",
+            "Old Schedule Lot",
+            "C4094989",
+            [
+              [
+                "IS90159",
+                "1976-07-02",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS93657",
+                "1978-02-16",
+                "DEED OF GIFT WITH PLANS",
+                null
+              ],
+              [
+                "IS107587",
+                "1981-08-18",
+                "-",
+                "60000.0"
+              ],
+              [
+                "IS120145",
+                "1984-11-02",
+                "ASSIGNMENT",
+                "20354900.76"
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2176",
+            "Old Schedule Lot",
+            "C4095011",
+            [
+              [
+                "IS83823",
+                "1970-06-23",
+                "-",
+                null
+              ],
+              [
+                "IS85300",
+                "1972-06-13",
+                "-",
+                null
+              ],
+              [
+                "IS85531",
+                "1972-09-19",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "IS230028",
+                "1996-06-04",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "13032801290010",
+                "2013-02-21",
+                "ASSIGNMENT",
+                "1.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879708798222762,
@@ -2267,7 +3679,14 @@
         1109185576,
         null,
         "26 SHAM SHEK TSUEN",
-        []
+        [
+          [
+            "DD308 LL 336",
+            "New Grant Lot",
+            "C4097385",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9878653272842128,
@@ -2305,7 +3724,14 @@
         1109185670,
         null,
         "9 SHAM SHEK TSUEN",
-        []
+        [
+          [
+            "DD308 LL 335",
+            "New Grant Lot",
+            "C4097376",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.987824956318976,
@@ -2324,7 +3750,57 @@
         1109185750,
         null,
         "11 SHAM SHEK TSUEN",
-        []
+        [
+          [
+            "DD308 LL 224",
+            "Old Schedule Lot",
+            "C4096721",
+            [
+              [
+                "IS80390",
+                "1966-07-06",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS80391",
+                "1966-07-06",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS81660",
+                "1967-11-29",
+                "-",
+                "350.0"
+              ],
+              [
+                "IS111182",
+                "1982-07-27",
+                "-",
+                null
+              ],
+              [
+                "IS244447",
+                "1996-06-14",
+                "AGREEMENT BY SOU IUN CHAI",
+                null
+              ],
+              [
+                "IS264779",
+                "1998-07-29",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "IS264780",
+                "1998-07-30",
+                "LICENCE BY LEE MAY LING RE 1/2 SHARE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9878232762494403,
@@ -2343,7 +3819,105 @@
         1109185870,
         null,
         null,
-        []
+        [
+          [
+            "DD308 LL 327",
+            "Old Schedule Lot",
+            "C4097314",
+            [
+              [
+                "IS3167",
+                "1909-01-15",
+                "-",
+                null
+              ],
+              [
+                "IS3631",
+                "1909-11-01",
+                "-",
+                null
+              ],
+              [
+                "IS4378",
+                "1910-03-04",
+                "-",
+                null
+              ],
+              [
+                "IS7579",
+                "1913-10-03",
+                "SALE",
+                null
+              ],
+              [
+                "IS47557",
+                "1941-11-14",
+                "-",
+                null
+              ],
+              [
+                "IS238589",
+                "1996-12-20",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS239527",
+                "1997-01-07",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8263346.0"
+              ],
+              [
+                "IS287846",
+                "1997-02-12",
+                "STATUTORY DECLARATION FOR LOSS OF TITLE DEEDS AND DOCUMENTS",
+                null
+              ],
+              [
+                "IS240888",
+                "1997-02-12",
+                "ASSIGNMENT",
+                "8263346.0"
+              ],
+              [
+                "IS289643",
+                "2001-01-19",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "10122802420058",
+                "2010-12-21",
+                "RELEASE",
+                null
+              ],
+              [
+                "13052000450039",
+                "2013-05-13",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "20111601950040",
+                "2020-11-03",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "20000000.0"
+              ],
+              [
+                "21020401830031",
+                "2021-01-13",
+                "ASSIGNMENT",
+                "20000000.0"
+              ],
+              [
+                "21020801480023",
+                "2021-01-13",
+                "RECEIPT ON DISCHARGE OF A CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877975527700178,
@@ -2362,7 +3936,75 @@
         1109186112,
         null,
         "20 SHAM SHEK TSUEN",
-        []
+        [
+          [
+            "DD308 LL 262",
+            "Old Schedule Lot",
+            "C5706344",
+            [
+              [
+                "IS48180",
+                "1946-12-03",
+                "-",
+                null
+              ],
+              [
+                "IS341748",
+                "2002-02-01",
+                "PROBATE",
+                null
+              ],
+              [
+                "IS341749",
+                "2004-09-15",
+                "SEALED COPY OF ORDER",
+                null
+              ],
+              [
+                "IS341750",
+                "2004-11-04",
+                "ASSENT",
+                null
+              ],
+              [
+                "05042102590147",
+                "2005-04-07",
+                "DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "05042102590157",
+                "2005-04-11",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "09091000320044",
+                "2009-07-07",
+                "A SEALED COPY OF BANKRUPTCY ORDER ON DEBTOR'S PETITION",
+                null
+              ],
+              [
+                "09101300040015",
+                "2009-09-08",
+                "CERTIFIED COPY OF MEMORANDUM TO COURT OF RESOLUTIONS PASSED AT THE GENERAL MEETING OF CREDITORS",
+                null
+              ],
+              [
+                "16062101210046",
+                "2016-05-27",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "300000.0"
+              ],
+              [
+                "16062101210051",
+                "2016-05-27",
+                "ASSIGNMENT",
+                "300000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9878487555225384,

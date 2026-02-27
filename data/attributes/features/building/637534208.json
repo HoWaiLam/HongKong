@@ -6,7 +6,63 @@
         1108530687,
         null,
         "92 - 93 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 116",
+            "Old Schedule Lot",
+            "C2324592",
+            [
+              [
+                "TM150478",
+                "1963-05-10",
+                "-",
+                "3000.0"
+              ],
+              [
+                "TM162153",
+                "1969-01-16",
+                "-",
+                null
+              ],
+              [
+                "TM184946",
+                "1976-06-07",
+                "-",
+                null
+              ],
+              [
+                "TM224964",
+                "1983-04-15",
+                "MORTGAGE",
+                "100000.0"
+              ],
+              [
+                "TM268703",
+                "1985-10-29",
+                "-",
+                null
+              ],
+              [
+                "TM312284",
+                "1987-10-02",
+                "RELEASE",
+                null
+              ],
+              [
+                "TM1082360",
+                "2003-11-25",
+                "LEGAL CHARGE TO SECURE GENERAL CREDIT FACILITIES",
+                null
+              ],
+              [
+                "12110101140160",
+                "2012-10-30",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900845157302636,
@@ -44,7 +100,39 @@
         1108530689,
         null,
         "132 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 214 RP",
+            "Old Schedule Lot",
+            "C5777121",
+            [
+              [
+                "TM204422",
+                "1981-06-19",
+                "-",
+                "7200.0"
+              ],
+              [
+                "TM837706",
+                "1998-03-13",
+                "BUILDING LICENCE NO. 1721 WITH PLAN",
+                null
+              ],
+              [
+                "08060603310102",
+                "2008-05-21",
+                "STANDARD CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "08110300060042",
+                "2008-09-11",
+                "CONSENT LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990077806335314,
@@ -120,7 +208,39 @@
         1108530700,
         null,
         null,
-        []
+        [
+          [
+            "DD385 120",
+            "Old Schedule Lot",
+            "C2324617",
+            [
+              [
+                "TM226019",
+                "1983-05-31",
+                "-",
+                null
+              ],
+              [
+                "TM267593",
+                "1985-11-25",
+                "-",
+                null
+              ],
+              [
+                "TM591735",
+                "1993-03-17",
+                "-",
+                null
+              ],
+              [
+                "TM591734",
+                "1993-03-17",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900876608485703,
@@ -158,7 +278,81 @@
         1108530703,
         null,
         "206 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 245 S.B",
+            "Old Schedule Lot",
+            "C2325628",
+            [
+              [
+                "TM664510",
+                "1994-10-26",
+                "-",
+                null
+              ],
+              [
+                "TM702098",
+                "1995-12-06",
+                "BUILDING LICENCE NO.1420 WITH PLAN",
+                null
+              ],
+              [
+                "TM858374",
+                "1998-08-31",
+                "CERTIFIED TRUE COPY OR ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF THE",
+                null
+              ],
+              [
+                "TM885989",
+                "1999-02-03",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S.23(4A) OF THE TOWN",
+                null
+              ],
+              [
+                "07042000390012",
+                "2000-08-29",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "07042000390028",
+                "2007-03-21",
+                "FIRST LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "08081400260119",
+                "2008-08-13",
+                "CERTIFIED COPY NOTICE OF  APPLICATION FOR ANCILLARY RELIEF",
+                null
+              ],
+              [
+                "09050700440016",
+                "2009-05-07",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "09061002750016",
+                "2009-06-04",
+                "CERTIFICATE OF CHARGE ON PROPERTY UNDER S.18A(1) AND (3A) OF THE LEGAL AID ORDINANCE (CAP.91)",
+                null
+              ],
+              [
+                "10053102790186",
+                "2010-05-03",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "10061101420017",
+                "2010-06-10",
+                "CERTIFICATE OF SATISFACTION OF CHARGE ON PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900603978554594,
@@ -177,7 +371,39 @@
         1108530704,
         null,
         "94 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 120",
+            "Old Schedule Lot",
+            "C2324617",
+            [
+              [
+                "TM226019",
+                "1983-05-31",
+                "-",
+                null
+              ],
+              [
+                "TM267593",
+                "1985-11-25",
+                "-",
+                null
+              ],
+              [
+                "TM591735",
+                "1993-03-17",
+                "-",
+                null
+              ],
+              [
+                "TM591734",
+                "1993-03-17",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900869152774034,
@@ -196,7 +422,63 @@
         1108530705,
         null,
         null,
-        []
+        [
+          [
+            "DD385 116",
+            "Old Schedule Lot",
+            "C2324592",
+            [
+              [
+                "TM150478",
+                "1963-05-10",
+                "-",
+                "3000.0"
+              ],
+              [
+                "TM162153",
+                "1969-01-16",
+                "-",
+                null
+              ],
+              [
+                "TM184946",
+                "1976-06-07",
+                "-",
+                null
+              ],
+              [
+                "TM224964",
+                "1983-04-15",
+                "MORTGAGE",
+                "100000.0"
+              ],
+              [
+                "TM268703",
+                "1985-10-29",
+                "-",
+                null
+              ],
+              [
+                "TM312284",
+                "1987-10-02",
+                "RELEASE",
+                null
+              ],
+              [
+                "TM1082360",
+                "2003-11-25",
+                "LEGAL CHARGE TO SECURE GENERAL CREDIT FACILITIES",
+                null
+              ],
+              [
+                "12110101140160",
+                "2012-10-30",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900850836589996,
@@ -234,7 +516,51 @@
         1108530707,
         null,
         "130 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 212 S.A",
+            "Old Schedule Lot",
+            "C2325146",
+            [
+              [
+                "TM258682",
+                "1985-06-05",
+                "-",
+                "55000.0"
+              ],
+              [
+                "TM668640",
+                "1994-11-21",
+                "-",
+                "250000.0"
+              ],
+              [
+                "TM675432",
+                "1995-01-24",
+                "-",
+                "250000.0"
+              ],
+              [
+                "TM709377",
+                "1996-02-16",
+                "BUILDING LICENCE NO.1447 WITH PLAN",
+                null
+              ],
+              [
+                "08060603310080",
+                "2008-05-21",
+                "STANDARD CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "08103002400057",
+                "2008-09-11",
+                "CONSENT LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900794856529034,
@@ -253,7 +579,39 @@
         1108530713,
         null,
         "95 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 120",
+            "Old Schedule Lot",
+            "C2324617",
+            [
+              [
+                "TM226019",
+                "1983-05-31",
+                "-",
+                null
+              ],
+              [
+                "TM267593",
+                "1985-11-25",
+                "-",
+                null
+              ],
+              [
+                "TM591735",
+                "1993-03-17",
+                "-",
+                null
+              ],
+              [
+                "TM591734",
+                "1993-03-17",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900872460244137,
@@ -272,7 +630,57 @@
         1108530715,
         null,
         "207 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 245 S.C",
+            "Old Schedule Lot",
+            "C2325632",
+            [
+              [
+                "TM664511",
+                "1994-10-26",
+                "-",
+                null
+              ],
+              [
+                "TM701895",
+                "1995-12-04",
+                "LICENCE WITH PLAN (BUILDING LICENCE NO.1421)",
+                null
+              ],
+              [
+                "TM858374",
+                "1998-08-31",
+                "CERTIFIED TRUE COPY OR ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF THE",
+                null
+              ],
+              [
+                "TM885989",
+                "1999-02-03",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S.23(4A) OF THE TOWN",
+                null
+              ],
+              [
+                "13080600580025",
+                "2013-07-31",
+                "MORTGAGE",
+                "ALL MONEY"
+              ],
+              [
+                "14011000760090",
+                "2014-01-08",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "21041902280264",
+                "2021-04-01",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990061655375988,
@@ -291,7 +699,45 @@
         1108530722,
         null,
         "131 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 212 S.B",
+            "Old Schedule Lot",
+            "C5566681",
+            [
+              [
+                "TM258682",
+                "1985-06-05",
+                "-",
+                "55000.0"
+              ],
+              [
+                "TM668641",
+                "1994-11-21",
+                "-",
+                "250000.0"
+              ],
+              [
+                "TM709376",
+                "1996-02-16",
+                "BUILDING LICENCE NO.1448 WITH PLAN",
+                null
+              ],
+              [
+                "08060603310094",
+                "2008-05-21",
+                "STANDARD CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "08120101930107",
+                "2008-11-06",
+                "DEED OF LICENCE WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990077806925227,
@@ -310,7 +756,51 @@
         1108530725,
         null,
         "208 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 245 S.D",
+            "Old Schedule Lot",
+            "C2325648",
+            [
+              [
+                "TM664512",
+                "1994-10-26",
+                "-",
+                null
+              ],
+              [
+                "TM701896",
+                "1995-12-04",
+                "LICENCE WITH PLAN (BUILDING LICENCE NO. 1422)",
+                null
+              ],
+              [
+                "TM858374",
+                "1998-08-31",
+                "CERTIFIED TRUE COPY OR ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF THE",
+                null
+              ],
+              [
+                "TM885989",
+                "1999-02-03",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S.23(4A) OF THE TOWN",
+                null
+              ],
+              [
+                "22121401210018",
+                "2022-10-06",
+                "ORDER NO. \"VHN/G14/100279/22/NT\" BY THE BUILDING AUTHORITY UNDER S. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "24011900580096",
+                "2023-11-20",
+                "LETTER OF COMPLIANCE (ORDER NO. \"VHN/G14/100279/22/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900625194025092,
@@ -386,7 +876,39 @@
         1108530771,
         null,
         "209 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 245 S.E",
+            "Old Schedule Lot",
+            "C5566747",
+            [
+              [
+                "TM664513",
+                "1994-10-26",
+                "-",
+                null
+              ],
+              [
+                "TM750815",
+                "1996-11-26",
+                "BUILDING LICENCE NO. 1598 WITH PLAN",
+                null
+              ],
+              [
+                "TM858374",
+                "1998-08-31",
+                "CERTIFIED TRUE COPY OR ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF THE",
+                null
+              ],
+              [
+                "TM885989",
+                "1999-02-03",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S.23(4A) OF THE TOWN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900636784445345,
@@ -405,7 +927,21 @@
         1108530779,
         null,
         "96 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 160 RP",
+            "Old Schedule Lot",
+            "D2210444",
+            [
+              [
+                "11012102480110",
+                "2010-12-24",
+                "ASSIGNMENT",
+                "4100000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900889333166378,
@@ -424,7 +960,45 @@
         1108530789,
         null,
         "210 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 245 RP",
+            "Old Schedule Lot",
+            "C2325610",
+            [
+              [
+                "TM201525",
+                "1981-01-31",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TM664514",
+                "1994-10-26",
+                "-",
+                null
+              ],
+              [
+                "TM750810",
+                "1996-11-26",
+                "BUILDING LICENCE NO. 1602 WITH PLAN",
+                null
+              ],
+              [
+                "TM858374",
+                "1998-08-31",
+                "CERTIFIED TRUE COPY OR ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF THE",
+                null
+              ],
+              [
+                "TM885989",
+                "1999-02-03",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S.23(4A) OF THE TOWN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900643151465138,
@@ -481,7 +1055,33 @@
         1108530816,
         null,
         "99 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 163",
+            "Old Schedule Lot",
+            "C2324810",
+            [
+              [
+                "TM128690",
+                "1951-12-12",
+                "-",
+                null
+              ],
+              [
+                "TM150896",
+                "1963-06-28",
+                "-",
+                null
+              ],
+              [
+                "25050600900017",
+                "2024-11-05",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900880334929676,
@@ -500,7 +1100,33 @@
         1108530834,
         null,
         "100 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 163",
+            "Old Schedule Lot",
+            "C2324810",
+            [
+              [
+                "TM128690",
+                "1951-12-12",
+                "-",
+                null
+              ],
+              [
+                "TM150896",
+                "1963-06-28",
+                "-",
+                null
+              ],
+              [
+                "25050600900017",
+                "2024-11-05",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990087658248819,
@@ -538,7 +1164,137 @@
         1108530850,
         null,
         "101 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 164 RP",
+            "Old Schedule Lot",
+            "C2324835",
+            [
+              [
+                "TM220667",
+                "1982-11-19",
+                "-",
+                "76000.0"
+              ],
+              [
+                "TM497058",
+                "1991-06-26",
+                "ASSIGNMENT",
+                "120000.0"
+              ],
+              [
+                "TM534689",
+                "1992-01-27",
+                "DEED OF CONFIRMATION BY TAI HING FINANCE COMPANY LIMITED",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD385 164 S.A",
+            "Old Schedule Lot",
+            "C2324849",
+            [
+              [
+                "TM220667",
+                "1982-11-19",
+                "-",
+                "76000.0"
+              ],
+              [
+                "TM497058",
+                "1991-06-26",
+                "ASSIGNMENT",
+                "120000.0"
+              ],
+              [
+                "TM534689",
+                "1992-01-27",
+                "DEED OF CONFIRMATION BY TAI HING FINANCE COMPANY LIMITED",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD385 165 RP",
+            "Old Schedule Lot",
+            "C5962116",
+            [
+              [
+                "TM144946",
+                "1961-06-30",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TM255305",
+                "1985-01-18",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "TM255306",
+                "1985-02-15",
+                "-",
+                null
+              ],
+              [
+                "TM273679",
+                "1986-03-25",
+                "LICENCE RELATING TO BIULDING LICENCE NO.709",
+                null
+              ],
+              [
+                "TM316735",
+                "1987-11-27",
+                "TOLERATION",
+                null
+              ],
+              [
+                "TM1025558",
+                "1988-10-26",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "20061801100259",
+                "2020-06-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7900000.0"
+              ],
+              [
+                "20091401200016",
+                "2020-08-20",
+                "ASSIGNMENT",
+                "7900000.0"
+              ],
+              [
+                "24060300690026",
+                "2024-05-14",
+                "MEMORANDUM OF SALE AND PURCHASE",
+                "7000000.0"
+              ],
+              [
+                "24060300690036",
+                "2024-05-14",
+                "ASSIGNMENT",
+                "7000000.0"
+              ],
+              [
+                "25051600230031",
+                "2025-04-10",
+                "MEMORANDUM OF SALE AND PURCHASE",
+                "7000000.0"
+              ],
+              [
+                "25051600230045",
+                "2025-04-10",
+                "ASSIGNMENT",
+                "7000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900870879541044,
@@ -614,7 +1370,87 @@
         1108530858,
         null,
         "102 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 165 RP",
+            "Old Schedule Lot",
+            "C5962116",
+            [
+              [
+                "TM144946",
+                "1961-06-30",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TM255305",
+                "1985-01-18",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "TM255306",
+                "1985-02-15",
+                "-",
+                null
+              ],
+              [
+                "TM273679",
+                "1986-03-25",
+                "LICENCE RELATING TO BIULDING LICENCE NO.709",
+                null
+              ],
+              [
+                "TM316735",
+                "1987-11-27",
+                "TOLERATION",
+                null
+              ],
+              [
+                "TM1025558",
+                "1988-10-26",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "20061801100259",
+                "2020-06-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7900000.0"
+              ],
+              [
+                "20091401200016",
+                "2020-08-20",
+                "ASSIGNMENT",
+                "7900000.0"
+              ],
+              [
+                "24060300690026",
+                "2024-05-14",
+                "MEMORANDUM OF SALE AND PURCHASE",
+                "7000000.0"
+              ],
+              [
+                "24060300690036",
+                "2024-05-14",
+                "ASSIGNMENT",
+                "7000000.0"
+              ],
+              [
+                "25051600230031",
+                "2025-04-10",
+                "MEMORANDUM OF SALE AND PURCHASE",
+                "7000000.0"
+              ],
+              [
+                "25051600230045",
+                "2025-04-10",
+                "ASSIGNMENT",
+                "7000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990086546102211,
@@ -671,7 +1507,105 @@
         1108530873,
         null,
         "103 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 165 S.B",
+            "Old Schedule Lot",
+            "C2324875",
+            [
+              [
+                "TM185084",
+                "1976-07-12",
+                "-",
+                null
+              ],
+              [
+                "TM273860",
+                "1980-03-04",
+                "LETTER OF COMPLIANCEE",
+                null
+              ],
+              [
+                "TM273861",
+                "1985-10-18",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "TM280694",
+                "1986-07-03",
+                "RELEASE",
+                null
+              ],
+              [
+                "TM280695",
+                "1986-07-03",
+                "6MORTGAGE",
+                null
+              ],
+              [
+                "TM437452",
+                "1990-07-20",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "TM437451",
+                "1990-07-20",
+                "RELEASE",
+                null
+              ],
+              [
+                "TM642183",
+                "1994-05-30",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "TM642184",
+                "1994-06-10",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "TM864262",
+                "1998-09-18",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "500000.0"
+              ],
+              [
+                "TM865189",
+                "1998-10-13",
+                "RELEASE",
+                null
+              ],
+              [
+                "TM888615",
+                "1999-02-15",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "TM888614",
+                "1999-02-15",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "1000000.0"
+              ],
+              [
+                "TM888613",
+                "1999-02-15",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "10031502300094",
+                "2010-03-01",
+                "ASSIGNMENT",
+                "1300000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990085755860814,
@@ -804,7 +1738,27 @@
         1108530945,
         null,
         "106 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 376",
+            "New Grant Lot",
+            "C2326668",
+            [
+              [
+                "TM345984",
+                "1988-09-12",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "TM631166",
+                "1994-04-20",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900850750604828,
@@ -1165,7 +2119,45 @@
         1108531112,
         null,
         "261 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 269 S.B RP",
+            "Old Schedule Lot",
+            "D2673764",
+            [
+              [
+                "TM566045",
+                "1992-09-01",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "05050300550283",
+                "2005-04-18",
+                "BUILDING LICENCE NO.2384 WITH PLAN",
+                null
+              ],
+              [
+                "06081400290011",
+                "2006-08-01",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "12031401800063",
+                "2012-03-09",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "13120601610013",
+                "2013-11-22",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990050882071237,
@@ -1317,7 +2309,63 @@
         1108531156,
         null,
         "110 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 338",
+            "Old Schedule Lot",
+            "C6628465",
+            [
+              [
+                "TM226019",
+                "1983-05-31",
+                "-",
+                null
+              ],
+              [
+                "TM267593",
+                "1985-11-25",
+                "-",
+                null
+              ],
+              [
+                "TM591735",
+                "1993-03-17",
+                "-",
+                null
+              ],
+              [
+                "TM591734",
+                "1993-03-17",
+                "-",
+                null
+              ],
+              [
+                "TM722319",
+                "1996-05-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "766656.0"
+              ],
+              [
+                "TM742154",
+                "1996-10-08",
+                "LETTER OF CONSENT BY TUEN MUN DISTRICT OFFICE",
+                null
+              ],
+              [
+                "TM750943",
+                "1996-11-08",
+                "ASSIGNMENT",
+                "766656.0"
+              ],
+              [
+                "TM837529",
+                "1997-12-23",
+                "CERTIFIED TRUE COPY TERMINATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900896025252302,
@@ -2571,7 +3619,51 @@
         1108531377,
         null,
         "11 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 328",
+            "Old Schedule Lot",
+            "C2326400",
+            [
+              [
+                "TM164396",
+                "1970-03-13",
+                "-",
+                null
+              ],
+              [
+                "TM168861",
+                "1971-09-10",
+                "AGREEMENT FOR SALE",
+                "32214.0"
+              ],
+              [
+                "TM168914",
+                "1971-09-20",
+                "-",
+                "3484.0"
+              ],
+              [
+                "TM168913",
+                "1971-09-20",
+                "-",
+                "32214.0"
+              ],
+              [
+                "TM290528",
+                "1987-02-03",
+                "-",
+                null
+              ],
+              [
+                "TM290527",
+                "1987-02-03",
+                "STATUTORY DECLARATION AS TO LOSS OF TITLE DEED",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900804502239242,
@@ -2609,7 +3701,21 @@
         1108531384,
         null,
         "41 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 329 RP",
+            "Old Schedule Lot",
+            "D5888923",
+            [
+              [
+                "TM737582",
+                "1996-09-03",
+                "CONFIRMATORY ASSIGNMENT",
+                "85000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900752510087316,
@@ -2628,7 +3734,21 @@
         1108531387,
         null,
         "7 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 371 S.A",
+            "New Grant Lot",
+            "C6546742",
+            [
+              [
+                "TM190576",
+                "1978-08-18",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900818251880044,
@@ -2666,7 +3786,70 @@
         1108531397,
         null,
         "5 - 6 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 371 S.B",
+            "New Grant Lot",
+            "C2326634",
+            [
+              [
+                "TM190577",
+                "1978-08-18",
+                "-",
+                null
+              ],
+              [
+                "TM966520",
+                "2000-08-08",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD385 371 S.C",
+            "New Grant Lot",
+            "C6661874",
+            [
+              [
+                "TM190578",
+                "1978-08-18",
+                "-",
+                null
+              ],
+              [
+                "TM938150",
+                "2000-01-31",
+                "SEALED COPY OF CHARING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "TM941045",
+                "2000-03-06",
+                "SEALED COPY OF ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "14040402530067",
+                "2014-03-27",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "24062600620017",
+                "2023-03-27",
+                "PROBATE AMENDED AS IN RED PURSUANT TO THE ORDER OF MR. SENIOR DEPUTY REGISTRAR K.H. HUI DATED 2.4.2024",
+                null
+              ],
+              [
+                "24102200620011",
+                "2024-09-28",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900821441707046,
@@ -2704,7 +3887,21 @@
         1108531399,
         null,
         "12 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 330 RP",
+            "Old Schedule Lot",
+            "D5888949",
+            [
+              [
+                "TM737582",
+                "1996-09-03",
+                "CONFIRMATORY ASSIGNMENT",
+                "85000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990078232094674,
@@ -2761,7 +3958,21 @@
         1108531404,
         null,
         "13 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 330 RP",
+            "Old Schedule Lot",
+            "D5888949",
+            [
+              [
+                "TM737582",
+                "1996-09-03",
+                "CONFIRMATORY ASSIGNMENT",
+                "85000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900785524232918,
@@ -2799,7 +4010,39 @@
         1108531407,
         null,
         "4 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 371 RP",
+            "New Grant Lot",
+            "C5566807",
+            [
+              [
+                "TM183375",
+                "1975-02-03",
+                "-",
+                null
+              ],
+              [
+                "TM966520",
+                "2000-08-08",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "24062600620017",
+                "2023-03-27",
+                "PROBATE AMENDED AS IN RED PURSUANT TO THE ORDER OF MR. SENIOR DEPUTY REGISTRAR K.H. HUI DATED 2.4.2024",
+                null
+              ],
+              [
+                "24102200620011",
+                "2024-09-28",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900825934547097,
@@ -2837,7 +4080,21 @@
         1108531410,
         null,
         "37 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 329 RP",
+            "Old Schedule Lot",
+            "D5888923",
+            [
+              [
+                "TM737582",
+                "1996-09-03",
+                "CONFIRMATORY ASSIGNMENT",
+                "85000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900768124200612,
@@ -2856,7 +4113,39 @@
         1108531413,
         null,
         null,
-        []
+        [
+          [
+            "DD385 371 RP",
+            "New Grant Lot",
+            "C5566807",
+            [
+              [
+                "TM183375",
+                "1975-02-03",
+                "-",
+                null
+              ],
+              [
+                "TM966520",
+                "2000-08-08",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "24062600620017",
+                "2023-03-27",
+                "PROBATE AMENDED AS IN RED PURSUANT TO THE ORDER OF MR. SENIOR DEPUTY REGISTRAR K.H. HUI DATED 2.4.2024",
+                null
+              ],
+              [
+                "24102200620011",
+                "2024-09-28",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990083457692211,
@@ -2932,7 +4221,14 @@
         1108531422,
         null,
         "3 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 378",
+            "New Grant Lot",
+            "C4939443",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900831808292996,
@@ -2951,7 +4247,21 @@
         1108531423,
         null,
         "36 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 329 RP",
+            "Old Schedule Lot",
+            "D5888923",
+            [
+              [
+                "TM737582",
+                "1996-09-03",
+                "CONFIRMATORY ASSIGNMENT",
+                "85000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900770286169034,
@@ -2989,7 +4299,14 @@
         1108531426,
         null,
         "35 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 326 S.A & RP",
+            "Old Schedule Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900772664944928,
@@ -3027,7 +4344,14 @@
         1108531429,
         null,
         "2 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 381",
+            "New Grant Lot",
+            "C2326687",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900840520301286,
@@ -3046,7 +4370,14 @@
         1108531430,
         null,
         "34 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 326 S.A & RP",
+            "Old Schedule Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900775123760772,
@@ -3122,7 +4453,21 @@
         1108531439,
         null,
         "16 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 324 S.B",
+            "Old Schedule Lot",
+            "C2326375",
+            [
+              [
+                "TM195900",
+                "1980-01-29",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900803909250806,
@@ -3141,7 +4486,14 @@
         1108531441,
         null,
         null,
-        []
+        [
+          [
+            "DD385 373 &EXT THERETO",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900853862991783,
@@ -3198,7 +4550,57 @@
         1108531448,
         null,
         "17 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 324 S.A",
+            "Old Schedule Lot",
+            "C2326362",
+            [
+              [
+                "TM185487",
+                "1976-10-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TM195417",
+                "1979-12-11",
+                "-",
+                null
+              ],
+              [
+                "TM1103422",
+                "2004-02-27",
+                "PROBATE",
+                null
+              ],
+              [
+                "TM1103965",
+                "2004-07-12",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "TM1103424",
+                "2004-07-12",
+                "ASSENT",
+                null
+              ],
+              [
+                "TM1103426",
+                "2004-07-12",
+                "MEMORANDUM FOR SALE AND PURCHASE BY TANG KWAI KIU",
+                "500000.0"
+              ],
+              [
+                "14031701280033",
+                "2014-02-25",
+                "ASSIGNMENT",
+                "600000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900804570880544,
@@ -3236,7 +4638,21 @@
         1108531458,
         null,
         "18 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 323 S.B",
+            "Old Schedule Lot",
+            "C2326356",
+            [
+              [
+                "TM185466",
+                "1976-10-25",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900828664318047,
@@ -3255,7 +4671,57 @@
         1108531460,
         null,
         null,
-        []
+        [
+          [
+            "DD385 324 S.A",
+            "Old Schedule Lot",
+            "C2326362",
+            [
+              [
+                "TM185487",
+                "1976-10-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TM195417",
+                "1979-12-11",
+                "-",
+                null
+              ],
+              [
+                "TM1103422",
+                "2004-02-27",
+                "PROBATE",
+                null
+              ],
+              [
+                "TM1103965",
+                "2004-07-12",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "TM1103424",
+                "2004-07-12",
+                "ASSENT",
+                null
+              ],
+              [
+                "TM1103426",
+                "2004-07-12",
+                "MEMORANDUM FOR SALE AND PURCHASE BY TANG KWAI KIU",
+                "500000.0"
+              ],
+              [
+                "14031701280033",
+                "2014-02-25",
+                "ASSIGNMENT",
+                "600000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900801990557369,
@@ -3274,7 +4740,33 @@
         1108531464,
         null,
         "1 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 377",
+            "New Grant Lot",
+            "C4939437",
+            [
+              [
+                "TM841204",
+                "1998-04-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM966520",
+                "2000-08-08",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TM966519",
+                "2000-08-23",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900875142873533,
@@ -3312,7 +4804,21 @@
         1108531466,
         null,
         "59 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 396",
+            "New Grant Lot",
+            "C2326747",
+            [
+              [
+                "TM602138",
+                "1993-07-21",
+                "DEED OF RECTIFICATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900536005507579,
@@ -3331,7 +4837,14 @@
         1108531467,
         null,
         "19 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 372",
+            "New Grant Lot",
+            "C2326646",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.990083106997508,
@@ -3445,7 +4958,14 @@
         1108531476,
         null,
         "58 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 397",
+            "New Grant Lot",
+            "C2326752",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.99005168769218,
@@ -3464,7 +4984,117 @@
         1108531479,
         null,
         "57 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 398",
+            "New Grant Lot",
+            "C5566813",
+            [
+              [
+                "10060300680036",
+                "2010-05-14",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "10062202680105",
+                "2010-06-21",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "10062202680111",
+                "2010-06-21",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "13010701820195",
+                "2013-01-02",
+                "SECOND MORTGAGE",
+                "400000.0"
+              ],
+              [
+                "13052901500133",
+                "2013-05-27",
+                "MORTGAGE",
+                "2500000.0"
+              ],
+              [
+                "13070901740198",
+                "2013-06-27",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEY"
+              ],
+              [
+                "13071201940147",
+                "2013-07-03",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "400000.0"
+              ],
+              [
+                "14030601260019",
+                "2014-03-03",
+                "CERTIFIED TRUE COPY OF THE NOTICE OF APPLICATION FOR ANCILLARY RELIEF",
+                null
+              ],
+              [
+                "14082901510037",
+                "2014-08-13",
+                "SEALED COPY CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "19090602160041",
+                "2014-09-19",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "14100701880017",
+                "2014-09-19",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "24090301570026",
+                "2014-09-19",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "18012202180012",
+                "2018-01-12",
+                "SEALED COPY CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "18030602440054",
+                "2018-02-13",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "22121402060063",
+                "2018-02-13",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "19041202310027",
+                "2019-03-14",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "22080801320010",
+                "2021-05-05",
+                "CONSENT LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900523409487065,
@@ -3483,7 +5113,21 @@
         1108531481,
         null,
         "22 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 318 S.A",
+            "Old Schedule Lot",
+            "C2326322",
+            [
+              [
+                "TM195416",
+                "1979-12-11",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900835156167684,
@@ -3502,7 +5146,39 @@
         1108531483,
         null,
         "56 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 399",
+            "New Grant Lot",
+            "C6234186",
+            [
+              [
+                "TM627774",
+                "1992-01-26",
+                "CHINESE PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "750000.0"
+              ],
+              [
+                "TM712056",
+                "1996-03-12",
+                "ORDER NOTICE TO SHOW CAUSE (ACTION NO.A5207 OF 1994)",
+                null
+              ],
+              [
+                "TM730325",
+                "1996-07-30",
+                "SEALED COPY ORDER IMPOSING CHARGE ON LAND: ORDER TO SHOW CAUSE",
+                null
+              ],
+              [
+                "TM733878",
+                "1996-08-19",
+                "SEALED COPY ORDER ABSOLUTE IMPOSING CHARGE ON LAND",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990053197701482,
@@ -3521,7 +5197,45 @@
         1108531484,
         null,
         "29 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 386",
+            "New Grant Lot",
+            "C2326719",
+            [
+              [
+                "TM1038895",
+                "2002-07-17",
+                "LOAN AGREEMENT",
+                "200000.0"
+              ],
+              [
+                "TM1050118",
+                "2002-10-30",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM1054217",
+                "2002-12-04",
+                "TRIPARTITE LEGAL CHARGE/MORTGAGE TO SECURE GENERAL CREDIT FACILITIES",
+                null
+              ],
+              [
+                "TM1054216",
+                "2002-12-04",
+                "MEMORANDUM OF RELEASE",
+                null
+              ],
+              [
+                "12020700340080",
+                "2012-01-30",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900805158635781,
@@ -3559,7 +5273,21 @@
         1108531487,
         null,
         "23 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 318 RP",
+            "Old Schedule Lot",
+            "C2326318",
+            [
+              [
+                "TM185487",
+                "1976-10-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900836609942378,
@@ -3578,7 +5306,14 @@
         1108531488,
         null,
         "55 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 400",
+            "New Grant Lot",
+            "C2326761",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900538480676662,
@@ -3597,7 +5332,27 @@
         1108531489,
         null,
         "24 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 317",
+            "Old Schedule Lot",
+            "C2326298",
+            [
+              [
+                "TM201946",
+                "1981-03-05",
+                "-",
+                null
+              ],
+              [
+                "TM727338",
+                "1996-07-04",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990083929534229,
@@ -3654,7 +5409,14 @@
         1108531493,
         null,
         "54 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 401",
+            "New Grant Lot",
+            "C6078842",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900543445858978,
@@ -3673,7 +5435,27 @@
         1108531494,
         null,
         "28 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 383",
+            "New Grant Lot",
+            "C5733857",
+            [
+              [
+                "TM931135",
+                "1999-12-08",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "TM1009748",
+                "2001-10-10",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99008107082263,
@@ -3692,7 +5474,14 @@
         1108531495,
         null,
         "53 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 402",
+            "New Grant Lot",
+            "C2326778",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.990055006877791,
@@ -3730,7 +5519,14 @@
         1108531499,
         null,
         "52 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 403",
+            "New Grant Lot",
+            "C6402138",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900556666277958,
@@ -3749,7 +5545,27 @@
         1108531500,
         null,
         "26 WONG UK TSUEN",
-        []
+        [
+          [
+            "DD385 379",
+            "New Grant Lot",
+            "C2326679",
+            [
+              [
+                "23030900130018",
+                "1976-11-15",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "23032700150011",
+                "2023-03-07",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900846766912903,
@@ -3787,7 +5603,14 @@
         1108531503,
         null,
         "51 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 404",
+            "New Grant Lot",
+            "C2326780",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900563338189243,
@@ -3806,7 +5629,27 @@
         1108531504,
         null,
         "76 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 422",
+            "New Grant Lot",
+            "C2326931",
+            [
+              [
+                "08061301150076",
+                "2008-06-06",
+                "STATUTORY DECLARATION RE LOSS OF TITLE DEEDS",
+                null
+              ],
+              [
+                "08061301150086",
+                "2008-06-06",
+                "LEGAL CHARGE",
+                "TO SECURE ALL MONEY IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990050643184432,
@@ -3844,7 +5687,14 @@
         1108531508,
         null,
         "75 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 423",
+            "New Grant Lot",
+            "D0168827",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900526036724244,
@@ -3863,7 +5713,33 @@
         1108531510,
         null,
         "63F WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 421",
+            "New Grant Lot",
+            "C2326922",
+            [
+              [
+                "TM1037705",
+                "2002-05-27",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "17071402670029",
+                "2017-06-23",
+                "ORDER NO. \"VVS/G14/200023/17/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "25011401240038",
+                "2025-01-02",
+                "LETTER OF COMPLIANCE(ORDER NO. \"VVS/G14/200023/17/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900500494365525,
@@ -3920,7 +5796,14 @@
         1108531519,
         null,
         "63E WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 417",
+            "New Grant Lot",
+            "C2326887",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900496552241234,
@@ -3958,7 +5841,14 @@
         1108531522,
         null,
         "63D WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 415",
+            "New Grant Lot",
+            "C2326860",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900490676485614,
@@ -4015,7 +5905,45 @@
         1108531526,
         null,
         "63C WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 416",
+            "New Grant Lot",
+            "C2326875",
+            [
+              [
+                "TM1038894",
+                "2002-07-12",
+                "LOAN AGREEMENT",
+                "180000.0"
+              ],
+              [
+                "05042901610033",
+                "2005-04-14",
+                "MEMORANDUM OF RELEASE",
+                "180000.0"
+              ],
+              [
+                "06031601830011",
+                "2006-02-10",
+                "SEALED COPY  ORDER IMPOSING CHARGE ON LAND : ORDER TO SHOW CAUSE",
+                null
+              ],
+              [
+                "11050902560080",
+                "2006-04-10",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "06050801610012",
+                "2006-04-10",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900486698401465,
@@ -4034,7 +5962,14 @@
         1108531529,
         null,
         "71 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 419",
+            "New Grant Lot",
+            "C2326903",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900513301929492,
@@ -4053,7 +5988,14 @@
         1108531531,
         null,
         "63B WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 420",
+            "New Grant Lot",
+            "C2326910",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900480747310474,
@@ -4072,7 +6014,33 @@
         1108531534,
         null,
         "70 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 409",
+            "New Grant Lot",
+            "C2326837",
+            [
+              [
+                "17071402670012",
+                "2017-06-23",
+                "ORDER NO. \"VVS/G14/200022/17/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "19032601610072",
+                "2019-03-04",
+                "LETTER OF COMPLIANCE (ORDER NO. \"VVS/G14/200022/17/NT\")",
+                null
+              ],
+              [
+                "25050600900017",
+                "2024-11-05",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900507179992784,
@@ -4091,7 +6059,33 @@
         1108531536,
         null,
         "63A WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 418",
+            "New Grant Lot",
+            "C2326895",
+            [
+              [
+                "TM862155",
+                "1998-08-04",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "14102802210205",
+                "2010-07-16",
+                "PROBATE",
+                null
+              ],
+              [
+                "14120301760157",
+                "2014-10-07",
+                "CONSENT LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990047675819564,
@@ -4110,7 +6104,33 @@
         1108531539,
         null,
         "69 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 412",
+            "New Grant Lot",
+            "C5303065",
+            [
+              [
+                "13011701660013",
+                "2012-12-17",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "13030702340054",
+                "2013-03-06",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "25022500520065",
+                "2025-02-07",
+                "RELEASE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900503139046726,
@@ -4129,7 +6149,21 @@
         1108531540,
         null,
         "63 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 411",
+            "New Grant Lot",
+            "C2326842",
+            [
+              [
+                "20112600390426",
+                "2014-08-18",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900470947244315,
@@ -4167,7 +6201,57 @@
         1108531542,
         null,
         "68 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 407",
+            "New Grant Lot",
+            "C2326812",
+            [
+              [
+                "TM1036217",
+                "2002-06-13",
+                "SEALED COPY CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "TM1036218",
+                "2002-06-13",
+                "SEALED COPY CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "TM1036216",
+                "2002-06-13",
+                "SEALED COPY CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "TM1038921",
+                "2002-07-15",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "TM1038920",
+                "2002-07-15",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "TM1038919",
+                "2002-07-15",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "TM1053944",
+                "2002-10-07",
+                "SEALED COPY OF BANKRUPTCY ORDER ON DEBTOR'S PETITION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900497524562737,
@@ -4186,7 +6270,14 @@
         1108531543,
         null,
         "64 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 413",
+            "New Grant Lot",
+            "C2326855",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900466975770517,
@@ -4224,7 +6315,14 @@
         1108531546,
         null,
         "67 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 410",
+            "New Grant Lot",
+            "C5218481",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900493600565163,
@@ -4262,7 +6360,14 @@
         1108531548,
         null,
         "65 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 408",
+            "New Grant Lot",
+            "C2326821",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.990046096174598,
@@ -4281,7 +6386,14 @@
         1108531549,
         null,
         null,
-        []
+        [
+          [
+            "TMTL 394",
+            "New Grant Lot",
+            "C4752819",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9898696956597153,
@@ -4300,7 +6412,33 @@
         1108531551,
         null,
         "66 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 406",
+            "New Grant Lot",
+            "C2326802",
+            [
+              [
+                "20112400690018",
+                "2020-11-11",
+                "PROBATE",
+                null
+              ],
+              [
+                "25041400060017",
+                "2025-03-05",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "25041400060026",
+                "2025-04-10",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900457005958367,
@@ -4433,7 +6571,63 @@
         1108531582,
         null,
         "1 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 278 S.A",
+            "Old Schedule Lot",
+            "C2325856",
+            []
+          ],
+          [
+            "DD385 278 S.F RP",
+            "Old Schedule Lot",
+            "C2325975",
+            [
+              [
+                "TM133025",
+                "1954-12-07",
+                "-",
+                null
+              ],
+              [
+                "TM149505",
+                "1962-12-29",
+                "-",
+                null
+              ],
+              [
+                "TM442209",
+                "1990-07-30",
+                "-",
+                null
+              ],
+              [
+                "TM557515",
+                "1992-06-09",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TM685747",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "TM685746",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "10061000660170",
+                "2010-05-12",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900453610600581,
@@ -4452,7 +6646,82 @@
         1108531584,
         null,
         "2 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 278 S.A",
+            "Old Schedule Lot",
+            "C2325856",
+            []
+          ],
+          [
+            "DD385 278 S.B SS.1",
+            "Old Schedule Lot",
+            "C6446671",
+            [
+              [
+                "TM177222",
+                "1973-08-24",
+                "-",
+                null
+              ],
+              [
+                "TM257312",
+                "1985-04-11",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD385 278 S.F RP",
+            "Old Schedule Lot",
+            "C2325975",
+            [
+              [
+                "TM133025",
+                "1954-12-07",
+                "-",
+                null
+              ],
+              [
+                "TM149505",
+                "1962-12-29",
+                "-",
+                null
+              ],
+              [
+                "TM442209",
+                "1990-07-30",
+                "-",
+                null
+              ],
+              [
+                "TM557515",
+                "1992-06-09",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TM685747",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "TM685746",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "10061000660170",
+                "2010-05-12",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900446701024102,
@@ -4471,7 +6740,76 @@
         1108531585,
         null,
         null,
-        []
+        [
+          [
+            "DD385 278 S.B SS.1",
+            "Old Schedule Lot",
+            "C6446671",
+            [
+              [
+                "TM177222",
+                "1973-08-24",
+                "-",
+                null
+              ],
+              [
+                "TM257312",
+                "1985-04-11",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD385 278 S.F RP",
+            "Old Schedule Lot",
+            "C2325975",
+            [
+              [
+                "TM133025",
+                "1954-12-07",
+                "-",
+                null
+              ],
+              [
+                "TM149505",
+                "1962-12-29",
+                "-",
+                null
+              ],
+              [
+                "TM442209",
+                "1990-07-30",
+                "-",
+                null
+              ],
+              [
+                "TM557515",
+                "1992-06-09",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TM685747",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "TM685746",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "10061000660170",
+                "2010-05-12",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900438285964517,
@@ -4490,7 +6828,82 @@
         1108531586,
         null,
         "4 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 278 S.C RP",
+            "Old Schedule Lot",
+            "C4939319",
+            [
+              [
+                "TM130033",
+                "1952-11-17",
+                "-",
+                null
+              ],
+              [
+                "TM685748",
+                "1993-11-29",
+                "-",
+                null
+              ],
+              [
+                "10010801310013",
+                "2009-12-17",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD385 278 S.F RP",
+            "Old Schedule Lot",
+            "C2325975",
+            [
+              [
+                "TM133025",
+                "1954-12-07",
+                "-",
+                null
+              ],
+              [
+                "TM149505",
+                "1962-12-29",
+                "-",
+                null
+              ],
+              [
+                "TM442209",
+                "1990-07-30",
+                "-",
+                null
+              ],
+              [
+                "TM557515",
+                "1992-06-09",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TM685747",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "TM685746",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "10061000660170",
+                "2010-05-12",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900435414600655,
@@ -4509,7 +6922,27 @@
         1108531587,
         null,
         "3 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 278 S.B SS.1",
+            "Old Schedule Lot",
+            "C6446671",
+            [
+              [
+                "TM177222",
+                "1973-08-24",
+                "-",
+                null
+              ],
+              [
+                "TM257312",
+                "1985-04-11",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900441532323432,
@@ -4528,7 +6961,101 @@
         1108531588,
         null,
         "13 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 278 S.B SS.2",
+            "Old Schedule Lot",
+            "C2325900",
+            [
+              [
+                "TM177222",
+                "1973-08-24",
+                "-",
+                null
+              ],
+              [
+                "TM257312",
+                "1985-04-11",
+                "-",
+                null
+              ],
+              [
+                "TM1077926",
+                "2003-09-17",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TM1095128",
+                "2004-04-13",
+                "ASSIGNMENT",
+                "500000.0"
+              ]
+            ]
+          ],
+          [
+            "DD385 278 S.D RP",
+            "Old Schedule Lot",
+            "C2325933",
+            [
+              [
+                "TM204270",
+                "1981-06-16",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD385 278 S.F RP",
+            "Old Schedule Lot",
+            "C2325975",
+            [
+              [
+                "TM133025",
+                "1954-12-07",
+                "-",
+                null
+              ],
+              [
+                "TM149505",
+                "1962-12-29",
+                "-",
+                null
+              ],
+              [
+                "TM442209",
+                "1990-07-30",
+                "-",
+                null
+              ],
+              [
+                "TM557515",
+                "1992-06-09",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TM685747",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "TM685746",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "10061000660170",
+                "2010-05-12",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900393280287192,
@@ -4547,7 +7074,101 @@
         1108531589,
         null,
         "5 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 278 S.C RP",
+            "Old Schedule Lot",
+            "C4939319",
+            [
+              [
+                "TM130033",
+                "1952-11-17",
+                "-",
+                null
+              ],
+              [
+                "TM685748",
+                "1993-11-29",
+                "-",
+                null
+              ],
+              [
+                "10010801310013",
+                "2009-12-17",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD385 278 S.C SS.1",
+            "Old Schedule Lot",
+            "C2325926",
+            [
+              [
+                "TM162016",
+                "1968-12-23",
+                "-",
+                null
+              ],
+              [
+                "16012200240143",
+                "2015-12-08",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD385 278 S.F RP",
+            "Old Schedule Lot",
+            "C2325975",
+            [
+              [
+                "TM133025",
+                "1954-12-07",
+                "-",
+                null
+              ],
+              [
+                "TM149505",
+                "1962-12-29",
+                "-",
+                null
+              ],
+              [
+                "TM442209",
+                "1990-07-30",
+                "-",
+                null
+              ],
+              [
+                "TM557515",
+                "1992-06-09",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TM685747",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "TM685746",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "10061000660170",
+                "2010-05-12",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900430539251894,
@@ -4566,7 +7187,101 @@
         1108531590,
         null,
         "6 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 278 S.B RP",
+            "Old Schedule Lot",
+            "C2325899",
+            [
+              [
+                "TM177222",
+                "1973-08-24",
+                "-",
+                null
+              ],
+              [
+                "TM1077926",
+                "2003-09-17",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TM1095128",
+                "2004-04-13",
+                "ASSIGNMENT",
+                "500000.0"
+              ]
+            ]
+          ],
+          [
+            "DD385 278 S.C SS.1",
+            "Old Schedule Lot",
+            "C2325926",
+            [
+              [
+                "TM162016",
+                "1968-12-23",
+                "-",
+                null
+              ],
+              [
+                "16012200240143",
+                "2015-12-08",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD385 278 S.F RP",
+            "Old Schedule Lot",
+            "C2325975",
+            [
+              [
+                "TM133025",
+                "1954-12-07",
+                "-",
+                null
+              ],
+              [
+                "TM149505",
+                "1962-12-29",
+                "-",
+                null
+              ],
+              [
+                "TM442209",
+                "1990-07-30",
+                "-",
+                null
+              ],
+              [
+                "TM557515",
+                "1992-06-09",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TM685747",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "TM685746",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "10061000660170",
+                "2010-05-12",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900425163964368,
@@ -4585,7 +7300,88 @@
         1108531591,
         null,
         "7 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 278 S.A",
+            "Old Schedule Lot",
+            "C2325856",
+            []
+          ],
+          [
+            "DD385 278 S.B RP",
+            "Old Schedule Lot",
+            "C2325899",
+            [
+              [
+                "TM177222",
+                "1973-08-24",
+                "-",
+                null
+              ],
+              [
+                "TM1077926",
+                "2003-09-17",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TM1095128",
+                "2004-04-13",
+                "ASSIGNMENT",
+                "500000.0"
+              ]
+            ]
+          ],
+          [
+            "DD385 278 S.F RP",
+            "Old Schedule Lot",
+            "C2325975",
+            [
+              [
+                "TM133025",
+                "1954-12-07",
+                "-",
+                null
+              ],
+              [
+                "TM149505",
+                "1962-12-29",
+                "-",
+                null
+              ],
+              [
+                "TM442209",
+                "1990-07-30",
+                "-",
+                null
+              ],
+              [
+                "TM557515",
+                "1992-06-09",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TM685747",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "TM685746",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "10061000660170",
+                "2010-05-12",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990042011441749,
@@ -4604,7 +7400,27 @@
         1108531593,
         null,
         "12 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 278 S.F SS.1",
+            "Old Schedule Lot",
+            "C2325988",
+            [
+              [
+                "TM201755",
+                "1981-02-20",
+                "-",
+                null
+              ],
+              [
+                "TM204269",
+                "1981-06-16",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900381365924096,
@@ -4623,7 +7439,82 @@
         1108531594,
         null,
         "8 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 278 S.A",
+            "Old Schedule Lot",
+            "C2325856",
+            []
+          ],
+          [
+            "DD385 278 S.E",
+            "Old Schedule Lot",
+            "C2325954",
+            [
+              [
+                "TM149272",
+                "1962-12-03",
+                "-",
+                "6000.0"
+              ],
+              [
+                "TM442209",
+                "1990-07-30",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD385 278 S.F RP",
+            "Old Schedule Lot",
+            "C2325975",
+            [
+              [
+                "TM133025",
+                "1954-12-07",
+                "-",
+                null
+              ],
+              [
+                "TM149505",
+                "1962-12-29",
+                "-",
+                null
+              ],
+              [
+                "TM442209",
+                "1990-07-30",
+                "-",
+                null
+              ],
+              [
+                "TM557515",
+                "1992-06-09",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TM685747",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "TM685746",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "10061000660170",
+                "2010-05-12",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900415130689093,
@@ -4642,7 +7533,63 @@
         1108531597,
         null,
         "9 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 278 S.A",
+            "Old Schedule Lot",
+            "C2325856",
+            []
+          ],
+          [
+            "DD385 278 S.F RP",
+            "Old Schedule Lot",
+            "C2325975",
+            [
+              [
+                "TM133025",
+                "1954-12-07",
+                "-",
+                null
+              ],
+              [
+                "TM149505",
+                "1962-12-29",
+                "-",
+                null
+              ],
+              [
+                "TM442209",
+                "1990-07-30",
+                "-",
+                null
+              ],
+              [
+                "TM557515",
+                "1992-06-09",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TM685747",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "TM685746",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "10061000660170",
+                "2010-05-12",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900410271384241,
@@ -4661,7 +7608,70 @@
         1108531598,
         null,
         "11 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 278 S.D SS.1",
+            "Old Schedule Lot",
+            "C2325943",
+            [
+              [
+                "TM201756",
+                "1981-02-20",
+                "-",
+                null
+              ],
+              [
+                "TM442209",
+                "1990-07-30",
+                "-",
+                null
+              ],
+              [
+                "TM557515",
+                "1992-06-09",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TM685746",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "TM685747",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "10061000660170",
+                "2010-05-12",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD385 278 S.F SS.1",
+            "Old Schedule Lot",
+            "C2325988",
+            [
+              [
+                "TM201755",
+                "1981-02-20",
+                "-",
+                null
+              ],
+              [
+                "TM204269",
+                "1981-06-16",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900386569352404,
@@ -4680,7 +7690,141 @@
         1108531600,
         null,
         null,
-        []
+        [
+          [
+            "DD385 279 S.B",
+            "Old Schedule Lot",
+            "C2325995",
+            [
+              [
+                "TM204271",
+                "1981-06-16",
+                "-",
+                null
+              ],
+              [
+                "TM1092553",
+                "2004-03-18",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TM1092552",
+                "2004-03-18",
+                "LOAN AGREEMENT",
+                "180000.0"
+              ],
+              [
+                "05052001130032",
+                "2005-04-21",
+                "LOAN AGREEMENT",
+                "235000.0"
+              ],
+              [
+                "05052001130046",
+                "2005-04-21",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "07071902830269",
+                "2007-06-22",
+                "LOAN AGREEMENT",
+                "290000.0"
+              ],
+              [
+                "07071902830252",
+                "2007-06-22",
+                "NOTICE OF REVOCATION",
+                null
+              ],
+              [
+                "08022900660016",
+                "2008-02-01",
+                "LOAN AGREEMENT",
+                "380000.0"
+              ],
+              [
+                "11091601160026",
+                "2011-08-22",
+                "LOAN AGREEMENT",
+                "400000.0"
+              ],
+              [
+                "12071001900101",
+                "2012-07-05",
+                "MORTGAGE",
+                "400000.0"
+              ],
+              [
+                "13030400190013",
+                "2013-01-28",
+                "MEMORANDUM OF RELEASE",
+                null
+              ],
+              [
+                "13022002160021",
+                "2013-01-28",
+                "FIRST LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "13022002160011",
+                "2013-01-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "400000.0"
+              ],
+              [
+                "14011501360013",
+                "2014-01-10",
+                "MEMORANDUM FOR SALE AND PURCHASE",
+                "950000.0"
+              ],
+              [
+                "14012201770025",
+                "2014-01-15",
+                "ASSIGNMENT",
+                "950000.0"
+              ],
+              [
+                "14012201770011",
+                "2014-01-15",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "14032401710012",
+                "2014-03-17",
+                "FIRST LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "15012000760025",
+                "2015-01-14",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "15011500730010",
+                "2015-01-14",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "15051400520010",
+                "2015-05-13",
+                "SECOND LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "20021200450015",
+                "2020-01-16",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990037616879054,
@@ -4699,7 +7843,100 @@
         1108531602,
         null,
         "10 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 278 S.D SS.1",
+            "Old Schedule Lot",
+            "C2325943",
+            [
+              [
+                "TM201756",
+                "1981-02-20",
+                "-",
+                null
+              ],
+              [
+                "TM442209",
+                "1990-07-30",
+                "-",
+                null
+              ],
+              [
+                "TM557515",
+                "1992-06-09",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TM685746",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "TM685747",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "10061000660170",
+                "2010-05-12",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD385 278 S.F RP",
+            "Old Schedule Lot",
+            "C2325975",
+            [
+              [
+                "TM133025",
+                "1954-12-07",
+                "-",
+                null
+              ],
+              [
+                "TM149505",
+                "1962-12-29",
+                "-",
+                null
+              ],
+              [
+                "TM442209",
+                "1990-07-30",
+                "-",
+                null
+              ],
+              [
+                "TM557515",
+                "1992-06-09",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TM685747",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "TM685746",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "10061000660170",
+                "2010-05-12",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900393973791732,
@@ -4718,7 +7955,33 @@
         1108531605,
         null,
         "23 CASTLE PEAK ROAD - TAI LAM",
-        []
+        [
+          [
+            "TMTL 299",
+            "New Grant Lot",
+            "C6031854",
+            [
+              [
+                "TM281308",
+                "1986-08-13",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "23082401650166",
+                "2023-06-12",
+                "ORDER NO. \"C/TE/002072/23/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "25051300210066",
+                "2025-04-30",
+                "LETTER OF COMPLIANCE (ORDER NO. \"C/TE/002072/23/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9899849665895064,
@@ -4775,7 +8038,21 @@
         1108531615,
         null,
         "33 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 389",
+            "New Grant Lot",
+            "C5821676",
+            [
+              [
+                "10010801310013",
+                "2009-12-17",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900314058654562,
@@ -4794,7 +8071,33 @@
         1108531617,
         null,
         "23 CASTLE PEAK ROAD - TAI LAM",
-        []
+        [
+          [
+            "TMTL 299",
+            "New Grant Lot",
+            "C6031854",
+            [
+              [
+                "TM281308",
+                "1986-08-13",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "23082401650166",
+                "2023-06-12",
+                "ORDER NO. \"C/TE/002072/23/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "25051300210066",
+                "2025-04-30",
+                "LETTER OF COMPLIANCE (ORDER NO. \"C/TE/002072/23/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9899997426408467,
@@ -4851,7 +8154,33 @@
         1108531626,
         null,
         "23 CASTLE PEAK ROAD - TAI LAM",
-        []
+        [
+          [
+            "TMTL 299",
+            "New Grant Lot",
+            "C6031854",
+            [
+              [
+                "TM281308",
+                "1986-08-13",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "23082401650166",
+                "2023-06-12",
+                "ORDER NO. \"C/TE/002072/23/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "25051300210066",
+                "2025-04-30",
+                "LETTER OF COMPLIANCE (ORDER NO. \"C/TE/002072/23/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9899901764300902,
@@ -4870,7 +8199,45 @@
         1108531628,
         null,
         null,
-        []
+        [
+          [
+            "DD385 286",
+            "Old Schedule Lot",
+            "C4939345",
+            [
+              [
+                "TM86207",
+                "1933-05-01",
+                "-",
+                "700.0"
+              ],
+              [
+                "TM89438",
+                "1934-01-31",
+                "DEBENTURE TRUST DEED",
+                null
+              ],
+              [
+                "TM125450",
+                "1948-06-22",
+                "A CERTIFICATE OF SATISFACTION",
+                null
+              ],
+              [
+                "TM124457",
+                "1949-05-19",
+                "-",
+                null
+              ],
+              [
+                "TM141048",
+                "1959-09-16",
+                "CONVEYANCE ON SALE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900207927911373,
@@ -4889,7 +8256,14 @@
         1108531630,
         null,
         null,
-        []
+        [
+          [
+            "DD385 283",
+            "Old Schedule Lot",
+            "C2326023",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900118935516555,
@@ -4908,7 +8282,33 @@
         1108531632,
         null,
         "35 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 382",
+            "New Grant Lot",
+            "C2326693",
+            [
+              [
+                "TM733692",
+                "1994-06-03",
+                "PROBATE",
+                null
+              ],
+              [
+                "TM846868",
+                "1998-05-14",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "TM846869",
+                "1998-05-14",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900340148922633,
@@ -4946,7 +8346,75 @@
         1108531637,
         null,
         "36 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 288 S.A",
+            "Old Schedule Lot",
+            "C6446686",
+            [
+              [
+                "TM173144",
+                "1972-12-07",
+                "-",
+                "15700.0"
+              ],
+              [
+                "TM186291",
+                "1977-04-18",
+                "-",
+                "150000.0"
+              ],
+              [
+                "TM193955",
+                "1978-11-11",
+                "MORTGAGE",
+                "500000.0"
+              ],
+              [
+                "TM193954",
+                "1978-11-11",
+                "-",
+                "350000.0"
+              ],
+              [
+                "TM202981",
+                "1981-03-28",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "TM253431",
+                "1984-11-29",
+                "LEGAL CHARGE",
+                "200000.0"
+              ],
+              [
+                "TM341838",
+                "1987-01-21",
+                "FURTHER LEGAL CHARGE",
+                null
+              ],
+              [
+                "TM374131",
+                "1989-03-28",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "TM374130",
+                "1989-03-28",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "TM863474",
+                "1998-09-11",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900383549200178,
@@ -4965,7 +8433,33 @@
         1108531640,
         null,
         "23 CASTLE PEAK ROAD - TAI LAM",
-        []
+        [
+          [
+            "TMTL 299",
+            "New Grant Lot",
+            "C6031854",
+            [
+              [
+                "TM281308",
+                "1986-08-13",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "23082401650166",
+                "2023-06-12",
+                "ORDER NO. \"C/TE/002072/23/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "25051300210066",
+                "2025-04-30",
+                "LETTER OF COMPLIANCE (ORDER NO. \"C/TE/002072/23/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99000421551078,
@@ -4984,7 +8478,75 @@
         1108531641,
         null,
         null,
-        []
+        [
+          [
+            "DD385 288 S.A",
+            "Old Schedule Lot",
+            "C6446686",
+            [
+              [
+                "TM173144",
+                "1972-12-07",
+                "-",
+                "15700.0"
+              ],
+              [
+                "TM186291",
+                "1977-04-18",
+                "-",
+                "150000.0"
+              ],
+              [
+                "TM193955",
+                "1978-11-11",
+                "MORTGAGE",
+                "500000.0"
+              ],
+              [
+                "TM193954",
+                "1978-11-11",
+                "-",
+                "350000.0"
+              ],
+              [
+                "TM202981",
+                "1981-03-28",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "TM253431",
+                "1984-11-29",
+                "LEGAL CHARGE",
+                "200000.0"
+              ],
+              [
+                "TM341838",
+                "1987-01-21",
+                "FURTHER LEGAL CHARGE",
+                null
+              ],
+              [
+                "TM374131",
+                "1989-03-28",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "TM374130",
+                "1989-03-28",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "TM863474",
+                "1998-09-11",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900392920025078,
@@ -5003,7 +8565,33 @@
         1108531644,
         null,
         "23 CASTLE PEAK ROAD - TAI LAM",
-        []
+        [
+          [
+            "TMTL 299",
+            "New Grant Lot",
+            "C6031854",
+            [
+              [
+                "TM281308",
+                "1986-08-13",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "23082401650166",
+                "2023-06-12",
+                "ORDER NO. \"C/TE/002072/23/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "25051300210066",
+                "2025-04-30",
+                "LETTER OF COMPLIANCE (ORDER NO. \"C/TE/002072/23/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9899939797683115,
@@ -5022,7 +8610,106 @@
         1108532103,
         null,
         "256 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 264 RP",
+            "Old Schedule Lot",
+            "D0728440",
+            [
+              [
+                "TM621266",
+                "1993-12-08",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "08120802230035",
+                "2008-12-04",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF THE TOWN PLANNING ORDINANCE *",
+                null
+              ],
+              [
+                "09052102630043",
+                "2009-05-19",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S.46(A) OF THE INTERPRETATION",
+                null
+              ],
+              [
+                "09052102630021",
+                "2009-05-19",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "10062802820019",
+                "2010-06-14",
+                "BUILDING LICENCE NO.2607 WITH PLAN",
+                null
+              ],
+              [
+                "12020802300043",
+                "2012-02-06",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(8A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "19061100180018",
+                "2018-11-13",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD385 267 S.A RP",
+            "Old Schedule Lot",
+            "D0728464",
+            [
+              [
+                "TM566042",
+                "1992-08-26",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "08120802230035",
+                "2008-12-04",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF THE TOWN PLANNING ORDINANCE *",
+                null
+              ],
+              [
+                "09052102630021",
+                "2009-05-19",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "09052102630043",
+                "2009-05-19",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S.46(A) OF THE INTERPRETATION",
+                null
+              ],
+              [
+                "10062802820019",
+                "2010-06-14",
+                "BUILDING LICENCE NO.2607 WITH PLAN",
+                null
+              ],
+              [
+                "12020802300043",
+                "2012-02-06",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(8A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "19061100180018",
+                "2018-11-13",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900601643952844,
@@ -5041,7 +8728,118 @@
         1108532104,
         null,
         "257 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 264 S.A",
+            "Old Schedule Lot",
+            "D0728432",
+            [
+              [
+                "TM621266",
+                "1993-12-08",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "06110800300090",
+                "2006-10-28",
+                "ASSIGNMENT",
+                "350000.0"
+              ],
+              [
+                "08120802230035",
+                "2008-12-04",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF THE TOWN PLANNING ORDINANCE *",
+                null
+              ],
+              [
+                "09052102630021",
+                "2009-05-19",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "09052102630043",
+                "2009-05-19",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S.46(A) OF THE INTERPRETATION",
+                null
+              ],
+              [
+                "10031801860015",
+                "2010-02-05",
+                "BUILDING LICENCE NO. 2606 WITH PLAN",
+                null
+              ],
+              [
+                "12020802300043",
+                "2012-02-06",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(8A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "19061100180020",
+                "2018-11-13",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD385 267 S.A SS.1",
+            "Old Schedule Lot",
+            "D0728451",
+            [
+              [
+                "TM566042",
+                "1992-08-26",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "06110800300090",
+                "2006-10-28",
+                "ASSIGNMENT",
+                "350000.0"
+              ],
+              [
+                "08120802230035",
+                "2008-12-04",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF THE TOWN PLANNING ORDINANCE *",
+                null
+              ],
+              [
+                "09052102630021",
+                "2009-05-19",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "09052102630043",
+                "2009-05-19",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S.46(A) OF THE INTERPRETATION",
+                null
+              ],
+              [
+                "10031801860015",
+                "2010-02-05",
+                "BUILDING LICENCE NO. 2606 WITH PLAN",
+                null
+              ],
+              [
+                "12020802300043",
+                "2012-02-06",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(8A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "19061100180020",
+                "2018-11-13",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900607268916748,
@@ -5060,7 +8858,57 @@
         1108532105,
         null,
         "262 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 267 S.D",
+            "Old Schedule Lot",
+            "C4939297",
+            [
+              [
+                "TM566046",
+                "1992-09-01",
+                "-",
+                null
+              ],
+              [
+                "TM978760",
+                "2000-12-29",
+                "ASSIGNMENT",
+                "250000.0"
+              ],
+              [
+                "08012100670043",
+                "2007-12-11",
+                "BUILDING LICENCE NO.2412 WITH PLAN",
+                null
+              ],
+              [
+                "08120802230035",
+                "2008-12-04",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF THE TOWN PLANNING ORDINANCE *",
+                null
+              ],
+              [
+                "09052102630043",
+                "2009-05-19",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S.46(A) OF THE INTERPRETATION",
+                null
+              ],
+              [
+                "09052102630021",
+                "2009-05-19",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "12020802300043",
+                "2012-02-06",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(8A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900571506842974,
@@ -5079,7 +8927,93 @@
         1108532106,
         null,
         "263 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 267 RP",
+            "Old Schedule Lot",
+            "C2325788",
+            [
+              [
+                "TM198086",
+                "1980-05-22",
+                "WAIVER LETTER (SHORT TERM WAIVER NO.163)",
+                null
+              ],
+              [
+                "TM310217",
+                "1987-09-10",
+                "-",
+                null
+              ],
+              [
+                "TM843845",
+                "1992-03-23",
+                "CERTIFIED TRUE COPY TERMINATION LETTER",
+                null
+              ],
+              [
+                "TM566046",
+                "1992-09-01",
+                "-",
+                null
+              ],
+              [
+                "TM593406",
+                "1995-04-30",
+                "LEASE FOR A TERM OF 2 YEARS FROM 1.5.93 TO 30.4.95",
+                null
+              ],
+              [
+                "TM858373",
+                "1998-08-31",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "TM885988",
+                "1999-02-03",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S.23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "TM974875",
+                "2000-12-05",
+                "DEED POLL WITH PLAN",
+                null
+              ],
+              [
+                "08012101380208",
+                "2007-12-11",
+                "BUILDING LICENCE NO. 2471 WITH PLAN",
+                null
+              ],
+              [
+                "08120802230035",
+                "2008-12-04",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF THE TOWN PLANNING ORDINANCE *",
+                null
+              ],
+              [
+                "09052102630021",
+                "2009-05-19",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "09052102630043",
+                "2009-05-19",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S.46(A) OF THE INTERPRETATION",
+                null
+              ],
+              [
+                "12020802300043",
+                "2012-02-06",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(8A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900580190760837,
@@ -5098,7 +9032,99 @@
         1108532107,
         null,
         "265 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 267 S.B",
+            "Old Schedule Lot",
+            "C2325799",
+            [
+              [
+                "TM198086",
+                "1980-05-22",
+                "WAIVER LETTER (SHORT TERM WAIVER NO.163)",
+                null
+              ],
+              [
+                "TM310217",
+                "1987-09-10",
+                "-",
+                null
+              ],
+              [
+                "TM843845",
+                "1992-03-23",
+                "CERTIFIED TRUE COPY TERMINATION LETTER",
+                null
+              ],
+              [
+                "TM566043",
+                "1992-09-01",
+                "-",
+                null
+              ],
+              [
+                "TM593404",
+                "1993-05-26",
+                "LEASE FOR A TERM OF 2 YEARS FROM 1.5.93 TO 30.4.95",
+                null
+              ],
+              [
+                "TM858373",
+                "1998-08-31",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "TM885988",
+                "1999-02-03",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S.23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "08120802230035",
+                "2008-12-04",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF THE TOWN PLANNING ORDINANCE *",
+                null
+              ],
+              [
+                "09052102630043",
+                "2009-05-19",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S.46(A) OF THE INTERPRETATION",
+                null
+              ],
+              [
+                "09052102630021",
+                "2009-05-19",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "10050602950011",
+                "2010-05-04",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION  23(1) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "10070601390119",
+                "2010-06-18",
+                "BUILDING LICENCE NO. 2608 WITH PLAN",
+                null
+              ],
+              [
+                "11112502860045",
+                "2011-11-22",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 46(A)  OF THE INTERPRETATION *",
+                null
+              ],
+              [
+                "12020802300043",
+                "2012-02-06",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(8A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900603945314732,
@@ -5117,7 +9143,33 @@
         1108532108,
         null,
         null,
-        []
+        [
+          [
+            "DD385 424",
+            "New Grant Lot",
+            "D1770817",
+            [
+              [
+                "17051500190133",
+                "2017-04-20",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "24062600620017",
+                "2023-03-27",
+                "PROBATE AMENDED AS IN RED PURSUANT TO THE ORDER OF MR. SENIOR DEPUTY REGISTRAR K.H. HUI DATED 2.4.2024",
+                null
+              ],
+              [
+                "24102200620011",
+                "2024-09-28",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900793130206056,
@@ -5839,7 +9891,21 @@
         1810144553,
         null,
         "77 WU UK TSUEN",
-        []
+        [
+          [
+            "DD385 425",
+            "New Grant Lot",
+            "D3205335",
+            [
+              [
+                "19041601310019",
+                "2019-01-22",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900510434547805,
@@ -5915,7 +9981,45 @@
         1810162687,
         null,
         null,
-        []
+        [
+          [
+            "DD385 280 S.A",
+            "Old Schedule Lot",
+            "C2326010",
+            [
+              [
+                "TM171687",
+                "1972-08-03",
+                "-",
+                "6968.0"
+              ],
+              [
+                "TM172800",
+                "1972-11-08",
+                "-",
+                null
+              ],
+              [
+                "TM557517",
+                "1992-06-09",
+                "-",
+                "100000.0"
+              ],
+              [
+                "10061401700070",
+                "2010-05-12",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "17122101330160",
+                "2017-12-07",
+                "BUILDING LICENCE NO. 3029 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900364460340765,
@@ -5953,7 +10057,33 @@
         1810170668,
         null,
         "266 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 267 S.C SS.1",
+            "Old Schedule Lot",
+            "D2975612",
+            [
+              [
+                "TM566044",
+                "1992-09-01",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "17110601390081",
+                "2017-10-30",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "18111201330117",
+                "2018-11-01",
+                "BUILDING LICENCE NO.3054 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900582949779457,
@@ -5991,7 +10121,51 @@
         1810186921,
         null,
         "218 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 192 S.B",
+            "Old Schedule Lot",
+            "D2622965",
+            [
+              [
+                "13081600210053",
+                "2013-07-31",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "13101100210113",
+                "2013-09-16",
+                "ASSIGNMENT",
+                "3447400.0"
+              ],
+              [
+                "14030500900022",
+                "2013-12-30",
+                "ASSIGNMENT",
+                "540000.0"
+              ],
+              [
+                "20072101130035",
+                "2020-07-03",
+                "BUILDING LICENCE NO.3098 WITH PLAN",
+                null
+              ],
+              [
+                "21022400140013",
+                "2021-02-05",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21022400140024",
+                "2021-02-08",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900692873197654,
@@ -6010,7 +10184,75 @@
         1810195172,
         "H1",
         "9 CHING LAI ROAD",
-        []
+        [
+          [
+            "TMTL 490",
+            "New Grant Lot",
+            "D2623528",
+            [
+              [
+                "19082002230313",
+                "2014-07-07",
+                "UNDERTAKING LETTER FOR USE OF RECREATIONAL FACILITIES",
+                null
+              ],
+              [
+                "19071602350112",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR BALCONIES AND UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "19071602350122",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR ACOUSTIC FINS",
+                null
+              ],
+              [
+                "19071602350138",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR SITE COVERAGE OF GREENERY",
+                null
+              ],
+              [
+                "19071602350143",
+                "2016-05-06",
+                "UNDERTAKING LETTER FOR UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "16113002450306",
+                "2016-10-31",
+                "DEBENTURE AND MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "19102502480317",
+                "2019-09-30",
+                "OCCUPATION PERMIT NO. NT 70/2019(OP)",
+                null
+              ],
+              [
+                "20071502440082",
+                "2020-06-30",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "21041302580295",
+                "2021-03-31",
+                "RELEASE OF DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "21041302580302",
+                "2021-03-31",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9898804938217687,
@@ -6029,7 +10271,75 @@
         1810195173,
         "H2",
         "9 CHING LAI ROAD",
-        []
+        [
+          [
+            "TMTL 490",
+            "New Grant Lot",
+            "D2623528",
+            [
+              [
+                "19082002230313",
+                "2014-07-07",
+                "UNDERTAKING LETTER FOR USE OF RECREATIONAL FACILITIES",
+                null
+              ],
+              [
+                "19071602350112",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR BALCONIES AND UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "19071602350122",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR ACOUSTIC FINS",
+                null
+              ],
+              [
+                "19071602350138",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR SITE COVERAGE OF GREENERY",
+                null
+              ],
+              [
+                "19071602350143",
+                "2016-05-06",
+                "UNDERTAKING LETTER FOR UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "16113002450306",
+                "2016-10-31",
+                "DEBENTURE AND MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "19102502480317",
+                "2019-09-30",
+                "OCCUPATION PERMIT NO. NT 70/2019(OP)",
+                null
+              ],
+              [
+                "20071502440082",
+                "2020-06-30",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "21041302580295",
+                "2021-03-31",
+                "RELEASE OF DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "21041302580302",
+                "2021-03-31",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989881750180451,
@@ -6048,7 +10358,75 @@
         1810195174,
         "H3",
         "9 CHING LAI ROAD",
-        []
+        [
+          [
+            "TMTL 490",
+            "New Grant Lot",
+            "D2623528",
+            [
+              [
+                "19082002230313",
+                "2014-07-07",
+                "UNDERTAKING LETTER FOR USE OF RECREATIONAL FACILITIES",
+                null
+              ],
+              [
+                "19071602350112",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR BALCONIES AND UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "19071602350122",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR ACOUSTIC FINS",
+                null
+              ],
+              [
+                "19071602350138",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR SITE COVERAGE OF GREENERY",
+                null
+              ],
+              [
+                "19071602350143",
+                "2016-05-06",
+                "UNDERTAKING LETTER FOR UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "16113002450306",
+                "2016-10-31",
+                "DEBENTURE AND MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "19102502480317",
+                "2019-09-30",
+                "OCCUPATION PERMIT NO. NT 70/2019(OP)",
+                null
+              ],
+              [
+                "20071502440082",
+                "2020-06-30",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "21041302580295",
+                "2021-03-31",
+                "RELEASE OF DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "21041302580302",
+                "2021-03-31",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9898829446029163,
@@ -6067,7 +10445,75 @@
         1810195175,
         "H5",
         "9 CHING LAI ROAD",
-        []
+        [
+          [
+            "TMTL 490",
+            "New Grant Lot",
+            "D2623528",
+            [
+              [
+                "19082002230313",
+                "2014-07-07",
+                "UNDERTAKING LETTER FOR USE OF RECREATIONAL FACILITIES",
+                null
+              ],
+              [
+                "19071602350112",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR BALCONIES AND UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "19071602350122",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR ACOUSTIC FINS",
+                null
+              ],
+              [
+                "19071602350138",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR SITE COVERAGE OF GREENERY",
+                null
+              ],
+              [
+                "19071602350143",
+                "2016-05-06",
+                "UNDERTAKING LETTER FOR UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "16113002450306",
+                "2016-10-31",
+                "DEBENTURE AND MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "19102502480317",
+                "2019-09-30",
+                "OCCUPATION PERMIT NO. NT 70/2019(OP)",
+                null
+              ],
+              [
+                "20071502440082",
+                "2020-06-30",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "21041302580295",
+                "2021-03-31",
+                "RELEASE OF DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "21041302580302",
+                "2021-03-31",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989884253741353,
@@ -6086,7 +10532,75 @@
         1810195176,
         "H6",
         "9 CHING LAI ROAD",
-        []
+        [
+          [
+            "TMTL 490",
+            "New Grant Lot",
+            "D2623528",
+            [
+              [
+                "19082002230313",
+                "2014-07-07",
+                "UNDERTAKING LETTER FOR USE OF RECREATIONAL FACILITIES",
+                null
+              ],
+              [
+                "19071602350112",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR BALCONIES AND UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "19071602350122",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR ACOUSTIC FINS",
+                null
+              ],
+              [
+                "19071602350138",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR SITE COVERAGE OF GREENERY",
+                null
+              ],
+              [
+                "19071602350143",
+                "2016-05-06",
+                "UNDERTAKING LETTER FOR UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "16113002450306",
+                "2016-10-31",
+                "DEBENTURE AND MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "19102502480317",
+                "2019-09-30",
+                "OCCUPATION PERMIT NO. NT 70/2019(OP)",
+                null
+              ],
+              [
+                "20071502440082",
+                "2020-06-30",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "21041302580295",
+                "2021-03-31",
+                "RELEASE OF DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "21041302580302",
+                "2021-03-31",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989885252326663,
@@ -6105,7 +10619,75 @@
         1810195177,
         "H7",
         "9 CHING LAI ROAD",
-        []
+        [
+          [
+            "TMTL 490",
+            "New Grant Lot",
+            "D2623528",
+            [
+              [
+                "19082002230313",
+                "2014-07-07",
+                "UNDERTAKING LETTER FOR USE OF RECREATIONAL FACILITIES",
+                null
+              ],
+              [
+                "19071602350112",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR BALCONIES AND UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "19071602350122",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR ACOUSTIC FINS",
+                null
+              ],
+              [
+                "19071602350138",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR SITE COVERAGE OF GREENERY",
+                null
+              ],
+              [
+                "19071602350143",
+                "2016-05-06",
+                "UNDERTAKING LETTER FOR UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "16113002450306",
+                "2016-10-31",
+                "DEBENTURE AND MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "19102502480317",
+                "2019-09-30",
+                "OCCUPATION PERMIT NO. NT 70/2019(OP)",
+                null
+              ],
+              [
+                "20071502440082",
+                "2020-06-30",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "21041302580295",
+                "2021-03-31",
+                "RELEASE OF DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "21041302580302",
+                "2021-03-31",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989885932287476,
@@ -6124,7 +10706,75 @@
         1810195178,
         "H8",
         "9 CHING LAI ROAD",
-        []
+        [
+          [
+            "TMTL 490",
+            "New Grant Lot",
+            "D2623528",
+            [
+              [
+                "19082002230313",
+                "2014-07-07",
+                "UNDERTAKING LETTER FOR USE OF RECREATIONAL FACILITIES",
+                null
+              ],
+              [
+                "19071602350112",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR BALCONIES AND UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "19071602350122",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR ACOUSTIC FINS",
+                null
+              ],
+              [
+                "19071602350138",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR SITE COVERAGE OF GREENERY",
+                null
+              ],
+              [
+                "19071602350143",
+                "2016-05-06",
+                "UNDERTAKING LETTER FOR UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "16113002450306",
+                "2016-10-31",
+                "DEBENTURE AND MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "19102502480317",
+                "2019-09-30",
+                "OCCUPATION PERMIT NO. NT 70/2019(OP)",
+                null
+              ],
+              [
+                "20071502440082",
+                "2020-06-30",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "21041302580295",
+                "2021-03-31",
+                "RELEASE OF DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "21041302580302",
+                "2021-03-31",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9898869197477056,
@@ -6143,7 +10793,75 @@
         1810195179,
         null,
         "9 CHING LAI ROAD",
-        []
+        [
+          [
+            "TMTL 490",
+            "New Grant Lot",
+            "D2623528",
+            [
+              [
+                "19082002230313",
+                "2014-07-07",
+                "UNDERTAKING LETTER FOR USE OF RECREATIONAL FACILITIES",
+                null
+              ],
+              [
+                "19071602350112",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR BALCONIES AND UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "19071602350122",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR ACOUSTIC FINS",
+                null
+              ],
+              [
+                "19071602350138",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR SITE COVERAGE OF GREENERY",
+                null
+              ],
+              [
+                "19071602350143",
+                "2016-05-06",
+                "UNDERTAKING LETTER FOR UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "16113002450306",
+                "2016-10-31",
+                "DEBENTURE AND MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "19102502480317",
+                "2019-09-30",
+                "OCCUPATION PERMIT NO. NT 70/2019(OP)",
+                null
+              ],
+              [
+                "20071502440082",
+                "2020-06-30",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "21041302580295",
+                "2021-03-31",
+                "RELEASE OF DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "21041302580302",
+                "2021-03-31",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9898872049454208,
@@ -6162,7 +10880,75 @@
         1810195180,
         "H9",
         "9 CHING LAI ROAD",
-        []
+        [
+          [
+            "TMTL 490",
+            "New Grant Lot",
+            "D2623528",
+            [
+              [
+                "19082002230313",
+                "2014-07-07",
+                "UNDERTAKING LETTER FOR USE OF RECREATIONAL FACILITIES",
+                null
+              ],
+              [
+                "19071602350112",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR BALCONIES AND UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "19071602350122",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR ACOUSTIC FINS",
+                null
+              ],
+              [
+                "19071602350138",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR SITE COVERAGE OF GREENERY",
+                null
+              ],
+              [
+                "19071602350143",
+                "2016-05-06",
+                "UNDERTAKING LETTER FOR UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "16113002450306",
+                "2016-10-31",
+                "DEBENTURE AND MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "19102502480317",
+                "2019-09-30",
+                "OCCUPATION PERMIT NO. NT 70/2019(OP)",
+                null
+              ],
+              [
+                "20071502440082",
+                "2020-06-30",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "21041302580295",
+                "2021-03-31",
+                "RELEASE OF DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "21041302580302",
+                "2021-03-31",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9898894459184864,
@@ -6181,7 +10967,75 @@
         1810195185,
         null,
         "9 CHING LAI ROAD",
-        []
+        [
+          [
+            "TMTL 490",
+            "New Grant Lot",
+            "D2623528",
+            [
+              [
+                "19082002230313",
+                "2014-07-07",
+                "UNDERTAKING LETTER FOR USE OF RECREATIONAL FACILITIES",
+                null
+              ],
+              [
+                "19071602350112",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR BALCONIES AND UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "19071602350122",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR ACOUSTIC FINS",
+                null
+              ],
+              [
+                "19071602350138",
+                "2015-02-26",
+                "UNDERTAKING LETTER FOR SITE COVERAGE OF GREENERY",
+                null
+              ],
+              [
+                "19071602350143",
+                "2016-05-06",
+                "UNDERTAKING LETTER FOR UTILITY PLATFORMS",
+                null
+              ],
+              [
+                "16113002450306",
+                "2016-10-31",
+                "DEBENTURE AND MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "19102502480317",
+                "2019-09-30",
+                "OCCUPATION PERMIT NO. NT 70/2019(OP)",
+                null
+              ],
+              [
+                "20071502440082",
+                "2020-06-30",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "21041302580295",
+                "2021-03-31",
+                "RELEASE OF DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "21041302580302",
+                "2021-03-31",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9898841639085014,
@@ -6200,7 +11054,51 @@
         1810196844,
         null,
         "219 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 192 S.C",
+            "Old Schedule Lot",
+            "D2622974",
+            [
+              [
+                "13081600210053",
+                "2013-07-31",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "13101100210113",
+                "2013-09-16",
+                "ASSIGNMENT",
+                "3447400.0"
+              ],
+              [
+                "14030500900030",
+                "2013-12-30",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "20123100430051",
+                "2020-12-30",
+                "BUILDING LICENCE NO. 3111 WITH PLAN",
+                null
+              ],
+              [
+                "21022400140013",
+                "2021-02-05",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21022400140024",
+                "2021-02-08",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990070765816834,
@@ -6219,7 +11117,51 @@
         1810208302,
         null,
         "221 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 192 S.A",
+            "Old Schedule Lot",
+            "D2622950",
+            [
+              [
+                "13081600210053",
+                "2013-07-31",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "13101100210113",
+                "2013-09-16",
+                "ASSIGNMENT",
+                "3447400.0"
+              ],
+              [
+                "14030500900011",
+                "2013-12-30",
+                "ASSIGNMENT",
+                "460000.0"
+              ],
+              [
+                "21022400140013",
+                "2021-02-05",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21051301200032",
+                "2021-04-30",
+                "BUILDING LICENCE NO. 3137 WITH PLAN",
+                null
+              ],
+              [
+                "22080100300014",
+                "2022-07-18",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900736496317093,
@@ -6238,7 +11180,57 @@
         1810208303,
         null,
         "212 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 192 S.E",
+            "Old Schedule Lot",
+            "D2622997",
+            [
+              [
+                "13081600210053",
+                "2013-07-31",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "13101100210113",
+                "2013-09-16",
+                "ASSIGNMENT",
+                "3447400.0"
+              ],
+              [
+                "15021600600310",
+                "2015-01-28",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "578000.0"
+              ],
+              [
+                "15022700350049",
+                "2015-01-28",
+                "ASSIGNMENT",
+                "578000.0"
+              ],
+              [
+                "21022400140013",
+                "2021-02-05",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21022400140024",
+                "2021-02-08",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21082301630028",
+                "2021-07-30",
+                "BUILDING LICENCE NO. 3142 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900700206293993,
@@ -6257,7 +11249,51 @@
         1810208305,
         null,
         "220 TAI LAM CHUNG TSUEN",
-        []
+        [
+          [
+            "DD385 192 S.D",
+            "Old Schedule Lot",
+            "D2622983",
+            [
+              [
+                "13081600210053",
+                "2013-07-31",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "13101100210113",
+                "2013-09-16",
+                "ASSIGNMENT",
+                "3447400.0"
+              ],
+              [
+                "14040300750022",
+                "2014-03-06",
+                "ASSIGNMENT",
+                "460000.0"
+              ],
+              [
+                "21022400140013",
+                "2021-02-05",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21071300940015",
+                "2021-06-21",
+                "BUILDING LICENCE NO. 3141 WITH PLAN",
+                null
+              ],
+              [
+                "25021400290017",
+                "2024-12-20",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900719979049575,
@@ -6276,7 +11312,39 @@
         1810208936,
         null,
         null,
-        []
+        [
+          [
+            "DD385 310 S.A RP",
+            "Old Schedule Lot",
+            "D2905105",
+            [
+              [
+                "14100302170018",
+                "2014-09-18",
+                "ASSIGNMENT",
+                "1372140.0"
+              ],
+              [
+                "14100302170028",
+                "2014-09-18",
+                "ASSIGNMENT",
+                "2156220.0"
+              ],
+              [
+                "14120401730061",
+                "2014-11-20",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "22042101720086",
+                "2022-03-28",
+                "BUILDING LICENCE NO. 3144 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900776700700145,
@@ -6295,7 +11363,75 @@
         1910208812,
         null,
         null,
-        []
+        [
+          [
+            "DD385 192 S.F",
+            "Old Schedule Lot",
+            "D2623000",
+            [
+              [
+                "13081600210053",
+                "2013-07-31",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "13101100210113",
+                "2013-09-16",
+                "ASSIGNMENT",
+                "3447400.0"
+              ],
+              [
+                "14040300750036",
+                "2014-03-06",
+                "ASSIGNMENT",
+                "250000.0"
+              ],
+              [
+                "15012300160107",
+                "2015-01-13",
+                "CONFIRMATORY ASSIGNMENT",
+                null
+              ],
+              [
+                "16112801000022",
+                "2016-11-21",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "21022400140013",
+                "2021-02-05",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21070500860054",
+                "2021-06-21",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "22080100300014",
+                "2022-07-18",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "23081800540041",
+                "2023-06-29",
+                "BUILDING LICENCE NO. 3154 WITH PLAN",
+                null
+              ],
+              [
+                "25090100830022",
+                "2025-08-18",
+                "BUILDING MORTGAGE",
+                "2500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99007537446416,
@@ -6466,7 +11602,57 @@
         1910230028,
         null,
         null,
-        []
+        [
+          [
+            "DD385 213 S.A",
+            "Old Schedule Lot",
+            "D1858526",
+            [
+              [
+                "11012401680024",
+                "2011-01-07",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "11070800560082",
+                "2011-06-29",
+                "ASSIGNMENT",
+                "300000.0"
+              ],
+              [
+                "19030602110024",
+                "2019-03-04",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION 23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "20042101310148",
+                "2020-04-16",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S.46(A) OF THE INTERPRETATION AND GENERAL CLAUSES ORDINANCE",
+                null
+              ],
+              [
+                "24032700570096",
+                "2023-12-06",
+                "BUILDING LICENCE NO. 3211 WITH PLAN",
+                null
+              ],
+              [
+                "25102000340133",
+                "2025-07-22",
+                "DEED OF CONSENT",
+                ""
+              ],
+              [
+                "25102000340143",
+                "2025-07-22",
+                "DEED OF CONSENT",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900734803984717,
@@ -6485,7 +11671,45 @@
         1910230036,
         null,
         null,
-        []
+        [
+          [
+            "DD385 213 S.B",
+            "Old Schedule Lot",
+            "D1858538",
+            [
+              [
+                "11012401680024",
+                "2011-01-07",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "11070800560070",
+                "2011-06-29",
+                "ASSIGNMENT",
+                "300000.0"
+              ],
+              [
+                "24031500410040",
+                "2023-12-06",
+                "BUILDING LICENCE NO. 3212 WITH PLAN",
+                null
+              ],
+              [
+                "25102000340133",
+                "2025-07-22",
+                "DEED OF CONSENT",
+                ""
+              ],
+              [
+                "25102000340143",
+                "2025-07-22",
+                "DEED OF CONSENT",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900743047500709,

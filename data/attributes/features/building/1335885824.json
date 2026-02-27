@@ -6,7 +6,45 @@
         1107620370,
         null,
         null,
-        []
+        [
+          [
+            "DD65 153 RP",
+            "New Grant Lot",
+            "C5068304",
+            [
+              [
+                "N128385",
+                "1950-12-17",
+                "-",
+                "5000.0"
+              ],
+              [
+                "N381719",
+                "1996-11-27",
+                "APPROVAL OF SUCCESSION OF SUNG KIU ALIAS SUNG WAN PANG",
+                null
+              ],
+              [
+                "12021600130065",
+                "2009-10-30",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12013002080121",
+                "2012-01-06",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "12013002080132",
+                "2012-01-06",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937986945449127,
@@ -25,7 +63,45 @@
         1107620383,
         null,
         null,
-        []
+        [
+          [
+            "DD65 153 RP",
+            "New Grant Lot",
+            "C5068304",
+            [
+              [
+                "N128385",
+                "1950-12-17",
+                "-",
+                "5000.0"
+              ],
+              [
+                "N381719",
+                "1996-11-27",
+                "APPROVAL OF SUCCESSION OF SUNG KIU ALIAS SUNG WAN PANG",
+                null
+              ],
+              [
+                "12021600130065",
+                "2009-10-30",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12013002080121",
+                "2012-01-06",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "12013002080132",
+                "2012-01-06",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937986783998494,
@@ -44,7 +120,76 @@
         1107620394,
         null,
         null,
-        []
+        [
+          [
+            "DD65 168",
+            "New Grant Lot",
+            "C5068332",
+            [
+              [
+                "N211819",
+                "1984-03-12",
+                "-",
+                null
+              ],
+              [
+                "N229371",
+                "1989-01-20",
+                "TOLERATION LETTER",
+                null
+              ],
+              [
+                "N361181",
+                "1996-02-13",
+                "-",
+                null
+              ],
+              [
+                "N448479",
+                "1999-06-09",
+                "APPROVAL OF SUCCESSION OF SUNG (OR SOONG) TAI YUEN",
+                null
+              ],
+              [
+                "25061901350538",
+                "2025-06-02",
+                "SEALED COPY OF AMENDED CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD65 169",
+            "New Grant Lot",
+            "C5068340",
+            [
+              [
+                "N448479",
+                "1999-06-09",
+                "APPROVAL OF SUCCESSION OF SUNG (OR SOONG) TAI YUEN",
+                null
+              ],
+              [
+                "19100400660104",
+                "2019-09-20",
+                "A SEALED COPY OF  CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "25060501490242",
+                "2020-06-22",
+                "A SEALED COPY OF  CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "20081401150014",
+                "2020-06-22",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937986872410742,
@@ -82,7 +227,76 @@
         1107620456,
         null,
         null,
-        []
+        [
+          [
+            "DD65 154",
+            "New Grant Lot",
+            "C3344455",
+            [
+              [
+                "N128024",
+                "1951-10-16",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N459900",
+                "1998-08-25",
+                "DEATH AND APPOINTMENT OF MANAGER OF SUNG CHEONG WING TSO",
+                null
+              ],
+              [
+                "N459901",
+                "1999-05-13",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF SUNG CHEONG WING TSO",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD65 157",
+            "New Grant Lot",
+            "C3344473",
+            [
+              [
+                "N136808",
+                "1957-03-12",
+                "-",
+                "5000.0"
+              ],
+              [
+                "N407622",
+                "1997-10-30",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N407623",
+                "1997-10-31",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "21072701600440",
+                "2017-01-05",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "24081301730031",
+                "2024-07-19",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "25110400020170",
+                "2025-10-13",
+                "DEED OF GIFT",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938011295998923,
@@ -101,7 +315,51 @@
         1107620470,
         null,
         null,
-        []
+        [
+          [
+            "DD65 126",
+            "New Grant Lot",
+            "C5068295",
+            [
+              [
+                "N136808",
+                "1957-03-12",
+                "-",
+                "5000.0"
+              ],
+              [
+                "N407622",
+                "1997-10-30",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N407623",
+                "1997-10-31",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "21072701600440",
+                "2017-01-05",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "24081301730031",
+                "2024-07-19",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "25110400020170",
+                "2025-10-13",
+                "DEED OF GIFT",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938016979385036,
@@ -120,7 +378,51 @@
         1107620481,
         null,
         null,
-        []
+        [
+          [
+            "DD65 126",
+            "New Grant Lot",
+            "C5068295",
+            [
+              [
+                "N136808",
+                "1957-03-12",
+                "-",
+                "5000.0"
+              ],
+              [
+                "N407622",
+                "1997-10-30",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N407623",
+                "1997-10-31",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "21072701600440",
+                "2017-01-05",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "24081301730031",
+                "2024-07-19",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "25110400020170",
+                "2025-10-13",
+                "DEED OF GIFT",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938022626460645,
@@ -139,7 +441,51 @@
         1107620487,
         null,
         null,
-        []
+        [
+          [
+            "DD65 156",
+            "New Grant Lot",
+            "C3344464",
+            [
+              [
+                "N136808",
+                "1957-03-12",
+                "-",
+                "5000.0"
+              ],
+              [
+                "N407622",
+                "1997-10-30",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N407623",
+                "1997-10-31",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "21072701600440",
+                "2017-01-05",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "24081301730031",
+                "2024-07-19",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "25110400020170",
+                "2025-10-13",
+                "DEED OF GIFT",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938028080281511,
@@ -158,7 +504,45 @@
         1107620532,
         null,
         null,
-        []
+        [
+          [
+            "DD65 155",
+            "New Grant Lot",
+            "C6313526",
+            [
+              [
+                "N136808",
+                "1957-03-12",
+                "-",
+                "5000.0"
+              ],
+              [
+                "N407622",
+                "1997-10-30",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N407623",
+                "1997-10-31",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "21072701600440",
+                "2017-01-05",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "23121201380240",
+                "2023-11-27",
+                "ASSIGNMENT",
+                "500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938044075976185,
@@ -177,7 +561,75 @@
         1107621303,
         null,
         null,
-        []
+        [
+          [
+            "DD65 82 S.A",
+            "Old Schedule Lot",
+            "C5410932",
+            [
+              [
+                "N83330",
+                "1932-05-13",
+                "SALE",
+                "300.0"
+              ],
+              [
+                "N124657",
+                "1949-08-19",
+                "-",
+                null
+              ],
+              [
+                "N214146",
+                "1984-12-28",
+                "-",
+                "4.0"
+              ],
+              [
+                "N329111",
+                "1995-05-29",
+                "-",
+                null
+              ],
+              [
+                "N347330",
+                "1995-06-13",
+                "-",
+                null
+              ],
+              [
+                "N345187",
+                "1995-12-06",
+                "STATUTORY DECLARATION OF TAI KUI LEE HO",
+                null
+              ],
+              [
+                "N380736",
+                "1996-11-06",
+                "APPROVAL OF SUCCESSION OF HO TSZ (OR TZE OR TZI) MAN",
+                null
+              ],
+              [
+                "N503002",
+                "2000-09-18",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "20031700800013",
+                "2019-09-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "21021901780018",
+                "2021-02-04",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938198838945065,
@@ -234,7 +686,143 @@
         1107621373,
         null,
         null,
-        []
+        [
+          [
+            "DD54 302",
+            "Old Schedule Lot",
+            "C6727908",
+            [
+              [
+                "N124657",
+                "1949-08-19",
+                "-",
+                null
+              ],
+              [
+                "N214146",
+                "1984-12-28",
+                "-",
+                "4.0"
+              ],
+              [
+                "N329111",
+                "1995-05-29",
+                "-",
+                null
+              ],
+              [
+                "N347330",
+                "1995-06-13",
+                "-",
+                null
+              ],
+              [
+                "N345187",
+                "1995-12-06",
+                "STATUTORY DECLARATION OF TAI KUI LEE HO",
+                null
+              ],
+              [
+                "N380736",
+                "1996-11-06",
+                "APPROVAL OF SUCCESSION OF HO TSZ (OR TZE OR TZI) MAN",
+                null
+              ],
+              [
+                "N503002",
+                "2000-09-18",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "20031700800013",
+                "2019-09-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "21021901780018",
+                "2021-02-04",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 303",
+            "Old Schedule Lot",
+            "C6462188",
+            [
+              [
+                "N99294",
+                "1937-03-10",
+                "-",
+                null
+              ],
+              [
+                "N214146",
+                "1984-12-28",
+                "-",
+                "4.0"
+              ],
+              [
+                "N503002",
+                "2000-09-18",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "20031700800013",
+                "2019-09-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "21021901780018",
+                "2021-02-04",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 305",
+            "Old Schedule Lot",
+            "C3305597",
+            [
+              [
+                "N125006",
+                "1949-11-08",
+                "-",
+                null
+              ],
+              [
+                "N446288",
+                "1999-05-05",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N450704",
+                "1999-07-22",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "13092600240225",
+                "2013-01-09",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "18081300250154",
+                "2018-07-25",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938220568395317,
@@ -253,7 +841,75 @@
         1107621387,
         "KAI CHOI SCHOOL",
         null,
-        []
+        [
+          [
+            "DD54 2317",
+            "New Grant Lot",
+            "C3316022",
+            [
+              [
+                "N425149",
+                "1997-08-10",
+                "DEATH AND APPOINTMENT OF MANAGER OF KUK PO COMMUNITY",
+                null
+              ],
+              [
+                "N425150",
+                "1998-08-03",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "11091601840104",
+                "2011-08-25",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "21091301040035",
+                "2011-11-21",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "11120701900094",
+                "2011-11-21",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "16120200620074",
+                "2011-11-21",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "20120201840048",
+                "2020-10-27",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "21031600870141",
+                "2021-02-08",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "23121201230066",
+                "2023-11-21",
+                "SATISFACTION CERTIFICATE",
+                null
+              ],
+              [
+                "23120101190094",
+                "2023-11-21",
+                "SATISFACTION CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993747985303355,
@@ -272,7 +928,82 @@
         1107621400,
         null,
         null,
-        []
+        [
+          [
+            "DD54 303",
+            "Old Schedule Lot",
+            "C6462188",
+            [
+              [
+                "N99294",
+                "1937-03-10",
+                "-",
+                null
+              ],
+              [
+                "N214146",
+                "1984-12-28",
+                "-",
+                "4.0"
+              ],
+              [
+                "N503002",
+                "2000-09-18",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "20031700800013",
+                "2019-09-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "21021901780018",
+                "2021-02-04",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 305",
+            "Old Schedule Lot",
+            "C3305597",
+            [
+              [
+                "N125006",
+                "1949-11-08",
+                "-",
+                null
+              ],
+              [
+                "N446288",
+                "1999-05-05",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N450704",
+                "1999-07-22",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "13092600240225",
+                "2013-01-09",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "18081300250154",
+                "2018-07-25",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938218276222572,
@@ -291,7 +1022,75 @@
         1107621414,
         "FORMER KAI CHOI SCHOOL",
         null,
-        []
+        [
+          [
+            "DD54 2317",
+            "New Grant Lot",
+            "C3316022",
+            [
+              [
+                "N425149",
+                "1997-08-10",
+                "DEATH AND APPOINTMENT OF MANAGER OF KUK PO COMMUNITY",
+                null
+              ],
+              [
+                "N425150",
+                "1998-08-03",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "11091601840104",
+                "2011-08-25",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "21091301040035",
+                "2011-11-21",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "11120701900094",
+                "2011-11-21",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "16120200620074",
+                "2011-11-21",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "20120201840048",
+                "2020-10-27",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "21031600870141",
+                "2021-02-08",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "23121201230066",
+                "2023-11-21",
+                "SATISFACTION CERTIFICATE",
+                null
+              ],
+              [
+                "23120101190094",
+                "2023-11-21",
+                "SATISFACTION CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993747509345786,
@@ -310,7 +1109,33 @@
         1107621443,
         null,
         null,
-        []
+        [
+          [
+            "DD54 280",
+            "Old Schedule Lot",
+            "C5791992",
+            [
+              [
+                "N129230",
+                "1952-08-08",
+                "-",
+                null
+              ],
+              [
+                "N434376",
+                "1999-02-11",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N434375",
+                "1999-02-11",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993821497558389,
@@ -329,7 +1154,33 @@
         1107621458,
         null,
         null,
-        []
+        [
+          [
+            "DD54 280",
+            "Old Schedule Lot",
+            "C5791992",
+            [
+              [
+                "N129230",
+                "1952-08-08",
+                "-",
+                null
+              ],
+              [
+                "N434376",
+                "1999-02-11",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N434375",
+                "1999-02-11",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938212287039851,
@@ -348,7 +1199,46 @@
         1107621499,
         null,
         null,
-        []
+        [
+          [
+            "DD54 280",
+            "Old Schedule Lot",
+            "C5791992",
+            [
+              [
+                "N129230",
+                "1952-08-08",
+                "-",
+                null
+              ],
+              [
+                "N434376",
+                "1999-02-11",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N434375",
+                "1999-02-11",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 284",
+            "Old Schedule Lot",
+            "C6007431",
+            [
+              [
+                "N123959",
+                "1949-06-08",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938214524328088,
@@ -367,7 +1257,101 @@
         1107621625,
         null,
         null,
-        []
+        [
+          [
+            "DD54 258",
+            "Old Schedule Lot",
+            "C5063240",
+            [
+              [
+                "N5847",
+                "1908-02-10",
+                "-",
+                null
+              ],
+              [
+                "N97331",
+                "1936-10-09",
+                "-",
+                "200.0"
+              ],
+              [
+                "09120700470033",
+                "2004-12-21",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF LI SAM SHING TONG",
+                null
+              ],
+              [
+                "09120700470047",
+                "2008-03-28",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 262",
+            "Old Schedule Lot",
+            "C3305385",
+            [
+              [
+                "N89546",
+                "1934-04-03",
+                "-",
+                null
+              ],
+              [
+                "N97306",
+                "1936-10-03",
+                "-",
+                "100.0"
+              ],
+              [
+                "09120700470033",
+                "2004-12-21",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF LI SAM SHING TONG",
+                null
+              ],
+              [
+                "09120700470047",
+                "2008-03-28",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 263",
+            "Old Schedule Lot",
+            "C3305396",
+            [
+              [
+                "N84363",
+                "1932-11-22",
+                "-",
+                null
+              ],
+              [
+                "N97117",
+                "1936-08-18",
+                "-",
+                "100.0"
+              ],
+              [
+                "09120700470033",
+                "2004-12-21",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF LI SAM SHING TONG",
+                null
+              ],
+              [
+                "09120700470047",
+                "2008-03-28",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938237248784973,
@@ -386,7 +1370,39 @@
         1107621745,
         null,
         null,
-        []
+        [
+          [
+            "DD54 263",
+            "Old Schedule Lot",
+            "C3305396",
+            [
+              [
+                "N84363",
+                "1932-11-22",
+                "-",
+                null
+              ],
+              [
+                "N97117",
+                "1936-08-18",
+                "-",
+                "100.0"
+              ],
+              [
+                "09120700470033",
+                "2004-12-21",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF LI SAM SHING TONG",
+                null
+              ],
+              [
+                "09120700470047",
+                "2008-03-28",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938269583237713,
@@ -405,7 +1421,39 @@
         1107621755,
         null,
         null,
-        []
+        [
+          [
+            "DD54 263",
+            "Old Schedule Lot",
+            "C3305396",
+            [
+              [
+                "N84363",
+                "1932-11-22",
+                "-",
+                null
+              ],
+              [
+                "N97117",
+                "1936-08-18",
+                "-",
+                "100.0"
+              ],
+              [
+                "09120700470033",
+                "2004-12-21",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF LI SAM SHING TONG",
+                null
+              ],
+              [
+                "09120700470047",
+                "2008-03-28",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993827473819105,
@@ -424,7 +1472,39 @@
         1107621773,
         null,
         null,
-        []
+        [
+          [
+            "DD54 263",
+            "Old Schedule Lot",
+            "C3305396",
+            [
+              [
+                "N84363",
+                "1932-11-22",
+                "-",
+                null
+              ],
+              [
+                "N97117",
+                "1936-08-18",
+                "-",
+                "100.0"
+              ],
+              [
+                "09120700470033",
+                "2004-12-21",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF LI SAM SHING TONG",
+                null
+              ],
+              [
+                "09120700470047",
+                "2008-03-28",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938279744527412,
@@ -443,7 +1523,57 @@
         1107621923,
         null,
         null,
-        []
+        [
+          [
+            "DD54 242 RP",
+            "Old Schedule Lot",
+            "C3305217",
+            [
+              [
+                "N182298",
+                "1976-02-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N188863",
+                "1978-02-21",
+                "POWER OF ATTORNEY BY NG YEUNG",
+                null
+              ],
+              [
+                "N192245",
+                "1978-04-25",
+                "POWER OF ATTORNEY BY NG SING",
+                null
+              ],
+              [
+                "N192703",
+                "1978-12-15",
+                "-",
+                null
+              ],
+              [
+                "N353516",
+                "1996-02-15",
+                "DEED OF RECTIFICATION",
+                null
+              ],
+              [
+                "15120300330063",
+                "2015-10-22",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "16010700540171",
+                "2015-11-30",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938182457967921,
@@ -462,7 +1592,57 @@
         1107621945,
         null,
         "1 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 242 RP",
+            "Old Schedule Lot",
+            "C3305217",
+            [
+              [
+                "N182298",
+                "1976-02-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N188863",
+                "1978-02-21",
+                "POWER OF ATTORNEY BY NG YEUNG",
+                null
+              ],
+              [
+                "N192245",
+                "1978-04-25",
+                "POWER OF ATTORNEY BY NG SING",
+                null
+              ],
+              [
+                "N192703",
+                "1978-12-15",
+                "-",
+                null
+              ],
+              [
+                "N353516",
+                "1996-02-15",
+                "DEED OF RECTIFICATION",
+                null
+              ],
+              [
+                "15120300330063",
+                "2015-10-22",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "16010700540171",
+                "2015-11-30",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938169611274374,
@@ -481,7 +1661,33 @@
         1107621948,
         null,
         null,
-        []
+        [
+          [
+            "DD54 525",
+            "Old Schedule Lot",
+            "C5923436",
+            [
+              [
+                "N428105",
+                "1998-10-19",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "22110802110414",
+                "2022-10-10",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2195424.0"
+              ],
+              [
+                "22120602000149",
+                "2022-11-11",
+                "ASSIGNMENT",
+                "2195424.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938509326510567,
@@ -500,7 +1706,39 @@
         1107621976,
         null,
         "2 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 242 S.A",
+            "Old Schedule Lot",
+            "C3305221",
+            [
+              [
+                "N188863",
+                "1978-02-21",
+                "POWER OF ATTORNEY BY NG YEUNG",
+                null
+              ],
+              [
+                "N192702",
+                "1978-12-15",
+                "-",
+                null
+              ],
+              [
+                "N353516",
+                "1996-02-15",
+                "DEED OF RECTIFICATION",
+                null
+              ],
+              [
+                "15032300980020",
+                "2015-03-02",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938160543243355,
@@ -519,7 +1757,58 @@
         1107622044,
         null,
         "5 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 223",
+            "Old Schedule Lot",
+            "C3305037",
+            [
+              [
+                "N91434",
+                "1935-01-30",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N98034",
+                "1936-12-09",
+                "-",
+                "600.0"
+              ],
+              [
+                "N220444",
+                "1986-02-18",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N224960",
+                "1987-11-02",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 225",
+            "Old Schedule Lot",
+            "C3305056",
+            [
+              [
+                "N425145",
+                "1997-07-15",
+                "DEATH AND APPOINTMENT OF MANAGER OF SUNG KWOK WUN (OR UN) TSO",
+                null
+              ],
+              [
+                "N425146",
+                "1998-07-23",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99381757849856,
@@ -538,7 +1827,70 @@
         1107622058,
         null,
         "3 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 223",
+            "Old Schedule Lot",
+            "C3305037",
+            [
+              [
+                "N91434",
+                "1935-01-30",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N98034",
+                "1936-12-09",
+                "-",
+                "600.0"
+              ],
+              [
+                "N220444",
+                "1986-02-18",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N224960",
+                "1987-11-02",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 242 S.A",
+            "Old Schedule Lot",
+            "C3305221",
+            [
+              [
+                "N188863",
+                "1978-02-21",
+                "POWER OF ATTORNEY BY NG YEUNG",
+                null
+              ],
+              [
+                "N192702",
+                "1978-12-15",
+                "-",
+                null
+              ],
+              [
+                "N353516",
+                "1996-02-15",
+                "DEED OF RECTIFICATION",
+                null
+              ],
+              [
+                "15032300980020",
+                "2015-03-02",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938162017120384,
@@ -557,7 +1909,39 @@
         1107622156,
         null,
         "7 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 223",
+            "Old Schedule Lot",
+            "C3305037",
+            [
+              [
+                "N91434",
+                "1935-01-30",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N98034",
+                "1936-12-09",
+                "-",
+                "600.0"
+              ],
+              [
+                "N220444",
+                "1986-02-18",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N224960",
+                "1987-11-02",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99381848160103,
@@ -576,7 +1960,39 @@
         1107622175,
         null,
         "8 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 223",
+            "Old Schedule Lot",
+            "C3305037",
+            [
+              [
+                "N91434",
+                "1935-01-30",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N98034",
+                "1936-12-09",
+                "-",
+                "600.0"
+              ],
+              [
+                "N220444",
+                "1986-02-18",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N224960",
+                "1987-11-02",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938178374558768,
@@ -595,7 +2011,33 @@
         1107622200,
         null,
         null,
-        []
+        [
+          [
+            "DD54 557",
+            "Old Schedule Lot",
+            "C5063460",
+            [
+              [
+                "N468053",
+                "1999-09-30",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N469461",
+                "1999-09-30",
+                "APPROVAL OF SUCCESSION OF SUNG (SHUNG) HI (HEI) LAM @ LEI HI LAM",
+                null
+              ],
+              [
+                "N469459",
+                "1999-09-30",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99385089473376,
@@ -614,7 +2056,39 @@
         1107622203,
         null,
         "9 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 223",
+            "Old Schedule Lot",
+            "C3305037",
+            [
+              [
+                "N91434",
+                "1935-01-30",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N98034",
+                "1936-12-09",
+                "-",
+                "600.0"
+              ],
+              [
+                "N220444",
+                "1986-02-18",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N224960",
+                "1987-11-02",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938170669744046,
@@ -633,7 +2107,94 @@
         1107622214,
         null,
         null,
-        []
+        [
+          [
+            "DD54 545",
+            "Old Schedule Lot",
+            "C6757769",
+            [
+              [
+                "N127572",
+                "1951-06-25",
+                "-",
+                null
+              ],
+              [
+                "N144346",
+                "1961-06-09",
+                "-",
+                null
+              ],
+              [
+                "N347934",
+                "1995-12-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4312440.0"
+              ],
+              [
+                "N510729",
+                "2001-05-02",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "18042401080011",
+                "2017-07-14",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "18042401080023",
+                "2018-03-15",
+                "ASSENT",
+                null
+              ],
+              [
+                "19120601620027",
+                "2019-11-07",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "20021900810016",
+                "2020-02-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "23121800330060",
+                "2023-11-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6690816.0"
+              ],
+              [
+                "24051000020036",
+                "2024-04-29",
+                "ASSIGNMENT",
+                "6690816.0"
+              ]
+            ]
+          ],
+          [
+            "DD54 582",
+            "Old Schedule Lot",
+            "C6310625",
+            [
+              [
+                "N43687",
+                "1919-12-19",
+                "-",
+                "24.0"
+              ],
+              [
+                "N126116",
+                "1950-06-10",
+                "APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938438979826385,
@@ -652,7 +2213,39 @@
         1107622234,
         null,
         "10 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 223",
+            "Old Schedule Lot",
+            "C3305037",
+            [
+              [
+                "N91434",
+                "1935-01-30",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N98034",
+                "1936-12-09",
+                "-",
+                "600.0"
+              ],
+              [
+                "N220444",
+                "1986-02-18",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N224960",
+                "1987-11-02",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938163236615325,
@@ -671,7 +2264,57 @@
         1107622283,
         null,
         null,
-        []
+        [
+          [
+            "DD54 566",
+            "Old Schedule Lot",
+            "C5327240",
+            [
+              [
+                "N201559",
+                "1981-04-15",
+                "-",
+                null
+              ],
+              [
+                "N286463",
+                "1993-06-05",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1542018.0"
+              ],
+              [
+                "N290561",
+                "1993-07-05",
+                "-",
+                "1542018.0"
+              ],
+              [
+                "09090302570059",
+                "2009-08-05",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "12051701480022",
+                "2012-05-04",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7900000.0"
+              ],
+              [
+                "13081201050013",
+                "2013-07-23",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "13091001080174",
+                "2013-08-23",
+                "ASSIGNMENT",
+                "7900000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938474965427762,
@@ -690,7 +2333,39 @@
         1107622298,
         null,
         null,
-        []
+        [
+          [
+            "DD54 222",
+            "Old Schedule Lot",
+            "C3305025",
+            [
+              [
+                "N43813",
+                "1920-01-07",
+                "REDEMPTION OF BLOCK GOVERNMENT LEASE MORTGAGE",
+                null
+              ],
+              [
+                "N109660",
+                "1940-09-30",
+                "-",
+                null
+              ],
+              [
+                "N220444",
+                "1986-02-18",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N224960",
+                "1987-11-02",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938120625404656,
@@ -709,7 +2384,172 @@
         1107622364,
         null,
         "1 KUK PO SAN UK HA",
-        []
+        [
+          [
+            "DD54 2308",
+            "Old Schedule Lot",
+            "C3315979",
+            [
+              [
+                "N125008",
+                "1949-11-08",
+                "-",
+                null
+              ],
+              [
+                "N390903",
+                "1997-02-12",
+                "APPROVAL OF SUCCESSION OF SUNG LOI SAN",
+                null
+              ],
+              [
+                "12052802400038",
+                "2012-05-11",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1000000.0"
+              ],
+              [
+                "12091700890010",
+                "2012-08-30",
+                "MEMO AS TO ERROR IN RESPECT OF MEMORIAL NO. N125008",
+                null
+              ],
+              [
+                "12100801790096",
+                "2012-09-26",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "15031202000114",
+                "2015-02-26",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1000000.0"
+              ],
+              [
+                "15031202000120",
+                "2015-03-02",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "17062200810027",
+                "2017-06-19",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "18020200710042",
+                "2018-01-12",
+                "ASSIGNMENT OF MORTGAGE",
+                null
+              ],
+              [
+                "18042000850015",
+                "2018-02-08",
+                "RELEASE",
+                null
+              ],
+              [
+                "18021200660020",
+                "2018-02-08",
+                "LEGAL CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "18052900770034",
+                "2018-05-04",
+                "SUB-MORTGAGE",
+                null
+              ],
+              [
+                "18090700700012",
+                "2018-08-24",
+                "LEGAL CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "18101000410025",
+                "2018-08-24",
+                "RELEASE OF LEGAL CHARGE AND PARTIAL RELEASE OF SUB-MORTGAGE",
+                null
+              ],
+              [
+                "19081401820074",
+                "2019-07-17",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19081401820022",
+                "2019-07-17",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "20031802110028",
+                "2020-03-06",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "20051402130013",
+                "2020-04-21",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ],
+          [
+            "DD54 998",
+            "Old Schedule Lot",
+            "C3309375",
+            [
+              [
+                "N125008",
+                "1949-11-08",
+                "-",
+                null
+              ],
+              [
+                "N127421",
+                "1951-04-25",
+                "-",
+                null
+              ],
+              [
+                "N345835",
+                "1995-12-18",
+                "MEMO AS TO ERROR IN RESPECT OF MEMORIAL NO.125008 AND 127421",
+                null
+              ],
+              [
+                "N390903",
+                "1997-02-12",
+                "APPROVAL OF SUCCESSION OF SUNG LOI SAN",
+                null
+              ],
+              [
+                "19101102440031",
+                "2019-06-06",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "19101502290059",
+                "2019-10-08",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "19101502290060",
+                "2019-10-08",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993777397427479,
@@ -728,7 +2568,100 @@
         1107622377,
         null,
         "2 KUK PO SAN UK HA",
-        []
+        [
+          [
+            "DD54 2305",
+            "Old Schedule Lot",
+            "C5064497",
+            [
+              [
+                "N127421",
+                "1951-04-25",
+                "-",
+                null
+              ],
+              [
+                "N350980",
+                "1995-12-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2000000.0"
+              ],
+              [
+                "N510725",
+                "2001-04-28",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "19101102440031",
+                "2019-06-06",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "19101502290060",
+                "2019-10-08",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "19101502290059",
+                "2019-10-08",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 998",
+            "Old Schedule Lot",
+            "C3309375",
+            [
+              [
+                "N125008",
+                "1949-11-08",
+                "-",
+                null
+              ],
+              [
+                "N127421",
+                "1951-04-25",
+                "-",
+                null
+              ],
+              [
+                "N345835",
+                "1995-12-18",
+                "MEMO AS TO ERROR IN RESPECT OF MEMORIAL NO.125008 AND 127421",
+                null
+              ],
+              [
+                "N390903",
+                "1997-02-12",
+                "APPROVAL OF SUCCESSION OF SUNG LOI SAN",
+                null
+              ],
+              [
+                "19101102440031",
+                "2019-06-06",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "19101502290059",
+                "2019-10-08",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "19101502290060",
+                "2019-10-08",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937767296600672,
@@ -747,7 +2680,21 @@
         1107622383,
         null,
         "16 KUK PO SAN UK HA",
-        []
+        [
+          [
+            "DD54 964",
+            "Old Schedule Lot",
+            "C5063695",
+            [
+              [
+                "N133374",
+                "1955-06-27",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993765392597328,
@@ -766,7 +2713,51 @@
         1107622385,
         null,
         "3 KUK PO SAN UK HA",
-        []
+        [
+          [
+            "DD54 2306",
+            "Old Schedule Lot",
+            "C6311351",
+            [
+              [
+                "N133510",
+                "1955-07-25",
+                "-",
+                null
+              ],
+              [
+                "N315915",
+                "1994-07-04",
+                "STATUTORY DECLARATION OF SUNG YUEN ALIAS SUNG HI YUEN",
+                null
+              ],
+              [
+                "N381198",
+                "1996-12-23",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "N382316",
+                "1997-01-10",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "22111802260465",
+                "2022-10-24",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "700000.0"
+              ],
+              [
+                "22122001890097",
+                "2022-11-25",
+                "ASSIGNMENT",
+                "700000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937760825780748,
@@ -785,7 +2776,51 @@
         1107622390,
         null,
         "17 KUK PO SAN UK HA",
-        []
+        [
+          [
+            "DD54 965 S.A",
+            "Old Schedule Lot",
+            "C3309152",
+            [
+              [
+                "N42927",
+                "1919-09-08",
+                "-",
+                null
+              ],
+              [
+                "N179234",
+                "1975-01-02",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "17032701390026",
+                "2017-01-05",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "17032701390034",
+                "2017-03-04",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "23071401370011",
+                "2023-05-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "175000.0"
+              ],
+              [
+                "23071401370025",
+                "2023-05-12",
+                "ASSIGNMENT",
+                "175000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937647827873495,
@@ -804,7 +2839,27 @@
         1107622393,
         null,
         null,
-        []
+        [
+          [
+            "DD54 571",
+            "Old Schedule Lot",
+            "C3306837",
+            [
+              [
+                "N43687",
+                "1919-12-19",
+                "-",
+                "24.0"
+              ],
+              [
+                "N126116",
+                "1950-06-10",
+                "APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938465313023426,
@@ -823,7 +2878,45 @@
         1107622397,
         null,
         "4 KUK PO SAN UK HA",
-        []
+        [
+          [
+            "DD54 2307",
+            "New Grant Lot",
+            "C3315966",
+            [
+              [
+                "N133660",
+                "1955-08-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N202258",
+                "1981-04-16",
+                "PROBATE",
+                null
+              ],
+              [
+                "N202671",
+                "1981-06-30",
+                "PROBATE",
+                null
+              ],
+              [
+                "N211393",
+                "1983-08-17",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "14031801770014",
+                "2014-02-24",
+                "DOUBLE PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937751706890576,
@@ -842,7 +2935,57 @@
         1107622398,
         null,
         null,
-        []
+        [
+          [
+            "DD54 1015",
+            "Old Schedule Lot",
+            "C6590860",
+            [
+              [
+                "N133546",
+                "1955-07-29",
+                "-",
+                null
+              ],
+              [
+                "N359315",
+                "1996-04-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "601128.0"
+              ],
+              [
+                "09062202330060",
+                "2009-05-15",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "09072801150079",
+                "2009-06-30",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "09072300800070",
+                "2009-06-30",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "12081700920065",
+                "2012-07-10",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "13112100720015",
+                "2013-11-18",
+                "DEED OF FAMILY ARRANGEMENT AND ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937886549934525,
@@ -861,7 +3004,94 @@
         1107622400,
         null,
         "18 KUK PO SAN UK HA",
-        []
+        [
+          [
+            "DD54 965 S.A",
+            "Old Schedule Lot",
+            "C3309152",
+            [
+              [
+                "N42927",
+                "1919-09-08",
+                "-",
+                null
+              ],
+              [
+                "N179234",
+                "1975-01-02",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "17032701390026",
+                "2017-01-05",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "17032701390034",
+                "2017-03-04",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "23071401370011",
+                "2023-05-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "175000.0"
+              ],
+              [
+                "23071401370025",
+                "2023-05-12",
+                "ASSIGNMENT",
+                "175000.0"
+              ]
+            ]
+          ],
+          [
+            "DD54 965 S.B",
+            "Old Schedule Lot",
+            "C3309167",
+            [
+              [
+                "N42927",
+                "1919-09-08",
+                "-",
+                null
+              ],
+              [
+                "N208964",
+                "1983-06-21",
+                "-",
+                null
+              ],
+              [
+                "N411151",
+                "1996-04-29",
+                "CERTIFICATE OF EXEMPTIION FROM ESTATE DUTY",
+                null
+              ],
+              [
+                "N411150",
+                "1997-02-03",
+                "DEATH CERTIFICATE OF SUNG KAM 'THE DECEASED'",
+                null
+              ],
+              [
+                "N408192",
+                "1997-10-31",
+                "APPROVAL OF SUCCESSION OF SUNG KAM",
+                null
+              ],
+              [
+                "23111300730028",
+                "2023-10-20",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993764194850885,
@@ -880,7 +3110,52 @@
         1107622404,
         null,
         "19 KUK PO SAN UK HA",
-        []
+        [
+          [
+            "DD54 966",
+            "Old Schedule Lot",
+            "C6643743",
+            [
+              [
+                "N133372",
+                "1955-06-27",
+                "-",
+                null
+              ],
+              [
+                "N448473",
+                "1999-06-10",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 967",
+            "Old Schedule Lot",
+            "C3309171",
+            [
+              [
+                "N116485",
+                "1947-03-13",
+                "-",
+                null
+              ],
+              [
+                "N116568",
+                "1947-03-21",
+                "-",
+                null
+              ],
+              [
+                "N497669",
+                "2000-09-18",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937636535278966,
@@ -899,7 +3174,33 @@
         1107622411,
         null,
         "19A KUK PO SAN UK HA",
-        []
+        [
+          [
+            "DD54 967",
+            "Old Schedule Lot",
+            "C3309171",
+            [
+              [
+                "N116485",
+                "1947-03-13",
+                "-",
+                null
+              ],
+              [
+                "N116568",
+                "1947-03-21",
+                "-",
+                null
+              ],
+              [
+                "N497669",
+                "2000-09-18",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937630915757296,
@@ -937,7 +3238,33 @@
         1107622418,
         null,
         "20 KUK PO SAN UK HA",
-        []
+        [
+          [
+            "DD54 2319",
+            "New Grant Lot",
+            "C3316033",
+            [
+              [
+                "N434056",
+                "1999-02-11",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "22110802110456",
+                "2022-10-10",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2800000.0"
+              ],
+              [
+                "22120602000090",
+                "2022-11-11",
+                "ASSIGNMENT",
+                "2800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99376218097187,
@@ -956,7 +3283,51 @@
         1107622431,
         null,
         "12A KUK PO SAN UK HA",
-        []
+        [
+          [
+            "DD54 988",
+            "Old Schedule Lot",
+            "C3309329",
+            [
+              [
+                "N133546",
+                "1955-07-29",
+                "-",
+                null
+              ],
+              [
+                "09062202330060",
+                "2009-05-15",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "09072801150079",
+                "2009-06-30",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "09072300800070",
+                "2009-06-30",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "13061800760010",
+                "2012-07-10",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "13112100720015",
+                "2013-11-18",
+                "DEED OF FAMILY ARRANGEMENT AND ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937684643555056,
@@ -975,7 +3346,27 @@
         1107622434,
         null,
         "12 KUK PO SAN UK HA",
-        []
+        [
+          [
+            "DD54 987",
+            "Old Schedule Lot",
+            "C3309315",
+            [
+              [
+                "N133373",
+                "1955-06-27",
+                "-",
+                null
+              ],
+              [
+                "N453239",
+                "1999-08-31",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993767881771016,
@@ -994,7 +3385,51 @@
         1107622439,
         null,
         "22 KUK PO SAN UK HA",
-        []
+        [
+          [
+            "DD54 971",
+            "Old Schedule Lot",
+            "C5063703",
+            [
+              [
+                "N65735",
+                "1926-12-28",
+                "-",
+                null
+              ],
+              [
+                "N67773",
+                "1927-08-04",
+                "-",
+                null
+              ],
+              [
+                "N133677",
+                "1955-08-25",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "09060900370211",
+                "2007-04-03",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11022100660018",
+                "2009-05-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "09071700850024",
+                "2009-06-12",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937603555659933,
@@ -1013,7 +3448,51 @@
         1107622449,
         null,
         "22 KUK PO SAN UK HA",
-        []
+        [
+          [
+            "DD54 971",
+            "Old Schedule Lot",
+            "C5063703",
+            [
+              [
+                "N65735",
+                "1926-12-28",
+                "-",
+                null
+              ],
+              [
+                "N67773",
+                "1927-08-04",
+                "-",
+                null
+              ],
+              [
+                "N133677",
+                "1955-08-25",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "09060900370211",
+                "2007-04-03",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11022100660018",
+                "2009-05-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "09071700850024",
+                "2009-06-12",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937598286868061,
@@ -1032,7 +3511,46 @@
         1107622454,
         null,
         "23A KUK PO SAN UK HA",
-        []
+        [
+          [
+            "DD54 2313",
+            "Old Schedule Lot",
+            "C3315995",
+            [
+              [
+                "N494077",
+                "2000-07-20",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 TL T60",
+            "Taxlord Lot",
+            "C3316098",
+            [
+              [
+                "N2751",
+                "1906-08-11",
+                "-",
+                "12.0"
+              ],
+              [
+                "N494077",
+                "2000-07-20",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "07071600370112",
+                "2007-06-11",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937592114192038,
@@ -1051,7 +3569,51 @@
         1107622469,
         null,
         "6 KUK PO SAN UK HA",
-        []
+        [
+          [
+            "DD54 995",
+            "Old Schedule Lot",
+            "C5792082",
+            [
+              [
+                "N127421",
+                "1951-04-25",
+                "-",
+                null
+              ],
+              [
+                "N350980",
+                "1995-12-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2000000.0"
+              ],
+              [
+                "N510725",
+                "2001-04-28",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "19101102440031",
+                "2019-06-06",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "19101502290059",
+                "2019-10-08",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "19101502290060",
+                "2019-10-08",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993773988014277,
@@ -1070,7 +3632,88 @@
         1107622865,
         null,
         null,
-        []
+        [
+          [
+            "DD54 853",
+            "Old Schedule Lot",
+            "C3308420",
+            [
+              [
+                "N127572",
+                "1951-06-25",
+                "-",
+                null
+              ],
+              [
+                "N144346",
+                "1961-06-09",
+                "-",
+                null
+              ],
+              [
+                "N347934",
+                "1995-12-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4312440.0"
+              ],
+              [
+                "N510729",
+                "2001-05-02",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "18042401080011",
+                "2017-07-14",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "18042401080023",
+                "2018-03-15",
+                "ASSENT",
+                null
+              ],
+              [
+                "19120601620027",
+                "2019-11-07",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "20021900810016",
+                "2020-02-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "23121800330060",
+                "2023-11-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6690816.0"
+              ],
+              [
+                "24051000020036",
+                "2024-04-29",
+                "ASSIGNMENT",
+                "6690816.0"
+              ]
+            ]
+          ],
+          [
+            "DD54 855",
+            "Old Schedule Lot",
+            "C6061293",
+            [
+              [
+                "N170019",
+                "1972-02-04",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938307201181478,
@@ -1089,7 +3732,21 @@
         1107622891,
         null,
         null,
-        []
+        [
+          [
+            "DD54 911",
+            "Old Schedule Lot",
+            "C3308807",
+            [
+              [
+                "N443358",
+                "1999-05-05",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993825272347924,
@@ -1108,7 +3765,21 @@
         1107622915,
         null,
         "12 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 1601",
+            "New Grant Lot",
+            "C3312735",
+            [
+              [
+                "N170019",
+                "1972-02-04",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938319272694147,
@@ -1127,7 +3798,63 @@
         1107622921,
         null,
         null,
-        []
+        [
+          [
+            "DD54 851",
+            "Old Schedule Lot",
+            "C3308403",
+            [
+              [
+                "N80349",
+                "1931-07-03",
+                "-",
+                "200.0"
+              ],
+              [
+                "N117801",
+                "1947-10-01",
+                "-",
+                null
+              ],
+              [
+                "N117802",
+                "1947-10-01",
+                "-",
+                null
+              ],
+              [
+                "N145994",
+                "1961-12-19",
+                "-",
+                null
+              ],
+              [
+                "N299251",
+                "1993-10-12",
+                "-",
+                null
+              ],
+              [
+                "N347928",
+                "1995-12-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1267596.0"
+              ],
+              [
+                "N469981",
+                "2000-01-28",
+                "MEMORANDUM OF RESCISSION OF AGREEMENT FOR S/P M/N 347928",
+                null
+              ],
+              [
+                "16070800370056",
+                "2016-06-01",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993826557209615,
@@ -1146,7 +3873,167 @@
         1107622928,
         null,
         "18 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 737",
+            "Old Schedule Lot",
+            "C3307716",
+            [
+              [
+                "N79496",
+                "1931-04-21",
+                "-",
+                null
+              ],
+              [
+                "N136976",
+                "1957-11-08",
+                "-",
+                null
+              ],
+              [
+                "N354230",
+                "1996-02-29",
+                "SUCCESSION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 738",
+            "Old Schedule Lot",
+            "C5327276",
+            [
+              [
+                "N61317",
+                "1925-02-14",
+                "-",
+                "70.0"
+              ],
+              [
+                "N84363",
+                "1932-11-22",
+                "-",
+                null
+              ],
+              [
+                "N136976",
+                "1957-11-08",
+                "-",
+                null
+              ],
+              [
+                "N136977",
+                "1957-11-08",
+                "-",
+                null
+              ],
+              [
+                "N354230",
+                "1996-02-29",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "N360808",
+                "1996-04-24",
+                "-",
+                null
+              ],
+              [
+                "N562292",
+                "2004-02-25",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11052500610031",
+                "2010-01-26",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12021001910020",
+                "2012-01-06",
+                "ASSENT",
+                null
+              ],
+              [
+                "12021001910018",
+                "2012-01-06",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 739",
+            "Old Schedule Lot",
+            "C3307722",
+            [
+              [
+                "N52770",
+                "1922-05-15",
+                "-",
+                "95.0"
+              ],
+              [
+                "N84363",
+                "1932-11-22",
+                "-",
+                null
+              ],
+              [
+                "N136976",
+                "1957-11-08",
+                "-",
+                null
+              ],
+              [
+                "N136977",
+                "1957-11-08",
+                "-",
+                null
+              ],
+              [
+                "N354230",
+                "1996-02-29",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "N360808",
+                "1996-04-24",
+                "-",
+                null
+              ],
+              [
+                "N562292",
+                "2004-02-25",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11052500610031",
+                "2010-01-26",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12021001910018",
+                "2012-01-06",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "12021001910020",
+                "2012-01-06",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938348333554643,
@@ -1165,7 +4052,33 @@
         1107622934,
         null,
         null,
-        []
+        [
+          [
+            "DD54 912",
+            "Old Schedule Lot",
+            "C6310876",
+            [
+              [
+                "N87007",
+                "1933-07-05",
+                "-",
+                null
+              ],
+              [
+                "N145001",
+                "1961-08-28",
+                "-",
+                null
+              ],
+              [
+                "N436051",
+                "1999-02-11",
+                "APPROVAL OF SUCCESSION OF LI (LEE) YIK (YAT) LUNG ALIAS LI TSO LAM",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938243285208554,
@@ -1184,7 +4097,94 @@
         1107622940,
         null,
         "13 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 2316",
+            "New Grant Lot",
+            "C3316019",
+            [
+              [
+                "N117804",
+                "1947-10-01",
+                "-",
+                null
+              ],
+              [
+                "N145994",
+                "1961-12-19",
+                "-",
+                null
+              ],
+              [
+                "N299251",
+                "1993-10-12",
+                "-",
+                null
+              ],
+              [
+                "16070800370056",
+                "2016-06-01",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 856",
+            "Old Schedule Lot",
+            "C6310788",
+            [
+              [
+                "N80349",
+                "1931-07-03",
+                "-",
+                "200.0"
+              ],
+              [
+                "N117802",
+                "1947-10-01",
+                "-",
+                null
+              ],
+              [
+                "N117801",
+                "1947-10-01",
+                "-",
+                null
+              ],
+              [
+                "N145994",
+                "1961-12-19",
+                "-",
+                null
+              ],
+              [
+                "N299251",
+                "1993-10-12",
+                "-",
+                null
+              ],
+              [
+                "N347928",
+                "1995-12-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1267596.0"
+              ],
+              [
+                "N469981",
+                "2000-01-28",
+                "MEMORANDUM OF RESCISSION OF AGREEMENT FOR S/P M/N 347928",
+                null
+              ],
+              [
+                "16070800370056",
+                "2016-06-01",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938314292499781,
@@ -1203,7 +4203,63 @@
         1107622948,
         null,
         null,
-        []
+        [
+          [
+            "DD54 851",
+            "Old Schedule Lot",
+            "C3308403",
+            [
+              [
+                "N80349",
+                "1931-07-03",
+                "-",
+                "200.0"
+              ],
+              [
+                "N117801",
+                "1947-10-01",
+                "-",
+                null
+              ],
+              [
+                "N117802",
+                "1947-10-01",
+                "-",
+                null
+              ],
+              [
+                "N145994",
+                "1961-12-19",
+                "-",
+                null
+              ],
+              [
+                "N299251",
+                "1993-10-12",
+                "-",
+                null
+              ],
+              [
+                "N347928",
+                "1995-12-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1267596.0"
+              ],
+              [
+                "N469981",
+                "2000-01-28",
+                "MEMORANDUM OF RESCISSION OF AGREEMENT FOR S/P M/N 347928",
+                null
+              ],
+              [
+                "16070800370056",
+                "2016-06-01",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938258018867,
@@ -1222,7 +4278,33 @@
         1107622954,
         null,
         null,
-        []
+        [
+          [
+            "DD54 912",
+            "Old Schedule Lot",
+            "C6310876",
+            [
+              [
+                "N87007",
+                "1933-07-05",
+                "-",
+                null
+              ],
+              [
+                "N145001",
+                "1961-08-28",
+                "-",
+                null
+              ],
+              [
+                "N436051",
+                "1999-02-11",
+                "APPROVAL OF SUCCESSION OF LI (LEE) YIK (YAT) LUNG ALIAS LI TSO LAM",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993823920916576,
@@ -1241,7 +4323,94 @@
         1107622967,
         null,
         "15 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 2316",
+            "New Grant Lot",
+            "C3316019",
+            [
+              [
+                "N117804",
+                "1947-10-01",
+                "-",
+                null
+              ],
+              [
+                "N145994",
+                "1961-12-19",
+                "-",
+                null
+              ],
+              [
+                "N299251",
+                "1993-10-12",
+                "-",
+                null
+              ],
+              [
+                "16070800370056",
+                "2016-06-01",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 856",
+            "Old Schedule Lot",
+            "C6310788",
+            [
+              [
+                "N80349",
+                "1931-07-03",
+                "-",
+                "200.0"
+              ],
+              [
+                "N117802",
+                "1947-10-01",
+                "-",
+                null
+              ],
+              [
+                "N117801",
+                "1947-10-01",
+                "-",
+                null
+              ],
+              [
+                "N145994",
+                "1961-12-19",
+                "-",
+                null
+              ],
+              [
+                "N299251",
+                "1993-10-12",
+                "-",
+                null
+              ],
+              [
+                "N347928",
+                "1995-12-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1267596.0"
+              ],
+              [
+                "N469981",
+                "2000-01-28",
+                "MEMORANDUM OF RESCISSION OF AGREEMENT FOR S/P M/N 347928",
+                null
+              ],
+              [
+                "16070800370056",
+                "2016-06-01",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938309157607108,
@@ -1260,7 +4429,76 @@
         1107622968,
         null,
         null,
-        []
+        [
+          [
+            "DD54 846",
+            "Old Schedule Lot",
+            "C3308360",
+            [
+              [
+                "N448486",
+                "1999-06-09",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 851",
+            "Old Schedule Lot",
+            "C3308403",
+            [
+              [
+                "N80349",
+                "1931-07-03",
+                "-",
+                "200.0"
+              ],
+              [
+                "N117801",
+                "1947-10-01",
+                "-",
+                null
+              ],
+              [
+                "N117802",
+                "1947-10-01",
+                "-",
+                null
+              ],
+              [
+                "N145994",
+                "1961-12-19",
+                "-",
+                null
+              ],
+              [
+                "N299251",
+                "1993-10-12",
+                "-",
+                null
+              ],
+              [
+                "N347928",
+                "1995-12-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1267596.0"
+              ],
+              [
+                "N469981",
+                "2000-01-28",
+                "MEMORANDUM OF RESCISSION OF AGREEMENT FOR S/P M/N 347928",
+                null
+              ],
+              [
+                "16070800370056",
+                "2016-06-01",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938259192455696,
@@ -1298,7 +4536,148 @@
         1107622974,
         null,
         "19 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 739",
+            "Old Schedule Lot",
+            "C3307722",
+            [
+              [
+                "N52770",
+                "1922-05-15",
+                "-",
+                "95.0"
+              ],
+              [
+                "N84363",
+                "1932-11-22",
+                "-",
+                null
+              ],
+              [
+                "N136976",
+                "1957-11-08",
+                "-",
+                null
+              ],
+              [
+                "N136977",
+                "1957-11-08",
+                "-",
+                null
+              ],
+              [
+                "N354230",
+                "1996-02-29",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "N360808",
+                "1996-04-24",
+                "-",
+                null
+              ],
+              [
+                "N562292",
+                "2004-02-25",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11052500610031",
+                "2010-01-26",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12021001910018",
+                "2012-01-06",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "12021001910020",
+                "2012-01-06",
+                "ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 740",
+            "Old Schedule Lot",
+            "C3307736",
+            [
+              [
+                "N10458",
+                "1910-01-12",
+                "-",
+                "109.0"
+              ],
+              [
+                "N84363",
+                "1932-11-22",
+                "-",
+                null
+              ],
+              [
+                "N136977",
+                "1957-11-08",
+                "-",
+                null
+              ],
+              [
+                "N136976",
+                "1957-11-08",
+                "-",
+                null
+              ],
+              [
+                "N354230",
+                "1996-02-29",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "N360808",
+                "1996-04-24",
+                "-",
+                null
+              ],
+              [
+                "N562292",
+                "2004-02-25",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11052500610031",
+                "2010-01-26",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12021001910020",
+                "2012-01-06",
+                "ASSENT",
+                null
+              ],
+              [
+                "12021001910018",
+                "2012-01-06",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 741",
+            "Old Schedule Lot",
+            "C5327286",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9938337443535687,
@@ -1317,7 +4696,88 @@
         1107622988,
         null,
         "28 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 758",
+            "Old Schedule Lot",
+            "C5792041",
+            [
+              [
+                "N37572",
+                "1918-01-04",
+                "-",
+                "31.0"
+              ],
+              [
+                "N125007",
+                "1949-11-08",
+                "-",
+                null
+              ],
+              [
+                "N446288",
+                "1999-05-05",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N450704",
+                "1999-07-22",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "13092600240225",
+                "2013-01-09",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "18081300250154",
+                "2018-07-25",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 759",
+            "Old Schedule Lot",
+            "C3307844",
+            [
+              [
+                "N99294",
+                "1937-03-10",
+                "-",
+                null
+              ],
+              [
+                "N214146",
+                "1984-12-28",
+                "-",
+                "4.0"
+              ],
+              [
+                "N503002",
+                "2000-09-18",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "20031700800013",
+                "2019-09-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "21021901780018",
+                "2021-02-04",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993836426829023,
@@ -1336,7 +4796,112 @@
         1107622992,
         null,
         null,
-        []
+        [
+          [
+            "DD54 849",
+            "Old Schedule Lot",
+            "C3308386",
+            [
+              [
+                "N43911",
+                "1920-01-14",
+                "-",
+                "20.0"
+              ],
+              [
+                "N87007",
+                "1933-07-05",
+                "-",
+                null
+              ],
+              [
+                "N145001",
+                "1961-08-28",
+                "-",
+                null
+              ],
+              [
+                "N391207",
+                "1997-04-12",
+                "AGREEMENT FOR SALE AND PURCHASE BY LEE JEE SOON @ LI YAT SHUN @",
+                "359370.0"
+              ],
+              [
+                "N436051",
+                "1999-02-11",
+                "APPROVAL OF SUCCESSION OF LI (LEE) YIK (YAT) LUNG ALIAS LI TSO LAM",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 850",
+            "Old Schedule Lot",
+            "C3308398",
+            [
+              [
+                "N123999",
+                "1949-06-14",
+                "-",
+                null
+              ],
+              [
+                "N144346",
+                "1961-06-09",
+                "-",
+                null
+              ],
+              [
+                "N347934",
+                "1995-12-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4312440.0"
+              ],
+              [
+                "N510729",
+                "2001-05-02",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "18042401080011",
+                "2017-07-14",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "18042401080023",
+                "2018-03-15",
+                "ASSENT",
+                null
+              ],
+              [
+                "19120601620034",
+                "2019-11-04",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "20021900810023",
+                "2020-02-03",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "23121800330034",
+                "2023-11-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4809024.0"
+              ],
+              [
+                "24051000020048",
+                "2024-04-29",
+                "ASSIGNMENT",
+                "4809024.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938268134657073,
@@ -1355,7 +4920,21 @@
         1107622994,
         null,
         null,
-        []
+        [
+          [
+            "DD54 846",
+            "Old Schedule Lot",
+            "C3308360",
+            [
+              [
+                "N448486",
+                "1999-06-09",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938249654247853,
@@ -1374,7 +4953,21 @@
         1107622997,
         null,
         null,
-        []
+        [
+          [
+            "DD54 728",
+            "Old Schedule Lot",
+            "C5644397",
+            [
+              [
+                "N438612",
+                "1999-04-01",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938419778379053,
@@ -1393,7 +4986,131 @@
         1107623006,
         null,
         "29 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 756",
+            "Old Schedule Lot",
+            "C6310704",
+            [
+              [
+                "N125006",
+                "1949-11-08",
+                "-",
+                null
+              ],
+              [
+                "N446288",
+                "1999-05-05",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N450704",
+                "1999-07-22",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "13092600240225",
+                "2013-01-09",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "18081300250154",
+                "2018-07-25",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 757",
+            "Old Schedule Lot",
+            "C5063590",
+            [
+              [
+                "N37571",
+                "1918-01-04",
+                "-",
+                "31.0"
+              ],
+              [
+                "N125007",
+                "1949-11-08",
+                "-",
+                null
+              ],
+              [
+                "N446288",
+                "1999-05-05",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N450704",
+                "1999-07-22",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "13092600240225",
+                "2013-01-09",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "18081300250154",
+                "2018-07-25",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 758",
+            "Old Schedule Lot",
+            "C5792041",
+            [
+              [
+                "N37572",
+                "1918-01-04",
+                "-",
+                "31.0"
+              ],
+              [
+                "N125007",
+                "1949-11-08",
+                "-",
+                null
+              ],
+              [
+                "N446288",
+                "1999-05-05",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N450704",
+                "1999-07-22",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "13092600240225",
+                "2013-01-09",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "18081300250154",
+                "2018-07-25",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938359535224335,
@@ -1412,7 +5129,75 @@
         1107623007,
         null,
         "16 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 848 S.B",
+            "Old Schedule Lot",
+            "C3308373",
+            [
+              [
+                "N87007",
+                "1933-07-05",
+                "-",
+                null
+              ],
+              [
+                "N145001",
+                "1961-08-28",
+                "-",
+                null
+              ],
+              [
+                "N391207",
+                "1997-04-12",
+                "AGREEMENT FOR SALE AND PURCHASE BY LEE JEE SOON @ LI YAT SHUN @",
+                "359370.0"
+              ],
+              [
+                "N436051",
+                "1999-02-11",
+                "APPROVAL OF SUCCESSION OF LI (LEE) YIK (YAT) LUNG ALIAS LI TSO LAM",
+                null
+              ],
+              [
+                "11072101900020",
+                "2011-06-07",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "23062101330010",
+                "2011-09-26",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "16111402040226",
+                "2011-09-26",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "11101301690038",
+                "2011-09-26",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "23071201680020",
+                "2023-06-12",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "24020201290041",
+                "2023-12-13",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938300751057678,
@@ -1431,7 +5216,21 @@
         1107623032,
         null,
         "20 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 742",
+            "Old Schedule Lot",
+            "C3307742",
+            [
+              [
+                "N374210",
+                "1996-08-22",
+                "SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938328854271634,
@@ -1450,7 +5249,46 @@
         1107623045,
         null,
         "46 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 784",
+            "Old Schedule Lot",
+            "C3307985",
+            [
+              [
+                "N438621",
+                "1999-04-13",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "06121901800010",
+                "2006-12-06",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 785",
+            "Old Schedule Lot",
+            "C3307996",
+            [
+              [
+                "N438617",
+                "1999-04-13",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "06121901800010",
+                "2006-12-06",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938391659020454,
@@ -1469,7 +5307,45 @@
         1107623097,
         null,
         "32 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 752",
+            "Old Schedule Lot",
+            "C5644402",
+            []
+          ],
+          [
+            "DD54 753",
+            "Old Schedule Lot",
+            "C3307829",
+            [
+              [
+                "N89547",
+                "1934-04-03",
+                "-",
+                null
+              ],
+              [
+                "N126241",
+                "1950-07-14",
+                "-",
+                null
+              ],
+              [
+                "N201740",
+                "1981-05-18",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "16041400110066",
+                "2014-11-24",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938339464679578,
@@ -1488,7 +5364,75 @@
         1107623122,
         null,
         "38 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 765",
+            "Old Schedule Lot",
+            "C5894450",
+            [
+              [
+                "N124657",
+                "1949-08-19",
+                "-",
+                null
+              ],
+              [
+                "N214146",
+                "1984-12-28",
+                "-",
+                "4.0"
+              ],
+              [
+                "N329111",
+                "1995-05-29",
+                "-",
+                null
+              ],
+              [
+                "N347330",
+                "1995-06-13",
+                "-",
+                null
+              ],
+              [
+                "N345187",
+                "1995-12-06",
+                "STATUTORY DECLARATION OF TAI KUI LEE HO",
+                null
+              ],
+              [
+                "N380736",
+                "1996-11-06",
+                "APPROVAL OF SUCCESSION OF HO TSZ (OR TZE OR TZI) MAN",
+                null
+              ],
+              [
+                "N503002",
+                "2000-09-18",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "20031700800013",
+                "2019-09-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "21021901780018",
+                "2021-02-04",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 766",
+            "Old Schedule Lot",
+            "C3307874",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.993836344586395,
@@ -1526,7 +5470,21 @@
         1107623143,
         null,
         "48 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 782",
+            "Old Schedule Lot",
+            "C6748493",
+            [
+              [
+                "N428025",
+                "1998-10-19",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993838676062634,
@@ -1545,7 +5503,39 @@
         1107623152,
         null,
         "26 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 746",
+            "Old Schedule Lot",
+            "C3307774",
+            [
+              [
+                "N359247",
+                "1996-04-03",
+                "-",
+                null
+              ],
+              [
+                "N480801",
+                "2000-04-25",
+                "ASSIGNMENT",
+                "90000.0"
+              ],
+              [
+                "N480519",
+                "2000-04-25",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "90000.0"
+              ],
+              [
+                "18050202230012",
+                "2018-03-21",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938301901718416,
@@ -1564,7 +5554,39 @@
         1107623172,
         null,
         "35 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 748",
+            "Old Schedule Lot",
+            "C3307792",
+            [
+              [
+                "N348967",
+                "1995-11-02",
+                "-",
+                null
+              ],
+              [
+                "N361561",
+                "1996-03-13",
+                "-",
+                null
+              ],
+              [
+                "22110802110420",
+                "2022-10-10",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3500000.0"
+              ],
+              [
+                "22120602000154",
+                "2022-11-11",
+                "ASSIGNMENT",
+                "3500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993832114812486,
@@ -1583,7 +5605,27 @@
         1107623174,
         null,
         "50 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 780",
+            "Old Schedule Lot",
+            "C5243658",
+            [
+              [
+                "N450694",
+                "1998-08-25",
+                "DEATH AND APPOINTMENT OF MANAGER OF SUNG KA TSZ",
+                null
+              ],
+              [
+                "N450695",
+                "1999-05-12",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938378039106959,
@@ -1602,7 +5644,59 @@
         1107623176,
         null,
         "57 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 792",
+            "Old Schedule Lot",
+            "C6061287",
+            [
+              [
+                "N207284",
+                "1983-01-27",
+                "CONVEYANCE ON SALE",
+                "20000.0"
+              ]
+            ]
+          ],
+          [
+            "DD54 793",
+            "Old Schedule Lot",
+            "C5792056",
+            [
+              [
+                "N129230",
+                "1952-08-08",
+                "-",
+                null
+              ],
+              [
+                "N434376",
+                "1999-02-11",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N434375",
+                "1999-02-11",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 794",
+            "Old Schedule Lot",
+            "C6310741",
+            [
+              [
+                "N434374",
+                "1999-02-11",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938406902383143,
@@ -1621,7 +5715,70 @@
         1107623182,
         null,
         "41 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 768",
+            "Old Schedule Lot",
+            "C3307897",
+            [
+              [
+                "N448486",
+                "1999-06-09",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "23051001520054",
+                "2023-03-30",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "23112101580106",
+                "2023-07-24",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "24071101250118",
+                "2024-07-10",
+                "SATISFACTION CERTIFICATE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 769",
+            "Old Schedule Lot",
+            "C3307906",
+            [
+              [
+                "N448490",
+                "1999-06-09",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "23051001520054",
+                "2023-03-30",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "23112101580106",
+                "2023-07-24",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "24071101250118",
+                "2024-07-10",
+                "SATISFACTION CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938344730778965,
@@ -1640,7 +5797,39 @@
         1107623196,
         null,
         "36 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 747",
+            "Old Schedule Lot",
+            "C3307781",
+            [
+              [
+                "N124868",
+                "1949-10-04",
+                "-",
+                null
+              ],
+              [
+                "N408653",
+                "1997-10-28",
+                "APPROVAL OF SUCCESSION OF LI LOI TAT",
+                null
+              ],
+              [
+                "22110802110420",
+                "2022-10-10",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3500000.0"
+              ],
+              [
+                "22120602000154",
+                "2022-11-11",
+                "ASSIGNMENT",
+                "3500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993831624673799,
@@ -1659,7 +5848,21 @@
         1107623203,
         null,
         "58 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 795",
+            "Old Schedule Lot",
+            "C3308034",
+            [
+              [
+                "N207279",
+                "1983-01-23",
+                "-",
+                "20000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938402364675558,
@@ -1678,7 +5881,88 @@
         1107623209,
         null,
         "42 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 769",
+            "Old Schedule Lot",
+            "C3307906",
+            [
+              [
+                "N448490",
+                "1999-06-09",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "23051001520054",
+                "2023-03-30",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "23112101580106",
+                "2023-07-24",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "24071101250118",
+                "2024-07-10",
+                "SATISFACTION CERTIFICATE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 770",
+            "Old Schedule Lot",
+            "C3307913",
+            [
+              [
+                "N124864",
+                "1949-10-04",
+                "-",
+                null
+              ],
+              [
+                "N508424",
+                "1999-09-29",
+                "APPROVAL OF SUCCESSION OF SUNG WAN PAN",
+                null
+              ],
+              [
+                "N508423",
+                "1999-09-29",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N511320",
+                "2001-06-03",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "13082701950018",
+                "2013-07-29",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "15110500660010",
+                "2015-09-16",
+                "PROBATE",
+                null
+              ],
+              [
+                "16031000540012",
+                "2016-02-05",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938340400464234,
@@ -1697,7 +5981,119 @@
         1107623210,
         null,
         null,
-        []
+        [
+          [
+            "DD54 768",
+            "Old Schedule Lot",
+            "C3307897",
+            [
+              [
+                "N448486",
+                "1999-06-09",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "23051001520054",
+                "2023-03-30",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "23112101580106",
+                "2023-07-24",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "24071101250118",
+                "2024-07-10",
+                "SATISFACTION CERTIFICATE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 769",
+            "Old Schedule Lot",
+            "C3307906",
+            [
+              [
+                "N448490",
+                "1999-06-09",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "23051001520054",
+                "2023-03-30",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "23112101580106",
+                "2023-07-24",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "24071101250118",
+                "2024-07-10",
+                "SATISFACTION CERTIFICATE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 770",
+            "Old Schedule Lot",
+            "C3307913",
+            [
+              [
+                "N124864",
+                "1949-10-04",
+                "-",
+                null
+              ],
+              [
+                "N508424",
+                "1999-09-29",
+                "APPROVAL OF SUCCESSION OF SUNG WAN PAN",
+                null
+              ],
+              [
+                "N508423",
+                "1999-09-29",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N511320",
+                "2001-06-03",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "13082701950018",
+                "2013-07-29",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "15110500660010",
+                "2015-09-16",
+                "PROBATE",
+                null
+              ],
+              [
+                "16031000540012",
+                "2016-02-05",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938348323750028,
@@ -1716,7 +6112,57 @@
         1107623256,
         null,
         "43 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 771",
+            "Old Schedule Lot",
+            "C3307925",
+            [
+              [
+                "N124864",
+                "1949-10-04",
+                "-",
+                null
+              ],
+              [
+                "N508424",
+                "1999-09-29",
+                "APPROVAL OF SUCCESSION OF SUNG WAN PAN",
+                null
+              ],
+              [
+                "N508423",
+                "1999-09-29",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N511320",
+                "2001-06-03",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "13082701950018",
+                "2013-07-29",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "15110500660010",
+                "2015-09-16",
+                "PROBATE",
+                null
+              ],
+              [
+                "16031000540012",
+                "2016-02-05",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938338891683032,
@@ -1735,7 +6181,45 @@
         1107623259,
         null,
         "45 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 772",
+            "Old Schedule Lot",
+            "C5836846",
+            [
+              [
+                "N5847",
+                "1908-02-10",
+                "-",
+                null
+              ],
+              [
+                "N124004",
+                "1949-06-15",
+                "-",
+                null
+              ],
+              [
+                "N359246",
+                "1996-04-03",
+                "-",
+                null
+              ],
+              [
+                "12091700330109",
+                "2012-08-02",
+                "PROBATE",
+                null
+              ],
+              [
+                "12091700330116",
+                "2012-09-01",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938331539393102,
@@ -1811,7 +6295,33 @@
         1107623289,
         null,
         null,
-        []
+        [
+          [
+            "DD50 454",
+            "Old Schedule Lot",
+            "C6305331",
+            [
+              [
+                "N377192",
+                "1996-10-24",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "25062601970100",
+                "2025-06-05",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "1000000.0"
+              ],
+              [
+                "25070300660066",
+                "2025-06-05",
+                "ASSIGNMENT",
+                "1000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936005662198741,
@@ -1830,7 +6340,27 @@
         1107623301,
         null,
         null,
-        []
+        [
+          [
+            "DD50 446",
+            "Old Schedule Lot",
+            "C3237128",
+            [
+              [
+                "N144711",
+                "1961-07-21",
+                "-",
+                null
+              ],
+              [
+                "16011300980033",
+                "2015-12-18",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936015657993917,
@@ -1849,7 +6379,39 @@
         1107623302,
         null,
         null,
-        []
+        [
+          [
+            "DD50 456",
+            "Old Schedule Lot",
+            "C6590655",
+            [
+              [
+                "N53075",
+                "1922-07-27",
+                "-",
+                null
+              ],
+              [
+                "N142915",
+                "1960-12-15",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "13071900590035",
+                "2012-10-09",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "13071900590043",
+                "2013-05-30",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935993170585635,
@@ -1868,7 +6430,58 @@
         1107623313,
         null,
         "54 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 774",
+            "Old Schedule Lot",
+            "C6310725",
+            [
+              [
+                "N427946",
+                "1998-07-23",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N480519",
+                "2000-04-25",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "90000.0"
+              ],
+              [
+                "N480801",
+                "2000-04-25",
+                "ASSIGNMENT",
+                "90000.0"
+              ],
+              [
+                "18050202230012",
+                "2018-03-21",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 775",
+            "Old Schedule Lot",
+            "C3307931",
+            [
+              [
+                "N409656",
+                "1997-01-03",
+                "DEATH & APPOINTMENT OF MANAGER OF LI (OR LEI) TAK SHING TSO",
+                null
+              ],
+              [
+                "N409657",
+                "1997-12-03",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938357553310873,
@@ -1887,7 +6500,21 @@
         1107623319,
         null,
         null,
-        []
+        [
+          [
+            "DD50 445",
+            "Old Schedule Lot",
+            "C3237112",
+            [
+              [
+                "N65399",
+                "1926-10-28",
+                "-",
+                "10.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936011293108629,
@@ -1906,7 +6533,21 @@
         1107623331,
         null,
         "1 YI TO",
-        []
+        [
+          [
+            "DD54 1571",
+            "Old Schedule Lot",
+            "C6311132",
+            [
+              [
+                "N155891",
+                "1965-05-21",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937646406728646,
@@ -1944,7 +6585,21 @@
         1107623351,
         null,
         "56 KUK PO LO WAI",
-        []
+        [
+          [
+            "DD54 773",
+            "Old Schedule Lot",
+            "C6310717",
+            [
+              [
+                "N449341",
+                "1999-06-15",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993834978795697,
@@ -1982,7 +6637,14 @@
         1107623361,
         null,
         null,
-        []
+        [
+          [
+            "DD50 444",
+            "Old Schedule Lot",
+            "C5638636",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.993600734892502,
@@ -2020,7 +6682,39 @@
         1107623383,
         null,
         "3 YI TO",
-        []
+        [
+          [
+            "DD54 1572",
+            "Old Schedule Lot",
+            "C3312533",
+            [
+              [
+                "N127573",
+                "1951-06-25",
+                "-",
+                null
+              ],
+              [
+                "N348175",
+                "1995-08-03",
+                "-",
+                null
+              ],
+              [
+                "24111501470010",
+                "2024-10-25",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "25042401120040",
+                "2025-03-27",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937642873196935,
@@ -2058,7 +6752,39 @@
         1107623401,
         null,
         "5 YI TO",
-        []
+        [
+          [
+            "DD54 1572",
+            "Old Schedule Lot",
+            "C3312533",
+            [
+              [
+                "N127573",
+                "1951-06-25",
+                "-",
+                null
+              ],
+              [
+                "N348175",
+                "1995-08-03",
+                "-",
+                null
+              ],
+              [
+                "24111501470010",
+                "2024-10-25",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "25042401120040",
+                "2025-03-27",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937641163580075,
@@ -2077,7 +6803,51 @@
         1107623414,
         null,
         "9 FUNG HANG",
-        []
+        [
+          [
+            "DD50 437",
+            "Old Schedule Lot",
+            "C6305324",
+            [
+              [
+                "N84967",
+                "1933-01-06",
+                "-",
+                null
+              ],
+              [
+                "N85983",
+                "1933-03-23",
+                "-",
+                null
+              ],
+              [
+                "N137192",
+                "1957-12-20",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "N137190",
+                "1957-12-20",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "08021400290411",
+                "2008-01-12",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "08082600810119",
+                "2008-07-14",
+                "ASSIGNMENT",
+                "300000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993604124778088,
@@ -2115,7 +6885,39 @@
         1107623440,
         null,
         "28 FUNG HANG",
-        []
+        [
+          [
+            "DD50 425",
+            "Old Schedule Lot",
+            "C5325835",
+            [
+              [
+                "N171503",
+                "1972-08-02",
+                "-",
+                null
+              ],
+              [
+                "17050401940021",
+                "2016-11-21",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "17080101830024",
+                "2017-06-26",
+                "ASSENT",
+                null
+              ],
+              [
+                "17080101830013",
+                "2017-06-26",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936168058750094,
@@ -2134,7 +6936,21 @@
         1107623441,
         null,
         "10 FUNG HANG",
-        []
+        [
+          [
+            "DD50 435",
+            "Old Schedule Lot",
+            "C3237058",
+            [
+              [
+                "N146408",
+                "1962-01-26",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936051273976352,
@@ -2153,7 +6969,21 @@
         1107623446,
         null,
         "6 YI TO",
-        []
+        [
+          [
+            "DD54 1574",
+            "Old Schedule Lot",
+            "C3312545",
+            [
+              [
+                "N124001",
+                "1949-06-14",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937638968210254,
@@ -2172,7 +7002,27 @@
         1107623447,
         null,
         "27 FUNG HANG",
-        []
+        [
+          [
+            "DD50 424",
+            "Old Schedule Lot",
+            "C6642771",
+            [
+              [
+                "N88034",
+                "1933-11-29",
+                "-",
+                "100.0"
+              ],
+              [
+                "N101526",
+                "1937-12-15",
+                "SALE",
+                "100.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936162262510932,
@@ -2191,7 +7041,51 @@
         1107623453,
         null,
         "26 FUNG HANG",
-        []
+        [
+          [
+            "DD50 423",
+            "Old Schedule Lot",
+            "C3237017",
+            [
+              [
+                "N53075",
+                "1922-07-27",
+                "-",
+                null
+              ],
+              [
+                "N56623",
+                "1923-07-25",
+                "MORTGAGE",
+                "400.0"
+              ],
+              [
+                "N123208",
+                "1949-03-18",
+                "-",
+                null
+              ],
+              [
+                "N193024",
+                "1979-01-11",
+                "-",
+                null
+              ],
+              [
+                "N402043",
+                "1997-06-26",
+                "ORDER: H.C.H.K.C. OF FIRST INSTANCE M.P. NO.3271 OF 1996",
+                null
+              ],
+              [
+                "13090602700017",
+                "2013-03-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936156685990862,
@@ -2210,7 +7104,21 @@
         1107623458,
         null,
         "11 FUNG HANG",
-        []
+        [
+          [
+            "DD50 434",
+            "Old Schedule Lot",
+            "C5638622",
+            [
+              [
+                "N146408",
+                "1962-01-26",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936055952921836,
@@ -2229,7 +7137,14 @@
         1107623460,
         null,
         "25 FUNG HANG",
-        []
+        [
+          [
+            "DD50 422 S.A&S.B",
+            "Old Schedule Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9936150866164417,
@@ -2267,7 +7182,14 @@
         1107623466,
         null,
         "24 FUNG HANG",
-        []
+        [
+          [
+            "DD50 422 S.A&S.B",
+            "Old Schedule Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9936144685263815,
@@ -2286,7 +7208,39 @@
         1107623468,
         null,
         "23 FUNG HANG",
-        []
+        [
+          [
+            "DD50 421",
+            "Old Schedule Lot",
+            "C3236996",
+            [
+              [
+                "N65269",
+                "1926-09-02",
+                "-",
+                null
+              ],
+              [
+                "N123208",
+                "1949-03-18",
+                "-",
+                null
+              ],
+              [
+                "N193024",
+                "1979-01-11",
+                "-",
+                null
+              ],
+              [
+                "13090602700017",
+                "2013-03-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936139042773489,
@@ -2305,7 +7259,33 @@
         1107623470,
         null,
         "65 FUNG HANG",
-        []
+        [
+          [
+            "DD50 357",
+            "Old Schedule Lot",
+            "C3236656",
+            [
+              [
+                "N65270",
+                "1926-09-02",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "N551556",
+                "2003-08-26",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N551557",
+                "2003-08-29",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993624244802988,
@@ -2324,7 +7304,39 @@
         1107623472,
         null,
         "22 FUNG HANG",
-        []
+        [
+          [
+            "DD50 420",
+            "Old Schedule Lot",
+            "C3236983",
+            [
+              [
+                "N28795",
+                "1915-01-19",
+                "-",
+                null
+              ],
+              [
+                "N70175",
+                "1928-04-13",
+                "PROHIBITORY ORDER",
+                null
+              ],
+              [
+                "N88538",
+                "1934-01-22",
+                "-",
+                null
+              ],
+              [
+                "N150885",
+                "1963-09-10",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936133659329254,
@@ -2343,7 +7355,27 @@
         1107623476,
         null,
         "21 FUNG HANG",
-        []
+        [
+          [
+            "DD50 419",
+            "Old Schedule Lot",
+            "C5638617",
+            [
+              [
+                "N139188",
+                "1959-02-19",
+                "-",
+                null
+              ],
+              [
+                "N348919",
+                "1996-01-09",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936128236779906,
@@ -2362,7 +7394,33 @@
         1107623482,
         null,
         "7 YI TO",
-        []
+        [
+          [
+            "DD54 1575",
+            "Old Schedule Lot",
+            "C3312557",
+            [
+              [
+                "N120059",
+                "1948-05-07",
+                "-",
+                null
+              ],
+              [
+                "N124001",
+                "1949-06-14",
+                "-",
+                null
+              ],
+              [
+                "N358939",
+                "1996-03-21",
+                "MEMO AS TO ERROR IN RESPECT OF M/N 48560 AND 120059",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937637729215645,
@@ -2400,7 +7458,27 @@
         1107623487,
         null,
         "18 FUNG HANG",
-        []
+        [
+          [
+            "DD50 416",
+            "Old Schedule Lot",
+            "C3236953",
+            [
+              [
+                "N346351",
+                "1994-09-01",
+                "DEATH AND APPOINTMENT OF MANAGER OF CHEUNG KWOK YAU TSO",
+                null
+              ],
+              [
+                "N346352",
+                "1995-09-11",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936112042719738,
@@ -2419,7 +7497,33 @@
         1107623489,
         null,
         "67 FUNG HANG",
-        []
+        [
+          [
+            "DD50 357",
+            "Old Schedule Lot",
+            "C3236656",
+            [
+              [
+                "N65270",
+                "1926-09-02",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "N551556",
+                "2003-08-26",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N551557",
+                "2003-08-29",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936228316827813,
@@ -2438,7 +7542,39 @@
         1107623494,
         null,
         "17 FUNG HANG",
-        []
+        [
+          [
+            "DD50 415",
+            "Old Schedule Lot",
+            "C3236941",
+            [
+              [
+                "N144855",
+                "1961-08-08",
+                "-",
+                null
+              ],
+              [
+                "N472964",
+                "2000-01-14",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "23082801680035",
+                "2023-08-02",
+                "PROBATE",
+                null
+              ],
+              [
+                "23101902030043",
+                "2023-10-11",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936106716573283,
@@ -2457,7 +7593,33 @@
         1107623499,
         null,
         "16 FUNG HANG",
-        []
+        [
+          [
+            "DD50 414",
+            "Old Schedule Lot",
+            "C3236933",
+            [
+              [
+                "N142549",
+                "1960-11-02",
+                "-",
+                null
+              ],
+              [
+                "N179308",
+                "1975-01-16",
+                "-",
+                null
+              ],
+              [
+                "13031200930040",
+                "2013-02-19",
+                "SEALED CONFIRMATION GRANT NO. HCAG001590/2011",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936101483147723,
@@ -2476,7 +7638,39 @@
         1107623503,
         null,
         "8 YI TO",
-        []
+        [
+          [
+            "DD54 1576",
+            "Old Schedule Lot",
+            "C5748598",
+            [
+              [
+                "N123952",
+                "1949-06-08",
+                "-",
+                null
+              ],
+              [
+                "N350982",
+                "1995-12-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2000000.0"
+              ],
+              [
+                "N422530",
+                "1996-06-11",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "N510732",
+                "2001-04-28",
+                "CANCELLATION AGREEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937636584573133,
@@ -2495,7 +7689,39 @@
         1107623505,
         null,
         "15 FUNG HANG",
-        []
+        [
+          [
+            "DD50 413",
+            "Old Schedule Lot",
+            "C5835779",
+            [
+              [
+                "N87929",
+                "1933-11-13",
+                "-",
+                "200.0"
+              ],
+              [
+                "N169979",
+                "1972-02-01",
+                "-",
+                null
+              ],
+              [
+                "19110401980036",
+                "2019-10-23",
+                "PROBATE",
+                null
+              ],
+              [
+                "22102401970106",
+                "2022-10-05",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936095838203445,
@@ -2514,7 +7740,33 @@
         1107623509,
         null,
         "14 FUNG HANG",
-        []
+        [
+          [
+            "DD50 412",
+            "Old Schedule Lot",
+            "C3236927",
+            [
+              [
+                "N41107",
+                "1919-02-12",
+                "-",
+                null
+              ],
+              [
+                "N41119",
+                "1919-02-17",
+                "-",
+                "173.0"
+              ],
+              [
+                "N136518",
+                "1957-07-16",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936090540587903,
@@ -2533,7 +7785,33 @@
         1107623519,
         null,
         "14 FUNG HANG",
-        []
+        [
+          [
+            "DD50 412",
+            "Old Schedule Lot",
+            "C3236927",
+            [
+              [
+                "N41107",
+                "1919-02-12",
+                "-",
+                null
+              ],
+              [
+                "N41119",
+                "1919-02-17",
+                "-",
+                "173.0"
+              ],
+              [
+                "N136518",
+                "1957-07-16",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993608524758571,
@@ -2552,7 +7830,21 @@
         1107623528,
         null,
         "17 YI TO",
-        []
+        [
+          [
+            "DD54 1569",
+            "Old Schedule Lot",
+            "C3312528",
+            [
+              [
+                "N155891",
+                "1965-05-21",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937679945608358,
@@ -2571,7 +7863,89 @@
         1107623531,
         null,
         "45 FUNG HANG",
-        []
+        [
+          [
+            "DD50 390",
+            "Old Schedule Lot",
+            "C5408154",
+            [
+              [
+                "N65268",
+                "1926-09-02",
+                "-",
+                null
+              ],
+              [
+                "N65400",
+                "1926-10-28",
+                "-",
+                "100.0"
+              ],
+              [
+                "N142917",
+                "1960-12-15",
+                "-",
+                null
+              ],
+              [
+                "N196841",
+                "1979-09-03",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD50 391",
+            "Old Schedule Lot",
+            "C5638609",
+            [
+              [
+                "N53075",
+                "1922-07-27",
+                "-",
+                null
+              ],
+              [
+                "N142917",
+                "1960-12-15",
+                "-",
+                null
+              ],
+              [
+                "N196841",
+                "1979-09-03",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD50 392",
+            "Old Schedule Lot",
+            "C3236795",
+            [
+              [
+                "N11205",
+                "1910-02-03",
+                "-",
+                "110.0"
+              ],
+              [
+                "N142917",
+                "1960-12-15",
+                "-",
+                null
+              ],
+              [
+                "N196841",
+                "1979-09-03",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936175820471975,
@@ -2590,7 +7964,21 @@
         1107623538,
         null,
         "9 YI TO",
-        []
+        [
+          [
+            "DD54 1577",
+            "Old Schedule Lot",
+            "C6311140",
+            [
+              [
+                "N124000",
+                "1949-06-14",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937635161314722,
@@ -2609,7 +7997,63 @@
         1107623544,
         null,
         "70 FUNG HANG",
-        []
+        [
+          [
+            "DD50 359",
+            "Old Schedule Lot",
+            "C5054473",
+            [
+              [
+                "N28611",
+                "1914-12-29",
+                "-",
+                null
+              ],
+              [
+                "N42672",
+                "1919-06-13",
+                "-",
+                null
+              ],
+              [
+                "N153007",
+                "1964-05-19",
+                "-",
+                null
+              ],
+              [
+                "N181041",
+                "1975-08-13",
+                "-",
+                null
+              ],
+              [
+                "13061901510012",
+                "2013-06-05",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "13082000680018",
+                "2013-07-23",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "13121700650154",
+                "2013-12-02",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2038608.0"
+              ],
+              [
+                "14011500640082",
+                "2013-12-16",
+                "ASSIGNMENT",
+                "2038608.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936256882016763,
@@ -2628,7 +8072,39 @@
         1107623547,
         null,
         "44 FUNG HANG",
-        []
+        [
+          [
+            "DD50 393",
+            "Old Schedule Lot",
+            "C3236803",
+            [
+              [
+                "N144905",
+                "1961-08-15",
+                "-",
+                null
+              ],
+              [
+                "N221308",
+                "1986-03-13",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "09052602150248",
+                "2009-04-22",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "500000.0"
+              ],
+              [
+                "09052602150255",
+                "2009-04-22",
+                "ASSIGNMENT",
+                "500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936163187008933,
@@ -2647,7 +8123,27 @@
         1107623558,
         null,
         null,
-        []
+        [
+          [
+            "DD50 432",
+            "Old Schedule Lot",
+            "C5241968",
+            [
+              [
+                "N55498",
+                "1923-04-09",
+                "-",
+                null
+              ],
+              [
+                "N399494",
+                "1995-11-03",
+                "APPROVAL OF SUCCESSION OF CHEUNG YUK ON",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936056405216271,
@@ -2666,7 +8162,21 @@
         1107623563,
         null,
         "18 YI TO",
-        []
+        [
+          [
+            "DD54 1569",
+            "Old Schedule Lot",
+            "C3312528",
+            [
+              [
+                "N155891",
+                "1965-05-21",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937678091194366,
@@ -2685,7 +8195,21 @@
         1107623568,
         null,
         "10 YI TO",
-        []
+        [
+          [
+            "DD54 1577",
+            "Old Schedule Lot",
+            "C6311140",
+            [
+              [
+                "N124000",
+                "1949-06-14",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993763338798702,
@@ -2704,7 +8228,51 @@
         1107623573,
         null,
         "38 FUNG HANG",
-        []
+        [
+          [
+            "DD50 399",
+            "Old Schedule Lot",
+            "C3236831",
+            [
+              [
+                "N144854",
+                "1961-08-08",
+                "-",
+                null
+              ],
+              [
+                "N166045",
+                "1970-09-08",
+                "-",
+                null
+              ],
+              [
+                "N360022",
+                "1996-04-03",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "14050700080043",
+                "2013-11-29",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "14121600020024",
+                "2014-11-17",
+                "ASSENT",
+                null
+              ],
+              [
+                "14121600020014",
+                "2014-11-17",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993613097342909,
@@ -2723,7 +8291,21 @@
         1107623581,
         null,
         null,
-        []
+        [
+          [
+            "DD50 394",
+            "Old Schedule Lot",
+            "C5054481",
+            [
+              [
+                "16042201340019",
+                "2016-02-29",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936157546339706,
@@ -2742,7 +8324,27 @@
         1107623589,
         null,
         "35 FUNG HANG",
-        []
+        [
+          [
+            "DD50 402",
+            "Old Schedule Lot",
+            "C3236858",
+            [
+              [
+                "N346351",
+                "1994-09-01",
+                "DEATH AND APPOINTMENT OF MANAGER OF CHEUNG KWOK YAU TSO",
+                null
+              ],
+              [
+                "N346352",
+                "1995-09-11",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936114843300046,
@@ -2761,7 +8363,39 @@
         1107623597,
         null,
         "11 YI TO",
-        []
+        [
+          [
+            "DD54 1578",
+            "Old Schedule Lot",
+            "C3312562",
+            [
+              [
+                "N123953",
+                "1949-06-08",
+                "-",
+                null
+              ],
+              [
+                "N350982",
+                "1995-12-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2000000.0"
+              ],
+              [
+                "N422530",
+                "1996-06-11",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "N510732",
+                "2001-04-28",
+                "CANCELLATION AGREEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937631942873515,
@@ -2799,7 +8433,39 @@
         1107623606,
         null,
         "33A FUNG HANG",
-        []
+        [
+          [
+            "DD50 404 RP",
+            "Old Schedule Lot",
+            "C5835765",
+            [
+              [
+                "N159491",
+                "1966-12-28",
+                "-",
+                null
+              ],
+              [
+                "N228290",
+                "1988-01-21",
+                "DECLARATION OF CHEUNG PING YUE ALIAS CHEUNG BING YU",
+                null
+              ],
+              [
+                "N228291",
+                "1988-10-06",
+                "-",
+                null
+              ],
+              [
+                "19090400300019",
+                "2019-08-12",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993609886393917,
@@ -2818,7 +8484,27 @@
         1107623614,
         null,
         "32 FUNG HANG",
-        []
+        [
+          [
+            "DD50 405",
+            "Old Schedule Lot",
+            "C5054501",
+            [
+              [
+                "N144711",
+                "1961-07-21",
+                "-",
+                null
+              ],
+              [
+                "16011300980033",
+                "2015-12-18",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936093487677697,
@@ -2837,7 +8523,33 @@
         1107623636,
         null,
         "50 FUNG HANG",
-        []
+        [
+          [
+            "DD50 385",
+            "Old Schedule Lot",
+            "C3236778",
+            [
+              [
+                "N147283",
+                "1962-05-14",
+                "-",
+                null
+              ],
+              [
+                "N402263",
+                "1997-07-16",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N448483",
+                "1999-06-15",
+                "APPROVAL OF SUCCESSION OF CHEUNG MA SAU ALIAS CHEUNG KAI MEE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936181276050238,
@@ -2856,7 +8568,33 @@
         1107623649,
         null,
         "49 FUNG HANG",
-        []
+        [
+          [
+            "DD50 386",
+            "Old Schedule Lot",
+            "C5638592",
+            [
+              [
+                "N166667",
+                "1970-12-04",
+                "-",
+                "280.0"
+              ],
+              [
+                "N227846",
+                "1988-08-24",
+                "-",
+                null
+              ],
+              [
+                "19092501240034",
+                "2019-09-11",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936171413986352,
@@ -2875,7 +8613,39 @@
         1107623652,
         null,
         null,
-        []
+        [
+          [
+            "DD50 407",
+            "Old Schedule Lot",
+            "C3236899",
+            [
+              [
+                "N48560",
+                "1921-02-21",
+                "-",
+                null
+              ],
+              [
+                "N120059",
+                "1948-05-07",
+                "-",
+                null
+              ],
+              [
+                "N402263",
+                "1997-07-16",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N448483",
+                "1999-06-15",
+                "APPROVAL OF SUCCESSION OF CHEUNG MA SAU ALIAS CHEUNG KAI MEE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936078081719157,
@@ -2894,7 +8664,51 @@
         1810073860,
         null,
         null,
-        []
+        [
+          [
+            "DD54 996",
+            "Old Schedule Lot",
+            "C3309362",
+            [
+              [
+                "N39674",
+                "1918-06-07",
+                "-",
+                null
+              ],
+              [
+                "N133660",
+                "1955-08-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N202258",
+                "1981-04-16",
+                "PROBATE",
+                null
+              ],
+              [
+                "N202671",
+                "1981-06-30",
+                "PROBATE",
+                null
+              ],
+              [
+                "N211393",
+                "1983-08-17",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "14031801770014",
+                "2014-02-24",
+                "DOUBLE PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937749903859956,
@@ -2913,7 +8727,113 @@
         1810082882,
         null,
         null,
-        []
+        [
+          [
+            "DD54 978",
+            "Old Schedule Lot",
+            "C3309236",
+            [
+              [
+                "N81393",
+                "1931-12-17",
+                "-",
+                "400.0"
+              ],
+              [
+                "N206865",
+                "1983-01-12",
+                "-",
+                null
+              ],
+              [
+                "12081700920065",
+                "2012-07-10",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "13112100720015",
+                "2013-11-18",
+                "DEED OF FAMILY ARRANGEMENT AND ASSIGNMENT",
+                null
+              ],
+              [
+                "22111501890358",
+                "2022-10-18",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1400000.0"
+              ],
+              [
+                "22121602210164",
+                "2022-11-21",
+                "ASSIGNMENT",
+                "1400000.0"
+              ]
+            ]
+          ],
+          [
+            "DD54 979",
+            "Old Schedule Lot",
+            "C3309245",
+            [
+              [
+                "N24233",
+                "1913-05-20",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N85886",
+                "1933-03-15",
+                "-",
+                "270.0"
+              ],
+              [
+                "N147763",
+                "1962-07-25",
+                "-",
+                null
+              ],
+              [
+                "N450700",
+                "1998-08-25",
+                "DEATH AND APPOINTMENT OF MANAGER OF SUNG TSUNG SHU TSO",
+                null
+              ],
+              [
+                "N450701",
+                "1999-05-12",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD54 TL T59",
+            "Taxlord Lot",
+            "C3316086",
+            [
+              [
+                "N208217",
+                "1983-03-29",
+                "-",
+                null
+              ],
+              [
+                "N315425",
+                "1994-03-29",
+                "-",
+                null
+              ],
+              [
+                "20040800420017",
+                "2019-10-30",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937622511363646,
@@ -2932,7 +8852,51 @@
         1810082893,
         null,
         null,
-        []
+        [
+          [
+            "DD54 1006",
+            "Old Schedule Lot",
+            "C3309444",
+            [
+              [
+                "N127421",
+                "1951-04-25",
+                "-",
+                null
+              ],
+              [
+                "N347927",
+                "1995-12-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "418176.0"
+              ],
+              [
+                "N510726",
+                "2001-04-28",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "19101102440031",
+                "2019-06-06",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "19101502290059",
+                "2019-10-08",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "19101502290060",
+                "2019-10-08",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993783994419562,
@@ -2989,7 +8953,33 @@
         1910226816,
         null,
         null,
-        []
+        [
+          [
+            "DD54 783",
+            "Old Schedule Lot",
+            "C3307970",
+            [
+              [
+                "N469461",
+                "1999-09-30",
+                "APPROVAL OF SUCCESSION OF SUNG (SHUNG) HI (HEI) LAM @ LEI HI LAM",
+                null
+              ],
+              [
+                "N469459",
+                "1999-09-30",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N468053",
+                "1999-09-30",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938390683059986,

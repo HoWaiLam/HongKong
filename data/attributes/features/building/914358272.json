@@ -25,7 +25,39 @@
         1105775545,
         null,
         "4 KAP LUNG",
-        []
+        [
+          [
+            "KLL 5",
+            "Old Schedule Lot",
+            "C5884220",
+            [
+              [
+                "YL141543",
+                "1960-01-26",
+                "-",
+                null
+              ],
+              [
+                "YL158964",
+                "1967-02-06",
+                "MORTGAGE",
+                "2000.0"
+              ],
+              [
+                "YL165622",
+                "1970-10-01",
+                "RECEIPT",
+                null
+              ],
+              [
+                "YL185876",
+                "1975-07-16",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914993333264255,
@@ -44,7 +76,57 @@
         1105775550,
         null,
         "5 KAP LUNG",
-        []
+        [
+          [
+            "KLL 6 S.A",
+            "Old Schedule Lot",
+            "C2636346",
+            [
+              [
+                "YL13405",
+                "1910-11-04",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "YL107880",
+                "1940-03-11",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "YL142287",
+                "1960-06-14",
+                "CANCELLATION OF MANAGER OF TSANG WANG SHING TONG",
+                null
+              ],
+              [
+                "YL158378",
+                "1966-09-26",
+                "SUCCESSION TO MANAGERSHIP",
+                null
+              ],
+              [
+                "YL171257",
+                "1972-06-16",
+                "SUCCESSION TO MANAGERSHIP",
+                null
+              ],
+              [
+                "YL1080172",
+                "2003-03-23",
+                "NOTICE OF RETIREMENT & APPOINTMENT OF MANAGER OF TSANG WAN SHING TONG",
+                null
+              ],
+              [
+                "YL1080173",
+                "2003-12-23",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914987405621996,
@@ -177,7 +259,45 @@
         1810079508,
         null,
         "3 KAP LUNG",
-        []
+        [
+          [
+            "KLL 4 S.B",
+            "Old Schedule Lot",
+            "C2636335",
+            [
+              [
+                "YL13405",
+                "1910-11-04",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "11121200430040",
+                "2011-03-25",
+                "SEALED COPY AMENDED WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "15040902000048",
+                "2015-03-17",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "20101200070018",
+                "2020-10-08",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "21102602250013",
+                "2021-09-18",
+                "ASSIGNMENT",
+                "220000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991499945744314,
@@ -196,7 +316,87 @@
         1910216996,
         null,
         "6 KAP LUNG",
-        []
+        [
+          [
+            "KLL 6 S.B",
+            "Old Schedule Lot",
+            "C6495980",
+            [
+              [
+                "YL141542",
+                "1960-01-26",
+                "-",
+                null
+              ],
+              [
+                "YL159142",
+                "1967-03-21",
+                "SUCCESSION TO MANAGERSHIP",
+                null
+              ],
+              [
+                "YL235931",
+                "1980-08-04",
+                "-",
+                null
+              ],
+              [
+                "YL235930",
+                "1980-08-04",
+                "STATUTORY DECLARATION OF TSANG YUET HIN & TSANG KWAI HING",
+                null
+              ],
+              [
+                "06042901050014",
+                "2006-03-31",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "07101601730019",
+                "2007-09-18",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "13103001660013",
+                "2013-05-29",
+                "SEALED COPY JUDGMENT",
+                null
+              ],
+              [
+                "18082902040014",
+                "2013-05-29",
+                "SEALED COPY JUDGMENT",
+                null
+              ],
+              [
+                "13120602740102",
+                "2013-12-03",
+                "CERTIFICATE OF CHARGE ON PROPERTY UNDER SECTION 18A(1) AND (3A) OF THE LEGAL AID ORDINANCE, CAP. 91",
+                null
+              ],
+              [
+                "15012301700023",
+                "2014-10-17",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "22060200020010",
+                "2022-05-31",
+                "ASSIGNMENT",
+                "250000.0"
+              ],
+              [
+                "23040301590014",
+                "2023-03-30",
+                "CERTIFICATE OF SATISFACTION OF CHARGE ON PROPERTY UNDER SECTION 18A(1) AND (3A)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914981123414888,

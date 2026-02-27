@@ -6,7 +6,45 @@
         1810078527,
         "PROVIDENCE BAY TOWER 2",
         "5 FO CHUN ROAD",
-        []
+        [
+          [
+            "TPTL 186",
+            "New Grant Lot",
+            "D1013647",
+            [
+              [
+                "08010403350038",
+                "2007-12-17",
+                "DEBENTURE AND MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "11110402120398",
+                "2011-11-03",
+                "STAKEHOLDERS AGREEMENT",
+                null
+              ],
+              [
+                "11110402120401",
+                "2011-11-03",
+                "STAKEHOLDERS AGREEMENT",
+                null
+              ],
+              [
+                "11110402120410",
+                "2011-11-03",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "13021400400087",
+                "2013-02-06",
+                "RELEASE OF DEBENTURE AND MORTGAGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9932199997832902,
@@ -25,7 +63,45 @@
         1810078528,
         "PROVIDENCE BAY TOWER 3",
         "5 FO CHUN ROAD",
-        []
+        [
+          [
+            "TPTL 186",
+            "New Grant Lot",
+            "D1013647",
+            [
+              [
+                "08010403350038",
+                "2007-12-17",
+                "DEBENTURE AND MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "11110402120398",
+                "2011-11-03",
+                "STAKEHOLDERS AGREEMENT",
+                null
+              ],
+              [
+                "11110402120401",
+                "2011-11-03",
+                "STAKEHOLDERS AGREEMENT",
+                null
+              ],
+              [
+                "11110402120410",
+                "2011-11-03",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "13021400400087",
+                "2013-02-06",
+                "RELEASE OF DEBENTURE AND MORTGAGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9932164771248293,

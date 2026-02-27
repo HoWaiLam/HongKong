@@ -44,7 +44,33 @@
         1100001610,
         null,
         null,
-        []
+        [
+          [
+            "DD358 346",
+            "New Grant Lot",
+            "C1427867",
+            [
+              [
+                "TW70610",
+                "1960-09-23",
+                "(PRE-IRIS) SUCCESSION",
+                null
+              ],
+              [
+                "TW70707",
+                "1960-10-26",
+                "(PRE-IRIS) SUCCESSION",
+                null
+              ],
+              [
+                "24061100040010",
+                "2023-04-28",
+                "SEALED COPY JUDGMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991330910744808,
@@ -63,7 +89,33 @@
         1100001641,
         null,
         null,
-        []
+        [
+          [
+            "DD358 346",
+            "New Grant Lot",
+            "C1427867",
+            [
+              [
+                "TW70610",
+                "1960-09-23",
+                "(PRE-IRIS) SUCCESSION",
+                null
+              ],
+              [
+                "TW70707",
+                "1960-10-26",
+                "(PRE-IRIS) SUCCESSION",
+                null
+              ],
+              [
+                "24061100040010",
+                "2023-04-28",
+                "SEALED COPY JUDGMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991330096269135,
@@ -139,7 +191,39 @@
         1100002056,
         null,
         null,
-        []
+        [
+          [
+            "DD358 350",
+            "New Grant Lot",
+            "C1427899",
+            [
+              [
+                "TW72272",
+                "1962-02-24",
+                "-",
+                null
+              ],
+              [
+                "TW1559133",
+                "2004-02-10",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "23061500030016",
+                "2023-05-09",
+                "SEALED COPY OF JUDGMENT WITH PLAN",
+                null
+              ],
+              [
+                "23091200470013",
+                "2023-09-05",
+                "CERTIFICATE OF CHARGE ON PROPERTY UNDER SECTION 18A(1) AND (3A) OF THE LEGAL AID ORDINANCE, CAP. 91",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913286685160279,
@@ -177,7 +261,207 @@
         1100002539,
         null,
         null,
-        []
+        [
+          [
+            "DD396 255",
+            "Old Schedule Lot",
+            "C1591043",
+            [
+              [
+                "TW33478",
+                "1931-07-29",
+                "MORTGAGE",
+                "1200.0"
+              ],
+              [
+                "TW34632",
+                "1932-06-15",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TW43979",
+                "1939-12-22",
+                "ASSIGNMENT",
+                "4000.0"
+              ],
+              [
+                "TW46399",
+                "1941-03-25",
+                "SALE",
+                "3000.0"
+              ],
+              [
+                "TW46404",
+                "1941-03-27",
+                "MORTGAGE",
+                "1600.0"
+              ],
+              [
+                "TW47184",
+                "1941-09-12",
+                "2ND MORTGAGE",
+                "400.0"
+              ],
+              [
+                "TW61841",
+                "1954-12-22",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TW71647",
+                "1961-07-27",
+                "AGREEMENT FOR SALE",
+                "36047.0"
+              ],
+              [
+                "TW71721",
+                "1961-08-24",
+                "-",
+                "36047.0"
+              ],
+              [
+                "TW73583",
+                "1963-02-14",
+                "MORTGAGE",
+                "2400000.0"
+              ],
+              [
+                "TW75048",
+                "1963-11-05",
+                "FURTHER CHARGE",
+                "1500000.0"
+              ],
+              [
+                "TW80940",
+                "1967-06-19",
+                "MORTGAGE",
+                "2500000.0"
+              ],
+              [
+                "TW80939",
+                "1967-06-19",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "TW86704",
+                "1970-10-13",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "TW88300",
+                "1971-05-05",
+                "CONVEYANCE ON SALE",
+                "80000.0"
+              ],
+              [
+                "TW108385",
+                "1973-10-29",
+                "ASSIGNMENT",
+                "40000.0"
+              ],
+              [
+                "TW123097",
+                "1975-05-08",
+                "DECLARATION",
+                null
+              ],
+              [
+                "TW180529",
+                "1979-08-10",
+                "MORTGAGE TO GRANT GENERAL BANKING FACILITIES",
+                "3000000.0"
+              ],
+              [
+                "TW613880",
+                "1989-10-26",
+                "DEED OF TRANSFER OF MORTGAGES & DEBENTURE",
+                null
+              ],
+              [
+                "TW887137",
+                "1993-04-29",
+                "RELEASE",
+                null
+              ],
+              [
+                "TW1140575",
+                "1997-05-13",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "TW1140260",
+                "1997-05-13",
+                "MEMORANDUM OF SALE",
+                "1000000.0"
+              ],
+              [
+                "06092000150012",
+                "2006-09-13",
+                "MORTGAGE",
+                "TO SECURE ALL MONIES IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "07112001330010",
+                "2007-11-06",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "08112002170014",
+                "2008-10-21",
+                "SECOND MORTGAGE",
+                "4981772.0"
+              ],
+              [
+                "09031102430020",
+                "2009-03-05",
+                "SEALED COPY CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "09040802660021",
+                "2009-03-30",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "09072103180010",
+                "2009-06-01",
+                "SEALED COPY OF BANKRUPTCY ORDER",
+                null
+              ],
+              [
+                "13110701330016",
+                "2013-10-25",
+                "APPOINTMENT OF RECEIVERS",
+                null
+              ],
+              [
+                "14060301900090",
+                "2014-05-09",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "14081501150011",
+                "2014-07-16",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "9865800.0"
+              ],
+              [
+                "14091501680023",
+                "2014-08-19",
+                "ASSIGNMENT",
+                "9865800.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910618151775128,

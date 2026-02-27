@@ -6,7 +6,161 @@
         1107654575,
         null,
         "28 WU TIP SHAN VILLAGE",
-        []
+        [
+          [
+            "DD51 3311",
+            "Old Schedule Lot",
+            "C3263700",
+            [
+              [
+                "N140101",
+                "1959-10-03",
+                "CONVEYANCE ON SALE",
+                "2500.0"
+              ],
+              [
+                "N141965",
+                "1960-07-20",
+                "MORTGAGE",
+                "3500.0"
+              ],
+              [
+                "N145612",
+                "1961-11-01",
+                "RECEIPT ON REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "N145613",
+                "1961-11-08",
+                "-",
+                "6098.0"
+              ],
+              [
+                "N504685",
+                "2000-10-09",
+                "PROBATE",
+                null
+              ],
+              [
+                "N506866",
+                "2001-03-10",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD51 3312",
+            "Old Schedule Lot",
+            "C5326273",
+            [
+              [
+                "N140101",
+                "1959-10-03",
+                "CONVEYANCE ON SALE",
+                "2500.0"
+              ],
+              [
+                "N141965",
+                "1960-07-20",
+                "MORTGAGE",
+                "3500.0"
+              ],
+              [
+                "N145612",
+                "1961-11-01",
+                "RECEIPT ON REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "N145613",
+                "1961-11-08",
+                "-",
+                "6098.0"
+              ],
+              [
+                "N504685",
+                "2000-10-09",
+                "PROBATE",
+                null
+              ],
+              [
+                "N506866",
+                "2001-03-10",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD51 3313",
+            "Old Schedule Lot",
+            "C5057841",
+            [
+              [
+                "N34825",
+                "1916-12-29",
+                "-",
+                null
+              ],
+              [
+                "N127635",
+                "1951-07-13",
+                "-",
+                null
+              ],
+              [
+                "N146599",
+                "1962-02-22",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N158304",
+                "1966-08-29",
+                "-",
+                null
+              ],
+              [
+                "N172934",
+                "1972-12-09",
+                "-",
+                null
+              ],
+              [
+                "N176617",
+                "1973-12-10",
+                "-",
+                null
+              ],
+              [
+                "N212536",
+                "1984-05-22",
+                "-",
+                null
+              ],
+              [
+                "N219719",
+                "1985-11-14",
+                "DECLARATION",
+                null
+              ],
+              [
+                "N520950",
+                "2001-05-22",
+                "NOTICE OF RETIREMENT & APPOINTMENT OF MANAGER OF PANG KAI PIK TSO",
+                null
+              ],
+              [
+                "N520951",
+                "2001-11-09",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992081472291486,
@@ -82,7 +236,52 @@
         1107654680,
         null,
         null,
-        []
+        [
+          [
+            "DD51 3315 RP",
+            "Old Schedule Lot",
+            "C3263726",
+            [
+              [
+                "N177974",
+                "1974-06-11",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD51 3317 RP",
+            "Old Schedule Lot",
+            "C3263738",
+            [
+              [
+                "N181513",
+                "1975-10-17",
+                "-",
+                null
+              ],
+              [
+                "N228906",
+                "1988-10-31",
+                "-",
+                null
+              ],
+              [
+                "N229095",
+                "1988-12-12",
+                "DECLARATION OF HUI KAM WING, DANNY ALIAS HUI KAM WING",
+                null
+              ],
+              [
+                "N233120",
+                "1989-10-18",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920782654609612,
@@ -101,7 +300,21 @@
         1107654681,
         null,
         null,
-        []
+        [
+          [
+            "DD51 3315 RP",
+            "Old Schedule Lot",
+            "C3263726",
+            [
+              [
+                "N177974",
+                "1974-06-11",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920798314073842,
@@ -139,7 +352,95 @@
         1107654728,
         null,
         "29 WU TIP SHAN VILLAGE",
-        []
+        [
+          [
+            "DD51 3314",
+            "Old Schedule Lot",
+            "C5408829",
+            [
+              [
+                "N140101",
+                "1959-10-03",
+                "CONVEYANCE ON SALE",
+                "2500.0"
+              ],
+              [
+                "N141965",
+                "1960-07-20",
+                "MORTGAGE",
+                "3500.0"
+              ],
+              [
+                "N145612",
+                "1961-11-01",
+                "RECEIPT ON REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "N157937",
+                "1966-06-10",
+                "-",
+                "3332.34"
+              ],
+              [
+                "N177973",
+                "1974-05-18",
+                "-",
+                null
+              ],
+              [
+                "N177974",
+                "1974-06-11",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD51 3315 RP",
+            "Old Schedule Lot",
+            "C3263726",
+            [
+              [
+                "N177974",
+                "1974-06-11",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD51 3317 RP",
+            "Old Schedule Lot",
+            "C3263738",
+            [
+              [
+                "N181513",
+                "1975-10-17",
+                "-",
+                null
+              ],
+              [
+                "N228906",
+                "1988-10-31",
+                "-",
+                null
+              ],
+              [
+                "N229095",
+                "1988-12-12",
+                "DECLARATION OF HUI KAM WING, DANNY ALIAS HUI KAM WING",
+                null
+              ],
+              [
+                "N233120",
+                "1989-10-18",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920804548634983,
@@ -158,7 +459,75 @@
         1107654733,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2282",
+            "Old Schedule Lot",
+            "C3537129",
+            [
+              [
+                "N147748",
+                "1962-07-24",
+                "-",
+                null
+              ],
+              [
+                "N160800",
+                "1967-09-16",
+                "-",
+                null
+              ],
+              [
+                "N165920",
+                "1970-08-24",
+                "-",
+                null
+              ],
+              [
+                "N180640",
+                "1975-06-23",
+                "-",
+                null
+              ],
+              [
+                "N251858",
+                "1991-04-03",
+                "VESTING DEED",
+                null
+              ],
+              [
+                "N313594",
+                "1994-02-16",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "N318577",
+                "1994-08-02",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "N336477",
+                "1995-07-24",
+                "STATUTORY DECLARATION OF MAN YUK WAN",
+                null
+              ],
+              [
+                "12070400280013",
+                "2012-04-23",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12081400520242",
+                "2012-07-31",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918055594506632,
@@ -196,7 +565,87 @@
         1107654777,
         null,
         "52 ON PO",
-        []
+        [
+          [
+            "DD91 3265 S.A",
+            "Old Schedule Lot",
+            "C5249953",
+            [
+              [
+                "N139439",
+                "1959-05-05",
+                "-",
+                null
+              ],
+              [
+                "N140234",
+                "1959-11-05",
+                "DIVISION OF PROPERTY WITH PLAN",
+                null
+              ],
+              [
+                "N149957",
+                "1963-05-22",
+                "CONVEYANCE ON SALE",
+                null
+              ],
+              [
+                "N343840",
+                "1993-12-20",
+                "DEATH CERTIFICATE OF WONG SZE \"THE DECEASED\"",
+                null
+              ],
+              [
+                "N337023",
+                "1995-05-19",
+                "-",
+                null
+              ],
+              [
+                "N366160",
+                "1996-06-19",
+                "-",
+                null
+              ],
+              [
+                "N366159",
+                "1996-06-19",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "N547980",
+                "2003-06-07",
+                "ASSIGNMENT",
+                "670000.0"
+              ],
+              [
+                "N569457",
+                "2004-09-18",
+                "ASSIGNMENT",
+                "2250000.0"
+              ],
+              [
+                "16020502810030",
+                "2016-02-03",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION  23(1) OF THE TOWN PLANNING ORDINANCE *",
+                null
+              ],
+              [
+                "16091901470088",
+                "2016-09-15",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 46(A) OF THE INTERPRETATION AND *",
+                null
+              ],
+              [
+                "19121000810089",
+                "2019-10-09",
+                "WARNING LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917334044235155,
@@ -234,7 +683,81 @@
         1107654804,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2053",
+            "Old Schedule Lot",
+            "C5661800",
+            [
+              [
+                "N21385",
+                "1912-07-27",
+                "-",
+                null
+              ],
+              [
+                "N37041",
+                "1917-12-12",
+                "LEASE FOR THE TERM OF 1 YEAR FROM 1.10.1917",
+                null
+              ],
+              [
+                "N40303",
+                "1918-10-15",
+                "LEASE FOR THE TERM OF 1 YEAR 1.10.1918",
+                null
+              ],
+              [
+                "N87953",
+                "1933-11-17",
+                "-",
+                null
+              ],
+              [
+                "N131679",
+                "1954-05-20",
+                "REMOVAL OF MANAGERSHIP LIU KWAI LUK (DECEASED)",
+                null
+              ],
+              [
+                "N135526",
+                "1956-11-02",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N139222",
+                "1959-03-03",
+                "-",
+                null
+              ],
+              [
+                "N505203",
+                "1994-12-01",
+                "DEATH AND APPOINTMENT OF MANAGER OF LIU PING SHAN TSO",
+                null
+              ],
+              [
+                "N379659",
+                "1996-11-21",
+                "STATUTORY DECLARATION BY LEE SING AS TO ALIAS AND LOSS OF TITLE DEEDS",
+                null
+              ],
+              [
+                "N426429",
+                "1998-09-16",
+                "MEMO AS TO ERROR IN RESPECT OF M/N  135526",
+                null
+              ],
+              [
+                "N505204",
+                "2001-02-02",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF LIU PING SHAN TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918320685616335,
@@ -253,7 +776,69 @@
         1107654809,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2051",
+            "Old Schedule Lot",
+            "C6329014",
+            [
+              [
+                "N37039",
+                "1917-12-12",
+                "LEASE",
+                null
+              ],
+              [
+                "N40305",
+                "1918-10-15",
+                "LEASE FOR 1 YEAR FROM 1/10/1918",
+                null
+              ],
+              [
+                "N41786",
+                "1919-03-21",
+                "MORTGAGE",
+                "50.0"
+              ],
+              [
+                "N85137",
+                "1933-01-17",
+                "MORTGAGE",
+                "60.0"
+              ],
+              [
+                "N85135",
+                "1933-01-17",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N85136",
+                "1933-01-17",
+                "-",
+                "55.0"
+              ],
+              [
+                "N115279",
+                "1946-12-11",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N180639",
+                "1975-06-23",
+                "-",
+                null
+              ],
+              [
+                "13102300200072",
+                "2013-10-10",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918355726997299,
@@ -272,7 +857,111 @@
         1107654828,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2234",
+            "Old Schedule Lot",
+            "C5332979",
+            [
+              [
+                "N116834",
+                "1947-04-30",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "N156621",
+                "1965-11-01",
+                "-",
+                null
+              ],
+              [
+                "N164490",
+                "1969-12-15",
+                "-",
+                null
+              ],
+              [
+                "N194681",
+                "1978-07-03",
+                "STATUTORY DECLARATION OF LIU TIM LAN",
+                null
+              ],
+              [
+                "N192756",
+                "1978-12-21",
+                "-",
+                null
+              ],
+              [
+                "N328713",
+                "1993-03-25",
+                "NOTICE OF DEATH OF MANAGER OF HAU SUN MAU TONG",
+                null
+              ],
+              [
+                "N328714",
+                "1993-09-14",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N414730",
+                "1997-04-10",
+                "DEATH AND APPOINTMENT OF MANAGER OF HAU SUN MAU TONG",
+                null
+              ],
+              [
+                "N414731",
+                "1998-03-13",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N415300",
+                "1998-04-28",
+                "STATUTORY DECLARATION OF HAU POON SEK ALIAS HAU PUN SHEK",
+                null
+              ],
+              [
+                "10090301890219",
+                "2010-06-03",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "10090301890209",
+                "2010-07-29",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "16071402400095",
+                "2015-11-25",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "16071402400105",
+                "2016-05-24",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "25032100300025",
+                "2025-03-03",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "25052000500043",
+                "2025-05-09",
+                "MEMO AS TO ERROR IN RESPECT OF MEM. NO. 25032100300025",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917612510688167,
@@ -367,7 +1056,70 @@
         1107654860,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2046 S.E",
+            "Old Schedule Lot",
+            "D3274168",
+            [
+              [
+                "15121001730082",
+                "2015-11-13",
+                "ASSIGNMENT",
+                "2104040.0"
+              ],
+              [
+                "16022600080012",
+                "2016-02-04",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "18121701020015",
+                "2018-10-23",
+                "WARNING LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD91 2046 S.F",
+            "Old Schedule Lot",
+            "D3274179",
+            [
+              [
+                "15121001730082",
+                "2015-11-13",
+                "ASSIGNMENT",
+                "2104040.0"
+              ],
+              [
+                "16022600080012",
+                "2016-02-04",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "17061500470033",
+                "2017-05-29",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2300000.0"
+              ],
+              [
+                "17072800250233",
+                "2017-06-29",
+                "ASSIGNMENT",
+                "2300000.0"
+              ],
+              [
+                "18041901280012",
+                "2018-01-22",
+                "WARNING LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918426024738125,
@@ -386,7 +1138,45 @@
         1107654889,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2046 S.F",
+            "Old Schedule Lot",
+            "D3274179",
+            [
+              [
+                "15121001730082",
+                "2015-11-13",
+                "ASSIGNMENT",
+                "2104040.0"
+              ],
+              [
+                "16022600080012",
+                "2016-02-04",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "17061500470033",
+                "2017-05-29",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2300000.0"
+              ],
+              [
+                "17072800250233",
+                "2017-06-29",
+                "ASSIGNMENT",
+                "2300000.0"
+              ],
+              [
+                "18041901280012",
+                "2018-01-22",
+                "WARNING LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99184259588172,
@@ -405,7 +1195,137 @@
         1107654932,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2056 S.N",
+            "Old Schedule Lot",
+            "D3274051",
+            [
+              [
+                "08112600820011",
+                "2008-10-10",
+                "ORDER NO. CWP/S1/99563/08/NT BY THE BUILDING AUTHORITY UNDER S.24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15121001730092",
+                "2015-11-13",
+                "ASSIGNMENT",
+                "7313770.0"
+              ],
+              [
+                "16022600080038",
+                "2016-02-04",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "16062001770026",
+                "2016-05-18",
+                "Please refer to the NatureDescriptionCHN Field.",
+                "378783.0"
+              ],
+              [
+                "16112800040012",
+                "2016-11-08",
+                "ASSIGNMENT",
+                "378783.0"
+              ]
+            ]
+          ],
+          [
+            "DD91 2056 S.O",
+            "Old Schedule Lot",
+            "D3274063",
+            [
+              [
+                "08112600820011",
+                "2008-10-10",
+                "ORDER NO. CWP/S1/99563/08/NT BY THE BUILDING AUTHORITY UNDER S.24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15121001730092",
+                "2015-11-13",
+                "ASSIGNMENT",
+                "7313770.0"
+              ],
+              [
+                "16022600080038",
+                "2016-02-04",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "16051700020036",
+                "2016-04-18",
+                "Please refer to the NatureDescriptionCHN Field.",
+                "500000.0"
+              ],
+              [
+                "16062001770057",
+                "2016-05-31",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "18052402320024",
+                "2018-05-02",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1418000.0"
+              ],
+              [
+                "18061901620012",
+                "2018-05-25",
+                "ASSIGNMENT",
+                "1418000.0"
+              ]
+            ]
+          ],
+          [
+            "DD91 2056 S.P",
+            "Old Schedule Lot",
+            "D3274070",
+            [
+              [
+                "08112600820011",
+                "2008-10-10",
+                "ORDER NO. CWP/S1/99563/08/NT BY THE BUILDING AUTHORITY UNDER S.24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15121001730092",
+                "2015-11-13",
+                "ASSIGNMENT",
+                "7313770.0"
+              ],
+              [
+                "16022600080038",
+                "2016-02-04",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "16051001810014",
+                "2016-04-12",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "1280655.0"
+              ],
+              [
+                "16080901920015",
+                "2016-07-29",
+                "ASSIGNMENT",
+                "1280655.0"
+              ],
+              [
+                "19020800930017",
+                "2018-12-18",
+                "WARNING LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991837322803678,
@@ -424,7 +1344,27 @@
         1107654940,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2055 RP",
+            "Old Schedule Lot",
+            "D0846301",
+            [
+              [
+                "N286115",
+                "1993-05-19",
+                "-",
+                "400000.0"
+              ],
+              [
+                "08071101000847",
+                "2008-06-06",
+                "ORDER NO. CWP/S1/98928/08/NT BY THE BUILDING AUTHORITY UNDER S.24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99183141209225,
@@ -443,7 +1383,57 @@
         1107654955,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2260 S.C RP",
+            "Old Schedule Lot",
+            "D3102762",
+            [
+              [
+                "N251858",
+                "1991-04-03",
+                "VESTING DEED",
+                null
+              ],
+              [
+                "N313594",
+                "1994-02-16",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "N318577",
+                "1994-08-02",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "N336477",
+                "1995-07-24",
+                "STATUTORY DECLARATION OF MAN YUK WAN",
+                null
+              ],
+              [
+                "12070400280013",
+                "2012-04-23",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12081400520242",
+                "2012-07-31",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "13112002100021",
+                "2013-10-30",
+                "ASSIGNMENT",
+                "2000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918007610085715,
@@ -462,7 +1452,70 @@
         1107654964,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2056 S.I",
+            "Old Schedule Lot",
+            "D3274008",
+            [
+              [
+                "08112600820011",
+                "2008-10-10",
+                "ORDER NO. CWP/S1/99563/08/NT BY THE BUILDING AUTHORITY UNDER S.24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15121001730092",
+                "2015-11-13",
+                "ASSIGNMENT",
+                "7313770.0"
+              ],
+              [
+                "16022600080038",
+                "2016-02-04",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "19042301200038",
+                "2019-04-02",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1200000.0"
+              ],
+              [
+                "19093001390029",
+                "2019-09-20",
+                "ASSIGNMENT",
+                "1200000.0"
+              ]
+            ]
+          ],
+          [
+            "DD91 2056 S.M",
+            "Old Schedule Lot",
+            "D3274046",
+            [
+              [
+                "08112600820011",
+                "2008-10-10",
+                "ORDER NO. CWP/S1/99563/08/NT BY THE BUILDING AUTHORITY UNDER S.24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15121001730092",
+                "2015-11-13",
+                "ASSIGNMENT",
+                "7313770.0"
+              ],
+              [
+                "16022600080038",
+                "2016-02-04",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991837807254718,
@@ -481,7 +1534,45 @@
         1107654969,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2056 S.F",
+            "Old Schedule Lot",
+            "D3273972",
+            [
+              [
+                "08112600820011",
+                "2008-10-10",
+                "ORDER NO. CWP/S1/99563/08/NT BY THE BUILDING AUTHORITY UNDER S.24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15121001730092",
+                "2015-11-13",
+                "ASSIGNMENT",
+                "7313770.0"
+              ],
+              [
+                "16022600080038",
+                "2016-02-04",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "20011301280016",
+                "2019-12-17",
+                "Please refer to the NatureDescriptionCHN Field.",
+                "1948000.0"
+              ],
+              [
+                "20040201360012",
+                "2020-03-23",
+                "ASSIGNMENT",
+                "1948000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918371894541003,
@@ -500,7 +1591,45 @@
         1107654972,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2258",
+            "Old Schedule Lot",
+            "C3536954",
+            [
+              [
+                "N147748",
+                "1962-07-24",
+                "-",
+                null
+              ],
+              [
+                "N160800",
+                "1967-09-16",
+                "-",
+                null
+              ],
+              [
+                "N160801",
+                "1967-09-16",
+                "-",
+                "3500.0"
+              ],
+              [
+                "N200173",
+                "1980-11-29",
+                "-",
+                null
+              ],
+              [
+                "N309460",
+                "1994-03-29",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991793595312053,
@@ -519,7 +1648,51 @@
         1107654974,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2056 S.A",
+            "Old Schedule Lot",
+            "D3273922",
+            [
+              [
+                "08112600820011",
+                "2008-10-10",
+                "ORDER NO. CWP/S1/99563/08/NT BY THE BUILDING AUTHORITY UNDER S.24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15121001730092",
+                "2015-11-13",
+                "ASSIGNMENT",
+                "7313770.0"
+              ],
+              [
+                "16022600080038",
+                "2016-02-04",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "17060100990175",
+                "2017-05-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                "3550408.0"
+              ],
+              [
+                "18030602480114",
+                "2017-11-29",
+                "WARNING LETTER WITH PLAN",
+                null
+              ],
+              [
+                "20040201360020",
+                "2020-03-23",
+                "ASSIGNMENT",
+                "3550408.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918344305670515,
@@ -538,7 +1711,51 @@
         1107654978,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2056 S.A",
+            "Old Schedule Lot",
+            "D3273922",
+            [
+              [
+                "08112600820011",
+                "2008-10-10",
+                "ORDER NO. CWP/S1/99563/08/NT BY THE BUILDING AUTHORITY UNDER S.24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15121001730092",
+                "2015-11-13",
+                "ASSIGNMENT",
+                "7313770.0"
+              ],
+              [
+                "16022600080038",
+                "2016-02-04",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "17060100990175",
+                "2017-05-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                "3550408.0"
+              ],
+              [
+                "18030602480114",
+                "2017-11-29",
+                "WARNING LETTER WITH PLAN",
+                null
+              ],
+              [
+                "20040201360020",
+                "2020-03-23",
+                "ASSIGNMENT",
+                "3550408.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918333505392007,
@@ -557,7 +1774,45 @@
         1107654983,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2258",
+            "Old Schedule Lot",
+            "C3536954",
+            [
+              [
+                "N147748",
+                "1962-07-24",
+                "-",
+                null
+              ],
+              [
+                "N160800",
+                "1967-09-16",
+                "-",
+                null
+              ],
+              [
+                "N160801",
+                "1967-09-16",
+                "-",
+                "3500.0"
+              ],
+              [
+                "N200173",
+                "1980-11-29",
+                "-",
+                null
+              ],
+              [
+                "N309460",
+                "1994-03-29",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917945206192587,
@@ -576,7 +1831,45 @@
         1107655046,
         null,
         null,
-        []
+        [
+          [
+            "DD91 3488",
+            "New Grant Lot",
+            "C6329659",
+            [
+              [
+                "N276704",
+                "1992-06-18",
+                "-",
+                null
+              ],
+              [
+                "N301343",
+                "1993-11-22",
+                "SEALED COPY OF SUMMON (H.C.NO.A10631/93)",
+                null
+              ],
+              [
+                "N363859",
+                "1996-03-26",
+                "CONSENT ORDER: H.C. ACTION NO. A10631 OF 1993",
+                null
+              ],
+              [
+                "N363860",
+                "1996-03-26",
+                "CONSENT ORDER: H.C. ACTION NO. A239 OF 1994",
+                null
+              ],
+              [
+                "N526742",
+                "2002-03-09",
+                "DEED OF RENUNCIATION AND ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991827194470825,
@@ -595,7 +1888,45 @@
         1107655069,
         null,
         null,
-        []
+        [
+          [
+            "DD91 3488",
+            "New Grant Lot",
+            "C6329659",
+            [
+              [
+                "N276704",
+                "1992-06-18",
+                "-",
+                null
+              ],
+              [
+                "N301343",
+                "1993-11-22",
+                "SEALED COPY OF SUMMON (H.C.NO.A10631/93)",
+                null
+              ],
+              [
+                "N363859",
+                "1996-03-26",
+                "CONSENT ORDER: H.C. ACTION NO. A10631 OF 1993",
+                null
+              ],
+              [
+                "N363860",
+                "1996-03-26",
+                "CONSENT ORDER: H.C. ACTION NO. A239 OF 1994",
+                null
+              ],
+              [
+                "N526742",
+                "2002-03-09",
+                "DEED OF RENUNCIATION AND ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991827114606991,
@@ -614,7 +1945,45 @@
         1107655096,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2061",
+            "Old Schedule Lot",
+            "C3535956",
+            [
+              [
+                "N276704",
+                "1992-06-18",
+                "-",
+                null
+              ],
+              [
+                "N301343",
+                "1993-11-22",
+                "SEALED COPY OF SUMMON (H.C.NO.A10631/93)",
+                null
+              ],
+              [
+                "N363860",
+                "1996-03-26",
+                "CONSENT ORDER: H.C. ACTION NO. A239 OF 1994",
+                null
+              ],
+              [
+                "N363859",
+                "1996-03-26",
+                "CONSENT ORDER: H.C. ACTION NO. A10631 OF 1993",
+                null
+              ],
+              [
+                "N526742",
+                "2002-03-09",
+                "DEED OF RENUNCIATION AND ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918312394992748,
@@ -633,7 +2002,99 @@
         1107655111,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2256 RP",
+            "Old Schedule Lot",
+            "C3536923",
+            [
+              [
+                "N47194",
+                "1920-12-28",
+                "-",
+                null
+              ],
+              [
+                "N189081",
+                "1978-03-14",
+                "-",
+                null
+              ],
+              [
+                "N189522",
+                "1978-04-19",
+                "STATUTORY DECLARATION OF HAU PUN SHEK ALSO KNOWN AS HAU POON SEK",
+                null
+              ],
+              [
+                "N209773",
+                "1983-07-13",
+                "MORTGAGE",
+                "50000.0"
+              ],
+              [
+                "N257702",
+                "1991-06-11",
+                "RELEASE",
+                null
+              ],
+              [
+                "N409403",
+                "1997-02-24",
+                "STATUTORY DECLARATION OF HAU POON SEK ALIAS HAU PUN SHEK",
+                null
+              ],
+              [
+                "N518163",
+                "2001-10-08",
+                "LEGAL CHARGE",
+                "200000.0"
+              ],
+              [
+                "N548238",
+                "2003-05-29",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "N548239",
+                "2003-05-29",
+                "LEGAL CHARGE",
+                "300098.0"
+              ],
+              [
+                "N564228",
+                "2004-06-07",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "N564229",
+                "2004-06-07",
+                "ASSIGNMENT",
+                "350000.0"
+              ],
+              [
+                "N564823",
+                "2004-06-29",
+                "SEALED COPY CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "05101500200012",
+                "2005-10-06",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "460000.0"
+              ],
+              [
+                "05112500080026",
+                "2005-11-07",
+                "ASSIGNMENT",
+                "460000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991796068498059,
@@ -652,7 +2113,45 @@
         1107655114,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2061",
+            "Old Schedule Lot",
+            "C3535956",
+            [
+              [
+                "N276704",
+                "1992-06-18",
+                "-",
+                null
+              ],
+              [
+                "N301343",
+                "1993-11-22",
+                "SEALED COPY OF SUMMON (H.C.NO.A10631/93)",
+                null
+              ],
+              [
+                "N363860",
+                "1996-03-26",
+                "CONSENT ORDER: H.C. ACTION NO. A239 OF 1994",
+                null
+              ],
+              [
+                "N363859",
+                "1996-03-26",
+                "CONSENT ORDER: H.C. ACTION NO. A10631 OF 1993",
+                null
+              ],
+              [
+                "N526742",
+                "2002-03-09",
+                "DEED OF RENUNCIATION AND ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918306013445708,
@@ -671,7 +2170,45 @@
         1107655127,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2061",
+            "Old Schedule Lot",
+            "C3535956",
+            [
+              [
+                "N276704",
+                "1992-06-18",
+                "-",
+                null
+              ],
+              [
+                "N301343",
+                "1993-11-22",
+                "SEALED COPY OF SUMMON (H.C.NO.A10631/93)",
+                null
+              ],
+              [
+                "N363860",
+                "1996-03-26",
+                "CONSENT ORDER: H.C. ACTION NO. A239 OF 1994",
+                null
+              ],
+              [
+                "N363859",
+                "1996-03-26",
+                "CONSENT ORDER: H.C. ACTION NO. A10631 OF 1993",
+                null
+              ],
+              [
+                "N526742",
+                "2002-03-09",
+                "DEED OF RENUNCIATION AND ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918299911219066,
@@ -690,7 +2227,45 @@
         1107655161,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2255",
+            "Old Schedule Lot",
+            "C5898060",
+            [
+              [
+                "N162807",
+                "1968-12-27",
+                "-",
+                "4500.0"
+              ],
+              [
+                "N543976",
+                "2003-02-08",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "N543975",
+                "2003-02-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ],
+              [
+                "23100600360015",
+                "2023-06-26",
+                "PROBATE",
+                null
+              ],
+              [
+                "23101600670047",
+                "2023-09-18",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917896007955107,
@@ -709,7 +2284,45 @@
         1107655197,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2255",
+            "Old Schedule Lot",
+            "C5898060",
+            [
+              [
+                "N162807",
+                "1968-12-27",
+                "-",
+                "4500.0"
+              ],
+              [
+                "N543976",
+                "2003-02-08",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "N543975",
+                "2003-02-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ],
+              [
+                "23100600360015",
+                "2023-06-26",
+                "PROBATE",
+                null
+              ],
+              [
+                "23101600670047",
+                "2023-09-18",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917937355374733,
@@ -728,7 +2341,45 @@
         1107655201,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2255",
+            "Old Schedule Lot",
+            "C5898060",
+            [
+              [
+                "N162807",
+                "1968-12-27",
+                "-",
+                "4500.0"
+              ],
+              [
+                "N543976",
+                "2003-02-08",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "N543975",
+                "2003-02-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ],
+              [
+                "23100600360015",
+                "2023-06-26",
+                "PROBATE",
+                null
+              ],
+              [
+                "23101600670047",
+                "2023-09-18",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917930808698887,
@@ -747,7 +2398,45 @@
         1107655204,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2255",
+            "Old Schedule Lot",
+            "C5898060",
+            [
+              [
+                "N162807",
+                "1968-12-27",
+                "-",
+                "4500.0"
+              ],
+              [
+                "N543976",
+                "2003-02-08",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "N543975",
+                "2003-02-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ],
+              [
+                "23100600360015",
+                "2023-06-26",
+                "PROBATE",
+                null
+              ],
+              [
+                "23101600670047",
+                "2023-09-18",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991792161830705,
@@ -785,7 +2474,142 @@
         1107655276,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2155",
+            "Old Schedule Lot",
+            "C3536489",
+            [
+              [
+                "N147748",
+                "1962-07-24",
+                "-",
+                null
+              ],
+              [
+                "N160800",
+                "1967-09-16",
+                "-",
+                null
+              ],
+              [
+                "N165920",
+                "1970-08-24",
+                "-",
+                null
+              ],
+              [
+                "N180640",
+                "1975-06-23",
+                "-",
+                null
+              ],
+              [
+                "N251858",
+                "1991-04-03",
+                "VESTING DEED",
+                null
+              ],
+              [
+                "N313594",
+                "1994-02-16",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "N318577",
+                "1994-08-02",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "N336477",
+                "1995-07-24",
+                "STATUTORY DECLARATION OF MAN YUK WAN",
+                null
+              ],
+              [
+                "12070400280013",
+                "2012-04-23",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12081400520242",
+                "2012-07-31",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD91 2157",
+            "Old Schedule Lot",
+            "C5091534",
+            [
+              [
+                "N147748",
+                "1962-07-24",
+                "-",
+                null
+              ],
+              [
+                "N160800",
+                "1967-09-16",
+                "-",
+                null
+              ],
+              [
+                "N165920",
+                "1970-08-24",
+                "-",
+                null
+              ],
+              [
+                "N180640",
+                "1975-06-23",
+                "-",
+                null
+              ],
+              [
+                "N251858",
+                "1991-04-03",
+                "VESTING DEED",
+                null
+              ],
+              [
+                "N313594",
+                "1994-02-16",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "N318577",
+                "1994-08-02",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "N336477",
+                "1995-07-24",
+                "STATUTORY DECLARATION OF MAN YUK WAN",
+                null
+              ],
+              [
+                "12070400280013",
+                "2012-04-23",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12081400520242",
+                "2012-07-31",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917879786662467,
@@ -804,7 +2628,75 @@
         1107655290,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2155",
+            "Old Schedule Lot",
+            "C3536489",
+            [
+              [
+                "N147748",
+                "1962-07-24",
+                "-",
+                null
+              ],
+              [
+                "N160800",
+                "1967-09-16",
+                "-",
+                null
+              ],
+              [
+                "N165920",
+                "1970-08-24",
+                "-",
+                null
+              ],
+              [
+                "N180640",
+                "1975-06-23",
+                "-",
+                null
+              ],
+              [
+                "N251858",
+                "1991-04-03",
+                "VESTING DEED",
+                null
+              ],
+              [
+                "N313594",
+                "1994-02-16",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "N318577",
+                "1994-08-02",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "N336477",
+                "1995-07-24",
+                "STATUTORY DECLARATION OF MAN YUK WAN",
+                null
+              ],
+              [
+                "12070400280013",
+                "2012-04-23",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12081400520242",
+                "2012-07-31",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991788689545232,
@@ -861,7 +2753,33 @@
         1107655471,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2069",
+            "Old Schedule Lot",
+            "C5661813",
+            [
+              [
+                "N132851",
+                "1955-02-14",
+                "-",
+                "1800.0"
+              ],
+              [
+                "N183603",
+                "1976-08-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N219687",
+                "1985-11-12",
+                "APPOINTMENMT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991819702249643,
@@ -880,7 +2798,33 @@
         1107655492,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2069",
+            "Old Schedule Lot",
+            "C5661813",
+            [
+              [
+                "N132851",
+                "1955-02-14",
+                "-",
+                "1800.0"
+              ],
+              [
+                "N183603",
+                "1976-08-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N219687",
+                "1985-11-12",
+                "APPOINTMENMT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918187764972588,
@@ -918,7 +2862,33 @@
         1107655540,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2069",
+            "Old Schedule Lot",
+            "C5661813",
+            [
+              [
+                "N132851",
+                "1955-02-14",
+                "-",
+                "1800.0"
+              ],
+              [
+                "N183603",
+                "1976-08-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N219687",
+                "1985-11-12",
+                "APPOINTMENMT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918177157424934,
@@ -937,7 +2907,63 @@
         1107655700,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2151",
+            "Old Schedule Lot",
+            "C5091525",
+            [
+              [
+                "N133809",
+                "1955-09-27",
+                "CONVEYANCE ON SALE",
+                "5000.0"
+              ],
+              [
+                "N154496",
+                "1964-10-29",
+                "PROBATE",
+                null
+              ],
+              [
+                "N164205",
+                "1969-11-11",
+                "CONVEYANCE ON SALE",
+                "31000.0"
+              ],
+              [
+                "N176705",
+                "1973-12-20",
+                "-",
+                null
+              ],
+              [
+                "N226180",
+                "1988-01-19",
+                "-",
+                null
+              ],
+              [
+                "N373281",
+                "1996-08-21",
+                "ASSENT",
+                null
+              ],
+              [
+                "N529006",
+                "2002-02-04",
+                "PROBATE",
+                null
+              ],
+              [
+                "10061502160027",
+                "2010-05-18",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "4300000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991782514628705,
@@ -956,7 +2982,63 @@
         1107655739,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2151",
+            "Old Schedule Lot",
+            "C5091525",
+            [
+              [
+                "N133809",
+                "1955-09-27",
+                "CONVEYANCE ON SALE",
+                "5000.0"
+              ],
+              [
+                "N154496",
+                "1964-10-29",
+                "PROBATE",
+                null
+              ],
+              [
+                "N164205",
+                "1969-11-11",
+                "CONVEYANCE ON SALE",
+                "31000.0"
+              ],
+              [
+                "N176705",
+                "1973-12-20",
+                "-",
+                null
+              ],
+              [
+                "N226180",
+                "1988-01-19",
+                "-",
+                null
+              ],
+              [
+                "N373281",
+                "1996-08-21",
+                "ASSENT",
+                null
+              ],
+              [
+                "N529006",
+                "2002-02-04",
+                "PROBATE",
+                null
+              ],
+              [
+                "10061502160027",
+                "2010-05-18",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "4300000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991782736640108,
@@ -994,7 +3076,75 @@
         1107655965,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2164",
+            "Old Schedule Lot",
+            "C5091547",
+            [
+              [
+                "N71848",
+                "1929-01-09",
+                "-",
+                null
+              ],
+              [
+                "N124706",
+                "1949-09-05",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N139439",
+                "1959-05-05",
+                "-",
+                null
+              ],
+              [
+                "N140234",
+                "1959-11-05",
+                "DIVISION OF PROPERTY WITH PLAN",
+                null
+              ],
+              [
+                "N183452",
+                "1976-07-20",
+                "-",
+                null
+              ],
+              [
+                "N264474",
+                "1991-10-30",
+                "-",
+                null
+              ],
+              [
+                "N264476",
+                "1991-10-30",
+                "-",
+                "1066348.0"
+              ],
+              [
+                "21030301620132",
+                "2021-02-08",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "19800000.0"
+              ],
+              [
+                "21031902320121",
+                "2021-02-25",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "19800000.0"
+              ],
+              [
+                "21051101930072",
+                "2021-04-28",
+                "ASSIGNMENT",
+                "19800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917520445238515,
@@ -1032,7 +3182,21 @@
         1107656120,
         "CHEONG SIU HOUSE",
         "20 WAH MING ROAD",
-        []
+        [
+          [
+            "FSSTL 191",
+            "New Grant Lot",
+            "C4286366",
+            [
+              [
+                "N472572",
+                "2000-03-20",
+                "COMPLETION CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920884827719874,
@@ -1051,7 +3215,75 @@
         1107656122,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2164",
+            "Old Schedule Lot",
+            "C5091547",
+            [
+              [
+                "N71848",
+                "1929-01-09",
+                "-",
+                null
+              ],
+              [
+                "N124706",
+                "1949-09-05",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N139439",
+                "1959-05-05",
+                "-",
+                null
+              ],
+              [
+                "N140234",
+                "1959-11-05",
+                "DIVISION OF PROPERTY WITH PLAN",
+                null
+              ],
+              [
+                "N183452",
+                "1976-07-20",
+                "-",
+                null
+              ],
+              [
+                "N264474",
+                "1991-10-30",
+                "-",
+                null
+              ],
+              [
+                "N264476",
+                "1991-10-30",
+                "-",
+                "1066348.0"
+              ],
+              [
+                "21030301620132",
+                "2021-02-08",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "19800000.0"
+              ],
+              [
+                "21031902320121",
+                "2021-02-25",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "19800000.0"
+              ],
+              [
+                "21051101930072",
+                "2021-04-28",
+                "ASSIGNMENT",
+                "19800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991752427875505,
@@ -1089,7 +3321,21 @@
         1107656177,
         "CHEONG CHING HOUSE",
         "20 WAH MING ROAD",
-        []
+        [
+          [
+            "FSSTL 191",
+            "New Grant Lot",
+            "C4286366",
+            [
+              [
+                "N472572",
+                "2000-03-20",
+                "COMPLETION CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920817198421046,
@@ -1241,7 +3487,14 @@
         1107656463,
         "YUNG WUI HOUSE",
         "22 WAH MING ROAD",
-        []
+        [
+          [
+            "FSSTL 207",
+            "New Grant Lot",
+            "C4286412",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992082836781922,
@@ -1260,7 +3513,14 @@
         1107656480,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2166 S.B&GL",
+            "Old Schedule Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9917573774456845,
@@ -1355,7 +3615,93 @@
         1107656530,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2165 S.B RP",
+            "Old Schedule Lot",
+            "C3536531",
+            [
+              [
+                "N172310",
+                "1972-10-10",
+                "-",
+                null
+              ],
+              [
+                "N561955",
+                "2004-05-07",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "14110602270032",
+                "2014-09-05",
+                "PROBATE",
+                null
+              ],
+              [
+                "15012901330077",
+                "2014-12-30",
+                "ASSENT",
+                null
+              ],
+              [
+                "15021800460032",
+                "2015-01-27",
+                "Please refer to the NatureDescriptionCHN Field.",
+                "12380000.0"
+              ],
+              [
+                "15042900360032",
+                "2015-04-08",
+                "ASSIGNMENT",
+                "12380000.0"
+              ],
+              [
+                "17062102650109",
+                "2016-11-14",
+                "WARNING LETTER",
+                null
+              ],
+              [
+                "16122900840021",
+                "2016-12-23",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION  23(1) OF THE TOWN PLANNING ORDINANCE *",
+                null
+              ],
+              [
+                "17112301950014",
+                "2017-11-21",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION  23(1) OF THE TOWN PLANNING ORDINANCE *",
+                null
+              ],
+              [
+                "18062602490011",
+                "2018-06-22",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION  23(8A) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "18070501280023",
+                "2018-07-03",
+                "CERTIFIED TRUE COPY OF REINSTATEMENT NOTICE ISSUED UNDER SECTION  23(3) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "22090602020056",
+                "2022-09-02",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 46(A) OF THE INTERPRETATION AND GENERAL CLAUSES*",
+                null
+              ],
+              [
+                "22090602020062",
+                "2022-09-02",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(8A) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917526561785204,
@@ -1393,7 +3739,111 @@
         1107656567,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2136",
+            "Old Schedule Lot",
+            "C3536356",
+            [
+              [
+                "N10983",
+                "1910-02-02",
+                "MORTGAGE",
+                "150.0"
+              ],
+              [
+                "N16948",
+                "1911-06-14",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N71848",
+                "1929-01-09",
+                "-",
+                null
+              ],
+              [
+                "N124706",
+                "1949-09-05",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N139439",
+                "1959-05-05",
+                "-",
+                null
+              ],
+              [
+                "N140234",
+                "1959-11-05",
+                "DIVISION OF PROPERTY WITH PLAN",
+                null
+              ],
+              [
+                "N183452",
+                "1976-07-20",
+                "-",
+                null
+              ],
+              [
+                "07012400310024",
+                "1996-02-26",
+                "RE-REGISTRATION OF VESTING ASSIGNMENT  M/N N353050",
+                null
+              ],
+              [
+                "N353050",
+                "1996-02-26",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "N395058",
+                "1997-05-06",
+                "ASSIGNMENT",
+                "250000.0"
+              ],
+              [
+                "N395057",
+                "1997-05-06",
+                "ASSIGNMENT",
+                "250000.0"
+              ],
+              [
+                "15110501120114",
+                "2015-10-13",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "9500000.0"
+              ],
+              [
+                "15111902110103",
+                "2015-10-30",
+                "ASSIGNMENT",
+                "9500000.0"
+              ],
+              [
+                "19101801640024",
+                "2019-08-12",
+                "A SEALED COPY OF WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "24073101060010",
+                "2024-04-03",
+                "SEALED COPY AMENDED ORDER",
+                null
+              ],
+              [
+                "24043001400016",
+                "2024-04-03",
+                "A SEALED COPY OF ORDER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917854540316922,
@@ -1450,7 +3900,14 @@
         1107656691,
         "YUNG SUI HOUSE",
         "22 WAH MING ROAD",
-        []
+        [
+          [
+            "FSSTL 207",
+            "New Grant Lot",
+            "C4286412",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992074257797486,
@@ -1678,7 +4135,14 @@
         1107656891,
         null,
         "22 WAH MING ROAD",
-        []
+        [
+          [
+            "FSSTL 207",
+            "New Grant Lot",
+            "C4286412",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9920805574600167,
@@ -1697,7 +4161,14 @@
         1107656894,
         null,
         "22 WAH MING ROAD",
-        []
+        [
+          [
+            "FSSTL 207",
+            "New Grant Lot",
+            "C4286412",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992062392040142,
@@ -1735,7 +4206,14 @@
         1107656958,
         "YUNG WA HOUSE",
         "22 WAH MING ROAD",
-        []
+        [
+          [
+            "FSSTL 207",
+            "New Grant Lot",
+            "C4286412",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9920636519189796,
@@ -1849,7 +4327,136 @@
         1107657271,
         null,
         null,
-        []
+        [
+          [
+            "DD91 3381 S.A",
+            "Old Schedule Lot",
+            "C5092390",
+            [
+              [
+                "N185168",
+                "1977-02-07",
+                "-",
+                null
+              ],
+              [
+                "N185167",
+                "1977-02-07",
+                "-",
+                "32000.0"
+              ],
+              [
+                "N188576",
+                "1977-12-30",
+                "-",
+                null
+              ],
+              [
+                "N188575",
+                "1977-12-30",
+                "-",
+                null
+              ],
+              [
+                "N200405",
+                "1980-12-23",
+                "MORTGAGE",
+                "50000.0"
+              ],
+              [
+                "N254713",
+                "1991-04-17",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "N273116",
+                "1992-06-04",
+                "AGREEMENT FOR SALE AND PURCHASE BY MOK YUNG CHAN",
+                "700000.0"
+              ],
+              [
+                "N275898",
+                "1992-06-29",
+                "-",
+                "700000.0"
+              ],
+              [
+                "13030600560036",
+                "2012-12-21",
+                "ORDER NO. DH0136/NT/12/C BY THE BUILDING AUTHORITY UNDER SECTION 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "16121201070578",
+                "2016-11-23",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "22090802220011",
+                "2022-07-26",
+                "SUPERSEDING ORDER NO. \"DH0022/NT/22/C\" UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD91 3381 S.B",
+            "Old Schedule Lot",
+            "C6600274",
+            [
+              [
+                "N185167",
+                "1977-02-07",
+                "-",
+                "32000.0"
+              ],
+              [
+                "N185168",
+                "1977-02-07",
+                "-",
+                null
+              ],
+              [
+                "N188575",
+                "1977-12-30",
+                "-",
+                null
+              ],
+              [
+                "N188576",
+                "1977-12-30",
+                "-",
+                null
+              ],
+              [
+                "N190417",
+                "1978-06-16",
+                "MORTGAGE BY SIU WAI SHING",
+                "30000.0"
+              ],
+              [
+                "N198321",
+                "1980-01-15",
+                "FURTHER CHARGE BY SIU WAI SHING",
+                "50000.0"
+              ],
+              [
+                "N249981",
+                "1991-02-08",
+                "-",
+                "500000.0"
+              ],
+              [
+                "N249980",
+                "1991-02-08",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917493187037183,
@@ -1925,7 +4532,63 @@
         1107657341,
         null,
         null,
-        []
+        [
+          [
+            "DD91 3381 S.C",
+            "Old Schedule Lot",
+            "C3543639",
+            [
+              [
+                "N185167",
+                "1977-02-07",
+                "-",
+                "32000.0"
+              ],
+              [
+                "N185168",
+                "1977-02-07",
+                "-",
+                null
+              ],
+              [
+                "N188575",
+                "1977-12-30",
+                "-",
+                null
+              ],
+              [
+                "N188576",
+                "1977-12-30",
+                "-",
+                null
+              ],
+              [
+                "N190417",
+                "1978-06-16",
+                "MORTGAGE BY SIU WAI SHING",
+                "30000.0"
+              ],
+              [
+                "N198321",
+                "1980-01-15",
+                "FURTHER CHARGE BY SIU WAI SHING",
+                "50000.0"
+              ],
+              [
+                "N249980",
+                "1991-02-08",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "N249981",
+                "1991-02-08",
+                "-",
+                "500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917453306299437,
@@ -1963,7 +4626,63 @@
         1107657358,
         null,
         null,
-        []
+        [
+          [
+            "DD91 3381 S.C",
+            "Old Schedule Lot",
+            "C3543639",
+            [
+              [
+                "N185167",
+                "1977-02-07",
+                "-",
+                "32000.0"
+              ],
+              [
+                "N185168",
+                "1977-02-07",
+                "-",
+                null
+              ],
+              [
+                "N188575",
+                "1977-12-30",
+                "-",
+                null
+              ],
+              [
+                "N188576",
+                "1977-12-30",
+                "-",
+                null
+              ],
+              [
+                "N190417",
+                "1978-06-16",
+                "MORTGAGE BY SIU WAI SHING",
+                "30000.0"
+              ],
+              [
+                "N198321",
+                "1980-01-15",
+                "FURTHER CHARGE BY SIU WAI SHING",
+                "50000.0"
+              ],
+              [
+                "N249980",
+                "1991-02-08",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "N249981",
+                "1991-02-08",
+                "-",
+                "500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917486714874497,
@@ -2134,7 +4853,51 @@
         1110046255,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2248",
+            "Old Schedule Lot",
+            "C3536856",
+            [
+              [
+                "N183969",
+                "1976-09-23",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "08052601660056",
+                "2008-04-23",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "14020701100018",
+                "2014-02-05",
+                "SEALED COPY WRIT OF SUMMONS WITH PLAN",
+                null
+              ],
+              [
+                "18061402040012",
+                "2018-05-30",
+                "SEALED COPY JUDGMENT",
+                null
+              ],
+              [
+                "25032801810438",
+                "2025-03-26",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION  23(1) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "25100201590056",
+                "2025-09-29",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION  23(4A) OF THE TOWN PLANNING ORDINANCE*",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917546831804405,
@@ -2153,7 +4916,45 @@
         1110046506,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2057",
+            "Old Schedule Lot",
+            "C5091461",
+            [
+              [
+                "N144262",
+                "1961-05-31",
+                "-",
+                null
+              ],
+              [
+                "N184686",
+                "1976-12-15",
+                "-",
+                null
+              ],
+              [
+                "N212181",
+                "1984-03-19",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N212182",
+                "1984-03-28",
+                "-",
+                null
+              ],
+              [
+                "N212183",
+                "1984-03-28",
+                "VESTING ASSIGNMENT",
+                "15000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918271493330302,
@@ -2172,7 +4973,45 @@
         1110046507,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2057",
+            "Old Schedule Lot",
+            "C5091461",
+            [
+              [
+                "N144262",
+                "1961-05-31",
+                "-",
+                null
+              ],
+              [
+                "N184686",
+                "1976-12-15",
+                "-",
+                null
+              ],
+              [
+                "N212181",
+                "1984-03-19",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N212182",
+                "1984-03-28",
+                "-",
+                null
+              ],
+              [
+                "N212183",
+                "1984-03-28",
+                "VESTING ASSIGNMENT",
+                "15000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9918265434329052,
@@ -2191,7 +5030,33 @@
         1110046583,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2225 RP",
+            "Old Schedule Lot",
+            "C3536720",
+            [
+              [
+                "N165711",
+                "1970-07-14",
+                "-",
+                "4500.0"
+              ],
+              [
+                "N213392",
+                "1984-10-11",
+                "-",
+                "80000.0"
+              ],
+              [
+                "N234158",
+                "1990-01-10",
+                "-",
+                "80000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991755527947916,
@@ -2210,7 +5075,14 @@
         1810106545,
         null,
         "22 WAH MING ROAD",
-        []
+        [
+          [
+            "FSSTL 207",
+            "New Grant Lot",
+            "C4286412",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9920714292342372,
@@ -2267,7 +5139,159 @@
         1810177671,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2133",
+            "Old Schedule Lot",
+            "C3536340",
+            [
+              [
+                "N10983",
+                "1910-02-02",
+                "MORTGAGE",
+                "150.0"
+              ],
+              [
+                "N16948",
+                "1911-06-14",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N71848",
+                "1929-01-09",
+                "-",
+                null
+              ],
+              [
+                "N124706",
+                "1949-09-05",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N139439",
+                "1959-05-05",
+                "-",
+                null
+              ],
+              [
+                "N140234",
+                "1959-11-05",
+                "DIVISION OF PROPERTY WITH PLAN",
+                null
+              ],
+              [
+                "N204545",
+                "1982-04-20",
+                "STATUTORY DECLARATION OF HAU PANG SHEUNG KAM ALIAS PANG SHEUNG MUI",
+                null
+              ],
+              [
+                "N504195",
+                "2000-12-13",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N526498",
+                "2002-01-04",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N549060",
+                "2003-06-28",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "N549061",
+                "2003-06-28",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "06042501700017",
+                "2006-03-22",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "08111801240046",
+                "2008-11-07",
+                "SEALED COPY WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "14121700960024",
+                "2014-11-20",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "5000000.0"
+              ],
+              [
+                "14121700960036",
+                "2014-11-20",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "5000000.0"
+              ],
+              [
+                "15042801540016",
+                "2015-03-31",
+                "ASSIGNMENT",
+                "5000000.0"
+              ],
+              [
+                "15042801540022",
+                "2015-03-31",
+                "ASSIGNMENT",
+                "5000000.0"
+              ],
+              [
+                "16052501160070",
+                "2016-05-23",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION  23(1) OF THE TOWN PLANNING ORDINANCE *",
+                null
+              ],
+              [
+                "16081102230103",
+                "2016-08-09",
+                "CERTIFIED TRUE COPY OF REINSTATEMENT NOTICE ISSUED UNDER SECTION  23(3) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "17091401650087",
+                "2017-09-12",
+                "CERTIFIED TRUE COPY OF  NOTICE ISSUED UNDER SECTION 23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "17091802170082",
+                "2017-09-14",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(8A) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "19032501000026",
+                "2019-03-01",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "19091000250014",
+                "2019-08-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1500000.0"
+              ],
+              [
+                "19112101670147",
+                "2019-10-30",
+                "ASSIGNMENT",
+                "1500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917805949603342,
@@ -2286,7 +5310,111 @@
         1810177676,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2136",
+            "Old Schedule Lot",
+            "C3536356",
+            [
+              [
+                "N10983",
+                "1910-02-02",
+                "MORTGAGE",
+                "150.0"
+              ],
+              [
+                "N16948",
+                "1911-06-14",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N71848",
+                "1929-01-09",
+                "-",
+                null
+              ],
+              [
+                "N124706",
+                "1949-09-05",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N139439",
+                "1959-05-05",
+                "-",
+                null
+              ],
+              [
+                "N140234",
+                "1959-11-05",
+                "DIVISION OF PROPERTY WITH PLAN",
+                null
+              ],
+              [
+                "N183452",
+                "1976-07-20",
+                "-",
+                null
+              ],
+              [
+                "07012400310024",
+                "1996-02-26",
+                "RE-REGISTRATION OF VESTING ASSIGNMENT  M/N N353050",
+                null
+              ],
+              [
+                "N353050",
+                "1996-02-26",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "N395058",
+                "1997-05-06",
+                "ASSIGNMENT",
+                "250000.0"
+              ],
+              [
+                "N395057",
+                "1997-05-06",
+                "ASSIGNMENT",
+                "250000.0"
+              ],
+              [
+                "15110501120114",
+                "2015-10-13",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "9500000.0"
+              ],
+              [
+                "15111902110103",
+                "2015-10-30",
+                "ASSIGNMENT",
+                "9500000.0"
+              ],
+              [
+                "19101801640024",
+                "2019-08-12",
+                "A SEALED COPY OF WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "24073101060010",
+                "2024-04-03",
+                "SEALED COPY AMENDED ORDER",
+                null
+              ],
+              [
+                "24043001400016",
+                "2024-04-03",
+                "A SEALED COPY OF ORDER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9917844067093522,
@@ -2305,7 +5433,93 @@
         1810177689,
         null,
         null,
-        []
+        [
+          [
+            "DD91 2165 S.B RP",
+            "Old Schedule Lot",
+            "C3536531",
+            [
+              [
+                "N172310",
+                "1972-10-10",
+                "-",
+                null
+              ],
+              [
+                "N561955",
+                "2004-05-07",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "14110602270032",
+                "2014-09-05",
+                "PROBATE",
+                null
+              ],
+              [
+                "15012901330077",
+                "2014-12-30",
+                "ASSENT",
+                null
+              ],
+              [
+                "15021800460032",
+                "2015-01-27",
+                "Please refer to the NatureDescriptionCHN Field.",
+                "12380000.0"
+              ],
+              [
+                "15042900360032",
+                "2015-04-08",
+                "ASSIGNMENT",
+                "12380000.0"
+              ],
+              [
+                "17062102650109",
+                "2016-11-14",
+                "WARNING LETTER",
+                null
+              ],
+              [
+                "16122900840021",
+                "2016-12-23",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION  23(1) OF THE TOWN PLANNING ORDINANCE *",
+                null
+              ],
+              [
+                "17112301950014",
+                "2017-11-21",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION  23(1) OF THE TOWN PLANNING ORDINANCE *",
+                null
+              ],
+              [
+                "18062602490011",
+                "2018-06-22",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION  23(8A) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "18070501280023",
+                "2018-07-03",
+                "CERTIFIED TRUE COPY OF REINSTATEMENT NOTICE ISSUED UNDER SECTION  23(3) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "22090602020056",
+                "2022-09-02",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 46(A) OF THE INTERPRETATION AND GENERAL CLAUSES*",
+                null
+              ],
+              [
+                "22090602020062",
+                "2022-09-02",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(8A) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991741531737928,

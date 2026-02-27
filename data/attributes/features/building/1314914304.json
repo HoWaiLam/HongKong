@@ -6,7 +6,88 @@
         1102441579,
         null,
         "14 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 301 RP",
+            "Old Schedule Lot",
+            "C2141048",
+            [
+              [
+                "ST154999",
+                "1965-02-15",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "ST1395277",
+                "2004-11-26",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "11040702850057",
+                "2011-03-08",
+                "ASSIGNMENT",
+                "800000.0"
+              ],
+              [
+                "25070201800018",
+                "2025-06-02",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD196 301 S.A",
+            "Old Schedule Lot",
+            "C5959143",
+            [
+              [
+                "ST154999",
+                "1965-02-15",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "ST821149",
+                "1995-03-31",
+                "-",
+                null
+              ],
+              [
+                "ST998160",
+                "1997-10-06",
+                "MORTGAGE WITH PLAN TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "ST1313326",
+                "2003-01-06",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "19112501410080",
+                "2019-10-17",
+                "ORDER NO. \"VVS/D43/100128/19/NT\"  UNDER S.24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "20102201440047",
+                "2020-09-17",
+                "LETTER OF COMPLIANCE (ORDER NO. \"VVS/D43/100128/19/NT\")",
+                null
+              ],
+              [
+                "22081900850019",
+                "2022-08-15",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935897953448087,
@@ -25,7 +106,216 @@
         1102441586,
         null,
         "17 - 18 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 321",
+            "Old Schedule Lot",
+            "C6596137",
+            [
+              [
+                "ST174545",
+                "1973-05-03",
+                "-",
+                "15000.0"
+              ],
+              [
+                "ST394661",
+                "1986-05-22",
+                "-",
+                null
+              ],
+              [
+                "ST330299",
+                "1986-05-22",
+                "-",
+                null
+              ],
+              [
+                "06063000450166",
+                "2006-06-16",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD196 322",
+            "Old Schedule Lot",
+            "C6625522",
+            [
+              [
+                "ST93073",
+                "1935-06-26",
+                "-",
+                null
+              ],
+              [
+                "ST145853",
+                "1961-12-05",
+                "-",
+                null
+              ],
+              [
+                "ST330298",
+                "1986-05-22",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "ST488657",
+                "1989-04-25",
+                "NOTICE OF APPOINTMENT OF ADDITIONAL MANAGER",
+                null
+              ],
+              [
+                "ST488658",
+                "1989-06-28",
+                "APPROVAL OF APPOINTMENT OF ADDITIONAL MANAGER",
+                null
+              ],
+              [
+                "07101203270055",
+                "2007-04-20",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "07101203270068",
+                "2007-08-07",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD196 323",
+            "Old Schedule Lot",
+            "C2141131",
+            [
+              [
+                "ST222244",
+                "1983-02-01",
+                "-",
+                null
+              ],
+              [
+                "06063000450166",
+                "2006-06-16",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD196 839",
+            "New Grant Lot",
+            "C5553070",
+            [
+              [
+                "ST101088",
+                "1937-12-10",
+                "-",
+                null
+              ],
+              [
+                "ST177409",
+                "1974-07-02",
+                "-",
+                null
+              ],
+              [
+                "ST222082",
+                "1983-01-27",
+                "-",
+                null
+              ],
+              [
+                "ST330299",
+                "1986-05-22",
+                "-",
+                null
+              ],
+              [
+                "ST394661",
+                "1986-05-22",
+                "-",
+                null
+              ],
+              [
+                "ST476439",
+                "1989-04-22",
+                "-",
+                "100000.0"
+              ],
+              [
+                "ST1166117",
+                "2000-06-22",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "100000.0"
+              ],
+              [
+                "ST1166118",
+                "2000-06-22",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "06063000450156",
+                "2006-06-16",
+                "ASSIGNMENT",
+                "50000.0"
+              ],
+              [
+                "07030800320346",
+                "2007-01-26",
+                "ORDER NO. DH0001/NT/07/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "10082302390010",
+                "2010-07-09",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "11101701170135",
+                "2011-10-08",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "1600000.0"
+              ],
+              [
+                "12042301750016",
+                "2012-03-30",
+                "SUPERSEDING ORDER NO. DH0063/NT/12/C UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "12091200470118",
+                "2012-08-25",
+                "ASSIGNMENT",
+                "1600000.0"
+              ],
+              [
+                "15072401300063",
+                "2015-06-27",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "21110802410025",
+                "2021-10-06",
+                "LETTER OF WITHDRAWAL (ORDER NO. \"DH0063/NT/12/C\")",
+                null
+              ],
+              [
+                "23013000240025",
+                "2023-01-05",
+                "ASSIGNMENT",
+                "2000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935950397422435,
@@ -44,7 +334,57 @@
         1102441587,
         null,
         "15 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 301 S.A",
+            "Old Schedule Lot",
+            "C5959143",
+            [
+              [
+                "ST154999",
+                "1965-02-15",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "ST821149",
+                "1995-03-31",
+                "-",
+                null
+              ],
+              [
+                "ST998160",
+                "1997-10-06",
+                "MORTGAGE WITH PLAN TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "ST1313326",
+                "2003-01-06",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "19112501410080",
+                "2019-10-17",
+                "ORDER NO. \"VVS/D43/100128/19/NT\"  UNDER S.24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "20102201440047",
+                "2020-09-17",
+                "LETTER OF COMPLIANCE (ORDER NO. \"VVS/D43/100128/19/NT\")",
+                null
+              ],
+              [
+                "22081900850019",
+                "2022-08-15",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99359009526415,
@@ -63,7 +403,57 @@
         1102441596,
         null,
         "19 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 324",
+            "Old Schedule Lot",
+            "C2141148",
+            [
+              [
+                "ST154999",
+                "1965-02-15",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "ST967075",
+                "1997-06-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3180000.0"
+              ],
+              [
+                "ST989866",
+                "1997-08-04",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "ST989865",
+                "1997-08-04",
+                "ASSIGNMENT",
+                "3180000.0"
+              ],
+              [
+                "ST1265724",
+                "2002-02-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1850000.0"
+              ],
+              [
+                "ST1271385",
+                "2002-03-01",
+                "RELEASE",
+                null
+              ],
+              [
+                "ST1271386",
+                "2002-03-01",
+                "ASSIGNMENT",
+                "1850000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993593522191093,
@@ -82,7 +472,45 @@
         1102441601,
         null,
         "20 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 325",
+            "Old Schedule Lot",
+            "C2141150",
+            [
+              [
+                "ST173931",
+                "1973-03-06",
+                "-",
+                null
+              ],
+              [
+                "ST1048620",
+                "1998-08-07",
+                "LETTER OF COMPLIANCE BY DISTRICT LANDS OFFICE, SHA TIN LANDS DEPT.",
+                null
+              ],
+              [
+                "ST1120598",
+                "1999-10-15",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "ST1138652",
+                "2000-01-28",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "25111201830082",
+                "2025-04-11",
+                "LETTERS OF ADMINISTRATION",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935926308602208,
@@ -101,7 +529,82 @@
         1102441603,
         null,
         "20A TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 325",
+            "Old Schedule Lot",
+            "C2141150",
+            [
+              [
+                "ST173931",
+                "1973-03-06",
+                "-",
+                null
+              ],
+              [
+                "ST1048620",
+                "1998-08-07",
+                "LETTER OF COMPLIANCE BY DISTRICT LANDS OFFICE, SHA TIN LANDS DEPT.",
+                null
+              ],
+              [
+                "ST1120598",
+                "1999-10-15",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "ST1138652",
+                "2000-01-28",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "25111201830082",
+                "2025-04-11",
+                "LETTERS OF ADMINISTRATION",
+                ""
+              ]
+            ]
+          ],
+          [
+            "DD196 326",
+            "Old Schedule Lot",
+            "C5774358",
+            [
+              [
+                "ST198625",
+                "1981-01-20",
+                "-",
+                null
+              ],
+              [
+                "ST1048620",
+                "1998-08-07",
+                "LETTER OF COMPLIANCE BY DISTRICT LANDS OFFICE, SHA TIN LANDS DEPT.",
+                null
+              ],
+              [
+                "ST1120598",
+                "1999-10-15",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "ST1138652",
+                "2000-01-28",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "25111201830082",
+                "2025-04-11",
+                "LETTERS OF ADMINISTRATION",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935918371875994,
@@ -120,7 +623,130 @@
         1102441605,
         null,
         "18A TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 351",
+            "Old Schedule Lot",
+            "C2141274",
+            [
+              [
+                "ST170532",
+                "1972-04-12",
+                "-",
+                null
+              ],
+              [
+                "ST747852",
+                "1994-01-17",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST747853",
+                "1994-02-04",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "495000.0"
+              ],
+              [
+                "ST747854",
+                "1994-02-04",
+                "-",
+                "495000.0"
+              ],
+              [
+                "ST792952",
+                "1995-01-09",
+                "LEGAL CHARGE",
+                "200000.0"
+              ],
+              [
+                "ST845331",
+                "1995-12-29",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "ST1117540",
+                "1997-08-01",
+                "THE APPROVAL LETTER",
+                null
+              ],
+              [
+                "ST1075108",
+                "1999-01-21",
+                "MODIFICATION LETTER WITH PLAN BY DISTRICT LANDS OFFICER, SHA TIN",
+                null
+              ],
+              [
+                "ST1117541",
+                "1999-09-29",
+                "NO OBJECTION LETTER",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD196 352",
+            "Old Schedule Lot",
+            "C2141283",
+            [
+              [
+                "ST252104",
+                "1984-01-16",
+                "-",
+                null
+              ],
+              [
+                "ST747855",
+                "1994-02-01",
+                "POWER OF ATTORNEY BY CHEUNG TIN YEUNG",
+                null
+              ],
+              [
+                "ST747857",
+                "1994-02-04",
+                "-",
+                "345000.0"
+              ],
+              [
+                "ST747856",
+                "1994-02-04",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "345000.0"
+              ],
+              [
+                "ST792952",
+                "1995-01-09",
+                "LEGAL CHARGE",
+                "200000.0"
+              ],
+              [
+                "ST845331",
+                "1995-12-29",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "ST1117540",
+                "1997-08-01",
+                "THE APPROVAL LETTER",
+                null
+              ],
+              [
+                "ST1075108",
+                "1999-01-21",
+                "MODIFICATION LETTER WITH PLAN BY DISTRICT LANDS OFFICER, SHA TIN",
+                null
+              ],
+              [
+                "ST1117541",
+                "1999-09-29",
+                "NO OBJECTION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993595378510931,
@@ -139,7 +765,262 @@
         1102441606,
         null,
         "20B TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 326",
+            "Old Schedule Lot",
+            "C5774358",
+            [
+              [
+                "ST198625",
+                "1981-01-20",
+                "-",
+                null
+              ],
+              [
+                "ST1048620",
+                "1998-08-07",
+                "LETTER OF COMPLIANCE BY DISTRICT LANDS OFFICE, SHA TIN LANDS DEPT.",
+                null
+              ],
+              [
+                "ST1120598",
+                "1999-10-15",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "ST1138652",
+                "2000-01-28",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "25111201830082",
+                "2025-04-11",
+                "LETTERS OF ADMINISTRATION",
+                ""
+              ]
+            ]
+          ],
+          [
+            "DD196 327",
+            "Old Schedule Lot",
+            "C6219405",
+            [
+              [
+                "ST154999",
+                "1965-02-15",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "ST563385",
+                "1991-01-03",
+                "CHARGE",
+                null
+              ],
+              [
+                "ST563384",
+                "1991-01-03",
+                "-",
+                "410000.0"
+              ],
+              [
+                "ST586428",
+                "1991-05-10",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "700000.0"
+              ],
+              [
+                "ST600070",
+                "1991-06-11",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "ST600068",
+                "1991-06-11",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "ST600069",
+                "1991-06-11",
+                "-",
+                "700000.0"
+              ],
+              [
+                "ST687790",
+                "1993-02-16",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "960000.0"
+              ],
+              [
+                "ST690485",
+                "1993-03-12",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "ST690487",
+                "1993-03-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "ST690486",
+                "1993-03-12",
+                "ASSIGNMENT",
+                "960000.0"
+              ],
+              [
+                "ST1264535",
+                "2002-02-07",
+                "RELEASE",
+                null
+              ],
+              [
+                "ST1264536",
+                "2002-02-07",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "05051002660205",
+                "2005-04-14",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "05052703080059",
+                "2005-04-14",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "05121000290022",
+                "2005-09-26",
+                "SEALED COPY OF DEBTOR'S BANKRUPTCY PETITION",
+                null
+              ],
+              [
+                "06012700150019",
+                "2005-12-20",
+                "SEALED COPY OF BANKRUPTCY ORDER ON DEBTOR'S PETITION",
+                null
+              ],
+              [
+                "07061502500035",
+                "2007-05-30",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "860000.0"
+              ],
+              [
+                "07071902650132",
+                "2007-06-29",
+                "ASSIGNMENT",
+                "860000.0"
+              ],
+              [
+                "08022701730040",
+                "2008-02-21",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "08022701730055",
+                "2008-02-21",
+                "ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "09092202380050",
+                "2009-08-31",
+                "LEGAL CHARGE/MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "09092202380040",
+                "2009-08-31",
+                "RELEASE",
+                null
+              ],
+              [
+                "10042903100246",
+                "2010-03-31",
+                "ASSIGNMENT OF TENANCY RENTALS",
+                null
+              ],
+              [
+                "10062102080011",
+                "2010-03-31",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "TO SECURE ALL MONIES GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "10042903100224",
+                "2010-03-31",
+                "ASSIGNMENT",
+                "1320000.0"
+              ],
+              [
+                "10042903100234",
+                "2010-03-31",
+                "LEGAL CHARGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF CREDIT FACILITIES"
+              ],
+              [
+                "10061701050096",
+                "2010-05-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1450000.0"
+              ],
+              [
+                "11012402700039",
+                "2010-08-27",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "11021702660183",
+                "2011-02-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1508000.0"
+              ],
+              [
+                "11033002570245",
+                "2011-03-28",
+                "ASSIGNMENT",
+                "1508000.0"
+              ],
+              [
+                "11041401770049",
+                "2011-03-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "15072101040018",
+                "2015-07-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4920000.0"
+              ],
+              [
+                "15091701580460",
+                "2015-08-20",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "15091701580456",
+                "2015-08-20",
+                "ASSIGNMENT",
+                "4920000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935912362230974,
@@ -158,7 +1039,27 @@
         1102441616,
         null,
         "17A TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 350",
+            "Old Schedule Lot",
+            "C5818974",
+            [
+              [
+                "ST222243",
+                "1983-02-01",
+                "-",
+                null
+              ],
+              [
+                "ST377628",
+                "1987-07-16",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993593348770951,
@@ -177,7 +1078,69 @@
         1102441620,
         null,
         null,
-        []
+        [
+          [
+            "DD191 51",
+            "Old Schedule Lot",
+            "C5551216",
+            [
+              [
+                "ST130016",
+                "1953-02-24",
+                "-",
+                null
+              ],
+              [
+                "ST131026",
+                "1953-12-30",
+                "MORTGAGE",
+                "1500.0"
+              ],
+              [
+                "ST131826",
+                "1954-06-21",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "ST203914",
+                "1981-10-21",
+                "-",
+                null
+              ],
+              [
+                "ST688510",
+                "1993-01-08",
+                "AGREEMENT FOR SALE AND PURCHASE BY WAN KWOK SHING",
+                "5325210.0"
+              ],
+              [
+                "ST750438",
+                "1993-11-15",
+                "SUPPLEMENTAL AGREEMENT",
+                "5325210.0"
+              ],
+              [
+                "ST769288",
+                "1994-06-09",
+                "ASSIGNMENT",
+                "5325210.0"
+              ],
+              [
+                "ST1052246",
+                "1998-09-14",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "ST1069668",
+                "1998-09-24",
+                "ASSIGNMENT",
+                "5325210.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938321473272365,
@@ -196,7 +1159,88 @@
         1102441621,
         null,
         "22 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 332",
+            "Old Schedule Lot",
+            "C4915680",
+            [
+              [
+                "ST102808",
+                "1938-03-30",
+                "-",
+                null
+              ],
+              [
+                "ST226253",
+                "1982-06-09",
+                "POWER OF ATTORNEY BY CHEUNG TIN YEUNG AND CHEUNG PING YAN",
+                null
+              ],
+              [
+                "ST226254",
+                "1983-04-21",
+                "-",
+                null
+              ],
+              [
+                "ST229288",
+                "1983-04-29",
+                "POWER OF ATTORNEY BY CHEUNG TIN YEUNG AND CHEUNG PING YAN",
+                null
+              ],
+              [
+                "ST229289",
+                "1983-06-27",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD196 333",
+            "Old Schedule Lot",
+            "C5213788",
+            [
+              [
+                "ST50086",
+                "1921-07-20",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "ST102808",
+                "1938-03-30",
+                "-",
+                null
+              ],
+              [
+                "ST226253",
+                "1982-06-09",
+                "POWER OF ATTORNEY BY CHEUNG TIN YEUNG AND CHEUNG PING YAN",
+                null
+              ],
+              [
+                "ST226254",
+                "1983-04-21",
+                "-",
+                null
+              ],
+              [
+                "ST229288",
+                "1983-04-29",
+                "POWER OF ATTORNEY BY CHEUNG TIN YEUNG AND CHEUNG PING YAN",
+                null
+              ],
+              [
+                "ST229289",
+                "1983-06-27",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993591738229665,
@@ -215,7 +1259,159 @@
         1102441622,
         null,
         "17C TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 349",
+            "Old Schedule Lot",
+            "C2141267",
+            [
+              [
+                "ST93073",
+                "1935-06-26",
+                "-",
+                null
+              ],
+              [
+                "ST145853",
+                "1961-12-05",
+                "-",
+                null
+              ],
+              [
+                "ST330298",
+                "1986-05-22",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "ST488657",
+                "1989-04-25",
+                "NOTICE OF APPOINTMENT OF ADDITIONAL MANAGER",
+                null
+              ],
+              [
+                "ST488658",
+                "1989-06-28",
+                "APPROVAL OF APPOINTMENT OF ADDITIONAL MANAGER",
+                null
+              ],
+              [
+                "ST1223881",
+                "2001-04-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1780000.0"
+              ],
+              [
+                "ST1250915",
+                "2001-10-18",
+                "ASSIGNMENT",
+                "1780000.0"
+              ],
+              [
+                "ST1250916",
+                "2001-10-18",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "06040601390096",
+                "2006-03-16",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2030000.0"
+              ],
+              [
+                "06061701660037",
+                "2006-05-19",
+                "MORTGAGE DEED",
+                "ALL MONIES"
+              ],
+              [
+                "06061701660023",
+                "2006-05-19",
+                "ASSIGNMENT",
+                "2030000.0"
+              ],
+              [
+                "06061701660013",
+                "2006-05-19",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "07092103150066",
+                "2007-08-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2555000.0"
+              ],
+              [
+                "07110702900032",
+                "2007-10-09",
+                "MORTGAGE DEED",
+                "ALL MONIES"
+              ],
+              [
+                "07110702900011",
+                "2007-10-09",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "07110702900023",
+                "2007-10-09",
+                "ASSIGNMENT",
+                "2555000.0"
+              ],
+              [
+                "11020102810390",
+                "2011-01-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3850000.0"
+              ],
+              [
+                "11060102490149",
+                "2011-04-20",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "11051902790416",
+                "2011-04-20",
+                "ASSIGNMENT",
+                "3850000.0"
+              ],
+              [
+                "14062600760093",
+                "2014-06-10",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "5200000.0"
+              ],
+              [
+                "14082800600258",
+                "2014-08-08",
+                "ASSIGNMENT",
+                "5200000.0"
+              ],
+              [
+                "15072800660030",
+                "2015-07-20",
+                "CERTIFIED TRUE COPY OF NOTICE OF INTENTION TO PROCEED WITH APPLICATION FOR ANCILLARY RELIEF",
+                null
+              ],
+              [
+                "16042801500039",
+                "2016-04-13",
+                "A SEALED COPY OF ORDER",
+                null
+              ],
+              [
+                "16063001910023",
+                "2016-06-22",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935935108132168,
@@ -234,7 +1430,39 @@
         1102441623,
         null,
         "19A TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 854",
+            "New Grant Lot",
+            "C2142751",
+            [
+              [
+                "ST190775",
+                "1980-05-15",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST314767",
+                "1985-12-02",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST1364203",
+                "2004-03-19",
+                "PROBATE OF THE LAST WILL AND TESTAMENT (A COPY WHEREOF IS",
+                null
+              ],
+              [
+                "ST1364204",
+                "2004-04-07",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935957385125107,
@@ -272,7 +1500,87 @@
         1102441636,
         null,
         "17B TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 348",
+            "Old Schedule Lot",
+            "C2141258",
+            [
+              [
+                "ST252104",
+                "1984-01-16",
+                "-",
+                null
+              ],
+              [
+                "ST670435",
+                "1992-09-26",
+                "-",
+                "500000.0"
+              ],
+              [
+                "ST748593",
+                "1993-12-28",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1080000.0"
+              ],
+              [
+                "ST796931",
+                "1994-03-31",
+                "STATUTORRY DECLARATION WITH PLAN",
+                null
+              ],
+              [
+                "ST759433",
+                "1994-04-28",
+                "SUPPLEMENTAL AGREEMENT SUPPLEMENTAL TO M/N 748593",
+                null
+              ],
+              [
+                "ST767643",
+                "1994-06-30",
+                "SUPPLEMENTAL TO AGREEMENT",
+                null
+              ],
+              [
+                "ST796930",
+                "1994-08-22",
+                "APPROVAL LETTER OF REDEVELOPMENT",
+                null
+              ],
+              [
+                "ST820045",
+                "1995-06-08",
+                "LEGAL CHARGE",
+                "2000000.0"
+              ],
+              [
+                "ST820044",
+                "1995-06-08",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "ST888234",
+                "1996-06-07",
+                "ASSIGNMENT",
+                "2200000.0"
+              ],
+              [
+                "ST888233",
+                "1996-06-07",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2200000.0"
+              ],
+              [
+                "ST897021",
+                "1996-06-07",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935937497510512,
@@ -291,7 +1599,51 @@
         1102441641,
         null,
         "21A TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 334",
+            "Old Schedule Lot",
+            "C5298503",
+            [
+              [
+                "ST209401",
+                "1982-04-08",
+                "-",
+                "144500.0"
+              ],
+              [
+                "ST223440",
+                "1983-02-09",
+                "-",
+                "120000.0"
+              ],
+              [
+                "15091101710016",
+                "2012-07-30",
+                "PROBATE",
+                null
+              ],
+              [
+                "15091101710030",
+                "2015-04-23",
+                "ASSENT",
+                null
+              ],
+              [
+                "21072301250047",
+                "2021-06-15",
+                "ORDER NO. \"VHN/D43/100164/21/NT\" UNDER S.24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "22032800480068",
+                "2022-01-07",
+                "LETTER OF COMPLIANCE (ORDER NO. \"VHN/D43/100164/21/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935920596831296,
@@ -310,7 +1662,39 @@
         1102441646,
         null,
         "19B TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 354",
+            "Old Schedule Lot",
+            "C5213799",
+            [
+              [
+                "ST53928",
+                "1922-12-20",
+                "-",
+                null
+              ],
+              [
+                "ST100787",
+                "1937-09-30",
+                "-",
+                null
+              ],
+              [
+                "ST167814",
+                "1971-05-18",
+                "-",
+                null
+              ],
+              [
+                "ST744928",
+                "1994-02-07",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935957393469879,
@@ -329,7 +1713,81 @@
         1102441650,
         null,
         "21B TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 335",
+            "Old Schedule Lot",
+            "C2141161",
+            [
+              [
+                "ST198624",
+                "1981-01-20",
+                "-",
+                null
+              ],
+              [
+                "ST745394",
+                "1994-01-15",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "450000.0"
+              ],
+              [
+                "ST745395",
+                "1994-01-15",
+                "-",
+                "450000.0"
+              ],
+              [
+                "ST827642",
+                "1995-08-02",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST1146438",
+                "2000-03-16",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "ST1252140",
+                "2001-10-26",
+                "AGREEMENT FOR SALE PURCHASE",
+                "1270000.0"
+              ],
+              [
+                "ST1253687",
+                "2001-11-10",
+                "MORTGAGE",
+                "1270000.0"
+              ],
+              [
+                "ST1253686",
+                "2001-11-10",
+                "ASSIGNMENT",
+                "1270000.0"
+              ],
+              [
+                "ST1253685",
+                "2001-11-10",
+                "RELEASE",
+                null
+              ],
+              [
+                "15021702320124",
+                "2015-01-20",
+                "RELEASE",
+                "ALL MONEYS"
+              ],
+              [
+                "15021702320137",
+                "2015-01-20",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935922955422645,
@@ -348,7 +1806,99 @@
         1102441651,
         null,
         "19C TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 355",
+            "Old Schedule Lot",
+            "C5380525",
+            [
+              [
+                "ST65500",
+                "1926-11-24",
+                "-",
+                "60.0"
+              ],
+              [
+                "ST102808",
+                "1938-03-30",
+                "-",
+                null
+              ],
+              [
+                "ST226253",
+                "1982-06-09",
+                "POWER OF ATTORNEY BY CHEUNG TIN YEUNG AND CHEUNG PING YAN",
+                null
+              ],
+              [
+                "ST226254",
+                "1983-04-21",
+                "-",
+                null
+              ],
+              [
+                "ST229288",
+                "1983-04-29",
+                "POWER OF ATTORNEY BY CHEUNG TIN YEUNG AND CHEUNG PING YAN",
+                null
+              ],
+              [
+                "ST229289",
+                "1983-06-27",
+                "-",
+                null
+              ],
+              [
+                "ST898896",
+                "1996-09-17",
+                "ASSIGNMENT",
+                "650000.0"
+              ],
+              [
+                "ST898895",
+                "1996-09-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "650000.0"
+              ],
+              [
+                "ST966215",
+                "1997-06-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2720000.0"
+              ],
+              [
+                "ST998249",
+                "1997-09-29",
+                "AGREEMENT FOR SUB-SALE AND PURCHASE BY YU KAI CHOY",
+                "3100000.0"
+              ],
+              [
+                "ST1008397",
+                "1997-11-14",
+                "ASSIGNMENT",
+                "3100000.0"
+              ],
+              [
+                "ST1008398",
+                "1997-11-14",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "08050801620107",
+                "2008-03-27",
+                "RELEASE",
+                "ALL MONEYS"
+              ],
+              [
+                "20061001260017",
+                "2020-05-15",
+                "ASSIGNMENT",
+                "6100000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935960162432498,
@@ -367,7 +1917,63 @@
         1102441658,
         null,
         "19D TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 356",
+            "Old Schedule Lot",
+            "C2141308",
+            [
+              [
+                "ST112227",
+                "1941-05-17",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "ST146657",
+                "1962-03-01",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "ST189581",
+                "1979-11-13",
+                "STATUTORY DECLARATION OF CHEUNG YUK TSEUNG ALIAS CHEUNG WA YAU",
+                null
+              ],
+              [
+                "ST214402",
+                "1982-07-14",
+                "CANCELLATION OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "ST833215",
+                "1995-02-20",
+                "STATUTORY DECLARATION BY CHEUNG WA YAU AND CHEUNG KAM SANG",
+                null
+              ],
+              [
+                "ST833216",
+                "1995-09-26",
+                "APPROVAL LETTER OF REDEVELOPMENT BY DISTRICT LANDS OFFICER, SHATIN",
+                null
+              ],
+              [
+                "ST918268",
+                "1996-10-14",
+                "CERTIFICATE OF COMPLIANCE WITH PLAN",
+                null
+              ],
+              [
+                "ST918267",
+                "1996-11-22",
+                "GENERAL POWER OF ATTORNEY BY CHEUNG KAM SANG",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935962073069338,
@@ -386,7 +1992,118 @@
         1102441660,
         null,
         "24 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 344",
+            "Old Schedule Lot",
+            "C2141221",
+            [
+              [
+                "ST100309",
+                "1937-07-07",
+                "-",
+                null
+              ],
+              [
+                "ST149592",
+                "1963-04-03",
+                "-",
+                null
+              ],
+              [
+                "ST204141",
+                "1981-11-06",
+                "STATUTORY DECLARATION BY CHEUNG SHEK ON ALIAS CHEUNG KAI CHEUNG",
+                null
+              ],
+              [
+                "ST217083",
+                "1982-10-05",
+                "-",
+                null
+              ],
+              [
+                "ST688265",
+                "1992-11-18",
+                "STATUTORY DECLARATION BY CHEUNG KAI CHEUNG ALSO KNOWN AS CHEUNG SHEK ON",
+                null
+              ],
+              [
+                "ST688266",
+                "1993-03-17",
+                "ASSIGNMENT BY WAY OF GIFT",
+                null
+              ],
+              [
+                "18010801510011",
+                "2017-12-17",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "19091701960050",
+                "2019-08-19",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3900000.0"
+              ],
+              [
+                "19101501270195",
+                "2019-09-20",
+                "ASSIGNMENT",
+                "3900000.0"
+              ]
+            ]
+          ],
+          [
+            "DD196 345",
+            "Old Schedule Lot",
+            "C6219412",
+            [
+              [
+                "ST148244",
+                "1962-09-19",
+                "-",
+                "400.0"
+              ],
+              [
+                "ST217083",
+                "1982-10-05",
+                "-",
+                null
+              ],
+              [
+                "ST688265",
+                "1992-11-18",
+                "STATUTORY DECLARATION BY CHEUNG KAI CHEUNG ALSO KNOWN AS CHEUNG SHEK ON",
+                null
+              ],
+              [
+                "ST688266",
+                "1993-03-17",
+                "ASSIGNMENT BY WAY OF GIFT",
+                null
+              ],
+              [
+                "18010801510011",
+                "2017-12-17",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "19091701960050",
+                "2019-08-19",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3900000.0"
+              ],
+              [
+                "19101501270195",
+                "2019-09-20",
+                "ASSIGNMENT",
+                "3900000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935944132184469,
@@ -424,7 +2141,64 @@
         1102441664,
         null,
         "28 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 337",
+            "Old Schedule Lot",
+            "C4915691",
+            [
+              [
+                "ST146563",
+                "1962-02-20",
+                "-",
+                null
+              ],
+              [
+                "ST149648",
+                "1963-03-15",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "ST189581",
+                "1979-11-13",
+                "STATUTORY DECLARATION OF CHEUNG YUK TSEUNG ALIAS CHEUNG WA YAU",
+                null
+              ],
+              [
+                "ST214402",
+                "1982-07-14",
+                "CANCELLATION OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "15081802190069",
+                "2014-10-13",
+                "PROBATE WITH AMENDED SCHEDULE OF PROPERTY",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD196 338",
+            "Old Schedule Lot",
+            "C2141180",
+            [
+              [
+                "ST139313",
+                "1959-01-16",
+                "CONVEYANCE AS A GIFT",
+                null
+              ],
+              [
+                "25051901740012",
+                "2025-04-22",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935927470568597,
@@ -462,7 +2236,33 @@
         1102441674,
         null,
         "22A TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 357",
+            "Old Schedule Lot",
+            "C2141313",
+            [
+              [
+                "ST198164",
+                "1981-01-05",
+                "-",
+                "250000.0"
+              ],
+              [
+                "17012701410016",
+                "2017-01-13",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ],
+              [
+                "17020601200053",
+                "2017-01-13",
+                "ASSIGNMENT",
+                "900000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935967236850796,
@@ -481,7 +2281,83 @@
         1102441686,
         null,
         "29 - 29A TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 338",
+            "Old Schedule Lot",
+            "C2141180",
+            [
+              [
+                "ST139313",
+                "1959-01-16",
+                "CONVEYANCE AS A GIFT",
+                null
+              ],
+              [
+                "25051901740012",
+                "2025-04-22",
+                "PROBATE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD196 339",
+            "Old Schedule Lot",
+            "C2141194",
+            [
+              [
+                "ST18846",
+                "1912-02-02",
+                "-",
+                null
+              ],
+              [
+                "ST145452",
+                "1961-10-24",
+                "-",
+                null
+              ],
+              [
+                "ST1140550",
+                "2000-01-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1800000.0"
+              ],
+              [
+                "ST1143776",
+                "2000-03-03",
+                "ASSIGNMENT",
+                "1800000.0"
+              ]
+            ]
+          ],
+          [
+            "DD196 340",
+            "Old Schedule Lot",
+            "C2141202",
+            [
+              [
+                "ST139313",
+                "1959-01-16",
+                "CONVEYANCE AS A GIFT",
+                null
+              ],
+              [
+                "ST1222508",
+                "2001-04-26",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1600000.0"
+              ],
+              [
+                "ST1222924",
+                "2001-04-26",
+                "ASSIGNMENT",
+                "1600000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935931564216742,
@@ -538,7 +2414,196 @@
         1102441701,
         null,
         null,
-        []
+        [
+          [
+            "DD191 11",
+            "Old Schedule Lot",
+            "C2118037",
+            [
+              [
+                "ST130760",
+                "1953-10-24",
+                "-",
+                null
+              ],
+              [
+                "ST147839",
+                "1962-08-09",
+                "MORTGAGE BY WAN SHUI FUK",
+                "600.0"
+              ],
+              [
+                "ST149394",
+                "1963-03-08",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "ST149395",
+                "1963-03-08",
+                "MORTGAGE BY WAN SHUI FUK",
+                "800.0"
+              ],
+              [
+                "ST687183",
+                "1993-01-06",
+                "AGREEMENT FOR SALE AND PURCHASE BY WAN SAN RE 1/6 SHARE",
+                "1595385.0"
+              ],
+              [
+                "ST750415",
+                "1993-11-15",
+                "SUPPLEMENTAL AGREEMENT SUPPLEMENTAL TO MEM. NO. 687183",
+                "1595385.0"
+              ],
+              [
+                "ST769292",
+                "1994-06-09",
+                "ASSIGNMENT",
+                "1595385.0"
+              ],
+              [
+                "ST1050750",
+                "1998-08-11",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "ST1050749",
+                "1998-08-11",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "ST1050751",
+                "1998-08-19",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "ST1069670",
+                "1998-09-24",
+                "ASSIGNMENT",
+                "1595385.0"
+              ],
+              [
+                "ST1069671",
+                "1998-09-24",
+                "ASSIGNMENT",
+                "1595385.0"
+              ],
+              [
+                "ST1069669",
+                "1998-09-24",
+                "ASSIGNMENT",
+                "4786155.0"
+              ],
+              [
+                "10062503530510",
+                "2010-04-21",
+                "SEALED COPY ORDER",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD191 16",
+            "Old Schedule Lot",
+            "C2118057",
+            [
+              [
+                "ST130760",
+                "1953-10-24",
+                "-",
+                null
+              ],
+              [
+                "ST147839",
+                "1962-08-09",
+                "MORTGAGE BY WAN SHUI FUK",
+                "600.0"
+              ],
+              [
+                "ST149395",
+                "1963-03-08",
+                "MORTGAGE BY WAN SHUI FUK",
+                "800.0"
+              ],
+              [
+                "ST149394",
+                "1963-03-08",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "ST687183",
+                "1993-01-06",
+                "AGREEMENT FOR SALE AND PURCHASE BY WAN SAN RE 1/6 SHARE",
+                "1595385.0"
+              ],
+              [
+                "ST750415",
+                "1993-11-15",
+                "SUPPLEMENTAL AGREEMENT SUPPLEMENTAL TO MEM. NO. 687183",
+                "1595385.0"
+              ],
+              [
+                "ST769292",
+                "1994-06-09",
+                "ASSIGNMENT",
+                "1595385.0"
+              ],
+              [
+                "ST1050749",
+                "1998-08-11",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "ST1050750",
+                "1998-08-11",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "ST1050751",
+                "1998-08-19",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "ST1069669",
+                "1998-09-24",
+                "ASSIGNMENT",
+                "4786155.0"
+              ],
+              [
+                "ST1069671",
+                "1998-09-24",
+                "ASSIGNMENT",
+                "1595385.0"
+              ],
+              [
+                "ST1069670",
+                "1998-09-24",
+                "ASSIGNMENT",
+                "1595385.0"
+              ],
+              [
+                "10062503530510",
+                "2010-04-21",
+                "SEALED COPY ORDER",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD191 17",
+            "Old Schedule Lot",
+            "C2118066",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9938235792184174,
@@ -557,7 +2622,14 @@
         1102441709,
         null,
         null,
-        []
+        [
+          [
+            "DD191 17",
+            "Old Schedule Lot",
+            "C2118066",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9938271536062142,
@@ -576,7 +2648,125 @@
         1102441715,
         null,
         "37A TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 362",
+            "Old Schedule Lot",
+            "C4915706",
+            [
+              [
+                "ST100309",
+                "1937-07-07",
+                "-",
+                null
+              ],
+              [
+                "ST149592",
+                "1963-04-03",
+                "-",
+                null
+              ],
+              [
+                "ST204141",
+                "1981-11-06",
+                "STATUTORY DECLARATION BY CHEUNG SHEK ON ALIAS CHEUNG KAI CHEUNG",
+                null
+              ],
+              [
+                "ST217083",
+                "1982-10-05",
+                "-",
+                null
+              ],
+              [
+                "ST688265",
+                "1992-11-18",
+                "STATUTORY DECLARATION BY CHEUNG KAI CHEUNG ALSO KNOWN AS CHEUNG SHEK ON",
+                null
+              ],
+              [
+                "ST688266",
+                "1993-03-17",
+                "ASSIGNMENT BY WAY OF GIFT",
+                null
+              ],
+              [
+                "18010801510011",
+                "2017-12-17",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD196 363",
+            "Old Schedule Lot",
+            "C5552970",
+            [
+              [
+                "ST230530",
+                "1983-07-16",
+                "CONVEYANCE AS A GIFT",
+                null
+              ],
+              [
+                "16052601920015",
+                "2016-01-28",
+                "PROBATE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD196 364",
+            "Old Schedule Lot",
+            "C2141352",
+            [
+              [
+                "ST56574",
+                "1923-07-14",
+                "-",
+                null
+              ],
+              [
+                "ST139960",
+                "1959-09-04",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "ST139961",
+                "1959-09-04",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "ST174329",
+                "1973-04-03",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "ST394172",
+                "1987-10-13",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "ST394171",
+                "1987-10-13",
+                "DECLARATION BY CHEUNG SZE ALSO KNOWN AS CHEUNG SEE",
+                null
+              ],
+              [
+                "16052601920015",
+                "2016-01-28",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993593576954128,
@@ -595,7 +2785,33 @@
         1102441718,
         null,
         "22C TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 860",
+            "New Grant Lot",
+            "C2142798",
+            [
+              [
+                "ST837776",
+                "1995-10-16",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2100000.0"
+              ],
+              [
+                "ST837777",
+                "1995-10-16",
+                "-",
+                "2100000.0"
+              ],
+              [
+                "ST1161482",
+                "2000-04-10",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935970676060182,
@@ -614,7 +2830,64 @@
         1102441729,
         null,
         null,
-        []
+        [
+          [
+            "DD196 380 S.A",
+            "New Grant Lot",
+            "C5994934",
+            [
+              [
+                "ST42360",
+                "1919-04-22",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "ST104003",
+                "1938-08-30",
+                "PROHIBITORY ORDER (SMALL DEBTS COURT CASE NO.61 OF 1938)",
+                null
+              ],
+              [
+                "ST221554",
+                "1983-01-17",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "13121601300013",
+                "2013-10-16",
+                "PROBATE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD196 380 S.B",
+            "New Grant Lot",
+            "C2141458",
+            [
+              [
+                "ST42360",
+                "1919-04-22",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "ST145452",
+                "1961-10-24",
+                "-",
+                null
+              ],
+              [
+                "25051901740012",
+                "2025-04-22",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936023855953493,
@@ -633,7 +2906,27 @@
         1102441731,
         null,
         "23 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 960",
+            "New Grant Lot",
+            "C5994951",
+            [
+              [
+                "18070900060017",
+                "2006-04-29",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "18062900010056",
+                "2018-06-22",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935990826556043,
@@ -652,7 +2945,14 @@
         1102441736,
         null,
         "22D TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 959",
+            "New Grant Lot",
+            "C5553128",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9935980867336158,
@@ -671,7 +2971,39 @@
         1102441739,
         null,
         "30 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 366",
+            "Old Schedule Lot",
+            "C5911540",
+            [
+              [
+                "ST139312",
+                "1959-01-16",
+                "-",
+                null
+              ],
+              [
+                "ST144863",
+                "1961-06-21",
+                "-",
+                "3200.0"
+              ],
+              [
+                "17072600820011",
+                "2017-04-19",
+                "ORDER NO. \"VHN/D43/100071/17/NT\" UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "17110801330071",
+                "2017-10-13",
+                "LETTER OF COMPLIANCE (ORDER NO.\"VHN/D43/100071/17/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993593440844271,
@@ -690,7 +3022,51 @@
         1102441742,
         null,
         "31 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 367",
+            "Old Schedule Lot",
+            "C2141365",
+            [
+              [
+                "ST139312",
+                "1959-01-16",
+                "-",
+                null
+              ],
+              [
+                "ST1037063",
+                "1998-06-08",
+                "PROBATE",
+                null
+              ],
+              [
+                "15090802200024",
+                "2015-05-21",
+                "ASSENT",
+                null
+              ],
+              [
+                "17080401450038",
+                "2017-04-19",
+                "ORDER NO. \"VHN/D43/100101/17/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "17110801330068",
+                "2017-10-13",
+                "LETTER OF COMPLIANCE (ORDER NO.\"VHN/D43/100101/17/NT\")",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD196 852",
+            "New Grant Lot",
+            "C2142749",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9935939826561495,
@@ -728,7 +3104,21 @@
         1102441749,
         null,
         "61 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 957",
+            "New Grant Lot",
+            "C2143378",
+            [
+              [
+                "ST1166349",
+                "1999-01-12",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935884801598016,
@@ -747,7 +3137,33 @@
         1102441754,
         null,
         "32 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 861",
+            "New Grant Lot",
+            "C2142808",
+            [
+              [
+                "ST1052380",
+                "1998-09-21",
+                "LETTERS OF ADMINISTRATION (GRANT NO.HCAG003324/98)",
+                null
+              ],
+              [
+                "ST1233683",
+                "2001-07-18",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "ST1233684",
+                "2001-07-18",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935941455545665,
@@ -766,7 +3182,21 @@
         1102441755,
         null,
         "60 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 956",
+            "New Grant Lot",
+            "C2143362",
+            [
+              [
+                "ST1166348",
+                "1999-01-12",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935891437820787,
@@ -785,7 +3215,45 @@
         1102441756,
         null,
         "32A TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 371",
+            "Old Schedule Lot",
+            "C2141403",
+            [
+              [
+                "ST169548",
+                "1971-12-15",
+                "-",
+                null
+              ],
+              [
+                "05061002460299",
+                "2005-04-25",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1000000.0"
+              ],
+              [
+                "05070400400323",
+                "2005-06-06",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "16042002020025",
+                "2016-03-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8000000.0"
+              ],
+              [
+                "16060100030079",
+                "2016-05-13",
+                "ASSIGNMENT",
+                "8000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935951910615295,
@@ -804,7 +3272,137 @@
         1102441760,
         null,
         "33A TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 371",
+            "Old Schedule Lot",
+            "C2141403",
+            [
+              [
+                "ST169548",
+                "1971-12-15",
+                "-",
+                null
+              ],
+              [
+                "05061002460299",
+                "2005-04-25",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1000000.0"
+              ],
+              [
+                "05070400400323",
+                "2005-06-06",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "16042002020025",
+                "2016-03-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8000000.0"
+              ],
+              [
+                "16060100030079",
+                "2016-05-13",
+                "ASSIGNMENT",
+                "8000000.0"
+              ]
+            ]
+          ],
+          [
+            "DD196 372",
+            "Old Schedule Lot",
+            "C2141419",
+            [
+              [
+                "ST42623",
+                "1919-06-04",
+                "-",
+                null
+              ],
+              [
+                "ST213989",
+                "1982-07-05",
+                "-",
+                null
+              ],
+              [
+                "ST1058432",
+                "1998-10-26",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "08123000910116",
+                "2008-12-22",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "17120501390039",
+                "2017-11-13",
+                "ORDER NO. \"VHN/D43/100220/17/NT\"  UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "19101801760021",
+                "2018-08-15",
+                "LETTER OF COMPLIANCE (ORDER NO. \"VHN/D43/100220/17/NT\")",
+                null
+              ],
+              [
+                "21060201430309",
+                "2021-05-05",
+                "ORDER NO. \"VHN/D43/100111/21/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "22072701790116",
+                "2022-06-15",
+                "LETTER OF COMPLIANCE (ORDER NO. \"VHN/D43/100111/21/NT\")",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD196 373",
+            "Old Schedule Lot",
+            "C2141424",
+            [
+              [
+                "ST213989",
+                "1982-07-05",
+                "-",
+                null
+              ],
+              [
+                "ST1058432",
+                "1998-10-26",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "08123000910116",
+                "2008-12-22",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "17120501390039",
+                "2017-11-13",
+                "ORDER NO. \"VHN/D43/100220/17/NT\"  UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "18090701660111",
+                "2018-08-15",
+                "LETTER OF COMPLIANCE (ORDER NO. \"VHN/D43/100220/17/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935958093684711,
@@ -823,7 +3421,27 @@
         1102441764,
         null,
         "59 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 955",
+            "New Grant Lot",
+            "C2143358",
+            [
+              [
+                "ST1382560",
+                "1999-01-05",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "ST1384542",
+                "2004-07-30",
+                "CONSENT LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935900847023296,
@@ -842,7 +3460,45 @@
         1102441767,
         null,
         "34A TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 377",
+            "Old Schedule Lot",
+            "C2141448",
+            [
+              [
+                "ST146563",
+                "1962-02-20",
+                "-",
+                null
+              ],
+              [
+                "13041102350034",
+                "2012-08-28",
+                "PROBATE",
+                null
+              ],
+              [
+                "13081501790024",
+                "2013-03-28",
+                "ASSENT",
+                null
+              ],
+              [
+                "14121202410029",
+                "2014-11-19",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "14121202410017",
+                "2014-11-19",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "100000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936006225621234,
@@ -861,7 +3517,138 @@
         1102441770,
         null,
         "33 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 373",
+            "Old Schedule Lot",
+            "C2141424",
+            [
+              [
+                "ST213989",
+                "1982-07-05",
+                "-",
+                null
+              ],
+              [
+                "ST1058432",
+                "1998-10-26",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "08123000910116",
+                "2008-12-22",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "17120501390039",
+                "2017-11-13",
+                "ORDER NO. \"VHN/D43/100220/17/NT\"  UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "18090701660111",
+                "2018-08-15",
+                "LETTER OF COMPLIANCE (ORDER NO. \"VHN/D43/100220/17/NT\")",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD196 374",
+            "Old Schedule Lot",
+            "C2141435",
+            [
+              [
+                "ST69327",
+                "1928-02-10",
+                "-",
+                null
+              ],
+              [
+                "ST213988",
+                "1982-07-05",
+                "-",
+                null
+              ],
+              [
+                "17120501390029",
+                "2017-11-13",
+                "ORDER NO. \"VHN/D43/100219/17/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "19020401170250",
+                "2019-01-10",
+                "LETTER OF COMPLIANCE (ORDER NO. \"VHN/D43/100219/17/NT\")",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD196 401",
+            "Old Schedule Lot",
+            "C2141507",
+            [
+              [
+                "ST136740",
+                "1957-09-12",
+                "-",
+                null
+              ],
+              [
+                "ST214742",
+                "1982-07-28",
+                "-",
+                null
+              ],
+              [
+                "17120501390029",
+                "2017-11-13",
+                "ORDER NO. \"VHN/D43/100219/17/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "19020401170250",
+                "2019-01-10",
+                "LETTER OF COMPLIANCE (ORDER NO. \"VHN/D43/100219/17/NT\")",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD196 845",
+            "New Grant Lot",
+            "C2142691",
+            [
+              [
+                "ST136740",
+                "1957-09-12",
+                "-",
+                null
+              ],
+              [
+                "ST214742",
+                "1982-07-28",
+                "-",
+                null
+              ],
+              [
+                "17120501390029",
+                "2017-11-13",
+                "ORDER NO. \"VHN/D43/100219/17/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "19020401170250",
+                "2019-01-10",
+                "LETTER OF COMPLIANCE (ORDER NO. \"VHN/D43/100219/17/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935967313064824,
@@ -880,7 +3667,21 @@
         1102441775,
         null,
         "58 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 954",
+            "New Grant Lot",
+            "C4915996",
+            [
+              [
+                "ST1124200",
+                "1998-12-11",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935907472996683,
@@ -899,7 +3700,45 @@
         1102441780,
         null,
         "26 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 962",
+            "New Grant Lot",
+            "C2143398",
+            [
+              [
+                "14090400730015",
+                "2006-05-15",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "14090400730029",
+                "2014-05-23",
+                "CONSENT TO ASSIGN",
+                null
+              ],
+              [
+                "14090500830017",
+                "2014-08-15",
+                "ASSIGNMENT",
+                "3000000.0"
+              ],
+              [
+                "14090400730049",
+                "2014-08-15",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3000000.0"
+              ],
+              [
+                "15040800790014",
+                "2014-08-15",
+                "UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936028035406665,
@@ -918,7 +3757,14 @@
         1102441781,
         null,
         "57 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 953",
+            "New Grant Lot",
+            "C2143348",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.993591693586517,
@@ -937,7 +3783,33 @@
         1102441783,
         null,
         "34 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 400",
+            "Old Schedule Lot",
+            "C2141499",
+            [
+              [
+                "ST146563",
+                "1962-02-20",
+                "-",
+                null
+              ],
+              [
+                "13041102350034",
+                "2012-08-28",
+                "PROBATE",
+                null
+              ],
+              [
+                "13081501790032",
+                "2013-03-25",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935970128673635,
@@ -975,7 +3847,57 @@
         1102441786,
         null,
         "46 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 394",
+            "Old Schedule Lot",
+            "C2141462",
+            [
+              [
+                "ST190786",
+                "1980-05-16",
+                "CONVEYANCE AS A GIFT",
+                null
+              ],
+              [
+                "ST199404",
+                "1981-02-10",
+                "-",
+                "850000.0"
+              ],
+              [
+                "ST796283",
+                "1993-06-25",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF BUILDING WORKS",
+                null
+              ],
+              [
+                "ST796282",
+                "1993-06-25",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF BUILDING WORKS",
+                null
+              ],
+              [
+                "ST796281",
+                "1993-06-25",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF SITE FORMATION WORKS",
+                null
+              ],
+              [
+                "ST796284",
+                "1993-06-25",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "ST796285",
+                "1994-11-29",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993600479318063,
@@ -994,7 +3916,21 @@
         1102441790,
         null,
         "56 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 952",
+            "New Grant Lot",
+            "C5959190",
+            [
+              [
+                "21120800670038",
+                "2021-11-17",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993592360293639,
@@ -1013,7 +3949,63 @@
         1102441792,
         null,
         "35 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 396 RP",
+            "Old Schedule Lot",
+            "C4915737",
+            [
+              [
+                "ST56574",
+                "1923-07-14",
+                "-",
+                null
+              ],
+              [
+                "ST139961",
+                "1959-09-04",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "ST139960",
+                "1959-09-04",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "ST174329",
+                "1973-04-03",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "ST394171",
+                "1987-10-13",
+                "DECLARATION BY CHEUNG SZE ALSO KNOWN AS CHEUNG SEE",
+                null
+              ],
+              [
+                "ST394172",
+                "1987-10-13",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "16100300480075",
+                "2016-09-06",
+                "ORDER NO. VHN/D43/100235/16/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "25061600290656",
+                "2025-06-05",
+                "LETTER OF COMPLIANCE (ORDER NO. \"VHN/D43/100235/16/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935982014875868,
@@ -1032,7 +4024,27 @@
         1102441793,
         null,
         "27 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 963",
+            "New Grant Lot",
+            "C2143401",
+            [
+              [
+                "13011701570010",
+                "2006-04-29",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "12080601100022",
+                "2012-06-15",
+                "CONSENT LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936030426163698,
@@ -1051,7 +4063,57 @@
         1102441794,
         null,
         "47 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 394",
+            "Old Schedule Lot",
+            "C2141462",
+            [
+              [
+                "ST190786",
+                "1980-05-16",
+                "CONVEYANCE AS A GIFT",
+                null
+              ],
+              [
+                "ST199404",
+                "1981-02-10",
+                "-",
+                "850000.0"
+              ],
+              [
+                "ST796283",
+                "1993-06-25",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF BUILDING WORKS",
+                null
+              ],
+              [
+                "ST796282",
+                "1993-06-25",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF BUILDING WORKS",
+                null
+              ],
+              [
+                "ST796281",
+                "1993-06-25",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF SITE FORMATION WORKS",
+                null
+              ],
+              [
+                "ST796284",
+                "1993-06-25",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "ST796285",
+                "1994-11-29",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936006474774746,
@@ -1070,7 +4132,63 @@
         1102441795,
         null,
         "35A TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 396 RP",
+            "Old Schedule Lot",
+            "C4915737",
+            [
+              [
+                "ST56574",
+                "1923-07-14",
+                "-",
+                null
+              ],
+              [
+                "ST139961",
+                "1959-09-04",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "ST139960",
+                "1959-09-04",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "ST174329",
+                "1973-04-03",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "ST394171",
+                "1987-10-13",
+                "DECLARATION BY CHEUNG SZE ALSO KNOWN AS CHEUNG SEE",
+                null
+              ],
+              [
+                "ST394172",
+                "1987-10-13",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "16100300480075",
+                "2016-09-06",
+                "ORDER NO. VHN/D43/100235/16/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "25061600290656",
+                "2025-06-05",
+                "LETTER OF COMPLIANCE (ORDER NO. \"VHN/D43/100235/16/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935983361619178,
@@ -1089,7 +4207,27 @@
         1102441799,
         null,
         "55 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 951",
+            "New Grant Lot",
+            "C2143335",
+            [
+              [
+                "ST1069498",
+                "1998-11-24",
+                "LETTER (CERTIFICATE OF COMPLIANCE)",
+                null
+              ],
+              [
+                "ST1362567",
+                "2004-03-05",
+                "CONSENT LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935933002803308,
@@ -1108,7 +4246,57 @@
         1102441802,
         null,
         "48 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 394",
+            "Old Schedule Lot",
+            "C2141462",
+            [
+              [
+                "ST190786",
+                "1980-05-16",
+                "CONVEYANCE AS A GIFT",
+                null
+              ],
+              [
+                "ST199404",
+                "1981-02-10",
+                "-",
+                "850000.0"
+              ],
+              [
+                "ST796283",
+                "1993-06-25",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF BUILDING WORKS",
+                null
+              ],
+              [
+                "ST796282",
+                "1993-06-25",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF BUILDING WORKS",
+                null
+              ],
+              [
+                "ST796281",
+                "1993-06-25",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF SITE FORMATION WORKS",
+                null
+              ],
+              [
+                "ST796284",
+                "1993-06-25",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "ST796285",
+                "1994-11-29",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993600820478457,
@@ -1127,7 +4315,51 @@
         1102441803,
         null,
         "36 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 396 S.A",
+            "Old Schedule Lot",
+            "C2141478",
+            [
+              [
+                "ST56574",
+                "1923-07-14",
+                "-",
+                null
+              ],
+              [
+                "ST139961",
+                "1959-09-04",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "ST139960",
+                "1959-09-04",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "ST174329",
+                "1973-04-03",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "ST394172",
+                "1987-10-13",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "16052601920015",
+                "2016-01-28",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935984762461338,
@@ -1146,7 +4378,14 @@
         1102441809,
         null,
         "54 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 950",
+            "New Grant Lot",
+            "C5553117",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9935939609333888,
@@ -1165,7 +4404,57 @@
         1102441811,
         null,
         "49 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 394",
+            "Old Schedule Lot",
+            "C2141462",
+            [
+              [
+                "ST190786",
+                "1980-05-16",
+                "CONVEYANCE AS A GIFT",
+                null
+              ],
+              [
+                "ST199404",
+                "1981-02-10",
+                "-",
+                "850000.0"
+              ],
+              [
+                "ST796283",
+                "1993-06-25",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF BUILDING WORKS",
+                null
+              ],
+              [
+                "ST796282",
+                "1993-06-25",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF BUILDING WORKS",
+                null
+              ],
+              [
+                "ST796281",
+                "1993-06-25",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF SITE FORMATION WORKS",
+                null
+              ],
+              [
+                "ST796284",
+                "1993-06-25",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "ST796285",
+                "1994-11-29",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936009920996447,
@@ -1184,7 +4473,39 @@
         1102441814,
         null,
         "37 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 965",
+            "New Grant Lot",
+            "C2143411",
+            [
+              [
+                "09011200380015",
+                "2006-09-20",
+                "CERTIFICATE OF  COMPLIANCE",
+                null
+              ],
+              [
+                "08063001070303",
+                "2008-02-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "08063001070297",
+                "2008-03-26",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "08121500730028",
+                "2008-11-26",
+                "DEED OF ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935988140889078,
@@ -1203,7 +4524,14 @@
         1102441817,
         null,
         "53 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 949",
+            "New Grant Lot",
+            "C2143329",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.993594908344217,
@@ -1222,7 +4550,27 @@
         1102441818,
         null,
         "39 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 964",
+            "New Grant Lot",
+            "C5380581",
+            [
+              [
+                "24010401450034",
+                "2023-07-31",
+                "ORDER NO. \"VHN/D43/500554/23/NT\" UNDER S.24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24082300530351",
+                "2024-07-29",
+                "LETTER OF COMPLIANCE (ORDER NO. \"VHN/D43/500554/23/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936014209802138,
@@ -1241,7 +4589,33 @@
         1102441820,
         null,
         "52 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 948",
+            "New Grant Lot",
+            "C4915980",
+            [
+              [
+                "13121601300013",
+                "2013-10-16",
+                "PROBATE",
+                null
+              ],
+              [
+                "23053100511319",
+                "2022-12-28",
+                "ORDER NO. \"VHN/D43/500270/22/NT\" UNDER S.24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23092100300572",
+                "2023-07-05",
+                "LETTER OF COMPLIANCE (ORDER NO. \"VHN/D43/500270/22/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935955740159221,
@@ -1260,7 +4634,14 @@
         1102441830,
         null,
         "51 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 947",
+            "New Grant Lot",
+            "C2143312",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9935961828219178,
@@ -1279,7 +4660,45 @@
         1102441838,
         null,
         "50 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 946",
+            "New Grant Lot",
+            "C5731177",
+            [
+              [
+                "ST1063596",
+                "1998-11-24",
+                "LETTER (CERTIFICATE OF COMPLIANCE)",
+                null
+              ],
+              [
+                "ST1345725",
+                "2003-10-08",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "ST1343608",
+                "2003-11-04",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "ST1343607",
+                "2003-11-04",
+                "ASSIGNMENT",
+                "2777200.0"
+              ],
+              [
+                "08082100390022",
+                "2008-08-18",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935968449984156,
@@ -1298,7 +4717,75 @@
         1102441853,
         "CHEVALIER GARDEN BLOCK 10",
         "2 HANG SHUN STREET",
-        []
+        [
+          [
+            "STTL 258 RP",
+            "New Grant Lot",
+            "C4744856",
+            [
+              [
+                "ST316945",
+                "1986-01-14",
+                "DEED FOR SUPPLY OF SHELL GAS RE STTL 258",
+                null
+              ],
+              [
+                "ST330762",
+                "1986-06-18",
+                "LETTER WITH CERTIFIED TRUE COPY CAR PARK LAYOUT PLAN RE STTL 258",
+                null
+              ],
+              [
+                "ST337783",
+                "1986-08-27",
+                "BUILDING MORTGAGE RE STTL 258",
+                "600000000.0"
+              ],
+              [
+                "ST380040",
+                "1986-12-16",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST350752",
+                "1986-12-16",
+                "STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST369473",
+                "1987-05-14",
+                "LETTER WITH AMENDED CAR PARKING SPACES LAYOUT PLANS",
+                null
+              ],
+              [
+                "ST374866",
+                "1987-06-25",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST387629",
+                "1987-07-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST463100",
+                "1989-01-24",
+                "LETTER FROM REGISTRAR GENERAL (LAND OFFICER SHA TIN)",
+                null
+              ],
+              [
+                "ST475435",
+                "1989-05-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935914991716095,
@@ -1355,7 +4842,75 @@
         1102441878,
         "CHEVALIER GARDEN BLOCK 11",
         "2 HANG SHUN STREET",
-        []
+        [
+          [
+            "STTL 258 RP",
+            "New Grant Lot",
+            "C4744856",
+            [
+              [
+                "ST316945",
+                "1986-01-14",
+                "DEED FOR SUPPLY OF SHELL GAS RE STTL 258",
+                null
+              ],
+              [
+                "ST330762",
+                "1986-06-18",
+                "LETTER WITH CERTIFIED TRUE COPY CAR PARK LAYOUT PLAN RE STTL 258",
+                null
+              ],
+              [
+                "ST337783",
+                "1986-08-27",
+                "BUILDING MORTGAGE RE STTL 258",
+                "600000000.0"
+              ],
+              [
+                "ST380040",
+                "1986-12-16",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST350752",
+                "1986-12-16",
+                "STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST369473",
+                "1987-05-14",
+                "LETTER WITH AMENDED CAR PARKING SPACES LAYOUT PLANS",
+                null
+              ],
+              [
+                "ST374866",
+                "1987-06-25",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST387629",
+                "1987-07-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST463100",
+                "1989-01-24",
+                "LETTER FROM REGISTRAR GENERAL (LAND OFFICER SHA TIN)",
+                null
+              ],
+              [
+                "ST475435",
+                "1989-05-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935982806209633,
@@ -1374,7 +4929,75 @@
         1102441912,
         "CHEVALIER GARDEN BLOCK 12",
         "2 HANG SHUN STREET",
-        []
+        [
+          [
+            "STTL 258 RP",
+            "New Grant Lot",
+            "C4744856",
+            [
+              [
+                "ST316945",
+                "1986-01-14",
+                "DEED FOR SUPPLY OF SHELL GAS RE STTL 258",
+                null
+              ],
+              [
+                "ST330762",
+                "1986-06-18",
+                "LETTER WITH CERTIFIED TRUE COPY CAR PARK LAYOUT PLAN RE STTL 258",
+                null
+              ],
+              [
+                "ST337783",
+                "1986-08-27",
+                "BUILDING MORTGAGE RE STTL 258",
+                "600000000.0"
+              ],
+              [
+                "ST380040",
+                "1986-12-16",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST350752",
+                "1986-12-16",
+                "STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST369473",
+                "1987-05-14",
+                "LETTER WITH AMENDED CAR PARKING SPACES LAYOUT PLANS",
+                null
+              ],
+              [
+                "ST374866",
+                "1987-06-25",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST387629",
+                "1987-07-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST463100",
+                "1989-01-24",
+                "LETTER FROM REGISTRAR GENERAL (LAND OFFICER SHA TIN)",
+                null
+              ],
+              [
+                "ST475435",
+                "1989-05-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936024427195662,
@@ -1412,7 +5035,75 @@
         1102441928,
         "CHEVALIER GARDEN BLOCK 13",
         "2 HANG SHUN STREET",
-        []
+        [
+          [
+            "STTL 258 RP",
+            "New Grant Lot",
+            "C4744856",
+            [
+              [
+                "ST316945",
+                "1986-01-14",
+                "DEED FOR SUPPLY OF SHELL GAS RE STTL 258",
+                null
+              ],
+              [
+                "ST330762",
+                "1986-06-18",
+                "LETTER WITH CERTIFIED TRUE COPY CAR PARK LAYOUT PLAN RE STTL 258",
+                null
+              ],
+              [
+                "ST337783",
+                "1986-08-27",
+                "BUILDING MORTGAGE RE STTL 258",
+                "600000000.0"
+              ],
+              [
+                "ST380040",
+                "1986-12-16",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST350752",
+                "1986-12-16",
+                "STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST369473",
+                "1987-05-14",
+                "LETTER WITH AMENDED CAR PARKING SPACES LAYOUT PLANS",
+                null
+              ],
+              [
+                "ST374866",
+                "1987-06-25",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST387629",
+                "1987-07-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST463100",
+                "1989-01-24",
+                "LETTER FROM REGISTRAR GENERAL (LAND OFFICER SHA TIN)",
+                null
+              ],
+              [
+                "ST475435",
+                "1989-05-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936092561807184,
@@ -1431,7 +5122,75 @@
         1102441933,
         null,
         "2 HANG SHUN STREET",
-        []
+        [
+          [
+            "STTL 258 RP",
+            "New Grant Lot",
+            "C4744856",
+            [
+              [
+                "ST316945",
+                "1986-01-14",
+                "DEED FOR SUPPLY OF SHELL GAS RE STTL 258",
+                null
+              ],
+              [
+                "ST330762",
+                "1986-06-18",
+                "LETTER WITH CERTIFIED TRUE COPY CAR PARK LAYOUT PLAN RE STTL 258",
+                null
+              ],
+              [
+                "ST337783",
+                "1986-08-27",
+                "BUILDING MORTGAGE RE STTL 258",
+                "600000000.0"
+              ],
+              [
+                "ST380040",
+                "1986-12-16",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST350752",
+                "1986-12-16",
+                "STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST369473",
+                "1987-05-14",
+                "LETTER WITH AMENDED CAR PARKING SPACES LAYOUT PLANS",
+                null
+              ],
+              [
+                "ST374866",
+                "1987-06-25",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST387629",
+                "1987-07-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST463100",
+                "1989-01-24",
+                "LETTER FROM REGISTRAR GENERAL (LAND OFFICER SHA TIN)",
+                null
+              ],
+              [
+                "ST475435",
+                "1989-05-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993589720690794,
@@ -1450,7 +5209,75 @@
         1102441935,
         null,
         "2 HANG SHUN STREET",
-        []
+        [
+          [
+            "STTL 258 RP",
+            "New Grant Lot",
+            "C4744856",
+            [
+              [
+                "ST316945",
+                "1986-01-14",
+                "DEED FOR SUPPLY OF SHELL GAS RE STTL 258",
+                null
+              ],
+              [
+                "ST330762",
+                "1986-06-18",
+                "LETTER WITH CERTIFIED TRUE COPY CAR PARK LAYOUT PLAN RE STTL 258",
+                null
+              ],
+              [
+                "ST337783",
+                "1986-08-27",
+                "BUILDING MORTGAGE RE STTL 258",
+                "600000000.0"
+              ],
+              [
+                "ST380040",
+                "1986-12-16",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST350752",
+                "1986-12-16",
+                "STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST369473",
+                "1987-05-14",
+                "LETTER WITH AMENDED CAR PARKING SPACES LAYOUT PLANS",
+                null
+              ],
+              [
+                "ST374866",
+                "1987-06-25",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST387629",
+                "1987-07-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST463100",
+                "1989-01-24",
+                "LETTER FROM REGISTRAR GENERAL (LAND OFFICER SHA TIN)",
+                null
+              ],
+              [
+                "ST475435",
+                "1989-05-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993596701980589,
@@ -1469,7 +5296,75 @@
         1102441958,
         "CHEVALIER GARDEN BLOCK 14",
         "2 HANG SHUN STREET",
-        []
+        [
+          [
+            "STTL 258 RP",
+            "New Grant Lot",
+            "C4744856",
+            [
+              [
+                "ST316945",
+                "1986-01-14",
+                "DEED FOR SUPPLY OF SHELL GAS RE STTL 258",
+                null
+              ],
+              [
+                "ST330762",
+                "1986-06-18",
+                "LETTER WITH CERTIFIED TRUE COPY CAR PARK LAYOUT PLAN RE STTL 258",
+                null
+              ],
+              [
+                "ST337783",
+                "1986-08-27",
+                "BUILDING MORTGAGE RE STTL 258",
+                "600000000.0"
+              ],
+              [
+                "ST380040",
+                "1986-12-16",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST350752",
+                "1986-12-16",
+                "STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST369473",
+                "1987-05-14",
+                "LETTER WITH AMENDED CAR PARKING SPACES LAYOUT PLANS",
+                null
+              ],
+              [
+                "ST374866",
+                "1987-06-25",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST387629",
+                "1987-07-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST463100",
+                "1989-01-24",
+                "LETTER FROM REGISTRAR GENERAL (LAND OFFICER SHA TIN)",
+                null
+              ],
+              [
+                "ST475435",
+                "1989-05-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936081917911603,
@@ -1488,7 +5383,75 @@
         1102441961,
         null,
         "2 HANG SHUN STREET",
-        []
+        [
+          [
+            "STTL 258 RP",
+            "New Grant Lot",
+            "C4744856",
+            [
+              [
+                "ST316945",
+                "1986-01-14",
+                "DEED FOR SUPPLY OF SHELL GAS RE STTL 258",
+                null
+              ],
+              [
+                "ST330762",
+                "1986-06-18",
+                "LETTER WITH CERTIFIED TRUE COPY CAR PARK LAYOUT PLAN RE STTL 258",
+                null
+              ],
+              [
+                "ST337783",
+                "1986-08-27",
+                "BUILDING MORTGAGE RE STTL 258",
+                "600000000.0"
+              ],
+              [
+                "ST380040",
+                "1986-12-16",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST350752",
+                "1986-12-16",
+                "STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST369473",
+                "1987-05-14",
+                "LETTER WITH AMENDED CAR PARKING SPACES LAYOUT PLANS",
+                null
+              ],
+              [
+                "ST374866",
+                "1987-06-25",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST387629",
+                "1987-07-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST463100",
+                "1989-01-24",
+                "LETTER FROM REGISTRAR GENERAL (LAND OFFICER SHA TIN)",
+                null
+              ],
+              [
+                "ST475435",
+                "1989-05-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936004873855524,
@@ -1507,7 +5470,75 @@
         1102441971,
         "CHEVALIER GARDEN BLOCK 2",
         "2 HANG SHUN STREET",
-        []
+        [
+          [
+            "STTL 258 RP",
+            "New Grant Lot",
+            "C4744856",
+            [
+              [
+                "ST316945",
+                "1986-01-14",
+                "DEED FOR SUPPLY OF SHELL GAS RE STTL 258",
+                null
+              ],
+              [
+                "ST330762",
+                "1986-06-18",
+                "LETTER WITH CERTIFIED TRUE COPY CAR PARK LAYOUT PLAN RE STTL 258",
+                null
+              ],
+              [
+                "ST337783",
+                "1986-08-27",
+                "BUILDING MORTGAGE RE STTL 258",
+                "600000000.0"
+              ],
+              [
+                "ST380040",
+                "1986-12-16",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST350752",
+                "1986-12-16",
+                "STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST369473",
+                "1987-05-14",
+                "LETTER WITH AMENDED CAR PARKING SPACES LAYOUT PLANS",
+                null
+              ],
+              [
+                "ST374866",
+                "1987-06-25",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST387629",
+                "1987-07-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST463100",
+                "1989-01-24",
+                "LETTER FROM REGISTRAR GENERAL (LAND OFFICER SHA TIN)",
+                null
+              ],
+              [
+                "ST475435",
+                "1989-05-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935884315795909,
@@ -1526,7 +5557,75 @@
         1102441997,
         "CHEVALIER GARDEN BLOCK 1",
         "2 HANG SHUN STREET",
-        []
+        [
+          [
+            "STTL 258 RP",
+            "New Grant Lot",
+            "C4744856",
+            [
+              [
+                "ST316945",
+                "1986-01-14",
+                "DEED FOR SUPPLY OF SHELL GAS RE STTL 258",
+                null
+              ],
+              [
+                "ST330762",
+                "1986-06-18",
+                "LETTER WITH CERTIFIED TRUE COPY CAR PARK LAYOUT PLAN RE STTL 258",
+                null
+              ],
+              [
+                "ST337783",
+                "1986-08-27",
+                "BUILDING MORTGAGE RE STTL 258",
+                "600000000.0"
+              ],
+              [
+                "ST380040",
+                "1986-12-16",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST350752",
+                "1986-12-16",
+                "STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST369473",
+                "1987-05-14",
+                "LETTER WITH AMENDED CAR PARKING SPACES LAYOUT PLANS",
+                null
+              ],
+              [
+                "ST374866",
+                "1987-06-25",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST387629",
+                "1987-07-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST463100",
+                "1989-01-24",
+                "LETTER FROM REGISTRAR GENERAL (LAND OFFICER SHA TIN)",
+                null
+              ],
+              [
+                "ST475435",
+                "1989-05-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935951169390125,
@@ -1545,7 +5644,75 @@
         1102442001,
         "WELLBORN INTERNATIONAL PLAY SCHOOL",
         null,
-        []
+        [
+          [
+            "STTL 258 RP",
+            "New Grant Lot",
+            "C4744856",
+            [
+              [
+                "ST316945",
+                "1986-01-14",
+                "DEED FOR SUPPLY OF SHELL GAS RE STTL 258",
+                null
+              ],
+              [
+                "ST330762",
+                "1986-06-18",
+                "LETTER WITH CERTIFIED TRUE COPY CAR PARK LAYOUT PLAN RE STTL 258",
+                null
+              ],
+              [
+                "ST337783",
+                "1986-08-27",
+                "BUILDING MORTGAGE RE STTL 258",
+                "600000000.0"
+              ],
+              [
+                "ST380040",
+                "1986-12-16",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST350752",
+                "1986-12-16",
+                "STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST369473",
+                "1987-05-14",
+                "LETTER WITH AMENDED CAR PARKING SPACES LAYOUT PLANS",
+                null
+              ],
+              [
+                "ST374866",
+                "1987-06-25",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST387629",
+                "1987-07-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST463100",
+                "1989-01-24",
+                "LETTER FROM REGISTRAR GENERAL (LAND OFFICER SHA TIN)",
+                null
+              ],
+              [
+                "ST475435",
+                "1989-05-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936054177896725,
@@ -1564,7 +5731,75 @@
         1102442009,
         "CHEVALIER GARDEN BLOCK 15",
         "2 HANG SHUN STREET",
-        []
+        [
+          [
+            "STTL 258 RP",
+            "New Grant Lot",
+            "C4744856",
+            [
+              [
+                "ST316945",
+                "1986-01-14",
+                "DEED FOR SUPPLY OF SHELL GAS RE STTL 258",
+                null
+              ],
+              [
+                "ST330762",
+                "1986-06-18",
+                "LETTER WITH CERTIFIED TRUE COPY CAR PARK LAYOUT PLAN RE STTL 258",
+                null
+              ],
+              [
+                "ST337783",
+                "1986-08-27",
+                "BUILDING MORTGAGE RE STTL 258",
+                "600000000.0"
+              ],
+              [
+                "ST380040",
+                "1986-12-16",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST350752",
+                "1986-12-16",
+                "STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST369473",
+                "1987-05-14",
+                "LETTER WITH AMENDED CAR PARKING SPACES LAYOUT PLANS",
+                null
+              ],
+              [
+                "ST374866",
+                "1987-06-25",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST387629",
+                "1987-07-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST463100",
+                "1989-01-24",
+                "LETTER FROM REGISTRAR GENERAL (LAND OFFICER SHA TIN)",
+                null
+              ],
+              [
+                "ST475435",
+                "1989-05-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936124013954937,
@@ -1583,7 +5818,75 @@
         1102442019,
         "WELLBORN ANGLO-CHINESE KINDERGARTEN",
         null,
-        []
+        [
+          [
+            "STTL 258 RP",
+            "New Grant Lot",
+            "C4744856",
+            [
+              [
+                "ST316945",
+                "1986-01-14",
+                "DEED FOR SUPPLY OF SHELL GAS RE STTL 258",
+                null
+              ],
+              [
+                "ST330762",
+                "1986-06-18",
+                "LETTER WITH CERTIFIED TRUE COPY CAR PARK LAYOUT PLAN RE STTL 258",
+                null
+              ],
+              [
+                "ST337783",
+                "1986-08-27",
+                "BUILDING MORTGAGE RE STTL 258",
+                "600000000.0"
+              ],
+              [
+                "ST380040",
+                "1986-12-16",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST350752",
+                "1986-12-16",
+                "STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST369473",
+                "1987-05-14",
+                "LETTER WITH AMENDED CAR PARKING SPACES LAYOUT PLANS",
+                null
+              ],
+              [
+                "ST374866",
+                "1987-06-25",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST387629",
+                "1987-07-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST463100",
+                "1989-01-24",
+                "LETTER FROM REGISTRAR GENERAL (LAND OFFICER SHA TIN)",
+                null
+              ],
+              [
+                "ST475435",
+                "1989-05-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936098738953199,
@@ -1602,7 +5905,75 @@
         1102442020,
         null,
         "2 HANG SHUN STREET",
-        []
+        [
+          [
+            "STTL 258 RP",
+            "New Grant Lot",
+            "C4744856",
+            [
+              [
+                "ST316945",
+                "1986-01-14",
+                "DEED FOR SUPPLY OF SHELL GAS RE STTL 258",
+                null
+              ],
+              [
+                "ST330762",
+                "1986-06-18",
+                "LETTER WITH CERTIFIED TRUE COPY CAR PARK LAYOUT PLAN RE STTL 258",
+                null
+              ],
+              [
+                "ST337783",
+                "1986-08-27",
+                "BUILDING MORTGAGE RE STTL 258",
+                "600000000.0"
+              ],
+              [
+                "ST380040",
+                "1986-12-16",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST350752",
+                "1986-12-16",
+                "STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST369473",
+                "1987-05-14",
+                "LETTER WITH AMENDED CAR PARKING SPACES LAYOUT PLANS",
+                null
+              ],
+              [
+                "ST374866",
+                "1987-06-25",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST387629",
+                "1987-07-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST463100",
+                "1989-01-24",
+                "LETTER FROM REGISTRAR GENERAL (LAND OFFICER SHA TIN)",
+                null
+              ],
+              [
+                "ST475435",
+                "1989-05-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993600329017534,
@@ -1640,7 +6011,75 @@
         1102442038,
         "CHEVALIER GARDEN BLOCK 16",
         "2 HANG SHUN STREET",
-        []
+        [
+          [
+            "STTL 258 RP",
+            "New Grant Lot",
+            "C4744856",
+            [
+              [
+                "ST316945",
+                "1986-01-14",
+                "DEED FOR SUPPLY OF SHELL GAS RE STTL 258",
+                null
+              ],
+              [
+                "ST330762",
+                "1986-06-18",
+                "LETTER WITH CERTIFIED TRUE COPY CAR PARK LAYOUT PLAN RE STTL 258",
+                null
+              ],
+              [
+                "ST337783",
+                "1986-08-27",
+                "BUILDING MORTGAGE RE STTL 258",
+                "600000000.0"
+              ],
+              [
+                "ST380040",
+                "1986-12-16",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST350752",
+                "1986-12-16",
+                "STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST369473",
+                "1987-05-14",
+                "LETTER WITH AMENDED CAR PARKING SPACES LAYOUT PLANS",
+                null
+              ],
+              [
+                "ST374866",
+                "1987-06-25",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST387629",
+                "1987-07-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST463100",
+                "1989-01-24",
+                "LETTER FROM REGISTRAR GENERAL (LAND OFFICER SHA TIN)",
+                null
+              ],
+              [
+                "ST475435",
+                "1989-05-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993616554651579,
@@ -1754,7 +6193,75 @@
         1102442107,
         null,
         "2 HANG SHUN STREET",
-        []
+        [
+          [
+            "STTL 258 RP",
+            "New Grant Lot",
+            "C4744856",
+            [
+              [
+                "ST316945",
+                "1986-01-14",
+                "DEED FOR SUPPLY OF SHELL GAS RE STTL 258",
+                null
+              ],
+              [
+                "ST330762",
+                "1986-06-18",
+                "LETTER WITH CERTIFIED TRUE COPY CAR PARK LAYOUT PLAN RE STTL 258",
+                null
+              ],
+              [
+                "ST337783",
+                "1986-08-27",
+                "BUILDING MORTGAGE RE STTL 258",
+                "600000000.0"
+              ],
+              [
+                "ST380040",
+                "1986-12-16",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST350752",
+                "1986-12-16",
+                "STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST369473",
+                "1987-05-14",
+                "LETTER WITH AMENDED CAR PARKING SPACES LAYOUT PLANS",
+                null
+              ],
+              [
+                "ST374866",
+                "1987-06-25",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST387629",
+                "1987-07-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST463100",
+                "1989-01-24",
+                "LETTER FROM REGISTRAR GENERAL (LAND OFFICER SHA TIN)",
+                null
+              ],
+              [
+                "ST475435",
+                "1989-05-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936157071829352,
@@ -1773,7 +6280,75 @@
         1102442109,
         "CHEVALIER GARDEN BLOCK 17",
         "2 HANG SHUN STREET",
-        []
+        [
+          [
+            "STTL 258 RP",
+            "New Grant Lot",
+            "C4744856",
+            [
+              [
+                "ST316945",
+                "1986-01-14",
+                "DEED FOR SUPPLY OF SHELL GAS RE STTL 258",
+                null
+              ],
+              [
+                "ST330762",
+                "1986-06-18",
+                "LETTER WITH CERTIFIED TRUE COPY CAR PARK LAYOUT PLAN RE STTL 258",
+                null
+              ],
+              [
+                "ST337783",
+                "1986-08-27",
+                "BUILDING MORTGAGE RE STTL 258",
+                "600000000.0"
+              ],
+              [
+                "ST380040",
+                "1986-12-16",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST350752",
+                "1986-12-16",
+                "STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST369473",
+                "1987-05-14",
+                "LETTER WITH AMENDED CAR PARKING SPACES LAYOUT PLANS",
+                null
+              ],
+              [
+                "ST374866",
+                "1987-06-25",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST387629",
+                "1987-07-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST463100",
+                "1989-01-24",
+                "LETTER FROM REGISTRAR GENERAL (LAND OFFICER SHA TIN)",
+                null
+              ],
+              [
+                "ST475435",
+                "1989-05-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936207269475805,
@@ -1906,7 +6481,75 @@
         1102442189,
         null,
         "2 HANG SHUN STREET",
-        []
+        [
+          [
+            "STTL 258 RP",
+            "New Grant Lot",
+            "C4744856",
+            [
+              [
+                "ST316945",
+                "1986-01-14",
+                "DEED FOR SUPPLY OF SHELL GAS RE STTL 258",
+                null
+              ],
+              [
+                "ST330762",
+                "1986-06-18",
+                "LETTER WITH CERTIFIED TRUE COPY CAR PARK LAYOUT PLAN RE STTL 258",
+                null
+              ],
+              [
+                "ST337783",
+                "1986-08-27",
+                "BUILDING MORTGAGE RE STTL 258",
+                "600000000.0"
+              ],
+              [
+                "ST380040",
+                "1986-12-16",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST350752",
+                "1986-12-16",
+                "STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST369473",
+                "1987-05-14",
+                "LETTER WITH AMENDED CAR PARKING SPACES LAYOUT PLANS",
+                null
+              ],
+              [
+                "ST374866",
+                "1987-06-25",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY PHILIP KIN HANG WONG",
+                null
+              ],
+              [
+                "ST387629",
+                "1987-07-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST463100",
+                "1989-01-24",
+                "LETTER FROM REGISTRAR GENERAL (LAND OFFICER SHA TIN)",
+                null
+              ],
+              [
+                "ST475435",
+                "1989-05-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993624037359867,
@@ -2818,7 +7461,21 @@
         1102443697,
         null,
         null,
-        []
+        [
+          [
+            "DD200 8",
+            "Old Schedule Lot",
+            "C4916957",
+            [
+              [
+                "ST179246",
+                "9999-12-31",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938857958208085,
@@ -2856,7 +7513,14 @@
         1810073514,
         null,
         "14D TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 314",
+            "Old Schedule Lot",
+            "C2141096",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9935888882077086,
@@ -2875,7 +7539,14 @@
         1810074686,
         null,
         "16D TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 967",
+            "New Grant Lot",
+            "D0490953",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.993590436099562,
@@ -2894,7 +7565,14 @@
         1810074687,
         null,
         "16C TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 967",
+            "New Grant Lot",
+            "D0490953",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9935918037607738,
@@ -2913,7 +7591,63 @@
         1810074689,
         null,
         "25 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 343",
+            "Old Schedule Lot",
+            "C5818963",
+            [
+              [
+                "ST53928",
+                "1922-12-20",
+                "-",
+                null
+              ],
+              [
+                "ST100787",
+                "1937-09-30",
+                "-",
+                null
+              ],
+              [
+                "ST167814",
+                "1971-05-18",
+                "-",
+                null
+              ],
+              [
+                "08050500450313",
+                "1997-09-27",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "ST1052380",
+                "1998-09-21",
+                "LETTERS OF ADMINISTRATION (GRANT NO.HCAG003324/98)",
+                null
+              ],
+              [
+                "ST1233683",
+                "2001-07-18",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "ST1233684",
+                "2001-07-18",
+                "ASSENT",
+                null
+              ],
+              [
+                "08050500450327",
+                "2008-04-16",
+                "ASSIGNMENT",
+                "800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935946482367297,
@@ -2932,7 +7666,137 @@
         1810074698,
         null,
         "22B TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 358",
+            "Old Schedule Lot",
+            "C6709810",
+            [
+              [
+                "ST34792",
+                "1916-12-20",
+                "-",
+                "15.0"
+              ],
+              [
+                "ST145452",
+                "1961-10-24",
+                "-",
+                null
+              ],
+              [
+                "08010402760065",
+                "2007-12-20",
+                "ASSIGNMENT",
+                "480000.0"
+              ],
+              [
+                "10051101220136",
+                "2010-04-27",
+                "PERMISSION LETTER",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD196 359",
+            "Old Schedule Lot",
+            "C2141321",
+            [
+              [
+                "ST189488",
+                "1979-10-11",
+                "CONVEYANCE ON SALE",
+                "322850.0"
+              ],
+              [
+                "ST190117",
+                "1979-12-31",
+                "MORTGAGE",
+                "400000.0"
+              ],
+              [
+                "ST191203",
+                "1980-05-30",
+                "FURTHER CHARGE",
+                "100000.0"
+              ],
+              [
+                "ST585502",
+                "1990-03-28",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "07120400020121",
+                "2007-11-23",
+                "ASSIGNMENT",
+                "920000.0"
+              ],
+              [
+                "08121202670010",
+                "2007-11-23",
+                "RE-REGISTRATION OF ASSIGNMENT MEMORIAL NO. 07120400020121",
+                "920000.0"
+              ],
+              [
+                "10051101220136",
+                "2010-04-27",
+                "PERMISSION LETTER",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD196 360",
+            "Old Schedule Lot",
+            "C2141332",
+            [
+              [
+                "ST189488",
+                "1979-10-11",
+                "CONVEYANCE ON SALE",
+                "322850.0"
+              ],
+              [
+                "ST190117",
+                "1979-12-31",
+                "MORTGAGE",
+                "400000.0"
+              ],
+              [
+                "ST191203",
+                "1980-05-30",
+                "FURTHER CHARGE",
+                "100000.0"
+              ],
+              [
+                "ST585502",
+                "1990-03-28",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "08121202670010",
+                "2007-11-23",
+                "RE-REGISTRATION OF ASSIGNMENT MEMORIAL NO. 07120400020121",
+                "920000.0"
+              ],
+              [
+                "07120400020121",
+                "2007-11-23",
+                "ASSIGNMENT",
+                "920000.0"
+              ],
+              [
+                "10051101220136",
+                "2010-04-27",
+                "PERMISSION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935966179243707,
@@ -2951,7 +7815,14 @@
         1810092324,
         null,
         "45 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 969",
+            "New Grant Lot",
+            "D2401769",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9936032188985726,
@@ -3008,7 +7879,69 @@
         1810127549,
         null,
         "21 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 853",
+            "New Grant Lot",
+            "C5380563",
+            [
+              [
+                "ST330298",
+                "1986-05-22",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "ST488657",
+                "1989-04-25",
+                "NOTICE OF APPOINTMENT OF ADDITIONAL MANAGER",
+                null
+              ],
+              [
+                "ST488658",
+                "1989-06-28",
+                "APPROVAL OF APPOINTMENT OF ADDITIONAL MANAGER",
+                null
+              ],
+              [
+                "ST900237",
+                "1996-06-27",
+                "APPROVAL LETTER FOR TRANSFER OF TSO PROPERTIES",
+                null
+              ],
+              [
+                "ST900238",
+                "1996-10-23",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "ST1090802",
+                "1999-05-04",
+                "MODIFICATION LETTER BY DISTRICT LANDS OFFICER, SHA TIN",
+                null
+              ],
+              [
+                "15091101710016",
+                "2012-07-30",
+                "PROBATE",
+                null
+              ],
+              [
+                "14110502370036",
+                "2014-03-11",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "15091101710030",
+                "2015-04-23",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935905752787644,
@@ -3027,7 +7960,33 @@
         1810130896,
         null,
         "43 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 968",
+            "New Grant Lot",
+            "D0834659",
+            [
+              [
+                "13082001210019",
+                "2013-08-05",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "17032900750013",
+                "2017-01-27",
+                "WARNING LETTER",
+                null
+              ],
+              [
+                "19060502480044",
+                "2019-02-11",
+                "CANCELLATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936024625303435,
@@ -3046,7 +8005,21 @@
         1810132225,
         null,
         "41 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 970",
+            "New Grant Lot",
+            "D2688736",
+            [
+              [
+                "18050800610756",
+                "2018-04-20",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993601155829499,
@@ -3103,7 +8076,21 @@
         1810146350,
         null,
         "42 TAI SHUI HANG",
-        []
+        [
+          [
+            "DD196 971",
+            "New Grant Lot",
+            "D3104112",
+            [
+              [
+                "17112200590037",
+                "2017-11-07",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993603585309401,

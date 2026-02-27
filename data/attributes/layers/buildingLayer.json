@@ -22,8 +22,8 @@
       "type": "STRING",
       "show": 3,
       "required": 1,
-      "addToLabel": 1,
-      "noData": "N/A"
+      "noData": "N/A",
+      "addToLabel": 1
     },
     {
       "name": "buildingAddress",
@@ -31,8 +31,8 @@
       "type": "STRING",
       "show": 3,
       "required": 1,
-      "addToLabel": 1,
-      "noData": "N/A"
+      "noData": "N/A",
+      "addToLabel": 1
     },
     {
       "name": "buildingLots",

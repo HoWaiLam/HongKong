@@ -6,7 +6,47 @@
         1101768649,
         null,
         null,
-        []
+        [
+          [
+            "DD199 626",
+            "Old Schedule Lot",
+            "C2147516",
+            [
+              [
+                "ST206191",
+                "1982-02-08",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD199 627",
+            "Old Schedule Lot",
+            "C6043170",
+            [
+              [
+                "ST145909",
+                "1961-12-11",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD199 628",
+            "Old Schedule Lot",
+            "C2147527",
+            [
+              [
+                "ST206192",
+                "1982-02-08",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938650104063487,
@@ -25,7 +65,21 @@
         1101768658,
         null,
         null,
-        []
+        [
+          [
+            "DD199 1445",
+            "Old Schedule Lot",
+            "C6043254",
+            [
+              [
+                "ST202089",
+                "1981-09-02",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938672730064535,
@@ -63,7 +117,27 @@
         1102444138,
         null,
         "33 MUI TSZ LAM",
-        []
+        [
+          [
+            "DD188 868",
+            "New Grant Lot",
+            "C2108314",
+            [
+              [
+                "08040801020082",
+                "2008-03-07",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "09081900920108",
+                "2009-07-13",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993772871675826,
@@ -82,7 +156,63 @@
         1102444162,
         null,
         null,
-        []
+        [
+          [
+            "DD188 311 S.K",
+            "Old Schedule Lot",
+            "D0889595",
+            [
+              [
+                "ST995823",
+                "1997-09-22",
+                "ASSIGNMENT",
+                "4000000.0"
+              ],
+              [
+                "ST995814",
+                "1997-09-22",
+                "STATUTORY DECLARATION OF LAM KWOK YIN CONCERNING LOSS OF TITLE DEEDS",
+                null
+              ],
+              [
+                "ST1076826",
+                "1999-02-10",
+                "ASSIGNMENT",
+                "3193014.0"
+              ],
+              [
+                "ST1084237",
+                "1999-03-26",
+                "ASSIGNMENT",
+                "4253063.0"
+              ],
+              [
+                "07051602610054",
+                "2007-05-11",
+                "SUPPLEMENTAL DEED POLL",
+                null
+              ],
+              [
+                "07060900410226",
+                "2007-05-14",
+                "ASSIGNMENT",
+                "342000.0"
+              ],
+              [
+                "15022702620421",
+                "2015-01-29",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "2857820.0"
+              ],
+              [
+                "15062601270447",
+                "2015-05-29",
+                "ASSIGNMENT",
+                "2857820.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937608736352088,
@@ -101,7 +231,27 @@
         1102444172,
         null,
         "31 MUI TSZ LAM",
-        []
+        [
+          [
+            "DD188 876",
+            "New Grant Lot",
+            "D0962535",
+            [
+              [
+                "08040801020065",
+                "2008-03-07",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "09081900920118",
+                "2009-07-13",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937721971338758,
@@ -120,7 +270,21 @@
         1102444173,
         null,
         "32 MUI TSZ LAM",
-        []
+        [
+          [
+            "DD188 875",
+            "New Grant Lot",
+            "D0962540",
+            [
+              [
+                "08040801020074",
+                "2008-03-07",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937736305247609,
@@ -139,7 +303,39 @@
         1102444193,
         null,
         "18 MUI TSZ LAM",
-        []
+        [
+          [
+            "DD188 246",
+            "Old Schedule Lot",
+            "C2103768",
+            [
+              [
+                "ST168488",
+                "1971-08-25",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "ST200065",
+                "1981-04-21",
+                "CONVEYANCE AS A GIFT",
+                null
+              ],
+              [
+                "ST781095",
+                "1994-09-02",
+                "-",
+                null
+              ],
+              [
+                "ST1019132",
+                "1998-01-19",
+                "LETTER OF ADMINISTRATION GRANT NO.HCAG009283/96",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993751764613107,
@@ -158,7 +354,51 @@
         1102444203,
         null,
         "1 MUI TSZ LAM",
-        []
+        [
+          [
+            "DD188 864",
+            "New Grant Lot",
+            "C4911514",
+            [
+              [
+                "10122401790016",
+                "1981-08-12",
+                "COPY LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "06111700270391",
+                "2006-11-10",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "10110500030013",
+                "2010-10-13",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "2000000.0"
+              ],
+              [
+                "10120900230085",
+                "2010-11-25",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2000000.0"
+              ],
+              [
+                "11012500010119",
+                "2010-12-31",
+                "ASSIGNMENT",
+                "2000000.0"
+              ],
+              [
+                "11012500010122",
+                "2010-12-31",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONIES"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937689179473128,
@@ -177,7 +417,111 @@
         1102444213,
         null,
         "5 MUI TSZ LAM",
-        []
+        [
+          [
+            "DD188 229 S.C",
+            "Old Schedule Lot",
+            "C4910865",
+            [
+              [
+                "ST142895",
+                "1960-12-13",
+                "-",
+                null
+              ],
+              [
+                "ST799961",
+                "1980-03-12",
+                "-",
+                null
+              ],
+              [
+                "ST676700",
+                "1992-12-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "ST676701",
+                "1992-12-08",
+                "-",
+                null
+              ],
+              [
+                "ST737761",
+                "1993-11-16",
+                "-",
+                null
+              ],
+              [
+                "ST817707",
+                "1995-05-31",
+                "-",
+                "300000.0"
+              ],
+              [
+                "ST817706",
+                "1995-05-31",
+                "MEMORANDUM OF AGREEMENT BY NG KAU",
+                "300000.0"
+              ],
+              [
+                "ST907867",
+                "1995-12-15",
+                "APPROVAL LETTER OF SUCCESSION BY DIESTRICT OFFICER (ST)",
+                null
+              ],
+              [
+                "ST907865",
+                "1996-10-01",
+                "MEMO AS TO ERROR IN SUCCESSION TO PROPERTY MEM. NO.142895",
+                null
+              ],
+              [
+                "ST907866",
+                "1996-11-11",
+                "MEMO AS TO ERROR IN SUCCESSION TO PROPERTY MEMORIAL NO.142895",
+                null
+              ],
+              [
+                "ST1021220",
+                "1997-10-13",
+                "ASSENT PREVIOUSLY REGISTERED BY MEMORIAL NO.1012937",
+                null
+              ],
+              [
+                "ST1012937",
+                "1997-10-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "ST1067607",
+                "1998-11-30",
+                "STATUTORY DECLARATION OF NG CHI WAI EAMON ALSO KNOWN AS NG CHI WAI",
+                null
+              ],
+              [
+                "ST1067606",
+                "1998-11-30",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "ST1071800",
+                "1998-12-31",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "ST1068373",
+                "1998-12-31",
+                "DEED POLL WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937595306274924,
@@ -196,7 +540,51 @@
         1102444215,
         null,
         "3B MUI TSZ LAM",
-        []
+        [
+          [
+            "DD188 228",
+            "Old Schedule Lot",
+            "C2103625",
+            [
+              [
+                "ST125859",
+                "1950-04-12",
+                "-",
+                null
+              ],
+              [
+                "ST555733",
+                "1990-04-27",
+                "STATUTORY DECLARATION BY NG SANG ALIAS NG TAN SANG",
+                null
+              ],
+              [
+                "ST555734",
+                "1990-11-05",
+                "-",
+                null
+              ],
+              [
+                "ST662241",
+                "1992-06-29",
+                "POWER OF ATTORNEY BY NG CHING WAH",
+                null
+              ],
+              [
+                "12051100250030",
+                "2011-11-07",
+                "PROBATE",
+                null
+              ],
+              [
+                "12051500360094",
+                "2012-05-09",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937608387635675,
@@ -215,7 +603,33 @@
         1102444223,
         null,
         null,
-        []
+        [
+          [
+            "DD188 234",
+            "Old Schedule Lot",
+            "C6216550",
+            [
+              [
+                "ST186309",
+                "1978-12-08",
+                "-",
+                "177720.0"
+              ],
+              [
+                "ST1363965",
+                "2004-04-19",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ],
+              [
+                "ST1370078",
+                "2004-05-08",
+                "ASSIGNMENT",
+                "900000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993754624574507,
@@ -234,7 +648,57 @@
         1102444246,
         null,
         "17 MUI TSZ LAM",
-        []
+        [
+          [
+            "DD188 221",
+            "Old Schedule Lot",
+            "C2103570",
+            [
+              [
+                "ST176103",
+                "1972-02-08",
+                "-",
+                null
+              ],
+              [
+                "ST257695",
+                "1983-01-05",
+                "-",
+                null
+              ],
+              [
+                "ST257694",
+                "1983-01-05",
+                "-",
+                null
+              ],
+              [
+                "ST734315",
+                "1993-10-18",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "ST799986",
+                "1994-06-08",
+                "-",
+                "600000.0"
+              ],
+              [
+                "ST879045",
+                "1996-06-13",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "ST1226387",
+                "2001-02-05",
+                "SEALED COPY OF BANKRUPTCY ORDER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937549467680729,
@@ -272,7 +736,21 @@
         1102445784,
         null,
         null,
-        []
+        [
+          [
+            "DD199 1447",
+            "New Grant Lot",
+            "C2150354",
+            [
+              [
+                "ST218948",
+                "1982-11-15",
+                "STATUTORY DECLARATION OF LAU TO SHI ALIAS LAU TO CHOI LIN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939242532897685,
@@ -291,7 +769,33 @@
         1102445834,
         null,
         null,
-        []
+        [
+          [
+            "DD199 1169",
+            "Old Schedule Lot",
+            "C2149230",
+            [
+              [
+                "ST142790",
+                "1960-11-30",
+                "-",
+                null
+              ],
+              [
+                "ST1376583",
+                "2003-02-27",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "ST1376584",
+                "2004-07-13",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF LAU TING FUK TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939166452365615,
@@ -329,7 +833,14 @@
         1102445990,
         null,
         null,
-        []
+        [
+          [
+            "DD199 1022",
+            "Old Schedule Lot",
+            "C6625672",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939165838387711,
@@ -348,7 +859,27 @@
         1108769991,
         null,
         null,
-        []
+        [
+          [
+            "DD199 35",
+            "Old Schedule Lot",
+            "C2145465",
+            [
+              [
+                "ST1130414",
+                "1999-01-27",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF LAU MAN SHING TONG",
+                null
+              ],
+              [
+                "ST1130415",
+                "1999-12-16",
+                "APPROVAL OF APPOINTMENT OF MANAGERS OF LAU MAN SHING TONG",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938854341035883,
@@ -367,7 +898,33 @@
         1108770000,
         null,
         "8 MUI TSZ LAM",
-        []
+        [
+          [
+            "DD188 251 RP",
+            "Old Schedule Lot",
+            "C2103807",
+            [
+              [
+                "ST168464",
+                "1971-08-24",
+                "-",
+                null
+              ],
+              [
+                "ST807121",
+                "1995-04-19",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "ST956064",
+                "1997-05-12",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937573954835301,
@@ -405,7 +962,51 @@
         1810075521,
         null,
         "3A MUI TSZ LAM",
-        []
+        [
+          [
+            "DD188 227",
+            "Old Schedule Lot",
+            "C5730619",
+            [
+              [
+                "ST125858",
+                "1950-04-12",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "ST555733",
+                "1990-04-27",
+                "STATUTORY DECLARATION BY NG SANG ALIAS NG TAN SANG",
+                null
+              ],
+              [
+                "ST555734",
+                "1990-11-05",
+                "-",
+                null
+              ],
+              [
+                "ST662241",
+                "1992-06-29",
+                "POWER OF ATTORNEY BY NG CHING WAH",
+                null
+              ],
+              [
+                "12051100250030",
+                "2011-11-07",
+                "PROBATE",
+                null
+              ],
+              [
+                "12051500360094",
+                "2012-05-09",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937616264430567,
@@ -424,7 +1025,148 @@
         1810075579,
         null,
         "7 MUI TSZ LAM",
-        []
+        [
+          [
+            "DD188 229 S.A",
+            "Old Schedule Lot",
+            "C2103651",
+            [
+              [
+                "ST142895",
+                "1960-12-13",
+                "-",
+                null
+              ],
+              [
+                "ST799961",
+                "1980-03-12",
+                "-",
+                null
+              ],
+              [
+                "ST676700",
+                "1992-12-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "ST676701",
+                "1992-12-08",
+                "-",
+                null
+              ],
+              [
+                "ST737761",
+                "1993-11-16",
+                "-",
+                null
+              ],
+              [
+                "ST817706",
+                "1995-05-31",
+                "MEMORANDUM OF AGREEMENT BY NG KAU",
+                "300000.0"
+              ],
+              [
+                "ST817707",
+                "1995-05-31",
+                "-",
+                "300000.0"
+              ],
+              [
+                "ST907867",
+                "1995-12-15",
+                "APPROVAL LETTER OF SUCCESSION BY DIESTRICT OFFICER (ST)",
+                null
+              ],
+              [
+                "ST907865",
+                "1996-10-01",
+                "MEMO AS TO ERROR IN SUCCESSION TO PROPERTY MEM. NO.142895",
+                null
+              ],
+              [
+                "ST907866",
+                "1996-11-11",
+                "MEMO AS TO ERROR IN SUCCESSION TO PROPERTY MEMORIAL NO.142895",
+                null
+              ],
+              [
+                "ST1012937",
+                "1997-10-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "ST1021220",
+                "1997-10-13",
+                "ASSENT PREVIOUSLY REGISTERED BY MEMORIAL NO.1012937",
+                null
+              ],
+              [
+                "ST1067607",
+                "1998-11-30",
+                "STATUTORY DECLARATION OF NG CHI WAI EAMON ALSO KNOWN AS NG CHI WAI",
+                null
+              ],
+              [
+                "ST1067606",
+                "1998-11-30",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "ST1071800",
+                "1998-12-31",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "ST1068373",
+                "1998-12-31",
+                "DEED POLL WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD188 230 S.A",
+            "Old Schedule Lot",
+            "C2103682",
+            [
+              [
+                "ST817705",
+                "1995-05-31",
+                "-",
+                "120000.0"
+              ],
+              [
+                "ST1071802",
+                "1998-12-31",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "ST1067608",
+                "1998-12-31",
+                "DEED POLL WITH PLAN",
+                null
+              ],
+              [
+                "06021000340020",
+                "2006-01-18",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "06021000340036",
+                "2006-01-26",
+                "DEED OF EXCHANGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937583653405204,
@@ -443,7 +1185,142 @@
         1810075580,
         null,
         "6 MUI TSZ LAM",
-        []
+        [
+          [
+            "DD188 229 S.B",
+            "Old Schedule Lot",
+            "C6398503",
+            [
+              [
+                "ST142895",
+                "1960-12-13",
+                "-",
+                null
+              ],
+              [
+                "ST799961",
+                "1980-03-12",
+                "-",
+                null
+              ],
+              [
+                "ST676700",
+                "1992-12-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "ST676701",
+                "1992-12-08",
+                "-",
+                null
+              ],
+              [
+                "ST737761",
+                "1993-11-16",
+                "-",
+                null
+              ],
+              [
+                "ST817707",
+                "1995-05-31",
+                "-",
+                "300000.0"
+              ],
+              [
+                "ST817706",
+                "1995-05-31",
+                "MEMORANDUM OF AGREEMENT BY NG KAU",
+                "300000.0"
+              ],
+              [
+                "ST907867",
+                "1995-12-15",
+                "APPROVAL LETTER OF SUCCESSION BY DIESTRICT OFFICER (ST)",
+                null
+              ],
+              [
+                "ST907865",
+                "1996-10-01",
+                "MEMO AS TO ERROR IN SUCCESSION TO PROPERTY MEM. NO.142895",
+                null
+              ],
+              [
+                "ST907866",
+                "1996-11-11",
+                "MEMO AS TO ERROR IN SUCCESSION TO PROPERTY MEMORIAL NO.142895",
+                null
+              ],
+              [
+                "ST1012937",
+                "1997-10-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "ST1021220",
+                "1997-10-13",
+                "ASSENT PREVIOUSLY REGISTERED BY MEMORIAL NO.1012937",
+                null
+              ],
+              [
+                "ST1067606",
+                "1998-11-30",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "ST1067607",
+                "1998-11-30",
+                "STATUTORY DECLARATION OF NG CHI WAI EAMON ALSO KNOWN AS NG CHI WAI",
+                null
+              ],
+              [
+                "ST1068373",
+                "1998-12-31",
+                "DEED POLL WITH PLAN",
+                null
+              ],
+              [
+                "ST1071801",
+                "1998-12-31",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "ST1071800",
+                "1998-12-31",
+                "DEED OF PARTITION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD188 230 RP",
+            "Old Schedule Lot",
+            "C2103679",
+            [
+              [
+                "ST817705",
+                "1995-05-31",
+                "-",
+                "120000.0"
+              ],
+              [
+                "ST1067608",
+                "1998-12-31",
+                "DEED POLL WITH PLAN",
+                null
+              ],
+              [
+                "06021000340036",
+                "2006-01-26",
+                "DEED OF EXCHANGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937589558169777,
@@ -462,7 +1339,117 @@
         1810075581,
         null,
         "4 MUI TSZ LAM",
-        []
+        [
+          [
+            "DD188 229 RP",
+            "Old Schedule Lot",
+            "C2103648",
+            [
+              [
+                "ST142895",
+                "1960-12-13",
+                "-",
+                null
+              ],
+              [
+                "ST799961",
+                "1980-03-12",
+                "-",
+                null
+              ],
+              [
+                "ST676700",
+                "1992-12-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "ST676701",
+                "1992-12-08",
+                "-",
+                null
+              ],
+              [
+                "ST737761",
+                "1993-11-16",
+                "-",
+                null
+              ],
+              [
+                "ST817706",
+                "1995-05-31",
+                "MEMORANDUM OF AGREEMENT BY NG KAU",
+                "300000.0"
+              ],
+              [
+                "ST817707",
+                "1995-05-31",
+                "-",
+                "300000.0"
+              ],
+              [
+                "ST907867",
+                "1995-12-15",
+                "APPROVAL LETTER OF SUCCESSION BY DIESTRICT OFFICER (ST)",
+                null
+              ],
+              [
+                "ST907865",
+                "1996-10-01",
+                "MEMO AS TO ERROR IN SUCCESSION TO PROPERTY MEM. NO.142895",
+                null
+              ],
+              [
+                "ST907866",
+                "1996-11-11",
+                "MEMO AS TO ERROR IN SUCCESSION TO PROPERTY MEMORIAL NO.142895",
+                null
+              ],
+              [
+                "ST1021220",
+                "1997-10-13",
+                "ASSENT PREVIOUSLY REGISTERED BY MEMORIAL NO.1012937",
+                null
+              ],
+              [
+                "ST1012937",
+                "1997-10-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "ST1067607",
+                "1998-11-30",
+                "STATUTORY DECLARATION OF NG CHI WAI EAMON ALSO KNOWN AS NG CHI WAI",
+                null
+              ],
+              [
+                "ST1067606",
+                "1998-11-30",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "ST1068373",
+                "1998-12-31",
+                "DEED POLL WITH PLAN",
+                null
+              ],
+              [
+                "ST1071800",
+                "1998-12-31",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "21042301870075",
+                "2021-03-12",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937600851159962,
@@ -481,7 +1468,21 @@
         1810080404,
         null,
         "2B MUI TSZ LAM",
-        []
+        [
+          [
+            "DD188 874",
+            "New Grant Lot",
+            "D0962522",
+            [
+              [
+                "11021601390017",
+                "2011-02-10",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937652349493333,
@@ -500,7 +1501,21 @@
         1810112290,
         null,
         "51 MUI TSZ LAM",
-        []
+        [
+          [
+            "DD188 871",
+            "New Grant Lot",
+            "D0421176",
+            [
+              [
+                "11031700350029",
+                "2011-03-10",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937488768282703,
@@ -519,7 +1534,21 @@
         1810112292,
         null,
         null,
-        []
+        [
+          [
+            "DD188 872",
+            "New Grant Lot",
+            "D0421189",
+            [
+              [
+                "11031600970033",
+                "2011-03-07",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993749903384536,
@@ -538,7 +1567,21 @@
         1810130835,
         null,
         null,
-        []
+        [
+          [
+            "DD188 865",
+            "New Grant Lot",
+            "C2108298",
+            [
+              [
+                "11021802410015",
+                "2011-02-10",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937669672315583,
@@ -557,7 +1600,14 @@
         1810130836,
         null,
         null,
-        []
+        [
+          [
+            "DD188 869",
+            "New Grant Lot",
+            "C6216883",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9937739011381344,
@@ -576,7 +1626,39 @@
         1810130837,
         null,
         "48 MUI TSZ LAM",
-        []
+        [
+          [
+            "DD188 877",
+            "New Grant Lot",
+            "D1359433",
+            [
+              [
+                "13121801370036",
+                "2013-12-05",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14071501010018",
+                "2014-07-02",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "18082800660241",
+                "2018-08-03",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "24030500040013",
+                "2022-12-21",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993761905097584,
@@ -595,7 +1677,63 @@
         1810190428,
         null,
         null,
-        []
+        [
+          [
+            "DD188 219",
+            "Old Schedule Lot",
+            "C2103552",
+            [
+              [
+                "ST168488",
+                "1971-08-25",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "ST200065",
+                "1981-04-21",
+                "CONVEYANCE AS A GIFT",
+                null
+              ],
+              [
+                "ST781095",
+                "1994-09-02",
+                "-",
+                null
+              ],
+              [
+                "ST1019132",
+                "1998-01-19",
+                "LETTER OF ADMINISTRATION GRANT NO.HCAG009283/96",
+                null
+              ],
+              [
+                "ST1359306",
+                "2004-03-08",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "ST1368819",
+                "2004-04-30",
+                "ASSIGNMENT",
+                "300000.0"
+              ],
+              [
+                "23082202060013",
+                "2023-08-01",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "16800000.0"
+              ],
+              [
+                "23082301660022",
+                "2023-08-01",
+                "ASSIGNMENT",
+                "16800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937528862946712,
@@ -614,7 +1752,63 @@
         1810190430,
         null,
         null,
-        []
+        [
+          [
+            "DD188 237",
+            "Old Schedule Lot",
+            "C6216560",
+            [
+              [
+                "ST168488",
+                "1971-08-25",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "ST200065",
+                "1981-04-21",
+                "CONVEYANCE AS A GIFT",
+                null
+              ],
+              [
+                "ST781095",
+                "1994-09-02",
+                "-",
+                null
+              ],
+              [
+                "ST1019132",
+                "1998-01-19",
+                "LETTER OF ADMINISTRATION GRANT NO.HCAG009283/96",
+                null
+              ],
+              [
+                "ST1359306",
+                "2004-03-08",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "ST1368819",
+                "2004-04-30",
+                "ASSIGNMENT",
+                "300000.0"
+              ],
+              [
+                "23082202060013",
+                "2023-08-01",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "16800000.0"
+              ],
+              [
+                "23082301660022",
+                "2023-08-01",
+                "ASSIGNMENT",
+                "16800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937527427886617,
@@ -633,7 +1827,63 @@
         1810190831,
         null,
         null,
-        []
+        [
+          [
+            "DD188 239",
+            "Old Schedule Lot",
+            "C4910870",
+            [
+              [
+                "ST32998",
+                "1916-03-24",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "ST168489",
+                "1971-08-25",
+                "-",
+                null
+              ],
+              [
+                "ST781095",
+                "1994-09-02",
+                "-",
+                null
+              ],
+              [
+                "ST1368819",
+                "2004-04-30",
+                "ASSIGNMENT",
+                "300000.0"
+              ],
+              [
+                "06111700270391",
+                "2006-11-10",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "07022200670167",
+                "2007-01-26",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "23082301660022",
+                "2023-08-01",
+                "ASSIGNMENT",
+                "16800000.0"
+              ],
+              [
+                "23082202060013",
+                "2023-08-01",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "16800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937512776444468,
@@ -652,7 +1902,126 @@
         1910208238,
         null,
         null,
-        []
+        [
+          [
+            "DD188 231 S.A SS.1",
+            "Old Schedule Lot",
+            "D2780798",
+            [
+              [
+                "ST1370078",
+                "2004-05-08",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "23082301660022",
+                "2023-08-01",
+                "ASSIGNMENT",
+                "16800000.0"
+              ],
+              [
+                "23082202060013",
+                "2023-08-01",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "16800000.0"
+              ]
+            ]
+          ],
+          [
+            "DD188 232",
+            "Old Schedule Lot",
+            "C2103693",
+            [
+              [
+                "ST185133",
+                "1978-10-06",
+                "-",
+                "25000.0"
+              ],
+              [
+                "ST204992",
+                "1982-01-04",
+                "-",
+                "150900.0"
+              ],
+              [
+                "ST1363965",
+                "2004-04-19",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ],
+              [
+                "ST1370078",
+                "2004-05-08",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "23082202060013",
+                "2023-08-01",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "16800000.0"
+              ],
+              [
+                "23082301660022",
+                "2023-08-01",
+                "ASSIGNMENT",
+                "16800000.0"
+              ]
+            ]
+          ],
+          [
+            "DD188 233 RP",
+            "Old Schedule Lot",
+            "D1226738",
+            [
+              [
+                "ST1370078",
+                "2004-05-08",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "23082301660022",
+                "2023-08-01",
+                "ASSIGNMENT",
+                "16800000.0"
+              ],
+              [
+                "23082202060013",
+                "2023-08-01",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "16800000.0"
+              ]
+            ]
+          ],
+          [
+            "DD188 233 S.A",
+            "Old Schedule Lot",
+            "D1226723",
+            [
+              [
+                "ST1370078",
+                "2004-05-08",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "23082202060013",
+                "2023-08-01",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "16800000.0"
+              ],
+              [
+                "23082301660022",
+                "2023-08-01",
+                "ASSIGNMENT",
+                "16800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937556747513852,
@@ -671,7 +2040,58 @@
         1910208241,
         null,
         null,
-        []
+        [
+          [
+            "DD188 231 RP",
+            "Old Schedule Lot",
+            "D1226719",
+            [
+              [
+                "ST1370078",
+                "2004-05-08",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "23082202060013",
+                "2023-08-01",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "16800000.0"
+              ],
+              [
+                "23082301660022",
+                "2023-08-01",
+                "ASSIGNMENT",
+                "16800000.0"
+              ]
+            ]
+          ],
+          [
+            "DD188 231 S.A RP",
+            "Old Schedule Lot",
+            "D2780806",
+            [
+              [
+                "ST1370078",
+                "2004-05-08",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "23082202060013",
+                "2023-08-01",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "16800000.0"
+              ],
+              [
+                "23082301660022",
+                "2023-08-01",
+                "ASSIGNMENT",
+                "16800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937569712785939,
@@ -690,7 +2110,51 @@
         1910210461,
         null,
         "9 MUI TSZ LAM",
-        []
+        [
+          [
+            "DD188 251 S.B",
+            "Old Schedule Lot",
+            "C2103828",
+            [
+              [
+                "ST168464",
+                "1971-08-24",
+                "-",
+                null
+              ],
+              [
+                "ST807121",
+                "1995-04-19",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "ST1397138",
+                "2004-12-07",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "ST1395057",
+                "2004-12-07",
+                "MEMORANDUM OF SALE AND PURCHASE",
+                "200000.0"
+              ],
+              [
+                "23082301660022",
+                "2023-08-01",
+                "ASSIGNMENT",
+                "16800000.0"
+              ],
+              [
+                "23082202060013",
+                "2023-08-01",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "16800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937567444260942,
@@ -709,7 +2173,81 @@
         1910210462,
         null,
         "11 MUI TSZ LAM",
-        []
+        [
+          [
+            "DD188 250",
+            "Old Schedule Lot",
+            "C6709283",
+            [
+              [
+                "ST226785",
+                "1983-05-02",
+                "-",
+                null
+              ],
+              [
+                "ST823613",
+                "1995-06-28",
+                "DECLARATION BY NG CHO (OTHERWISE SPELT AS TSO) YUNG",
+                null
+              ],
+              [
+                "ST823615",
+                "1995-06-28",
+                "-",
+                "120000.0"
+              ],
+              [
+                "ST823614",
+                "1995-06-28",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "120000.0"
+              ],
+              [
+                "05041900540019",
+                "2005-03-18",
+                "ASSIGNMENT",
+                "133333.0"
+              ],
+              [
+                "05081301890013",
+                "2005-07-14",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "133333.0"
+              ],
+              [
+                "05081301890025",
+                "2005-07-14",
+                "ASSIGNMENT",
+                "133333.0"
+              ],
+              [
+                "15041400010026",
+                "2014-04-30",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "15080701340012",
+                "2015-07-08",
+                "ASSIGNMENT",
+                "233330.0"
+              ],
+              [
+                "23082202060013",
+                "2023-08-01",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "16800000.0"
+              ],
+              [
+                "23082301660022",
+                "2023-08-01",
+                "ASSIGNMENT",
+                "16800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937553786965188,

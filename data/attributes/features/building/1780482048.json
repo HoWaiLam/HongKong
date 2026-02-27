@@ -120,7 +120,14 @@
         1101769683,
         null,
         null,
-        []
+        [
+          [
+            "DD270 174",
+            "New Grant Lot",
+            "C6069855",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.996219785525675,
@@ -196,7 +203,51 @@
         1101769789,
         "WU OI CHRISTIAN REHABILITATION & TRAINING CENTRE",
         null,
-        []
+        [
+          [
+            "DD270 88 RP",
+            "Old Schedule Lot",
+            "C3865631",
+            [
+              [
+                "SK84863",
+                "1971-11-25",
+                "-",
+                null
+              ],
+              [
+                "SK85009",
+                "1972-01-28",
+                "-",
+                null
+              ],
+              [
+                "SK85093",
+                "1972-03-01",
+                "-",
+                null
+              ],
+              [
+                "SK85261",
+                "1972-06-14",
+                "-",
+                null
+              ],
+              [
+                "23041201590067",
+                "2020-12-28",
+                "LETTERS OF ADMINISTRATION WITH THE WILL",
+                null
+              ],
+              [
+                "23052301670061",
+                "2023-05-10",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9962160599755572,
@@ -215,7 +266,39 @@
         1101769811,
         "WU OI CHRISTIAN REHABILITATION & TRAINING CENTRE",
         null,
-        []
+        [
+          [
+            "DD270 101",
+            "Old Schedule Lot",
+            "C3865714",
+            [
+              [
+                "SK84186",
+                "1971-01-08",
+                "-",
+                null
+              ],
+              [
+                "SK85959",
+                "1973-01-15",
+                "POWER OF ATTORNEY BY WONG TAK ON",
+                null
+              ],
+              [
+                "SK85958",
+                "1973-01-17",
+                "POWER OF ATTORNEY BY WONG LOI",
+                null
+              ],
+              [
+                "SK253500",
+                "1996-05-08",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9962176479579146,

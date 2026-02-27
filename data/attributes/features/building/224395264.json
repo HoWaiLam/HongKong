@@ -6,7 +6,45 @@
         1109176357,
         null,
         "13 SHA LO WAN TSUEN 1ST LANE",
-        []
+        [
+          [
+            "DD305 LL 2066 S.A",
+            "Old Schedule Lot",
+            "C5346537",
+            [
+              [
+                "IS107143",
+                "1981-07-21",
+                "-",
+                null
+              ],
+              [
+                "IS153077",
+                "1989-05-25",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "18122001730019",
+                "2018-11-26",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "18121901360353",
+                "2018-11-26",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "500000.0"
+              ],
+              [
+                "IS25244",
+                "9999-12-31",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879723512476895,
@@ -25,7 +63,45 @@
         1109176581,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 1211",
+            "Old Schedule Lot",
+            "C4089831",
+            []
+          ],
+          [
+            "DD305 LL 1215",
+            "Old Schedule Lot",
+            "C4089870",
+            [
+              [
+                "IS90159",
+                "1976-07-02",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS93657",
+                "1978-02-16",
+                "DEED OF GIFT WITH PLANS",
+                null
+              ],
+              [
+                "22012400650042",
+                "2021-12-20",
+                "PROBATE",
+                null
+              ],
+              [
+                "24112101870038",
+                "2024-10-25",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987950438975414,
@@ -44,7 +120,51 @@
         1109176653,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 1535",
+            "Old Schedule Lot",
+            "C4091889",
+            [
+              [
+                "IS15765",
+                "1919-08-18",
+                "REDEMPTION OF BLOCK GOVERNMENT LEASE MORTGAGE",
+                null
+              ],
+              [
+                "IS15766",
+                "1919-08-18",
+                "-",
+                null
+              ],
+              [
+                "IS109086",
+                "1982-01-15",
+                "-",
+                null
+              ],
+              [
+                "13111800410010",
+                "1993-01-12",
+                "PROBATE",
+                null
+              ],
+              [
+                "14011300930053",
+                "2013-12-17",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "14011300930047",
+                "2013-12-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879532882039026,
@@ -63,7 +183,27 @@
         1109176659,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 2206",
+            "Old Schedule Lot",
+            "C4095250",
+            [
+              [
+                "IS76508",
+                "1963-11-13",
+                "-",
+                null
+              ],
+              [
+                "IS76510",
+                "1963-11-13",
+                "-",
+                "500.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879677760148573,
@@ -82,7 +222,58 @@
         1109176712,
         null,
         "13 SHA LO WAN TSUEN 3RD LANE",
-        []
+        [
+          [
+            "DD305 LL 2111",
+            "Old Schedule Lot",
+            "C5706183",
+            [
+              [
+                "IS109087",
+                "1982-01-15",
+                "-",
+                null
+              ],
+              [
+                "13111800410010",
+                "1993-01-12",
+                "PROBATE",
+                null
+              ],
+              [
+                "14011300930066",
+                "2013-12-17",
+                "ASSIGNMENT",
+                "300000.0"
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2112",
+            "Old Schedule Lot",
+            "C4094641",
+            [
+              [
+                "IS107660",
+                "1981-09-15",
+                "-",
+                null
+              ],
+              [
+                "IS177215",
+                "1991-07-15",
+                "-",
+                null
+              ],
+              [
+                "15112601340013",
+                "2007-05-30",
+                "SEALED COPY OF BANKRUPTCY ORDER ON CREDITOR'S PETITION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879753991565805,
@@ -101,7 +292,69 @@
         1109176714,
         null,
         "6 SHA LO WAN SAN TSUEN",
-        []
+        [
+          [
+            "DD305 LL 1497",
+            "Old Schedule Lot",
+            "C5162270",
+            [
+              [
+                "IS72612",
+                "1961-06-30",
+                "-",
+                null
+              ],
+              [
+                "IS177032",
+                "1991-08-08",
+                "DEED OF CONFIRMATION RE 1/2 SHARE",
+                null
+              ],
+              [
+                "IS177033",
+                "1991-08-08",
+                "DECLARATION BY LEE TSO SING",
+                null
+              ],
+              [
+                "IS177034",
+                "1991-08-08",
+                "DEED OF CONFIRMATION RE 1/2 SHARE",
+                null
+              ],
+              [
+                "IS177031",
+                "1991-08-08",
+                "DECLARATION BY LEE SIN HING",
+                null
+              ],
+              [
+                "IS178612",
+                "1991-08-23",
+                "-",
+                "2363130.0"
+              ],
+              [
+                "IS189252",
+                "1992-05-26",
+                "STATUTORY DECLARATION BY CHOI KAM HA",
+                null
+              ],
+              [
+                "21022602580010",
+                "2019-12-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6751800.0"
+              ],
+              [
+                "21022602580021",
+                "2020-01-17",
+                "ASSIGNMENT",
+                "6751800.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987965484867305,
@@ -120,7 +373,39 @@
         1109176803,
         null,
         "12 SHA LO WAN TSUEN 3RD LANE",
-        []
+        [
+          [
+            "DD305 LL 2112",
+            "Old Schedule Lot",
+            "C4094641",
+            [
+              [
+                "IS107660",
+                "1981-09-15",
+                "-",
+                null
+              ],
+              [
+                "IS177215",
+                "1991-07-15",
+                "-",
+                null
+              ],
+              [
+                "15112601340013",
+                "2007-05-30",
+                "SEALED COPY OF BANKRUPTCY ORDER ON CREDITOR'S PETITION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2113",
+            "Old Schedule Lot",
+            "C4094658",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9879747954460965,
@@ -158,7 +443,21 @@
         1109177235,
         null,
         "7 SHA LO WAN TSUEN 1ST LANE",
-        []
+        [
+          [
+            "DD305 LL 2201",
+            "Old Schedule Lot",
+            "C4095211",
+            [
+              [
+                "IS110984",
+                "1982-07-06",
+                "APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987964155761775,
@@ -177,7 +476,45 @@
         1109177468,
         null,
         "11 SHA LO WAN TSUEN 3RD LANE",
-        []
+        [
+          [
+            "DD305 LL 2114",
+            "Old Schedule Lot",
+            "C4094663",
+            [
+              [
+                "IS105558",
+                "1981-04-14",
+                "-",
+                null
+              ],
+              [
+                "IS107143",
+                "1981-07-21",
+                "-",
+                null
+              ],
+              [
+                "IS117080",
+                "1983-12-06",
+                "-",
+                null
+              ],
+              [
+                "IS153077",
+                "1989-05-25",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "IS189289",
+                "1992-05-02",
+                "-",
+                "1.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879736685986529,
@@ -215,7 +552,20 @@
         1109177799,
         null,
         "19 SHA LO WAN TSUEN 2ND LANE",
-        []
+        [
+          [
+            "DD305 LL 2077",
+            "Old Schedule Lot",
+            "C4094311",
+            []
+          ],
+          [
+            "DD305 LL 2078",
+            "Old Schedule Lot",
+            "C4094326",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.987976312108244,
@@ -234,7 +584,14 @@
         1109177899,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 1591",
+            "Old Schedule Lot",
+            "C4092231",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9879695659830585,
@@ -253,7 +610,27 @@
         1109178074,
         null,
         "18 SHA LO WAN CHUNG HAU",
-        []
+        [
+          [
+            "DD305 LL 2281",
+            "New Grant Lot",
+            "C4095605",
+            [
+              [
+                "IS122807",
+                "1985-03-25",
+                "DECLARATION OF CHANGE OF TITLE",
+                null
+              ],
+              [
+                "IS198577",
+                "1992-12-29",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879346648978784,
@@ -291,7 +668,27 @@
         1109178455,
         null,
         "8 SHA LO WAN SAN TSUEN",
-        []
+        [
+          [
+            "DD305 LL 2277",
+            "New Grant Lot",
+            "C5162713",
+            [
+              [
+                "IS163234",
+                "1980-01-21",
+                "COPY CERTIFICATE OF COMPLIANCE ENDORSED ON NEW GRANT",
+                null
+              ],
+              [
+                "IS164279",
+                "1990-07-16",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879628214496259,
@@ -310,7 +707,106 @@
         1109178810,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 1534",
+            "Old Schedule Lot",
+            "C4091873",
+            [
+              [
+                "IS48179",
+                "1946-12-03",
+                "-",
+                null
+              ],
+              [
+                "IS341748",
+                "2002-02-01",
+                "PROBATE",
+                null
+              ],
+              [
+                "IS341749",
+                "2004-09-15",
+                "SEALED COPY OF ORDER",
+                null
+              ],
+              [
+                "IS341750",
+                "2004-11-04",
+                "ASSENT",
+                null
+              ],
+              [
+                "05042102590147",
+                "2005-04-07",
+                "DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "05042102590157",
+                "2005-04-11",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "09091000320044",
+                "2009-07-07",
+                "A SEALED COPY OF BANKRUPTCY ORDER ON DEBTOR'S PETITION",
+                null
+              ],
+              [
+                "09101300040015",
+                "2009-09-08",
+                "CERTIFIED COPY OF MEMORANDUM TO COURT OF RESOLUTIONS PASSED AT THE GENERAL MEETING OF CREDITORS",
+                null
+              ],
+              [
+                "16062101210051",
+                "2016-05-27",
+                "ASSIGNMENT",
+                "300000.0"
+              ],
+              [
+                "16062101210046",
+                "2016-05-27",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "300000.0"
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 1546",
+            "Old Schedule Lot",
+            "C4091961",
+            [
+              [
+                "IS90159",
+                "1976-07-02",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS93656",
+                "1978-02-16",
+                "-",
+                null
+              ],
+              [
+                "IS119414",
+                "1984-10-31",
+                "-",
+                null
+              ],
+              [
+                "IS344831",
+                "2005-01-21",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879549837595956,
@@ -367,7 +863,95 @@
         1109179235,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 1544",
+            "Old Schedule Lot",
+            "C4091948",
+            [
+              [
+                "IS72611",
+                "1961-06-30",
+                "-",
+                null
+              ],
+              [
+                "IS76137",
+                "1963-08-28",
+                "-",
+                null
+              ],
+              [
+                "IS162951",
+                "1990-07-11",
+                "-",
+                null
+              ],
+              [
+                "IS333421",
+                "2004-04-02",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "15072402920019",
+                "2015-06-26",
+                "MEMORANDUM OF SALE AND PURCHASE",
+                "700000.0"
+              ],
+              [
+                "15072402920021",
+                "2015-06-26",
+                "ASSIGNMENT",
+                "700000.0"
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 1551",
+            "Old Schedule Lot",
+            "C4091995",
+            [
+              [
+                "IS72918",
+                "1961-08-17",
+                "-",
+                null
+              ],
+              [
+                "IS163806",
+                "1990-08-01",
+                "STATUTORY DECLARATION BY MAN FONG YUNG",
+                null
+              ],
+              [
+                "IS163805",
+                "1990-08-01",
+                "-",
+                null
+              ],
+              [
+                "IS248047",
+                "1997-06-26",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 1553",
+            "Old Schedule Lot",
+            "C4092004",
+            [
+              [
+                "IS192827",
+                "1992-06-25",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879543547732257,
@@ -386,7 +970,14 @@
         1109179273,
         null,
         "8A SHA LO WAN TSUEN 1ST LANE",
-        []
+        [
+          [
+            "DD305 LL 2295",
+            "New Grant Lot",
+            "C4095668",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9879652398511236,
@@ -405,7 +996,33 @@
         1109179506,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 1585",
+            "Old Schedule Lot",
+            "C5162338",
+            [
+              [
+                "IS83011",
+                "1969-10-08",
+                "-",
+                null
+              ],
+              [
+                "IS83012",
+                "1969-10-08",
+                "-",
+                null
+              ],
+              [
+                "IS163532",
+                "1990-07-16",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987962960836465,
@@ -424,7 +1041,45 @@
         1109179611,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 1508",
+            "Old Schedule Lot",
+            "C4091761",
+            [
+              [
+                "IS80705",
+                "1966-10-26",
+                "-",
+                null
+              ],
+              [
+                "IS82856",
+                "1969-08-06",
+                "-",
+                "450.0"
+              ],
+              [
+                "IS84794",
+                "1971-09-28",
+                "-",
+                "450.0"
+              ],
+              [
+                "25060500480048",
+                "2024-09-02",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "25090400350387",
+                "2025-09-01",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879613233638465,
@@ -443,7 +1098,39 @@
         1109179694,
         null,
         "8 SHA LO WAN TSUEN 2ND LANE",
-        []
+        [
+          [
+            "DD305 LL 2187 S.B",
+            "Old Schedule Lot",
+            "C4095077",
+            [
+              [
+                "IS81300",
+                "1967-06-15",
+                "-",
+                null
+              ],
+              [
+                "IS215851",
+                "1994-09-06",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "IS215854",
+                "1994-09-23",
+                "-",
+                "1000.0"
+              ],
+              [
+                "IS301124",
+                "2001-12-11",
+                "BUILDING LICENCE NO.1075 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879686032725834,
@@ -462,7 +1149,33 @@
         1109179732,
         null,
         "3 SHA LO WAN SAN TSUEN",
-        []
+        [
+          [
+            "DD305 LL 1528",
+            "Old Schedule Lot",
+            "C4091813",
+            [
+              [
+                "IS90159",
+                "1976-07-02",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS93657",
+                "1978-02-16",
+                "DEED OF GIFT WITH PLANS",
+                null
+              ],
+              [
+                "IS118626",
+                "1984-07-04",
+                "LETTER OF MODIFICATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879516904562526,
@@ -481,7 +1194,87 @@
         1109179834,
         null,
         "17 SHA LO WAN SAN TSUEN",
-        []
+        [
+          [
+            "DD305 LL 2224",
+            "Old Schedule Lot",
+            "C6740384",
+            [
+              [
+                "IS83823",
+                "1970-06-23",
+                "-",
+                null
+              ],
+              [
+                "IS85300",
+                "1972-06-13",
+                "-",
+                null
+              ],
+              [
+                "IS85531",
+                "1972-09-19",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "IS229383",
+                "1996-05-06",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "18061901580038",
+                "2018-06-05",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18061502560012",
+                "2018-06-14",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "22080301520135",
+                "2022-07-21",
+                "SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "22110901650045",
+                "2022-09-14",
+                "SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "24101401290012",
+                "2024-09-11",
+                "A SEALED COPY OF DEBTOR'S BANKRUPTCY PETITION",
+                null
+              ],
+              [
+                "25011501270021",
+                "2024-12-24",
+                "A SEALED COPY OF BANKRUPTCY ORDER ON DEBTOR'S PETITION",
+                null
+              ],
+              [
+                "25050801630031",
+                "2025-04-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1000000.0"
+              ],
+              [
+                "25051301660038",
+                "2025-04-16",
+                "ASSIGNMENT",
+                "1000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987952091990495,
@@ -500,7 +1293,82 @@
         1109180005,
         null,
         "1 SHA LO WAN TSUEN 1ST LANE",
-        []
+        [
+          [
+            "DD305 LL 2212",
+            "Old Schedule Lot",
+            "C5162700",
+            [
+              [
+                "IS27560",
+                "1927-01-10",
+                "-",
+                null
+              ],
+              [
+                "IS83157",
+                "1969-11-19",
+                "-",
+                null
+              ],
+              [
+                "24032000800017",
+                "2024-02-01",
+                "PROBATE",
+                null
+              ],
+              [
+                "24101500670023",
+                "2024-09-27",
+                "ASSENT",
+                null
+              ],
+              [
+                "24101500670013",
+                "2024-09-27",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2215",
+            "Old Schedule Lot",
+            "C4095315",
+            [
+              [
+                "IS34253",
+                "1932-02-17",
+                "-",
+                "10.0"
+              ],
+              [
+                "IS83157",
+                "1969-11-19",
+                "-",
+                null
+              ],
+              [
+                "24032000800017",
+                "2024-02-01",
+                "PROBATE",
+                null
+              ],
+              [
+                "24101500670023",
+                "2024-09-27",
+                "ASSENT",
+                null
+              ],
+              [
+                "24101500670013",
+                "2024-09-27",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987956968877862,
@@ -519,7 +1387,64 @@
         1109180018,
         null,
         "4 SHA LO WAN SAN TSUEN",
-        []
+        [
+          [
+            "DD305 LL 1216",
+            "Old Schedule Lot",
+            "C5162103",
+            [
+              [
+                "IS90159",
+                "1976-07-02",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS93656",
+                "1978-02-16",
+                "-",
+                null
+              ],
+              [
+                "IS119414",
+                "1984-10-31",
+                "-",
+                null
+              ],
+              [
+                "IS344831",
+                "2005-01-21",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 1217",
+            "Old Schedule Lot",
+            "C4089889",
+            [
+              [
+                "IS3041",
+                "1908-12-17",
+                "-",
+                "20.0"
+              ],
+              [
+                "IS95081",
+                "1978-09-06",
+                "-",
+                null
+              ],
+              [
+                "IS222127",
+                "1995-07-11",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879522832698606,
@@ -538,7 +1463,27 @@
         1109180047,
         null,
         "1 SHA LO WAN SAN TSUEN",
-        []
+        [
+          [
+            "DD305 LL 2282",
+            "New Grant Lot",
+            "C4095617",
+            [
+              [
+                "IS215683",
+                "1981-07-14",
+                "LETTER OF COMPLIANCE (CERTIFIED COPY)",
+                null
+              ],
+              [
+                "IS215684",
+                "1994-09-12",
+                "-",
+                "110000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879556356150276,
@@ -557,7 +1502,51 @@
         1109180060,
         null,
         "6 SHA LO WAN TSUEN 2ND LANE",
-        []
+        [
+          [
+            "DD305 LL 2123",
+            "Old Schedule Lot",
+            "C5706191",
+            [
+              [
+                "IS82621",
+                "1969-04-23",
+                "-",
+                null
+              ],
+              [
+                "IS82620",
+                "1969-04-23",
+                "-",
+                null
+              ],
+              [
+                "IS312333",
+                "2002-12-17",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS317218",
+                "2003-04-30",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "IS317219",
+                "2003-04-30",
+                "ASSENT",
+                null
+              ],
+              [
+                "24061700070337",
+                "2024-05-30",
+                "ASSIGNMENT BY WAY OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879667209849936,
@@ -576,7 +1565,27 @@
         1109180201,
         null,
         "7 SHA LO WAN SAN TSUEN",
-        []
+        [
+          [
+            "DD305 LL 2279",
+            "New Grant Lot",
+            "C4095592",
+            [
+              [
+                "25060500480048",
+                "2024-09-02",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "25090400350387",
+                "2025-09-01",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987960631061294,
@@ -595,7 +1604,51 @@
         1109180279,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 1500",
+            "Old Schedule Lot",
+            "C6372977",
+            [
+              [
+                "IS9870",
+                "1915-07-23",
+                "-",
+                null
+              ],
+              [
+                "IS108165",
+                "1981-10-27",
+                "POWER OF ATTORNEY BY LEE SHUN YU RE 1/6 OF 1/2 OF PROPERTY INTEREST",
+                null
+              ],
+              [
+                "IS108156",
+                "1981-10-27",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS110811",
+                "1982-06-01",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "IS200884",
+                "1993-04-26",
+                "-",
+                "678664.8"
+              ],
+              [
+                "18042302090226",
+                "2016-12-16",
+                "ASSIGNMENT",
+                "21852158.42"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879642538173563,
@@ -633,7 +1686,39 @@
         1109180396,
         null,
         "10 SHA LO WAN SAN TSUEN",
-        []
+        [
+          [
+            "DD305 LL 1557 S.A",
+            "Old Schedule Lot",
+            "C4092058",
+            [
+              [
+                "IS9872",
+                "1915-07-23",
+                "-",
+                null
+              ],
+              [
+                "IS108157",
+                "1981-10-27",
+                "-",
+                null
+              ],
+              [
+                "17040300260094",
+                "2017-03-21",
+                "DEED OF CONFIRMATION WITH PLAN",
+                null
+              ],
+              [
+                "18052900320210",
+                "2018-04-20",
+                "FURTHER DEED OF CONFIRMATION WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879638379314188,
@@ -671,7 +1756,70 @@
         1109181206,
         null,
         "13 SHA LO WAN TSUEN 2ND LANE",
-        []
+        [
+          [
+            "DD305 LL 2070",
+            "Old Schedule Lot",
+            "C5706172",
+            [
+              [
+                "IS82436",
+                "1969-01-22",
+                "-",
+                null
+              ],
+              [
+                "25060500480048",
+                "2024-09-02",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "25090400350387",
+                "2025-09-01",
+                "ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2071",
+            "Old Schedule Lot",
+            "C4094266",
+            [
+              [
+                "IS49265",
+                "1947-08-13",
+                "-",
+                "400.0"
+              ],
+              [
+                "IS107990",
+                "1981-10-13",
+                "STATUTORY DECLARATION OF LEE KWAN TAI ALIAS KNOWN AS CHAN LI SHI",
+                null
+              ],
+              [
+                "IS107991",
+                "1981-10-13",
+                "STATUTORY DECLARATION OF LEE CHI FUNG",
+                null
+              ],
+              [
+                "IS107992",
+                "1981-10-13",
+                "-",
+                "1500.0"
+              ],
+              [
+                "24040200180082",
+                "1994-01-27",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879724751608203,
@@ -690,7 +1838,51 @@
         1109181303,
         null,
         "16 SHA LO WAN TSUEN 1ST LANE",
-        []
+        [
+          [
+            "DD305 LL 2064 RP",
+            "Old Schedule Lot",
+            "C5706163",
+            [
+              [
+                "IS47325",
+                "1941-10-08",
+                "-",
+                "175.0"
+              ],
+              [
+                "IS69230",
+                "1959-07-17",
+                "-",
+                null
+              ],
+              [
+                "IS309673",
+                "2002-09-30",
+                "MEMORANDUM OF AGREEMENT FOR EXCHANGE",
+                null
+              ],
+              [
+                "IS311554",
+                "2002-11-20",
+                "DEED OF EXCHANGE",
+                null
+              ],
+              [
+                "18110201820137",
+                "2018-10-12",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "18110101290048",
+                "2018-10-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879742019770605,
@@ -747,7 +1939,51 @@
         1109181461,
         null,
         "9 SHA LO WAN TSUEN 1ST LANE",
-        []
+        [
+          [
+            "DD305 LL 2187 S.A",
+            "Old Schedule Lot",
+            "C6084525",
+            [
+              [
+                "IS81300",
+                "1967-06-15",
+                "-",
+                null
+              ],
+              [
+                "IS215851",
+                "1994-09-06",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "IS215853",
+                "1994-09-23",
+                "-",
+                "34000.0"
+              ],
+              [
+                "IS301125",
+                "2001-12-11",
+                "BUILDING LICENCE NO.1074 WITH PLAN",
+                null
+              ],
+              [
+                "IS323304",
+                "2003-08-21",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "07051800310079",
+                "2007-03-27",
+                "TOLERATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879679717973286,
@@ -766,7 +2002,51 @@
         1109181629,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 1545",
+            "Old Schedule Lot",
+            "C4091953",
+            [
+              [
+                "IS72611",
+                "1961-06-30",
+                "-",
+                null
+              ],
+              [
+                "IS76137",
+                "1963-08-28",
+                "-",
+                null
+              ],
+              [
+                "IS162951",
+                "1990-07-11",
+                "-",
+                null
+              ],
+              [
+                "IS333421",
+                "2004-04-02",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "15072402920019",
+                "2015-06-26",
+                "MEMORANDUM OF SALE AND PURCHASE",
+                "700000.0"
+              ],
+              [
+                "15072402920021",
+                "2015-06-26",
+                "ASSIGNMENT",
+                "700000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.98795422008009,
@@ -785,7 +2065,57 @@
         1109181695,
         null,
         "13A SHA LO WAN TSUEN 1ST LANE",
-        []
+        [
+          [
+            "DD305 LL 2065",
+            "Old Schedule Lot",
+            "C6473598",
+            [
+              [
+                "IS13433",
+                "1918-02-22",
+                "-",
+                "14.0"
+              ],
+              [
+                "IS71791",
+                "1961-02-24",
+                "-",
+                null
+              ],
+              [
+                "IS95478",
+                "1978-10-24",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "IS95480",
+                "1978-10-24",
+                "-",
+                null
+              ],
+              [
+                "14111402630067",
+                "2014-10-25",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "256000.0"
+              ],
+              [
+                "15011402490015",
+                "2014-12-17",
+                "ASSIGNMENT",
+                "256000.0"
+              ],
+              [
+                "23041201870091",
+                "2023-03-14",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879730463219831,
@@ -804,7 +2134,39 @@
         1109182061,
         null,
         "13A SHA LO WAN TSUEN 3RD LANE",
-        []
+        [
+          [
+            "DD305 LL 2110 S.A",
+            "Old Schedule Lot",
+            "C4094638",
+            [
+              [
+                "IS928",
+                "1906-02-20",
+                "-",
+                "80.0"
+              ],
+              [
+                "IS3575",
+                "1909-09-16",
+                "MORTGAGE BY MAN WAI SHU",
+                "60.0"
+              ],
+              [
+                "IS4331",
+                "1910-02-21",
+                "-",
+                "110.0"
+              ],
+              [
+                "IS266448",
+                "1998-11-10",
+                "APPROVAL LETTER FOR SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879761059564158,
@@ -823,7 +2185,46 @@
         1109182201,
         null,
         "18 SHA LO WAN TSUEN 1ST LANE",
-        []
+        [
+          [
+            "DD305 LL 2062",
+            "Old Schedule Lot",
+            "C4094190",
+            [
+              [
+                "IS94802",
+                "1978-08-01",
+                "-",
+                null
+              ],
+              [
+                "IS168202",
+                "1990-12-17",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS209604",
+                "1994-03-03",
+                "-",
+                "100000.0"
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2063",
+            "Old Schedule Lot",
+            "C5706152",
+            [
+              [
+                "IS101998",
+                "1980-08-18",
+                "SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879759445323026,
@@ -842,7 +2243,27 @@
         1109182292,
         null,
         "4 SHA LO WAN TSUEN 2ND LANE",
-        []
+        [
+          [
+            "DD305 LL 2193",
+            "Old Schedule Lot",
+            "C4095131",
+            [
+              [
+                "IS97527",
+                "1979-06-13",
+                "-",
+                null
+              ],
+              [
+                "IS99715",
+                "1980-01-21",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879623079480533,
@@ -861,7 +2282,94 @@
         1109182377,
         null,
         "2 SHA LO WAN TSUEN 1ST LANE",
-        []
+        [
+          [
+            "DD305 LL 2211 RP",
+            "Old Schedule Lot",
+            "C4095305",
+            [
+              [
+                "IS49796",
+                "1947-11-19",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS204390",
+                "1993-05-28",
+                "CONSENT LETTER WITH PLAN RE S.A & THE R.P.",
+                null
+              ],
+              [
+                "IS217038",
+                "1994-07-20",
+                "CONSENT LETTER (CERTIFIED COPY)",
+                null
+              ],
+              [
+                "IS218279",
+                "1994-12-05",
+                "-",
+                null
+              ],
+              [
+                "IS218435",
+                "1994-12-05",
+                "-",
+                "30000.0"
+              ],
+              [
+                "IS218320",
+                "1994-12-05",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "30000.0"
+              ],
+              [
+                "21111200280010",
+                "2020-12-21",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2215",
+            "Old Schedule Lot",
+            "C4095315",
+            [
+              [
+                "IS34253",
+                "1932-02-17",
+                "-",
+                "10.0"
+              ],
+              [
+                "IS83157",
+                "1969-11-19",
+                "-",
+                null
+              ],
+              [
+                "24032000800017",
+                "2024-02-01",
+                "PROBATE",
+                null
+              ],
+              [
+                "24101500670023",
+                "2024-09-27",
+                "ASSENT",
+                null
+              ],
+              [
+                "24101500670013",
+                "2024-09-27",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879572149911269,
@@ -899,7 +2407,52 @@
         1109182531,
         null,
         "4 - 6 SHA LO WAN TSUEN 1ST LANE",
-        []
+        [
+          [
+            "DD305 LL 2198 S.A",
+            "Old Schedule Lot",
+            "C4095191",
+            [
+              [
+                "IS9872",
+                "1915-07-23",
+                "-",
+                null
+              ],
+              [
+                "IS108157",
+                "1981-10-27",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2198 S.B",
+            "Old Schedule Lot",
+            "C5162695",
+            [
+              [
+                "IS9870",
+                "1915-07-23",
+                "-",
+                null
+              ],
+              [
+                "IS108156",
+                "1981-10-27",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS108165",
+                "1981-10-27",
+                "POWER OF ATTORNEY BY LEE SHUN YU RE 1/6 OF 1/2 OF PROPERTY INTEREST",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879597740305017,
@@ -918,7 +2471,51 @@
         1109182559,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 1537",
+            "Old Schedule Lot",
+            "C5706035",
+            [
+              [
+                "IS110448",
+                "1982-05-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS117806",
+                "1984-03-28",
+                "-",
+                null
+              ],
+              [
+                "13111800410010",
+                "1993-01-12",
+                "PROBATE",
+                null
+              ],
+              [
+                "14011300930047",
+                "2013-12-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ],
+              [
+                "14011300930053",
+                "2013-12-17",
+                "ASSIGNMENT",
+                "900000.0"
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 1539",
+            "Old Schedule Lot",
+            "C4091918",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9879531214303714,
@@ -937,7 +2534,39 @@
         1109182638,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 1551",
+            "Old Schedule Lot",
+            "C4091995",
+            [
+              [
+                "IS72918",
+                "1961-08-17",
+                "-",
+                null
+              ],
+              [
+                "IS163806",
+                "1990-08-01",
+                "STATUTORY DECLARATION BY MAN FONG YUNG",
+                null
+              ],
+              [
+                "IS163805",
+                "1990-08-01",
+                "-",
+                null
+              ],
+              [
+                "IS248047",
+                "1997-06-26",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879552290095754,
@@ -975,7 +2604,52 @@
         1109182987,
         null,
         "10 SHA LO WAN TSUEN 1ST LANE",
-        []
+        [
+          [
+            "DD305 LL 2204",
+            "Old Schedule Lot",
+            "C4095245",
+            [
+              [
+                "IS76508",
+                "1963-11-13",
+                "-",
+                null
+              ],
+              [
+                "IS100934",
+                "1980-04-25",
+                "-",
+                null
+              ],
+              [
+                "IS101703",
+                "1980-06-11",
+                "-",
+                "150000.0"
+              ],
+              [
+                "IS125768",
+                "1984-10-31",
+                "-",
+                "12847688.72"
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2205",
+            "Old Schedule Lot",
+            "C5760040",
+            [
+              [
+                "IS70460",
+                "1960-05-14",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879670969933403,
@@ -994,7 +2668,14 @@
         1109183061,
         null,
         "2 SHA LO WAN SAN TSUEN",
-        []
+        [
+          [
+            "DD305 LL 2293",
+            "New Grant Lot",
+            "C4095650",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9879541889789303,
@@ -1013,7 +2694,27 @@
         1109183421,
         null,
         "10 SHA LO WAN TSUEN 2ND LANE",
-        []
+        [
+          [
+            "DD305 LL 2068",
+            "Old Schedule Lot",
+            "C4094247",
+            [
+              [
+                "IS95081",
+                "1978-09-06",
+                "-",
+                null
+              ],
+              [
+                "IS222127",
+                "1995-07-11",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879700619621525,
@@ -1032,7 +2733,33 @@
         1109183469,
         null,
         "11 SHA LO WAN TSUEN 2ND LANE",
-        []
+        [
+          [
+            "DD305 LL 2069",
+            "Old Schedule Lot",
+            "C4094256",
+            [
+              [
+                "IS80384",
+                "1966-07-06",
+                "-",
+                null
+              ],
+              [
+                "IS216455",
+                "1994-10-22",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "60000.0"
+              ],
+              [
+                "IS216456",
+                "1994-10-22",
+                "-",
+                "60000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987970921675276,
@@ -1051,7 +2778,51 @@
         1109183516,
         null,
         "17 SHA LO WAN TSUEN 2ND LANE",
-        []
+        [
+          [
+            "DD305 LL 2075",
+            "Old Schedule Lot",
+            "C6593360",
+            [
+              [
+                "IS83823",
+                "1970-06-23",
+                "-",
+                null
+              ],
+              [
+                "IS85300",
+                "1972-06-13",
+                "-",
+                null
+              ],
+              [
+                "IS85531",
+                "1972-09-19",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "IS229383",
+                "1996-05-06",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "19061401230032",
+                "2019-05-31",
+                "Please refer to the NatureDescriptionCHN Field.",
+                "480000.0"
+              ],
+              [
+                "19071800660051",
+                "2019-07-12",
+                "ASSIGNMENT",
+                "480000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987974759841565,
@@ -1089,7 +2860,21 @@
         1109184014,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 2076",
+            "Old Schedule Lot",
+            "C4094302",
+            [
+              [
+                "IS157881",
+                "1990-01-15",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879756225305973,
@@ -1108,7 +2893,45 @@
         1109184084,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 1214",
+            "Old Schedule Lot",
+            "C4089860",
+            []
+          ],
+          [
+            "DD305 LL 1216",
+            "Old Schedule Lot",
+            "C5162103",
+            [
+              [
+                "IS90159",
+                "1976-07-02",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS93656",
+                "1978-02-16",
+                "-",
+                null
+              ],
+              [
+                "IS119414",
+                "1984-10-31",
+                "-",
+                null
+              ],
+              [
+                "IS344831",
+                "2005-01-21",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879515438368773,
@@ -1127,7 +2950,70 @@
         1109184200,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 2215",
+            "Old Schedule Lot",
+            "C4095315",
+            [
+              [
+                "IS34253",
+                "1932-02-17",
+                "-",
+                "10.0"
+              ],
+              [
+                "IS83157",
+                "1969-11-19",
+                "-",
+                null
+              ],
+              [
+                "24032000800017",
+                "2024-02-01",
+                "PROBATE",
+                null
+              ],
+              [
+                "24101500670023",
+                "2024-09-27",
+                "ASSENT",
+                null
+              ],
+              [
+                "24101500670013",
+                "2024-09-27",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2216 S.B",
+            "Old Schedule Lot",
+            "D5123456",
+            [
+              [
+                "IS290328",
+                "2001-02-24",
+                "DECLARATION BY LEE SIN HING AS TO THE LOSS OF TITLE DEEDS",
+                null
+              ],
+              [
+                "19052802180024",
+                "2019-05-17",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "21052702140048",
+                "2021-05-12",
+                "ASSIGNMENT",
+                "20000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879573104322077,
@@ -1146,7 +3032,21 @@
         1109184559,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 1556",
+            "Old Schedule Lot",
+            "C6373005",
+            [
+              [
+                "IS266448",
+                "1998-11-10",
+                "APPROVAL LETTER FOR SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879603260035712,
@@ -1165,7 +3065,45 @@
         1109184645,
         null,
         "13A SHA LO WAN TSUEN 2ND LANE",
-        []
+        [
+          [
+            "DD305 LL 2072",
+            "Old Schedule Lot",
+            "C4094275",
+            [
+              [
+                "IS99218",
+                "1979-12-04",
+                "-",
+                null
+              ],
+              [
+                "IS228862",
+                "1996-03-28",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "24050601430014",
+                "2024-03-28",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "24042601570047",
+                "2024-03-28",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1500000.0"
+              ],
+              [
+                "25021201720010",
+                "2024-12-23",
+                "ASSIGNMENT",
+                "1500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879729236956887,
@@ -1184,7 +3122,82 @@
         1109184833,
         null,
         "7 SHA LO WAN TSUEN 2ND LANE",
-        []
+        [
+          [
+            "DD305 LL 2122",
+            "Old Schedule Lot",
+            "C5263538",
+            [
+              [
+                "IS81297",
+                "1967-06-10",
+                "-",
+                null
+              ],
+              [
+                "IS216207",
+                "1994-09-24",
+                "-",
+                "330000.0"
+              ],
+              [
+                "17021401650037",
+                "2017-01-18",
+                "ASSIGNMENT",
+                "50000.0"
+              ],
+              [
+                "17021302180024",
+                "2017-01-18",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "50000.0"
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2123",
+            "Old Schedule Lot",
+            "C5706191",
+            [
+              [
+                "IS82621",
+                "1969-04-23",
+                "-",
+                null
+              ],
+              [
+                "IS82620",
+                "1969-04-23",
+                "-",
+                null
+              ],
+              [
+                "IS312333",
+                "2002-12-17",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS317218",
+                "2003-04-30",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "IS317219",
+                "2003-04-30",
+                "ASSENT",
+                null
+              ],
+              [
+                "24061700070337",
+                "2024-05-30",
+                "ASSIGNMENT BY WAY OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879674942233794,
@@ -1203,7 +3216,21 @@
         1109184837,
         null,
         "13 SHA LO WAN SAN TSUEN",
-        []
+        [
+          [
+            "DD305 LL 2275",
+            "New Grant Lot",
+            "C4095573",
+            [
+              [
+                "IS103527",
+                "1980-12-23",
+                "SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879585643797872,
@@ -1222,7 +3249,39 @@
         1109185223,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 1546",
+            "Old Schedule Lot",
+            "C4091961",
+            [
+              [
+                "IS90159",
+                "1976-07-02",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS93656",
+                "1978-02-16",
+                "-",
+                null
+              ],
+              [
+                "IS119414",
+                "1984-10-31",
+                "-",
+                null
+              ],
+              [
+                "IS344831",
+                "2005-01-21",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879547250169098,
@@ -1279,7 +3338,45 @@
         1109185526,
         null,
         "5 SHA LO WAN TSUEN 2ND LANE",
-        []
+        [
+          [
+            "DD305 LL 2194",
+            "Old Schedule Lot",
+            "C4095148",
+            [
+              [
+                "IS9871",
+                "1915-07-23",
+                "-",
+                null
+              ],
+              [
+                "IS83157",
+                "1969-11-19",
+                "-",
+                null
+              ],
+              [
+                "24032000800017",
+                "2024-02-01",
+                "PROBATE",
+                null
+              ],
+              [
+                "24101500670023",
+                "2024-09-27",
+                "ASSENT",
+                null
+              ],
+              [
+                "24101500670013",
+                "2024-09-27",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879629577428795,
@@ -1317,7 +3414,33 @@
         1109185752,
         null,
         "9 SHA LO WAN SAN TSUEN",
-        []
+        [
+          [
+            "DD305 LL 1585",
+            "Old Schedule Lot",
+            "C5162338",
+            [
+              [
+                "IS83011",
+                "1969-10-08",
+                "-",
+                null
+              ],
+              [
+                "IS83012",
+                "1969-10-08",
+                "-",
+                null
+              ],
+              [
+                "IS163532",
+                "1990-07-16",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879623389189132,
@@ -1336,7 +3459,27 @@
         1109185762,
         "TIN HAU TEMPLE",
         null,
-        []
+        [
+          [
+            "DD305 LL 2281",
+            "New Grant Lot",
+            "C4095605",
+            [
+              [
+                "IS122807",
+                "1985-03-25",
+                "DECLARATION OF CHANGE OF TITLE",
+                null
+              ],
+              [
+                "IS198577",
+                "1992-12-29",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.98793400794974,
@@ -1355,7 +3498,14 @@
         1109185904,
         null,
         "5 SHA LO WAN SAN TSUEN",
-        []
+        [
+          [
+            "DD305 LL 1512",
+            "Old Schedule Lot",
+            "C6429240",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9879564812593002,
@@ -1374,7 +3524,94 @@
         1109185934,
         null,
         "15 SHA LO WAN TSUEN 1ST LANE",
-        []
+        [
+          [
+            "DD305 LL 2064 S.A",
+            "Old Schedule Lot",
+            "C4094212",
+            [
+              [
+                "IS32182",
+                "1930-08-14",
+                "-",
+                "110.0"
+              ],
+              [
+                "IS45799",
+                "1940-12-11",
+                "-",
+                "115.0"
+              ],
+              [
+                "IS163534",
+                "1990-07-16",
+                "-",
+                null
+              ],
+              [
+                "IS309673",
+                "2002-09-30",
+                "MEMORANDUM OF AGREEMENT FOR EXCHANGE",
+                null
+              ],
+              [
+                "IS311554",
+                "2002-11-20",
+                "DEED OF EXCHANGE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2065",
+            "Old Schedule Lot",
+            "C6473598",
+            [
+              [
+                "IS13433",
+                "1918-02-22",
+                "-",
+                "14.0"
+              ],
+              [
+                "IS71791",
+                "1961-02-24",
+                "-",
+                null
+              ],
+              [
+                "IS95478",
+                "1978-10-24",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "IS95480",
+                "1978-10-24",
+                "-",
+                null
+              ],
+              [
+                "14111402630067",
+                "2014-10-25",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "256000.0"
+              ],
+              [
+                "15011402490015",
+                "2014-12-17",
+                "ASSIGNMENT",
+                "256000.0"
+              ],
+              [
+                "23041201870091",
+                "2023-03-14",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987973631111157,
@@ -1393,7 +3630,45 @@
         1109185952,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 1576",
+            "Old Schedule Lot",
+            "C6373022",
+            [
+              [
+                "IS105558",
+                "1981-04-14",
+                "-",
+                null
+              ],
+              [
+                "IS107143",
+                "1981-07-21",
+                "-",
+                null
+              ],
+              [
+                "IS117080",
+                "1983-12-06",
+                "-",
+                null
+              ],
+              [
+                "IS153077",
+                "1989-05-25",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "IS156534",
+                "1989-11-13",
+                "-",
+                "1.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879584630416547,
@@ -1412,7 +3687,69 @@
         1109186055,
         null,
         "8 SHA LO WAN TSUEN 1ST LANE",
-        []
+        [
+          [
+            "DD305 LL 2202",
+            "Old Schedule Lot",
+            "C4095223",
+            [
+              [
+                "IS789",
+                "1906-01-12",
+                "-",
+                "48.0"
+              ],
+              [
+                "IS53268",
+                "1949-09-19",
+                "-",
+                null
+              ],
+              [
+                "IS105856",
+                "1981-05-12",
+                "-",
+                null
+              ],
+              [
+                "IS231312",
+                "1996-06-24",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "460000.0"
+              ],
+              [
+                "IS231699",
+                "1996-06-24",
+                "ASSIGNMENT",
+                "460000.0"
+              ],
+              [
+                "IS312333",
+                "2002-12-17",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS317218",
+                "2003-04-30",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "IS317219",
+                "2003-04-30",
+                "ASSENT",
+                null
+              ],
+              [
+                "24061700070337",
+                "2024-05-30",
+                "ASSIGNMENT BY WAY OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879655441555928,
@@ -1431,7 +3768,94 @@
         1109186059,
         null,
         "10 SHA LO WAN TSUEN 3RD LANE",
-        []
+        [
+          [
+            "DD305 LL 2114",
+            "Old Schedule Lot",
+            "C4094663",
+            [
+              [
+                "IS105558",
+                "1981-04-14",
+                "-",
+                null
+              ],
+              [
+                "IS107143",
+                "1981-07-21",
+                "-",
+                null
+              ],
+              [
+                "IS117080",
+                "1983-12-06",
+                "-",
+                null
+              ],
+              [
+                "IS153077",
+                "1989-05-25",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "IS189289",
+                "1992-05-02",
+                "-",
+                "1.0"
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 2115",
+            "Old Schedule Lot",
+            "C4094674",
+            [
+              [
+                "IS3035",
+                "1908-12-17",
+                "-",
+                null
+              ],
+              [
+                "IS53268",
+                "1949-09-19",
+                "-",
+                null
+              ],
+              [
+                "IS105856",
+                "1981-05-12",
+                "-",
+                null
+              ],
+              [
+                "IS196083",
+                "1992-09-18",
+                "-",
+                "55757.0"
+              ],
+              [
+                "24032000800017",
+                "2024-02-01",
+                "PROBATE",
+                null
+              ],
+              [
+                "24101500670023",
+                "2024-09-27",
+                "ASSENT",
+                null
+              ],
+              [
+                "24101500670013",
+                "2024-09-27",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879730713914099,
@@ -1450,7 +3874,57 @@
         1109186278,
         null,
         "16 SHA LO WAN TSUEN 2ND LANE",
-        []
+        [
+          [
+            "DD305 LL 2074",
+            "Old Schedule Lot",
+            "C4094294",
+            [
+              [
+                "IS3050",
+                "1908-12-17",
+                "CHINESE CUSTOMARY MORTGAGE",
+                "60.0"
+              ],
+              [
+                "IS50596",
+                "1948-04-07",
+                "-",
+                null
+              ],
+              [
+                "IS95900",
+                "1978-11-30",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "IS228862",
+                "1996-03-28",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "24042601570047",
+                "2024-03-28",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1500000.0"
+              ],
+              [
+                "24050601430014",
+                "2024-03-28",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "25021201720010",
+                "2024-12-23",
+                "ASSIGNMENT",
+                "1500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879742007786765,
@@ -1469,7 +3943,39 @@
         1109186341,
         null,
         "3 SHA LO WAN TSUEN 2ND LANE",
-        []
+        [
+          [
+            "DD305 LL 2192",
+            "Old Schedule Lot",
+            "C5263556",
+            [
+              [
+                "IS98311",
+                "1979-09-18",
+                "-",
+                null
+              ],
+              [
+                "IS335848",
+                "1996-10-17",
+                "LETTER (NO OBJECTION TO THE PREMISES BEING OCCUPIED) *",
+                null
+              ],
+              [
+                "IS336362",
+                "2004-06-28",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS336697",
+                "2004-07-31",
+                "DEED OF FAMILY ARRANGEMENT AND ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879612682430967,
@@ -1488,7 +3994,21 @@
         1109186499,
         null,
         "17 SHA LO WAN TSUEN 1ST LANE",
-        []
+        [
+          [
+            "DD305 LL 2063",
+            "Old Schedule Lot",
+            "C5706152",
+            [
+              [
+                "IS101998",
+                "1980-08-18",
+                "SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879750426981144,
@@ -1507,7 +4027,33 @@
         1109186607,
         null,
         "12 SHA LO WAN TSUEN 2ND LANE",
-        []
+        [
+          [
+            "DD305 LL 2070",
+            "Old Schedule Lot",
+            "C5706172",
+            [
+              [
+                "IS82436",
+                "1969-01-22",
+                "-",
+                null
+              ],
+              [
+                "25060500480048",
+                "2024-09-02",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "25090400350387",
+                "2025-09-01",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879718977888254,
@@ -1526,7 +4072,45 @@
         1109186704,
         null,
         "13A SHA LO WAN SAN TSUEN",
-        []
+        [
+          [
+            "DD305 LL 1552",
+            "Old Schedule Lot",
+            "C5162314",
+            [
+              [
+                "IS105558",
+                "1981-04-14",
+                "-",
+                null
+              ],
+              [
+                "IS107143",
+                "1981-07-21",
+                "-",
+                null
+              ],
+              [
+                "IS117080",
+                "1983-12-06",
+                "-",
+                null
+              ],
+              [
+                "IS153077",
+                "1989-05-25",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "21010500110058",
+                "2020-09-03",
+                "ASSIGNMENT",
+                "500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879564746690814,
@@ -1545,7 +4129,39 @@
         1109186715,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 2067",
+            "Old Schedule Lot",
+            "C5429799",
+            [
+              [
+                "IS110449",
+                "1982-05-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "08112800270014",
+                "2008-09-09",
+                "WARNING LETTER",
+                null
+              ],
+              [
+                "24101501760304",
+                "2023-04-24",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF MAN FUK YING TSO",
+                null
+              ],
+              [
+                "24101501760318",
+                "2024-08-12",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF MAN FUK YING TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879701879047351,
@@ -1564,7 +4180,130 @@
         1109186830,
         null,
         "16 SHA LO WAN SAN TSUEN",
-        []
+        [
+          [
+            "DD305 LL 1538",
+            "Old Schedule Lot",
+            "C4091906",
+            [
+              [
+                "IS8188",
+                "1914-04-28",
+                "-",
+                null
+              ],
+              [
+                "IS9958",
+                "1915-09-06",
+                "-",
+                null
+              ],
+              [
+                "IS82621",
+                "1969-04-23",
+                "-",
+                null
+              ],
+              [
+                "IS82620",
+                "1969-04-23",
+                "-",
+                null
+              ],
+              [
+                "IS312333",
+                "2002-12-17",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS317218",
+                "2003-04-30",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "IS317219",
+                "2003-04-30",
+                "ASSENT",
+                null
+              ],
+              [
+                "24061700070337",
+                "2024-05-30",
+                "ASSIGNMENT BY WAY OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 1539",
+            "Old Schedule Lot",
+            "C4091918",
+            []
+          ],
+          [
+            "DD305 LL 1540",
+            "Old Schedule Lot",
+            "C4091928",
+            [
+              [
+                "IS8188",
+                "1914-04-28",
+                "-",
+                null
+              ],
+              [
+                "IS9958",
+                "1915-09-06",
+                "-",
+                null
+              ],
+              [
+                "IS82620",
+                "1969-04-23",
+                "-",
+                null
+              ],
+              [
+                "IS82621",
+                "1969-04-23",
+                "-",
+                null
+              ],
+              [
+                "IS312333",
+                "2002-12-17",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS317219",
+                "2003-04-30",
+                "ASSENT",
+                null
+              ],
+              [
+                "IS317218",
+                "2003-04-30",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "24061700070337",
+                "2024-05-30",
+                "ASSIGNMENT BY WAY OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD305 LL 1541",
+            "Old Schedule Lot",
+            "C6518335",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9879523663157104,
@@ -1583,7 +4322,975 @@
         1109186962,
         null,
         null,
-        []
+        [
+          [
+            "CLKL 1 &EXT THERETO RP",
+            "New Grant Lot",
+            "C5183985",
+            [
+              [
+                "IS262247",
+                "1998-03-16",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "IS272221",
+                "1999-05-11",
+                "LEASE OF STATION AND RAILWAY AREA WITH PLANS",
+                null
+              ],
+              [
+                "IS286675",
+                "2000-09-21",
+                "DEED OF RECTIFICATION OF LEASE M/N IS272221 RE STATION & RAILWAY AREA",
+                null
+              ],
+              [
+                "IS316781",
+                "2003-05-12",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS323532",
+                "2003-09-15",
+                "SUBLEASE RE EXHIBITION CENTER WITH PLANS FROM 15.9.2003 TO 24.6.2047",
+                null
+              ],
+              [
+                "IS323533",
+                "2003-09-15",
+                "AGREEMENT FOR UNDERLEASE RE EXHIBITION CENTRE WITH PLANS",
+                null
+              ],
+              [
+                "IS323369",
+                "2003-09-19",
+                "CONSENT LETTER TO OPERATE FERRY SERVICES RE PART WITH PLAN",
+                null
+              ],
+              [
+                "IS327298",
+                "2003-12-24",
+                "G.N. 79 UNDER S.12 OF TUNG CHUNG CABLE CAR ORDINANCE (CAP.577)",
+                null
+              ],
+              [
+                "IS327419",
+                "2003-12-24",
+                "DEED OF SURRENDER RE PORTIONS WITH PLAN AND GRANT OF EASEMENTS",
+                null
+              ],
+              [
+                "IS328338",
+                "2004-01-09",
+                "SUBLEASE WITH PLAN (OF GOVERNMENT FLYING SERVICE FACILITIES AT *",
+                null
+              ],
+              [
+                "IS328337",
+                "2004-01-09",
+                "SUBLEASE WITH PLAN FROM 18.1.1996 TO 27.6.2047",
+                null
+              ],
+              [
+                "IS328339",
+                "2004-01-09",
+                "SUBLEASE WITH PLAN FROM 1.12.1995 TO 27.6.2047",
+                null
+              ],
+              [
+                "IS328340",
+                "2004-01-09",
+                "SUBLEASE WITH PLAN (OF AIRPORT (LANDSIDE) FIRE STATION AT *",
+                null
+              ],
+              [
+                "IS341073",
+                "2004-04-14",
+                "LICENCE AGREEMENT WITH PLAN RE POLICE OBSERVATION POST",
+                null
+              ],
+              [
+                "IS343227",
+                "2004-12-03",
+                "AGREEMENT FOR SUBLEASE OF THE SKYCITY GOLF COURSE WITH PLAN",
+                null
+              ],
+              [
+                "05091300860015",
+                "2005-09-02",
+                "G.N.4470 DATED 2.9.2005 UNDER SECTION 12 OF TUNG CHUNG CABLE CAR ORDINANCE (CHAPTER 577) WITH PLAN",
+                null
+              ],
+              [
+                "05090602270014",
+                "2005-09-02",
+                "DEED OF SURRENDER AND GRANT OF EASEMENTS WITH PLAN",
+                null
+              ],
+              [
+                "06071901330129",
+                "2006-06-26",
+                "AGREEMENT FOR SUB-LEASE WITH PLANS RE THE SITE OF CONSTRUCTION OF THE HOTEL *",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "06080202400013",
+                "2006-07-06",
+                "SUBLEASE WITH PLANS  OF CUSTOMS CHECK POINTS AT HONG KONG INTERNATIONAL AIRPORT",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "06080202400033",
+                "2006-07-06",
+                "SUBLEASE WITH PLANS OF CAD AIRFIELD FACILITIES AND HKO AIRFIELD METEOROLOGICAL FACILITIES (II)*",
+                "FOR TERM AND RENT SEE MEMORIAL"
+              ],
+              [
+                "06080202400022",
+                "2006-07-06",
+                "SUBLEASE WITH PLANS OF CAD AIRFIELD FACILITIES AND HKO AIRFIELD METEOROLOGICAL FACILITIES (I)*",
+                "FOR TERM AND RENT SEE MEMORIAL"
+              ],
+              [
+                "07040401490017",
+                "2006-09-28",
+                "LEASE AGREEMENT WITH PLAN RE CASL BASE MAINTENANCE LAND",
+                null
+              ],
+              [
+                "06111600960015",
+                "2006-10-25",
+                "ASSIGNMENT OF SUB-LEASE AGREEMENTS",
+                null
+              ],
+              [
+                "07072001580047",
+                "2007-05-29",
+                "LICENCE AGREEMENT WITH PLAN RE UNIT NO.6P045, LEVEL 6, SKYPLAZA",
+                "FOR TERM AND RENT SEE MEMORIAL"
+              ],
+              [
+                "07082403240112",
+                "2007-07-26",
+                "SUBLEASE WITH PLAN (OF ANEMOMETER STATION A7 AT HONG KONG INTERNATIONAL AIRPORT)",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "08050801980012",
+                "2007-11-20",
+                "OFFICE LEASE WITH PLAN RE 6/F OF THE AIRPORT WORLD TRADE CENTRE",
+                null
+              ],
+              [
+                "08082901560019",
+                "2007-11-22",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "08053002990465",
+                "2008-01-04",
+                "LEASE WITH PLAN RE UNIIT OR UNITS COMPRISING OF AN APPROXIMATE TOTAL NET AREA OF 139 SQUARE METRES",
+                "SEE REMARKS"
+              ],
+              [
+                "08040102770184",
+                "2008-03-18",
+                "LEASE WITH PLAN RE THE FACILITY AREA BEING THE AREA OF ABOUT 103,316 SQ.METRES IDENTIFIED AS SUCH ON *",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "08041702570052",
+                "2008-03-31",
+                "SUBLEASE (OF ANEMOMETER STATION A8 AT HONG KONG INTERNATIONAL AIRPORT) WITH PLAN",
+                null
+              ],
+              [
+                "08070402900165",
+                "2008-06-12",
+                "SUBLEASE OF THE SKYCITY GOLF COURSE AT HONG KONG INTERNATIONAL AIRPORT WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "08072302980053",
+                "2008-07-17",
+                "SUBLEASE OF AIR TRAFFIC CONTROL COMPLEX AND TOWER AT HONG KONG INTERNATIONAL AIRPORT WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "08072302980088",
+                "2008-07-17",
+                "SUBLEASE WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "08072302980077",
+                "2008-07-17",
+                "SUBLEASE WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "08072302980066",
+                "2008-07-17",
+                "SUBLEASE WITH PLANS",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "08081502990034",
+                "2008-07-18",
+                "LEASE WITH PLAN",
+                "FOR TERM AND RENT SEE MEMORIAL"
+              ],
+              [
+                "08123102380568",
+                "2008-12-09",
+                "SUB-LEASE RE THE SITE OF CONSTRUCTION OF THE HOTEL WITH PLANS (AS DEFINED IN THE SUB-LEASE)",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "09010902340168",
+                "2008-12-11",
+                "SUPPLEMENTAL AGREEMENT RE THE SITE OF CONSTRUCTION OF THE HOTEL",
+                null
+              ],
+              [
+                "09010902340154",
+                "2008-12-11",
+                "SUPPLEMENTAL AGREEMENT RE EXHIBITION CENTRE",
+                null
+              ],
+              [
+                "09011302500088",
+                "2008-12-17",
+                "SUBLEASE OF GOVERNMENT ACCOMMODATION IN THE PASSENGER TERMINAL 2*",
+                null
+              ],
+              [
+                "09020402200558",
+                "2009-01-15",
+                "SUPPLEMENTAL DEED WITH PLANS",
+                null
+              ],
+              [
+                "09022501820012",
+                "2009-01-23",
+                "CONSENT LETTER WITH PLAN RE : (OPERATE FERRY SERVICES AT SKYPIER 1)",
+                null
+              ],
+              [
+                "09022501820042",
+                "2009-01-23",
+                "CONSENT LETTER WITH PLAN RE : (SEA ACCESS & OPERATION OF CROSS-BOUNDARY FERRY SERVICES)",
+                null
+              ],
+              [
+                "09040102060017",
+                "2009-03-04",
+                "SUB-LEASE OF SKY CITY ROAD SUBSTATION WITH PLANS RE THE AREA DELINEATED SHOWN ON THE PLAN ATTACHED",
+                "15600000.0"
+              ],
+              [
+                "09061602600159",
+                "2009-05-20",
+                "SUBLEASE WITH PLAN OF CIVIL AVIATION DEPARTMENT HEADQUARTERS AT HONG KONG INTERNATIONAL AIRPORT",
+                null
+              ],
+              [
+                "09061602600168",
+                "2009-05-22",
+                "SUBLEASE WITH PLAN OF MINISODAR SITE NEAR COMMUNICATIONS EQUIPMENT BUILDING 1",
+                null
+              ],
+              [
+                "09120302990228",
+                "2009-11-05",
+                "SUBLEASE OF GOVERNMENT ACCOMMODATION IN THE PASSENGER TERMINAL 2 WITH PLANS",
+                null
+              ],
+              [
+                "10030102810249",
+                "2010-02-05",
+                "SUPPLEMENTAL DEED WITH PLANS",
+                null
+              ],
+              [
+                "10080302960108",
+                "2010-07-15",
+                "SUBLEASE OF GOVERNMENT ACCOMODATION IN THE AIRCRAFT RECOVERY EQUIPMENT STORE WITH PLANS",
+                null
+              ],
+              [
+                "11100400530011",
+                "2010-11-05",
+                "LEASE AGREEMENT WITH PLAN RE CASL BASE MAINTENANCE LAND",
+                "FOR RENT AND LEASE TERM SEE MEMORIAL"
+              ],
+              [
+                "11012402530040",
+                "2011-01-11",
+                "SUB-LEASE WITH PLAN OF HKO AIRFIELD METEOROLOGICAL FACILITIES",
+                null
+              ],
+              [
+                "11120901120011",
+                "2011-11-25",
+                "CONSENT LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12020701500010",
+                "2012-01-11",
+                "LAND USE AGREEMENT WITH PLANS",
+                "FOR TERM AND RENT SEE MEMORIAL"
+              ],
+              [
+                "12021000090017",
+                "2012-01-11",
+                "UNDERLEASE WITH PLANS",
+                "FOR TERM & RENT SEE MEMORIAL"
+              ],
+              [
+                "12051002590049",
+                "2012-04-26",
+                "G.N. 2763 DATED 26.4.2012 UNDER ROADS (WORKS, USE AND COMPENSATION) ORDINANCE (CHAPTER 370)",
+                null
+              ],
+              [
+                "12051002590012",
+                "2012-04-26",
+                "G.N. 2762 DATED 26.4.2012 UNDER ROADS (WORKS, USE AND COMPENSATION) ORDINANCE (CHAPTER 370)",
+                null
+              ],
+              [
+                "12051002590037",
+                "2012-04-26",
+                "G.N. 2761 DATED 26.4.2012 UNDER ROADS (WORKS, USE AND COMPENSATION) ORDINANCE (CHAPTER 370)",
+                null
+              ],
+              [
+                "12051002590024",
+                "2012-04-26",
+                "G.N. 2764 DATED 26.4.2012 UNDER ROADS (WORKS, USE AND COMPENSATION) ORDINANCE (CHAPTER 370)",
+                null
+              ],
+              [
+                "13092402630016",
+                "2013-06-01",
+                "LETTER AGREEMENT (FOR EXTENSION OF TERM OF SUBLEASE DD.12.6.2008) AND LETTER OF ACCEPTANCE",
+                null
+              ],
+              [
+                "13110801860055",
+                "2013-06-10",
+                "DEED OF FURTHER EXTENSION",
+                null
+              ],
+              [
+                "13070502640021",
+                "2013-06-21",
+                "TENANCY AGREEMENT WITH PLANS RE RMA304 ON LEVEL 3 OF CATHAY PACIFIC CARGO TERMINAL",
+                "THE RENT IS $10,258.00 PER MONTH"
+              ],
+              [
+                "13101100850010",
+                "2013-09-16",
+                "LETTER AGREEMENT (FOR EXTENSION OF THE TERM OF THE SUBLEASE DATED 12 JUNE 2008)",
+                null
+              ],
+              [
+                "13102500820010",
+                "2013-10-10",
+                "G.N. 6022 DATED 10.10.2013 UNDER ROADS (WORKS, USE AND COMPENSATION) ORDINANCE (CHAPTER 370) WITH PLAN",
+                null
+              ],
+              [
+                "13112100690133",
+                "2013-10-25",
+                "AGREEMENT FOR LEASE WITH PLAN",
+                "THE RENT IS HK$5,000,000 PER ANNUM"
+              ],
+              [
+                "13120201030063",
+                "2013-11-19",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "14010200510098",
+                "2013-12-06",
+                "CONSENT LETTER WITH PLAN",
+                null
+              ],
+              [
+                "13122300670010",
+                "2013-12-18",
+                "LETTER AGREEMENT (FOR EXTENSION OF THE TERM OF THE SUBLEASE DATED 12 JUNE 2008)",
+                null
+              ],
+              [
+                "14031400710016",
+                "2014-03-11",
+                "LETTER AGREEMENT (FOR EXTENSION OF THE TERM OF THE SUBLEASE DATED 12 JUNE 2008)",
+                null
+              ],
+              [
+                "14061202260141",
+                "2014-06-04",
+                "RELEASE OF ASSIGNMENT OF SUB-LEASE AGREEMENTS",
+                null
+              ],
+              [
+                "14071002380032",
+                "2014-06-12",
+                "SUB-LEASE OF GOVERMMENT ACCOMMODATION AT NORTH SATELLITE CONCOURSE *",
+                "RENT : N.A."
+              ],
+              [
+                "14062001010011",
+                "2014-06-18",
+                "LETTER AGREEMENT (FOR EXTENSION OF THE TERM OF THE SUBLEASE DATED 12 JUNE 2008)",
+                null
+              ],
+              [
+                "14072202140019",
+                "2014-06-27",
+                "AGREEMENT FOR LEASE WITH PLANS",
+                "FOR RENT AND TERM SEE MEMORIAL"
+              ],
+              [
+                "14092300860019",
+                "2014-09-18",
+                "LETTER AGREEMENT (FOR EXTENSION OF THE TERM OF THE SUBLEASE DATED 12 JUNE 2008)",
+                null
+              ],
+              [
+                "14111200720038",
+                "2014-10-03",
+                "LEASE WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "14111200720043",
+                "2014-10-03",
+                "DEED OF THIRD EXTENSION",
+                null
+              ],
+              [
+                "14120502620025",
+                "2014-11-18",
+                "SUB-LEASE OF HKO AIRFIELD METEOROLOGICAL FACILITIES WITH PLAN",
+                null
+              ],
+              [
+                "15051101560016",
+                "2015-01-12",
+                "RE-REGISTRATION OF AGREEMENT FOR LEASE WITH PLANS MEM. NO. 15011601900011",
+                "THE RENT IS $6,500,000 PER ANNUM"
+              ],
+              [
+                "15011601900011",
+                "2015-01-12",
+                "AGREEMENT FOR LEASE WITH PLANS",
+                "THE RENT IS $6,500,000 PER ANNUM"
+              ],
+              [
+                "15021601300014",
+                "2015-02-10",
+                "LETTER AGREEMENT (FOR EXTENSION OF THE TERM OF THE SUBLEASE DATED 12 JUNE 2008)",
+                null
+              ],
+              [
+                "15032502280012",
+                "2015-02-26",
+                "AGREEMENT FOR SUB-LEASE WITH PLAN",
+                "THE AGGREGATE SUM OF RENTAL PAYMENT $380,011,008.00"
+              ],
+              [
+                "15050602340252",
+                "2015-03-13",
+                "AGREEMENT FOR SUB-LEASE OF LANDSIDE PETROL FILLING STATION AT HONG KONG INTERNATIONAL AIRPORT WITH PLAN",
+                "FOR RENT AND TERM SEE MEMORIAL"
+              ],
+              [
+                "15041502070025",
+                "2015-03-16",
+                "SUPPLEMENTAL AGREEMENT TO SUB-LEASE OF SKY CITY ROAD SUBSTATION",
+                null
+              ],
+              [
+                "15042101880010",
+                "2015-04-14",
+                "LETTER AGREEMENT (FOR EXTENSION OF THE TERM OF THE SUBLEASE DATED 12 JUNE 2008)",
+                null
+              ],
+              [
+                "15052200360128",
+                "2015-04-27",
+                "LEASE WITH PLAN RE UNIT NO. 5N005: AN APPROXIMATE TOTAL NET AREA OF 1,083 SQUARE METRES ON LEVEL 5",
+                "THE RENT IS $2,185,494.00 PER MONTH"
+              ],
+              [
+                "16022201460013",
+                "2015-06-09",
+                "LEASE WITH PLANS RE CIP LOUNGE IN THE NORTHWEST CONCOURSE OF TERMINAL 1 OF H. K. INTERNATIONAL AIRPORT",
+                "FOR TERM & RENT SEE MEMORIAL"
+              ],
+              [
+                "15101302230016",
+                "2015-09-18",
+                "FIRST SUPPLEMENTAL AGREEMENT TO THE AGREEMENT FOR SUB-LEASE OF LANDSIDE PETROL FILLING STATION *",
+                null
+              ],
+              [
+                "15112001200210",
+                "2015-11-06",
+                "CONSENT LETTER WITH PLAN",
+                null
+              ],
+              [
+                "18110701380138",
+                "2015-11-10",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "16021801200187",
+                "2016-02-01",
+                "SUB-LEASE OF GOVERNMENT SITE FOR HONG KONG OBSERVATORY WEATHER STATION SET UP*",
+                null
+              ],
+              [
+                "16030700210018",
+                "2016-02-22",
+                "SUPPLEMENTAL AGREEMENT RE UNIT NO.5N005 IN TERMINAL 1 OF HONG KONG INTERNATIONAL AIRPORT",
+                null
+              ],
+              [
+                "16081800190058",
+                "2016-07-22",
+                "LEASE WITH PLAN RE UNIT NO.7MC 150 ON LEVEL 7 OF MIDFIELD CONCOURSE AT HONG KONG INTERNATIONAL AIRPORT",
+                "THE RENT IS $2,583,635 PER MONTH"
+              ],
+              [
+                "16081502240015",
+                "2016-07-28",
+                "SUB-LEASE OF LANDSIDE PETROL FILLING STATION AT HONG KONG INTERNATIONAL AIRPORT WITH PLAN",
+                "FOR RENT SEE REMARKS"
+              ],
+              [
+                "16091500680010",
+                "2016-09-14",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "16091502460215",
+                "2016-09-15",
+                "DEED POLL WITH PLANS",
+                null
+              ],
+              [
+                "17011202370019",
+                "2016-11-14",
+                "LEASE WITH PLAN RE CIP LOUNGE IN TERMINAL 1 OF HONG KONG INTERNAIONAL AIRPORT",
+                "FOR RENT AND TERM SEE MEMORIAL"
+              ],
+              [
+                "17011202370021",
+                "2016-11-25",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "17012602090053",
+                "2017-01-03",
+                "LEASE WITH PLANS RE 7W506, 7W506A, 7W508 & 7W508A ON LEVEL 7, HONG KONG INTERNATIONAL AIRPORT",
+                "FOR TERM AND RENT SEE MEMORIAL"
+              ],
+              [
+                "17022300740027",
+                "2017-02-13",
+                "CONSENT LETTER WITH PLAN",
+                null
+              ],
+              [
+                "20073100520061",
+                "2017-02-16",
+                "LICENCE AGREEMENT WITH PLAN FOR THE DEVELOPMENT, MANAGEMENT, AND PROVISION OF AIRSIDE SHOWER AND*",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "20073100520076",
+                "2017-03-01",
+                "LICENCE AGREEMENT WITH PLAN FOR THE OPERATION OF AIRSIDE COMMERCIAL LOUNGES*",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "20073100520089",
+                "2017-03-01",
+                "LICENCE AGREEMENT WITH PLAN FOR THE OPERATION OF AIRSIDE COMMERCIAL LOUNGE*",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "17070601700012",
+                "2017-05-31",
+                "LEASE WITH PLAN RE FACILITY AREA",
+                "FOR RENT AND TERM SEE MEMORIAL"
+              ],
+              [
+                "17091200660011",
+                "2017-05-31",
+                "LEASE WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "17062902320017",
+                "2017-06-14",
+                "SUBLEASE OF GOVERNMENT SITE FOR HONG KONG OBSERVATORY WEATHER STATION SET UP*",
+                null
+              ],
+              [
+                "17083102050017",
+                "2017-08-17",
+                "SUBLEASE WITH PLAN OF HKO AIRFIELD METEOROLOGICAL FACILITIES (METEOROLOGICAL ENCLOSURE NEW AREA) *",
+                null
+              ],
+              [
+                "17100902480019",
+                "2017-09-13",
+                "SUPPLEMENTAL AGREEMENT WITH PLANS",
+                "FOR RENT AND TERM SEE MEMORIAL"
+              ],
+              [
+                "19071801870010",
+                "2018-07-04",
+                "RE-REGISTRATION OF AGREEMENT FOR SUB-LEASE WITH PLANS MEM. NO. 18080200950011",
+                "FOR RENT AND TERM SEE MEMORIAL"
+              ],
+              [
+                "18080200950011",
+                "2018-07-04",
+                "AGREEMENT FOR SUB-LEASE WITH PLANS",
+                "FOR RENT AND TERM SEE MEMORIAL"
+              ],
+              [
+                "18073101820014",
+                "2018-07-19",
+                "DEED OF VARIATION FOR SUBLEASE OF GOVERNMENT ACCOMMODATION AT NORTH SATELLITE CONCOURSE*",
+                null
+              ],
+              [
+                "19072302210011",
+                "2019-02-12",
+                "OCCUPATION PERMIT NO.NT 12/2019 (OP)",
+                null
+              ],
+              [
+                "19053001930034",
+                "2019-05-17",
+                "SUBLEASE OF GOVERNMENT ACCOMMODATION AT MIDFIELD CONCOURSE AT HONG KONG INTERNATIONAL AIRPORT WITH PLANS",
+                "FOR TERM SEE MEMORIAL"
+              ],
+              [
+                "19061902530335",
+                "2019-05-28",
+                "AGREEMENT FOR SUB-LEASE OF SOUTHERN LANDSIDE PETROL FILLING STATION WITH PLANS *",
+                "FOR TERM AND RENT SEE MEMORIAL"
+              ],
+              [
+                "19080802340025",
+                "2019-06-13",
+                "SECOND SUPPLEMENTAL AGREEMENT WITH PLANS",
+                null
+              ],
+              [
+                "19072602390319",
+                "2019-07-12",
+                "SUB-LEASE WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "19090401290030",
+                "2019-09-02",
+                "SECOND LEGAL CHARGE",
+                "ALL MONEY"
+              ],
+              [
+                "19090401290025",
+                "2019-09-02",
+                "LEGAL CHARGE",
+                "ALL MONEY"
+              ],
+              [
+                "19092602120034",
+                "2019-09-13",
+                "SUBLEASE WITH PLAN OF HKO AIRFIELD METEOROLOGICAL FACILITIES (METEOROLOGICAL ENCLOSURE NEW AREA)*",
+                null
+              ],
+              [
+                "20073100520053",
+                "2019-10-23",
+                "SUPPLEMENTAL AGREEMENT TO LICENCE AGREEMENT FOR THE OPERATION OF AIRSIDE COMMERCIAL LOUNGE*",
+                null
+              ],
+              [
+                "20073100520101",
+                "2019-12-20",
+                "LICENCE AGREEMENT WITH PLAN FOR THE OPERATION OF AIRSIDE COMMERCIAL LOUNGE*",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "20073100520090",
+                "2019-12-20",
+                "LICENCE AGREEMENT WITH PLAN FOR THE OPERATION OF AIRSIDE COMMERCIAL LOUNGE*",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "20120800780018",
+                "2020-02-26",
+                "RE-REGISTRATION OF FOURTH DEED OF EXTENSION MEM. NO.20032500760085",
+                null
+              ],
+              [
+                "20032500760085",
+                "2020-02-26",
+                "FOURTH DEED OF EXTENSION",
+                null
+              ],
+              [
+                "20060500510017",
+                "2020-04-03",
+                "LEASE WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "20061901860019",
+                "2020-05-28",
+                "SUPPLEMENTAL DEED TO SUBLEASE AND UNDERLEASE",
+                null
+              ],
+              [
+                "20092901960018",
+                "2020-09-17",
+                "SUBLEASE WITH PLAN OF GOVERNMENT FLYING SERVICE FACILITIES TEMPORARY CAR PARK *",
+                null
+              ],
+              [
+                "20101601770016",
+                "2020-09-18",
+                "NO-OBJECTION LETTER",
+                null
+              ],
+              [
+                "21011101880013",
+                "2020-12-16",
+                "AGREEMENT FOR LICENCE WITH PLANS",
+                null
+              ],
+              [
+                "21030801500018",
+                "2021-03-01",
+                "SUBLEASE WITH PLAN OF HKO AIRFIELD METEOROLOGICAL FACILITIES (METEOROLOGICAL ENCLOSURE NEW AREA)*",
+                null
+              ],
+              [
+                "21092102780018",
+                "2021-08-31",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "23012002300010",
+                "2021-09-20",
+                "UNDERTAKING LETTER FOR RESTRICTION OF USE OF GREENERY AREA",
+                null
+              ],
+              [
+                "22010401780065",
+                "2021-12-08",
+                "CONSENT LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052501390016",
+                "2022-05-06",
+                "CONSENT LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22060602020017",
+                "2022-05-13",
+                "EXTENSION AGREEMENT TO THE AGREEMENT FOR THE PROVISION OF INTO-PLANE FUELLING SERVICES RE FACILITY AREA",
+                null
+              ],
+              [
+                "22111001410011",
+                "2022-05-13",
+                "DEED OF EXTENSION",
+                null
+              ],
+              [
+                "22071302160090",
+                "2022-06-22",
+                "SUBLEASE WITH PLAN OF GOVERNMENT FLYING SERVICE FACILITIES TEMPORARY CAR PARK*",
+                null
+              ],
+              [
+                "22072602310489",
+                "2022-07-12",
+                "SUB-LEASE OF SOUTHERN LANDSIDE PETROL FILLING STATION AT HONG KONG INTERNATIONAL AIRPORT WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "22101401480059",
+                "2022-07-29",
+                "FIFTH DEED OF EXTENSION",
+                null
+              ],
+              [
+                "23041301260195",
+                "2023-03-30",
+                "SUBLEASE OF GOVERNMENT FLYING SERVICE FACILITIES CAR PARK NO. 2",
+                null
+              ],
+              [
+                "23091200810015",
+                "2023-08-11",
+                "LEASE WITH PLAN",
+                "FOR RENT AND TERM SEE MEMORIAL"
+              ],
+              [
+                "24102400950016",
+                "2023-09-19",
+                "NOTICE OF EXTENSION PURSUANT TO THE FIFTH DEED OF EXTENSION",
+                null
+              ],
+              [
+                "24020901960015",
+                "2024-01-11",
+                "MEMORANDUM OF LEASE",
+                null
+              ],
+              [
+                "24030801150052",
+                "2024-03-01",
+                "MEMORANDUM OF LEASE",
+                null
+              ],
+              [
+                "24032000680033",
+                "2024-03-04",
+                "SUBLEASE OF GOVERNMENT ACCOMMODATION IN INTEGRATED AIRPORT CENTRE WITH PLAN",
+                null
+              ],
+              [
+                "24032601350018",
+                "2024-03-15",
+                "MEMORANDUM OF LEASE",
+                null
+              ],
+              [
+                "24041102040012",
+                "2024-03-15",
+                "MEMORANDUM OF LEASE",
+                null
+              ],
+              [
+                "24111101520091",
+                "2024-03-31",
+                "RE-REGISTRATION OF SUBLEASE WITH PLAN MEM. NO.24041902200104",
+                "FOR RENT AND TERM SEE REMARKS"
+              ],
+              [
+                "24041902200104",
+                "2024-03-31",
+                "SUBLEASE WITH PLAN",
+                "FOR RENT AND TERM SEE REMARKS"
+              ],
+              [
+                "24051701300062",
+                "2024-05-02",
+                "DEED OF VARIATION WITH PLAN",
+                null
+              ],
+              [
+                "24090400930035",
+                "2024-05-30",
+                "DEED OF EXTENSION RE CHEK LAP KOK, HONG KONG (FACILITY AREA)",
+                null
+              ],
+              [
+                "24070401680012",
+                "2024-06-20",
+                "MEMORANDUM OF LEASE",
+                null
+              ],
+              [
+                "24070401680023",
+                "2024-06-25",
+                "MEMORANDUM OF LEASE",
+                null
+              ],
+              [
+                "24112700710016",
+                "2024-11-08",
+                "LEASE WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "25010301460017",
+                "2024-12-05",
+                "LEASE WITH PLAN",
+                "FOR RENT AND TERM SEE MEMORIAL"
+              ],
+              [
+                "25011701600012",
+                "2025-01-15",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "25021801810017",
+                "2025-01-15",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "25060601500017",
+                "2025-05-07",
+                "Please refer to the NatureDescriptionCHN Field.",
+                "SEE REMARKS"
+              ],
+              [
+                "25061100330014",
+                "2025-05-29",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "25061800040017",
+                "2025-06-13",
+                "DEED POLL WITH PLANS",
+                null
+              ],
+              [
+                "25090301990015",
+                "2025-08-07",
+                "MEMORANDUM OF LEASE",
+                null
+              ],
+              [
+                "25102701570017",
+                "2025-10-02",
+                "Please refer to the NatureDescriptionCHN Field.",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987839878606931,
@@ -1602,7 +5309,39 @@
         1810106838,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 1557 S.A",
+            "Old Schedule Lot",
+            "C4092058",
+            [
+              [
+                "IS9872",
+                "1915-07-23",
+                "-",
+                null
+              ],
+              [
+                "IS108157",
+                "1981-10-27",
+                "-",
+                null
+              ],
+              [
+                "17040300260094",
+                "2017-03-21",
+                "DEED OF CONFIRMATION WITH PLAN",
+                null
+              ],
+              [
+                "18052900320210",
+                "2018-04-20",
+                "FURTHER DEED OF CONFIRMATION WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987960284062523,
@@ -1621,7 +5360,45 @@
         1810198636,
         null,
         null,
-        []
+        [
+          [
+            "DD305 LL 2273",
+            "Old Schedule Lot",
+            "C4095567",
+            [
+              [
+                "IS173210",
+                "1991-04-18",
+                "-",
+                null
+              ],
+              [
+                "IS189860",
+                "1992-05-18",
+                "ASSIGNMENT",
+                "815443.2"
+              ],
+              [
+                "IS236489",
+                "1996-10-09",
+                "A SEALED COPY OF A CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "IS241034",
+                "1997-01-15",
+                "A SEALED COPY OF A CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "IS275702",
+                "1999-09-20",
+                "SATISFACTION CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879532473675319,
@@ -1678,7 +5455,975 @@
         1910242297,
         null,
         null,
-        []
+        [
+          [
+            "CLKL 1 &EXT THERETO RP",
+            "New Grant Lot",
+            "C5183985",
+            [
+              [
+                "IS262247",
+                "1998-03-16",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "IS272221",
+                "1999-05-11",
+                "LEASE OF STATION AND RAILWAY AREA WITH PLANS",
+                null
+              ],
+              [
+                "IS286675",
+                "2000-09-21",
+                "DEED OF RECTIFICATION OF LEASE M/N IS272221 RE STATION & RAILWAY AREA",
+                null
+              ],
+              [
+                "IS316781",
+                "2003-05-12",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "IS323532",
+                "2003-09-15",
+                "SUBLEASE RE EXHIBITION CENTER WITH PLANS FROM 15.9.2003 TO 24.6.2047",
+                null
+              ],
+              [
+                "IS323533",
+                "2003-09-15",
+                "AGREEMENT FOR UNDERLEASE RE EXHIBITION CENTRE WITH PLANS",
+                null
+              ],
+              [
+                "IS323369",
+                "2003-09-19",
+                "CONSENT LETTER TO OPERATE FERRY SERVICES RE PART WITH PLAN",
+                null
+              ],
+              [
+                "IS327298",
+                "2003-12-24",
+                "G.N. 79 UNDER S.12 OF TUNG CHUNG CABLE CAR ORDINANCE (CAP.577)",
+                null
+              ],
+              [
+                "IS327419",
+                "2003-12-24",
+                "DEED OF SURRENDER RE PORTIONS WITH PLAN AND GRANT OF EASEMENTS",
+                null
+              ],
+              [
+                "IS328338",
+                "2004-01-09",
+                "SUBLEASE WITH PLAN (OF GOVERNMENT FLYING SERVICE FACILITIES AT *",
+                null
+              ],
+              [
+                "IS328337",
+                "2004-01-09",
+                "SUBLEASE WITH PLAN FROM 18.1.1996 TO 27.6.2047",
+                null
+              ],
+              [
+                "IS328339",
+                "2004-01-09",
+                "SUBLEASE WITH PLAN FROM 1.12.1995 TO 27.6.2047",
+                null
+              ],
+              [
+                "IS328340",
+                "2004-01-09",
+                "SUBLEASE WITH PLAN (OF AIRPORT (LANDSIDE) FIRE STATION AT *",
+                null
+              ],
+              [
+                "IS341073",
+                "2004-04-14",
+                "LICENCE AGREEMENT WITH PLAN RE POLICE OBSERVATION POST",
+                null
+              ],
+              [
+                "IS343227",
+                "2004-12-03",
+                "AGREEMENT FOR SUBLEASE OF THE SKYCITY GOLF COURSE WITH PLAN",
+                null
+              ],
+              [
+                "05091300860015",
+                "2005-09-02",
+                "G.N.4470 DATED 2.9.2005 UNDER SECTION 12 OF TUNG CHUNG CABLE CAR ORDINANCE (CHAPTER 577) WITH PLAN",
+                null
+              ],
+              [
+                "05090602270014",
+                "2005-09-02",
+                "DEED OF SURRENDER AND GRANT OF EASEMENTS WITH PLAN",
+                null
+              ],
+              [
+                "06071901330129",
+                "2006-06-26",
+                "AGREEMENT FOR SUB-LEASE WITH PLANS RE THE SITE OF CONSTRUCTION OF THE HOTEL *",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "06080202400013",
+                "2006-07-06",
+                "SUBLEASE WITH PLANS  OF CUSTOMS CHECK POINTS AT HONG KONG INTERNATIONAL AIRPORT",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "06080202400033",
+                "2006-07-06",
+                "SUBLEASE WITH PLANS OF CAD AIRFIELD FACILITIES AND HKO AIRFIELD METEOROLOGICAL FACILITIES (II)*",
+                "FOR TERM AND RENT SEE MEMORIAL"
+              ],
+              [
+                "06080202400022",
+                "2006-07-06",
+                "SUBLEASE WITH PLANS OF CAD AIRFIELD FACILITIES AND HKO AIRFIELD METEOROLOGICAL FACILITIES (I)*",
+                "FOR TERM AND RENT SEE MEMORIAL"
+              ],
+              [
+                "07040401490017",
+                "2006-09-28",
+                "LEASE AGREEMENT WITH PLAN RE CASL BASE MAINTENANCE LAND",
+                null
+              ],
+              [
+                "06111600960015",
+                "2006-10-25",
+                "ASSIGNMENT OF SUB-LEASE AGREEMENTS",
+                null
+              ],
+              [
+                "07072001580047",
+                "2007-05-29",
+                "LICENCE AGREEMENT WITH PLAN RE UNIT NO.6P045, LEVEL 6, SKYPLAZA",
+                "FOR TERM AND RENT SEE MEMORIAL"
+              ],
+              [
+                "07082403240112",
+                "2007-07-26",
+                "SUBLEASE WITH PLAN (OF ANEMOMETER STATION A7 AT HONG KONG INTERNATIONAL AIRPORT)",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "08050801980012",
+                "2007-11-20",
+                "OFFICE LEASE WITH PLAN RE 6/F OF THE AIRPORT WORLD TRADE CENTRE",
+                null
+              ],
+              [
+                "08082901560019",
+                "2007-11-22",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "08053002990465",
+                "2008-01-04",
+                "LEASE WITH PLAN RE UNIIT OR UNITS COMPRISING OF AN APPROXIMATE TOTAL NET AREA OF 139 SQUARE METRES",
+                "SEE REMARKS"
+              ],
+              [
+                "08040102770184",
+                "2008-03-18",
+                "LEASE WITH PLAN RE THE FACILITY AREA BEING THE AREA OF ABOUT 103,316 SQ.METRES IDENTIFIED AS SUCH ON *",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "08041702570052",
+                "2008-03-31",
+                "SUBLEASE (OF ANEMOMETER STATION A8 AT HONG KONG INTERNATIONAL AIRPORT) WITH PLAN",
+                null
+              ],
+              [
+                "08070402900165",
+                "2008-06-12",
+                "SUBLEASE OF THE SKYCITY GOLF COURSE AT HONG KONG INTERNATIONAL AIRPORT WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "08072302980053",
+                "2008-07-17",
+                "SUBLEASE OF AIR TRAFFIC CONTROL COMPLEX AND TOWER AT HONG KONG INTERNATIONAL AIRPORT WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "08072302980088",
+                "2008-07-17",
+                "SUBLEASE WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "08072302980077",
+                "2008-07-17",
+                "SUBLEASE WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "08072302980066",
+                "2008-07-17",
+                "SUBLEASE WITH PLANS",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "08081502990034",
+                "2008-07-18",
+                "LEASE WITH PLAN",
+                "FOR TERM AND RENT SEE MEMORIAL"
+              ],
+              [
+                "08123102380568",
+                "2008-12-09",
+                "SUB-LEASE RE THE SITE OF CONSTRUCTION OF THE HOTEL WITH PLANS (AS DEFINED IN THE SUB-LEASE)",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "09010902340168",
+                "2008-12-11",
+                "SUPPLEMENTAL AGREEMENT RE THE SITE OF CONSTRUCTION OF THE HOTEL",
+                null
+              ],
+              [
+                "09010902340154",
+                "2008-12-11",
+                "SUPPLEMENTAL AGREEMENT RE EXHIBITION CENTRE",
+                null
+              ],
+              [
+                "09011302500088",
+                "2008-12-17",
+                "SUBLEASE OF GOVERNMENT ACCOMMODATION IN THE PASSENGER TERMINAL 2*",
+                null
+              ],
+              [
+                "09020402200558",
+                "2009-01-15",
+                "SUPPLEMENTAL DEED WITH PLANS",
+                null
+              ],
+              [
+                "09022501820012",
+                "2009-01-23",
+                "CONSENT LETTER WITH PLAN RE : (OPERATE FERRY SERVICES AT SKYPIER 1)",
+                null
+              ],
+              [
+                "09022501820042",
+                "2009-01-23",
+                "CONSENT LETTER WITH PLAN RE : (SEA ACCESS & OPERATION OF CROSS-BOUNDARY FERRY SERVICES)",
+                null
+              ],
+              [
+                "09040102060017",
+                "2009-03-04",
+                "SUB-LEASE OF SKY CITY ROAD SUBSTATION WITH PLANS RE THE AREA DELINEATED SHOWN ON THE PLAN ATTACHED",
+                "15600000.0"
+              ],
+              [
+                "09061602600159",
+                "2009-05-20",
+                "SUBLEASE WITH PLAN OF CIVIL AVIATION DEPARTMENT HEADQUARTERS AT HONG KONG INTERNATIONAL AIRPORT",
+                null
+              ],
+              [
+                "09061602600168",
+                "2009-05-22",
+                "SUBLEASE WITH PLAN OF MINISODAR SITE NEAR COMMUNICATIONS EQUIPMENT BUILDING 1",
+                null
+              ],
+              [
+                "09120302990228",
+                "2009-11-05",
+                "SUBLEASE OF GOVERNMENT ACCOMMODATION IN THE PASSENGER TERMINAL 2 WITH PLANS",
+                null
+              ],
+              [
+                "10030102810249",
+                "2010-02-05",
+                "SUPPLEMENTAL DEED WITH PLANS",
+                null
+              ],
+              [
+                "10080302960108",
+                "2010-07-15",
+                "SUBLEASE OF GOVERNMENT ACCOMODATION IN THE AIRCRAFT RECOVERY EQUIPMENT STORE WITH PLANS",
+                null
+              ],
+              [
+                "11100400530011",
+                "2010-11-05",
+                "LEASE AGREEMENT WITH PLAN RE CASL BASE MAINTENANCE LAND",
+                "FOR RENT AND LEASE TERM SEE MEMORIAL"
+              ],
+              [
+                "11012402530040",
+                "2011-01-11",
+                "SUB-LEASE WITH PLAN OF HKO AIRFIELD METEOROLOGICAL FACILITIES",
+                null
+              ],
+              [
+                "11120901120011",
+                "2011-11-25",
+                "CONSENT LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12020701500010",
+                "2012-01-11",
+                "LAND USE AGREEMENT WITH PLANS",
+                "FOR TERM AND RENT SEE MEMORIAL"
+              ],
+              [
+                "12021000090017",
+                "2012-01-11",
+                "UNDERLEASE WITH PLANS",
+                "FOR TERM & RENT SEE MEMORIAL"
+              ],
+              [
+                "12051002590049",
+                "2012-04-26",
+                "G.N. 2763 DATED 26.4.2012 UNDER ROADS (WORKS, USE AND COMPENSATION) ORDINANCE (CHAPTER 370)",
+                null
+              ],
+              [
+                "12051002590012",
+                "2012-04-26",
+                "G.N. 2762 DATED 26.4.2012 UNDER ROADS (WORKS, USE AND COMPENSATION) ORDINANCE (CHAPTER 370)",
+                null
+              ],
+              [
+                "12051002590037",
+                "2012-04-26",
+                "G.N. 2761 DATED 26.4.2012 UNDER ROADS (WORKS, USE AND COMPENSATION) ORDINANCE (CHAPTER 370)",
+                null
+              ],
+              [
+                "12051002590024",
+                "2012-04-26",
+                "G.N. 2764 DATED 26.4.2012 UNDER ROADS (WORKS, USE AND COMPENSATION) ORDINANCE (CHAPTER 370)",
+                null
+              ],
+              [
+                "13092402630016",
+                "2013-06-01",
+                "LETTER AGREEMENT (FOR EXTENSION OF TERM OF SUBLEASE DD.12.6.2008) AND LETTER OF ACCEPTANCE",
+                null
+              ],
+              [
+                "13110801860055",
+                "2013-06-10",
+                "DEED OF FURTHER EXTENSION",
+                null
+              ],
+              [
+                "13070502640021",
+                "2013-06-21",
+                "TENANCY AGREEMENT WITH PLANS RE RMA304 ON LEVEL 3 OF CATHAY PACIFIC CARGO TERMINAL",
+                "THE RENT IS $10,258.00 PER MONTH"
+              ],
+              [
+                "13101100850010",
+                "2013-09-16",
+                "LETTER AGREEMENT (FOR EXTENSION OF THE TERM OF THE SUBLEASE DATED 12 JUNE 2008)",
+                null
+              ],
+              [
+                "13102500820010",
+                "2013-10-10",
+                "G.N. 6022 DATED 10.10.2013 UNDER ROADS (WORKS, USE AND COMPENSATION) ORDINANCE (CHAPTER 370) WITH PLAN",
+                null
+              ],
+              [
+                "13112100690133",
+                "2013-10-25",
+                "AGREEMENT FOR LEASE WITH PLAN",
+                "THE RENT IS HK$5,000,000 PER ANNUM"
+              ],
+              [
+                "13120201030063",
+                "2013-11-19",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "14010200510098",
+                "2013-12-06",
+                "CONSENT LETTER WITH PLAN",
+                null
+              ],
+              [
+                "13122300670010",
+                "2013-12-18",
+                "LETTER AGREEMENT (FOR EXTENSION OF THE TERM OF THE SUBLEASE DATED 12 JUNE 2008)",
+                null
+              ],
+              [
+                "14031400710016",
+                "2014-03-11",
+                "LETTER AGREEMENT (FOR EXTENSION OF THE TERM OF THE SUBLEASE DATED 12 JUNE 2008)",
+                null
+              ],
+              [
+                "14061202260141",
+                "2014-06-04",
+                "RELEASE OF ASSIGNMENT OF SUB-LEASE AGREEMENTS",
+                null
+              ],
+              [
+                "14071002380032",
+                "2014-06-12",
+                "SUB-LEASE OF GOVERMMENT ACCOMMODATION AT NORTH SATELLITE CONCOURSE *",
+                "RENT : N.A."
+              ],
+              [
+                "14062001010011",
+                "2014-06-18",
+                "LETTER AGREEMENT (FOR EXTENSION OF THE TERM OF THE SUBLEASE DATED 12 JUNE 2008)",
+                null
+              ],
+              [
+                "14072202140019",
+                "2014-06-27",
+                "AGREEMENT FOR LEASE WITH PLANS",
+                "FOR RENT AND TERM SEE MEMORIAL"
+              ],
+              [
+                "14092300860019",
+                "2014-09-18",
+                "LETTER AGREEMENT (FOR EXTENSION OF THE TERM OF THE SUBLEASE DATED 12 JUNE 2008)",
+                null
+              ],
+              [
+                "14111200720038",
+                "2014-10-03",
+                "LEASE WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "14111200720043",
+                "2014-10-03",
+                "DEED OF THIRD EXTENSION",
+                null
+              ],
+              [
+                "14120502620025",
+                "2014-11-18",
+                "SUB-LEASE OF HKO AIRFIELD METEOROLOGICAL FACILITIES WITH PLAN",
+                null
+              ],
+              [
+                "15051101560016",
+                "2015-01-12",
+                "RE-REGISTRATION OF AGREEMENT FOR LEASE WITH PLANS MEM. NO. 15011601900011",
+                "THE RENT IS $6,500,000 PER ANNUM"
+              ],
+              [
+                "15011601900011",
+                "2015-01-12",
+                "AGREEMENT FOR LEASE WITH PLANS",
+                "THE RENT IS $6,500,000 PER ANNUM"
+              ],
+              [
+                "15021601300014",
+                "2015-02-10",
+                "LETTER AGREEMENT (FOR EXTENSION OF THE TERM OF THE SUBLEASE DATED 12 JUNE 2008)",
+                null
+              ],
+              [
+                "15032502280012",
+                "2015-02-26",
+                "AGREEMENT FOR SUB-LEASE WITH PLAN",
+                "THE AGGREGATE SUM OF RENTAL PAYMENT $380,011,008.00"
+              ],
+              [
+                "15050602340252",
+                "2015-03-13",
+                "AGREEMENT FOR SUB-LEASE OF LANDSIDE PETROL FILLING STATION AT HONG KONG INTERNATIONAL AIRPORT WITH PLAN",
+                "FOR RENT AND TERM SEE MEMORIAL"
+              ],
+              [
+                "15041502070025",
+                "2015-03-16",
+                "SUPPLEMENTAL AGREEMENT TO SUB-LEASE OF SKY CITY ROAD SUBSTATION",
+                null
+              ],
+              [
+                "15042101880010",
+                "2015-04-14",
+                "LETTER AGREEMENT (FOR EXTENSION OF THE TERM OF THE SUBLEASE DATED 12 JUNE 2008)",
+                null
+              ],
+              [
+                "15052200360128",
+                "2015-04-27",
+                "LEASE WITH PLAN RE UNIT NO. 5N005: AN APPROXIMATE TOTAL NET AREA OF 1,083 SQUARE METRES ON LEVEL 5",
+                "THE RENT IS $2,185,494.00 PER MONTH"
+              ],
+              [
+                "16022201460013",
+                "2015-06-09",
+                "LEASE WITH PLANS RE CIP LOUNGE IN THE NORTHWEST CONCOURSE OF TERMINAL 1 OF H. K. INTERNATIONAL AIRPORT",
+                "FOR TERM & RENT SEE MEMORIAL"
+              ],
+              [
+                "15101302230016",
+                "2015-09-18",
+                "FIRST SUPPLEMENTAL AGREEMENT TO THE AGREEMENT FOR SUB-LEASE OF LANDSIDE PETROL FILLING STATION *",
+                null
+              ],
+              [
+                "15112001200210",
+                "2015-11-06",
+                "CONSENT LETTER WITH PLAN",
+                null
+              ],
+              [
+                "18110701380138",
+                "2015-11-10",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "16021801200187",
+                "2016-02-01",
+                "SUB-LEASE OF GOVERNMENT SITE FOR HONG KONG OBSERVATORY WEATHER STATION SET UP*",
+                null
+              ],
+              [
+                "16030700210018",
+                "2016-02-22",
+                "SUPPLEMENTAL AGREEMENT RE UNIT NO.5N005 IN TERMINAL 1 OF HONG KONG INTERNATIONAL AIRPORT",
+                null
+              ],
+              [
+                "16081800190058",
+                "2016-07-22",
+                "LEASE WITH PLAN RE UNIT NO.7MC 150 ON LEVEL 7 OF MIDFIELD CONCOURSE AT HONG KONG INTERNATIONAL AIRPORT",
+                "THE RENT IS $2,583,635 PER MONTH"
+              ],
+              [
+                "16081502240015",
+                "2016-07-28",
+                "SUB-LEASE OF LANDSIDE PETROL FILLING STATION AT HONG KONG INTERNATIONAL AIRPORT WITH PLAN",
+                "FOR RENT SEE REMARKS"
+              ],
+              [
+                "16091500680010",
+                "2016-09-14",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "16091502460215",
+                "2016-09-15",
+                "DEED POLL WITH PLANS",
+                null
+              ],
+              [
+                "17011202370019",
+                "2016-11-14",
+                "LEASE WITH PLAN RE CIP LOUNGE IN TERMINAL 1 OF HONG KONG INTERNAIONAL AIRPORT",
+                "FOR RENT AND TERM SEE MEMORIAL"
+              ],
+              [
+                "17011202370021",
+                "2016-11-25",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "17012602090053",
+                "2017-01-03",
+                "LEASE WITH PLANS RE 7W506, 7W506A, 7W508 & 7W508A ON LEVEL 7, HONG KONG INTERNATIONAL AIRPORT",
+                "FOR TERM AND RENT SEE MEMORIAL"
+              ],
+              [
+                "17022300740027",
+                "2017-02-13",
+                "CONSENT LETTER WITH PLAN",
+                null
+              ],
+              [
+                "20073100520061",
+                "2017-02-16",
+                "LICENCE AGREEMENT WITH PLAN FOR THE DEVELOPMENT, MANAGEMENT, AND PROVISION OF AIRSIDE SHOWER AND*",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "20073100520076",
+                "2017-03-01",
+                "LICENCE AGREEMENT WITH PLAN FOR THE OPERATION OF AIRSIDE COMMERCIAL LOUNGES*",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "20073100520089",
+                "2017-03-01",
+                "LICENCE AGREEMENT WITH PLAN FOR THE OPERATION OF AIRSIDE COMMERCIAL LOUNGE*",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "17070601700012",
+                "2017-05-31",
+                "LEASE WITH PLAN RE FACILITY AREA",
+                "FOR RENT AND TERM SEE MEMORIAL"
+              ],
+              [
+                "17091200660011",
+                "2017-05-31",
+                "LEASE WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "17062902320017",
+                "2017-06-14",
+                "SUBLEASE OF GOVERNMENT SITE FOR HONG KONG OBSERVATORY WEATHER STATION SET UP*",
+                null
+              ],
+              [
+                "17083102050017",
+                "2017-08-17",
+                "SUBLEASE WITH PLAN OF HKO AIRFIELD METEOROLOGICAL FACILITIES (METEOROLOGICAL ENCLOSURE NEW AREA) *",
+                null
+              ],
+              [
+                "17100902480019",
+                "2017-09-13",
+                "SUPPLEMENTAL AGREEMENT WITH PLANS",
+                "FOR RENT AND TERM SEE MEMORIAL"
+              ],
+              [
+                "19071801870010",
+                "2018-07-04",
+                "RE-REGISTRATION OF AGREEMENT FOR SUB-LEASE WITH PLANS MEM. NO. 18080200950011",
+                "FOR RENT AND TERM SEE MEMORIAL"
+              ],
+              [
+                "18080200950011",
+                "2018-07-04",
+                "AGREEMENT FOR SUB-LEASE WITH PLANS",
+                "FOR RENT AND TERM SEE MEMORIAL"
+              ],
+              [
+                "18073101820014",
+                "2018-07-19",
+                "DEED OF VARIATION FOR SUBLEASE OF GOVERNMENT ACCOMMODATION AT NORTH SATELLITE CONCOURSE*",
+                null
+              ],
+              [
+                "19072302210011",
+                "2019-02-12",
+                "OCCUPATION PERMIT NO.NT 12/2019 (OP)",
+                null
+              ],
+              [
+                "19053001930034",
+                "2019-05-17",
+                "SUBLEASE OF GOVERNMENT ACCOMMODATION AT MIDFIELD CONCOURSE AT HONG KONG INTERNATIONAL AIRPORT WITH PLANS",
+                "FOR TERM SEE MEMORIAL"
+              ],
+              [
+                "19061902530335",
+                "2019-05-28",
+                "AGREEMENT FOR SUB-LEASE OF SOUTHERN LANDSIDE PETROL FILLING STATION WITH PLANS *",
+                "FOR TERM AND RENT SEE MEMORIAL"
+              ],
+              [
+                "19080802340025",
+                "2019-06-13",
+                "SECOND SUPPLEMENTAL AGREEMENT WITH PLANS",
+                null
+              ],
+              [
+                "19072602390319",
+                "2019-07-12",
+                "SUB-LEASE WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "19090401290030",
+                "2019-09-02",
+                "SECOND LEGAL CHARGE",
+                "ALL MONEY"
+              ],
+              [
+                "19090401290025",
+                "2019-09-02",
+                "LEGAL CHARGE",
+                "ALL MONEY"
+              ],
+              [
+                "19092602120034",
+                "2019-09-13",
+                "SUBLEASE WITH PLAN OF HKO AIRFIELD METEOROLOGICAL FACILITIES (METEOROLOGICAL ENCLOSURE NEW AREA)*",
+                null
+              ],
+              [
+                "20073100520053",
+                "2019-10-23",
+                "SUPPLEMENTAL AGREEMENT TO LICENCE AGREEMENT FOR THE OPERATION OF AIRSIDE COMMERCIAL LOUNGE*",
+                null
+              ],
+              [
+                "20073100520101",
+                "2019-12-20",
+                "LICENCE AGREEMENT WITH PLAN FOR THE OPERATION OF AIRSIDE COMMERCIAL LOUNGE*",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "20073100520090",
+                "2019-12-20",
+                "LICENCE AGREEMENT WITH PLAN FOR THE OPERATION OF AIRSIDE COMMERCIAL LOUNGE*",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "20120800780018",
+                "2020-02-26",
+                "RE-REGISTRATION OF FOURTH DEED OF EXTENSION MEM. NO.20032500760085",
+                null
+              ],
+              [
+                "20032500760085",
+                "2020-02-26",
+                "FOURTH DEED OF EXTENSION",
+                null
+              ],
+              [
+                "20060500510017",
+                "2020-04-03",
+                "LEASE WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "20061901860019",
+                "2020-05-28",
+                "SUPPLEMENTAL DEED TO SUBLEASE AND UNDERLEASE",
+                null
+              ],
+              [
+                "20092901960018",
+                "2020-09-17",
+                "SUBLEASE WITH PLAN OF GOVERNMENT FLYING SERVICE FACILITIES TEMPORARY CAR PARK *",
+                null
+              ],
+              [
+                "20101601770016",
+                "2020-09-18",
+                "NO-OBJECTION LETTER",
+                null
+              ],
+              [
+                "21011101880013",
+                "2020-12-16",
+                "AGREEMENT FOR LICENCE WITH PLANS",
+                null
+              ],
+              [
+                "21030801500018",
+                "2021-03-01",
+                "SUBLEASE WITH PLAN OF HKO AIRFIELD METEOROLOGICAL FACILITIES (METEOROLOGICAL ENCLOSURE NEW AREA)*",
+                null
+              ],
+              [
+                "21092102780018",
+                "2021-08-31",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "23012002300010",
+                "2021-09-20",
+                "UNDERTAKING LETTER FOR RESTRICTION OF USE OF GREENERY AREA",
+                null
+              ],
+              [
+                "22010401780065",
+                "2021-12-08",
+                "CONSENT LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22052501390016",
+                "2022-05-06",
+                "CONSENT LETTER WITH PLAN",
+                null
+              ],
+              [
+                "22060602020017",
+                "2022-05-13",
+                "EXTENSION AGREEMENT TO THE AGREEMENT FOR THE PROVISION OF INTO-PLANE FUELLING SERVICES RE FACILITY AREA",
+                null
+              ],
+              [
+                "22111001410011",
+                "2022-05-13",
+                "DEED OF EXTENSION",
+                null
+              ],
+              [
+                "22071302160090",
+                "2022-06-22",
+                "SUBLEASE WITH PLAN OF GOVERNMENT FLYING SERVICE FACILITIES TEMPORARY CAR PARK*",
+                null
+              ],
+              [
+                "22072602310489",
+                "2022-07-12",
+                "SUB-LEASE OF SOUTHERN LANDSIDE PETROL FILLING STATION AT HONG KONG INTERNATIONAL AIRPORT WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "22101401480059",
+                "2022-07-29",
+                "FIFTH DEED OF EXTENSION",
+                null
+              ],
+              [
+                "23041301260195",
+                "2023-03-30",
+                "SUBLEASE OF GOVERNMENT FLYING SERVICE FACILITIES CAR PARK NO. 2",
+                null
+              ],
+              [
+                "23091200810015",
+                "2023-08-11",
+                "LEASE WITH PLAN",
+                "FOR RENT AND TERM SEE MEMORIAL"
+              ],
+              [
+                "24102400950016",
+                "2023-09-19",
+                "NOTICE OF EXTENSION PURSUANT TO THE FIFTH DEED OF EXTENSION",
+                null
+              ],
+              [
+                "24020901960015",
+                "2024-01-11",
+                "MEMORANDUM OF LEASE",
+                null
+              ],
+              [
+                "24030801150052",
+                "2024-03-01",
+                "MEMORANDUM OF LEASE",
+                null
+              ],
+              [
+                "24032000680033",
+                "2024-03-04",
+                "SUBLEASE OF GOVERNMENT ACCOMMODATION IN INTEGRATED AIRPORT CENTRE WITH PLAN",
+                null
+              ],
+              [
+                "24032601350018",
+                "2024-03-15",
+                "MEMORANDUM OF LEASE",
+                null
+              ],
+              [
+                "24041102040012",
+                "2024-03-15",
+                "MEMORANDUM OF LEASE",
+                null
+              ],
+              [
+                "24111101520091",
+                "2024-03-31",
+                "RE-REGISTRATION OF SUBLEASE WITH PLAN MEM. NO.24041902200104",
+                "FOR RENT AND TERM SEE REMARKS"
+              ],
+              [
+                "24041902200104",
+                "2024-03-31",
+                "SUBLEASE WITH PLAN",
+                "FOR RENT AND TERM SEE REMARKS"
+              ],
+              [
+                "24051701300062",
+                "2024-05-02",
+                "DEED OF VARIATION WITH PLAN",
+                null
+              ],
+              [
+                "24090400930035",
+                "2024-05-30",
+                "DEED OF EXTENSION RE CHEK LAP KOK, HONG KONG (FACILITY AREA)",
+                null
+              ],
+              [
+                "24070401680012",
+                "2024-06-20",
+                "MEMORANDUM OF LEASE",
+                null
+              ],
+              [
+                "24070401680023",
+                "2024-06-25",
+                "MEMORANDUM OF LEASE",
+                null
+              ],
+              [
+                "24112700710016",
+                "2024-11-08",
+                "LEASE WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "25010301460017",
+                "2024-12-05",
+                "LEASE WITH PLAN",
+                "FOR RENT AND TERM SEE MEMORIAL"
+              ],
+              [
+                "25011701600012",
+                "2025-01-15",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "25021801810017",
+                "2025-01-15",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "25060601500017",
+                "2025-05-07",
+                "Please refer to the NatureDescriptionCHN Field.",
+                "SEE REMARKS"
+              ],
+              [
+                "25061100330014",
+                "2025-05-29",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "25061800040017",
+                "2025-06-13",
+                "DEED POLL WITH PLANS",
+                null
+              ],
+              [
+                "25090301990015",
+                "2025-08-07",
+                "MEMORANDUM OF LEASE",
+                null
+              ],
+              [
+                "25102701570017",
+                "2025-10-02",
+                "Please refer to the NatureDescriptionCHN Field.",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9878438232500093,

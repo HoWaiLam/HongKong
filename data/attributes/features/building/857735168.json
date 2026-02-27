@@ -215,7 +215,81 @@
         1105696587,
         null,
         null,
-        []
+        [
+          [
+            "DD102 1689",
+            "Old Schedule Lot",
+            "C2343621",
+            [
+              [
+                "YL87912",
+                "1933-11-09",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "YL133858",
+                "1955-06-25",
+                "REMOVAL OF TRUSTEE",
+                null
+              ],
+              [
+                "YL330928",
+                "1986-11-24",
+                "APPOINTMENT OF MANAGERS",
+                null
+              ],
+              [
+                "YL687136",
+                "1996-07-30",
+                "COPY OF NOTICE UNDER SECTION 23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "YL726881",
+                "1997-02-18",
+                "NOTICE UNDER SECTION 23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "YL1034964",
+                "2003-02-27",
+                "ENFORCEMENT NOTICE UNDER S.23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "YL1057213",
+                "2003-09-18",
+                "NOTICE UNDER S.23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "07011101440061",
+                "2005-08-22",
+                "NOTICE OF DEATH OF MANAGER OF MAN SAN YE (OR YA) TSO ALIAS MAN TSZ YE TSO ALIAS MAN SHING YE TSO",
+                null
+              ],
+              [
+                "07041700210036",
+                "2007-04-12",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF TOWN PLANNING ORDINANCE WITH PLANS",
+                null
+              ],
+              [
+                "07091800290013",
+                "2007-09-13",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "15100501160105",
+                "2015-09-30",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION  23(1) WITH PLANS",
+                "N.A."
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909686158796018,
@@ -272,7 +346,129 @@
         1105696712,
         null,
         null,
-        []
+        [
+          [
+            "DD102 1202",
+            "Old Schedule Lot",
+            "C4941180",
+            [
+              [
+                "YL24342",
+                "1913-05-30",
+                "-",
+                "32.0"
+              ],
+              [
+                "YL30687",
+                "1915-06-08",
+                "MORTGAGE",
+                "500.0"
+              ],
+              [
+                "YL33358",
+                "1916-05-25",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "YL33777",
+                "1916-05-27",
+                "MORTGAGE",
+                "2000.0"
+              ],
+              [
+                "YL35813",
+                "1917-04-17",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "YL36691",
+                "1917-06-27",
+                "MORTGAGE",
+                "2000.0"
+              ],
+              [
+                "YL36690",
+                "1917-06-27",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "YL47038",
+                "1920-12-03",
+                "TRANSFER",
+                "2000.0"
+              ],
+              [
+                "YL49775",
+                "1921-05-27",
+                "-",
+                "1800.0"
+              ],
+              [
+                "YL50368",
+                "1921-10-13",
+                "AGREEMENT OF EQUITABLE CHARGE",
+                "20000.0"
+              ],
+              [
+                "YL74714",
+                "1929-12-27",
+                "CERTIFICATE OF SATISFACTION",
+                null
+              ],
+              [
+                "YL100185",
+                "1937-05-04",
+                "SUCCESSION TO PROPERTIES",
+                null
+              ],
+              [
+                "YL109317",
+                "1940-07-02",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "YL119298",
+                "1947-11-20",
+                "PROBATE",
+                null
+              ],
+              [
+                "YL119299",
+                "1947-12-04",
+                "-",
+                "35156.0"
+              ],
+              [
+                "YL142934",
+                "1960-09-15",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "YL153419",
+                "1964-05-02",
+                "-",
+                null
+              ],
+              [
+                "YL1046618",
+                "2003-05-27",
+                "ASSIGNMENT",
+                "827640.0"
+              ],
+              [
+                "24081900360244",
+                "2023-10-17",
+                "WARNING LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910326609536684,
@@ -405,7 +601,39 @@
         1105697204,
         null,
         null,
-        []
+        [
+          [
+            "DD102 1230",
+            "Old Schedule Lot",
+            "C4941200",
+            [
+              [
+                "YL318738",
+                "1986-03-27",
+                "-",
+                null
+              ],
+              [
+                "10041602630105",
+                "2009-07-15",
+                "COURT CERTIFIED AND SEALED COPY GRANT OF PROBATE",
+                null
+              ],
+              [
+                "10110503170200",
+                "2010-10-09",
+                "ASSIGNMENT",
+                "922078.08"
+              ],
+              [
+                "10110503170198",
+                "2010-10-09",
+                "ASSIGNMENT",
+                "102453.12"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910408453247566,
@@ -424,7 +652,39 @@
         1105697220,
         null,
         null,
-        []
+        [
+          [
+            "DD102 1230",
+            "Old Schedule Lot",
+            "C4941200",
+            [
+              [
+                "YL318738",
+                "1986-03-27",
+                "-",
+                null
+              ],
+              [
+                "10041602630105",
+                "2009-07-15",
+                "COURT CERTIFIED AND SEALED COPY GRANT OF PROBATE",
+                null
+              ],
+              [
+                "10110503170200",
+                "2010-10-09",
+                "ASSIGNMENT",
+                "922078.08"
+              ],
+              [
+                "10110503170198",
+                "2010-10-09",
+                "ASSIGNMENT",
+                "102453.12"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99104151294051,
@@ -462,7 +722,87 @@
         1105697387,
         null,
         null,
-        []
+        [
+          [
+            "DD102 1522",
+            "Old Schedule Lot",
+            "C6446970",
+            [
+              [
+                "YL87912",
+                "1933-11-09",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "YL133858",
+                "1955-06-25",
+                "REMOVAL OF TRUSTEE",
+                null
+              ],
+              [
+                "YL330928",
+                "1986-11-24",
+                "APPOINTMENT OF MANAGERS",
+                null
+              ],
+              [
+                "YL687134",
+                "1996-07-30",
+                "COPY OF NOTICE UNDER SECTION 23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "YL708378",
+                "1996-11-07",
+                "NOTICE UNDER SECTION 23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "YL726882",
+                "1997-02-18",
+                "NOTICE UNDER SECTION 23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "YL736653",
+                "1997-04-10",
+                "NOTICE UNDER SECTION 23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "07011101440061",
+                "2005-08-22",
+                "NOTICE OF DEATH OF MANAGER OF MAN SAN YE (OR YA) TSO ALIAS MAN TSZ YE TSO ALIAS MAN SHING YE TSO",
+                null
+              ],
+              [
+                "07041700210019",
+                "2007-04-12",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF TOWN PLANNING ORDINANCE WITH PLANS",
+                null
+              ],
+              [
+                "07041700210021",
+                "2007-04-12",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF TOWN PLANNING ORDINANCE WITH PLANS",
+                null
+              ],
+              [
+                "07091000250100",
+                "2007-09-05",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S. 23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "07091000250112",
+                "2007-09-05",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S. 23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990975238611763,
@@ -481,7 +821,87 @@
         1105697398,
         null,
         null,
-        []
+        [
+          [
+            "DD102 1522",
+            "Old Schedule Lot",
+            "C6446970",
+            [
+              [
+                "YL87912",
+                "1933-11-09",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "YL133858",
+                "1955-06-25",
+                "REMOVAL OF TRUSTEE",
+                null
+              ],
+              [
+                "YL330928",
+                "1986-11-24",
+                "APPOINTMENT OF MANAGERS",
+                null
+              ],
+              [
+                "YL687134",
+                "1996-07-30",
+                "COPY OF NOTICE UNDER SECTION 23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "YL708378",
+                "1996-11-07",
+                "NOTICE UNDER SECTION 23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "YL726882",
+                "1997-02-18",
+                "NOTICE UNDER SECTION 23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "YL736653",
+                "1997-04-10",
+                "NOTICE UNDER SECTION 23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "07011101440061",
+                "2005-08-22",
+                "NOTICE OF DEATH OF MANAGER OF MAN SAN YE (OR YA) TSO ALIAS MAN TSZ YE TSO ALIAS MAN SHING YE TSO",
+                null
+              ],
+              [
+                "07041700210019",
+                "2007-04-12",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF TOWN PLANNING ORDINANCE WITH PLANS",
+                null
+              ],
+              [
+                "07041700210021",
+                "2007-04-12",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF TOWN PLANNING ORDINANCE WITH PLANS",
+                null
+              ],
+              [
+                "07091000250100",
+                "2007-09-05",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S. 23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "07091000250112",
+                "2007-09-05",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S. 23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909737840015487,
@@ -519,7 +939,63 @@
         1105697420,
         null,
         null,
-        []
+        [
+          [
+            "DD102 1257",
+            "Old Schedule Lot",
+            "C2341019",
+            [
+              [
+                "YL302124",
+                "1985-06-03",
+                "PROBATE",
+                null
+              ],
+              [
+                "YL739695",
+                "1997-02-28",
+                "ASSENT",
+                null
+              ],
+              [
+                "YL817741",
+                "1997-02-28",
+                "ASSENTPREVIOUSLY REGISTERED BY M/N 739695 AND 786610",
+                null
+              ],
+              [
+                "YL786610",
+                "1997-02-28",
+                "ASSENT (PREVIOUSLY REGISTERED BY M/N. 739695)",
+                null
+              ],
+              [
+                "19012900150023",
+                "2019-01-03",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "28617774.0"
+              ],
+              [
+                "25081200460195",
+                "2019-01-22",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "43761900.0"
+              ],
+              [
+                "19022801300021",
+                "2019-01-31",
+                "ASSIGNMENT",
+                "28617774.0"
+              ],
+              [
+                "25081200460209",
+                "2019-03-15",
+                "ASSIGNMENT",
+                "43761900.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910524806847743,
@@ -538,7 +1014,135 @@
         1105697473,
         null,
         null,
-        []
+        [
+          [
+            "DD102 1259",
+            "Old Schedule Lot",
+            "C5568070",
+            [
+              [
+                "YL403689",
+                "1987-04-13",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "YL403690",
+                "1987-04-13",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "YL737325",
+                "1997-02-19",
+                "VESTING DEED",
+                null
+              ],
+              [
+                "YL737324",
+                "1997-02-19",
+                "STATUTORY DECLARATION BY MAN GEE KIN DANNY",
+                null
+              ],
+              [
+                "YL737323",
+                "1997-02-19",
+                "STATUTORY DECLARATION BY MAN DAVID GEE GVAN ALSO KNOWN AS MAN GEE GVAN",
+                null
+              ],
+              [
+                "17120700230011",
+                "2017-10-26",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "17121900930052",
+                "2017-11-27",
+                "ASSENT",
+                null
+              ],
+              [
+                "19070500290151",
+                "2019-06-10",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "20021201700017",
+                "2020-01-15",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "20093001590017",
+                "2020-08-28",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "2417580.0"
+              ],
+              [
+                "20101200520021",
+                "2020-09-18",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2417580.0"
+              ],
+              [
+                "20110200070052",
+                "2020-10-19",
+                "ASSIGNMENT",
+                "2417580.0"
+              ],
+              [
+                "25082500260301",
+                "2021-01-28",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2613600.0"
+              ],
+              [
+                "25082500260310",
+                "2021-03-01",
+                "ASSIGNMENT",
+                "2613600.0"
+              ],
+              [
+                "21081302350056",
+                "2021-07-29",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "537240.0"
+              ],
+              [
+                "21101202670022",
+                "2021-08-10",
+                "Please refer to the NatureDescriptionCHN Field.",
+                "537240.0"
+              ],
+              [
+                "21090701840053",
+                "2021-08-30",
+                "ASSIGNMENT",
+                "537240.0"
+              ],
+              [
+                "21120302220012",
+                "2021-11-19",
+                "ASSIGNMENT",
+                "537240.0"
+              ],
+              [
+                "25082500240215",
+                "2021-12-03",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "827640.0"
+              ],
+              [
+                "25082500240228",
+                "2022-01-06",
+                "ASSIGNMENT",
+                "827640.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910568295610662,
@@ -614,7 +1218,69 @@
         1105697593,
         null,
         null,
-        []
+        [
+          [
+            "DD102 1261",
+            "Old Schedule Lot",
+            "C5385587",
+            [
+              [
+                "YL399372",
+                "1987-04-13",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "YL408884",
+                "1989-03-02",
+                "GENERAL POWER OF ATTORNEY RE 1/2",
+                null
+              ],
+              [
+                "YL408883",
+                "1989-03-02",
+                "GENERAL POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "YL408886",
+                "1989-09-23",
+                "-",
+                null
+              ],
+              [
+                "11060203080303",
+                "2011-05-09",
+                "CONFIRMATORY DEED",
+                null
+              ],
+              [
+                "15100200180068",
+                "2015-09-10",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2350000.0"
+              ],
+              [
+                "15112300180048",
+                "2015-11-06",
+                "ASSIGNMENT",
+                "2350000.0"
+              ],
+              [
+                "17051500860048",
+                "2017-04-26",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6800000.0"
+              ],
+              [
+                "17061601110143",
+                "2017-05-26",
+                "ASSIGNMENT",
+                "6800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991054935788506,
@@ -652,7 +1318,69 @@
         1105697616,
         null,
         null,
-        []
+        [
+          [
+            "DD102 1261",
+            "Old Schedule Lot",
+            "C5385587",
+            [
+              [
+                "YL399372",
+                "1987-04-13",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "YL408884",
+                "1989-03-02",
+                "GENERAL POWER OF ATTORNEY RE 1/2",
+                null
+              ],
+              [
+                "YL408883",
+                "1989-03-02",
+                "GENERAL POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "YL408886",
+                "1989-09-23",
+                "-",
+                null
+              ],
+              [
+                "11060203080303",
+                "2011-05-09",
+                "CONFIRMATORY DEED",
+                null
+              ],
+              [
+                "15100200180068",
+                "2015-09-10",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2350000.0"
+              ],
+              [
+                "15112300180048",
+                "2015-11-06",
+                "ASSIGNMENT",
+                "2350000.0"
+              ],
+              [
+                "17051500860048",
+                "2017-04-26",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6800000.0"
+              ],
+              [
+                "17061601110143",
+                "2017-05-26",
+                "ASSIGNMENT",
+                "6800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910561588199367,
@@ -690,7 +1418,27 @@
         1105697707,
         null,
         null,
-        []
+        [
+          [
+            "DD102 1263",
+            "Old Schedule Lot",
+            "C5879741",
+            [
+              [
+                "YL316549",
+                "1986-03-27",
+                "-",
+                null
+              ],
+              [
+                "YL1065259",
+                "2003-11-21",
+                "ASSIGNMENT",
+                "836352.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991055961246707,
@@ -709,7 +1457,27 @@
         1105697736,
         null,
         null,
-        []
+        [
+          [
+            "DD102 1263",
+            "Old Schedule Lot",
+            "C5879741",
+            [
+              [
+                "YL316549",
+                "1986-03-27",
+                "-",
+                null
+              ],
+              [
+                "YL1065259",
+                "2003-11-21",
+                "ASSIGNMENT",
+                "836352.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910562543269106,
@@ -766,7 +1534,39 @@
         1105697773,
         null,
         null,
-        []
+        [
+          [
+            "DD102 1264",
+            "Old Schedule Lot",
+            "C2341043",
+            [
+              [
+                "YL160830",
+                "1968-04-11",
+                "POWER OF ATTORNEY BY YU YI-WAN",
+                null
+              ],
+              [
+                "YL226371",
+                "1979-11-07",
+                "CONVEYANCE ON SALE",
+                "5419953.0"
+              ],
+              [
+                "YL427555",
+                "1989-10-27",
+                "STATUTORY DECLARATION OF CHAN HIM AS TO THE LOSS OF TITLE DEEDS",
+                null
+              ],
+              [
+                "YL788863",
+                "1997-10-07",
+                "ASSIGNMENT",
+                "20810614.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910553464670393,
@@ -785,7 +1585,39 @@
         1105697774,
         null,
         null,
-        []
+        [
+          [
+            "DD102 1264",
+            "Old Schedule Lot",
+            "C2341043",
+            [
+              [
+                "YL160830",
+                "1968-04-11",
+                "POWER OF ATTORNEY BY YU YI-WAN",
+                null
+              ],
+              [
+                "YL226371",
+                "1979-11-07",
+                "CONVEYANCE ON SALE",
+                "5419953.0"
+              ],
+              [
+                "YL427555",
+                "1989-10-27",
+                "STATUTORY DECLARATION OF CHAN HIM AS TO THE LOSS OF TITLE DEEDS",
+                null
+              ],
+              [
+                "YL788863",
+                "1997-10-07",
+                "ASSIGNMENT",
+                "20810614.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910539914971148,
@@ -1260,7 +2092,39 @@
         1105702646,
         null,
         null,
-        []
+        [
+          [
+            "DD104 259",
+            "Old Schedule Lot",
+            "C2372553",
+            [
+              [
+                "YL161117",
+                "1968-06-15",
+                "-",
+                null
+              ],
+              [
+                "YL405539",
+                "1989-08-30",
+                "-",
+                null
+              ],
+              [
+                "YL1036318",
+                "2003-03-15",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "05072200200618",
+                "2005-07-12",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909944714024057,
@@ -1298,7 +2162,141 @@
         1105702810,
         null,
         null,
-        []
+        [
+          [
+            "DD104 257",
+            "Old Schedule Lot",
+            "C2372534",
+            [
+              [
+                "YL99607",
+                "1937-04-20",
+                "MORTGAGE",
+                "300.0"
+              ],
+              [
+                "YL132841",
+                "1951-01-18",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL130721",
+                "1953-03-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "YL164388",
+                "1970-03-12",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "YL164966",
+                "1970-06-09",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "YL181340",
+                "1974-07-10",
+                "MORTGAGE",
+                "70000.0"
+              ],
+              [
+                "YL200492",
+                "1977-08-04",
+                "RECEIPT ON REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL265968",
+                "1977-08-27",
+                "POWER OF ATTORNEY BY CHU WAI SAI",
+                null
+              ],
+              [
+                "YL204985",
+                "1977-11-15",
+                "MORTGAGE",
+                "30000.0"
+              ],
+              [
+                "YL243065",
+                "1980-12-30",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "YL265969",
+                "1982-08-31",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "YL266475",
+                "1982-09-08",
+                "MORTGAGE",
+                "350000.0"
+              ],
+              [
+                "YL314868",
+                "1986-01-21",
+                "POWER OF ATTORNEY BY CHU WAI SAI",
+                null
+              ],
+              [
+                "YL314870",
+                "1986-02-07",
+                "RELEASE",
+                null
+              ],
+              [
+                "YL314871",
+                "1986-02-07",
+                "-",
+                "480000.0"
+              ],
+              [
+                "YL995522",
+                "2001-12-18",
+                "BUILDING LICENCE NO.7057 (WITH PLAN) (IN DUPLICATE)",
+                null
+              ],
+              [
+                "05112202420111",
+                "2005-10-31",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "09052002670062",
+                "2009-05-17",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "09100903620072",
+                "2009-10-07",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S.23(4A) OF TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "21111001410183",
+                "2021-10-21",
+                "PROBATE",
+                null
+              ],
+              [
+                "25110300040011",
+                "2025-10-17",
+                "ASSENT",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909999841172785,
@@ -1317,7 +2315,141 @@
         1105702827,
         null,
         null,
-        []
+        [
+          [
+            "DD104 257",
+            "Old Schedule Lot",
+            "C2372534",
+            [
+              [
+                "YL99607",
+                "1937-04-20",
+                "MORTGAGE",
+                "300.0"
+              ],
+              [
+                "YL132841",
+                "1951-01-18",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL130721",
+                "1953-03-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "YL164388",
+                "1970-03-12",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "YL164966",
+                "1970-06-09",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "YL181340",
+                "1974-07-10",
+                "MORTGAGE",
+                "70000.0"
+              ],
+              [
+                "YL200492",
+                "1977-08-04",
+                "RECEIPT ON REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL265968",
+                "1977-08-27",
+                "POWER OF ATTORNEY BY CHU WAI SAI",
+                null
+              ],
+              [
+                "YL204985",
+                "1977-11-15",
+                "MORTGAGE",
+                "30000.0"
+              ],
+              [
+                "YL243065",
+                "1980-12-30",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "YL265969",
+                "1982-08-31",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "YL266475",
+                "1982-09-08",
+                "MORTGAGE",
+                "350000.0"
+              ],
+              [
+                "YL314868",
+                "1986-01-21",
+                "POWER OF ATTORNEY BY CHU WAI SAI",
+                null
+              ],
+              [
+                "YL314870",
+                "1986-02-07",
+                "RELEASE",
+                null
+              ],
+              [
+                "YL314871",
+                "1986-02-07",
+                "-",
+                "480000.0"
+              ],
+              [
+                "YL995522",
+                "2001-12-18",
+                "BUILDING LICENCE NO.7057 (WITH PLAN) (IN DUPLICATE)",
+                null
+              ],
+              [
+                "05112202420111",
+                "2005-10-31",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "09052002670062",
+                "2009-05-17",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S.23(1) OF TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "09100903620072",
+                "2009-10-07",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S.23(4A) OF TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "21111001410183",
+                "2021-10-21",
+                "PROBATE",
+                null
+              ],
+              [
+                "25110300040011",
+                "2025-10-17",
+                "ASSENT",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909966012626452,
@@ -1830,7 +2962,75 @@
         1105703247,
         null,
         null,
-        []
+        [
+          [
+            "DD104 4182",
+            "New Grant Lot",
+            "C4950682",
+            [
+              [
+                "YL186647",
+                "1970-01-02",
+                "STATUTORY DECLARATION BY LEE YUN-YING ALIAS LEE (OR LI) AH-YING",
+                null
+              ],
+              [
+                "YL164277",
+                "1970-02-19",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL170356",
+                "1972-03-07",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "YL186648",
+                "1975-09-30",
+                "MORTGAGE",
+                "20000.0"
+              ],
+              [
+                "YL243977",
+                "1981-01-15",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "YL257165",
+                "1982-01-13",
+                "MORTGAGE",
+                "50000.0"
+              ],
+              [
+                "YL321014",
+                "1986-07-10",
+                "DISCHARGE",
+                null
+              ],
+              [
+                "YL340905",
+                "1987-05-07",
+                "-",
+                null
+              ],
+              [
+                "YL598487",
+                "1993-07-07",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "YL797325",
+                "1997-10-17",
+                "ASSIGNMENT",
+                "120000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909770564830345,
@@ -1868,7 +3068,75 @@
         1105703270,
         null,
         null,
-        []
+        [
+          [
+            "DD104 4182",
+            "New Grant Lot",
+            "C4950682",
+            [
+              [
+                "YL186647",
+                "1970-01-02",
+                "STATUTORY DECLARATION BY LEE YUN-YING ALIAS LEE (OR LI) AH-YING",
+                null
+              ],
+              [
+                "YL164277",
+                "1970-02-19",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL170356",
+                "1972-03-07",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "YL186648",
+                "1975-09-30",
+                "MORTGAGE",
+                "20000.0"
+              ],
+              [
+                "YL243977",
+                "1981-01-15",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "YL257165",
+                "1982-01-13",
+                "MORTGAGE",
+                "50000.0"
+              ],
+              [
+                "YL321014",
+                "1986-07-10",
+                "DISCHARGE",
+                null
+              ],
+              [
+                "YL340905",
+                "1987-05-07",
+                "-",
+                null
+              ],
+              [
+                "YL598487",
+                "1993-07-07",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "YL797325",
+                "1997-10-17",
+                "ASSIGNMENT",
+                "120000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909760955331504,
@@ -1963,7 +3231,75 @@
         1105703341,
         null,
         null,
-        []
+        [
+          [
+            "DD104 4182",
+            "New Grant Lot",
+            "C4950682",
+            [
+              [
+                "YL186647",
+                "1970-01-02",
+                "STATUTORY DECLARATION BY LEE YUN-YING ALIAS LEE (OR LI) AH-YING",
+                null
+              ],
+              [
+                "YL164277",
+                "1970-02-19",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL170356",
+                "1972-03-07",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "YL186648",
+                "1975-09-30",
+                "MORTGAGE",
+                "20000.0"
+              ],
+              [
+                "YL243977",
+                "1981-01-15",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "YL257165",
+                "1982-01-13",
+                "MORTGAGE",
+                "50000.0"
+              ],
+              [
+                "YL321014",
+                "1986-07-10",
+                "DISCHARGE",
+                null
+              ],
+              [
+                "YL340905",
+                "1987-05-07",
+                "-",
+                null
+              ],
+              [
+                "YL598487",
+                "1993-07-07",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "YL797325",
+                "1997-10-17",
+                "ASSIGNMENT",
+                "120000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909777827942001,
@@ -2039,7 +3375,75 @@
         1105703364,
         null,
         null,
-        []
+        [
+          [
+            "DD104 4182",
+            "New Grant Lot",
+            "C4950682",
+            [
+              [
+                "YL186647",
+                "1970-01-02",
+                "STATUTORY DECLARATION BY LEE YUN-YING ALIAS LEE (OR LI) AH-YING",
+                null
+              ],
+              [
+                "YL164277",
+                "1970-02-19",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL170356",
+                "1972-03-07",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "YL186648",
+                "1975-09-30",
+                "MORTGAGE",
+                "20000.0"
+              ],
+              [
+                "YL243977",
+                "1981-01-15",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "YL257165",
+                "1982-01-13",
+                "MORTGAGE",
+                "50000.0"
+              ],
+              [
+                "YL321014",
+                "1986-07-10",
+                "DISCHARGE",
+                null
+              ],
+              [
+                "YL340905",
+                "1987-05-07",
+                "-",
+                null
+              ],
+              [
+                "YL598487",
+                "1993-07-07",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "YL797325",
+                "1997-10-17",
+                "ASSIGNMENT",
+                "120000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909767947834272,
@@ -2096,7 +3500,166 @@
         1105703389,
         null,
         null,
-        []
+        [
+          [
+            "DD104 4182",
+            "New Grant Lot",
+            "C4950682",
+            [
+              [
+                "YL186647",
+                "1970-01-02",
+                "STATUTORY DECLARATION BY LEE YUN-YING ALIAS LEE (OR LI) AH-YING",
+                null
+              ],
+              [
+                "YL164277",
+                "1970-02-19",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL170356",
+                "1972-03-07",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "YL186648",
+                "1975-09-30",
+                "MORTGAGE",
+                "20000.0"
+              ],
+              [
+                "YL243977",
+                "1981-01-15",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "YL257165",
+                "1982-01-13",
+                "MORTGAGE",
+                "50000.0"
+              ],
+              [
+                "YL321014",
+                "1986-07-10",
+                "DISCHARGE",
+                null
+              ],
+              [
+                "YL340905",
+                "1987-05-07",
+                "-",
+                null
+              ],
+              [
+                "YL598487",
+                "1993-07-07",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "YL797325",
+                "1997-10-17",
+                "ASSIGNMENT",
+                "120000.0"
+              ]
+            ]
+          ],
+          [
+            "DD104 4185",
+            "New Grant Lot",
+            "C2412454",
+            [
+              [
+                "YL130721",
+                "1953-03-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "YL164388",
+                "1970-03-12",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "YL164966",
+                "1970-06-09",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "YL181340",
+                "1974-07-10",
+                "MORTGAGE",
+                "70000.0"
+              ],
+              [
+                "YL200492",
+                "1977-08-04",
+                "RECEIPT ON REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL265968",
+                "1977-08-27",
+                "POWER OF ATTORNEY BY CHU WAI SAI",
+                null
+              ],
+              [
+                "YL204985",
+                "1977-11-15",
+                "MORTGAGE",
+                "30000.0"
+              ],
+              [
+                "YL243065",
+                "1980-12-30",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "YL265969",
+                "1982-08-31",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "YL266475",
+                "1982-09-08",
+                "MORTGAGE",
+                "350000.0"
+              ],
+              [
+                "YL314868",
+                "1986-01-21",
+                "POWER OF ATTORNEY BY CHU WAI SAI",
+                null
+              ],
+              [
+                "YL314870",
+                "1986-02-07",
+                "RELEASE",
+                null
+              ],
+              [
+                "YL340297",
+                "1987-05-01",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "YL357467",
+                "1987-08-05",
+                "SHORT TERM WAIVER NO. 1259 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909798405821741,
@@ -2134,7 +3697,99 @@
         1105703425,
         null,
         null,
-        []
+        [
+          [
+            "DD104 4185",
+            "New Grant Lot",
+            "C2412454",
+            [
+              [
+                "YL130721",
+                "1953-03-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "YL164388",
+                "1970-03-12",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "YL164966",
+                "1970-06-09",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "YL181340",
+                "1974-07-10",
+                "MORTGAGE",
+                "70000.0"
+              ],
+              [
+                "YL200492",
+                "1977-08-04",
+                "RECEIPT ON REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL265968",
+                "1977-08-27",
+                "POWER OF ATTORNEY BY CHU WAI SAI",
+                null
+              ],
+              [
+                "YL204985",
+                "1977-11-15",
+                "MORTGAGE",
+                "30000.0"
+              ],
+              [
+                "YL243065",
+                "1980-12-30",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "YL265969",
+                "1982-08-31",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "YL266475",
+                "1982-09-08",
+                "MORTGAGE",
+                "350000.0"
+              ],
+              [
+                "YL314868",
+                "1986-01-21",
+                "POWER OF ATTORNEY BY CHU WAI SAI",
+                null
+              ],
+              [
+                "YL314870",
+                "1986-02-07",
+                "RELEASE",
+                null
+              ],
+              [
+                "YL340297",
+                "1987-05-01",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "YL357467",
+                "1987-08-05",
+                "SHORT TERM WAIVER NO. 1259 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909828088783315,
@@ -2229,7 +3884,99 @@
         1105703454,
         null,
         null,
-        []
+        [
+          [
+            "DD104 4185",
+            "New Grant Lot",
+            "C2412454",
+            [
+              [
+                "YL130721",
+                "1953-03-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "YL164388",
+                "1970-03-12",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "YL164966",
+                "1970-06-09",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "YL181340",
+                "1974-07-10",
+                "MORTGAGE",
+                "70000.0"
+              ],
+              [
+                "YL200492",
+                "1977-08-04",
+                "RECEIPT ON REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL265968",
+                "1977-08-27",
+                "POWER OF ATTORNEY BY CHU WAI SAI",
+                null
+              ],
+              [
+                "YL204985",
+                "1977-11-15",
+                "MORTGAGE",
+                "30000.0"
+              ],
+              [
+                "YL243065",
+                "1980-12-30",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "YL265969",
+                "1982-08-31",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "YL266475",
+                "1982-09-08",
+                "MORTGAGE",
+                "350000.0"
+              ],
+              [
+                "YL314868",
+                "1986-01-21",
+                "POWER OF ATTORNEY BY CHU WAI SAI",
+                null
+              ],
+              [
+                "YL314870",
+                "1986-02-07",
+                "RELEASE",
+                null
+              ],
+              [
+                "YL340297",
+                "1987-05-01",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "YL357467",
+                "1987-08-05",
+                "SHORT TERM WAIVER NO. 1259 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909790266380798,
@@ -2267,7 +4014,39 @@
         1105703538,
         null,
         null,
-        []
+        [
+          [
+            "DD104 35",
+            "Old Schedule Lot",
+            "C5386335",
+            [
+              [
+                "YL165661",
+                "1970-10-05",
+                "-",
+                null
+              ],
+              [
+                "YL393208",
+                "1989-03-07",
+                "COPY ORDER MADE UNDER SECTION 3 OF ELECTRICITY NETWORKS (STATUTORY EASEMENTS) ORDINANCE",
+                null
+              ],
+              [
+                "YL422493",
+                "1989-11-22",
+                "AN OFFER LETTER",
+                null
+              ],
+              [
+                "10081001710019",
+                "2010-08-02",
+                "ASSIGNMENT",
+                "600000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991062080483224,
@@ -2305,7 +4084,99 @@
         1105703566,
         null,
         null,
-        []
+        [
+          [
+            "DD104 4185",
+            "New Grant Lot",
+            "C2412454",
+            [
+              [
+                "YL130721",
+                "1953-03-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "YL164388",
+                "1970-03-12",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "YL164966",
+                "1970-06-09",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "YL181340",
+                "1974-07-10",
+                "MORTGAGE",
+                "70000.0"
+              ],
+              [
+                "YL200492",
+                "1977-08-04",
+                "RECEIPT ON REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL265968",
+                "1977-08-27",
+                "POWER OF ATTORNEY BY CHU WAI SAI",
+                null
+              ],
+              [
+                "YL204985",
+                "1977-11-15",
+                "MORTGAGE",
+                "30000.0"
+              ],
+              [
+                "YL243065",
+                "1980-12-30",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "YL265969",
+                "1982-08-31",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "YL266475",
+                "1982-09-08",
+                "MORTGAGE",
+                "350000.0"
+              ],
+              [
+                "YL314868",
+                "1986-01-21",
+                "POWER OF ATTORNEY BY CHU WAI SAI",
+                null
+              ],
+              [
+                "YL314870",
+                "1986-02-07",
+                "RELEASE",
+                null
+              ],
+              [
+                "YL340297",
+                "1987-05-01",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "YL357467",
+                "1987-08-05",
+                "SHORT TERM WAIVER NO. 1259 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990979912854537,
@@ -2324,7 +4195,39 @@
         1105703583,
         null,
         null,
-        []
+        [
+          [
+            "DD104 35",
+            "Old Schedule Lot",
+            "C5386335",
+            [
+              [
+                "YL165661",
+                "1970-10-05",
+                "-",
+                null
+              ],
+              [
+                "YL393208",
+                "1989-03-07",
+                "COPY ORDER MADE UNDER SECTION 3 OF ELECTRICITY NETWORKS (STATUTORY EASEMENTS) ORDINANCE",
+                null
+              ],
+              [
+                "YL422493",
+                "1989-11-22",
+                "AN OFFER LETTER",
+                null
+              ],
+              [
+                "10081001710019",
+                "2010-08-02",
+                "ASSIGNMENT",
+                "600000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910633236068103,
@@ -2362,7 +4265,123 @@
         1105703613,
         null,
         null,
-        []
+        [
+          [
+            "DD104 251",
+            "Old Schedule Lot",
+            "C2372496",
+            [
+              [
+                "YL172537",
+                "1972-10-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "9500.0"
+              ],
+              [
+                "YL173360",
+                "1972-12-28",
+                "CONVEYANCE ON SALE",
+                "9500.0"
+              ],
+              [
+                "YL336102",
+                "1984-05-15",
+                "JUDGMENT OF CIVIL APPEAL NO. 51 OF 1984",
+                null
+              ],
+              [
+                "12081402390017",
+                "2012-08-01",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12101902710518",
+                "2012-09-27",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "12101902710527",
+                "2012-09-27",
+                "ASSENT",
+                null
+              ],
+              [
+                "19071100420020",
+                "2014-09-02",
+                "PROBATE",
+                null
+              ],
+              [
+                "15092300550011",
+                "2015-07-29",
+                "SEAL COPY ORDER WITH PLAN",
+                null
+              ],
+              [
+                "18123100470016",
+                "2018-11-16",
+                "SEALED COPY OF AMENDED ORDER WITH PLAN",
+                null
+              ],
+              [
+                "19071100420012",
+                "2018-11-16",
+                "SEALED COPY OF AMENDED JUDGMENT WITH PLAN",
+                null
+              ],
+              [
+                "19061100390037",
+                "2019-06-03",
+                "DEED POLL WITH PLANS",
+                null
+              ],
+              [
+                "19082302390368",
+                "2019-07-29",
+                "Please refer to the NatureDescriptionCHN Field.",
+                "980000.0"
+              ],
+              [
+                "19122002440028",
+                "2019-11-29",
+                "ASSIGNMENT",
+                "980000.0"
+              ],
+              [
+                "19121801080050",
+                "2019-12-04",
+                "DEED OF ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "21061000630029",
+                "2021-05-17",
+                "ASSIGNMENT",
+                "2000000.0"
+              ],
+              [
+                "21061000630010",
+                "2021-05-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2000000.0"
+              ],
+              [
+                "25071502660100",
+                "2025-06-27",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "1246700.0"
+              ],
+              [
+                "25071502660118",
+                "2025-06-27",
+                "ASSIGNMENT",
+                "1246700.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991005071478598,
@@ -2476,7 +4495,39 @@
         1105703719,
         null,
         null,
-        []
+        [
+          [
+            "DD104 250 RP",
+            "Old Schedule Lot",
+            "C2372488",
+            [
+              [
+                "YL133359",
+                "1955-02-18",
+                "-",
+                null
+              ],
+              [
+                "12081402390017",
+                "2012-08-01",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12101902710518",
+                "2012-09-27",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "12101902710527",
+                "2012-09-27",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910081105318143,
@@ -2495,7 +4546,99 @@
         1105703775,
         null,
         null,
-        []
+        [
+          [
+            "DD104 4185",
+            "New Grant Lot",
+            "C2412454",
+            [
+              [
+                "YL130721",
+                "1953-03-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "YL164388",
+                "1970-03-12",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "YL164966",
+                "1970-06-09",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "YL181340",
+                "1974-07-10",
+                "MORTGAGE",
+                "70000.0"
+              ],
+              [
+                "YL200492",
+                "1977-08-04",
+                "RECEIPT ON REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL265968",
+                "1977-08-27",
+                "POWER OF ATTORNEY BY CHU WAI SAI",
+                null
+              ],
+              [
+                "YL204985",
+                "1977-11-15",
+                "MORTGAGE",
+                "30000.0"
+              ],
+              [
+                "YL243065",
+                "1980-12-30",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "YL265969",
+                "1982-08-31",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "YL266475",
+                "1982-09-08",
+                "MORTGAGE",
+                "350000.0"
+              ],
+              [
+                "YL314868",
+                "1986-01-21",
+                "POWER OF ATTORNEY BY CHU WAI SAI",
+                null
+              ],
+              [
+                "YL314870",
+                "1986-02-07",
+                "RELEASE",
+                null
+              ],
+              [
+                "YL340297",
+                "1987-05-01",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "YL357467",
+                "1987-08-05",
+                "SHORT TERM WAIVER NO. 1259 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990980824421062,
@@ -2514,7 +4657,39 @@
         1105703823,
         null,
         null,
-        []
+        [
+          [
+            "DD104 250 RP",
+            "Old Schedule Lot",
+            "C2372488",
+            [
+              [
+                "YL133359",
+                "1955-02-18",
+                "-",
+                null
+              ],
+              [
+                "12081402390017",
+                "2012-08-01",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12101902710518",
+                "2012-09-27",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "12101902710527",
+                "2012-09-27",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910085389223906,
@@ -2533,7 +4708,99 @@
         1105703825,
         null,
         null,
-        []
+        [
+          [
+            "DD104 4185",
+            "New Grant Lot",
+            "C2412454",
+            [
+              [
+                "YL130721",
+                "1953-03-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "YL164388",
+                "1970-03-12",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "YL164966",
+                "1970-06-09",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "YL181340",
+                "1974-07-10",
+                "MORTGAGE",
+                "70000.0"
+              ],
+              [
+                "YL200492",
+                "1977-08-04",
+                "RECEIPT ON REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL265968",
+                "1977-08-27",
+                "POWER OF ATTORNEY BY CHU WAI SAI",
+                null
+              ],
+              [
+                "YL204985",
+                "1977-11-15",
+                "MORTGAGE",
+                "30000.0"
+              ],
+              [
+                "YL243065",
+                "1980-12-30",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "YL265969",
+                "1982-08-31",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "YL266475",
+                "1982-09-08",
+                "MORTGAGE",
+                "350000.0"
+              ],
+              [
+                "YL314868",
+                "1986-01-21",
+                "POWER OF ATTORNEY BY CHU WAI SAI",
+                null
+              ],
+              [
+                "YL314870",
+                "1986-02-07",
+                "RELEASE",
+                null
+              ],
+              [
+                "YL340297",
+                "1987-05-01",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "YL357467",
+                "1987-08-05",
+                "SHORT TERM WAIVER NO. 1259 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990980919208801,
@@ -2552,7 +4819,81 @@
         1105704113,
         null,
         null,
-        []
+        [
+          [
+            "DD104 248",
+            "Old Schedule Lot",
+            "C2372479",
+            [
+              [
+                "YL133234",
+                "1955-01-15",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL133916",
+                "1955-07-11",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL133919",
+                "1955-07-11",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL139475",
+                "1958-12-24",
+                "-",
+                null
+              ],
+              [
+                "YL139474",
+                "1958-12-24",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL144163",
+                "1961-03-14",
+                "-",
+                null
+              ],
+              [
+                "YL163495",
+                "1969-10-06",
+                "-",
+                null
+              ],
+              [
+                "YL604766",
+                "1994-08-09",
+                "-",
+                "100000.0"
+              ],
+              [
+                "YL1095099",
+                "2004-08-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "YL1095705",
+                "2004-08-25",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "YL1095978",
+                "2004-08-30",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910069418332097,
@@ -2571,7 +4912,178 @@
         1105704185,
         null,
         "170 YAU TAM MEI TSUEN",
-        []
+        [
+          [
+            "DD104 249",
+            "Old Schedule Lot",
+            "C5570723",
+            [
+              [
+                "YL133234",
+                "1955-01-15",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL133919",
+                "1955-07-11",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL133916",
+                "1955-07-11",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL139475",
+                "1958-12-24",
+                "-",
+                null
+              ],
+              [
+                "YL139474",
+                "1958-12-24",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL144163",
+                "1961-03-14",
+                "-",
+                null
+              ],
+              [
+                "YL163495",
+                "1969-10-06",
+                "-",
+                null
+              ],
+              [
+                "YL597576",
+                "1993-09-01",
+                "SHORT TERM WAIVER NO.1746",
+                null
+              ],
+              [
+                "YL604766",
+                "1994-08-09",
+                "-",
+                "100000.0"
+              ],
+              [
+                "YL1095099",
+                "2004-08-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "YL1095705",
+                "2004-08-25",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "YL1095978",
+                "2004-08-30",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD104 266",
+            "Old Schedule Lot",
+            "C5304396",
+            [
+              [
+                "YL133234",
+                "1955-01-15",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL133916",
+                "1955-07-11",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL133919",
+                "1955-07-11",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL139475",
+                "1958-12-24",
+                "-",
+                null
+              ],
+              [
+                "YL139474",
+                "1958-12-24",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL143920",
+                "1961-02-06",
+                "MORTGAGE",
+                "1500.0"
+              ],
+              [
+                "YL144162",
+                "1961-03-14",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL144163",
+                "1961-03-14",
+                "-",
+                null
+              ],
+              [
+                "YL163495",
+                "1969-10-06",
+                "-",
+                null
+              ],
+              [
+                "YL597576",
+                "1993-09-01",
+                "SHORT TERM WAIVER NO.1746",
+                null
+              ],
+              [
+                "YL604766",
+                "1994-08-09",
+                "-",
+                "100000.0"
+              ],
+              [
+                "YL1095099",
+                "2004-08-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "YL1095705",
+                "2004-08-25",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "YL1095978",
+                "2004-08-30",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909986423731423,
@@ -2609,7 +5121,99 @@
         1105704281,
         null,
         null,
-        []
+        [
+          [
+            "DD104 266",
+            "Old Schedule Lot",
+            "C5304396",
+            [
+              [
+                "YL133234",
+                "1955-01-15",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL133916",
+                "1955-07-11",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL133919",
+                "1955-07-11",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL139475",
+                "1958-12-24",
+                "-",
+                null
+              ],
+              [
+                "YL139474",
+                "1958-12-24",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL143920",
+                "1961-02-06",
+                "MORTGAGE",
+                "1500.0"
+              ],
+              [
+                "YL144162",
+                "1961-03-14",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL144163",
+                "1961-03-14",
+                "-",
+                null
+              ],
+              [
+                "YL163495",
+                "1969-10-06",
+                "-",
+                null
+              ],
+              [
+                "YL597576",
+                "1993-09-01",
+                "SHORT TERM WAIVER NO.1746",
+                null
+              ],
+              [
+                "YL604766",
+                "1994-08-09",
+                "-",
+                "100000.0"
+              ],
+              [
+                "YL1095099",
+                "2004-08-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "YL1095705",
+                "2004-08-25",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "YL1095978",
+                "2004-08-30",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909998400821347,
@@ -2628,7 +5232,172 @@
         1105704290,
         null,
         null,
-        []
+        [
+          [
+            "DD104 266",
+            "Old Schedule Lot",
+            "C5304396",
+            [
+              [
+                "YL133234",
+                "1955-01-15",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL133916",
+                "1955-07-11",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL133919",
+                "1955-07-11",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL139475",
+                "1958-12-24",
+                "-",
+                null
+              ],
+              [
+                "YL139474",
+                "1958-12-24",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL143920",
+                "1961-02-06",
+                "MORTGAGE",
+                "1500.0"
+              ],
+              [
+                "YL144162",
+                "1961-03-14",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL144163",
+                "1961-03-14",
+                "-",
+                null
+              ],
+              [
+                "YL163495",
+                "1969-10-06",
+                "-",
+                null
+              ],
+              [
+                "YL597576",
+                "1993-09-01",
+                "SHORT TERM WAIVER NO.1746",
+                null
+              ],
+              [
+                "YL604766",
+                "1994-08-09",
+                "-",
+                "100000.0"
+              ],
+              [
+                "YL1095099",
+                "2004-08-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "YL1095705",
+                "2004-08-25",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "YL1095978",
+                "2004-08-30",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD104 270",
+            "Old Schedule Lot",
+            "C2372600",
+            [
+              [
+                "YL336922",
+                "1986-11-14",
+                "-",
+                null
+              ],
+              [
+                "13122002540057",
+                "2013-12-18",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION 23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "15060801900013",
+                "2014-08-07",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF MAN CHEUNG WUI ALIAS MAN MAN CHEONG WUI",
+                null
+              ],
+              [
+                "14120200280015",
+                "2014-11-27",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(8A) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "15060801900026",
+                "2015-05-29",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF MAN CHEUNG WUI ALIAS MAN MAN CHEONG WUI",
+                null
+              ],
+              [
+                "15111201010011",
+                "2015-11-10",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION  23(1) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "17111501380022",
+                "2017-11-13",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(8A) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "20012302280106",
+                "2020-01-21",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION  23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "20022801930016",
+                "2020-02-25",
+                "CERTIFIED TRUE COPY OF REINSTATEMENT NOTICE ISSUED UNDER SECTION  23(3) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ],
+              [
+                "22053002240031",
+                "2022-05-26",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "22053101080033",
+                "2022-05-27",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION  23(8A) OF THE TOWN PLANNING ORDINANCE*",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909888535043838,
@@ -2666,7 +5435,27 @@
         1105704529,
         null,
         null,
-        []
+        [
+          [
+            "DD104 278",
+            "Old Schedule Lot",
+            "C6491990",
+            [
+              [
+                "YL143939",
+                "1961-02-08",
+                "-",
+                null
+              ],
+              [
+                "YL158221",
+                "1966-08-16",
+                "DIVISION OF PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909821756950408,
@@ -2742,7 +5531,27 @@
         1105704663,
         null,
         null,
-        []
+        [
+          [
+            "DD104 4659",
+            "New Grant Lot",
+            "C2413880",
+            [
+              [
+                "YL299638",
+                "1975-09-09",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "YL392499",
+                "1989-01-21",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909775200454631,
@@ -2761,7 +5570,106 @@
         1105704664,
         null,
         null,
-        []
+        [
+          [
+            "DD104 323",
+            "Old Schedule Lot",
+            "C2372873",
+            [
+              [
+                "YL147157",
+                "1962-01-27",
+                "PROBATE",
+                null
+              ],
+              [
+                "YL170388",
+                "1972-03-13",
+                "CONVEYANCE ON SALE",
+                "10236.5"
+              ],
+              [
+                "09100900920013",
+                "2009-04-22",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "09101201580015",
+                "2009-08-31",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "25041001730030",
+                "2025-03-26",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "3500000.0"
+              ],
+              [
+                "25043002100108",
+                "2025-03-27",
+                "ASSIGNMENT",
+                "3500000.0"
+              ],
+              [
+                "25071002150067",
+                "2025-04-26",
+                "CERTIFIED COPY DEATH CERTIFICATE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD104 324",
+            "Old Schedule Lot",
+            "C6046804",
+            [
+              [
+                "YL147157",
+                "1962-01-27",
+                "PROBATE",
+                null
+              ],
+              [
+                "YL170388",
+                "1972-03-13",
+                "CONVEYANCE ON SALE",
+                "10236.5"
+              ],
+              [
+                "09100900920013",
+                "2009-04-22",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "09101201580015",
+                "2009-08-31",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "25041001730030",
+                "2025-03-26",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "3500000.0"
+              ],
+              [
+                "25043002100108",
+                "2025-03-27",
+                "ASSIGNMENT",
+                "3500000.0"
+              ],
+              [
+                "25071002150067",
+                "2025-04-26",
+                "CERTIFIED COPY DEATH CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990969461494379,
@@ -2780,7 +5688,45 @@
         1105704730,
         null,
         "187A YAU TAM MEI TSUEN",
-        []
+        [
+          [
+            "DD104 305",
+            "Old Schedule Lot",
+            "C6713549",
+            [
+              [
+                "YL160742",
+                "1968-03-26",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL161563",
+                "1968-09-25",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "YL167229",
+                "1971-03-31",
+                "-",
+                null
+              ],
+              [
+                "YL167713",
+                "1971-05-18",
+                "-",
+                null
+              ],
+              [
+                "YL329050",
+                "1986-07-03",
+                "WAIVER LETTER NO.1193 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910006755819873,
@@ -2837,7 +5783,45 @@
         1105704837,
         null,
         null,
-        []
+        [
+          [
+            "DD104 305",
+            "Old Schedule Lot",
+            "C6713549",
+            [
+              [
+                "YL160742",
+                "1968-03-26",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL161563",
+                "1968-09-25",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "YL167229",
+                "1971-03-31",
+                "-",
+                null
+              ],
+              [
+                "YL167713",
+                "1971-05-18",
+                "-",
+                null
+              ],
+              [
+                "YL329050",
+                "1986-07-03",
+                "WAIVER LETTER NO.1193 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910011244552273,
@@ -2875,7 +5859,69 @@
         1105705046,
         null,
         null,
-        []
+        [
+          [
+            "DD104 295",
+            "Old Schedule Lot",
+            "C2372699",
+            [
+              [
+                "YL133234",
+                "1955-01-15",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL133916",
+                "1955-07-11",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL133919",
+                "1955-07-11",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL139475",
+                "1958-12-24",
+                "-",
+                null
+              ],
+              [
+                "YL139474",
+                "1958-12-24",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL143920",
+                "1961-02-06",
+                "MORTGAGE",
+                "1500.0"
+              ],
+              [
+                "YL144163",
+                "1961-03-14",
+                "-",
+                null
+              ],
+              [
+                "YL144162",
+                "1961-03-14",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "YL166500",
+                "1971-01-12",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909786358345332,
@@ -2894,7 +5940,27 @@
         1105705066,
         null,
         null,
-        []
+        [
+          [
+            "DD104 301",
+            "Old Schedule Lot",
+            "C2372722",
+            [
+              [
+                "YL135265",
+                "1956-05-28",
+                "-",
+                null
+              ],
+              [
+                "YL289665",
+                "1984-06-28",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99098864706883,
@@ -2932,7 +5998,57 @@
         1105705182,
         null,
         null,
-        []
+        [
+          [
+            "DD104 302",
+            "Old Schedule Lot",
+            "C2372737",
+            [
+              [
+                "YL160742",
+                "1968-03-26",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL161563",
+                "1968-09-25",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "YL167229",
+                "1971-03-31",
+                "-",
+                null
+              ],
+              [
+                "YL167713",
+                "1971-05-18",
+                "-",
+                null
+              ],
+              [
+                "YL346869",
+                "1987-07-06",
+                "-",
+                "210000.0"
+              ],
+              [
+                "YL346868",
+                "1987-07-06",
+                "STATUTORY DECLARATION OF WONG HAK SING AS TO THE LOSS OF TITLE DEEDS",
+                null
+              ],
+              [
+                "YL1049427",
+                "2003-07-09",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990992466553282,
@@ -2970,7 +6086,33 @@
         1105705230,
         null,
         null,
-        []
+        [
+          [
+            "DD104 296",
+            "Old Schedule Lot",
+            "C4945569",
+            [
+              [
+                "YL169551",
+                "1971-11-23",
+                "CONVEYANCE ON SALE",
+                null
+              ],
+              [
+                "19010300590012",
+                "2018-12-20",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "400000.0"
+              ],
+              [
+                "19010800850107",
+                "2018-12-20",
+                "ASSIGNMENT",
+                "400000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990982360797767,
@@ -2989,7 +6131,81 @@
         1105705251,
         null,
         null,
-        []
+        [
+          [
+            "DD104 308",
+            "Old Schedule Lot",
+            "C2372765",
+            [
+              [
+                "YL160742",
+                "1968-03-26",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL161563",
+                "1968-09-25",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "YL167229",
+                "1971-03-31",
+                "-",
+                null
+              ],
+              [
+                "YL167713",
+                "1971-05-18",
+                "-",
+                null
+              ],
+              [
+                "YL176897",
+                "1973-07-31",
+                "-",
+                null
+              ],
+              [
+                "YL1028710",
+                "2002-02-08",
+                "PROBATE",
+                null
+              ],
+              [
+                "YL1028711",
+                "2002-11-01",
+                "ASSENT",
+                null
+              ],
+              [
+                "09032601620024",
+                "2009-03-25",
+                "FIRST LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "11010400480023",
+                "2010-12-23",
+                "LEGAL CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "11011702410022",
+                "2010-12-30",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "15031600470041",
+                "2015-02-17",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990999545575711,
@@ -3027,7 +6243,57 @@
         1105705323,
         null,
         null,
-        []
+        [
+          [
+            "DD104 302",
+            "Old Schedule Lot",
+            "C2372737",
+            [
+              [
+                "YL160742",
+                "1968-03-26",
+                "MORTGAGE",
+                "4000.0"
+              ],
+              [
+                "YL161563",
+                "1968-09-25",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "YL167229",
+                "1971-03-31",
+                "-",
+                null
+              ],
+              [
+                "YL167713",
+                "1971-05-18",
+                "-",
+                null
+              ],
+              [
+                "YL346869",
+                "1987-07-06",
+                "-",
+                "210000.0"
+              ],
+              [
+                "YL346868",
+                "1987-07-06",
+                "STATUTORY DECLARATION OF WONG HAK SING AS TO THE LOSS OF TITLE DEEDS",
+                null
+              ],
+              [
+                "YL1049427",
+                "2003-07-09",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909930179077473,
@@ -3046,7 +6312,39 @@
         1105705328,
         null,
         null,
-        []
+        [
+          [
+            "DD104 319",
+            "Old Schedule Lot",
+            "C2372847",
+            [
+              [
+                "YL174694",
+                "1973-03-15",
+                "CONVEYANCE ON SALE",
+                "17772.0"
+              ],
+              [
+                "YL1048253",
+                "2003-01-18",
+                "DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "YL1048254",
+                "2003-06-17",
+                "CERTIFICATE OF EXEMPTION FROM ESTATE DUTY",
+                null
+              ],
+              [
+                "19030400420107",
+                "2019-01-31",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909714120421511,
@@ -3141,7 +6439,105 @@
         1105705782,
         null,
         null,
-        []
+        [
+          [
+            "DD104 318",
+            "Old Schedule Lot",
+            "C2372838",
+            [
+              [
+                "YL147157",
+                "1962-01-27",
+                "PROBATE",
+                null
+              ],
+              [
+                "YL171008",
+                "1972-05-16",
+                "-",
+                null
+              ],
+              [
+                "YL970328",
+                "1973-08-08",
+                "BUILDING LICENCE NO.235 (WITH PLAN)",
+                null
+              ],
+              [
+                "YL970329",
+                "1981-08-22",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "YL388253",
+                "1989-01-20",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "500000.0"
+              ],
+              [
+                "YL396014",
+                "1989-04-01",
+                "-",
+                "500000.0"
+              ],
+              [
+                "YL409384",
+                "1989-04-01",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "YL396015",
+                "1989-04-11",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "YL930024",
+                "2000-08-02",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "YL970330",
+                "2001-05-30",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "09061100440449",
+                "2009-06-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4300000.0"
+              ],
+              [
+                "09080300670168",
+                "2009-07-16",
+                "ASSIGNMENT",
+                "4300000.0"
+              ],
+              [
+                "09080300670172",
+                "2009-07-16",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "09080601130166",
+                "2009-07-16",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "16122800840012",
+                "2016-12-21",
+                "RELEASE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909713520226358,
@@ -3160,7 +6556,129 @@
         1105705788,
         null,
         null,
-        []
+        [
+          [
+            "DD104 393 RP",
+            "Old Schedule Lot",
+            "C2373243",
+            [
+              [
+                "YL180851",
+                "1974-06-11",
+                "-",
+                null
+              ],
+              [
+                "YL206900",
+                "1978-01-30",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "YL213259",
+                "1978-10-30",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "YL253104",
+                "1981-10-15",
+                "RECTIFICATION LETTER",
+                null
+              ],
+              [
+                "YL253103",
+                "1981-10-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "YL259949",
+                "1982-02-22",
+                "-",
+                null
+              ],
+              [
+                "YL259947",
+                "1982-02-22",
+                "DEED OF RELEASE",
+                null
+              ],
+              [
+                "YL288792",
+                "1984-05-19",
+                "MORTGAGE",
+                "200000.0"
+              ],
+              [
+                "YL288791",
+                "1984-05-19",
+                "-",
+                "200000.0"
+              ],
+              [
+                "YL315243",
+                "1986-02-26",
+                "FURTHER CHARGE",
+                "158000.0"
+              ],
+              [
+                "YL340733",
+                "1987-01-27",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "450000.0"
+              ],
+              [
+                "YL366108",
+                "1988-02-24",
+                "NOMINATION",
+                null
+              ],
+              [
+                "YL366110",
+                "1988-03-30",
+                "-",
+                "450000.0"
+              ],
+              [
+                "YL366109",
+                "1988-03-30",
+                "RELEASE",
+                null
+              ],
+              [
+                "YL366111",
+                "1988-03-30",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "YL403833",
+                "1989-07-07",
+                "DISCHARGE",
+                null
+              ],
+              [
+                "YL403835",
+                "1989-07-07",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "YL403834",
+                "1989-07-07",
+                "-",
+                "950000.0"
+              ],
+              [
+                "YL812982",
+                "1998-04-22",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9909873070791841,
@@ -3179,7 +6697,99 @@
         1105705798,
         null,
         null,
-        []
+        [
+          [
+            "DD104 219",
+            "Old Schedule Lot",
+            "C2372285",
+            [
+              [
+                "YL227779",
+                "1979-11-30",
+                "-",
+                "168495.0"
+              ],
+              [
+                "YL370079",
+                "1988-05-23",
+                "SEALED COPY ORDER IMPOSING CHARGE ON LAND: ORDER TO SHOW CAUSE",
+                null
+              ],
+              [
+                "YL421671",
+                "1988-05-23",
+                "SEALED COPY OF AMENDED ORDER IMPOSING CHARGE ON LAND:",
+                null
+              ],
+              [
+                "YL370842",
+                "1988-06-06",
+                "SEALED COPY ORDER IMPOSING CHARGE ON LAND:ORDER TO SHOW CAUSE",
+                null
+              ],
+              [
+                "YL421672",
+                "1988-06-27",
+                "SEALED COPY OF RE-AMENDED ORDER IMPOSING CHARGE ON LAND:",
+                null
+              ],
+              [
+                "YL381407",
+                "1988-06-27",
+                "SEALED COPY ORDER ABSOLUTE IMPOSING CHARGE ON LAND",
+                null
+              ],
+              [
+                "YL380909",
+                "1988-07-25",
+                "SEALED COPY OF ORDER IMPOSING CHARGE ON LAND:ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "YL495211",
+                "1992-01-28",
+                "SATISFACTION CERTIFICATE",
+                null
+              ],
+              [
+                "YL495212",
+                "1992-01-28",
+                "SATISFACTION CERTIFICATE",
+                null
+              ],
+              [
+                "YL827767",
+                "1998-07-08",
+                "DEED PF REVOCATION",
+                null
+              ],
+              [
+                "11011702080358",
+                "2010-11-19",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1500000.0"
+              ],
+              [
+                "11011702080364",
+                "2010-12-22",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "20120802020039",
+                "2020-11-26",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3000000.0"
+              ],
+              [
+                "21011201370075",
+                "2020-12-28",
+                "ASSIGNMENT",
+                "3000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910061568024442,
@@ -3198,7 +6808,99 @@
         1105705832,
         null,
         null,
-        []
+        [
+          [
+            "DD104 219",
+            "Old Schedule Lot",
+            "C2372285",
+            [
+              [
+                "YL227779",
+                "1979-11-30",
+                "-",
+                "168495.0"
+              ],
+              [
+                "YL370079",
+                "1988-05-23",
+                "SEALED COPY ORDER IMPOSING CHARGE ON LAND: ORDER TO SHOW CAUSE",
+                null
+              ],
+              [
+                "YL421671",
+                "1988-05-23",
+                "SEALED COPY OF AMENDED ORDER IMPOSING CHARGE ON LAND:",
+                null
+              ],
+              [
+                "YL370842",
+                "1988-06-06",
+                "SEALED COPY ORDER IMPOSING CHARGE ON LAND:ORDER TO SHOW CAUSE",
+                null
+              ],
+              [
+                "YL421672",
+                "1988-06-27",
+                "SEALED COPY OF RE-AMENDED ORDER IMPOSING CHARGE ON LAND:",
+                null
+              ],
+              [
+                "YL381407",
+                "1988-06-27",
+                "SEALED COPY ORDER ABSOLUTE IMPOSING CHARGE ON LAND",
+                null
+              ],
+              [
+                "YL380909",
+                "1988-07-25",
+                "SEALED COPY OF ORDER IMPOSING CHARGE ON LAND:ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "YL495211",
+                "1992-01-28",
+                "SATISFACTION CERTIFICATE",
+                null
+              ],
+              [
+                "YL495212",
+                "1992-01-28",
+                "SATISFACTION CERTIFICATE",
+                null
+              ],
+              [
+                "YL827767",
+                "1998-07-08",
+                "DEED PF REVOCATION",
+                null
+              ],
+              [
+                "11011702080358",
+                "2010-11-19",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1500000.0"
+              ],
+              [
+                "11011702080364",
+                "2010-12-22",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "20120802020039",
+                "2020-11-26",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3000000.0"
+              ],
+              [
+                "21011201370075",
+                "2020-12-28",
+                "ASSIGNMENT",
+                "3000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910050470688412,
@@ -3293,7 +6995,27 @@
         1105706289,
         null,
         null,
-        []
+        [
+          [
+            "DD104 392",
+            "Old Schedule Lot",
+            "C2373236",
+            [
+              [
+                "YL135265",
+                "1956-05-28",
+                "-",
+                null
+              ],
+              [
+                "YL289665",
+                "1984-06-28",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990980152632,
@@ -3312,7 +7034,100 @@
         1105706373,
         null,
         null,
-        []
+        [
+          [
+            "DD104 137",
+            "Old Schedule Lot",
+            "C5570660",
+            [
+              [
+                "YL145931",
+                "1961-11-14",
+                "ASSIGNMENT AS A GIFT",
+                null
+              ],
+              [
+                "YL145935",
+                "1961-11-14",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "13022201910017",
+                "2013-02-15",
+                "PROBATE",
+                null
+              ],
+              [
+                "24080500330641",
+                "2024-01-30",
+                "WARNING LETTER",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD104 138",
+            "Old Schedule Lot",
+            "C2371842",
+            [
+              [
+                "YL302124",
+                "1985-06-03",
+                "PROBATE",
+                null
+              ],
+              [
+                "YL817741",
+                "1997-02-28",
+                "ASSENTPREVIOUSLY REGISTERED BY M/N 739695 AND 786610",
+                null
+              ],
+              [
+                "YL786610",
+                "1997-02-28",
+                "ASSENT (PREVIOUSLY REGISTERED BY M/N. 739695)",
+                null
+              ],
+              [
+                "YL739695",
+                "1997-02-28",
+                "ASSENT",
+                null
+              ],
+              [
+                "06083102520134",
+                "2006-08-29",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER S. 23(1) OF THE TOWN PLANNING ORDINANCE *",
+                null
+              ],
+              [
+                "07021302640034",
+                "2007-02-09",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER S. 23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "09101301870013",
+                "2009-10-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1568160.0"
+              ],
+              [
+                "10031500690027",
+                "2010-02-26",
+                "ASSIGNMENT",
+                "1568160.0"
+              ],
+              [
+                "24080500330659",
+                "2024-01-30",
+                "WARNING LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991017740763891,
@@ -3331,7 +7146,51 @@
         1105706406,
         null,
         null,
-        []
+        [
+          [
+            "DD104 122",
+            "Old Schedule Lot",
+            "C2371758",
+            [
+              [
+                "YL133790",
+                "1955-06-07",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "YL542628",
+                "1992-08-26",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF MAN WAI NAM TSO",
+                null
+              ],
+              [
+                "YL542627",
+                "1992-12-01",
+                "STATUTORY DECLARATION BY MAN HING KWAI",
+                null
+              ],
+              [
+                "YL542629",
+                "1992-12-04",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "YL666369",
+                "1995-11-20",
+                "NOTICE OF DEATH & APPOINTMENT OF MANAGER OF MAN WAI NAM TSO",
+                null
+              ],
+              [
+                "YL666370",
+                "1996-02-08",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910247654448026,
@@ -3388,7 +7247,45 @@
         1105707188,
         null,
         null,
-        []
+        [
+          [
+            "DD104 148",
+            "Old Schedule Lot",
+            "C2371881",
+            [
+              [
+                "YL132792",
+                "1954-09-27",
+                "-",
+                null
+              ],
+              [
+                "YL919320",
+                "1999-10-29",
+                "A SEALED COPY OF ORDER (HCMP 4906/99)",
+                null
+              ],
+              [
+                "YL914071",
+                "2000-02-21",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "06072800200063",
+                "2006-07-25",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSSUED UNDER SEC.23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "07012602930025",
+                "2007-01-24",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910016784985143,
@@ -3445,7 +7342,45 @@
         1105707262,
         null,
         null,
-        []
+        [
+          [
+            "DD104 148",
+            "Old Schedule Lot",
+            "C2371881",
+            [
+              [
+                "YL132792",
+                "1954-09-27",
+                "-",
+                null
+              ],
+              [
+                "YL919320",
+                "1999-10-29",
+                "A SEALED COPY OF ORDER (HCMP 4906/99)",
+                null
+              ],
+              [
+                "YL914071",
+                "2000-02-21",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "06072800200063",
+                "2006-07-25",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSSUED UNDER SEC.23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "07012602930025",
+                "2007-01-24",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(4A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910011762027833,
@@ -3483,7 +7418,75 @@
         1105707412,
         null,
         null,
-        []
+        [
+          [
+            "DD104 4192",
+            "New Grant Lot",
+            "C2412554",
+            [
+              [
+                "YL256077",
+                "1981-12-29",
+                "-",
+                null
+              ],
+              [
+                "YL503044",
+                "1992-05-01",
+                "-",
+                null
+              ],
+              [
+                "YL508668",
+                "1992-05-21",
+                "-",
+                "20000.0"
+              ],
+              [
+                "08011103410118",
+                "2007-12-10",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "08070202660043",
+                "2008-06-04",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "14030502210080",
+                "2012-08-16",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "15100902310342",
+                "2015-09-04",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "17100600190046",
+                "2017-09-19",
+                "MEMORANDUM OF SALE AND PURCHASE",
+                "1590000.0"
+              ],
+              [
+                "17101300860012",
+                "2017-09-19",
+                "ASSIGNMENT",
+                "1590000.0"
+              ],
+              [
+                "19081900810060",
+                "2019-08-09",
+                "DEED OF CONFIRMATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910095226222475,
@@ -3559,7 +7562,27 @@
         1107658071,
         null,
         null,
-        []
+        [
+          [
+            "DD100 301",
+            "Old Schedule Lot",
+            "C6292918",
+            [
+              [
+                "N128332",
+                "1951-12-27",
+                "-",
+                null
+              ],
+              [
+                "N208600",
+                "1983-05-18",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991337453811376,
@@ -3578,7 +7601,27 @@
         1107658101,
         null,
         null,
-        []
+        [
+          [
+            "DD100 301",
+            "Old Schedule Lot",
+            "C6292918",
+            [
+              [
+                "N128332",
+                "1951-12-27",
+                "-",
+                null
+              ],
+              [
+                "N208600",
+                "1983-05-18",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913376570864207,
@@ -3673,7 +7716,39 @@
         1810163079,
         null,
         null,
-        []
+        [
+          [
+            "DD104 250 RP",
+            "Old Schedule Lot",
+            "C2372488",
+            [
+              [
+                "YL133359",
+                "1955-02-18",
+                "-",
+                null
+              ],
+              [
+                "12081402390017",
+                "2012-08-01",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12101902710518",
+                "2012-09-27",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "12101902710527",
+                "2012-09-27",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9910056720401457,

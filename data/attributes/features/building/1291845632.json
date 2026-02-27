@@ -25,7 +25,57 @@
         1103135791,
         null,
         null,
-        []
+        [
+          [
+            "IL 7713",
+            "New Grant Lot",
+            "C4451649",
+            [
+              [
+                "UB8795553",
+                "2002-08-07",
+                "ORDER NO.DH77/HK/02/C UNDER SECTION 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "UB9427252",
+                "2004-11-25",
+                "ORDER NO.BSI0002/HK/04 UNDER S.27C(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "06022102270480",
+                "2006-01-06",
+                "LETTER OF COMPLETION RELATING TO ORDER NO. BSI0002/HK/04 UNDER S.27C(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "07061100270020",
+                "2007-05-14",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "10111901360152",
+                "2010-11-02",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "11112202090013",
+                "2011-11-16",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "19090901130012",
+                "2019-07-31",
+                "LETTER OF COMPLETION (ORDER NO. \"DH77/HK/02/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993774839398298,
@@ -367,7 +417,14 @@
         1103135914,
         "POTTINGER PEAK MICROWAVE RADIO REPEATER",
         null,
-        []
+        [
+          [
+            "IL 8719",
+            "New Grant Lot",
+            "C4459306",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.993914089583069,
@@ -443,7 +500,33 @@
         1103135935,
         "HONG KONG BUDDHIST CEMETERY",
         null,
-        []
+        [
+          [
+            "IL 7755 RP",
+            "New Grant Lot",
+            "C4451987",
+            [
+              [
+                "UB3649796",
+                "1988-03-08",
+                "DEED OF VARIATION",
+                null
+              ],
+              [
+                "UB8795554",
+                "2002-08-07",
+                "ORDER NO.DH78/HK/02/C UNDER SECTION 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "06081800790170",
+                "2006-06-20",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937469192438448,
@@ -462,7 +545,33 @@
         1103135940,
         null,
         null,
-        []
+        [
+          [
+            "IL 7755 RP",
+            "New Grant Lot",
+            "C4451987",
+            [
+              [
+                "UB3649796",
+                "1988-03-08",
+                "DEED OF VARIATION",
+                null
+              ],
+              [
+                "UB8795554",
+                "2002-08-07",
+                "ORDER NO.DH78/HK/02/C UNDER SECTION 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "06081800790170",
+                "2006-06-20",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993741221820603,
@@ -481,7 +590,33 @@
         1103135946,
         null,
         null,
-        []
+        [
+          [
+            "IL 7755 RP",
+            "New Grant Lot",
+            "C4451987",
+            [
+              [
+                "UB3649796",
+                "1988-03-08",
+                "DEED OF VARIATION",
+                null
+              ],
+              [
+                "UB8795554",
+                "2002-08-07",
+                "ORDER NO.DH78/HK/02/C UNDER SECTION 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "06081800790170",
+                "2006-06-20",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937432152249244,
@@ -500,7 +635,33 @@
         1103135952,
         null,
         null,
-        []
+        [
+          [
+            "IL 7755 RP",
+            "New Grant Lot",
+            "C4451987",
+            [
+              [
+                "UB3649796",
+                "1988-03-08",
+                "DEED OF VARIATION",
+                null
+              ],
+              [
+                "UB8795554",
+                "2002-08-07",
+                "ORDER NO.DH78/HK/02/C UNDER SECTION 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "06081800790170",
+                "2006-06-20",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937433975807215,
@@ -557,7 +718,33 @@
         1103135958,
         null,
         null,
-        []
+        [
+          [
+            "IL 7755 RP",
+            "New Grant Lot",
+            "C4451987",
+            [
+              [
+                "UB3649796",
+                "1988-03-08",
+                "DEED OF VARIATION",
+                null
+              ],
+              [
+                "UB8795554",
+                "2002-08-07",
+                "ORDER NO.DH78/HK/02/C UNDER SECTION 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "06081800790170",
+                "2006-06-20",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937431600292823,
@@ -880,7 +1067,33 @@
         1103137200,
         null,
         "24 TAI LONG WAN VILLAGE",
-        []
+        [
+          [
+            "SOL 1",
+            "Old Schedule Lot",
+            "C5195008",
+            [
+              [
+                "UB137107",
+                "1933-04-24",
+                "-",
+                "100.0"
+              ],
+              [
+                "UB180020",
+                "1947-06-22",
+                "-",
+                null
+              ],
+              [
+                "UB344516",
+                "1961-06-01",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939331548093018,
@@ -1659,7 +1872,14 @@
         1103137693,
         null,
         null,
-        []
+        [
+          [
+            "SOL 112",
+            "Old Schedule Lot",
+            "C4734016",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939287653160014,
@@ -1716,7 +1936,14 @@
         1103137705,
         null,
         null,
-        []
+        [
+          [
+            "SOL 112",
+            "Old Schedule Lot",
+            "C4734016",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939278722810359,
@@ -1754,7 +1981,14 @@
         1103137721,
         null,
         null,
-        []
+        [
+          [
+            "SOL 111",
+            "Old Schedule Lot",
+            "C6147747",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.99392646389476,
@@ -1792,7 +2026,14 @@
         1103137738,
         null,
         null,
-        []
+        [
+          [
+            "SOL 112",
+            "Old Schedule Lot",
+            "C4734016",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939286670154408,
@@ -1849,7 +2090,21 @@
         1103137769,
         null,
         null,
-        []
+        [
+          [
+            "SOVL 22",
+            "Old Schedule Lot",
+            "C4739204",
+            [
+              [
+                "UB180020",
+                "1947-06-22",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939342938789972,
@@ -1944,7 +2199,14 @@
         1103137847,
         null,
         null,
-        []
+        [
+          [
+            "SOL 20",
+            "Old Schedule Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939401210271572,
@@ -2039,7 +2301,20 @@
         1103137897,
         null,
         "156 - 157 TAI LONG WAN VILLAGE",
-        []
+        [
+          [
+            "SOL 43",
+            "Old Schedule Lot",
+            "C4733716",
+            []
+          ],
+          [
+            "SOL 44",
+            "Old Schedule Lot",
+            "C4821179",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939380604506334,
@@ -2096,7 +2371,14 @@
         1103137932,
         null,
         "14A TAI LONG WAN VILLAGE",
-        []
+        [
+          [
+            "SOL 113",
+            "Old Schedule Lot",
+            "C5487720",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939342624909029,
@@ -2153,7 +2435,14 @@
         1103137945,
         null,
         "25D TAI LONG WAN VILLAGE",
-        []
+        [
+          [
+            "SOL 113",
+            "Old Schedule Lot",
+            "C5487720",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939359191836186,
@@ -2191,7 +2480,39 @@
         1103137969,
         null,
         "16A TAI LONG WAN VILLAGE",
-        []
+        [
+          [
+            "SOL 47",
+            "Old Schedule Lot",
+            "C4733736",
+            []
+          ],
+          [
+            "SOL 48",
+            "Old Schedule Lot",
+            "C4733743",
+            [
+              [
+                "UB242976",
+                "1955-11-16",
+                "-",
+                null
+              ],
+              [
+                "UB3809070",
+                "1988-07-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "UB3831873",
+                "1988-08-13",
+                "ASSIGNMENT",
+                "490000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993940860441931,
@@ -2210,7 +2531,14 @@
         1103137972,
         null,
         "260 TAI LONG WAN VILLAGE",
-        []
+        [
+          [
+            "SOL 195",
+            "Old Schedule Lot",
+            "C4734472",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939293397490736,
@@ -2229,7 +2557,21 @@
         1103137978,
         null,
         null,
-        []
+        [
+          [
+            "SOVL 28",
+            "Old Schedule Lot",
+            "C4739212",
+            [
+              [
+                "UB180020",
+                "1947-06-22",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939441781677185,
@@ -2343,7 +2685,21 @@
         1103137995,
         null,
         null,
-        []
+        [
+          [
+            "SOVL 28",
+            "Old Schedule Lot",
+            "C4739212",
+            [
+              [
+                "UB180020",
+                "1947-06-22",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939448742224979,
@@ -2400,7 +2756,57 @@
         1103138008,
         null,
         null,
-        []
+        [
+          [
+            "SOVL 199",
+            "Old Schedule Lot",
+            "C4739303",
+            [
+              [
+                "UB1159458",
+                "1958-02-03",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "UB1159460",
+                "1975-03-12",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "UB1159459",
+                "1975-03-12",
+                "ASSENT",
+                null
+              ],
+              [
+                "UB1469640",
+                "1977-12-12",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "09082001920017",
+                "2008-05-08",
+                "DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "09082001920029",
+                "2009-08-14",
+                "CERTIFIED COPY DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "17032300950028",
+                "2017-02-15",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939263075053901,
@@ -2495,7 +2901,14 @@
         1103138021,
         null,
         "8B TAI LONG WAN VILLAGE",
-        []
+        [
+          [
+            "SOL 30",
+            "Old Schedule Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939484052677503,
@@ -2666,7 +3079,45 @@
         1103138061,
         null,
         "13A TAI LONG WAN VILLAGE",
-        []
+        [
+          [
+            "SOL 61",
+            "Old Schedule Lot",
+            "C4733767",
+            [
+              [
+                "UB242976",
+                "1955-11-16",
+                "-",
+                null
+              ],
+              [
+                "UB3809070",
+                "1988-07-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "UB3831873",
+                "1988-08-13",
+                "ASSIGNMENT",
+                "490000.0"
+              ],
+              [
+                "16041101770010",
+                "2016-04-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7000000.0"
+              ],
+              [
+                "16053002030112",
+                "2016-05-17",
+                "ASSIGNMENT",
+                "7000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939471699353426,
@@ -2742,7 +3193,119 @@
         1103138080,
         null,
         null,
-        []
+        [
+          [
+            "SOL 60",
+            "Old Schedule Lot",
+            "C6137759",
+            [
+              [
+                "UB242976",
+                "1955-11-16",
+                "-",
+                null
+              ],
+              [
+                "UB3809070",
+                "1988-07-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "UB3831873",
+                "1988-08-13",
+                "ASSIGNMENT",
+                "490000.0"
+              ],
+              [
+                "16041101770010",
+                "2016-04-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7000000.0"
+              ],
+              [
+                "16053002030112",
+                "2016-05-17",
+                "ASSIGNMENT",
+                "7000000.0"
+              ]
+            ]
+          ],
+          [
+            "SOL 61",
+            "Old Schedule Lot",
+            "C4733767",
+            [
+              [
+                "UB242976",
+                "1955-11-16",
+                "-",
+                null
+              ],
+              [
+                "UB3809070",
+                "1988-07-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "UB3831873",
+                "1988-08-13",
+                "ASSIGNMENT",
+                "490000.0"
+              ],
+              [
+                "16041101770010",
+                "2016-04-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7000000.0"
+              ],
+              [
+                "16053002030112",
+                "2016-05-17",
+                "ASSIGNMENT",
+                "7000000.0"
+              ]
+            ]
+          ],
+          [
+            "SOL 62",
+            "Old Schedule Lot",
+            "C4733771",
+            [
+              [
+                "UB242976",
+                "1955-11-16",
+                "-",
+                null
+              ],
+              [
+                "UB3809070",
+                "1988-07-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "UB3831873",
+                "1988-08-13",
+                "ASSIGNMENT",
+                "490000.0"
+              ],
+              [
+                "16041101770010",
+                "2016-04-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7000000.0"
+              ],
+              [
+                "16053002030112",
+                "2016-05-17",
+                "ASSIGNMENT",
+                "7000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939461018356224,
@@ -2913,7 +3476,168 @@
         1103138134,
         null,
         "361 TAI LONG WAN VILLAGE",
-        []
+        [
+          [
+            "SOL 217",
+            "Old Schedule Lot",
+            "C4734507",
+            [
+              [
+                "UB189138",
+                "1949-01-24",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "SOVL 218",
+            "Old Schedule Lot",
+            "C4821764",
+            [
+              [
+                "UB1159458",
+                "1958-02-03",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "UB1159459",
+                "1975-03-12",
+                "ASSENT",
+                null
+              ],
+              [
+                "UB1159460",
+                "1975-03-12",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "UB1469640",
+                "1977-12-12",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "09082001920017",
+                "2008-05-08",
+                "DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "09082001920029",
+                "2009-08-14",
+                "CERTIFIED COPY DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "17032300950028",
+                "2017-02-15",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ]
+            ]
+          ],
+          [
+            "SOVL 219",
+            "Old Schedule Lot",
+            "C4739349",
+            [
+              [
+                "UB1159458",
+                "1958-02-03",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "UB1159460",
+                "1975-03-12",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "UB1159459",
+                "1975-03-12",
+                "ASSENT",
+                null
+              ],
+              [
+                "UB1469640",
+                "1977-12-12",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "09082001920017",
+                "2008-05-08",
+                "DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "09082001920029",
+                "2009-08-14",
+                "CERTIFIED COPY DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "17032300950028",
+                "2017-02-15",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ]
+            ]
+          ],
+          [
+            "SOVL 221",
+            "Old Schedule Lot",
+            "C4739369",
+            [
+              [
+                "UB1159458",
+                "1958-02-03",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "UB1159460",
+                "1975-03-12",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "UB1159459",
+                "1975-03-12",
+                "ASSENT",
+                null
+              ],
+              [
+                "UB1469640",
+                "1977-12-12",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "09082001920017",
+                "2008-05-08",
+                "DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "09082001920029",
+                "2009-08-14",
+                "CERTIFIED COPY DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "17032300950028",
+                "2017-02-15",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939299327089104,
@@ -2932,7 +3656,58 @@
         1103138137,
         null,
         "8 TAI LONG WAN VILLAGE",
-        []
+        [
+          [
+            "SOL 71",
+            "Old Schedule Lot",
+            "C4733824",
+            [
+              [
+                "UB242976",
+                "1955-11-16",
+                "-",
+                null
+              ],
+              [
+                "UB3809070",
+                "1988-07-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "UB3831873",
+                "1988-08-13",
+                "ASSIGNMENT",
+                "490000.0"
+              ]
+            ]
+          ],
+          [
+            "SOL 76",
+            "Old Schedule Lot",
+            "C4733861",
+            [
+              [
+                "UB242976",
+                "1955-11-16",
+                "-",
+                null
+              ],
+              [
+                "UB3809070",
+                "1988-07-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "UB3831873",
+                "1988-08-13",
+                "ASSIGNMENT",
+                "490000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939491114275885,
@@ -2970,7 +3745,20 @@
         1103138142,
         null,
         null,
-        []
+        [
+          [
+            "SOL 72",
+            "Old Schedule Lot",
+            "C4733835",
+            []
+          ],
+          [
+            "SOL 73",
+            "Old Schedule Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939467357520528,
@@ -2989,7 +3777,58 @@
         1103138144,
         null,
         "172 TAI LONG WAN VILLAGE",
-        []
+        [
+          [
+            "SOL 69",
+            "Old Schedule Lot",
+            "C4733805",
+            [
+              [
+                "UB242976",
+                "1955-11-16",
+                "-",
+                null
+              ],
+              [
+                "UB3809070",
+                "1988-07-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "UB3831873",
+                "1988-08-13",
+                "ASSIGNMENT",
+                "490000.0"
+              ]
+            ]
+          ],
+          [
+            "SOL 70",
+            "Old Schedule Lot",
+            "C4733812",
+            [
+              [
+                "UB242976",
+                "1955-11-16",
+                "-",
+                null
+              ],
+              [
+                "UB3809070",
+                "1988-07-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "UB3831873",
+                "1988-08-13",
+                "ASSIGNMENT",
+                "490000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939406125223478,
@@ -3065,7 +3904,57 @@
         1103138172,
         null,
         "360 TAI LONG WAN VILLAGE",
-        []
+        [
+          [
+            "SOVL 221",
+            "Old Schedule Lot",
+            "C4739369",
+            [
+              [
+                "UB1159458",
+                "1958-02-03",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "UB1159460",
+                "1975-03-12",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "UB1159459",
+                "1975-03-12",
+                "ASSENT",
+                null
+              ],
+              [
+                "UB1469640",
+                "1977-12-12",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "09082001920017",
+                "2008-05-08",
+                "DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "09082001920029",
+                "2009-08-14",
+                "CERTIFIED COPY DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "17032300950028",
+                "2017-02-15",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939305312822868,
@@ -3122,7 +4011,46 @@
         1103138205,
         null,
         null,
-        []
+        [
+          [
+            "SOL 80",
+            "Old Schedule Lot",
+            "C5195018",
+            [
+              [
+                "UB7582261",
+                "1997-01-29",
+                "PROBATE",
+                null
+              ]
+            ]
+          ],
+          [
+            "SOVL 78A",
+            "Old Schedule Lot",
+            "C4739379",
+            [
+              [
+                "UB190674",
+                "1949-03-15",
+                "-",
+                null
+              ],
+              [
+                "UB234381",
+                "1955-04-13",
+                "-",
+                "1000.0"
+              ],
+              [
+                "07051200550013",
+                "2007-05-03",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939457934251126,
@@ -3160,7 +4088,58 @@
         1103138212,
         null,
         null,
-        []
+        [
+          [
+            "SOL 75",
+            "Old Schedule Lot",
+            "C4733858",
+            [
+              [
+                "UB242976",
+                "1955-11-16",
+                "-",
+                null
+              ],
+              [
+                "UB3809070",
+                "1988-07-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "UB3831873",
+                "1988-08-13",
+                "ASSIGNMENT",
+                "490000.0"
+              ]
+            ]
+          ],
+          [
+            "SOL 79",
+            "Old Schedule Lot",
+            "C4733887",
+            [
+              [
+                "UB242976",
+                "1955-11-16",
+                "-",
+                null
+              ],
+              [
+                "UB3809070",
+                "1988-07-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "UB3831873",
+                "1988-08-13",
+                "ASSIGNMENT",
+                "490000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939410786397391,
@@ -3179,7 +4158,21 @@
         1103138216,
         null,
         null,
-        []
+        [
+          [
+            "SOL 78",
+            "Old Schedule Lot",
+            "C4733878",
+            [
+              [
+                "UB7582261",
+                "1997-01-29",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939435376057082,
@@ -3293,7 +4286,21 @@
         1103138236,
         null,
         null,
-        []
+        [
+          [
+            "SOL 80",
+            "Old Schedule Lot",
+            "C5195018",
+            [
+              [
+                "UB7582261",
+                "1997-01-29",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939449475698419,
@@ -3312,7 +4319,21 @@
         1103138243,
         null,
         null,
-        []
+        [
+          [
+            "SOL 80",
+            "Old Schedule Lot",
+            "C5195018",
+            [
+              [
+                "UB7582261",
+                "1997-01-29",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993945882336835,
@@ -3331,7 +4352,33 @@
         1103138257,
         null,
         null,
-        []
+        [
+          [
+            "SOL 81",
+            "Old Schedule Lot",
+            "C4733897",
+            [
+              [
+                "UB242976",
+                "1955-11-16",
+                "-",
+                null
+              ],
+              [
+                "UB3809070",
+                "1988-07-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "UB3831873",
+                "1988-08-13",
+                "ASSIGNMENT",
+                "490000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939424717777217,
@@ -3445,7 +4492,14 @@
         1103138273,
         null,
         null,
-        []
+        [
+          [
+            "SOL 80A",
+            "Old Schedule Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.993944523621747,
@@ -3996,7 +5050,33 @@
         1810076286,
         null,
         null,
-        []
+        [
+          [
+            "SOL 46",
+            "Old Schedule Lot",
+            "C6612862",
+            [
+              [
+                "UB165531",
+                "1940-04-03",
+                "-",
+                null
+              ],
+              [
+                "UB215825",
+                "1953-01-21",
+                "-",
+                null
+              ],
+              [
+                "UB215826",
+                "1953-01-24",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939394476778638,
@@ -4015,7 +5095,39 @@
         1810076295,
         null,
         null,
-        []
+        [
+          [
+            "SOL 47",
+            "Old Schedule Lot",
+            "C4733736",
+            []
+          ],
+          [
+            "SOL 48",
+            "Old Schedule Lot",
+            "C4733743",
+            [
+              [
+                "UB242976",
+                "1955-11-16",
+                "-",
+                null
+              ],
+              [
+                "UB3809070",
+                "1988-07-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "UB3831873",
+                "1988-08-13",
+                "ASSIGNMENT",
+                "490000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939398239275192,
@@ -4034,7 +5146,77 @@
         1810076308,
         null,
         null,
-        []
+        [
+          [
+            "SOL 48",
+            "Old Schedule Lot",
+            "C4733743",
+            [
+              [
+                "UB242976",
+                "1955-11-16",
+                "-",
+                null
+              ],
+              [
+                "UB3809070",
+                "1988-07-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "UB3831873",
+                "1988-08-13",
+                "ASSIGNMENT",
+                "490000.0"
+              ]
+            ]
+          ],
+          [
+            "SOL 50",
+            "Old Schedule Lot",
+            "C6147733",
+            [
+              [
+                "UB7582261",
+                "1997-01-29",
+                "PROBATE",
+                null
+              ]
+            ]
+          ],
+          [
+            "SOL 51",
+            "Old Schedule Lot",
+            "C4733758",
+            [
+              [
+                "UB242976",
+                "1955-11-16",
+                "-",
+                null
+              ],
+              [
+                "UB3809070",
+                "1988-07-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "UB3831873",
+                "1988-08-13",
+                "ASSIGNMENT",
+                "490000.0"
+              ]
+            ]
+          ],
+          [
+            "SOL 52",
+            "Old Schedule Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939404669971685,
@@ -4053,7 +5235,27 @@
         1810076309,
         null,
         null,
-        []
+        [
+          [
+            "SOL 49",
+            "Old Schedule Lot",
+            "C6137747",
+            []
+          ],
+          [
+            "SOL 50",
+            "Old Schedule Lot",
+            "C6147733",
+            [
+              [
+                "UB7582261",
+                "1997-01-29",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939426353330032,
@@ -4148,7 +5350,70 @@
         1810156992,
         null,
         null,
-        []
+        [
+          [
+            "SOL 217",
+            "Old Schedule Lot",
+            "C4734507",
+            [
+              [
+                "UB189138",
+                "1949-01-24",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "SOVL 218",
+            "Old Schedule Lot",
+            "C4821764",
+            [
+              [
+                "UB1159458",
+                "1958-02-03",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "UB1159459",
+                "1975-03-12",
+                "ASSENT",
+                null
+              ],
+              [
+                "UB1159460",
+                "1975-03-12",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "UB1469640",
+                "1977-12-12",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "09082001920017",
+                "2008-05-08",
+                "DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "09082001920029",
+                "2009-08-14",
+                "CERTIFIED COPY DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "17032300950028",
+                "2017-02-15",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939309986591218,

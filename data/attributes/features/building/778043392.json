@@ -63,7 +63,112 @@
         1108524864,
         null,
         null,
-        []
+        [
+          [
+            "DD395 238 S.A & S.B",
+            "Old Schedule Lot",
+            null,
+            []
+          ],
+          [
+            "DD395 239",
+            "Old Schedule Lot",
+            "C2328164",
+            [
+              [
+                "TM128990",
+                "1952-02-06",
+                "-",
+                null
+              ],
+              [
+                "TM711772",
+                "1996-02-22",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "TM729547",
+                "1996-07-18",
+                "VESTING DEED",
+                null
+              ],
+              [
+                "14100802500168",
+                "2014-07-30",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "14110702660037",
+                "2014-09-25",
+                "ASSIGNMENT",
+                "980000.0"
+              ],
+              [
+                "22102501800039",
+                "2022-10-10",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "500000.0"
+              ],
+              [
+                "22121501120021",
+                "2022-11-30",
+                "ASSIGNMENT",
+                "500000.0"
+              ]
+            ]
+          ],
+          [
+            "DD395 240",
+            "Old Schedule Lot",
+            "C2328177",
+            [
+              [
+                "TM129179",
+                "1952-03-28",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "TM137260",
+                "1957-08-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TM186930",
+                "1977-06-28",
+                "REMOVAL OF TRUSTEESHIP RE 1/3 SHARE",
+                null
+              ],
+              [
+                "TM186931",
+                "1977-06-28",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "TM215689",
+                "1982-07-26",
+                "STATUTORY DECLARATION BY CHOI TAK SHUN ALIAS TSOI TAK SHUN",
+                null
+              ],
+              [
+                "TM659801",
+                "1994-08-11",
+                "STATUTORY DECLARATION BY TSOI BING YAN ALSO KNOWN AS TSOI AH PING",
+                null
+              ],
+              [
+                "TM667603",
+                "1994-11-17",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9907653065040025,
@@ -101,7 +206,33 @@
         1109406200,
         null,
         null,
-        []
+        [
+          [
+            "DD395 158",
+            "Old Schedule Lot",
+            "C2327732",
+            [
+              [
+                "TM159308",
+                "1967-05-04",
+                "-",
+                null
+              ],
+              [
+                "TM178986",
+                "1974-01-03",
+                "-",
+                null
+              ],
+              [
+                "TM707334",
+                "1996-02-01",
+                "NOTICE OF EASEMENT",
+                "99.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.990747540645209,
@@ -120,7 +251,21 @@
         1109406540,
         null,
         null,
-        []
+        [
+          [
+            "DD395 243",
+            "Old Schedule Lot",
+            "C2328184",
+            [
+              [
+                "TM202955",
+                "1981-05-07",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99076280820051,
@@ -196,7 +341,99 @@
         1910212635,
         null,
         null,
-        []
+        [
+          [
+            "DD395 236 S.A & S.B",
+            "Old Schedule Lot",
+            null,
+            []
+          ],
+          [
+            "DD395 761",
+            "New Grant Lot",
+            "C2329981",
+            [
+              [
+                "TM129179",
+                "1952-03-28",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "TM137260",
+                "1957-08-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TM186931",
+                "1977-06-28",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "TM186930",
+                "1977-06-28",
+                "REMOVAL OF TRUSTEESHIP RE 1/3 SHARE",
+                null
+              ],
+              [
+                "TM215689",
+                "1982-07-26",
+                "STATUTORY DECLARATION BY CHOI TAK SHUN ALIAS TSOI TAK SHUN",
+                null
+              ],
+              [
+                "TM659802",
+                "1994-08-11",
+                "-",
+                null
+              ],
+              [
+                "TM659801",
+                "1994-08-11",
+                "STATUTORY DECLARATION BY TSOI BING YAN ALSO KNOWN AS TSOI AH PING",
+                null
+              ],
+              [
+                "14110600220045",
+                "2014-10-27",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "740000.0"
+              ],
+              [
+                "14122400350187",
+                "2014-11-28",
+                "ASSIGNMENT",
+                "740000.0"
+              ],
+              [
+                "19010300980079",
+                "2018-12-20",
+                "ASSIGNMENT",
+                "800000.0"
+              ],
+              [
+                "19010300980064",
+                "2018-12-20",
+                "MEMORANDUM OF SALE AND PURCHASE AGREEMENT",
+                "800000.0"
+              ],
+              [
+                "22102001600023",
+                "2022-10-10",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "800000.0"
+              ],
+              [
+                "22121301840177",
+                "2022-11-30",
+                "ASSIGNMENT",
+                "800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9907662859737396,

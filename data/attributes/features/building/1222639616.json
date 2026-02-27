@@ -6,7 +6,51 @@
         1103119506,
         null,
         null,
-        []
+        [
+          [
+            "RBL 1108 &EXT",
+            "New Grant Lot",
+            "C6136715",
+            [
+              [
+                "UB6512569",
+                "1996-01-16",
+                "LOAN AGREEMENT",
+                "45207000.0"
+              ],
+              [
+                "UB6517721",
+                "1996-01-16",
+                "MORTGAGE",
+                "45207000.0"
+              ],
+              [
+                "07041902210539",
+                "2007-04-04",
+                "RELEASE",
+                null
+              ],
+              [
+                "07060501280011",
+                "2007-05-31",
+                "EXTENSION CUM MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14082001980014",
+                "2014-04-30",
+                "WAIVER LETTER",
+                null
+              ],
+              [
+                "17020801950018",
+                "2017-02-06",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993584911168179,
@@ -25,7 +69,63 @@
         1103119542,
         null,
         "60 TAI TAM ROAD",
-        []
+        [
+          [
+            "RBL 188",
+            "New Grant Lot",
+            "C4712245",
+            [
+              [
+                "UB101505",
+                "1926-06-28",
+                "MORTGAGE",
+                "10000.0"
+              ],
+              [
+                "UB124507",
+                "1931-04-01",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB138633",
+                "1933-08-17",
+                "ASSIGNMENT",
+                "15000.0"
+              ],
+              [
+                "UB172956",
+                "1946-05-15",
+                "ASSIGNMENT",
+                "80000.0"
+              ],
+              [
+                "UB188427",
+                "1948-12-30",
+                "ASSIGNMENT",
+                "210000.0"
+              ],
+              [
+                "UB270276",
+                "1958-01-07",
+                "ASSIGNMENT",
+                "285000.0"
+              ],
+              [
+                "UB1021783",
+                "1973-09-17",
+                "DEED OF VARIATION OF CROWN LEASE",
+                null
+              ],
+              [
+                "UB1291288",
+                "1975-05-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935820710421306,
@@ -44,7 +144,87 @@
         1103119596,
         null,
         null,
-        []
+        [
+          [
+            "RBL 434 &EXT",
+            "New Grant Lot",
+            "C4714716",
+            [
+              [
+                "UB244472",
+                "1956-02-08",
+                "MORTGAGE TO SECURE BANKING FACILITIES",
+                null
+              ],
+              [
+                "UB263379",
+                "1957-07-25",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB263380",
+                "1957-07-25",
+                "MORTGAGE TO SECURE BANKING FACILITIES",
+                null
+              ],
+              [
+                "UB272508",
+                "1958-02-07",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB272509",
+                "1958-02-07",
+                "-",
+                "182000.0"
+              ],
+              [
+                "UB273494",
+                "1958-03-18",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "300000.0"
+              ],
+              [
+                "UB275687",
+                "1958-04-28",
+                "DEED OF CONFIRMATION SUPPLEMENTAL TO ASSIGNMENT MEM.NO.272509",
+                null
+              ],
+              [
+                "UB275688",
+                "1958-04-28",
+                "-",
+                "300000.0"
+              ],
+              [
+                "UB299906",
+                "1959-08-04",
+                "MORTGAGE TO SECURE IMMEDIATE ADVANCE & BANKING FACILITIES",
+                null
+              ],
+              [
+                "UB322501",
+                "1960-08-15",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1511083",
+                "1978-01-05",
+                "-",
+                null
+              ],
+              [
+                "UB4158078",
+                "1989-07-22",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935598902282743,
@@ -519,7 +699,33 @@
         1103139269,
         "THE STUART WILLIAMSON SEA ACTIVITY CENTRE",
         null,
-        []
+        [
+          [
+            "RBL 873",
+            "New Grant Lot",
+            "C4717926",
+            [
+              [
+                "UB2402992",
+                "1977-05-20",
+                "-",
+                null
+              ],
+              [
+                "UB2375757",
+                "1983-02-21",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB3523894",
+                "1987-10-20",
+                "DEED OF VARIATION OF LEASE WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935781906229253,
@@ -538,7 +744,33 @@
         1103139288,
         null,
         null,
-        []
+        [
+          [
+            "RBL 873",
+            "New Grant Lot",
+            "C4717926",
+            [
+              [
+                "UB2402992",
+                "1977-05-20",
+                "-",
+                null
+              ],
+              [
+                "UB2375757",
+                "1983-02-21",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB3523894",
+                "1987-10-20",
+                "DEED OF VARIATION OF LEASE WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935792544782032,
@@ -557,7 +789,33 @@
         1103139411,
         null,
         null,
-        []
+        [
+          [
+            "RBL 873",
+            "New Grant Lot",
+            "C4717926",
+            [
+              [
+                "UB2402992",
+                "1977-05-20",
+                "-",
+                null
+              ],
+              [
+                "UB2375757",
+                "1983-02-21",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB3523894",
+                "1987-10-20",
+                "DEED OF VARIATION OF LEASE WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935799004049892,
@@ -576,7 +834,33 @@
         1103139422,
         "BRADBURY HOUSE",
         null,
-        []
+        [
+          [
+            "RBL 873",
+            "New Grant Lot",
+            "C4717926",
+            [
+              [
+                "UB2402992",
+                "1977-05-20",
+                "-",
+                null
+              ],
+              [
+                "UB2375757",
+                "1983-02-21",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB3523894",
+                "1987-10-20",
+                "DEED OF VARIATION OF LEASE WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935793800784478,
@@ -595,7 +879,33 @@
         1103139477,
         "CAMP OFFICE & RECREATION HALL",
         null,
-        []
+        [
+          [
+            "RBL 873",
+            "New Grant Lot",
+            "C4717926",
+            [
+              [
+                "UB2402992",
+                "1977-05-20",
+                "-",
+                null
+              ],
+              [
+                "UB2375757",
+                "1983-02-21",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB3523894",
+                "1987-10-20",
+                "DEED OF VARIATION OF LEASE WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993573663107579,
@@ -614,7 +924,51 @@
         1103139527,
         "TAI TAM GARDENS BLOCK A",
         "700 TAI TAM RESERVOIR ROAD",
-        []
+        [
+          [
+            "RBL 1108 &EXT",
+            "New Grant Lot",
+            "C6136715",
+            [
+              [
+                "UB6512569",
+                "1996-01-16",
+                "LOAN AGREEMENT",
+                "45207000.0"
+              ],
+              [
+                "UB6517721",
+                "1996-01-16",
+                "MORTGAGE",
+                "45207000.0"
+              ],
+              [
+                "07041902210539",
+                "2007-04-04",
+                "RELEASE",
+                null
+              ],
+              [
+                "07060501280011",
+                "2007-05-31",
+                "EXTENSION CUM MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14082001980014",
+                "2014-04-30",
+                "WAIVER LETTER",
+                null
+              ],
+              [
+                "17020801950018",
+                "2017-02-06",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935639679865378,
@@ -633,7 +987,51 @@
         1103139533,
         "TAI TAM GARDENS BLOCK B",
         "700 TAI TAM RESERVOIR ROAD",
-        []
+        [
+          [
+            "RBL 1108 &EXT",
+            "New Grant Lot",
+            "C6136715",
+            [
+              [
+                "UB6512569",
+                "1996-01-16",
+                "LOAN AGREEMENT",
+                "45207000.0"
+              ],
+              [
+                "UB6517721",
+                "1996-01-16",
+                "MORTGAGE",
+                "45207000.0"
+              ],
+              [
+                "07041902210539",
+                "2007-04-04",
+                "RELEASE",
+                null
+              ],
+              [
+                "07060501280011",
+                "2007-05-31",
+                "EXTENSION CUM MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14082001980014",
+                "2014-04-30",
+                "WAIVER LETTER",
+                null
+              ],
+              [
+                "17020801950018",
+                "2017-02-06",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935661590730278,
@@ -652,7 +1050,51 @@
         1103139536,
         "TAI TAM GARDENS BLOCK C",
         "700 TAI TAM RESERVOIR ROAD",
-        []
+        [
+          [
+            "RBL 1108 &EXT",
+            "New Grant Lot",
+            "C6136715",
+            [
+              [
+                "UB6512569",
+                "1996-01-16",
+                "LOAN AGREEMENT",
+                "45207000.0"
+              ],
+              [
+                "UB6517721",
+                "1996-01-16",
+                "MORTGAGE",
+                "45207000.0"
+              ],
+              [
+                "07041902210539",
+                "2007-04-04",
+                "RELEASE",
+                null
+              ],
+              [
+                "07060501280011",
+                "2007-05-31",
+                "EXTENSION CUM MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14082001980014",
+                "2014-04-30",
+                "WAIVER LETTER",
+                null
+              ],
+              [
+                "17020801950018",
+                "2017-02-06",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935704047020066,
@@ -671,7 +1113,51 @@
         1103139541,
         "TAI TAM GARDENS BLOCK D",
         "700 TAI TAM RESERVOIR ROAD",
-        []
+        [
+          [
+            "RBL 1108 &EXT",
+            "New Grant Lot",
+            "C6136715",
+            [
+              [
+                "UB6512569",
+                "1996-01-16",
+                "LOAN AGREEMENT",
+                "45207000.0"
+              ],
+              [
+                "UB6517721",
+                "1996-01-16",
+                "MORTGAGE",
+                "45207000.0"
+              ],
+              [
+                "07041902210539",
+                "2007-04-04",
+                "RELEASE",
+                null
+              ],
+              [
+                "07060501280011",
+                "2007-05-31",
+                "EXTENSION CUM MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14082001980014",
+                "2014-04-30",
+                "WAIVER LETTER",
+                null
+              ],
+              [
+                "17020801950018",
+                "2017-02-06",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935725137434632,
@@ -690,7 +1176,21 @@
         1103139656,
         "HK INTERNATIONAL SCHOOL HIGH SCHOOL",
         "1 RED HILL ROAD",
-        []
+        [
+          [
+            "RBL 1079",
+            "New Grant Lot",
+            "C6136687",
+            [
+              [
+                "UB6373414",
+                "1995-07-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993572539561929,
@@ -709,7 +1209,255 @@
         1103139839,
         "RED HILL PLAZA",
         "3 RED HILL ROAD",
-        []
+        [
+          [
+            "RBL 1066",
+            "New Grant Lot",
+            "C4719128",
+            [
+              [
+                "UB6135626",
+                "1994-10-15",
+                "LETTER WITH CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "UB6161737",
+                "1994-10-27",
+                "DEBENTURE",
+                "85000000.0"
+              ],
+              [
+                "UB6356608",
+                "1995-07-24",
+                "AGREEMENT FOR LEASE WITH PLAN FOR 3 YEARS RE SHOPS G05-G06 ON G/F",
+                null
+              ],
+              [
+                "UB6375673",
+                "1995-08-07",
+                "AGREEMENT FOR LEASE WITH PLAN FOR 3 YEARS RE SHOP G21 ON G/F",
+                null
+              ],
+              [
+                "UB6375672",
+                "1995-08-07",
+                "AGREEMENT FOR LEASE WITH PLAN FOR 3 YEARS RE SHOP G12 ON G/F",
+                null
+              ],
+              [
+                "UB6388999",
+                "1995-08-23",
+                "AGREEMENT FOR LEASE WITH PLAN RE SHOP NO.G25 ON G/F",
+                null
+              ],
+              [
+                "UB6459964",
+                "1995-11-14",
+                "AGREEMENT FOR LEASE WITH PLAN RE SHOP 105 ON FIRST FLOOR",
+                null
+              ],
+              [
+                "UB6473737",
+                "1995-12-05",
+                "AGREEMENT FOR LEASE RE SHOPS G08 & G09, G/F FOR 3 YEARS WITH PLAN",
+                null
+              ],
+              [
+                "UB6473738",
+                "1995-12-07",
+                "AGREEMENT FOR LEASE WITH PLAN RE SHOP NO.G20, G/F FOR 3 YEARS",
+                null
+              ],
+              [
+                "UB6608783",
+                "1996-04-30",
+                "SUPPLEMENTAL AGREEMENT TO AGREEMENT FOR LEASE M/N 6473737",
+                null
+              ],
+              [
+                "UB6627376",
+                "1996-05-09",
+                "CANCELLATION AGREEMENT RE SHOP NO. G08 ON G/F",
+                null
+              ],
+              [
+                "UB6627377",
+                "1996-05-10",
+                "SUPPLEMENTAL AGREEMENT WITH PLAN TO AGT. FOR LEASE M/N 6459964",
+                null
+              ],
+              [
+                "UB6627378",
+                "1996-05-16",
+                "AGREEMENT FOR LEASE WITH PLAN RE SHOPS NOS. G09 AND G10 ON G/F",
+                null
+              ],
+              [
+                "UB6627379",
+                "1996-05-16",
+                "AGREEMENT FOR LEASE WITH PLAN RE SHOP NO.G15 ON G/F",
+                null
+              ],
+              [
+                "UB6622809",
+                "1996-05-27",
+                "MEMORANDUM WITH CERTIFIED TRUE COPY OF AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "UB6645657",
+                "1996-05-28",
+                "TENANCY AGREEMENT WITH PLAN RE 1/F OF REDHILL PLAZA FOR 6 YRS.",
+                null
+              ],
+              [
+                "UB6681146",
+                "1996-06-26",
+                "SUPPLEMENTAL AGREEMENT WITH PLAN TO M/N 6375673 RE SHOP G21 ON G/F",
+                null
+              ],
+              [
+                "UB6681147",
+                "1996-06-27",
+                "TENANCY AGREEMENT WITH PLAN RE SHOP G21 FOR 3 YEARS",
+                null
+              ],
+              [
+                "UB6681145",
+                "1996-06-27",
+                "TENANCY AGREEMENT WITH PLAN RE SHOP G12 ON G/F FOR 3 YEARS",
+                null
+              ],
+              [
+                "UB6681149",
+                "1996-06-27",
+                "TENANCY AGREEMENT WITH PLAN RE SHOP G20 ON G/F FOR 3 YEARS",
+                null
+              ],
+              [
+                "UB6681144",
+                "1996-06-27",
+                "TENANCY AGREEMENT WITH PLAN RE SHOP G09-G10 ON G/F FOR 3 YEARS",
+                null
+              ],
+              [
+                "UB6681143",
+                "1996-06-27",
+                "TENANCY AGREEMENT WITH PLAN RE SHOP G08 & SHOWCASE G07 ON G/F",
+                null
+              ],
+              [
+                "UB7273514",
+                "1996-07-16",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "UB6728651",
+                "1996-07-31",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YEARS RE SHOP G18 ON GROUND FLOOR",
+                null
+              ],
+              [
+                "UB6728650",
+                "1996-07-31",
+                "TENANCY AGREEMENT WITH PLAN FOR 6 YRS. RE SHOP G25 ON GROUND FLOOR",
+                null
+              ],
+              [
+                "UB6728648",
+                "1996-08-15",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "UB7053845",
+                "1997-04-03",
+                "TENANCY AGREEMENT WITH PLAN RE SHOP NO.G05 ON G/F",
+                null
+              ],
+              [
+                "UB7265063",
+                "1997-08-11",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "UB7561285",
+                "1998-08-27",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "UB8393524",
+                "2001-05-09",
+                "TENANCY AGREEMENT WITH PLAN RE SHOP NO.101 ON 1/F FOR 4 YEARS",
+                null
+              ],
+              [
+                "UB8670980",
+                "2002-05-03",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "169900000.0"
+              ],
+              [
+                "UB8708225",
+                "2002-06-03",
+                "NOMINATION",
+                null
+              ],
+              [
+                "UB8708226",
+                "2002-06-04",
+                "ASSIGNMENT",
+                "169900000.0"
+              ],
+              [
+                "UB8711250",
+                "2002-06-04",
+                "RELEASE",
+                null
+              ],
+              [
+                "12101102860240",
+                "2010-09-13",
+                "DUPLICATE TENANCY AGREEMENT WITH PLAN RE SHOP NO. G25 ON G/F OF REDHILL PLAZA",
+                "THE RENT IS $175,000.00 PER MONTH"
+              ],
+              [
+                "15021600960012",
+                "2013-09-05",
+                "TENANCY AGREEMENT WITH PLAN RE SHOP NO. G25 ON G/F OF REDHILL PLAZA",
+                "THE RENT IS $215,000.00 PER MONTH"
+              ],
+              [
+                "16112301220025",
+                "2016-09-13",
+                "DUPLICATE COPY OF TENANCY AGREEMENT WITH PLAN RE SHOP NO.G25 ON G/F OF REDHILL PLAZA",
+                "THE RENT IS $235,000.00 PER MONTH"
+              ],
+              [
+                "17070702030012",
+                "2017-06-05",
+                "DUPLICATE COPY OF TENANCY AGREEMENT RE SHOPS NOS.101,102 & 103 ON 1/F AND SHOP NO.GA1 ON G/F WITH PLAN",
+                "THE RENT IS $1,100,000.00 PER MONTH"
+              ],
+              [
+                "20021101050028",
+                "2018-07-23",
+                "DUPLICATE TENANCY AGREEMENT WITH PLAN RE SHOP NO. G25 ON G/F OF REDHILL PLAZA",
+                "THE RENT IS $ 280,000 PER MONTH"
+              ],
+              [
+                "21102901320019",
+                "2021-09-24",
+                "EXTRACT OF TENANCY AGREEMENT RE SHOP NO. G25 ON G/F OF REDHILL PLAZA",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935716649592463,
@@ -766,7 +1514,63 @@
         1103140102,
         null,
         "60 TAI TAM ROAD",
-        []
+        [
+          [
+            "RBL 188",
+            "New Grant Lot",
+            "C4712245",
+            [
+              [
+                "UB101505",
+                "1926-06-28",
+                "MORTGAGE",
+                "10000.0"
+              ],
+              [
+                "UB124507",
+                "1931-04-01",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB138633",
+                "1933-08-17",
+                "ASSIGNMENT",
+                "15000.0"
+              ],
+              [
+                "UB172956",
+                "1946-05-15",
+                "ASSIGNMENT",
+                "80000.0"
+              ],
+              [
+                "UB188427",
+                "1948-12-30",
+                "ASSIGNMENT",
+                "210000.0"
+              ],
+              [
+                "UB270276",
+                "1958-01-07",
+                "ASSIGNMENT",
+                "285000.0"
+              ],
+              [
+                "UB1021783",
+                "1973-09-17",
+                "DEED OF VARIATION OF CROWN LEASE",
+                null
+              ],
+              [
+                "UB1291288",
+                "1975-05-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935836542776069,
@@ -785,7 +1589,63 @@
         1103140122,
         null,
         "60 TAI TAM ROAD",
-        []
+        [
+          [
+            "RBL 188",
+            "New Grant Lot",
+            "C4712245",
+            [
+              [
+                "UB101505",
+                "1926-06-28",
+                "MORTGAGE",
+                "10000.0"
+              ],
+              [
+                "UB124507",
+                "1931-04-01",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB138633",
+                "1933-08-17",
+                "ASSIGNMENT",
+                "15000.0"
+              ],
+              [
+                "UB172956",
+                "1946-05-15",
+                "ASSIGNMENT",
+                "80000.0"
+              ],
+              [
+                "UB188427",
+                "1948-12-30",
+                "ASSIGNMENT",
+                "210000.0"
+              ],
+              [
+                "UB270276",
+                "1958-01-07",
+                "ASSIGNMENT",
+                "285000.0"
+              ],
+              [
+                "UB1021783",
+                "1973-09-17",
+                "DEED OF VARIATION OF CROWN LEASE",
+                null
+              ],
+              [
+                "UB1291288",
+                "1975-05-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935809391874528,
@@ -804,7 +1664,63 @@
         1103140144,
         "TURTLE COVE HOUSE 3",
         "60 TAI TAM ROAD",
-        []
+        [
+          [
+            "RBL 188",
+            "New Grant Lot",
+            "C4712245",
+            [
+              [
+                "UB101505",
+                "1926-06-28",
+                "MORTGAGE",
+                "10000.0"
+              ],
+              [
+                "UB124507",
+                "1931-04-01",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB138633",
+                "1933-08-17",
+                "ASSIGNMENT",
+                "15000.0"
+              ],
+              [
+                "UB172956",
+                "1946-05-15",
+                "ASSIGNMENT",
+                "80000.0"
+              ],
+              [
+                "UB188427",
+                "1948-12-30",
+                "ASSIGNMENT",
+                "210000.0"
+              ],
+              [
+                "UB270276",
+                "1958-01-07",
+                "ASSIGNMENT",
+                "285000.0"
+              ],
+              [
+                "UB1021783",
+                "1973-09-17",
+                "DEED OF VARIATION OF CROWN LEASE",
+                null
+              ],
+              [
+                "UB1291288",
+                "1975-05-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935821671871108,
@@ -823,7 +1739,63 @@
         1103140152,
         "TURTLE COVE HOUSE 4",
         "60 TAI TAM ROAD",
-        []
+        [
+          [
+            "RBL 188",
+            "New Grant Lot",
+            "C4712245",
+            [
+              [
+                "UB101505",
+                "1926-06-28",
+                "MORTGAGE",
+                "10000.0"
+              ],
+              [
+                "UB124507",
+                "1931-04-01",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB138633",
+                "1933-08-17",
+                "ASSIGNMENT",
+                "15000.0"
+              ],
+              [
+                "UB172956",
+                "1946-05-15",
+                "ASSIGNMENT",
+                "80000.0"
+              ],
+              [
+                "UB188427",
+                "1948-12-30",
+                "ASSIGNMENT",
+                "210000.0"
+              ],
+              [
+                "UB270276",
+                "1958-01-07",
+                "ASSIGNMENT",
+                "285000.0"
+              ],
+              [
+                "UB1021783",
+                "1973-09-17",
+                "DEED OF VARIATION OF CROWN LEASE",
+                null
+              ],
+              [
+                "UB1291288",
+                "1975-05-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935835238590762,
@@ -842,7 +1814,63 @@
         1103140163,
         "TURTLE COVE HOUSE 1",
         "60 TAI TAM ROAD",
-        []
+        [
+          [
+            "RBL 188",
+            "New Grant Lot",
+            "C4712245",
+            [
+              [
+                "UB101505",
+                "1926-06-28",
+                "MORTGAGE",
+                "10000.0"
+              ],
+              [
+                "UB124507",
+                "1931-04-01",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB138633",
+                "1933-08-17",
+                "ASSIGNMENT",
+                "15000.0"
+              ],
+              [
+                "UB172956",
+                "1946-05-15",
+                "ASSIGNMENT",
+                "80000.0"
+              ],
+              [
+                "UB188427",
+                "1948-12-30",
+                "ASSIGNMENT",
+                "210000.0"
+              ],
+              [
+                "UB270276",
+                "1958-01-07",
+                "ASSIGNMENT",
+                "285000.0"
+              ],
+              [
+                "UB1021783",
+                "1973-09-17",
+                "DEED OF VARIATION OF CROWN LEASE",
+                null
+              ],
+              [
+                "UB1291288",
+                "1975-05-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993578196150769,
@@ -861,7 +1889,63 @@
         1103140173,
         "TURTLE COVE HOUSE 5",
         "60 TAI TAM ROAD",
-        []
+        [
+          [
+            "RBL 188",
+            "New Grant Lot",
+            "C4712245",
+            [
+              [
+                "UB101505",
+                "1926-06-28",
+                "MORTGAGE",
+                "10000.0"
+              ],
+              [
+                "UB124507",
+                "1931-04-01",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB138633",
+                "1933-08-17",
+                "ASSIGNMENT",
+                "15000.0"
+              ],
+              [
+                "UB172956",
+                "1946-05-15",
+                "ASSIGNMENT",
+                "80000.0"
+              ],
+              [
+                "UB188427",
+                "1948-12-30",
+                "ASSIGNMENT",
+                "210000.0"
+              ],
+              [
+                "UB270276",
+                "1958-01-07",
+                "ASSIGNMENT",
+                "285000.0"
+              ],
+              [
+                "UB1021783",
+                "1973-09-17",
+                "DEED OF VARIATION OF CROWN LEASE",
+                null
+              ],
+              [
+                "UB1291288",
+                "1975-05-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935845208359815,
@@ -880,7 +1964,63 @@
         1103140175,
         "TURTLE COVE HOUSE 2",
         "60 TAI TAM ROAD",
-        []
+        [
+          [
+            "RBL 188",
+            "New Grant Lot",
+            "C4712245",
+            [
+              [
+                "UB101505",
+                "1926-06-28",
+                "MORTGAGE",
+                "10000.0"
+              ],
+              [
+                "UB124507",
+                "1931-04-01",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB138633",
+                "1933-08-17",
+                "ASSIGNMENT",
+                "15000.0"
+              ],
+              [
+                "UB172956",
+                "1946-05-15",
+                "ASSIGNMENT",
+                "80000.0"
+              ],
+              [
+                "UB188427",
+                "1948-12-30",
+                "ASSIGNMENT",
+                "210000.0"
+              ],
+              [
+                "UB270276",
+                "1958-01-07",
+                "ASSIGNMENT",
+                "285000.0"
+              ],
+              [
+                "UB1021783",
+                "1973-09-17",
+                "DEED OF VARIATION OF CROWN LEASE",
+                null
+              ],
+              [
+                "UB1291288",
+                "1975-05-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935796264233625,
@@ -899,7 +2039,63 @@
         1103140187,
         "TURTLE COVE HOUSE 6",
         "60 TAI TAM ROAD",
-        []
+        [
+          [
+            "RBL 188",
+            "New Grant Lot",
+            "C4712245",
+            [
+              [
+                "UB101505",
+                "1926-06-28",
+                "MORTGAGE",
+                "10000.0"
+              ],
+              [
+                "UB124507",
+                "1931-04-01",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB138633",
+                "1933-08-17",
+                "ASSIGNMENT",
+                "15000.0"
+              ],
+              [
+                "UB172956",
+                "1946-05-15",
+                "ASSIGNMENT",
+                "80000.0"
+              ],
+              [
+                "UB188427",
+                "1948-12-30",
+                "ASSIGNMENT",
+                "210000.0"
+              ],
+              [
+                "UB270276",
+                "1958-01-07",
+                "ASSIGNMENT",
+                "285000.0"
+              ],
+              [
+                "UB1021783",
+                "1973-09-17",
+                "DEED OF VARIATION OF CROWN LEASE",
+                null
+              ],
+              [
+                "UB1291288",
+                "1975-05-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993585731109551,
@@ -1013,7 +2209,87 @@
         1103140472,
         null,
         null,
-        []
+        [
+          [
+            "RBL 434 &EXT",
+            "New Grant Lot",
+            "C4714716",
+            [
+              [
+                "UB244472",
+                "1956-02-08",
+                "MORTGAGE TO SECURE BANKING FACILITIES",
+                null
+              ],
+              [
+                "UB263379",
+                "1957-07-25",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB263380",
+                "1957-07-25",
+                "MORTGAGE TO SECURE BANKING FACILITIES",
+                null
+              ],
+              [
+                "UB272508",
+                "1958-02-07",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB272509",
+                "1958-02-07",
+                "-",
+                "182000.0"
+              ],
+              [
+                "UB273494",
+                "1958-03-18",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "300000.0"
+              ],
+              [
+                "UB275687",
+                "1958-04-28",
+                "DEED OF CONFIRMATION SUPPLEMENTAL TO ASSIGNMENT MEM.NO.272509",
+                null
+              ],
+              [
+                "UB275688",
+                "1958-04-28",
+                "-",
+                "300000.0"
+              ],
+              [
+                "UB299906",
+                "1959-08-04",
+                "MORTGAGE TO SECURE IMMEDIATE ADVANCE & BANKING FACILITIES",
+                null
+              ],
+              [
+                "UB322501",
+                "1960-08-15",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1511083",
+                "1978-01-05",
+                "-",
+                null
+              ],
+              [
+                "UB4158078",
+                "1989-07-22",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935600499114186,
@@ -1032,7 +2308,87 @@
         1103140483,
         null,
         "46 TAI TAM ROAD",
-        []
+        [
+          [
+            "RBL 434 &EXT",
+            "New Grant Lot",
+            "C4714716",
+            [
+              [
+                "UB244472",
+                "1956-02-08",
+                "MORTGAGE TO SECURE BANKING FACILITIES",
+                null
+              ],
+              [
+                "UB263379",
+                "1957-07-25",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB263380",
+                "1957-07-25",
+                "MORTGAGE TO SECURE BANKING FACILITIES",
+                null
+              ],
+              [
+                "UB272508",
+                "1958-02-07",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB272509",
+                "1958-02-07",
+                "-",
+                "182000.0"
+              ],
+              [
+                "UB273494",
+                "1958-03-18",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "300000.0"
+              ],
+              [
+                "UB275687",
+                "1958-04-28",
+                "DEED OF CONFIRMATION SUPPLEMENTAL TO ASSIGNMENT MEM.NO.272509",
+                null
+              ],
+              [
+                "UB275688",
+                "1958-04-28",
+                "-",
+                "300000.0"
+              ],
+              [
+                "UB299906",
+                "1959-08-04",
+                "MORTGAGE TO SECURE IMMEDIATE ADVANCE & BANKING FACILITIES",
+                null
+              ],
+              [
+                "UB322501",
+                "1960-08-15",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1511083",
+                "1978-01-05",
+                "-",
+                null
+              ],
+              [
+                "UB4158078",
+                "1989-07-22",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935606348692343,
@@ -1051,7 +2407,87 @@
         1103140489,
         null,
         null,
-        []
+        [
+          [
+            "RBL 434 &EXT",
+            "New Grant Lot",
+            "C4714716",
+            [
+              [
+                "UB244472",
+                "1956-02-08",
+                "MORTGAGE TO SECURE BANKING FACILITIES",
+                null
+              ],
+              [
+                "UB263379",
+                "1957-07-25",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB263380",
+                "1957-07-25",
+                "MORTGAGE TO SECURE BANKING FACILITIES",
+                null
+              ],
+              [
+                "UB272508",
+                "1958-02-07",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB272509",
+                "1958-02-07",
+                "-",
+                "182000.0"
+              ],
+              [
+                "UB273494",
+                "1958-03-18",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "300000.0"
+              ],
+              [
+                "UB275687",
+                "1958-04-28",
+                "DEED OF CONFIRMATION SUPPLEMENTAL TO ASSIGNMENT MEM.NO.272509",
+                null
+              ],
+              [
+                "UB275688",
+                "1958-04-28",
+                "-",
+                "300000.0"
+              ],
+              [
+                "UB299906",
+                "1959-08-04",
+                "MORTGAGE TO SECURE IMMEDIATE ADVANCE & BANKING FACILITIES",
+                null
+              ],
+              [
+                "UB322501",
+                "1960-08-15",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1511083",
+                "1978-01-05",
+                "-",
+                null
+              ],
+              [
+                "UB4158078",
+                "1989-07-22",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993557536749343,
@@ -1070,7 +2506,51 @@
         1109347159,
         "HK INTERNATIONAL SCHOOL MIDDLE SCHOOL",
         null,
-        []
+        [
+          [
+            "RBL 1108 &EXT",
+            "New Grant Lot",
+            "C6136715",
+            [
+              [
+                "UB6512569",
+                "1996-01-16",
+                "LOAN AGREEMENT",
+                "45207000.0"
+              ],
+              [
+                "UB6517721",
+                "1996-01-16",
+                "MORTGAGE",
+                "45207000.0"
+              ],
+              [
+                "07041902210539",
+                "2007-04-04",
+                "RELEASE",
+                null
+              ],
+              [
+                "07060501280011",
+                "2007-05-31",
+                "EXTENSION CUM MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14082001980014",
+                "2014-04-30",
+                "WAIVER LETTER",
+                null
+              ],
+              [
+                "17020801950018",
+                "2017-02-06",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935836532475135,
@@ -1089,7 +2569,51 @@
         1109347275,
         null,
         null,
-        []
+        [
+          [
+            "RBL 1108 &EXT",
+            "New Grant Lot",
+            "C6136715",
+            [
+              [
+                "UB6512569",
+                "1996-01-16",
+                "LOAN AGREEMENT",
+                "45207000.0"
+              ],
+              [
+                "UB6517721",
+                "1996-01-16",
+                "MORTGAGE",
+                "45207000.0"
+              ],
+              [
+                "07041902210539",
+                "2007-04-04",
+                "RELEASE",
+                null
+              ],
+              [
+                "07060501280011",
+                "2007-05-31",
+                "EXTENSION CUM MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14082001980014",
+                "2014-04-30",
+                "WAIVER LETTER",
+                null
+              ],
+              [
+                "17020801950018",
+                "2017-02-06",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935803531809835,
@@ -1108,7 +2632,51 @@
         1109348227,
         "HK INTERNATIONAL SCHOOL MIDDLE SCHOOL",
         null,
-        []
+        [
+          [
+            "RBL 1108 &EXT",
+            "New Grant Lot",
+            "C6136715",
+            [
+              [
+                "UB6512569",
+                "1996-01-16",
+                "LOAN AGREEMENT",
+                "45207000.0"
+              ],
+              [
+                "UB6517721",
+                "1996-01-16",
+                "MORTGAGE",
+                "45207000.0"
+              ],
+              [
+                "07041902210539",
+                "2007-04-04",
+                "RELEASE",
+                null
+              ],
+              [
+                "07060501280011",
+                "2007-05-31",
+                "EXTENSION CUM MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14082001980014",
+                "2014-04-30",
+                "WAIVER LETTER",
+                null
+              ],
+              [
+                "17020801950018",
+                "2017-02-06",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935826881688736,
@@ -1146,7 +2714,63 @@
         1910268920,
         null,
         null,
-        []
+        [
+          [
+            "RBL 188",
+            "New Grant Lot",
+            "C4712245",
+            [
+              [
+                "UB101505",
+                "1926-06-28",
+                "MORTGAGE",
+                "10000.0"
+              ],
+              [
+                "UB124507",
+                "1931-04-01",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB138633",
+                "1933-08-17",
+                "ASSIGNMENT",
+                "15000.0"
+              ],
+              [
+                "UB172956",
+                "1946-05-15",
+                "ASSIGNMENT",
+                "80000.0"
+              ],
+              [
+                "UB188427",
+                "1948-12-30",
+                "ASSIGNMENT",
+                "210000.0"
+              ],
+              [
+                "UB270276",
+                "1958-01-07",
+                "ASSIGNMENT",
+                "285000.0"
+              ],
+              [
+                "UB1021783",
+                "1973-09-17",
+                "DEED OF VARIATION OF CROWN LEASE",
+                null
+              ],
+              [
+                "UB1291288",
+                "1975-05-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935776708434623,
@@ -1165,7 +2789,63 @@
         1910268922,
         null,
         null,
-        []
+        [
+          [
+            "RBL 188",
+            "New Grant Lot",
+            "C4712245",
+            [
+              [
+                "UB101505",
+                "1926-06-28",
+                "MORTGAGE",
+                "10000.0"
+              ],
+              [
+                "UB124507",
+                "1931-04-01",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB138633",
+                "1933-08-17",
+                "ASSIGNMENT",
+                "15000.0"
+              ],
+              [
+                "UB172956",
+                "1946-05-15",
+                "ASSIGNMENT",
+                "80000.0"
+              ],
+              [
+                "UB188427",
+                "1948-12-30",
+                "ASSIGNMENT",
+                "210000.0"
+              ],
+              [
+                "UB270276",
+                "1958-01-07",
+                "ASSIGNMENT",
+                "285000.0"
+              ],
+              [
+                "UB1021783",
+                "1973-09-17",
+                "DEED OF VARIATION OF CROWN LEASE",
+                null
+              ],
+              [
+                "UB1291288",
+                "1975-05-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9935792541277524,

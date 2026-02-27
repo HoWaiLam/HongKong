@@ -63,7 +63,57 @@
         1103048958,
         null,
         null,
-        []
+        [
+          [
+            "DD1 MWL 40",
+            "Old Schedule Lot",
+            "C6018479",
+            [
+              [
+                "IS41127",
+                "1938-04-19",
+                "C.C. MORTGAGE",
+                "60.0"
+              ],
+              [
+                "IS45563",
+                "1940-11-02",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS55553",
+                "1950-10-13",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS56425",
+                "1951-05-09",
+                "-",
+                "1000.0"
+              ],
+              [
+                "IS70276",
+                "1960-03-31",
+                "-",
+                "1500.0"
+              ],
+              [
+                "IS94495",
+                "1978-06-19",
+                "STATUTORY DECLARATION BY HO HUNG CHAN ALIAS HO SAM FAT",
+                null
+              ],
+              [
+                "IS209914",
+                "1994-03-22",
+                "STATUTORY DECLARATION BY HO HUNG CHAN ALIAS HO SAM FAT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989462229894653,

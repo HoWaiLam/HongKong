@@ -25,7 +25,231 @@
         1100009445,
         "HONG KONG CEMENT",
         "100 TAM KON SHAN ROAD",
-        []
+        [
+          [
+            "TYTL 119",
+            "New Grant Lot",
+            "C4759167",
+            [
+              [
+                "TW1001240",
+                "1995-05-11",
+                "LETTER",
+                null
+              ],
+              [
+                "TW1086163",
+                "1996-09-10",
+                "LEASE WITH PLAN FOR 6 YEARS FROM 3.8.1996 TO 2.8.2002",
+                null
+              ],
+              [
+                "TW1130158",
+                "1996-12-20",
+                "LEASE WITH PLAN FOR 6 YEARS FROM 15.11.1996",
+                null
+              ],
+              [
+                "TW1110620",
+                "1997-02-03",
+                "LETTER",
+                null
+              ],
+              [
+                "TW1122584",
+                "1997-03-25",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW1168533",
+                "1997-09-11",
+                "LEASE WITH PLAN RE PORTION FOR 30 YEARS FROM 11.9.1997",
+                null
+              ],
+              [
+                "TW1172866",
+                "1997-09-11",
+                "SUPPLEMENTAL LEASE TO M/N 1130158",
+                null
+              ],
+              [
+                "TW1172867",
+                "1997-09-11",
+                "SUPPLEMENTAL LEASE TO M/N 1086163",
+                null
+              ],
+              [
+                "TW1168531",
+                "1997-09-11",
+                "MEMORANDUM OF SALE",
+                "10238246.0"
+              ],
+              [
+                "TW1168532",
+                "1997-09-11",
+                "ASSIGNMENT",
+                "10238246.0"
+              ],
+              [
+                "TW1393268",
+                "2001-02-01",
+                "LEASE RE PORTION",
+                null
+              ],
+              [
+                "TW1423417",
+                "2001-08-31",
+                "EQUITABLE ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "TW1511553",
+                "2003-02-05",
+                "WAIVER LETTER RE PORTION",
+                null
+              ],
+              [
+                "TW1511554",
+                "2003-02-05",
+                "WAIVER LETTER RE PORTION",
+                null
+              ],
+              [
+                "05053100720022",
+                "2005-05-23",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "11011800860016",
+                "2006-02-09",
+                "LEASE WITH PLAN",
+                "THE RENT IS $385,084.75 PER MONTH"
+              ],
+              [
+                "11012101980060",
+                "2008-01-10",
+                "LEASE WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "11011800860049",
+                "2008-12-08",
+                "LEASE WITH PLAN RE PORTION",
+                "THE RENT IS $132,000.00 PER MONTH"
+              ],
+              [
+                "11070600690061",
+                "2011-06-22",
+                "RELEASE",
+                null
+              ],
+              [
+                "11091601040012",
+                "2011-09-09",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "11092600520020",
+                "2011-09-19",
+                "LEASE WITH PLAN RE PORTION",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "13071101690014",
+                "2013-06-20",
+                "WAIVER LETTER",
+                null
+              ],
+              [
+                "13071900810033",
+                "2013-07-15",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "13073100590030",
+                "2013-07-19",
+                "LEASE WITH PLAN",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "15111600630017",
+                "2015-11-05",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "18030900810019",
+                "2015-11-12",
+                "LEASE WITH PLAN RE THE PORTION",
+                "THE RENT IS $194,400.00 PER MONTH"
+              ],
+              [
+                "15122800730108",
+                "2015-12-18",
+                "WAVIER LETTER",
+                null
+              ],
+              [
+                "18121900530039",
+                "2018-11-30",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "19022800580025",
+                "2019-02-19",
+                "LEASE WITH PLAN RE PORTION",
+                "THE RENT IS $880,000.00 PER MONTH"
+              ],
+              [
+                "23032902330036",
+                "2023-02-27",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "23032902330049",
+                "2023-02-27",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "24121900330028",
+                "2024-11-29",
+                "LEASE WITH PLAN RE PORTION",
+                "THE RENT IS $270,000.00 PER MONTH"
+              ],
+              [
+                "24121900330039",
+                "2024-11-29",
+                "AGREEMENT TO RENEWAL WITH PLAN RE PORTION",
+                "THE RENT IS $350,000.00 PER MONTH"
+              ],
+              [
+                "25071000450027",
+                "2025-06-09",
+                "TENANCY AGREEMENT WITH PLAN RE PORTION",
+                "THE RENT IS $450,000.00 PER MONTH"
+              ],
+              [
+                "25071000450038",
+                "2025-06-09",
+                "AGREEMENT TO RENEWAL WITH PLAN RE PORTION",
+                "THE RENT IS $470,000.00 PER MONTH"
+              ],
+              [
+                "25082700450031",
+                "2025-08-08",
+                "AGREEMENT TO RENEWAL RE PORTION",
+                "THE RENT IS $880,000.00 PER MONTH"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991218719657135,
@@ -44,7 +268,45 @@
         1100009452,
         null,
         "98 TAM KON SHAN ROAD",
-        []
+        [
+          [
+            "TYTL 102",
+            "New Grant Lot",
+            "C4824176",
+            [
+              [
+                "TW1423204",
+                "2001-09-01",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "419970000.0"
+              ],
+              [
+                "TW1423987",
+                "2001-09-01",
+                "ASSIGNMENT",
+                "419970000.0"
+              ],
+              [
+                "10072600550303",
+                "2010-06-21",
+                "ORDER NO. CCOS/RT/001017/10/NT BY THE BUILDING AUTHORITY UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "15081801900010",
+                "2015-08-06",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "25080601300328",
+                "2025-07-23",
+                "ORDER NO. \"C/TD/002607/25/NT\" UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912297897321865,
@@ -63,7 +325,87 @@
         1100009511,
         null,
         "14 TAM KON SHAN ROAD",
-        []
+        [
+          [
+            "TYTL 15",
+            "New Grant Lot",
+            "C4758551",
+            [
+              [
+                "TW181382",
+                "1979-09-11",
+                "TSING YI LICENCE AGREEMENT NO.4",
+                null
+              ],
+              [
+                "TW653164",
+                "1986-09-02",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW1249744",
+                "1998-11-19",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1334798",
+                "2000-02-28",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "05062401110032",
+                "2005-04-06",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "05052702180012",
+                "2005-04-06",
+                "LEGAL CHARGE",
+                "8000000.0"
+              ],
+              [
+                "06011600290013",
+                "2005-12-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "06062400610022",
+                "2006-06-05",
+                "FIRST LEGAL CHARGE",
+                "ALL MONEYS IN RESPECT OF GENERAL LOAN/CREDIT FACILITIES"
+              ],
+              [
+                "12123102810588",
+                "2012-12-13",
+                "SECOND MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "13041800710042",
+                "2013-04-03",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS IN RESPECT OF GENERAL LOAN/CREDIT FACILITIES"
+              ],
+              [
+                "13041800710050",
+                "2013-04-05",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "13090402320131",
+                "2013-08-28",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913387529008126,
@@ -82,7 +424,45 @@
         1100009565,
         null,
         "98 TAM KON SHAN ROAD",
-        []
+        [
+          [
+            "TYTL 102",
+            "New Grant Lot",
+            "C4824176",
+            [
+              [
+                "TW1423204",
+                "2001-09-01",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "419970000.0"
+              ],
+              [
+                "TW1423987",
+                "2001-09-01",
+                "ASSIGNMENT",
+                "419970000.0"
+              ],
+              [
+                "10072600550303",
+                "2010-06-21",
+                "ORDER NO. CCOS/RT/001017/10/NT BY THE BUILDING AUTHORITY UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "15081801900010",
+                "2015-08-06",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "25080601300328",
+                "2025-07-23",
+                "ORDER NO. \"C/TD/002607/25/NT\" UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912263426874672,
@@ -101,7 +481,14 @@
         1100009583,
         null,
         "72 TAM KON SHAN ROAD",
-        []
+        [
+          [
+            "TYTL 196",
+            "New Grant Lot",
+            "D4007052",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9912840322067527,
@@ -177,7 +564,45 @@
         1100009617,
         null,
         "98 TAM KON SHAN ROAD",
-        []
+        [
+          [
+            "TYTL 102",
+            "New Grant Lot",
+            "C4824176",
+            [
+              [
+                "TW1423204",
+                "2001-09-01",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "419970000.0"
+              ],
+              [
+                "TW1423987",
+                "2001-09-01",
+                "ASSIGNMENT",
+                "419970000.0"
+              ],
+              [
+                "10072600550303",
+                "2010-06-21",
+                "ORDER NO. CCOS/RT/001017/10/NT BY THE BUILDING AUTHORITY UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "15081801900010",
+                "2015-08-06",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "25080601300328",
+                "2025-07-23",
+                "ORDER NO. \"C/TD/002607/25/NT\" UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912318605848078,
@@ -215,7 +640,21 @@
         1100009623,
         null,
         "88 TAM KON SHAN ROAD",
-        []
+        [
+          [
+            "TYTL 155",
+            "New Grant Lot",
+            "C6139815",
+            [
+              [
+                "TW1453707",
+                "2002-03-01",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991258988439781,
@@ -234,7 +673,21 @@
         1100009626,
         null,
         "64 TAM KON SHAN ROAD",
-        []
+        [
+          [
+            "TYTL 145",
+            "New Grant Lot",
+            "C6693746",
+            [
+              [
+                "TW1453710",
+                "2002-03-01",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912994613940191,
@@ -253,7 +706,33 @@
         1100009638,
         null,
         "66 TAM KON SHAN ROAD",
-        []
+        [
+          [
+            "TYTL 143",
+            "New Grant Lot",
+            "C4759317",
+            [
+              [
+                "TW1439336",
+                "2001-11-13",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW1453715",
+                "2002-03-01",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW1462135",
+                "2002-04-19",
+                "ASSIGNMENT",
+                "800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912962681828363,
@@ -291,7 +770,21 @@
         1100009648,
         null,
         "62 TAM KON SHAN ROAD",
-        []
+        [
+          [
+            "TYTL 142",
+            "New Grant Lot",
+            "C5279798",
+            [
+              [
+                "TW1453711",
+                "2002-02-22",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913032130544088,
@@ -329,7 +822,45 @@
         1100009657,
         null,
         "98 TAM KON SHAN ROAD",
-        []
+        [
+          [
+            "TYTL 102",
+            "New Grant Lot",
+            "C4824176",
+            [
+              [
+                "TW1423204",
+                "2001-09-01",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "419970000.0"
+              ],
+              [
+                "TW1423987",
+                "2001-09-01",
+                "ASSIGNMENT",
+                "419970000.0"
+              ],
+              [
+                "10072600550303",
+                "2010-06-21",
+                "ORDER NO. CCOS/RT/001017/10/NT BY THE BUILDING AUTHORITY UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "15081801900010",
+                "2015-08-06",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "25080601300328",
+                "2025-07-23",
+                "ORDER NO. \"C/TD/002607/25/NT\" UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912435469812058,
@@ -424,7 +955,21 @@
         1100009683,
         null,
         "74 - 76 TAM KON SHAN ROAD",
-        []
+        [
+          [
+            "TYTL 147",
+            "New Grant Lot",
+            "C5942854",
+            [
+              [
+                "TW1453708",
+                "2002-03-01",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991278379115463,
@@ -823,7 +1368,27 @@
         1100010362,
         "SKH TSING YI CHU YAN PRIMARY SCHOOL",
         null,
-        []
+        [
+          [
+            "TYTL 178",
+            "New Grant Lot",
+            "D1355347",
+            [
+              [
+                "09041602340012",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10010801120022",
+                "2009-12-30",
+                "FOOTBRIDGE MAINTENANCE AGREEMENT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913406744752473,
@@ -842,7 +1407,27 @@
         1100010369,
         null,
         null,
-        []
+        [
+          [
+            "TYTL 178",
+            "New Grant Lot",
+            "D1355347",
+            [
+              [
+                "09041602340012",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10010801120022",
+                "2009-12-30",
+                "FOOTBRIDGE MAINTENANCE AGREEMENT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991334314123216,
@@ -899,7 +1484,27 @@
         1100010463,
         "WANG SIN HOUSE",
         "9 LIU TO ROAD",
-        []
+        [
+          [
+            "TYTL 178",
+            "New Grant Lot",
+            "D1355347",
+            [
+              [
+                "09041602340012",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10010801120022",
+                "2009-12-30",
+                "FOOTBRIDGE MAINTENANCE AGREEMENT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991337346914512,
@@ -975,7 +1580,27 @@
         1100010524,
         "WANG SUM HOUSE",
         "9 LIU TO ROAD",
-        []
+        [
+          [
+            "TYTL 178",
+            "New Grant Lot",
+            "D1355347",
+            [
+              [
+                "09041602340012",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10010801120022",
+                "2009-12-30",
+                "FOOTBRIDGE MAINTENANCE AGREEMENT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913421185812812,
@@ -994,7 +1619,27 @@
         1100010580,
         "WANG YEE HOUSE",
         "9 LIU TO ROAD",
-        []
+        [
+          [
+            "TYTL 178",
+            "New Grant Lot",
+            "D1355347",
+            [
+              [
+                "09041602340012",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10010801120022",
+                "2009-12-30",
+                "FOOTBRIDGE MAINTENANCE AGREEMENT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913338343343157,
@@ -1032,7 +1677,27 @@
         1100010717,
         null,
         "9 LIU TO ROAD",
-        []
+        [
+          [
+            "TYTL 178",
+            "New Grant Lot",
+            "D1355347",
+            [
+              [
+                "09041602340012",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10010801120022",
+                "2009-12-30",
+                "FOOTBRIDGE MAINTENANCE AGREEMENT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913419869607563,
@@ -1165,7 +1830,33 @@
         1100011214,
         null,
         "3 LIU TO ROAD",
-        []
+        [
+          [
+            "TYTL 134",
+            "New Grant Lot",
+            "C4759269",
+            [
+              [
+                "TW1200561",
+                "1998-03-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1205751",
+                "1998-04-30",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW1206546",
+                "1998-05-06",
+                "STATUTORY DECLARATION BY TSE TSAT KUEN, JEFF",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913386072885666,
@@ -1203,7 +1894,33 @@
         1100011278,
         "MOUNT HAVEN BLOCK 6",
         "3 LIU TO ROAD",
-        []
+        [
+          [
+            "TYTL 134",
+            "New Grant Lot",
+            "C4759269",
+            [
+              [
+                "TW1200561",
+                "1998-03-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1205751",
+                "1998-04-30",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW1206546",
+                "1998-05-06",
+                "STATUTORY DECLARATION BY TSE TSAT KUEN, JEFF",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991340522726053,
@@ -1260,7 +1977,27 @@
         1100015079,
         "CHEUNG WANG ESTATE CAR PARK",
         null,
-        []
+        [
+          [
+            "TYTL 178",
+            "New Grant Lot",
+            "D1355347",
+            [
+              [
+                "09041602340012",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10010801120022",
+                "2009-12-30",
+                "FOOTBRIDGE MAINTENANCE AGREEMENT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991341068552862,

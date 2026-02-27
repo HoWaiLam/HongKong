@@ -6,7 +6,20 @@
         1103043448,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 3",
+            "New Grant Lot",
+            "C4278706",
+            []
+          ],
+          [
+            "CKWL 5",
+            "New Grant Lot",
+            "C4278716",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.990655551968307,
@@ -25,7 +38,14 @@
         1103043449,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 3",
+            "New Grant Lot",
+            "C4278706",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.990642242002775,
@@ -44,7 +64,14 @@
         1103043468,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 3",
+            "New Grant Lot",
+            "C4278706",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9906233364760848,
@@ -63,7 +90,14 @@
         1103043470,
         null,
         "3A TSO WAN",
-        []
+        [
+          [
+            "CKWL 3",
+            "New Grant Lot",
+            "C4278706",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.99061984827745,
@@ -82,7 +116,14 @@
         1103043473,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 3",
+            "New Grant Lot",
+            "C4278706",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.990616058872443,
@@ -101,7 +142,14 @@
         1103043477,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 3",
+            "New Grant Lot",
+            "C4278706",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.990622693097738,
@@ -120,7 +168,57 @@
         1103043535,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 3",
+            "New Grant Lot",
+            "C4278706",
+            []
+          ],
+          [
+            "DD357 LL 1",
+            "Old Schedule Lot",
+            "C1427401",
+            [
+              [
+                "TW4438",
+                "1910-04-15",
+                "-",
+                null
+              ],
+              [
+                "TW1022723",
+                "1995-05-16",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "TW1285212",
+                "1999-05-15",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "56453760.0"
+              ],
+              [
+                "TW1291032",
+                "1999-06-21",
+                "ASSIGNMENT",
+                "56453760.0"
+              ],
+              [
+                "TW1325552",
+                "1999-12-10",
+                "DEED OF RESTRICTIVE COVENANT WITH PLANS",
+                null
+              ],
+              [
+                "17092601830018",
+                "2017-08-25",
+                "DEED OF VARIATION OF DEED OF RESTRICTIVE COVENANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9906458715372775,
@@ -139,7 +237,14 @@
         1103043536,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 3",
+            "New Grant Lot",
+            "C4278706",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9906442952070718,
@@ -158,7 +263,14 @@
         1810129838,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 3",
+            "New Grant Lot",
+            "C4278706",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9906496187467786,
@@ -177,7 +289,20 @@
         1810129839,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 3",
+            "New Grant Lot",
+            "C4278706",
+            []
+          ],
+          [
+            "CKWL 5",
+            "New Grant Lot",
+            "C4278716",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9906526419547927,
@@ -196,7 +321,20 @@
         1810129840,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 3",
+            "New Grant Lot",
+            "C4278706",
+            []
+          ],
+          [
+            "CKWL 5",
+            "New Grant Lot",
+            "C4278716",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9906529254499308,
@@ -215,7 +353,14 @@
         1810129841,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 5",
+            "New Grant Lot",
+            "C4278716",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9906535794596643,
@@ -234,7 +379,20 @@
         1810130535,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 3",
+            "New Grant Lot",
+            "C4278706",
+            []
+          ],
+          [
+            "CKWL 5",
+            "New Grant Lot",
+            "C4278716",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9906525768323295,

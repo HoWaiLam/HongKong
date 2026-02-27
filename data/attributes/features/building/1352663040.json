@@ -6,7 +6,14 @@
         1109345574,
         null,
         null,
-        []
+        [
+          [
+            "HTVL 80",
+            "Old Schedule Lot",
+            "C6156814",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939800810976152,
@@ -101,7 +108,99 @@
         1109345698,
         null,
         null,
-        []
+        [
+          [
+            "HTVL 182",
+            "Old Schedule Lot",
+            "C4294328",
+            [
+              [
+                "UB1768104",
+                "1979-10-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "350000.0"
+              ],
+              [
+                "UB1768105",
+                "1979-10-01",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHU YAU MING OF 1/3 SHARE",
+                "350000.0"
+              ],
+              [
+                "UB1797156",
+                "1979-11-19",
+                "AGREEMENT BY CHU YAU MING OF 1/3 SHARE",
+                "750000.0"
+              ],
+              [
+                "UB1801873",
+                "1979-11-19",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHU WAI OF 1/3 SHARE",
+                "2500000.0"
+              ],
+              [
+                "UB2184371",
+                "1980-09-29",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "UB2226439",
+                "1980-09-29",
+                "SUPPLEMENTAL AGREEMENT BY CHU YAU MING OF 1/3 SHARE",
+                null
+              ],
+              [
+                "UB2254709",
+                "1981-06-08",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "UB2184372",
+                "1981-10-27",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "UB2184375",
+                "1981-11-17",
+                "ASSIGNMENT",
+                "450000.0"
+              ],
+              [
+                "UB2184373",
+                "1981-11-17",
+                "AGREEMENT",
+                "100000.0"
+              ],
+              [
+                "UB2226440",
+                "1981-12-29",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "UB2226442",
+                "1982-02-10",
+                "ASSIGNMENT",
+                "750000.0"
+              ],
+              [
+                "UB2254711",
+                "1982-04-06",
+                "ASSIGNMENT",
+                "2500000.0"
+              ],
+              [
+                "UB2254710",
+                "1982-04-06",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939864132727845,
@@ -215,7 +314,14 @@
         1109345887,
         null,
         "10A HOK TSUI VILLAGE",
-        []
+        [
+          [
+            "HTVL 152",
+            "Old Schedule Lot",
+            "C4294119",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939676996730145,
@@ -310,7 +416,14 @@
         1109345957,
         null,
         "1E HOK TSUI VILLAGE",
-        []
+        [
+          [
+            "HTVL 22",
+            "Old Schedule Lot",
+            "C4293356",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939752274037899,
@@ -405,7 +518,45 @@
         1109346041,
         null,
         null,
-        []
+        [
+          [
+            "HTVL 184",
+            "Old Schedule Lot",
+            "C4294343",
+            [
+              [
+                "UB1694871",
+                "1979-04-30",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHU CHUEN TAI",
+                "950000.0"
+              ],
+              [
+                "UB2173539",
+                "1980-09-29",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "UB2173540",
+                "1981-09-16",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "UB2173543",
+                "1981-10-20",
+                "ASSIGNMENT",
+                "1070000.0"
+              ],
+              [
+                "UB2173541",
+                "1981-10-20",
+                "AGREEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939839905997365,
@@ -462,7 +613,14 @@
         1109346123,
         "CAPE DAGUILAR SUBMARINE CABLE STATION",
         null,
-        []
+        [
+          [
+            "RBL 1226",
+            "New Grant Lot",
+            "D6235492",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9941822304053491,
@@ -557,7 +715,14 @@
         1109346258,
         "DAG 3",
         null,
-        []
+        [
+          [
+            "RBL 1225",
+            "New Grant Lot",
+            "D6206802",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9940151796669752,
@@ -595,7 +760,14 @@
         1109346294,
         null,
         null,
-        []
+        [
+          [
+            "HTVL 22",
+            "Old Schedule Lot",
+            "C4293356",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939802278599634,
@@ -633,7 +805,14 @@
         1109346347,
         null,
         null,
-        []
+        [
+          [
+            "HTVL 166",
+            "Old Schedule Lot",
+            "C4294209",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939658977262518,
@@ -728,7 +907,82 @@
         1109346455,
         null,
         "7 HOK TSUI VILLAGE",
-        []
+        [
+          [
+            "HTVL 158",
+            "Old Schedule Lot",
+            "C4294148",
+            [
+              [
+                "UB1746236",
+                "1979-08-16",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHU KIM HUNG",
+                "1000000.0"
+              ],
+              [
+                "UB2161290",
+                "1980-09-29",
+                "SUPPLEMENTAL AGREEMENT TO MEM.NO. 1746236",
+                null
+              ],
+              [
+                "UB2161291",
+                "1981-06-08",
+                "-",
+                null
+              ],
+              [
+                "UB2161293",
+                "1981-09-11",
+                "-",
+                "1000000.0"
+              ],
+              [
+                "UB2161292",
+                "1981-09-11",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "HTVL 159",
+            "Old Schedule Lot",
+            "C4294158",
+            [
+              [
+                "UB1746236",
+                "1979-08-16",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHU KIM HUNG",
+                "1000000.0"
+              ],
+              [
+                "UB2161290",
+                "1980-09-29",
+                "SUPPLEMENTAL AGREEMENT TO MEM.NO. 1746236",
+                null
+              ],
+              [
+                "UB2161291",
+                "1981-06-08",
+                "-",
+                null
+              ],
+              [
+                "UB2161293",
+                "1981-09-11",
+                "-",
+                "1000000.0"
+              ],
+              [
+                "UB2161292",
+                "1981-09-11",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993970776131591,
@@ -747,7 +1001,14 @@
         1109346482,
         null,
         null,
-        []
+        [
+          [
+            "HTVL 69",
+            "Old Schedule Lot",
+            "C5184471",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.993968339437356,
@@ -766,7 +1027,51 @@
         1109346501,
         null,
         null,
-        []
+        [
+          [
+            "HTVL 68",
+            "Old Schedule Lot",
+            "C4293633",
+            [
+              [
+                "UB553901",
+                "1966-09-21",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "UB1694870",
+                "1979-04-30",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHU WAI JAN",
+                "300000.0"
+              ],
+              [
+                "UB2391268",
+                "1982-12-07",
+                "NOVATION AGREEMENT",
+                null
+              ],
+              [
+                "UB2391267",
+                "1982-12-21",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "UB2391269",
+                "1983-03-02",
+                "-",
+                "300000.0"
+              ]
+            ]
+          ],
+          [
+            "HTVL 73",
+            "Old Schedule Lot",
+            "C4293666",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939680153622912,
@@ -785,7 +1090,14 @@
         1109346504,
         "CAPE DAGUILAR SATELLITE EARTH STATION MAIN BUILDING",
         null,
-        []
+        [
+          [
+            "RBL 1225",
+            "New Grant Lot",
+            "D6206802",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9940219866547788,
@@ -975,7 +1287,14 @@
         1109346692,
         null,
         null,
-        []
+        [
+          [
+            "HTVL 24",
+            "Old Schedule Lot",
+            "C4293361",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939790734944947,
@@ -994,7 +1313,14 @@
         1109346727,
         null,
         "30 HOK TSUI VILLAGE",
-        []
+        [
+          [
+            "HTVL 82",
+            "Old Schedule Lot",
+            "C5184481",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939844813290295,
@@ -1032,7 +1358,20 @@
         1109346765,
         null,
         "32 HOK TSUI VILLAGE",
-        []
+        [
+          [
+            "HTVL 24",
+            "Old Schedule Lot",
+            "C4293361",
+            []
+          ],
+          [
+            "HTVL 27",
+            "Old Schedule Lot",
+            "C4293391",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939800846227254,
@@ -1127,7 +1466,75 @@
         1109346912,
         null,
         "6 HOK TSUI VILLAGE",
-        []
+        [
+          [
+            "HTVL 160",
+            "Old Schedule Lot",
+            "C4294164",
+            [
+              [
+                "UB1694872",
+                "1979-04-30",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHU SING, CHU KING WAN & CHU SUM",
+                "960000.0"
+              ],
+              [
+                "UB2173534",
+                "1980-09-29",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "UB2173535",
+                "1981-09-10",
+                "-",
+                null
+              ],
+              [
+                "UB2173538",
+                "1981-10-16",
+                "-",
+                "515000.0"
+              ],
+              [
+                "UB2173537",
+                "1981-10-16",
+                "SUPPLEMENTAL AGREEMENT RE 1/2 SHARE",
+                null
+              ],
+              [
+                "UB2173536",
+                "1981-10-16",
+                "-",
+                null
+              ],
+              [
+                "UB2258718",
+                "1981-12-15",
+                "-",
+                null
+              ],
+              [
+                "UB2258720",
+                "1982-04-19",
+                "-",
+                "445000.0"
+              ],
+              [
+                "UB2258719",
+                "1982-04-19",
+                "-",
+                null
+              ],
+              [
+                "18050201250086",
+                "2018-03-22",
+                "ORDER NO. \"C/TA/000579/18/HK\" BY THE BUILDING AUTHORITY UNDER S. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939698684210918,
@@ -1146,7 +1553,14 @@
         1109346956,
         null,
         null,
-        []
+        [
+          [
+            "HTVL 87",
+            "Old Schedule Lot",
+            "C4767020",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939842260443446,
@@ -1165,7 +1579,69 @@
         1109346959,
         null,
         "10 HOK TSUI VILLAGE",
-        []
+        [
+          [
+            "HTVL 153",
+            "Old Schedule Lot",
+            "C4294123",
+            [
+              [
+                "UB1694867",
+                "1979-05-01",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHU CHE WAI",
+                "950000.0"
+              ],
+              [
+                "UB2173544",
+                "1980-09-29",
+                "SUPPLEMENTAL AGREEMENT TO AGREEMENT FOR SALE AND PURCHASE MEM. NO. UB1694867 BY CHU CHE WAI",
+                null
+              ],
+              [
+                "UB2173545",
+                "1981-09-10",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "UB2173546",
+                "1981-10-16",
+                "SUPPLEMENTAL AGREEMENT RE 1/2 SHARE BY CHU CHE WAI",
+                null
+              ],
+              [
+                "UB2173547",
+                "1981-10-16",
+                "DEED OF APPOINTMENT",
+                null
+              ],
+              [
+                "UB2173548",
+                "1981-10-16",
+                "ASSIGNMENT",
+                "465000.0"
+              ],
+              [
+                "UB2263875",
+                "1981-12-01",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "UB2263877",
+                "1982-04-30",
+                "ASSIGNMENT",
+                "485000.0"
+              ],
+              [
+                "UB2263876",
+                "1982-04-30",
+                "DEED OF APPOINTMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993968764043929,
@@ -1203,7 +1679,45 @@
         1109347002,
         null,
         "5 HOK TSUI VILLAGE",
-        []
+        [
+          [
+            "HTVL 165",
+            "Old Schedule Lot",
+            "C6529776",
+            [
+              [
+                "UB553901",
+                "1966-09-21",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "UB1694870",
+                "1979-04-30",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHU WAI JAN",
+                "300000.0"
+              ],
+              [
+                "UB2391268",
+                "1982-12-07",
+                "NOVATION AGREEMENT",
+                null
+              ],
+              [
+                "UB2391267",
+                "1982-12-21",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "UB2391269",
+                "1983-03-02",
+                "-",
+                "300000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939666629901227,
@@ -1279,7 +1793,14 @@
         1109347091,
         null,
         null,
-        []
+        [
+          [
+            "HTVL 86",
+            "Old Schedule Lot",
+            "C5944603",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9939835986137404,
@@ -1393,7 +1914,14 @@
         1109347243,
         null,
         null,
-        []
+        [
+          [
+            "HTVL 180",
+            "Old Schedule Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.993980227831931,
@@ -1659,7 +2187,20 @@
         1109347420,
         null,
         "20 HOK TSUI VILLAGE",
-        []
+        [
+          [
+            "HTVL 80",
+            "Old Schedule Lot",
+            "C6156814",
+            []
+          ],
+          [
+            "HTVL 81",
+            "Old Schedule Lot",
+            "C6148680",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.993983127435541,
@@ -1697,7 +2238,14 @@
         1109347529,
         "STANDBY ENGINE ROOM",
         null,
-        []
+        [
+          [
+            "RBL 1225",
+            "New Grant Lot",
+            "D6206802",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9940181975928697,
@@ -1792,7 +2340,51 @@
         1109347693,
         null,
         null,
-        []
+        [
+          [
+            "HTVL 67",
+            "Old Schedule Lot",
+            "C4767018",
+            []
+          ],
+          [
+            "HTVL 68",
+            "Old Schedule Lot",
+            "C4293633",
+            [
+              [
+                "UB553901",
+                "1966-09-21",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "UB1694870",
+                "1979-04-30",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHU WAI JAN",
+                "300000.0"
+              ],
+              [
+                "UB2391268",
+                "1982-12-07",
+                "NOVATION AGREEMENT",
+                null
+              ],
+              [
+                "UB2391267",
+                "1982-12-21",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "UB2391269",
+                "1983-03-02",
+                "-",
+                "300000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939672451468125,
@@ -1849,7 +2441,94 @@
         1109347719,
         null,
         "5A HOK TSUI VILLAGE",
-        []
+        [
+          [
+            "HTVL 161",
+            "Old Schedule Lot",
+            "C6104164",
+            [
+              [
+                "UB1694871",
+                "1979-04-30",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHU CHUEN TAI",
+                "950000.0"
+              ],
+              [
+                "UB2173539",
+                "1980-09-29",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "UB2173540",
+                "1981-09-16",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "UB2173543",
+                "1981-10-20",
+                "ASSIGNMENT",
+                "1070000.0"
+              ],
+              [
+                "UB2173541",
+                "1981-10-20",
+                "AGREEMENT",
+                null
+              ],
+              [
+                "UB2173542",
+                "1981-10-20",
+                "DEED OF APPOINTMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "HTVL 162",
+            "Old Schedule Lot",
+            "C4294172",
+            [
+              [
+                "UB1694871",
+                "1979-04-30",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHU CHUEN TAI",
+                "950000.0"
+              ],
+              [
+                "UB2173539",
+                "1980-09-29",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "UB2173540",
+                "1981-09-16",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "UB2173543",
+                "1981-10-20",
+                "ASSIGNMENT",
+                "1070000.0"
+              ],
+              [
+                "UB2173542",
+                "1981-10-20",
+                "DEED OF APPOINTMENT",
+                null
+              ],
+              [
+                "UB2173541",
+                "1981-10-20",
+                "AGREEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939685577113677,
@@ -1868,7 +2547,14 @@
         1109347754,
         null,
         null,
-        []
+        [
+          [
+            "HTVL 24",
+            "Old Schedule Lot",
+            "C4293361",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.993978423165679,
@@ -1906,7 +2592,136 @@
         1109347767,
         null,
         "2 HOK TSUI VILLAGE",
-        []
+        [
+          [
+            "HTVL 167",
+            "Old Schedule Lot",
+            "C4294210",
+            [
+              [
+                "UB553901",
+                "1966-09-21",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "UB653397",
+                "1968-11-19",
+                "-",
+                "8000.0"
+              ],
+              [
+                "UB2299188",
+                "1975-09-11",
+                "DEED POLL BY SIU WAI CHEUNG FORMERLY KNOWN AS LAU YUNG",
+                null
+              ],
+              [
+                "UB2695365",
+                "1984-12-28",
+                "-",
+                null
+              ],
+              [
+                "UB3135641",
+                "1986-08-21",
+                "-",
+                null
+              ],
+              [
+                "UB5856338",
+                "1993-11-20",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "760000.0"
+              ],
+              [
+                "UB6070640",
+                "1993-12-15",
+                "NOMINATION BY WONG TAK KWONG",
+                null
+              ],
+              [
+                "UB6309643",
+                "1993-12-15",
+                "ASSIGNMENT",
+                "760000.0"
+              ],
+              [
+                "11031801010229",
+                "2011-02-09",
+                "ORDER NO. CWP/S2/100116/11/HK BY THE BUILDING AUTHORITY UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "23111300380049",
+                "2023-09-05",
+                "LETTER OF WITHDRAWAL (ORDER NO. \"CWP/S2/100116/11/HK\")",
+                null
+              ]
+            ]
+          ],
+          [
+            "HTVL 50",
+            "Old Schedule Lot",
+            "C4293516",
+            []
+          ],
+          [
+            "HTVL 51",
+            "Old Schedule Lot",
+            "C5436089",
+            [
+              [
+                "UB553901",
+                "1966-09-21",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "UB653397",
+                "1968-11-19",
+                "-",
+                "8000.0"
+              ],
+              [
+                "UB2299188",
+                "1975-09-11",
+                "DEED POLL BY SIU WAI CHEUNG FORMERLY KNOWN AS LAU YUNG",
+                null
+              ],
+              [
+                "UB2695365",
+                "1984-12-28",
+                "-",
+                null
+              ],
+              [
+                "UB3135641",
+                "1986-08-21",
+                "-",
+                null
+              ],
+              [
+                "UB5856338",
+                "1993-11-20",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "760000.0"
+              ],
+              [
+                "UB6070640",
+                "1993-12-15",
+                "NOMINATION BY WONG TAK KWONG",
+                null
+              ],
+              [
+                "UB6309643",
+                "1993-12-15",
+                "ASSIGNMENT",
+                "760000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939629651242563,
@@ -1944,7 +2759,14 @@
         1109347849,
         null,
         null,
-        []
+        [
+          [
+            "RBL 1226",
+            "New Grant Lot",
+            "D6235492",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9941813053879132,
@@ -1982,7 +2804,14 @@
         1109348000,
         null,
         null,
-        []
+        [
+          [
+            "RBL 1226",
+            "New Grant Lot",
+            "D6235492",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9941821468705332,
@@ -2020,7 +2849,14 @@
         1109348065,
         "DAG 1",
         null,
-        []
+        [
+          [
+            "RBL 1225",
+            "New Grant Lot",
+            "D6206802",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9940224109057125,
@@ -2153,7 +2989,14 @@
         1109348163,
         null,
         null,
-        []
+        [
+          [
+            "RBL 1225",
+            "New Grant Lot",
+            "D6206802",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9940222628697049,

@@ -6,7 +6,63 @@
         1109176361,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 393",
+            "New Grant Lot",
+            "C5906481",
+            [
+              [
+                "25070800740023",
+                "1998-01-06",
+                "PROBATE ALTERED PURSUANT TO ORDER OF MR. DEPUTY REGISTRAR J.WONG DATED 16.8.2019",
+                null
+              ],
+              [
+                "07051502380102",
+                "2007-03-23",
+                "ORDER NO. DH0062/NT/07/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "25070800740045",
+                "2016-05-31",
+                "PROBATE",
+                null
+              ],
+              [
+                "22070400600014",
+                "2022-05-17",
+                "NOTIFICATION LETTER OF COMPLETION OF WORKS  (ORDER NO. \"DH0062/NT/07/C\")",
+                null
+              ],
+              [
+                "25070800740031",
+                "2025-06-10",
+                "VESTING ASSENT",
+                null
+              ],
+              [
+                "25070800740057",
+                "2025-06-10",
+                "VESTING ASSENT",
+                null
+              ],
+              [
+                "25070800740068",
+                "2025-06-10",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "25101001390014",
+                "2025-10-03",
+                "LETTER OF DISCHARGE (ORDER NO.DH0062/NT/07/C)",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877202826734917,
@@ -25,7 +81,57 @@
         1109176494,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 387",
+            "New Grant Lot",
+            "C4099992",
+            [
+              [
+                "IS103373",
+                "1980-12-05",
+                "-",
+                null
+              ],
+              [
+                "IS105274",
+                "1981-02-28",
+                "-",
+                null
+              ],
+              [
+                "IS105272",
+                "1981-02-28",
+                "-",
+                null
+              ],
+              [
+                "IS105273",
+                "1981-02-28",
+                "-",
+                null
+              ],
+              [
+                "15073001760017",
+                "2015-07-17",
+                "ORDER NO. DH0096/NT/15/C BY THE BUILDING AUTHORITY  UNDER SECTION 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "15073001760025",
+                "2015-07-17",
+                "ORDER NO. DH0097/NT/15/C BY THE BUILDING AUTHORITY  UNDER SECTION 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "25062400640226",
+                "2025-06-13",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0096/NT/15/C\" AND \"DH0097/NT/15/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877492436398494,
@@ -44,7 +150,33 @@
         1109176522,
         null,
         null,
-        []
+        [
+          [
+            "DDNPL 238",
+            "New Grant Lot",
+            "C4270703",
+            [
+              [
+                "06022100270014",
+                "2006-02-15",
+                "DEED OF DEDICATION WITH PLAN RE PORTIONS",
+                null
+              ],
+              [
+                "06030100950021",
+                "2006-02-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "07022400210091",
+                "2007-01-03",
+                "TENANCY AGREEMENT WITH PLAN RE SHOP NO. 7A OF G/F OF THE COMMERCIAL DEVELOPMENT OF NP360",
+                "THE RENT IS $32,000.00 PER MONTH"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987966562359411,
@@ -120,7 +252,106 @@
         1109176646,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 111",
+            "Old Schedule Lot",
+            "C5706441",
+            [
+              [
+                "IS5908",
+                "1912-01-13",
+                "-",
+                "175.0"
+              ],
+              [
+                "IS5907",
+                "1912-01-13",
+                "REDEMPTION OF BLOCK GOVERNMENT LEASE MORTGAGE",
+                null
+              ],
+              [
+                "IS28425",
+                "1927-12-17",
+                "-",
+                null
+              ],
+              [
+                "IS60422",
+                "1954-01-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "IS101967",
+                "1980-08-13",
+                "STATUTORY DECLARATION BY MOO TIM LOY OTHERWISE SPELT AS MO TIM LOI",
+                null
+              ],
+              [
+                "IS101968",
+                "1980-08-13",
+                "-",
+                "125452.0"
+              ],
+              [
+                "IS103182",
+                "1980-11-24",
+                "CONVEYANCE ON SALE",
+                "656449.2"
+              ]
+            ]
+          ],
+          [
+            "DD310 LL 112",
+            "Old Schedule Lot",
+            "C4098245",
+            [
+              [
+                "IS5908",
+                "1912-01-13",
+                "-",
+                "175.0"
+              ],
+              [
+                "IS5907",
+                "1912-01-13",
+                "REDEMPTION OF BLOCK GOVERNMENT LEASE MORTGAGE",
+                null
+              ],
+              [
+                "IS28425",
+                "1927-12-17",
+                "-",
+                null
+              ],
+              [
+                "IS60422",
+                "1954-01-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "IS101967",
+                "1980-08-13",
+                "STATUTORY DECLARATION BY MOO TIM LOY OTHERWISE SPELT AS MO TIM LOI",
+                null
+              ],
+              [
+                "IS101968",
+                "1980-08-13",
+                "-",
+                "125452.0"
+              ],
+              [
+                "IS103182",
+                "1980-11-24",
+                "CONVEYANCE ON SALE",
+                "656449.2"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876411076312412,
@@ -158,7 +389,21 @@
         1109176742,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 260",
+            "New Grant Lot",
+            "C4099224",
+            [
+              [
+                "IS66942",
+                "1958-03-17",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876764397797635,
@@ -177,7 +422,81 @@
         1109176789,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 264",
+            "New Grant Lot",
+            "C4099240",
+            [
+              [
+                "IS31811",
+                "1930-05-24",
+                "-",
+                null
+              ],
+              [
+                "IS66491",
+                "1957-11-06",
+                "-",
+                "4500.0"
+              ],
+              [
+                "IS66580",
+                "1957-11-26",
+                "POWER OF ATTORNEY BY LEUNG NANG CHING AND CHANG NANG TAK",
+                null
+              ],
+              [
+                "IS194666",
+                "1991-12-19",
+                "-",
+                null
+              ],
+              [
+                "IS328655",
+                "2004-01-13",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "200000.0"
+              ],
+              [
+                "IS328657",
+                "2004-01-13",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "IS328654",
+                "2004-01-13",
+                "AGREEMENT FOR SALE AND PURCHASE RE 1/2 OF LOTS 304, 313 & 347 IN *",
+                "700000.0"
+              ],
+              [
+                "IS328656",
+                "2004-02-13",
+                "ASSIGNMENT",
+                "700000.0"
+              ],
+              [
+                "IS334959",
+                "2004-06-09",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "05120700680036",
+                "2005-11-07",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "2500000.0"
+              ],
+              [
+                "05120700680042",
+                "2005-11-07",
+                "ASSIGNMENT",
+                "2500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876776587293108,
@@ -253,7 +572,178 @@
         1109177055,
         null,
         "14 LUK WU",
-        []
+        [
+          [
+            "DD310 LL 258",
+            "New Grant Lot",
+            "C4099217",
+            [
+              [
+                "IS31143",
+                "1930-01-13",
+                "-",
+                "500.0"
+              ],
+              [
+                "IS32235",
+                "1930-08-26",
+                "-",
+                "500.0"
+              ],
+              [
+                "IS61280",
+                "1954-08-13",
+                "-",
+                "1000.0"
+              ],
+              [
+                "IS243481",
+                "1997-03-09",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "IS290912",
+                "2000-11-02",
+                "ASSIGNMENT (PREVIOUSLY REGD. BY M/N 287760)",
+                null
+              ],
+              [
+                "IS287760",
+                "2000-11-02",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "IS287759",
+                "2000-11-02",
+                "STATUTORY DECLARATION OF SIK CHI ON OTHERWISE KNOWN AS SO CHI ON",
+                null
+              ],
+              [
+                "IS328371",
+                "2003-05-12",
+                "ASSIGNMENT (PREVIOUSLY REGISTERED BY M/N 317926)",
+                null
+              ],
+              [
+                "IS317926",
+                "2003-05-12",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "06030702270019",
+                "2004-01-05",
+                "DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "07092401980067",
+                "2005-12-05",
+                "DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "06030702270021",
+                "2006-01-18",
+                "CERTIFICATE OF EXEMPTION FROM ESTATE DUTY",
+                null
+              ],
+              [
+                "07092401980079",
+                "2007-09-06",
+                "CERTIFICATE OF EXEMPTION FROM ESTATE DUTY",
+                null
+              ],
+              [
+                "10041402650044",
+                "2010-03-15",
+                "ASSIGNMENT",
+                "1.0"
+              ],
+              [
+                "10041402650033",
+                "2010-03-15",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "1.0"
+              ]
+            ]
+          ],
+          [
+            "DD310 LL 369",
+            "New Grant Lot",
+            "C5346672",
+            [
+              [
+                "IS287761",
+                "2000-11-02",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "IS287759",
+                "2000-11-02",
+                "STATUTORY DECLARATION OF SIK CHI ON OTHERWISE KNOWN AS SO CHI ON",
+                null
+              ],
+              [
+                "IS290913",
+                "2000-11-02",
+                "ASSIGNMENT (PREVIOUSLY REGD. BY M/N 287761)",
+                null
+              ],
+              [
+                "IS317927",
+                "2003-05-12",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "IS328372",
+                "2003-05-12",
+                "ASSIGNMENT (PREVIOUSLY REGISTERED BY M/N IS316927)",
+                null
+              ],
+              [
+                "06030702270019",
+                "2004-01-05",
+                "DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "07092401980067",
+                "2005-12-05",
+                "DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "06030702270021",
+                "2006-01-18",
+                "CERTIFICATE OF EXEMPTION FROM ESTATE DUTY",
+                null
+              ],
+              [
+                "07092401980079",
+                "2007-09-06",
+                "CERTIFICATE OF EXEMPTION FROM ESTATE DUTY",
+                null
+              ],
+              [
+                "10041402650020",
+                "2010-03-15",
+                "ASSIGNMENT",
+                "1.0"
+              ],
+              [
+                "10041402650014",
+                "2010-03-15",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "1.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.98768701722579,
@@ -272,7 +762,51 @@
         1109177133,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 395",
+            "New Grant Lot",
+            "C4100025",
+            [
+              [
+                "IS226515",
+                "1996-01-16",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "IS235683",
+                "1996-10-18",
+                "ORDER NO.DH31/NT/96/C BY THE BUILDING AUTHORITY",
+                null
+              ],
+              [
+                "IS278239",
+                "1999-11-19",
+                "ORDER NO.DH36/NT/99/C UNDER SECTION 27(A) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "IS279496",
+                "2000-01-07",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "06121900890090",
+                "2006-10-23",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "07091901480010",
+                "2007-05-15",
+                "CERTIFIED TRUE COPY OF CERTIFICATE OF CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876868697508132,
@@ -291,7 +825,21 @@
         1109177212,
         null,
         "3B UPPER KEUNG SHAN",
-        []
+        [
+          [
+            "DD310 LL 353",
+            "Old Schedule Lot",
+            "C4099807",
+            [
+              [
+                "IS88569",
+                "1975-07-03",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876759421276033,
@@ -310,7 +858,69 @@
         1109177231,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 249",
+            "New Grant Lot",
+            "C6373506",
+            [
+              [
+                "IS60529",
+                "1954-03-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS82509",
+                "1969-03-01",
+                "CANCELLATION OF MANAGERSHIP",
+                null
+              ],
+              [
+                "IS185205",
+                "1971-07-26",
+                "NOTICE OF DEATH OF SIK TAK HEUNG, MANAGER \"DECEASED\"",
+                null
+              ],
+              [
+                "IS102084",
+                "1980-08-26",
+                "APPOINTMENT OF MANAGERS",
+                null
+              ],
+              [
+                "IS238481",
+                "1996-05-31",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "IS238482",
+                "1996-12-11",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "IS262909",
+                "1997-12-18",
+                "NOTICE OF DEATH OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "19092401270017",
+                "2017-07-24",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "18120500180030",
+                "2018-10-02",
+                "APPROVAL OF APPOINTMENT OF MANAGERS OF KWONG SHIN TONG",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876946588967097,
@@ -348,7 +958,63 @@
         1109177301,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 331",
+            "New Grant Lot",
+            "C5163125",
+            [
+              [
+                "IS85021",
+                "1972-01-18",
+                "STATUTORY DECLARATION BY SIK CHING-HANG ALIAS HO TSOI-WAN",
+                null
+              ],
+              [
+                "IS85043",
+                "1972-01-25",
+                "-",
+                null
+              ],
+              [
+                "IS107928",
+                "1980-04-09",
+                "DEATH CERTIFICATE OF TAM HOP",
+                null
+              ],
+              [
+                "IS107929",
+                "1981-05-25",
+                "CERTIFICATE OF EXEMPTION FROM ESTATE DUTY",
+                null
+              ],
+              [
+                "IS116326",
+                "1982-03-10",
+                "DEATH CERTIFICATE OF SIK CHING KIU OF 1/3 SHARE",
+                null
+              ],
+              [
+                "IS116327",
+                "1983-06-14",
+                "CERTIFICATE OF EXEMPTION FROM ESTATE DUTY",
+                null
+              ],
+              [
+                "IS116355",
+                "1983-09-05",
+                "-",
+                null
+              ],
+              [
+                "IS139781",
+                "1986-07-25",
+                "CERTIFIED TRUE COPY OF CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987743588207391,
@@ -367,7 +1033,69 @@
         1109177309,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 249",
+            "New Grant Lot",
+            "C6373506",
+            [
+              [
+                "IS60529",
+                "1954-03-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS82509",
+                "1969-03-01",
+                "CANCELLATION OF MANAGERSHIP",
+                null
+              ],
+              [
+                "IS185205",
+                "1971-07-26",
+                "NOTICE OF DEATH OF SIK TAK HEUNG, MANAGER \"DECEASED\"",
+                null
+              ],
+              [
+                "IS102084",
+                "1980-08-26",
+                "APPOINTMENT OF MANAGERS",
+                null
+              ],
+              [
+                "IS238481",
+                "1996-05-31",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "IS238482",
+                "1996-12-11",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "IS262909",
+                "1997-12-18",
+                "NOTICE OF DEATH OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "19092401270017",
+                "2017-07-24",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "18120500180030",
+                "2018-10-02",
+                "APPROVAL OF APPOINTMENT OF MANAGERS OF KWONG SHIN TONG",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877053509494156,
@@ -386,7 +1114,63 @@
         1109177344,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 255 &EXT THERETO",
+            "New Grant Lot",
+            "C5706470",
+            [
+              [
+                "IS78409",
+                "1964-12-19",
+                "-",
+                null
+              ],
+              [
+                "IS108215",
+                "1981-10-30",
+                "-",
+                null
+              ],
+              [
+                "IS145343",
+                "1988-09-09",
+                "ORDER NO.D322/K/88B BY BUILDING AUTHORITY (RE:DD310 LOT 255 EXT.)",
+                null
+              ],
+              [
+                "IS158409",
+                "1990-01-10",
+                "LETTER BY BUILDING AUTHORITY (RE DD310 LOT 255 EXTENSION)",
+                null
+              ],
+              [
+                "IS258427",
+                "1997-08-21",
+                "ORDER NO. DH 32/NT/97/C UNDER S.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "IS279497",
+                "2000-01-10",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "09011200900013",
+                "2009-01-05",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3500000.0"
+              ],
+              [
+                "09021301610025",
+                "2009-01-21",
+                "ASSIGNMENT",
+                "3500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876913208553633,
@@ -424,7 +1208,27 @@
         1109177660,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 307",
+            "New Grant Lot",
+            "C6676362",
+            [
+              [
+                "IS76481",
+                "1963-07-25",
+                "MEMORANDUM OF AGREEMENT (RESITE)",
+                null
+              ],
+              [
+                "IS111107",
+                "1982-07-20",
+                "APPOINTMENT OF MANAGERS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877016917754096,
@@ -443,7 +1247,57 @@
         1109177765,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 387",
+            "New Grant Lot",
+            "C4099992",
+            [
+              [
+                "IS103373",
+                "1980-12-05",
+                "-",
+                null
+              ],
+              [
+                "IS105274",
+                "1981-02-28",
+                "-",
+                null
+              ],
+              [
+                "IS105272",
+                "1981-02-28",
+                "-",
+                null
+              ],
+              [
+                "IS105273",
+                "1981-02-28",
+                "-",
+                null
+              ],
+              [
+                "15073001760017",
+                "2015-07-17",
+                "ORDER NO. DH0096/NT/15/C BY THE BUILDING AUTHORITY  UNDER SECTION 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "15073001760025",
+                "2015-07-17",
+                "ORDER NO. DH0097/NT/15/C BY THE BUILDING AUTHORITY  UNDER SECTION 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "25062400640226",
+                "2025-06-13",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0096/NT/15/C\" AND \"DH0097/NT/15/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877463216997322,
@@ -519,7 +1373,57 @@
         1109177907,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 392",
+            "New Grant Lot",
+            "C5706512",
+            [
+              [
+                "IS91778",
+                "1977-04-19",
+                "STATUTORY DECLARATION BY SIK CHE FONG ALIAS CHI FONG ALIAS WAI HIN",
+                null
+              ],
+              [
+                "IS91779",
+                "1977-04-19",
+                "-",
+                null
+              ],
+              [
+                "IS217510",
+                "1994-11-15",
+                "DUPLICATE COPY ORDER UNDER S.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "IS309679",
+                "2002-09-13",
+                "CERTIFICATE UNDER SEC.33(1) OF THE BUILDINGS ORDINANCE (CAP.123)",
+                null
+              ],
+              [
+                "19022001690033",
+                "2019-01-25",
+                "ORDER NO. \"DH0002/NT/19/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24091200300077",
+                "2024-06-28",
+                "ORDER NO. \"DH0036/NT/24/C\" BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24091200300065",
+                "2024-06-28",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0002/NT/19/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987669846612893,
@@ -576,7 +1480,58 @@
         1109178035,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 396",
+            "New Grant Lot",
+            "C4100035",
+            [
+              [
+                "IS90389",
+                "1976-08-18",
+                "-",
+                null
+              ],
+              [
+                "IS92518",
+                "1977-08-12",
+                "-",
+                null
+              ],
+              [
+                "IS99403",
+                "1979-12-18",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD310 LL 397",
+            "New Grant Lot",
+            "C4100048",
+            [
+              [
+                "IS90389",
+                "1976-08-18",
+                "-",
+                null
+              ],
+              [
+                "IS92518",
+                "1977-08-12",
+                "-",
+                null
+              ],
+              [
+                "IS99403",
+                "1979-12-18",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876796340771925,
@@ -633,7 +1588,57 @@
         1109178277,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 387",
+            "New Grant Lot",
+            "C4099992",
+            [
+              [
+                "IS103373",
+                "1980-12-05",
+                "-",
+                null
+              ],
+              [
+                "IS105274",
+                "1981-02-28",
+                "-",
+                null
+              ],
+              [
+                "IS105272",
+                "1981-02-28",
+                "-",
+                null
+              ],
+              [
+                "IS105273",
+                "1981-02-28",
+                "-",
+                null
+              ],
+              [
+                "15073001760017",
+                "2015-07-17",
+                "ORDER NO. DH0096/NT/15/C BY THE BUILDING AUTHORITY  UNDER SECTION 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "15073001760025",
+                "2015-07-17",
+                "ORDER NO. DH0097/NT/15/C BY THE BUILDING AUTHORITY  UNDER SECTION 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "25062400640226",
+                "2025-06-13",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0096/NT/15/C\" AND \"DH0097/NT/15/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877505442159793,
@@ -728,7 +1733,57 @@
         1109178730,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 273",
+            "New Grant Lot",
+            "C4099307",
+            [
+              [
+                "IS48014",
+                "1946-10-16",
+                "-",
+                "340.0"
+              ],
+              [
+                "IS51345",
+                "1948-08-10",
+                "-",
+                "1600.0"
+              ],
+              [
+                "IS70406",
+                "1960-05-02",
+                "-",
+                "4000.0"
+              ],
+              [
+                "IS100362",
+                "1979-07-13",
+                "-",
+                null
+              ],
+              [
+                "IS97772",
+                "1979-07-13",
+                "-",
+                null
+              ],
+              [
+                "25070200580013",
+                "1993-08-24",
+                "CERTIFIED COPY CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ],
+              [
+                "25070200580024",
+                "2000-07-26",
+                "CERTIFIED COPY CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877044283271315,
@@ -785,7 +1840,33 @@
         1109179114,
         null,
         null,
-        []
+        [
+          [
+            "DDNPL 238",
+            "New Grant Lot",
+            "C4270703",
+            [
+              [
+                "06022100270014",
+                "2006-02-15",
+                "DEED OF DEDICATION WITH PLAN RE PORTIONS",
+                null
+              ],
+              [
+                "06030100950021",
+                "2006-02-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "07022400210091",
+                "2007-01-03",
+                "TENANCY AGREEMENT WITH PLAN RE SHOP NO. 7A OF G/F OF THE COMMERCIAL DEVELOPMENT OF NP360",
+                "THE RENT IS $32,000.00 PER MONTH"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987976278393604,
@@ -804,7 +1885,105 @@
         1109179157,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 315",
+            "New Grant Lot",
+            "C5163105",
+            [
+              [
+                "IS59318",
+                "1953-05-06",
+                "-",
+                "3000.0"
+              ],
+              [
+                "IS81971",
+                "1968-05-16",
+                "-",
+                null
+              ],
+              [
+                "IS82175",
+                "1968-09-11",
+                "-",
+                null
+              ],
+              [
+                "IS94498",
+                "1978-06-20",
+                "-",
+                null
+              ],
+              [
+                "IS96969",
+                "1979-04-10",
+                "RECTIFICATION OF BOUNDARIES BETWEEN DISTRICT OFFICER, ISLANDS AND",
+                null
+              ],
+              [
+                "IS96967",
+                "1979-04-10",
+                "STATUTORY DECLARATION BY SICK TAT CHEE ALIAS SICK TAT CHEE",
+                null
+              ],
+              [
+                "IS227748",
+                "1995-08-17",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGERS OF WAI SAU TONG",
+                null
+              ],
+              [
+                "IS227749",
+                "1996-03-05",
+                "APPROVAL OF APPOINTMENT OF MANAGERS OF WAI SAU TONG",
+                null
+              ],
+              [
+                "06081100800080",
+                "2006-07-21",
+                "ORDER NO. DH0098/NT/06/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "11011801420010",
+                "2010-12-20",
+                "ASSIGNMENT",
+                "100.0"
+              ],
+              [
+                "15032701230015",
+                "2015-01-30",
+                "LETTER ISSUED TO ORDER NOS. DH0097/NT/06/C & DH0098/NT/06/C UNDER S. 27(A) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "17041200920272",
+                "2017-04-03",
+                "CLARIFICATION LETTER WITH PLAN (ORDER NOS. \"DH0097/NT/06/C\" & \"DH0098/NT/06/C\"",
+                null
+              ],
+              [
+                "19050202420256",
+                "2019-04-10",
+                "NOTIFICATION LETTER OF COMPLETION OF WORKS  (ORDER NOS. \"DH0097/NT/06/C & DH0098/NT/06/C\")",
+                null
+              ],
+              [
+                "21090701730029",
+                "2021-07-29",
+                "CERTIFICATE UNDER S. 33(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "24111100300082",
+                "2024-10-25",
+                "MEMORIAL OF SATISFACTION UNDER S. 33(10) OF THE BUILDINGS ORDINANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987724785279578,
@@ -823,7 +2002,57 @@
         1109179245,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 387",
+            "New Grant Lot",
+            "C4099992",
+            [
+              [
+                "IS103373",
+                "1980-12-05",
+                "-",
+                null
+              ],
+              [
+                "IS105274",
+                "1981-02-28",
+                "-",
+                null
+              ],
+              [
+                "IS105272",
+                "1981-02-28",
+                "-",
+                null
+              ],
+              [
+                "IS105273",
+                "1981-02-28",
+                "-",
+                null
+              ],
+              [
+                "15073001760017",
+                "2015-07-17",
+                "ORDER NO. DH0096/NT/15/C BY THE BUILDING AUTHORITY  UNDER SECTION 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "15073001760025",
+                "2015-07-17",
+                "ORDER NO. DH0097/NT/15/C BY THE BUILDING AUTHORITY  UNDER SECTION 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "25062400640226",
+                "2025-06-13",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0096/NT/15/C\" AND \"DH0097/NT/15/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877479058770637,
@@ -842,7 +2071,21 @@
         1109179282,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 282",
+            "New Grant Lot",
+            "C6373523",
+            [
+              [
+                "IS52394",
+                "1949-03-30",
+                "-",
+                "500.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876834654659372,
@@ -861,7 +2104,33 @@
         1109179346,
         null,
         "30 KEUNG SHAN ROAD",
-        []
+        [
+          [
+            "DD310 LL 103",
+            "Old Schedule Lot",
+            "C4098190",
+            [
+              [
+                "IS60422",
+                "1954-01-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "IS96770",
+                "1979-03-19",
+                "STATUTORY DECLARATION BY MOO TIM LOY OTHERWISE SPELT AS MO TIM LOI",
+                null
+              ],
+              [
+                "IS96771",
+                "1979-03-19",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876496946532785,
@@ -880,7 +2149,57 @@
         1109179376,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 387",
+            "New Grant Lot",
+            "C4099992",
+            [
+              [
+                "IS103373",
+                "1980-12-05",
+                "-",
+                null
+              ],
+              [
+                "IS105274",
+                "1981-02-28",
+                "-",
+                null
+              ],
+              [
+                "IS105272",
+                "1981-02-28",
+                "-",
+                null
+              ],
+              [
+                "IS105273",
+                "1981-02-28",
+                "-",
+                null
+              ],
+              [
+                "15073001760017",
+                "2015-07-17",
+                "ORDER NO. DH0096/NT/15/C BY THE BUILDING AUTHORITY  UNDER SECTION 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "15073001760025",
+                "2015-07-17",
+                "ORDER NO. DH0097/NT/15/C BY THE BUILDING AUTHORITY  UNDER SECTION 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "25062400640226",
+                "2025-06-13",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0096/NT/15/C\" AND \"DH0097/NT/15/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877527937713486,
@@ -899,7 +2218,57 @@
         1109179397,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 392",
+            "New Grant Lot",
+            "C5706512",
+            [
+              [
+                "IS91778",
+                "1977-04-19",
+                "STATUTORY DECLARATION BY SIK CHE FONG ALIAS CHI FONG ALIAS WAI HIN",
+                null
+              ],
+              [
+                "IS91779",
+                "1977-04-19",
+                "-",
+                null
+              ],
+              [
+                "IS217510",
+                "1994-11-15",
+                "DUPLICATE COPY ORDER UNDER S.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "IS309679",
+                "2002-09-13",
+                "CERTIFICATE UNDER SEC.33(1) OF THE BUILDINGS ORDINANCE (CAP.123)",
+                null
+              ],
+              [
+                "19022001690033",
+                "2019-01-25",
+                "ORDER NO. \"DH0002/NT/19/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24091200300077",
+                "2024-06-28",
+                "ORDER NO. \"DH0036/NT/24/C\" BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24091200300065",
+                "2024-06-28",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0002/NT/19/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876746130003027,
@@ -956,7 +2325,75 @@
         1109179454,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 388",
+            "New Grant Lot",
+            "C5163162",
+            [
+              [
+                "IS84527",
+                "1971-05-05",
+                "STATUTORY DECLARATION BY LEE NG PUI SHAN ALIAS LI NG FOON PUI",
+                null
+              ],
+              [
+                "IS84528",
+                "1971-05-05",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "08102100920255",
+                "2008-09-05",
+                "ORDER NO. DH0069/NT/08/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "12091701330015",
+                "2012-08-07",
+                "CERTIFICATE UNDER SECTION 33(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "15060802330072",
+                "2015-05-15",
+                "DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "25070800740045",
+                "2016-05-31",
+                "PROBATE",
+                null
+              ],
+              [
+                "22101801220032",
+                "2022-10-05",
+                "MEMORIAL OF SATISFACTION UNDER S. 33(10) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "25011700400013",
+                "2025-01-09",
+                "NOTIFICATION LETTER OF COMPLETION OF WORKS (ORDER NO. DH0069/NT/08/C)",
+                null
+              ],
+              [
+                "25070800740057",
+                "2025-06-10",
+                "VESTING ASSENT",
+                null
+              ],
+              [
+                "25082801620217",
+                "2025-08-21",
+                "LETTER OF DISCHARGE (ORDER NO.DH0069/NT/08/C)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877176659966078,
@@ -1013,7 +2450,69 @@
         1109179698,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 252",
+            "New Grant Lot",
+            "C4099180",
+            [
+              [
+                "IS60529",
+                "1954-03-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS82509",
+                "1969-03-01",
+                "CANCELLATION OF MANAGERSHIP",
+                null
+              ],
+              [
+                "IS185205",
+                "1971-07-26",
+                "NOTICE OF DEATH OF SIK TAK HEUNG, MANAGER \"DECEASED\"",
+                null
+              ],
+              [
+                "IS102084",
+                "1980-08-26",
+                "APPOINTMENT OF MANAGERS",
+                null
+              ],
+              [
+                "IS238481",
+                "1996-05-31",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "IS238482",
+                "1996-12-11",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "IS262909",
+                "1997-12-18",
+                "NOTICE OF DEATH OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "19092401270017",
+                "2017-07-24",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "18120500180030",
+                "2018-10-02",
+                "APPROVAL OF APPOINTMENT OF MANAGERS OF KWONG SHIN TONG",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877134926083153,
@@ -1089,7 +2588,27 @@
         1109179942,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 359",
+            "New Grant Lot",
+            "C4099848",
+            [
+              [
+                "IS84631",
+                "1971-06-22",
+                "STATUTORY DECLARATION BY SIK MIU CHONG",
+                null
+              ],
+              [
+                "IS87376",
+                "1974-05-31",
+                "-",
+                "10000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876633104940042,
@@ -1127,7 +2646,69 @@
         1109180109,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 249",
+            "New Grant Lot",
+            "C6373506",
+            [
+              [
+                "IS60529",
+                "1954-03-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS82509",
+                "1969-03-01",
+                "CANCELLATION OF MANAGERSHIP",
+                null
+              ],
+              [
+                "IS185205",
+                "1971-07-26",
+                "NOTICE OF DEATH OF SIK TAK HEUNG, MANAGER \"DECEASED\"",
+                null
+              ],
+              [
+                "IS102084",
+                "1980-08-26",
+                "APPOINTMENT OF MANAGERS",
+                null
+              ],
+              [
+                "IS238481",
+                "1996-05-31",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "IS238482",
+                "1996-12-11",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "IS262909",
+                "1997-12-18",
+                "NOTICE OF DEATH OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "19092401270017",
+                "2017-07-24",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "18120500180030",
+                "2018-10-02",
+                "APPROVAL OF APPOINTMENT OF MANAGERS OF KWONG SHIN TONG",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877061904733486,
@@ -1165,7 +2746,51 @@
         1109180310,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 395",
+            "New Grant Lot",
+            "C4100025",
+            [
+              [
+                "IS226515",
+                "1996-01-16",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "IS235683",
+                "1996-10-18",
+                "ORDER NO.DH31/NT/96/C BY THE BUILDING AUTHORITY",
+                null
+              ],
+              [
+                "IS278239",
+                "1999-11-19",
+                "ORDER NO.DH36/NT/99/C UNDER SECTION 27(A) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "IS279496",
+                "2000-01-07",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "06121900890090",
+                "2006-10-23",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "07091901480010",
+                "2007-05-15",
+                "CERTIFIED TRUE COPY OF CERTIFICATE OF CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876882070720359,
@@ -1222,7 +2847,105 @@
         1109180489,
         null,
         "20 LUK WU",
-        []
+        [
+          [
+            "DD310 LL 314",
+            "New Grant Lot",
+            "C4099553",
+            [
+              [
+                "IS59318",
+                "1953-05-06",
+                "-",
+                "3000.0"
+              ],
+              [
+                "IS81971",
+                "1968-05-16",
+                "-",
+                null
+              ],
+              [
+                "IS82175",
+                "1968-09-11",
+                "-",
+                null
+              ],
+              [
+                "IS94498",
+                "1978-06-20",
+                "-",
+                null
+              ],
+              [
+                "IS96967",
+                "1979-04-10",
+                "STATUTORY DECLARATION BY SICK TAT CHEE ALIAS SICK TAT CHEE",
+                null
+              ],
+              [
+                "IS96968",
+                "1979-04-10",
+                "RECTIFICATION OF BOUNDARIES BETWEEN DISTRICT OFFICER, ISLANDS",
+                null
+              ],
+              [
+                "IS227748",
+                "1995-08-17",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGERS OF WAI SAU TONG",
+                null
+              ],
+              [
+                "IS227749",
+                "1996-03-05",
+                "APPROVAL OF APPOINTMENT OF MANAGERS OF WAI SAU TONG",
+                null
+              ],
+              [
+                "06081100800078",
+                "2006-07-21",
+                "ORDER NO. DH0097/NT/06/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "11011801420010",
+                "2010-12-20",
+                "ASSIGNMENT",
+                "100.0"
+              ],
+              [
+                "15032701230015",
+                "2015-01-30",
+                "LETTER ISSUED TO ORDER NOS. DH0097/NT/06/C & DH0098/NT/06/C UNDER S. 27(A) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "17041200920272",
+                "2017-04-03",
+                "CLARIFICATION LETTER WITH PLAN (ORDER NOS. \"DH0097/NT/06/C\" & \"DH0098/NT/06/C\"",
+                null
+              ],
+              [
+                "19050202420256",
+                "2019-04-10",
+                "NOTIFICATION LETTER OF COMPLETION OF WORKS  (ORDER NOS. \"DH0097/NT/06/C & DH0098/NT/06/C\")",
+                null
+              ],
+              [
+                "21090701730014",
+                "2021-07-29",
+                "CERTIFICATE UNDER S. 33(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "24111100300073",
+                "2024-10-25",
+                "MEMORIAL OF SATISFACTION UNDER S. 33(10) OF THE BUILDINGS ORDINANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877278182857436,
@@ -1260,7 +2983,57 @@
         1109180533,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 392",
+            "New Grant Lot",
+            "C5706512",
+            [
+              [
+                "IS91778",
+                "1977-04-19",
+                "STATUTORY DECLARATION BY SIK CHE FONG ALIAS CHI FONG ALIAS WAI HIN",
+                null
+              ],
+              [
+                "IS91779",
+                "1977-04-19",
+                "-",
+                null
+              ],
+              [
+                "IS217510",
+                "1994-11-15",
+                "DUPLICATE COPY ORDER UNDER S.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "IS309679",
+                "2002-09-13",
+                "CERTIFICATE UNDER SEC.33(1) OF THE BUILDINGS ORDINANCE (CAP.123)",
+                null
+              ],
+              [
+                "19022001690033",
+                "2019-01-25",
+                "ORDER NO. \"DH0002/NT/19/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24091200300077",
+                "2024-06-28",
+                "ORDER NO. \"DH0036/NT/24/C\" BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24091200300065",
+                "2024-06-28",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0002/NT/19/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987673289182382,
@@ -1298,7 +3071,99 @@
         1109180637,
         null,
         "3C UPPER KEUNG SHAN",
-        []
+        [
+          [
+            "DD310 LL 394",
+            "New Grant Lot",
+            "C4100014",
+            [
+              [
+                "IS117305",
+                "1983-12-14",
+                "-",
+                null
+              ],
+              [
+                "IS117587",
+                "1984-01-31",
+                "-",
+                null
+              ],
+              [
+                "IS117513",
+                "1984-02-13",
+                "-",
+                null
+              ],
+              [
+                "IS291757",
+                "2000-12-20",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "IS288863",
+                "2000-12-20",
+                "ASSENT",
+                null
+              ],
+              [
+                "IS288865",
+                "2000-12-20",
+                "ASSENT",
+                null
+              ],
+              [
+                "IS291758",
+                "2000-12-20",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "06021501000028",
+                "2005-08-26",
+                "ORDER NO.DH 0141/NT/05/C BY THE BUILDINGS AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "06021501000036",
+                "2005-08-26",
+                "ORDER NO.DH 0142/NT/05/C BY THE BUILDINGS AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "19112700740090",
+                "2019-11-01",
+                "NOTICE OF SEVERANCE",
+                null
+              ],
+              [
+                "19112700740100",
+                "2019-11-01",
+                "NOTICE OF SEVERANCE",
+                null
+              ],
+              [
+                "21022301070153",
+                "2020-12-14",
+                "NOTIFICATION LETTER OF COMPLETION OF WORKS  (ORDER NO. \"DH0142/NT/05/C\")",
+                null
+              ],
+              [
+                "21022301070148",
+                "2020-12-14",
+                "NOTIFICATION LETTER OF COMPLETION OF WORKS  (ORDER NO. \"DH0141/NT/05/C\")",
+                null
+              ],
+              [
+                "24102801170037",
+                "2024-09-12",
+                "CERTIFICATE UNDER S. 33(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876708192884025,
@@ -1355,7 +3220,33 @@
         1109180773,
         null,
         null,
-        []
+        [
+          [
+            "DDNPL 238",
+            "New Grant Lot",
+            "C4270703",
+            [
+              [
+                "06022100270014",
+                "2006-02-15",
+                "DEED OF DEDICATION WITH PLAN RE PORTIONS",
+                null
+              ],
+              [
+                "06030100950021",
+                "2006-02-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "07022400210091",
+                "2007-01-03",
+                "TENANCY AGREEMENT WITH PLAN RE SHOP NO. 7A OF G/F OF THE COMMERCIAL DEVELOPMENT OF NP360",
+                "THE RENT IS $32,000.00 PER MONTH"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879741216062696,
@@ -1374,7 +3265,118 @@
         1109180840,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 304",
+            "New Grant Lot",
+            "C4099513",
+            [
+              [
+                "IS194666",
+                "1991-12-19",
+                "-",
+                null
+              ],
+              [
+                "IS328654",
+                "2004-01-13",
+                "AGREEMENT FOR SALE AND PURCHASE RE 1/2 OF LOTS 304, 313 & 347 IN *",
+                "700000.0"
+              ],
+              [
+                "IS328656",
+                "2004-02-13",
+                "ASSIGNMENT",
+                "700000.0"
+              ],
+              [
+                "IS334959",
+                "2004-06-09",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "05120700680042",
+                "2005-11-07",
+                "ASSIGNMENT",
+                "2500000.0"
+              ],
+              [
+                "05120700680036",
+                "2005-11-07",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "2500000.0"
+              ],
+              [
+                "09021100370031",
+                "2008-12-19",
+                "ORDER  NO. DH0065/NT/08/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "25062400640211",
+                "2025-06-10",
+                "NOTIFICATION LETTER OF COMPLETION OF WORKS (ORDER NO. DH0065/NT/08/C)",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD310 LL 347",
+            "New Grant Lot",
+            "C4099774",
+            [
+              [
+                "IS194666",
+                "1991-12-19",
+                "-",
+                null
+              ],
+              [
+                "IS328654",
+                "2004-01-13",
+                "AGREEMENT FOR SALE AND PURCHASE RE 1/2 OF LOTS 304, 313 & 347 IN *",
+                "700000.0"
+              ],
+              [
+                "IS328656",
+                "2004-02-13",
+                "ASSIGNMENT",
+                "700000.0"
+              ],
+              [
+                "IS334959",
+                "2004-06-09",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "05120700680042",
+                "2005-11-07",
+                "ASSIGNMENT",
+                "2500000.0"
+              ],
+              [
+                "05120700680036",
+                "2005-11-07",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "2500000.0"
+              ],
+              [
+                "09021100370027",
+                "2008-12-19",
+                "ORDER NO. DH0064/NT/08/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "25062400640208",
+                "2025-06-10",
+                "NOTIFICATION LETTER OF COMPLETION OF WORKS (ORDER NO. DH0064/NT/08/C)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876757548402462,
@@ -1393,7 +3395,76 @@
         1109180883,
         null,
         "27 UPPER KEUNG SHAN",
-        []
+        [
+          [
+            "DD310 LL 276",
+            "Old Schedule Lot",
+            "C5804883",
+            [
+              [
+                "IS79388",
+                "1965-07-28",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "IS79387",
+                "1965-07-28",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "12031902450120",
+                "1996-08-29",
+                "PROBATE",
+                null
+              ],
+              [
+                "12061402200060",
+                "2012-06-06",
+                "ASSENT",
+                null
+              ],
+              [
+                "23080302050018",
+                "2023-06-28",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "23080302050023",
+                "2023-06-28",
+                "SEALED COPY JUDGMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD310 LL 389",
+            "Old Schedule Lot",
+            "C5706508",
+            [
+              [
+                "IS249485",
+                "1996-08-29",
+                "PROBATE",
+                null
+              ],
+              [
+                "12031902450120",
+                "1996-08-29",
+                "PROBATE",
+                null
+              ],
+              [
+                "IS268624",
+                "1999-03-08",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877015738104076,
@@ -1431,7 +3502,51 @@
         1109181226,
         "GLEN EAGLE",
         "27 LUK WU",
-        []
+        [
+          [
+            "DD310 LL 398 &EXT THERETO",
+            "New Grant Lot",
+            "C4100051",
+            [
+              [
+                "IS94532",
+                "1978-06-06",
+                "-",
+                "160000.0"
+              ],
+              [
+                "IS100103",
+                "1980-01-30",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "2900000.0"
+              ],
+              [
+                "IS105026",
+                "1981-02-21",
+                "-",
+                "1450000.0"
+              ],
+              [
+                "IS117249",
+                "1983-12-22",
+                "-",
+                "1427915.0"
+              ],
+              [
+                "16122000700120",
+                "2016-11-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "19500000.0"
+              ],
+              [
+                "17020201020049",
+                "2017-01-16",
+                "ASSIGNMENT",
+                "19500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987731468232604,
@@ -1469,7 +3584,51 @@
         1109181281,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 395",
+            "New Grant Lot",
+            "C4100025",
+            [
+              [
+                "IS226515",
+                "1996-01-16",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "IS235683",
+                "1996-10-18",
+                "ORDER NO.DH31/NT/96/C BY THE BUILDING AUTHORITY",
+                null
+              ],
+              [
+                "IS278239",
+                "1999-11-19",
+                "ORDER NO.DH36/NT/99/C UNDER SECTION 27(A) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "IS279496",
+                "2000-01-07",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "06121900890090",
+                "2006-10-23",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "07091901480010",
+                "2007-05-15",
+                "CERTIFIED TRUE COPY OF CERTIFICATE OF CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876909256205542,
@@ -1507,7 +3666,57 @@
         1109181592,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 254",
+            "New Grant Lot",
+            "C5706464",
+            [
+              [
+                "IS22613",
+                "1923-08-09",
+                "-",
+                "900.0"
+              ],
+              [
+                "IS28777",
+                "1928-04-30",
+                "-",
+                "900.0"
+              ],
+              [
+                "IS77052",
+                "1964-03-14",
+                "-",
+                null
+              ],
+              [
+                "19072900590026",
+                "2019-07-08",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "24090201220048",
+                "2019-08-14",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "19091700700014",
+                "2019-08-14",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD310 LL 254 EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9876876657001468,
@@ -1526,7 +3735,63 @@
         1109181614,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 255 &EXT THERETO",
+            "New Grant Lot",
+            "C5706470",
+            [
+              [
+                "IS78409",
+                "1964-12-19",
+                "-",
+                null
+              ],
+              [
+                "IS108215",
+                "1981-10-30",
+                "-",
+                null
+              ],
+              [
+                "IS145343",
+                "1988-09-09",
+                "ORDER NO.D322/K/88B BY BUILDING AUTHORITY (RE:DD310 LOT 255 EXT.)",
+                null
+              ],
+              [
+                "IS158409",
+                "1990-01-10",
+                "LETTER BY BUILDING AUTHORITY (RE DD310 LOT 255 EXTENSION)",
+                null
+              ],
+              [
+                "IS258427",
+                "1997-08-21",
+                "ORDER NO. DH 32/NT/97/C UNDER S.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "IS279497",
+                "2000-01-10",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "09011200900013",
+                "2009-01-05",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3500000.0"
+              ],
+              [
+                "09021301610025",
+                "2009-01-21",
+                "ASSIGNMENT",
+                "3500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987690981553818,
@@ -1545,7 +3810,69 @@
         1109181639,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 252",
+            "New Grant Lot",
+            "C4099180",
+            [
+              [
+                "IS60529",
+                "1954-03-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS82509",
+                "1969-03-01",
+                "CANCELLATION OF MANAGERSHIP",
+                null
+              ],
+              [
+                "IS185205",
+                "1971-07-26",
+                "NOTICE OF DEATH OF SIK TAK HEUNG, MANAGER \"DECEASED\"",
+                null
+              ],
+              [
+                "IS102084",
+                "1980-08-26",
+                "APPOINTMENT OF MANAGERS",
+                null
+              ],
+              [
+                "IS238481",
+                "1996-05-31",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "IS238482",
+                "1996-12-11",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "IS262909",
+                "1997-12-18",
+                "NOTICE OF DEATH OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "19092401270017",
+                "2017-07-24",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "18120500180030",
+                "2018-10-02",
+                "APPROVAL OF APPOINTMENT OF MANAGERS OF KWONG SHIN TONG",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877157620834658,
@@ -1583,7 +3910,63 @@
         1109181833,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 393",
+            "New Grant Lot",
+            "C5906481",
+            [
+              [
+                "25070800740023",
+                "1998-01-06",
+                "PROBATE ALTERED PURSUANT TO ORDER OF MR. DEPUTY REGISTRAR J.WONG DATED 16.8.2019",
+                null
+              ],
+              [
+                "07051502380102",
+                "2007-03-23",
+                "ORDER NO. DH0062/NT/07/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "25070800740045",
+                "2016-05-31",
+                "PROBATE",
+                null
+              ],
+              [
+                "22070400600014",
+                "2022-05-17",
+                "NOTIFICATION LETTER OF COMPLETION OF WORKS  (ORDER NO. \"DH0062/NT/07/C\")",
+                null
+              ],
+              [
+                "25070800740031",
+                "2025-06-10",
+                "VESTING ASSENT",
+                null
+              ],
+              [
+                "25070800740057",
+                "2025-06-10",
+                "VESTING ASSENT",
+                null
+              ],
+              [
+                "25070800740068",
+                "2025-06-10",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "25101001390014",
+                "2025-10-03",
+                "LETTER OF DISCHARGE (ORDER NO.DH0062/NT/07/C)",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877200451244865,
@@ -1602,7 +3985,51 @@
         1109181908,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 395",
+            "New Grant Lot",
+            "C4100025",
+            [
+              [
+                "IS226515",
+                "1996-01-16",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "IS235683",
+                "1996-10-18",
+                "ORDER NO.DH31/NT/96/C BY THE BUILDING AUTHORITY",
+                null
+              ],
+              [
+                "IS278239",
+                "1999-11-19",
+                "ORDER NO.DH36/NT/99/C UNDER SECTION 27(A) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "IS279496",
+                "2000-01-07",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "06121900890090",
+                "2006-10-23",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "07091901480010",
+                "2007-05-15",
+                "CERTIFIED TRUE COPY OF CERTIFICATE OF CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876909716245545,
@@ -1621,7 +4048,14 @@
         1109181916,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 317 &EXT THERETO",
+            "New Grant Lot",
+            "C4099566",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.987675827612473,
@@ -1659,7 +4093,51 @@
         1109181985,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 395",
+            "New Grant Lot",
+            "C4100025",
+            [
+              [
+                "IS226515",
+                "1996-01-16",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "IS235683",
+                "1996-10-18",
+                "ORDER NO.DH31/NT/96/C BY THE BUILDING AUTHORITY",
+                null
+              ],
+              [
+                "IS278239",
+                "1999-11-19",
+                "ORDER NO.DH36/NT/99/C UNDER SECTION 27(A) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "IS279496",
+                "2000-01-07",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "06121900890090",
+                "2006-10-23",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "07091901480010",
+                "2007-05-15",
+                "CERTIFIED TRUE COPY OF CERTIFICATE OF CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987687474018571,
@@ -1697,7 +4175,105 @@
         1109182210,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 315",
+            "New Grant Lot",
+            "C5163105",
+            [
+              [
+                "IS59318",
+                "1953-05-06",
+                "-",
+                "3000.0"
+              ],
+              [
+                "IS81971",
+                "1968-05-16",
+                "-",
+                null
+              ],
+              [
+                "IS82175",
+                "1968-09-11",
+                "-",
+                null
+              ],
+              [
+                "IS94498",
+                "1978-06-20",
+                "-",
+                null
+              ],
+              [
+                "IS96969",
+                "1979-04-10",
+                "RECTIFICATION OF BOUNDARIES BETWEEN DISTRICT OFFICER, ISLANDS AND",
+                null
+              ],
+              [
+                "IS96967",
+                "1979-04-10",
+                "STATUTORY DECLARATION BY SICK TAT CHEE ALIAS SICK TAT CHEE",
+                null
+              ],
+              [
+                "IS227748",
+                "1995-08-17",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGERS OF WAI SAU TONG",
+                null
+              ],
+              [
+                "IS227749",
+                "1996-03-05",
+                "APPROVAL OF APPOINTMENT OF MANAGERS OF WAI SAU TONG",
+                null
+              ],
+              [
+                "06081100800080",
+                "2006-07-21",
+                "ORDER NO. DH0098/NT/06/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "11011801420010",
+                "2010-12-20",
+                "ASSIGNMENT",
+                "100.0"
+              ],
+              [
+                "15032701230015",
+                "2015-01-30",
+                "LETTER ISSUED TO ORDER NOS. DH0097/NT/06/C & DH0098/NT/06/C UNDER S. 27(A) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "17041200920272",
+                "2017-04-03",
+                "CLARIFICATION LETTER WITH PLAN (ORDER NOS. \"DH0097/NT/06/C\" & \"DH0098/NT/06/C\"",
+                null
+              ],
+              [
+                "19050202420256",
+                "2019-04-10",
+                "NOTIFICATION LETTER OF COMPLETION OF WORKS  (ORDER NOS. \"DH0097/NT/06/C & DH0098/NT/06/C\")",
+                null
+              ],
+              [
+                "21090701730029",
+                "2021-07-29",
+                "CERTIFICATE UNDER S. 33(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "24111100300082",
+                "2024-10-25",
+                "MEMORIAL OF SATISFACTION UNDER S. 33(10) OF THE BUILDINGS ORDINANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877278154018383,
@@ -1716,7 +4292,57 @@
         1109182232,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 274",
+            "New Grant Lot",
+            "C4099310",
+            [
+              [
+                "IS48014",
+                "1946-10-16",
+                "-",
+                "340.0"
+              ],
+              [
+                "IS51345",
+                "1948-08-10",
+                "-",
+                "1600.0"
+              ],
+              [
+                "IS70406",
+                "1960-05-02",
+                "-",
+                "4000.0"
+              ],
+              [
+                "IS100362",
+                "1979-07-13",
+                "-",
+                null
+              ],
+              [
+                "IS97772",
+                "1979-07-13",
+                "-",
+                null
+              ],
+              [
+                "25070200580013",
+                "1993-08-24",
+                "CERTIFIED COPY CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ],
+              [
+                "25070200580024",
+                "2000-07-26",
+                "CERTIFIED COPY CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877078482239776,
@@ -1735,7 +4361,14 @@
         1109182251,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 279",
+            "New Grant Lot",
+            "C4099353",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.987683341874512,
@@ -1773,7 +4406,33 @@
         1109182716,
         null,
         null,
-        []
+        [
+          [
+            "DDNPL 238",
+            "New Grant Lot",
+            "C4270703",
+            [
+              [
+                "06022100270014",
+                "2006-02-15",
+                "DEED OF DEDICATION WITH PLAN RE PORTIONS",
+                null
+              ],
+              [
+                "06030100950021",
+                "2006-02-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "07022400210091",
+                "2007-01-03",
+                "TENANCY AGREEMENT WITH PLAN RE SHOP NO. 7A OF G/F OF THE COMMERCIAL DEVELOPMENT OF NP360",
+                "THE RENT IS $32,000.00 PER MONTH"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879706425640036,
@@ -1811,7 +4470,33 @@
         1109182975,
         null,
         null,
-        []
+        [
+          [
+            "DDNPL 238",
+            "New Grant Lot",
+            "C4270703",
+            [
+              [
+                "06022100270014",
+                "2006-02-15",
+                "DEED OF DEDICATION WITH PLAN RE PORTIONS",
+                null
+              ],
+              [
+                "06030100950021",
+                "2006-02-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "07022400210091",
+                "2007-01-03",
+                "TENANCY AGREEMENT WITH PLAN RE SHOP NO. 7A OF G/F OF THE COMMERCIAL DEVELOPMENT OF NP360",
+                "THE RENT IS $32,000.00 PER MONTH"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879767506199797,
@@ -1868,7 +4553,100 @@
         1109183329,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 1",
+            "Old Schedule Lot",
+            "C5760097",
+            [
+              [
+                "IS69770",
+                "1959-11-18",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS82508",
+                "1969-03-01",
+                "-",
+                null
+              ],
+              [
+                "IS84049",
+                "1970-01-13",
+                "-",
+                null
+              ],
+              [
+                "IS122807",
+                "1985-03-25",
+                "DECLARATION OF CHANGE OF TITLE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD310 LL 253",
+            "New Grant Lot",
+            "C4099197",
+            [
+              [
+                "IS60529",
+                "1954-03-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS82509",
+                "1969-03-01",
+                "CANCELLATION OF MANAGERSHIP",
+                null
+              ],
+              [
+                "IS185205",
+                "1971-07-26",
+                "NOTICE OF DEATH OF SIK TAK HEUNG, MANAGER \"DECEASED\"",
+                null
+              ],
+              [
+                "IS102084",
+                "1980-08-26",
+                "APPOINTMENT OF MANAGERS",
+                null
+              ],
+              [
+                "IS238481",
+                "1996-05-31",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "IS238482",
+                "1996-12-11",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "IS262909",
+                "1997-12-18",
+                "NOTICE OF DEATH OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "19092401270017",
+                "2017-07-24",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "18120500180030",
+                "2018-10-02",
+                "APPROVAL OF APPOINTMENT OF MANAGERS OF KWONG SHIN TONG",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987717826727778,
@@ -1887,7 +4665,51 @@
         1109183377,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 284",
+            "New Grant Lot",
+            "C4099405",
+            [
+              [
+                "IS79387",
+                "1965-07-28",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "IS79388",
+                "1965-07-28",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "12031902450120",
+                "1996-08-29",
+                "PROBATE",
+                null
+              ],
+              [
+                "12061402200060",
+                "2012-06-06",
+                "ASSENT",
+                null
+              ],
+              [
+                "23080302050023",
+                "2023-06-28",
+                "SEALED COPY JUDGMENT",
+                null
+              ],
+              [
+                "23080302050018",
+                "2023-06-28",
+                "SEALED COPY ORDER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877003797785713,
@@ -1906,7 +4728,57 @@
         1109183393,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 273",
+            "New Grant Lot",
+            "C4099307",
+            [
+              [
+                "IS48014",
+                "1946-10-16",
+                "-",
+                "340.0"
+              ],
+              [
+                "IS51345",
+                "1948-08-10",
+                "-",
+                "1600.0"
+              ],
+              [
+                "IS70406",
+                "1960-05-02",
+                "-",
+                "4000.0"
+              ],
+              [
+                "IS100362",
+                "1979-07-13",
+                "-",
+                null
+              ],
+              [
+                "IS97772",
+                "1979-07-13",
+                "-",
+                null
+              ],
+              [
+                "25070200580013",
+                "1993-08-24",
+                "CERTIFIED COPY CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ],
+              [
+                "25070200580024",
+                "2000-07-26",
+                "CERTIFIED COPY CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.98770281103774,
@@ -1925,7 +4797,33 @@
         1109183401,
         null,
         null,
-        []
+        [
+          [
+            "DDNPL 238",
+            "New Grant Lot",
+            "C4270703",
+            [
+              [
+                "06022100270014",
+                "2006-02-15",
+                "DEED OF DEDICATION WITH PLAN RE PORTIONS",
+                null
+              ],
+              [
+                "06030100950021",
+                "2006-02-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "07022400210091",
+                "2007-01-03",
+                "TENANCY AGREEMENT WITH PLAN RE SHOP NO. 7A OF G/F OF THE COMMERCIAL DEVELOPMENT OF NP360",
+                "THE RENT IS $32,000.00 PER MONTH"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987968885435179,
@@ -1944,7 +4842,63 @@
         1109183418,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 393",
+            "New Grant Lot",
+            "C5906481",
+            [
+              [
+                "25070800740023",
+                "1998-01-06",
+                "PROBATE ALTERED PURSUANT TO ORDER OF MR. DEPUTY REGISTRAR J.WONG DATED 16.8.2019",
+                null
+              ],
+              [
+                "07051502380102",
+                "2007-03-23",
+                "ORDER NO. DH0062/NT/07/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "25070800740045",
+                "2016-05-31",
+                "PROBATE",
+                null
+              ],
+              [
+                "22070400600014",
+                "2022-05-17",
+                "NOTIFICATION LETTER OF COMPLETION OF WORKS  (ORDER NO. \"DH0062/NT/07/C\")",
+                null
+              ],
+              [
+                "25070800740031",
+                "2025-06-10",
+                "VESTING ASSENT",
+                null
+              ],
+              [
+                "25070800740057",
+                "2025-06-10",
+                "VESTING ASSENT",
+                null
+              ],
+              [
+                "25070800740068",
+                "2025-06-10",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "25101001390014",
+                "2025-10-03",
+                "LETTER OF DISCHARGE (ORDER NO.DH0062/NT/07/C)",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877203483004031,
@@ -1963,7 +4917,33 @@
         1109183743,
         null,
         "31 KEUNG SHAN ROAD",
-        []
+        [
+          [
+            "DD310 LL 103",
+            "Old Schedule Lot",
+            "C4098190",
+            [
+              [
+                "IS60422",
+                "1954-01-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "IS96770",
+                "1979-03-19",
+                "STATUTORY DECLARATION BY MOO TIM LOY OTHERWISE SPELT AS MO TIM LOI",
+                null
+              ],
+              [
+                "IS96771",
+                "1979-03-19",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987649910763173,
@@ -1982,7 +4962,69 @@
         1109183882,
         null,
         "3 LUK WU",
-        []
+        [
+          [
+            "DD310 LL 287",
+            "New Grant Lot",
+            "C6373534",
+            [
+              [
+                "IS75535",
+                "1963-04-10",
+                "-",
+                null
+              ],
+              [
+                "IS75531",
+                "1963-04-10",
+                "-",
+                null
+              ],
+              [
+                "IS90137",
+                "1976-06-24",
+                "STATUTORY DECLARATION OF SIK BUN CHONG ALIAS SIK MAN CHONG",
+                null
+              ],
+              [
+                "IS90152",
+                "1976-06-24",
+                "-",
+                null
+              ],
+              [
+                "IS97452",
+                "1979-06-02",
+                "-",
+                null
+              ],
+              [
+                "IS173586",
+                "1991-05-10",
+                "-",
+                null
+              ],
+              [
+                "IS200967",
+                "1993-04-29",
+                "-",
+                null
+              ],
+              [
+                "09031102290037",
+                "2009-02-19",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1300000.0"
+              ],
+              [
+                "09073001580017",
+                "2009-07-03",
+                "ASSIGNMENT",
+                "1300000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876821231277935,
@@ -2020,7 +5062,75 @@
         1109184182,
         null,
         "4 UPPER KEUNG SHAN",
-        []
+        [
+          [
+            "DD310 LL 355",
+            "New Grant Lot",
+            "C5934998",
+            [
+              [
+                "IS263017",
+                "1997-10-21",
+                "PROBATE",
+                null
+              ],
+              [
+                "IS288798",
+                "2000-12-01",
+                "ASSENT",
+                null
+              ],
+              [
+                "06040400371360",
+                "2006-03-10",
+                "ORDER NO. DH0006/NT/06/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "13091001180022",
+                "2013-08-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                "5000000.0"
+              ],
+              [
+                "13091902340017",
+                "2013-09-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "5000000.0"
+              ],
+              [
+                "14061702020013",
+                "2014-05-30",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "14061702020035",
+                "2014-05-30",
+                "ASSIGNMENT",
+                "3000000.0"
+              ],
+              [
+                "14061702020026",
+                "2014-05-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3000000.0"
+              ],
+              [
+                "18071300910155",
+                "2018-05-17",
+                "NOTIFICATION LETTER OF COMPLETION OF WORKS  (ORDER NO. \"DH0006/NT/06/C\")",
+                null
+              ],
+              [
+                "19042401710037",
+                "2019-02-19",
+                "CERTIFICATE UNDER S. 33(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876516668806703,
@@ -2077,7 +5187,57 @@
         1109184384,
         null,
         "33 KEUNG SHAN ROAD",
-        []
+        [
+          [
+            "DD310 LL 111",
+            "Old Schedule Lot",
+            "C5706441",
+            [
+              [
+                "IS5908",
+                "1912-01-13",
+                "-",
+                "175.0"
+              ],
+              [
+                "IS5907",
+                "1912-01-13",
+                "REDEMPTION OF BLOCK GOVERNMENT LEASE MORTGAGE",
+                null
+              ],
+              [
+                "IS28425",
+                "1927-12-17",
+                "-",
+                null
+              ],
+              [
+                "IS60422",
+                "1954-01-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "IS101967",
+                "1980-08-13",
+                "STATUTORY DECLARATION BY MOO TIM LOY OTHERWISE SPELT AS MO TIM LOI",
+                null
+              ],
+              [
+                "IS101968",
+                "1980-08-13",
+                "-",
+                "125452.0"
+              ],
+              [
+                "IS103182",
+                "1980-11-24",
+                "CONVEYANCE ON SALE",
+                "656449.2"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876418744934017,
@@ -2096,7 +5256,63 @@
         1109184489,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 255 &EXT THERETO",
+            "New Grant Lot",
+            "C5706470",
+            [
+              [
+                "IS78409",
+                "1964-12-19",
+                "-",
+                null
+              ],
+              [
+                "IS108215",
+                "1981-10-30",
+                "-",
+                null
+              ],
+              [
+                "IS145343",
+                "1988-09-09",
+                "ORDER NO.D322/K/88B BY BUILDING AUTHORITY (RE:DD310 LOT 255 EXT.)",
+                null
+              ],
+              [
+                "IS158409",
+                "1990-01-10",
+                "LETTER BY BUILDING AUTHORITY (RE DD310 LOT 255 EXTENSION)",
+                null
+              ],
+              [
+                "IS258427",
+                "1997-08-21",
+                "ORDER NO. DH 32/NT/97/C UNDER S.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "IS279497",
+                "2000-01-10",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "09011200900013",
+                "2009-01-05",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3500000.0"
+              ],
+              [
+                "09021301610025",
+                "2009-01-21",
+                "ASSIGNMENT",
+                "3500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876911809047413,
@@ -2134,7 +5350,51 @@
         1109184589,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 288 &EXT THERETO",
+            "New Grant Lot",
+            "C5906454",
+            [
+              [
+                "IS34607",
+                "1932-06-10",
+                "-",
+                "2000.0"
+              ],
+              [
+                "IS80454",
+                "1966-07-27",
+                "-",
+                null
+              ],
+              [
+                "IS80453",
+                "1966-07-27",
+                "-",
+                null
+              ],
+              [
+                "IS80455",
+                "1966-07-27",
+                "-",
+                null
+              ],
+              [
+                "IS178610",
+                "1991-08-08",
+                "-",
+                null
+              ],
+              [
+                "08120300360269",
+                "2008-11-11",
+                "ASSIGNMENT",
+                "1600000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876782540935023,
@@ -2153,7 +5413,33 @@
         1109184590,
         null,
         null,
-        []
+        [
+          [
+            "DDNPL 238",
+            "New Grant Lot",
+            "C4270703",
+            [
+              [
+                "06022100270014",
+                "2006-02-15",
+                "DEED OF DEDICATION WITH PLAN RE PORTIONS",
+                null
+              ],
+              [
+                "06030100950021",
+                "2006-02-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "07022400210091",
+                "2007-01-03",
+                "TENANCY AGREEMENT WITH PLAN RE SHOP NO. 7A OF G/F OF THE COMMERCIAL DEVELOPMENT OF NP360",
+                "THE RENT IS $32,000.00 PER MONTH"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879729335371914,
@@ -2248,7 +5534,33 @@
         1109184892,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 389",
+            "Old Schedule Lot",
+            "C5706508",
+            [
+              [
+                "IS249485",
+                "1996-08-29",
+                "PROBATE",
+                null
+              ],
+              [
+                "12031902450120",
+                "1996-08-29",
+                "PROBATE",
+                null
+              ],
+              [
+                "IS268624",
+                "1999-03-08",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876999644521025,
@@ -2267,7 +5579,33 @@
         1109184942,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 389",
+            "Old Schedule Lot",
+            "C5706508",
+            [
+              [
+                "IS249485",
+                "1996-08-29",
+                "PROBATE",
+                null
+              ],
+              [
+                "12031902450120",
+                "1996-08-29",
+                "PROBATE",
+                null
+              ],
+              [
+                "IS268624",
+                "1999-03-08",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876982076532117,
@@ -2305,7 +5643,63 @@
         1109185162,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 255 &EXT THERETO",
+            "New Grant Lot",
+            "C5706470",
+            [
+              [
+                "IS78409",
+                "1964-12-19",
+                "-",
+                null
+              ],
+              [
+                "IS108215",
+                "1981-10-30",
+                "-",
+                null
+              ],
+              [
+                "IS145343",
+                "1988-09-09",
+                "ORDER NO.D322/K/88B BY BUILDING AUTHORITY (RE:DD310 LOT 255 EXT.)",
+                null
+              ],
+              [
+                "IS158409",
+                "1990-01-10",
+                "LETTER BY BUILDING AUTHORITY (RE DD310 LOT 255 EXTENSION)",
+                null
+              ],
+              [
+                "IS258427",
+                "1997-08-21",
+                "ORDER NO. DH 32/NT/97/C UNDER S.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "IS279497",
+                "2000-01-10",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "09011200900013",
+                "2009-01-05",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3500000.0"
+              ],
+              [
+                "09021301610025",
+                "2009-01-21",
+                "ASSIGNMENT",
+                "3500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876890906017082,
@@ -2324,7 +5718,39 @@
         1109185243,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 110",
+            "Old Schedule Lot",
+            "C4098234",
+            [
+              [
+                "IS8501",
+                "1914-09-30",
+                "C.C. MORTGAGE",
+                "150.0"
+              ],
+              [
+                "IS57901",
+                "1951-12-08",
+                "-",
+                "2.0"
+              ],
+              [
+                "IS58082",
+                "1952-06-03",
+                "-",
+                null
+              ],
+              [
+                "IS80757",
+                "1966-11-16",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876427290095433,
@@ -2343,7 +5769,14 @@
         1109185286,
         null,
         "5 UPPER KEUNG SHAN",
-        []
+        [
+          [
+            "DD310 LL 374 S.B",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9876595192390034,
@@ -2362,7 +5795,100 @@
         1109185505,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 1",
+            "Old Schedule Lot",
+            "C5760097",
+            [
+              [
+                "IS69770",
+                "1959-11-18",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS82508",
+                "1969-03-01",
+                "-",
+                null
+              ],
+              [
+                "IS84049",
+                "1970-01-13",
+                "-",
+                null
+              ],
+              [
+                "IS122807",
+                "1985-03-25",
+                "DECLARATION OF CHANGE OF TITLE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD310 LL 252",
+            "New Grant Lot",
+            "C4099180",
+            [
+              [
+                "IS60529",
+                "1954-03-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS82509",
+                "1969-03-01",
+                "CANCELLATION OF MANAGERSHIP",
+                null
+              ],
+              [
+                "IS185205",
+                "1971-07-26",
+                "NOTICE OF DEATH OF SIK TAK HEUNG, MANAGER \"DECEASED\"",
+                null
+              ],
+              [
+                "IS102084",
+                "1980-08-26",
+                "APPOINTMENT OF MANAGERS",
+                null
+              ],
+              [
+                "IS238481",
+                "1996-05-31",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "IS238482",
+                "1996-12-11",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "IS262909",
+                "1997-12-18",
+                "NOTICE OF DEATH OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "19092401270017",
+                "2017-07-24",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "18120500180030",
+                "2018-10-02",
+                "APPROVAL OF APPOINTMENT OF MANAGERS OF KWONG SHIN TONG",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987714777898451,
@@ -2457,7 +5983,39 @@
         1109185783,
         null,
         "5 LUK WU",
-        []
+        [
+          [
+            "DD310 LL 262 &EXT THERETO",
+            "New Grant Lot",
+            "C4099235",
+            [
+              [
+                "IS62437",
+                "1955-05-03",
+                "-",
+                "3500.0"
+              ],
+              [
+                "IS114365",
+                "1983-03-28",
+                "-",
+                null
+              ],
+              [
+                "IS279063",
+                "1999-11-24",
+                "NOTICE TO SEVER JOINT TENANCY BY WONG FONG MAN WAI GRACE",
+                null
+              ],
+              [
+                "IS288699",
+                "2000-12-19",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876779041520198,
@@ -2476,7 +6034,57 @@
         1109185828,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 111",
+            "Old Schedule Lot",
+            "C5706441",
+            [
+              [
+                "IS5908",
+                "1912-01-13",
+                "-",
+                "175.0"
+              ],
+              [
+                "IS5907",
+                "1912-01-13",
+                "REDEMPTION OF BLOCK GOVERNMENT LEASE MORTGAGE",
+                null
+              ],
+              [
+                "IS28425",
+                "1927-12-17",
+                "-",
+                null
+              ],
+              [
+                "IS60422",
+                "1954-01-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "IS101967",
+                "1980-08-13",
+                "STATUTORY DECLARATION BY MOO TIM LOY OTHERWISE SPELT AS MO TIM LOI",
+                null
+              ],
+              [
+                "IS101968",
+                "1980-08-13",
+                "-",
+                "125452.0"
+              ],
+              [
+                "IS103182",
+                "1980-11-24",
+                "CONVEYANCE ON SALE",
+                "656449.2"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876415401602685,
@@ -2495,7 +6103,33 @@
         1109185844,
         null,
         null,
-        []
+        [
+          [
+            "DDNPL 238",
+            "New Grant Lot",
+            "C4270703",
+            [
+              [
+                "06022100270014",
+                "2006-02-15",
+                "DEED OF DEDICATION WITH PLAN RE PORTIONS",
+                null
+              ],
+              [
+                "06030100950021",
+                "2006-02-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "07022400210091",
+                "2007-01-03",
+                "TENANCY AGREEMENT WITH PLAN RE SHOP NO. 7A OF G/F OF THE COMMERCIAL DEVELOPMENT OF NP360",
+                "THE RENT IS $32,000.00 PER MONTH"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879662385482115,
@@ -2647,7 +6281,51 @@
         1109186350,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 288 &EXT THERETO",
+            "New Grant Lot",
+            "C5906454",
+            [
+              [
+                "IS34607",
+                "1932-06-10",
+                "-",
+                "2000.0"
+              ],
+              [
+                "IS80454",
+                "1966-07-27",
+                "-",
+                null
+              ],
+              [
+                "IS80453",
+                "1966-07-27",
+                "-",
+                null
+              ],
+              [
+                "IS80455",
+                "1966-07-27",
+                "-",
+                null
+              ],
+              [
+                "IS178610",
+                "1991-08-08",
+                "-",
+                null
+              ],
+              [
+                "08120300360269",
+                "2008-11-11",
+                "ASSIGNMENT",
+                "1600000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876773278201416,
@@ -2666,7 +6344,69 @@
         1109186431,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 249",
+            "New Grant Lot",
+            "C6373506",
+            [
+              [
+                "IS60529",
+                "1954-03-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS82509",
+                "1969-03-01",
+                "CANCELLATION OF MANAGERSHIP",
+                null
+              ],
+              [
+                "IS185205",
+                "1971-07-26",
+                "NOTICE OF DEATH OF SIK TAK HEUNG, MANAGER \"DECEASED\"",
+                null
+              ],
+              [
+                "IS102084",
+                "1980-08-26",
+                "APPOINTMENT OF MANAGERS",
+                null
+              ],
+              [
+                "IS238481",
+                "1996-05-31",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "IS238482",
+                "1996-12-11",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "IS262909",
+                "1997-12-18",
+                "NOTICE OF DEATH OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "19092401270017",
+                "2017-07-24",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "18120500180030",
+                "2018-10-02",
+                "APPROVAL OF APPOINTMENT OF MANAGERS OF KWONG SHIN TONG",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876946360681564,
@@ -2704,7 +6444,33 @@
         1109186500,
         null,
         null,
-        []
+        [
+          [
+            "DDNPL 238",
+            "New Grant Lot",
+            "C4270703",
+            [
+              [
+                "06022100270014",
+                "2006-02-15",
+                "DEED OF DEDICATION WITH PLAN RE PORTIONS",
+                null
+              ],
+              [
+                "06030100950021",
+                "2006-02-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "07022400210091",
+                "2007-01-03",
+                "TENANCY AGREEMENT WITH PLAN RE SHOP NO. 7A OF G/F OF THE COMMERCIAL DEVELOPMENT OF NP360",
+                "THE RENT IS $32,000.00 PER MONTH"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9879753268365328,
@@ -2723,7 +6489,75 @@
         1109186508,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 280",
+            "New Grant Lot",
+            "C4099368",
+            [
+              [
+                "IS34706",
+                "1932-07-09",
+                "-",
+                "1200.0"
+              ],
+              [
+                "IS35539",
+                "1933-03-10",
+                "-",
+                "1200.0"
+              ],
+              [
+                "IS54003",
+                "1950-01-19",
+                "-",
+                null
+              ],
+              [
+                "IS54004",
+                "1950-01-19",
+                "-",
+                "1850.0"
+              ],
+              [
+                "IS204129",
+                "1993-08-09",
+                "ASSIGNMENT",
+                "440000.0"
+              ],
+              [
+                "IS204128",
+                "1993-08-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "440000.0"
+              ],
+              [
+                "20040300540031",
+                "2020-02-11",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "20122101130073",
+                "2020-11-25",
+                "PRELIMINARY AGREEMENT FOR SALE AND PURCHASE",
+                "8000000.0"
+              ],
+              [
+                "21012600600064",
+                "2021-01-14",
+                "ASSIGNMENT",
+                "8000000.0"
+              ],
+              [
+                "23041902120066",
+                "2023-01-18",
+                "WARNING LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9876867599306052,
@@ -2780,7 +6614,45 @@
         1109186559,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 377",
+            "New Grant Lot",
+            "C4099940",
+            [
+              [
+                "IS64622",
+                "1956-07-14",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS69869",
+                "1959-12-16",
+                "-",
+                "153.0"
+              ],
+              [
+                "IS77279",
+                "1964-04-17",
+                "STATUTORY DECLARATION BY BROOK ANTONY BERNACCHI",
+                null
+              ],
+              [
+                "IS77280",
+                "1964-04-17",
+                "-",
+                "25000.0"
+              ],
+              [
+                "15051802110117",
+                "2015-02-18",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877287225013036,
@@ -2818,7 +6690,57 @@
         1109186686,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 274",
+            "New Grant Lot",
+            "C4099310",
+            [
+              [
+                "IS48014",
+                "1946-10-16",
+                "-",
+                "340.0"
+              ],
+              [
+                "IS51345",
+                "1948-08-10",
+                "-",
+                "1600.0"
+              ],
+              [
+                "IS70406",
+                "1960-05-02",
+                "-",
+                "4000.0"
+              ],
+              [
+                "IS100362",
+                "1979-07-13",
+                "-",
+                null
+              ],
+              [
+                "IS97772",
+                "1979-07-13",
+                "-",
+                null
+              ],
+              [
+                "25070200580013",
+                "1993-08-24",
+                "CERTIFIED COPY CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ],
+              [
+                "25070200580024",
+                "2000-07-26",
+                "CERTIFIED COPY CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877076781807002,
@@ -2837,7 +6759,69 @@
         1109186705,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 256",
+            "New Grant Lot",
+            "C5760120",
+            [
+              [
+                "IS74387",
+                "1962-06-27",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS263017",
+                "1997-10-21",
+                "PROBATE",
+                null
+              ],
+              [
+                "IS279670",
+                "2000-01-21",
+                "STATUTORY DECLARATION OF HO WOON",
+                null
+              ],
+              [
+                "IS280018",
+                "2000-01-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "350000.0"
+              ],
+              [
+                "IS280088",
+                "2000-01-21",
+                "ASSIGNMENT",
+                "350000.0"
+              ],
+              [
+                "IS279671",
+                "2000-01-21",
+                "STATUTORY DECLARATION OF HO WOON AS TO THE LOSS OF TITLE DEED",
+                null
+              ],
+              [
+                "IS314504",
+                "2003-03-22",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1300000.0"
+              ],
+              [
+                "IS315727",
+                "2003-04-22",
+                "ASSIGNMENT",
+                "1300000.0"
+              ]
+            ]
+          ],
+          [
+            "DD310 LL 256 EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9876784584710065,
@@ -2856,7 +6840,39 @@
         1109186909,
         null,
         "18 LUK WU",
-        []
+        [
+          [
+            "DD310 LL 1",
+            "Old Schedule Lot",
+            "C5760097",
+            [
+              [
+                "IS69770",
+                "1959-11-18",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS82508",
+                "1969-03-01",
+                "-",
+                null
+              ],
+              [
+                "IS84049",
+                "1970-01-13",
+                "-",
+                null
+              ],
+              [
+                "IS122807",
+                "1985-03-25",
+                "DECLARATION OF CHANGE OF TITLE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877163904521362,
@@ -2894,7 +6910,20 @@
         1109187031,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 374 S.A",
+            "New Grant Lot",
+            null,
+            []
+          ],
+          [
+            "DD310 LL 374 S.B",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.987654877262951,
@@ -2970,7 +6999,14 @@
         1109815149,
         null,
         "17 LUK WU",
-        []
+        [
+          [
+            "DD310 LL 275",
+            "New Grant Lot",
+            "C6073510",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9876772767454507,
@@ -3084,7 +7120,69 @@
         1109815229,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 253",
+            "New Grant Lot",
+            "C4099197",
+            [
+              [
+                "IS60529",
+                "1954-03-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS82509",
+                "1969-03-01",
+                "CANCELLATION OF MANAGERSHIP",
+                null
+              ],
+              [
+                "IS185205",
+                "1971-07-26",
+                "NOTICE OF DEATH OF SIK TAK HEUNG, MANAGER \"DECEASED\"",
+                null
+              ],
+              [
+                "IS102084",
+                "1980-08-26",
+                "APPOINTMENT OF MANAGERS",
+                null
+              ],
+              [
+                "IS238481",
+                "1996-05-31",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "IS238482",
+                "1996-12-11",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "IS262909",
+                "1997-12-18",
+                "NOTICE OF DEATH OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "19092401270017",
+                "2017-07-24",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF KWONG SHIN TONG",
+                null
+              ],
+              [
+                "18120500180030",
+                "2018-10-02",
+                "APPROVAL OF APPOINTMENT OF MANAGERS OF KWONG SHIN TONG",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9877188149923446,
@@ -3160,7 +7258,14 @@
         1810088679,
         null,
         null,
-        []
+        [
+          [
+            "DD310 LL 285",
+            "New Grant Lot",
+            "C4099418",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9876884767131033,

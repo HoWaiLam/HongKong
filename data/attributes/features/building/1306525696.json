@@ -6,7 +6,39 @@
         1101763147,
         null,
         null,
-        []
+        [
+          [
+            "DD247 589",
+            "Old Schedule Lot",
+            "C6351382",
+            [
+              [
+                "SK237110",
+                "1995-07-04",
+                "-",
+                null
+              ],
+              [
+                "06112100250040",
+                "2006-10-26",
+                "ASSIGNMENT",
+                "700000.0"
+              ],
+              [
+                "11010500550036",
+                "2010-12-07",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "2000000.0"
+              ],
+              [
+                "11012800370164",
+                "2011-01-14",
+                "ASSIGNMENT",
+                "2000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938091354483283,
@@ -63,7 +95,27 @@
         1101773941,
         null,
         "16 PEI TAU",
-        []
+        [
+          [
+            "DD244 310 S.A SS.1",
+            "Old Schedule Lot",
+            "C6068663",
+            [
+              [
+                "SK89000",
+                "1976-07-02",
+                "-",
+                "2000.0"
+              ],
+              [
+                "SK105218",
+                "1983-06-07",
+                "SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993937351995248,
@@ -82,7 +134,33 @@
         1101773980,
         null,
         null,
-        []
+        [
+          [
+            "DD244 302",
+            "Old Schedule Lot",
+            "C6569426",
+            [
+              [
+                "SK70788",
+                "1960-08-03",
+                "-",
+                null
+              ],
+              [
+                "SK393385",
+                "1999-09-27",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "SK392581",
+                "1999-09-27",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939381113312538,
@@ -101,7 +179,33 @@
         1101773984,
         null,
         null,
-        []
+        [
+          [
+            "DD244 302",
+            "Old Schedule Lot",
+            "C6569426",
+            [
+              [
+                "SK70788",
+                "1960-08-03",
+                "-",
+                null
+              ],
+              [
+                "SK393385",
+                "1999-09-27",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "SK392581",
+                "1999-09-27",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993937069271202,
@@ -405,7 +509,81 @@
         1101774062,
         null,
         null,
-        []
+        [
+          [
+            "DD244 203",
+            "Old Schedule Lot",
+            "C3785202",
+            [
+              [
+                "SK70786",
+                "1960-08-02",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK73266",
+                "1961-10-17",
+                "POWER OF ATTORNEY BY WAN SUN LOI",
+                null
+              ],
+              [
+                "SK73267",
+                "1961-10-24",
+                "-",
+                null
+              ],
+              [
+                "SK99968",
+                "1981-03-30",
+                "-",
+                "200000.0"
+              ],
+              [
+                "SK99889",
+                "1981-03-30",
+                "STATUTORY DECLARATION BY WAN KAU ALIAS WAN KAU",
+                null
+              ],
+              [
+                "SK103917",
+                "1982-09-22",
+                "-",
+                "180000.0"
+              ],
+              [
+                "SK104049",
+                "1982-10-16",
+                "-",
+                "245000.0"
+              ],
+              [
+                "16082401460028",
+                "2016-08-17",
+                "MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "17102700970014",
+                "2017-10-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "18102201840047",
+                "2018-09-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18122701170057",
+                "2018-11-28",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938881831124027,
@@ -481,7 +659,124 @@
         1101774085,
         null,
         null,
-        []
+        [
+          [
+            "DD244 273",
+            "Old Schedule Lot",
+            "C5755493",
+            [
+              [
+                "SK55718",
+                "1950-11-23",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "SK114342",
+                "1986-03-10",
+                "DECLARATION BY CHEUNG PAT MUI ALSO KNOWN AS WAN CHEUNG SHI",
+                null
+              ],
+              [
+                "SK114343",
+                "1986-03-10",
+                "DELCARATION BY CHEUNG TO",
+                null
+              ],
+              [
+                "SK115262",
+                "1986-07-22",
+                "-",
+                "45000.0"
+              ],
+              [
+                "16051202100011",
+                "2016-05-11",
+                "MORTGAGE",
+                "FOR CONSIDERATION SEE REMARKS"
+              ],
+              [
+                "17102700970014",
+                "2017-10-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "18102201840039",
+                "2018-09-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18122701170057",
+                "2018-11-28",
+                "ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD244 274",
+            "Old Schedule Lot",
+            "C5682480",
+            [
+              [
+                "SK55718",
+                "1950-11-23",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "SK114343",
+                "1986-03-10",
+                "DELCARATION BY CHEUNG TO",
+                null
+              ],
+              [
+                "SK114342",
+                "1986-03-10",
+                "DECLARATION BY CHEUNG PAT MUI ALSO KNOWN AS WAN CHEUNG SHI",
+                null
+              ],
+              [
+                "SK114344",
+                "1986-05-06",
+                "-",
+                null
+              ],
+              [
+                "SK117273",
+                "1986-12-05",
+                "-",
+                null
+              ],
+              [
+                "16051202100011",
+                "2016-05-11",
+                "MORTGAGE",
+                "FOR CONSIDERATION SEE REMARKS"
+              ],
+              [
+                "17102700970014",
+                "2017-10-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "18102201840039",
+                "2018-09-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18122701170057",
+                "2018-11-28",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939170683433756,
@@ -557,7 +852,124 @@
         1101774095,
         null,
         null,
-        []
+        [
+          [
+            "DD244 272",
+            "Old Schedule Lot",
+            "C3785645",
+            [
+              [
+                "SK55718",
+                "1950-11-23",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "SK114343",
+                "1986-03-10",
+                "DELCARATION BY CHEUNG TO",
+                null
+              ],
+              [
+                "SK114342",
+                "1986-03-10",
+                "DECLARATION BY CHEUNG PAT MUI ALSO KNOWN AS WAN CHEUNG SHI",
+                null
+              ],
+              [
+                "SK114344",
+                "1986-05-06",
+                "-",
+                null
+              ],
+              [
+                "SK117273",
+                "1986-12-05",
+                "-",
+                null
+              ],
+              [
+                "16051202100011",
+                "2016-05-11",
+                "MORTGAGE",
+                "FOR CONSIDERATION SEE REMARKS"
+              ],
+              [
+                "17102700970014",
+                "2017-10-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "18102201840039",
+                "2018-09-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18122701170057",
+                "2018-11-28",
+                "ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD244 273",
+            "Old Schedule Lot",
+            "C5755493",
+            [
+              [
+                "SK55718",
+                "1950-11-23",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "SK114342",
+                "1986-03-10",
+                "DECLARATION BY CHEUNG PAT MUI ALSO KNOWN AS WAN CHEUNG SHI",
+                null
+              ],
+              [
+                "SK114343",
+                "1986-03-10",
+                "DELCARATION BY CHEUNG TO",
+                null
+              ],
+              [
+                "SK115262",
+                "1986-07-22",
+                "-",
+                "45000.0"
+              ],
+              [
+                "16051202100011",
+                "2016-05-11",
+                "MORTGAGE",
+                "FOR CONSIDERATION SEE REMARKS"
+              ],
+              [
+                "17102700970014",
+                "2017-10-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "18102201840039",
+                "2018-09-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18122701170057",
+                "2018-11-28",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939129415803734,
@@ -671,7 +1083,69 @@
         1101774112,
         null,
         null,
-        []
+        [
+          [
+            "DD244 272",
+            "Old Schedule Lot",
+            "C3785645",
+            [
+              [
+                "SK55718",
+                "1950-11-23",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "SK114343",
+                "1986-03-10",
+                "DELCARATION BY CHEUNG TO",
+                null
+              ],
+              [
+                "SK114342",
+                "1986-03-10",
+                "DECLARATION BY CHEUNG PAT MUI ALSO KNOWN AS WAN CHEUNG SHI",
+                null
+              ],
+              [
+                "SK114344",
+                "1986-05-06",
+                "-",
+                null
+              ],
+              [
+                "SK117273",
+                "1986-12-05",
+                "-",
+                null
+              ],
+              [
+                "16051202100011",
+                "2016-05-11",
+                "MORTGAGE",
+                "FOR CONSIDERATION SEE REMARKS"
+              ],
+              [
+                "17102700970014",
+                "2017-10-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "18102201840039",
+                "2018-09-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18122701170057",
+                "2018-11-28",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939115725841863,
@@ -709,7 +1183,69 @@
         1101774125,
         null,
         null,
-        []
+        [
+          [
+            "DD247 759",
+            "Old Schedule Lot",
+            "C3813623",
+            [
+              [
+                "SK55884",
+                "1950-12-30",
+                "-",
+                null
+              ],
+              [
+                "SK93604",
+                "1979-04-03",
+                "-",
+                null
+              ],
+              [
+                "SK113012",
+                "1985-07-09",
+                "STATUTORY DECLARATION BY WAN LAU SUN TAI ALSO KNOWN AS WAN LAU SHI",
+                null
+              ],
+              [
+                "SK113013",
+                "1986-02-24",
+                "-",
+                null
+              ],
+              [
+                "SK250387",
+                "1996-05-24",
+                "-",
+                null
+              ],
+              [
+                "SK258695",
+                "1996-08-19",
+                "-",
+                "500000.0"
+              ],
+              [
+                "SK258694",
+                "1996-08-19",
+                "DECLARATION BY WAN TAI HING",
+                null
+              ],
+              [
+                "16022602180108",
+                "2016-02-18",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "500000.0"
+              ],
+              [
+                "16041400880038",
+                "2016-03-18",
+                "ASSIGNMENT",
+                "500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993768046915873,
@@ -728,7 +1264,69 @@
         1101774129,
         null,
         null,
-        []
+        [
+          [
+            "DD244 272",
+            "Old Schedule Lot",
+            "C3785645",
+            [
+              [
+                "SK55718",
+                "1950-11-23",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "SK114343",
+                "1986-03-10",
+                "DELCARATION BY CHEUNG TO",
+                null
+              ],
+              [
+                "SK114342",
+                "1986-03-10",
+                "DECLARATION BY CHEUNG PAT MUI ALSO KNOWN AS WAN CHEUNG SHI",
+                null
+              ],
+              [
+                "SK114344",
+                "1986-05-06",
+                "-",
+                null
+              ],
+              [
+                "SK117273",
+                "1986-12-05",
+                "-",
+                null
+              ],
+              [
+                "16051202100011",
+                "2016-05-11",
+                "MORTGAGE",
+                "FOR CONSIDERATION SEE REMARKS"
+              ],
+              [
+                "17102700970014",
+                "2017-10-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "18102201840039",
+                "2018-09-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18122701170057",
+                "2018-11-28",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939105385076434,
@@ -766,7 +1364,57 @@
         1101774142,
         null,
         "29 PEI TAU",
-        []
+        [
+          [
+            "DD244 1969",
+            "New Grant Lot",
+            "C3804575",
+            [
+              [
+                "SK95587",
+                "1980-01-29",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "SK500975",
+                "2001-11-27",
+                "ORDER NO. DH 133/NT/01/C(WITH PLAN)",
+                null
+              ],
+              [
+                "SK531009",
+                "2002-07-02",
+                "LETTER OF WITHDRAWAL RELATING TO ORDER NO. DH 133/NT/01/C",
+                null
+              ],
+              [
+                "SK588822",
+                "2004-02-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1630000.0"
+              ],
+              [
+                "SK592368",
+                "2004-02-27",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK592367",
+                "2004-02-27",
+                "ASSIGNMENT",
+                "1630000.0"
+              ],
+              [
+                "13031902280104",
+                "2013-02-18",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993930656960744,
@@ -880,7 +1528,27 @@
         1101774198,
         null,
         null,
-        []
+        [
+          [
+            "DD244 2014",
+            "New Grant Lot",
+            "C3804813",
+            [
+              [
+                "SK108140",
+                "1984-08-31",
+                "RECTIFICATION AGREEMENT WITH PLAN",
+                null
+              ],
+              [
+                "07032001920024",
+                "2007-02-07",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939210559484193,
@@ -918,7 +1586,268 @@
         1101774298,
         null,
         "1 - 2 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 720",
+            "Old Schedule Lot",
+            "C3813407",
+            [
+              [
+                "SK86955",
+                "1974-03-17",
+                "POWER OF ATTORNEY BY WAN LAI MAN",
+                null
+              ],
+              [
+                "SK87445",
+                "1975-03-17",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK89466",
+                "1976-12-17",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK91518",
+                "1977-11-30",
+                "POWER OF ATTORNEY BY WAN LAI MAN RE 1/3 SHARE",
+                null
+              ],
+              [
+                "SK90778",
+                "1977-11-30",
+                "-",
+                "30000.0"
+              ],
+              [
+                "SK90859",
+                "1977-12-15",
+                "-",
+                "15000.0"
+              ],
+              [
+                "SK91986",
+                "1978-08-09",
+                "DEED OF RECTICICATION",
+                null
+              ],
+              [
+                "SK114176",
+                "1986-05-30",
+                "CHARGE",
+                "400000.0"
+              ],
+              [
+                "SK142553",
+                "1989-05-04",
+                "CHARGE",
+                null
+              ],
+              [
+                "SK142549",
+                "1989-05-04",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "SK142550",
+                "1989-05-04",
+                "STATUTORY DECLARATION BY TANG SAU CHUN",
+                null
+              ],
+              [
+                "SK264639",
+                "1997-01-06",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK478797",
+                "2001-06-30",
+                "CHARGE",
+                null
+              ],
+              [
+                "SK520554",
+                "2002-05-14",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "1950000.0"
+              ],
+              [
+                "SK572728",
+                "2003-03-15",
+                "SEALED COPY OF WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "SK592686",
+                "2004-03-02",
+                "SEALED COPY ORDER IN THE DISTRICT COURT OF THE HKSAR CIVIL ACTION NO. 1443 OF 2003",
+                null
+              ],
+              [
+                "SK592688",
+                "2004-03-11",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "05030700320015",
+                "2005-02-16",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "750000.0"
+              ],
+              [
+                "07011000470072",
+                "2005-03-24",
+                "RE-REGISTRATION ASSIGNMENT MEM.NO. 05042200710012",
+                "750000.0"
+              ],
+              [
+                "05042100970087",
+                "2005-03-24",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "05042200710012",
+                "2005-03-24",
+                "ASSIGNMENT",
+                "750000.0"
+              ],
+              [
+                "05120800590018",
+                "2005-12-01",
+                "NO-OBJECTION LETTER",
+                null
+              ],
+              [
+                "06070600600066",
+                "2006-06-30",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "06120700680041",
+                "2006-11-24",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "23000000.0"
+              ],
+              [
+                "07011000470047",
+                "2006-12-15",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "07011000470065",
+                "2006-12-15",
+                "ASSIGNMENT",
+                "23000000.0"
+              ]
+            ]
+          ],
+          [
+            "DD247 839",
+            "New Grant Lot",
+            "C3814080",
+            [
+              [
+                "SK142552",
+                "1982-02-24",
+                "COPY LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK142553",
+                "1989-05-04",
+                "CHARGE",
+                null
+              ],
+              [
+                "SK264639",
+                "1997-01-06",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK478797",
+                "2001-06-30",
+                "CHARGE",
+                null
+              ],
+              [
+                "SK520553",
+                "2002-05-14",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "1950000.0"
+              ],
+              [
+                "SK572728",
+                "2003-03-15",
+                "SEALED COPY OF WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "SK592686",
+                "2004-03-02",
+                "SEALED COPY ORDER IN THE DISTRICT COURT OF THE HKSAR CIVIL ACTION NO. 1443 OF 2003",
+                null
+              ],
+              [
+                "SK592687",
+                "2004-03-11",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "05030700320020",
+                "2005-02-16",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4550000.0"
+              ],
+              [
+                "05042100970087",
+                "2005-03-24",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "05042100970103",
+                "2005-03-24",
+                "MORTGAGE",
+                "TO SECURE \"ALL MONEYS\" IN RESPECT OF GENERAL BANKING FACILITIES AND INTEREST THEREON"
+              ],
+              [
+                "05042100970097",
+                "2005-03-24",
+                "ASSIGNMENT",
+                "4550000.0"
+              ],
+              [
+                "06120700680041",
+                "2006-11-24",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "23000000.0"
+              ],
+              [
+                "07011000470065",
+                "2006-12-15",
+                "ASSIGNMENT",
+                "23000000.0"
+              ],
+              [
+                "07011000470051",
+                "2006-12-15",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937653589014763,
@@ -956,7 +1885,69 @@
         1101774320,
         null,
         "3A TAI LAM WU",
-        []
+        [
+          [
+            "DD247 887",
+            "New Grant Lot",
+            "C6351593",
+            [
+              [
+                "05110300850103",
+                "2005-10-20",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "06071102370048",
+                "2006-05-04",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "06062102130062",
+                "2006-05-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7500000.0"
+              ],
+              [
+                "06072400020058",
+                "2006-07-03",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "06072400020044",
+                "2006-07-03",
+                "ASSIGNMENT",
+                "7500000.0"
+              ],
+              [
+                "11040402270054",
+                "2011-03-28",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "14300000.0"
+              ],
+              [
+                "11051801740025",
+                "2011-04-28",
+                "ASSIGNMENT",
+                "14300000.0"
+              ],
+              [
+                "11051801740017",
+                "2011-04-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "11051801740031",
+                "2011-04-28",
+                "MORTGAGE DEED",
+                "ALL MONEY"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937692585920024,
@@ -975,7 +1966,117 @@
         1101774344,
         null,
         "3 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 671",
+            "Old Schedule Lot",
+            "C3812630",
+            [
+              [
+                "SK55450",
+                "1950-09-15",
+                "-",
+                null
+              ],
+              [
+                "SK58520",
+                "1952-10-16",
+                "MORTGAGE",
+                "1000.0"
+              ],
+              [
+                "SK58629",
+                "1952-11-17",
+                "2ND MORTGAGE",
+                "500.0"
+              ],
+              [
+                "SK59919",
+                "1953-10-05",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "SK59920",
+                "1953-10-05",
+                "REDEMPTION OF 2ND MORTGAGE",
+                null
+              ],
+              [
+                "SK59921",
+                "1953-10-05",
+                "MORTGAGE",
+                "3000.0"
+              ],
+              [
+                "SK61120",
+                "1954-07-05",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "SK61121",
+                "1954-07-05",
+                "MORTGAGE",
+                "5000.0"
+              ],
+              [
+                "SK61395",
+                "1954-09-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK64097",
+                "1956-03-12",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "SK102581",
+                "1980-03-17",
+                "SEALED COPY WRIT OF SUMMONS 1982 NO.2163 BY MO YUK MING",
+                null
+              ],
+              [
+                "SK102988",
+                "1981-12-29",
+                "A SEALED COPY OF THE AMENDED WRIT OF SOMMONS",
+                null
+              ],
+              [
+                "SK110285",
+                "1985-05-20",
+                "ORDER IMPOSING CHARGE ON LAND: ORDER TO SHOW CAUSE",
+                null
+              ],
+              [
+                "SK110496",
+                "1985-06-06",
+                "SEALED COPY ORDER ABSOLUTE IMPOSING CHARGE ON LAND",
+                null
+              ],
+              [
+                "SK114771",
+                "1986-07-03",
+                "SEALED COPY ORDER (DISCHARGED)",
+                null
+              ],
+              [
+                "SK120613",
+                "1987-06-16",
+                "DUPLICATE LETTER OF TOLERATION",
+                null
+              ],
+              [
+                "SK121322",
+                "1987-08-13",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937681162460144,
@@ -994,7 +2095,99 @@
         1101774347,
         null,
         "27 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 673 S.A",
+            "Old Schedule Lot",
+            "C3812658",
+            [
+              [
+                "SK64408",
+                "1956-05-25",
+                "-",
+                null
+              ],
+              [
+                "SK93609",
+                "1979-04-26",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "SK98425",
+                "1980-11-12",
+                "-",
+                null
+              ],
+              [
+                "SK98428",
+                "1980-11-12",
+                "DEED OF DEVELOPMENT BY WAN TIM HEI",
+                null
+              ],
+              [
+                "SK98429",
+                "1980-11-12",
+                "POWER OF ATTORNEY BY WAN TIM HEI \"THE DONEE\"",
+                null
+              ],
+              [
+                "SK311306",
+                "1998-03-02",
+                "DEED FOR CANCELLATION OF DEED OF DEVELOPMENT",
+                null
+              ],
+              [
+                "SK335205",
+                "1998-08-05",
+                "ASSIGNMENT",
+                "360000.0"
+              ],
+              [
+                "05062700430072",
+                "2005-04-11",
+                "BUILDING LICENCE NO.1835 WITH PLAN",
+                null
+              ],
+              [
+                "12083101680081",
+                "2012-06-27",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "12081002820039",
+                "2012-07-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "12150000.0"
+              ],
+              [
+                "12101101970069",
+                "2012-09-13",
+                "ASSIGNMENT",
+                "12150000.0"
+              ],
+              [
+                "12101702120035",
+                "2012-09-27",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "17042700990033",
+                "2017-03-28",
+                "ORDER NO. \"VHN/C51/100039/17/NT\" * UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24031200510070",
+                "2024-01-05",
+                "LETTER OF COMPLIANCE (ORDER NO. \"VHN/C51/100039/17/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937726826317743,
@@ -1013,7 +2206,93 @@
         1101774353,
         null,
         "41 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 676 S.A SS.1",
+            "Old Schedule Lot",
+            "C6684608",
+            [
+              [
+                "SK94289",
+                "1979-08-08",
+                "-",
+                null
+              ],
+              [
+                "SK216015",
+                "1993-12-20",
+                "-",
+                "76230.0"
+              ],
+              [
+                "SK216072",
+                "1994-01-21",
+                "-",
+                "76230.0"
+              ],
+              [
+                "SK259449",
+                "1996-09-16",
+                "-",
+                "76230.0"
+              ],
+              [
+                "SK272433",
+                "1997-01-21",
+                "ASSIGNMENT",
+                "76230.0"
+              ],
+              [
+                "SK454926",
+                "2001-01-29",
+                "BUILDING LICENCE NO. 1575 (AS PER PLAN)",
+                null
+              ],
+              [
+                "06101102550066",
+                "2006-09-22",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "09052500050011",
+                "2009-05-18",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "09092902370014",
+                "2009-07-16",
+                "PROBATE",
+                null
+              ],
+              [
+                "10030902040054",
+                "2010-01-26",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "11112801710038",
+                "2011-11-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8000000.0"
+              ],
+              [
+                "12011901370051",
+                "2012-01-12",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "12011901370031",
+                "2012-01-12",
+                "ASSIGNMENT",
+                "8000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937752152580395,
@@ -1032,7 +2311,14 @@
         1101774356,
         null,
         "26 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 900",
+            "New Grant Lot",
+            "C5684524",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9937686988248748,
@@ -1070,7 +2356,171 @@
         1101774365,
         null,
         "28 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 892",
+            "New Grant Lot",
+            "C5684503",
+            [
+              [
+                "SK582948",
+                "1998-10-22",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "05100801110020",
+                "2005-09-11",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "6700000.0"
+              ],
+              [
+                "05110201700020",
+                "2005-10-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6700000.0"
+              ],
+              [
+                "06021500880044",
+                "2006-01-16",
+                "LEGAL CHARGE/MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "06021500880030",
+                "2006-01-16",
+                "ASSIGNMENT",
+                "6700000.0"
+              ],
+              [
+                "07072402280019",
+                "2006-12-05",
+                "SEALED COPY OF AMENDED WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "07061801020017",
+                "2007-05-29",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "10550000.0"
+              ],
+              [
+                "07080601310052",
+                "2007-06-28",
+                "ORDER NO. CWP/S1/97237/07/NT UNDER S.24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "07072500360016",
+                "2007-07-19",
+                "MEMORANDUM OF RESCISSION",
+                null
+              ],
+              [
+                "07072002710017",
+                "2007-07-19",
+                "SEALED COPY OF WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "07082900420202",
+                "2007-08-14",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "10021800860043",
+                "2010-02-12",
+                "SEALED COPY OF CONSENT ORDER",
+                null
+              ],
+              [
+                "10033002900304",
+                "2010-03-02",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "9200000.0"
+              ],
+              [
+                "10051903050315",
+                "2010-04-23",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL CREDIT FACILITIES"
+              ],
+              [
+                "10051903050292",
+                "2010-04-23",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "10051903050302",
+                "2010-04-23",
+                "ASSIGNMENT",
+                "9200000.0"
+              ],
+              [
+                "10051903050322",
+                "2010-05-07",
+                "SEALED COPY CONSENT ORDER TO DISCONTINUE ACTION",
+                null
+              ],
+              [
+                "20120901390016",
+                "2020-11-13",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "17500000.0"
+              ],
+              [
+                "21011301430015",
+                "2020-12-30",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "21062302340043",
+                "2021-06-07",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "21061600060055",
+                "2021-06-07",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "21091001600032",
+                "2021-08-11",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "18100000.0"
+              ],
+              [
+                "21110201070021",
+                "2021-10-18",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "21110201070039",
+                "2021-10-18",
+                "ASSIGNMENT",
+                "18100000.0"
+              ],
+              [
+                "21110201070042",
+                "2021-10-18",
+                "MORTGAGE DEED",
+                "ALL MONEY"
+              ],
+              [
+                "24052001170243",
+                "2024-03-28",
+                "ORDER NO. VVS/Q51/100040/24/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993771047215142,
@@ -1089,7 +2539,99 @@
         1101774368,
         null,
         "25 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 891",
+            "New Grant Lot",
+            "C5127504",
+            [
+              [
+                "SK388688",
+                "1999-06-08",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "05103101810026",
+                "2005-10-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4250000.0"
+              ],
+              [
+                "06030802480093",
+                "2006-02-15",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "06030802480087",
+                "2006-02-15",
+                "ASSIGNMENT",
+                "4250000.0"
+              ],
+              [
+                "07060600520034",
+                "2007-05-29",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4550000.0"
+              ],
+              [
+                "07092100440032",
+                "2007-08-28",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "07092100440015",
+                "2007-08-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "07092100440028",
+                "2007-08-28",
+                "ASSIGNMENT",
+                "4550000.0"
+              ],
+              [
+                "09081900470117",
+                "2009-07-28",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "6780000.0"
+              ],
+              [
+                "09090300430214",
+                "2009-08-11",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6780000.0"
+              ],
+              [
+                "09092400480240",
+                "2009-08-28",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "09092400480236",
+                "2009-08-28",
+                "ASSIGNMENT",
+                "6780000.0"
+              ],
+              [
+                "09092400480228",
+                "2009-08-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "22080800800071",
+                "2022-07-15",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993768627902861,
@@ -1108,7 +2650,117 @@
         1101774370,
         null,
         "5 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 660",
+            "Old Schedule Lot",
+            "C6351457",
+            [
+              [
+                "SK55451",
+                "1950-09-15",
+                "-",
+                null
+              ],
+              [
+                "SK58520",
+                "1952-10-16",
+                "MORTGAGE",
+                "1000.0"
+              ],
+              [
+                "SK58629",
+                "1952-11-17",
+                "2ND MORTGAGE",
+                "500.0"
+              ],
+              [
+                "SK59920",
+                "1953-10-05",
+                "REDEMPTION OF 2ND MORTGAGE",
+                null
+              ],
+              [
+                "SK59919",
+                "1953-10-05",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "SK59921",
+                "1953-10-05",
+                "MORTGAGE",
+                "3000.0"
+              ],
+              [
+                "SK61121",
+                "1954-07-05",
+                "MORTGAGE",
+                "5000.0"
+              ],
+              [
+                "SK61120",
+                "1954-07-05",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "SK61395",
+                "1954-09-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK64097",
+                "1956-03-12",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "SK90699",
+                "1977-11-15",
+                "-",
+                "50000.0"
+              ],
+              [
+                "SK92316",
+                "1978-09-29",
+                "-",
+                "55000.0"
+              ],
+              [
+                "SK235982",
+                "1995-06-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1700000.0"
+              ],
+              [
+                "SK236298",
+                "1995-06-30",
+                "-",
+                "1700000.0"
+              ],
+              [
+                "SK335815",
+                "1998-08-03",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "SK620985",
+                "2004-11-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "500000.0"
+              ],
+              [
+                "SK624196",
+                "2004-11-18",
+                "ASSIGNMENT",
+                "500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937654459922922,
@@ -1127,7 +2779,123 @@
         1101774371,
         null,
         "23 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 657",
+            "Old Schedule Lot",
+            "C3812475",
+            [
+              [
+                "SK55450",
+                "1950-09-15",
+                "-",
+                null
+              ],
+              [
+                "SK58520",
+                "1952-10-16",
+                "MORTGAGE",
+                "1000.0"
+              ],
+              [
+                "SK58629",
+                "1952-11-17",
+                "2ND MORTGAGE",
+                "500.0"
+              ],
+              [
+                "SK59920",
+                "1953-10-05",
+                "REDEMPTION OF 2ND MORTGAGE",
+                null
+              ],
+              [
+                "SK59921",
+                "1953-10-05",
+                "MORTGAGE",
+                "3000.0"
+              ],
+              [
+                "SK59919",
+                "1953-10-05",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "SK61120",
+                "1954-07-05",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "SK61121",
+                "1954-07-05",
+                "MORTGAGE",
+                "5000.0"
+              ],
+              [
+                "SK61395",
+                "1954-09-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK64097",
+                "1956-03-12",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "SK90676",
+                "1977-11-11",
+                "-",
+                "60000.0"
+              ],
+              [
+                "SK94885",
+                "1979-10-10",
+                "-",
+                null
+              ],
+              [
+                "SK100781",
+                "1981-07-04",
+                "MORTGAGE",
+                "160000.0"
+              ],
+              [
+                "SK194099",
+                "1992-06-29",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "SK428203",
+                "1999-09-07",
+                "DEATH CERTIFICATE OF IP CHI CHING \"DECEASED\"",
+                null
+              ],
+              [
+                "SK428204",
+                "2000-05-22",
+                "CERTIFICATE OF EXEMPTION FROM ESTATE DUTY",
+                null
+              ],
+              [
+                "SK456948",
+                "2001-02-16",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "SK456621",
+                "2001-02-16",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937635080886111,
@@ -1146,7 +2914,129 @@
         1101774376,
         null,
         "22 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 656",
+            "Old Schedule Lot",
+            "C3812464",
+            [
+              [
+                "SK55451",
+                "1950-09-15",
+                "-",
+                null
+              ],
+              [
+                "SK58520",
+                "1952-10-16",
+                "MORTGAGE",
+                "1000.0"
+              ],
+              [
+                "SK58629",
+                "1952-11-17",
+                "2ND MORTGAGE",
+                "500.0"
+              ],
+              [
+                "SK59920",
+                "1953-10-05",
+                "REDEMPTION OF 2ND MORTGAGE",
+                null
+              ],
+              [
+                "SK59919",
+                "1953-10-05",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "SK59921",
+                "1953-10-05",
+                "MORTGAGE",
+                "3000.0"
+              ],
+              [
+                "SK61121",
+                "1954-07-05",
+                "MORTGAGE",
+                "5000.0"
+              ],
+              [
+                "SK61120",
+                "1954-07-05",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "SK61395",
+                "1954-09-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK64097",
+                "1956-03-12",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "SK90676",
+                "1977-11-11",
+                "-",
+                "60000.0"
+              ],
+              [
+                "SK94885",
+                "1979-10-10",
+                "-",
+                null
+              ],
+              [
+                "SK100781",
+                "1981-07-04",
+                "MORTGAGE",
+                "160000.0"
+              ],
+              [
+                "SK194099",
+                "1992-06-29",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "SK428203",
+                "1999-09-07",
+                "DEATH CERTIFICATE OF IP CHI CHING \"DECEASED\"",
+                null
+              ],
+              [
+                "SK428204",
+                "2000-05-22",
+                "CERTIFICATE OF EXEMPTION FROM ESTATE DUTY",
+                null
+              ],
+              [
+                "SK456948",
+                "2001-02-16",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "SK456621",
+                "2001-02-16",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1000000.0"
+              ],
+              [
+                "18061300240101",
+                "2018-03-12",
+                "CERTIFIED COPY DEATH CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937637126973509,
@@ -1165,7 +3055,51 @@
         1101774380,
         null,
         "6 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 822 S.A",
+            "New Grant Lot",
+            "C6069151",
+            [
+              [
+                "SK65252",
+                "1956-12-10",
+                "-",
+                null
+              ],
+              [
+                "SK214099",
+                "1993-11-12",
+                "-",
+                null
+              ],
+              [
+                "SK229578",
+                "1994-12-21",
+                "-",
+                null
+              ],
+              [
+                "15052800730079",
+                "2013-01-14",
+                "PROBATE",
+                null
+              ],
+              [
+                "15062400020127",
+                "2015-06-18",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "16111801330168",
+                "2016-10-10",
+                "ASSIGNMENT",
+                "1500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937661122046888,
@@ -1184,7 +3118,142 @@
         1101774381,
         null,
         "21 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 654",
+            "Old Schedule Lot",
+            "C3812444",
+            [
+              [
+                "SK56088",
+                "1951-02-26",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "SK72849",
+                "1961-08-10",
+                "-",
+                null
+              ],
+              [
+                "SK77964",
+                "1964-08-27",
+                "MORTGAGE BY WAN KUN FUK RE 1/4 SHARE",
+                "1000.0"
+              ],
+              [
+                "SK90753",
+                "1977-11-21",
+                "RECEIPT ON REDEMPTION OF MORTGAGE MEMORIAL NO.77964",
+                null
+              ],
+              [
+                "SK477886",
+                "2001-06-04",
+                "LETTERS OF ADMINISTRATION (GRANT NO. HCAG000878/2001)",
+                null
+              ],
+              [
+                "SK484504",
+                "2001-07-18",
+                "ASSIGNMENT",
+                "160000.0"
+              ],
+              [
+                "SK494968",
+                "2001-09-20",
+                "MORTGAGE RE : 1/4 SHARE",
+                "10000.0"
+              ],
+              [
+                "SK494967",
+                "2001-09-20",
+                "ASSIGNMENT",
+                "39000.0"
+              ],
+              [
+                "07113001980030",
+                "2007-10-29",
+                "ASSIGNMENT",
+                "50000.0"
+              ],
+              [
+                "17012700840014",
+                "2008-03-05",
+                "PROBATE WITH AMENDED SCHEDULE",
+                null
+              ],
+              [
+                "14123002400012",
+                "2012-09-12",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "17110801800010",
+                "2017-09-02",
+                "ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD247 655",
+            "Old Schedule Lot",
+            "C3812458",
+            [
+              [
+                "SK72849",
+                "1961-08-10",
+                "-",
+                null
+              ],
+              [
+                "SK104738",
+                "1983-02-25",
+                "CONVEYANCE ON SALE",
+                "320000.0"
+              ],
+              [
+                "SK185995",
+                "1991-10-31",
+                "-",
+                "1300000.0"
+              ],
+              [
+                "SK185994",
+                "1991-10-31",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "1300000.0"
+              ],
+              [
+                "06040602270055",
+                "2006-03-22",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "15090701530037",
+                "2015-08-17",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "15090701530044",
+                "2015-08-17",
+                "ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "25103100490013",
+                "2025-09-02",
+                "CERTIFIED COPY OF CERTIFICATE OF AMALGAMATION",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937639309331359,
@@ -1203,7 +3272,57 @@
         1101774384,
         null,
         "7 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 822 S.A",
+            "New Grant Lot",
+            "C6069151",
+            [
+              [
+                "SK65252",
+                "1956-12-10",
+                "-",
+                null
+              ],
+              [
+                "SK214099",
+                "1993-11-12",
+                "-",
+                null
+              ],
+              [
+                "SK229578",
+                "1994-12-21",
+                "-",
+                null
+              ],
+              [
+                "15052800730079",
+                "2013-01-14",
+                "PROBATE",
+                null
+              ],
+              [
+                "15062400020127",
+                "2015-06-18",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "16111801330168",
+                "2016-10-10",
+                "ASSIGNMENT",
+                "1500000.0"
+              ]
+            ]
+          ],
+          [
+            "DD247 822 S.B",
+            "New Grant Lot",
+            "D0212771",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9937662902814133,
@@ -1222,7 +3341,100 @@
         1101774386,
         null,
         "30 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 665",
+            "Old Schedule Lot",
+            "C3812568",
+            [
+              [
+                "SK65252",
+                "1956-12-10",
+                "-",
+                null
+              ],
+              [
+                "SK214099",
+                "1993-11-12",
+                "-",
+                null
+              ],
+              [
+                "SK229578",
+                "1994-12-21",
+                "-",
+                null
+              ],
+              [
+                "SK229822",
+                "1994-12-22",
+                "-",
+                "50000.0"
+              ],
+              [
+                "SK397851",
+                "1999-09-22",
+                "BUILDING LICENCE NO. 1402 (AS PER PLAN)",
+                null
+              ],
+              [
+                "09070303140029",
+                "2008-11-21",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "21061600060040",
+                "2021-06-07",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD247 666 S.A",
+            "Old Schedule Lot",
+            "C5684308",
+            [
+              [
+                "SK214099",
+                "1993-11-12",
+                "-",
+                null
+              ],
+              [
+                "SK229578",
+                "1994-12-21",
+                "-",
+                null
+              ],
+              [
+                "SK229821",
+                "1994-12-22",
+                "-",
+                "100000.0"
+              ],
+              [
+                "SK397851",
+                "1999-09-22",
+                "BUILDING LICENCE NO. 1402 (AS PER PLAN)",
+                null
+              ],
+              [
+                "09070303140029",
+                "2008-11-21",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "21061600060040",
+                "2021-06-07",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937711214687448,
@@ -1241,7 +3453,27 @@
         1101774388,
         null,
         "29 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 899",
+            "New Grant Lot",
+            "C5916480",
+            [
+              [
+                "SK498628",
+                "2001-11-01",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "21061600060040",
+                "2021-06-07",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937690194065365,
@@ -1260,7 +3492,117 @@
         1101774392,
         null,
         "1 NGAU PUI WO",
-        []
+        [
+          [
+            "DD247 590",
+            "Old Schedule Lot",
+            "C3812080",
+            [
+              [
+                "SK237110",
+                "1995-07-04",
+                "-",
+                null
+              ],
+              [
+                "SK624266",
+                "2004-12-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "880000.0"
+              ],
+              [
+                "05022402160019",
+                "2005-02-15",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "05102802090160",
+                "2005-05-21",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "05111001180015",
+                "2005-09-28",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "760000.0"
+              ],
+              [
+                "05123100560334",
+                "2005-10-08",
+                "PROVISIONAL AGREEMENT FOR SUB-SALE AND PURCHASE",
+                "980000.0"
+              ],
+              [
+                "05123100560341",
+                "2005-12-02",
+                "ASSIGNMENT",
+                "980000.0"
+              ],
+              [
+                "05123100560357",
+                "2005-12-02",
+                "MORTGAGE",
+                "ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "06122002370020",
+                "2006-11-24",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "06122002370016",
+                "2006-11-24",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "07082900420144",
+                "2007-08-07",
+                "ORDER NO.CWP/S1/97849/07/NT BY THE BUILDING AUTHORITY UNDER S.24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "07092000970047",
+                "2007-09-03",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "07120402900123",
+                "2007-10-22",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "07110700590012",
+                "2007-10-22",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "09070701470207",
+                "2009-05-14",
+                "ORDER NO. CWP/S1/100564/09/NT BY THE BUILDING AUTHORITY UNDER S.24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "10110500570033",
+                "2010-10-18",
+                "RELEASE",
+                null
+              ],
+              [
+                "13111201200023",
+                "2013-10-03",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938095227025057,
@@ -1279,7 +3621,81 @@
         1101774396,
         null,
         "17 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 652",
+            "Old Schedule Lot",
+            "C3812423",
+            [
+              [
+                "SK86955",
+                "1974-03-17",
+                "POWER OF ATTORNEY BY WAN LAI MAN",
+                null
+              ],
+              [
+                "SK87445",
+                "1975-03-17",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK89466",
+                "1976-12-17",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK91518",
+                "1977-11-30",
+                "POWER OF ATTORNEY BY WAN LAI MAN RE 1/3 SHARE",
+                null
+              ],
+              [
+                "SK101018",
+                "1981-08-18",
+                "REVOCATION OF POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK101185",
+                "1981-08-28",
+                "POWER OF ATTORNEY BY WONG YUK YING RE 1/3 SHARE",
+                null
+              ],
+              [
+                "SK101232",
+                "1981-09-04",
+                "CONVEYANCE ON SALE",
+                "120000.0"
+              ],
+              [
+                "SK101187",
+                "1981-09-04",
+                "POWER OF ATTORNEY BY CHEUNG LIN RE 1/3 SHARE",
+                null
+              ],
+              [
+                "SK102496",
+                "1982-02-22",
+                "MORTGAGE",
+                "150000.0"
+              ],
+              [
+                "SK105148",
+                "1983-05-06",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "09013001660329",
+                "2009-01-20",
+                "MORTGAGE",
+                "500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993764598093028,
@@ -1317,7 +3733,111 @@
         1101774401,
         null,
         "31 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 664 S.A SS.1",
+            "Old Schedule Lot",
+            "C6569741",
+            [
+              [
+                "SK84923",
+                "1971-12-31",
+                "-",
+                null
+              ],
+              [
+                "SK95546",
+                "1980-01-03",
+                "-",
+                null
+              ],
+              [
+                "SK228911",
+                "1994-11-25",
+                "DECLARATION BY WAN FOR CHUEN ALSO KNOWN AS WAN FOR TSUN",
+                null
+              ],
+              [
+                "SK362714",
+                "1999-01-20",
+                "DEED OF RECTIFICATION AS PER PLAN TO M/N 224738",
+                null
+              ],
+              [
+                "SK383702",
+                "1999-07-05",
+                "BUILDING LICENCE NO. 1297 (AS PER PLAN)",
+                null
+              ],
+              [
+                "07020500390042",
+                "2007-01-16",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3600000.0"
+              ],
+              [
+                "07030801180040",
+                "2007-02-15",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "07030801180038",
+                "2007-02-15",
+                "ASSIGNMENT",
+                "3600000.0"
+              ],
+              [
+                "08040902780291",
+                "2008-03-12",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "8000000.0"
+              ],
+              [
+                "08060602630657",
+                "2008-05-09",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "08060602630680",
+                "2008-05-09",
+                "MORTGAGE",
+                "SEE REMARKS"
+              ],
+              [
+                "08060602630669",
+                "2008-05-09",
+                "ASSIGNMENT",
+                "8000000.0"
+              ],
+              [
+                "12031900160047",
+                "2012-02-28",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "10500000.0"
+              ],
+              [
+                "12050700220098",
+                "2012-04-13",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "12051500230170",
+                "2012-04-13",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "12050700220083",
+                "2012-04-13",
+                "ASSIGNMENT",
+                "10500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937701274832695,
@@ -1336,7 +3856,21 @@
         1101774403,
         null,
         "16 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 651",
+            "Old Schedule Lot",
+            "C5127204",
+            [
+              [
+                "SK97480",
+                "1980-08-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937648463910111,
@@ -1355,7 +3889,93 @@
         1101774407,
         null,
         "4 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 664 RP",
+            "Old Schedule Lot",
+            "C3812548",
+            [
+              [
+                "SK84923",
+                "1971-12-31",
+                "-",
+                null
+              ],
+              [
+                "SK95547",
+                "1980-01-03",
+                "-",
+                null
+              ],
+              [
+                "SK298356",
+                "1997-08-29",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "5600000.0"
+              ],
+              [
+                "SK307820",
+                "1998-01-02",
+                "LEGAL CHARGE/MORTGAGE",
+                null
+              ],
+              [
+                "SK307819",
+                "1998-01-02",
+                "ASSIGNMENT",
+                "5600000.0"
+              ],
+              [
+                "SK496251",
+                "2001-10-15",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK496252",
+                "2001-10-15",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK602284",
+                "2004-05-04",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6230000.0"
+              ],
+              [
+                "SK610963",
+                "2004-07-14",
+                "ASSIGNMENT",
+                "6230000.0"
+              ],
+              [
+                "SK610964",
+                "2004-07-14",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "SK610962",
+                "2004-07-14",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "10062102220014",
+                "2010-06-03",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEY"
+              ],
+              [
+                "14121900400094",
+                "2014-12-15",
+                "DEED POLL WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993771266649468,
@@ -1374,7 +3994,94 @@
         1101774408,
         null,
         "14 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 649",
+            "Old Schedule Lot",
+            "C6351434",
+            [
+              [
+                "SK65539",
+                "1957-02-22",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "SK65595",
+                "1957-03-06",
+                "MORTGAGE",
+                "1300.0"
+              ],
+              [
+                "SK66162",
+                "1957-08-27",
+                "MORTGAGE",
+                "2000.0"
+              ],
+              [
+                "SK66161",
+                "1957-08-27",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "SK81951",
+                "1968-05-02",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "SK89087",
+                "1976-08-04",
+                "-",
+                null
+              ],
+              [
+                "SK233672",
+                "1995-03-30",
+                "-",
+                "3000000.0"
+              ],
+              [
+                "SK233513",
+                "1995-03-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3000000.0"
+              ]
+            ]
+          ],
+          [
+            "DD247 835",
+            "New Grant Lot",
+            "C6651579",
+            [
+              [
+                "SK68094",
+                "1958-12-01",
+                "MORTGAGE",
+                "1700.0"
+              ],
+              [
+                "SK77248",
+                "1964-04-23",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "SK233672",
+                "1995-03-30",
+                "-",
+                "3000000.0"
+              ],
+              [
+                "SK233513",
+                "1995-03-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937652225461846,
@@ -1393,7 +4100,39 @@
         1101774409,
         null,
         "13 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 835",
+            "New Grant Lot",
+            "C6651579",
+            [
+              [
+                "SK68094",
+                "1958-12-01",
+                "MORTGAGE",
+                "1700.0"
+              ],
+              [
+                "SK77248",
+                "1964-04-23",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "SK233672",
+                "1995-03-30",
+                "-",
+                "3000000.0"
+              ],
+              [
+                "SK233513",
+                "1995-03-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937653895002265,
@@ -1412,7 +4151,21 @@
         1101774412,
         null,
         "12 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 836",
+            "New Grant Lot",
+            "C3814067",
+            [
+              [
+                "06101900190089",
+                "2006-09-21",
+                "ASSIGNMENT",
+                "800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993765669354627,
@@ -1431,7 +4184,93 @@
         1101774436,
         null,
         null,
-        []
+        [
+          [
+            "DD247 640 RP",
+            "Old Schedule Lot",
+            "C6351412",
+            [
+              [
+                "SK93287",
+                "1979-03-12",
+                "-",
+                null
+              ],
+              [
+                "SK592752",
+                "2004-01-27",
+                "A SEALED COPY OF BANKRUPTCY ORDER ON DEBTOR'S PETITION",
+                null
+              ],
+              [
+                "06022501260014",
+                "2006-02-10",
+                "ASSIGNMENT",
+                "776000.0"
+              ],
+              [
+                "06032302420020",
+                "2006-03-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8300000.0"
+              ],
+              [
+                "06042502560120",
+                "2006-03-31",
+                "ASSIGNMENT",
+                "8300000.0"
+              ],
+              [
+                "13120402220024",
+                "2013-11-07",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "38000000.0"
+              ],
+              [
+                "13121601750124",
+                "2013-12-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "38000000.0"
+              ],
+              [
+                "14012800040073",
+                "2014-01-06",
+                "ASSIGNMENT",
+                "38000000.0"
+              ],
+              [
+                "17070702180014",
+                "2017-05-29",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "19081600610018",
+                "2019-07-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "28000000.0"
+              ],
+              [
+                "19111900290013",
+                "2019-10-28",
+                "SUPPLEMENTAL AGREEMENT",
+                "THE NEW CONSIDERATION IS $26,830,000.00"
+              ],
+              [
+                "19111900290020",
+                "2019-10-31",
+                "ASSIGNMENT",
+                "26830000.0"
+              ],
+              [
+                "21031700120053",
+                "2020-04-07",
+                "TENANCY AGREEMENT",
+                "THE RENT IS $85,000.00 PER MONTH"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9938129857873321,
@@ -1469,7 +4308,183 @@
         1101774441,
         null,
         "11 NGAU PUI WO",
-        []
+        [
+          [
+            "DD247 841",
+            "New Grant Lot",
+            "C3814101",
+            [
+              [
+                "SK149495",
+                "1989-11-17",
+                "-",
+                null
+              ],
+              [
+                "SK236460",
+                "1995-06-27",
+                "TOLERATION LETTER",
+                null
+              ],
+              [
+                "SK243925",
+                "1995-07-20",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK264437",
+                "1996-11-29",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "SK266208",
+                "1996-12-23",
+                "MEMORANDUM FOR SALE AND PURCHASE",
+                "5400000.0"
+              ],
+              [
+                "SK266209",
+                "1997-01-06",
+                "ASSIGNMENT",
+                "5400000.0"
+              ],
+              [
+                "SK266210",
+                "1997-01-06",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK288238",
+                "1997-07-29",
+                "SECOND MORTGAGE",
+                null
+              ],
+              [
+                "SK387954",
+                "1999-07-27",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                null
+              ],
+              [
+                "SK388080",
+                "1999-08-02",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK446654",
+                "2000-10-13",
+                "MEMORANDUM OF RESCISSION",
+                null
+              ],
+              [
+                "SK459490",
+                "2001-03-02",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3080000.0"
+              ],
+              [
+                "SK463821",
+                "2001-04-02",
+                "CHARGE",
+                null
+              ],
+              [
+                "SK463820",
+                "2001-04-02",
+                "ASSIGNMENT",
+                "3080000.0"
+              ],
+              [
+                "06032302420020",
+                "2006-03-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8300000.0"
+              ],
+              [
+                "06050402850087",
+                "2006-03-31",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "06042502560120",
+                "2006-03-31",
+                "ASSIGNMENT",
+                "8300000.0"
+              ],
+              [
+                "08042801290018",
+                "2008-03-31",
+                "ORDER NO. CWP/S1/98289/08/NT BY THE BUILDING AUTHORITY UNDER S.24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "08062301890070",
+                "2008-05-21",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "13120402220024",
+                "2013-11-07",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "38000000.0"
+              ],
+              [
+                "13121601750124",
+                "2013-12-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "38000000.0"
+              ],
+              [
+                "14012800040073",
+                "2014-01-06",
+                "ASSIGNMENT",
+                "38000000.0"
+              ],
+              [
+                "17070702180014",
+                "2017-05-29",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "19081600610018",
+                "2019-07-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "28000000.0"
+              ],
+              [
+                "19111900290013",
+                "2019-10-28",
+                "SUPPLEMENTAL AGREEMENT",
+                "THE NEW CONSIDERATION IS $26,830,000.00"
+              ],
+              [
+                "19111900290020",
+                "2019-10-31",
+                "ASSIGNMENT",
+                "26830000.0"
+              ],
+              [
+                "21031700120053",
+                "2020-04-07",
+                "TENANCY AGREEMENT",
+                "THE RENT IS $85,000.00 PER MONTH"
+              ],
+              [
+                "25031201850013",
+                "2025-03-07",
+                "SEALED COPY CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993819442502813,
@@ -1488,7 +4503,105 @@
         1101774502,
         null,
         null,
-        []
+        [
+          [
+            "DD247 647 RP",
+            "Old Schedule Lot",
+            "C6017881",
+            [
+              [
+                "SK86955",
+                "1974-03-17",
+                "POWER OF ATTORNEY BY WAN LAI MAN",
+                null
+              ],
+              [
+                "SK87445",
+                "1975-03-17",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK89466",
+                "1976-12-17",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK91518",
+                "1977-11-30",
+                "POWER OF ATTORNEY BY WAN LAI MAN RE 1/3 SHARE",
+                null
+              ],
+              [
+                "SK90778",
+                "1977-11-30",
+                "-",
+                "30000.0"
+              ],
+              [
+                "SK90859",
+                "1977-12-15",
+                "-",
+                "15000.0"
+              ],
+              [
+                "SK105481",
+                "1982-12-06",
+                "TEMPORARY WAIVER",
+                null
+              ],
+              [
+                "SK191471",
+                "1992-04-02",
+                "SUPPLEMENTARY GAREEMENT S.W. NO.130",
+                null
+              ],
+              [
+                "SK191472",
+                "1992-04-02",
+                "SUPPLEMENTARY AGREEMENT S.W. NO.130",
+                null
+              ],
+              [
+                "SK362549",
+                "1999-01-20",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE (WITH PLAN)BY D. OF PLANNING",
+                null
+              ],
+              [
+                "SK387424",
+                "1999-08-12",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(4A) OF THE",
+                null
+              ],
+              [
+                "12080601590015",
+                "2012-07-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4000000.0"
+              ],
+              [
+                "12101200980050",
+                "2012-09-18",
+                "ASSIGNMENT",
+                "4000000.0"
+              ],
+              [
+                "12101500510092",
+                "2012-10-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6000000.0"
+              ],
+              [
+                "12102501990143",
+                "2012-10-08",
+                "ASSIGNMENT",
+                "6000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993772518752904,
@@ -1507,7 +4620,105 @@
         1101774511,
         null,
         null,
-        []
+        [
+          [
+            "DD247 647 RP",
+            "Old Schedule Lot",
+            "C6017881",
+            [
+              [
+                "SK86955",
+                "1974-03-17",
+                "POWER OF ATTORNEY BY WAN LAI MAN",
+                null
+              ],
+              [
+                "SK87445",
+                "1975-03-17",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK89466",
+                "1976-12-17",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK91518",
+                "1977-11-30",
+                "POWER OF ATTORNEY BY WAN LAI MAN RE 1/3 SHARE",
+                null
+              ],
+              [
+                "SK90778",
+                "1977-11-30",
+                "-",
+                "30000.0"
+              ],
+              [
+                "SK90859",
+                "1977-12-15",
+                "-",
+                "15000.0"
+              ],
+              [
+                "SK105481",
+                "1982-12-06",
+                "TEMPORARY WAIVER",
+                null
+              ],
+              [
+                "SK191471",
+                "1992-04-02",
+                "SUPPLEMENTARY GAREEMENT S.W. NO.130",
+                null
+              ],
+              [
+                "SK191472",
+                "1992-04-02",
+                "SUPPLEMENTARY AGREEMENT S.W. NO.130",
+                null
+              ],
+              [
+                "SK362549",
+                "1999-01-20",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE (WITH PLAN)BY D. OF PLANNING",
+                null
+              ],
+              [
+                "SK387424",
+                "1999-08-12",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(4A) OF THE",
+                null
+              ],
+              [
+                "12080601590015",
+                "2012-07-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4000000.0"
+              ],
+              [
+                "12101200980050",
+                "2012-09-18",
+                "ASSIGNMENT",
+                "4000000.0"
+              ],
+              [
+                "12101500510092",
+                "2012-10-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6000000.0"
+              ],
+              [
+                "12102501990143",
+                "2012-10-08",
+                "ASSIGNMENT",
+                "6000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937723958864397,
@@ -1526,7 +4737,105 @@
         1101774522,
         null,
         "151 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 647 RP",
+            "Old Schedule Lot",
+            "C6017881",
+            [
+              [
+                "SK86955",
+                "1974-03-17",
+                "POWER OF ATTORNEY BY WAN LAI MAN",
+                null
+              ],
+              [
+                "SK87445",
+                "1975-03-17",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK89466",
+                "1976-12-17",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK91518",
+                "1977-11-30",
+                "POWER OF ATTORNEY BY WAN LAI MAN RE 1/3 SHARE",
+                null
+              ],
+              [
+                "SK90778",
+                "1977-11-30",
+                "-",
+                "30000.0"
+              ],
+              [
+                "SK90859",
+                "1977-12-15",
+                "-",
+                "15000.0"
+              ],
+              [
+                "SK105481",
+                "1982-12-06",
+                "TEMPORARY WAIVER",
+                null
+              ],
+              [
+                "SK191471",
+                "1992-04-02",
+                "SUPPLEMENTARY GAREEMENT S.W. NO.130",
+                null
+              ],
+              [
+                "SK191472",
+                "1992-04-02",
+                "SUPPLEMENTARY AGREEMENT S.W. NO.130",
+                null
+              ],
+              [
+                "SK362549",
+                "1999-01-20",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE (WITH PLAN)BY D. OF PLANNING",
+                null
+              ],
+              [
+                "SK387424",
+                "1999-08-12",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(4A) OF THE",
+                null
+              ],
+              [
+                "12080601590015",
+                "2012-07-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4000000.0"
+              ],
+              [
+                "12101200980050",
+                "2012-09-18",
+                "ASSIGNMENT",
+                "4000000.0"
+              ],
+              [
+                "12101500510092",
+                "2012-10-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6000000.0"
+              ],
+              [
+                "12102501990143",
+                "2012-10-08",
+                "ASSIGNMENT",
+                "6000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937713530129644,
@@ -1545,7 +4854,105 @@
         1101774529,
         null,
         null,
-        []
+        [
+          [
+            "DD247 647 RP",
+            "Old Schedule Lot",
+            "C6017881",
+            [
+              [
+                "SK86955",
+                "1974-03-17",
+                "POWER OF ATTORNEY BY WAN LAI MAN",
+                null
+              ],
+              [
+                "SK87445",
+                "1975-03-17",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK89466",
+                "1976-12-17",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK91518",
+                "1977-11-30",
+                "POWER OF ATTORNEY BY WAN LAI MAN RE 1/3 SHARE",
+                null
+              ],
+              [
+                "SK90778",
+                "1977-11-30",
+                "-",
+                "30000.0"
+              ],
+              [
+                "SK90859",
+                "1977-12-15",
+                "-",
+                "15000.0"
+              ],
+              [
+                "SK105481",
+                "1982-12-06",
+                "TEMPORARY WAIVER",
+                null
+              ],
+              [
+                "SK191471",
+                "1992-04-02",
+                "SUPPLEMENTARY GAREEMENT S.W. NO.130",
+                null
+              ],
+              [
+                "SK191472",
+                "1992-04-02",
+                "SUPPLEMENTARY AGREEMENT S.W. NO.130",
+                null
+              ],
+              [
+                "SK362549",
+                "1999-01-20",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE (WITH PLAN)BY D. OF PLANNING",
+                null
+              ],
+              [
+                "SK387424",
+                "1999-08-12",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(4A) OF THE",
+                null
+              ],
+              [
+                "12080601590015",
+                "2012-07-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4000000.0"
+              ],
+              [
+                "12101200980050",
+                "2012-09-18",
+                "ASSIGNMENT",
+                "4000000.0"
+              ],
+              [
+                "12101500510092",
+                "2012-10-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6000000.0"
+              ],
+              [
+                "12102501990143",
+                "2012-10-08",
+                "ASSIGNMENT",
+                "6000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937730327423233,
@@ -1564,7 +4971,105 @@
         1101774536,
         null,
         null,
-        []
+        [
+          [
+            "DD247 646",
+            "Old Schedule Lot",
+            "C3812394",
+            [
+              [
+                "SK86955",
+                "1974-03-17",
+                "POWER OF ATTORNEY BY WAN LAI MAN",
+                null
+              ],
+              [
+                "SK87445",
+                "1975-03-17",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK89466",
+                "1976-12-17",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK90778",
+                "1977-11-30",
+                "-",
+                "30000.0"
+              ],
+              [
+                "SK91518",
+                "1977-11-30",
+                "POWER OF ATTORNEY BY WAN LAI MAN RE 1/3 SHARE",
+                null
+              ],
+              [
+                "SK90859",
+                "1977-12-15",
+                "-",
+                "15000.0"
+              ],
+              [
+                "SK105481",
+                "1982-12-06",
+                "TEMPORARY WAIVER",
+                null
+              ],
+              [
+                "SK191472",
+                "1992-04-02",
+                "SUPPLEMENTARY AGREEMENT S.W. NO.130",
+                null
+              ],
+              [
+                "SK191471",
+                "1992-04-02",
+                "SUPPLEMENTARY GAREEMENT S.W. NO.130",
+                null
+              ],
+              [
+                "SK362549",
+                "1999-01-20",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE (WITH PLAN)BY D. OF PLANNING",
+                null
+              ],
+              [
+                "SK387424",
+                "1999-08-12",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(4A) OF THE",
+                null
+              ],
+              [
+                "12080601590015",
+                "2012-07-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4000000.0"
+              ],
+              [
+                "12101200980050",
+                "2012-09-18",
+                "ASSIGNMENT",
+                "4000000.0"
+              ],
+              [
+                "12102501990143",
+                "2012-10-08",
+                "ASSIGNMENT",
+                "6000000.0"
+              ],
+              [
+                "12101500510092",
+                "2012-10-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937751557621688,
@@ -1583,7 +5088,99 @@
         1101774563,
         null,
         null,
-        []
+        [
+          [
+            "DD247 827",
+            "New Grant Lot",
+            "C3814041",
+            [
+              [
+                "SK65252",
+                "1956-12-10",
+                "-",
+                null
+              ],
+              [
+                "SK65287",
+                "1956-12-17",
+                "-",
+                "2000.0"
+              ],
+              [
+                "SK74183",
+                "1962-05-08",
+                "MORTGAGE",
+                "22000.0"
+              ],
+              [
+                "SK97784",
+                "1980-09-02",
+                "LETTER OF ADMINISTRATION OF TSANG SHU SHUM (SUM) \"THE DECEASED\"",
+                null
+              ],
+              [
+                "SK97785",
+                "1980-09-18",
+                "RECEIPT ON REDEMPTION",
+                null
+              ],
+              [
+                "SK214731",
+                "1993-12-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1100000.0"
+              ],
+              [
+                "SK216969",
+                "1994-03-09",
+                "NOMINATION BY CROWN HONOR ESTATE DEVELOPMENT (H.K.) LIMITED",
+                null
+              ],
+              [
+                "SK216970",
+                "1994-03-10",
+                "-",
+                "1100000.0"
+              ],
+              [
+                "SK285269",
+                "1997-07-11",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "SK334140",
+                "1998-06-22",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "SK538795",
+                "2002-11-06",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "3380000.0"
+              ],
+              [
+                "SK545171",
+                "2002-12-18",
+                "DECLARATION",
+                null
+              ],
+              [
+                "SK545172",
+                "2002-12-18",
+                "DECLARATION",
+                null
+              ],
+              [
+                "SK545173",
+                "2002-12-20",
+                "ASSIGNMENT",
+                "3380000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9936841392271791,
@@ -1678,7 +5275,165 @@
         1101774646,
         null,
         null,
-        []
+        [
+          [
+            "DD228 1",
+            "Old Schedule Lot",
+            "C3733024",
+            [
+              [
+                "SK93287",
+                "1979-03-12",
+                "-",
+                null
+              ],
+              [
+                "SK99919",
+                "1981-02-24",
+                "-",
+                "70000.0"
+              ],
+              [
+                "SK122350",
+                "1987-09-18",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "750000.0"
+              ],
+              [
+                "SK122351",
+                "1987-09-22",
+                "AGREEMENT FOR SUB-SALE & PURCHASE BY LAW PO YUE",
+                "1000000.0"
+              ],
+              [
+                "SK122605",
+                "1987-10-09",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "SK122604",
+                "1987-10-09",
+                "-",
+                "1000000.0"
+              ],
+              [
+                "SK137131",
+                "1989-01-23",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "SK137130",
+                "1989-01-23",
+                "RELEASE",
+                null
+              ],
+              [
+                "SK174444",
+                "1991-02-26",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "SK174445",
+                "1991-02-26",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "SK192840",
+                "1991-09-10",
+                "TENANCY AGREEMENT FOR 2 YEARS FROM 18.10.1990 TO 17.10.1992",
+                null
+              ],
+              [
+                "SK193192",
+                "1992-06-11",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "SK193193",
+                "1992-06-17",
+                "CHARGE",
+                null
+              ],
+              [
+                "SK368337",
+                "1999-03-31",
+                "RENTAL ASSIGNMENT",
+                null
+              ],
+              [
+                "SK382918",
+                "1999-06-29",
+                "SEALED COPY CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "SK387676",
+                "1999-08-09",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "SK517705",
+                "2002-05-03",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2400000.0"
+              ],
+              [
+                "SK518521",
+                "2002-05-23",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "SK523393",
+                "2002-05-31",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "SK519238",
+                "2002-05-31",
+                "RELEASE",
+                null
+              ],
+              [
+                "SK523392",
+                "2002-05-31",
+                "ASSIGNMENT",
+                "2400000.0"
+              ],
+              [
+                "12020900370238",
+                "2012-01-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "5550000.0"
+              ],
+              [
+                "12040500320098",
+                "2012-03-12",
+                "RELEASE",
+                "ALL MONEYS"
+              ],
+              [
+                "12040500320100",
+                "2012-03-12",
+                "ASSIGNMENT",
+                "5550000.0"
+              ],
+              [
+                "12040500320111",
+                "2012-03-22",
+                "LEGAL CHARGE / MORTGAGE",
+                "ALL MONIES"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937340538503125,
@@ -2077,7 +5832,81 @@
         1101775221,
         null,
         "18 FEI NGO SHAN ROAD",
-        []
+        [
+          [
+            "DD228 31",
+            "New Grant Lot",
+            "C5678102",
+            [
+              [
+                "SK133597",
+                "1975-03-06",
+                "LAY-OUT PLAN",
+                null
+              ],
+              [
+                "SK99242",
+                "1980-12-01",
+                "-",
+                "183200000.0"
+              ],
+              [
+                "SK104306",
+                "1982-11-08",
+                "TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "SK104305",
+                "1982-11-08",
+                "TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "SK104304",
+                "1982-11-08",
+                "TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "SK115584",
+                "1986-08-08",
+                "RENEWAL OF TENANCY AGT. M/N 104305 OF 5 YRS. FROM 1.12.85 TO 30.11.90",
+                null
+              ],
+              [
+                "SK115583",
+                "1986-08-08",
+                "RENEWAL OF TENANCY AGT M/N 104304 OF 5 YRS. FROM 1.12.85 TO 30.11.90",
+                null
+              ],
+              [
+                "SK115585",
+                "1986-08-08",
+                "RENEWAL OF TENANCY AGT. M/N 104306 5 YRS. FROM 1.12.85 TO 30.11.90",
+                null
+              ],
+              [
+                "SK131163",
+                "1988-08-19",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "SK133598",
+                "1988-10-13",
+                "LETTER OF UNDERTAKING",
+                null
+              ],
+              [
+                "SK133599",
+                "1988-10-14",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937357040442585,
@@ -2134,7 +5963,81 @@
         1101775230,
         "CUSTOMS PASS ORANGE GROVE",
         "18 FEI NGO SHAN ROAD",
-        []
+        [
+          [
+            "DD228 31",
+            "New Grant Lot",
+            "C5678102",
+            [
+              [
+                "SK133597",
+                "1975-03-06",
+                "LAY-OUT PLAN",
+                null
+              ],
+              [
+                "SK99242",
+                "1980-12-01",
+                "-",
+                "183200000.0"
+              ],
+              [
+                "SK104306",
+                "1982-11-08",
+                "TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "SK104305",
+                "1982-11-08",
+                "TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "SK104304",
+                "1982-11-08",
+                "TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "SK115584",
+                "1986-08-08",
+                "RENEWAL OF TENANCY AGT. M/N 104305 OF 5 YRS. FROM 1.12.85 TO 30.11.90",
+                null
+              ],
+              [
+                "SK115583",
+                "1986-08-08",
+                "RENEWAL OF TENANCY AGT M/N 104304 OF 5 YRS. FROM 1.12.85 TO 30.11.90",
+                null
+              ],
+              [
+                "SK115585",
+                "1986-08-08",
+                "RENEWAL OF TENANCY AGT. M/N 104306 5 YRS. FROM 1.12.85 TO 30.11.90",
+                null
+              ],
+              [
+                "SK131163",
+                "1988-08-19",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "SK133598",
+                "1988-10-13",
+                "LETTER OF UNDERTAKING",
+                null
+              ],
+              [
+                "SK133599",
+                "1988-10-14",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937265612077046,
@@ -2153,7 +6056,81 @@
         1101775232,
         null,
         "18 FEI NGO SHAN ROAD",
-        []
+        [
+          [
+            "DD228 31",
+            "New Grant Lot",
+            "C5678102",
+            [
+              [
+                "SK133597",
+                "1975-03-06",
+                "LAY-OUT PLAN",
+                null
+              ],
+              [
+                "SK99242",
+                "1980-12-01",
+                "-",
+                "183200000.0"
+              ],
+              [
+                "SK104306",
+                "1982-11-08",
+                "TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "SK104305",
+                "1982-11-08",
+                "TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "SK104304",
+                "1982-11-08",
+                "TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "SK115584",
+                "1986-08-08",
+                "RENEWAL OF TENANCY AGT. M/N 104305 OF 5 YRS. FROM 1.12.85 TO 30.11.90",
+                null
+              ],
+              [
+                "SK115583",
+                "1986-08-08",
+                "RENEWAL OF TENANCY AGT M/N 104304 OF 5 YRS. FROM 1.12.85 TO 30.11.90",
+                null
+              ],
+              [
+                "SK115585",
+                "1986-08-08",
+                "RENEWAL OF TENANCY AGT. M/N 104306 5 YRS. FROM 1.12.85 TO 30.11.90",
+                null
+              ],
+              [
+                "SK131163",
+                "1988-08-19",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "SK133598",
+                "1988-10-13",
+                "LETTER OF UNDERTAKING",
+                null
+              ],
+              [
+                "SK133599",
+                "1988-10-14",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937356626042184,
@@ -2191,7 +6168,81 @@
         1101775248,
         "CUSTOMS PASS HIGHLANDS",
         "18 FEI NGO SHAN ROAD",
-        []
+        [
+          [
+            "DD228 31",
+            "New Grant Lot",
+            "C5678102",
+            [
+              [
+                "SK133597",
+                "1975-03-06",
+                "LAY-OUT PLAN",
+                null
+              ],
+              [
+                "SK99242",
+                "1980-12-01",
+                "-",
+                "183200000.0"
+              ],
+              [
+                "SK104306",
+                "1982-11-08",
+                "TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "SK104305",
+                "1982-11-08",
+                "TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "SK104304",
+                "1982-11-08",
+                "TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "SK115584",
+                "1986-08-08",
+                "RENEWAL OF TENANCY AGT. M/N 104305 OF 5 YRS. FROM 1.12.85 TO 30.11.90",
+                null
+              ],
+              [
+                "SK115583",
+                "1986-08-08",
+                "RENEWAL OF TENANCY AGT M/N 104304 OF 5 YRS. FROM 1.12.85 TO 30.11.90",
+                null
+              ],
+              [
+                "SK115585",
+                "1986-08-08",
+                "RENEWAL OF TENANCY AGT. M/N 104306 5 YRS. FROM 1.12.85 TO 30.11.90",
+                null
+              ],
+              [
+                "SK131163",
+                "1988-08-19",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "SK133598",
+                "1988-10-13",
+                "LETTER OF UNDERTAKING",
+                null
+              ],
+              [
+                "SK133599",
+                "1988-10-14",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937353305633725,
@@ -2229,7 +6280,81 @@
         1101775256,
         null,
         "18 FEI NGO SHAN ROAD",
-        []
+        [
+          [
+            "DD228 31",
+            "New Grant Lot",
+            "C5678102",
+            [
+              [
+                "SK133597",
+                "1975-03-06",
+                "LAY-OUT PLAN",
+                null
+              ],
+              [
+                "SK99242",
+                "1980-12-01",
+                "-",
+                "183200000.0"
+              ],
+              [
+                "SK104306",
+                "1982-11-08",
+                "TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "SK104305",
+                "1982-11-08",
+                "TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "SK104304",
+                "1982-11-08",
+                "TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "SK115584",
+                "1986-08-08",
+                "RENEWAL OF TENANCY AGT. M/N 104305 OF 5 YRS. FROM 1.12.85 TO 30.11.90",
+                null
+              ],
+              [
+                "SK115583",
+                "1986-08-08",
+                "RENEWAL OF TENANCY AGT M/N 104304 OF 5 YRS. FROM 1.12.85 TO 30.11.90",
+                null
+              ],
+              [
+                "SK115585",
+                "1986-08-08",
+                "RENEWAL OF TENANCY AGT. M/N 104306 5 YRS. FROM 1.12.85 TO 30.11.90",
+                null
+              ],
+              [
+                "SK131163",
+                "1988-08-19",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "SK133598",
+                "1988-10-13",
+                "LETTER OF UNDERTAKING",
+                null
+              ],
+              [
+                "SK133599",
+                "1988-10-14",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937260528002727,
@@ -2267,7 +6392,45 @@
         1810002115,
         null,
         null,
-        []
+        [
+          [
+            "DD247 903",
+            "New Grant Lot",
+            "C5127522",
+            [
+              [
+                "07041002060023",
+                "2007-03-15",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "07042702610051",
+                "2007-03-23",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "07042702610062",
+                "2007-04-01",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "09041700230014",
+                "2009-03-20",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "13050602340042",
+                "2013-05-02",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993781015018178,
@@ -2286,7 +6449,45 @@
         1810002135,
         null,
         null,
-        []
+        [
+          [
+            "DD247 905",
+            "New Grant Lot",
+            "C5902464",
+            [
+              [
+                "07041002060023",
+                "2007-03-15",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "07042702610051",
+                "2007-03-23",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "07042702610062",
+                "2007-04-01",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "09041700230014",
+                "2009-03-20",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "13050602340050",
+                "2013-05-02",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937827719426353,
@@ -2305,7 +6506,57 @@
         1810002136,
         null,
         "46 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 683 RP",
+            "Old Schedule Lot",
+            "C6351517",
+            [
+              [
+                "SK97480",
+                "1980-08-13",
+                "-",
+                null
+              ],
+              [
+                "SK222402",
+                "1994-06-24",
+                "-",
+                "238830.0"
+              ],
+              [
+                "SK429758",
+                "2000-07-05",
+                "ASSIGNMENT",
+                "238830.0"
+              ],
+              [
+                "05030202860016",
+                "2005-02-14",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "07041002060023",
+                "2007-03-15",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "12021002130020",
+                "2012-01-12",
+                "BUILDING LICENCE NO. 2304 WITH PLAN",
+                null
+              ],
+              [
+                "16041401540064",
+                "2014-06-06",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937772388206598,
@@ -2324,7 +6575,27 @@
         1810067269,
         null,
         null,
-        []
+        [
+          [
+            "DD244 310 S.A SS.1",
+            "Old Schedule Lot",
+            "C6068663",
+            [
+              [
+                "SK89000",
+                "1976-07-02",
+                "-",
+                "2000.0"
+              ],
+              [
+                "SK105218",
+                "1983-06-07",
+                "SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9939370614709815,
@@ -2362,7 +6633,75 @@
         1810092837,
         null,
         null,
-        []
+        [
+          [
+            "DD247 689 S.A SS.1",
+            "Old Schedule Lot",
+            "C3812894",
+            [
+              [
+                "SK199875",
+                "1993-01-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "SK199876",
+                "1993-01-07",
+                "-",
+                "1224907.2"
+              ],
+              [
+                "SK214928",
+                "1993-11-30",
+                "-",
+                "76230.0"
+              ],
+              [
+                "SK259168",
+                "1996-09-11",
+                "-",
+                "76230.0"
+              ],
+              [
+                "SK364952",
+                "1999-01-20",
+                "BUILDING LICENCE NO. 1186 WITH PLAN",
+                null
+              ],
+              [
+                "07041002060023",
+                "2007-03-15",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "07042702610051",
+                "2007-03-23",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "07042702610062",
+                "2007-04-01",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "09041700230014",
+                "2009-03-20",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "13050602340014",
+                "2013-05-02",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937812839759306,
@@ -2381,7 +6720,99 @@
         1810092838,
         null,
         null,
-        []
+        [
+          [
+            "DD247 689 S.A SS.2",
+            "Old Schedule Lot",
+            "C6651549",
+            [
+              [
+                "SK199876",
+                "1993-01-07",
+                "-",
+                "1224907.2"
+              ],
+              [
+                "SK214929",
+                "1993-11-30",
+                "-",
+                "76230.0"
+              ],
+              [
+                "SK256673",
+                "1996-08-09",
+                "-",
+                "76230.0"
+              ],
+              [
+                "SK364953",
+                "1999-01-21",
+                "BUILDING LICENCE NO. 1185 (AS PER PLAN)",
+                null
+              ],
+              [
+                "07041002060023",
+                "2007-03-15",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "07042702610051",
+                "2007-03-23",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "07042702610062",
+                "2007-04-01",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "09041700230014",
+                "2009-03-20",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "13050602340029",
+                "2013-05-02",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "19091000620019",
+                "2019-07-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8000000.0"
+              ],
+              [
+                "20010801880019",
+                "2019-08-30",
+                "ASSIGNMENT",
+                "8000000.0"
+              ],
+              [
+                "20010801880020",
+                "2019-08-30",
+                "LOAN AGREEMENT",
+                "3000000.0"
+              ],
+              [
+                "23122800480013",
+                "2023-12-01",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "3000000.0"
+              ],
+              [
+                "24123000400040",
+                "2024-12-17",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937815853866838,
@@ -2400,7 +6831,87 @@
         1810092839,
         null,
         null,
-        []
+        [
+          [
+            "DD247 689 S.A SS.3",
+            "Old Schedule Lot",
+            "C3812900",
+            [
+              [
+                "SK199876",
+                "1993-01-07",
+                "-",
+                "1224907.2"
+              ],
+              [
+                "SK214930",
+                "1993-11-30",
+                "-",
+                "76230.0"
+              ],
+              [
+                "SK257973",
+                "1996-08-21",
+                "ASSIGNMENT",
+                "76230.0"
+              ],
+              [
+                "SK364950",
+                "1999-01-20",
+                "BUILDING LICENCE NO. 1189 (AS PER PLAN)",
+                null
+              ],
+              [
+                "07041002060023",
+                "2007-03-15",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "07042702610051",
+                "2007-03-23",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "07042702610062",
+                "2007-04-01",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "09041700230014",
+                "2009-03-20",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "13050602340039",
+                "2013-05-02",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "20052200250015",
+                "2020-05-11",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "14725000.0"
+              ],
+              [
+                "20061600220070",
+                "2020-06-10",
+                "ASSIGNMENT",
+                "14725000.0"
+              ],
+              [
+                "20061600220082",
+                "2020-06-10",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937821143754408,
@@ -2419,7 +6930,69 @@
         1810092840,
         null,
         null,
-        []
+        [
+          [
+            "DD247 689 S.A SS.4",
+            "Old Schedule Lot",
+            "C5127264",
+            [
+              [
+                "SK199876",
+                "1993-01-07",
+                "-",
+                "1224907.2"
+              ],
+              [
+                "SK214931",
+                "1993-11-30",
+                "-",
+                "76230.0"
+              ],
+              [
+                "SK256672",
+                "1996-07-23",
+                "-",
+                "76230.0"
+              ],
+              [
+                "SK364954",
+                "1999-01-20",
+                "BUILDING LICENCE NO. 1188 (AS PER PLAN)",
+                null
+              ],
+              [
+                "07041002060023",
+                "2007-03-15",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "07042702610051",
+                "2007-03-23",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "07042702610062",
+                "2007-04-01",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "09041700230014",
+                "2009-03-20",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "25060300590035",
+                "2025-05-19",
+                "WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937825066278918,
@@ -2438,7 +7011,75 @@
         1810103794,
         null,
         "63 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 689 S.D SS.1",
+            "Old Schedule Lot",
+            "C3813009",
+            [
+              [
+                "SK573651",
+                "2003-10-02",
+                "ASSIGNMENT",
+                "310500.0"
+              ],
+              [
+                "SK619673",
+                "2004-10-08",
+                "ASSIGNMENT",
+                "192700.0"
+              ],
+              [
+                "13042302660028",
+                "2013-04-03",
+                "BUILDING LICENCE NO. 2441 WITH PLAN",
+                null
+              ],
+              [
+                "14021000080015",
+                "2014-01-24",
+                "DEED OF CONSENT WTH PLAN",
+                null
+              ],
+              [
+                "14021000080025",
+                "2014-01-24",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "15062200030011",
+                "2015-06-05",
+                "DEED OF EASEMENT WITH PLAN",
+                null
+              ],
+              [
+                "16110701950038",
+                "2016-11-01",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "17022300890012",
+                "2017-02-02",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "17041302240048",
+                "2017-03-27",
+                "DEED OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "17041302240062",
+                "2017-03-27",
+                "DEED OF CONSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937871578852615,
@@ -2476,7 +7117,183 @@
         1810157056,
         null,
         null,
-        []
+        [
+          [
+            "DD247 604",
+            "Old Schedule Lot",
+            "C5902403",
+            [
+              [
+                "SK56791",
+                "1951-08-24",
+                "-",
+                null
+              ],
+              [
+                "SK56790",
+                "1951-08-24",
+                "-",
+                null
+              ],
+              [
+                "SK84183",
+                "1971-01-07",
+                "-",
+                "4790.5"
+              ],
+              [
+                "SK106439",
+                "1984-01-24",
+                "MORTGAGE BY LEE (LI) YUN SAU (SHAU)",
+                "500000.0"
+              ],
+              [
+                "SK110677",
+                "1985-07-01",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "SK129164",
+                "1988-07-28",
+                "SEALED COPY OF CHARGING ORDER TO SHOW CAUSE",
+                null
+              ],
+              [
+                "SK132767",
+                "1988-09-27",
+                "DISCHARGE",
+                null
+              ],
+              [
+                "SK165893",
+                "1990-08-13",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "SK168346",
+                "1990-08-22",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "SK170162",
+                "1990-10-01",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "SK173240",
+                "1991-01-30",
+                "CERTIFICATE OF SATISFACTION",
+                null
+              ],
+              [
+                "SK178703",
+                "1991-02-13",
+                "DEED OF RELEASE",
+                null
+              ],
+              [
+                "SK200361",
+                "1992-04-13",
+                "SEALED COPY RE-AMENDED ORDER IMPOSING CHARGE ON LAND",
+                null
+              ],
+              [
+                "SK200363",
+                "1992-04-13",
+                "SEALED COPY RE-AMENDED ORDER IMPOSING CHARGE ON LAND",
+                null
+              ],
+              [
+                "SK200364",
+                "1992-05-01",
+                "SEALED COPY RE-AMENDED ORDER ABSOLUTE IMPOSING CHARGE ON LAND",
+                null
+              ],
+              [
+                "SK200362",
+                "1992-05-01",
+                "SEALED COPY RE-AMENDED ORDER ABSOLUTE IMPOSING CHARGE ON LAND",
+                null
+              ],
+              [
+                "SK239298",
+                "1995-10-11",
+                "A SEALED COPY OF A CHARGING ORDER NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "SK242586",
+                "1995-12-27",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "SK259775",
+                "1996-10-17",
+                "CERTIFICATE OF SATISFACTION",
+                null
+              ],
+              [
+                "SK386409",
+                "1999-06-10",
+                "GENERAL POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK386411",
+                "1999-07-23",
+                "LEGAL CHARGE",
+                "2000000.0"
+              ],
+              [
+                "SK430523",
+                "1999-11-09",
+                "CERTIFIED COPY GENERAL POWER OF ATTORNEY BY LEE YUN SAU",
+                null
+              ],
+              [
+                "SK408476",
+                "1999-12-21",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "SK430524",
+                "2000-07-04",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "354000.0"
+              ],
+              [
+                "SK510545",
+                "2002-02-11",
+                "ASSIGNMENT",
+                "354000.0"
+              ],
+              [
+                "06083101970013",
+                "2002-07-25",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "06083101970025",
+                "2002-07-25",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "16080100890035",
+                "2016-07-21",
+                "LOAN AGREEMENT",
+                "2000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937990255834965,
@@ -2495,7 +7312,324 @@
         1810157405,
         null,
         "62 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 689 RP",
+            "Old Schedule Lot",
+            "C3812871",
+            [
+              [
+                "SK55451",
+                "1950-09-15",
+                "-",
+                null
+              ],
+              [
+                "SK61395",
+                "1954-09-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK195664",
+                "1992-08-08",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "518000.0"
+              ],
+              [
+                "SK200927",
+                "1993-02-08",
+                "-",
+                "518000.0"
+              ],
+              [
+                "SK203796",
+                "1993-05-08",
+                "DEED POLL WITH PLAN RE S.B, S.C, S.D, S.E & R.P.",
+                null
+              ],
+              [
+                "SK278979",
+                "1997-05-02",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "SK593574",
+                "2004-03-09",
+                "ASSIGNMENT",
+                "218160.0"
+              ],
+              [
+                "SK593573",
+                "2004-03-09",
+                "DEED POLL (WITH PLAN)",
+                null
+              ],
+              [
+                "12032800050010",
+                "2012-03-16",
+                "DEED POLL WITH PLAN",
+                null
+              ],
+              [
+                "14012401810016",
+                "2014-01-10",
+                "BUILDING LICENCE NO.2465 WITH PLAN",
+                null
+              ],
+              [
+                "14021000080025",
+                "2014-01-24",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "15062200030029",
+                "2015-06-05",
+                "DEED OF EASEMENT WITH PLAN",
+                null
+              ],
+              [
+                "16092002130035",
+                "2016-09-08",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16123000450095",
+                "2016-11-16",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "17041302240030",
+                "2017-03-27",
+                "DEED OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "17041302240051",
+                "2017-03-27",
+                "DEED OF RIGHT OF WAY",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD247 689 S.C RP",
+            "Old Schedule Lot",
+            "C3812979",
+            [
+              [
+                "SK573653",
+                "2003-10-02",
+                "ASSIGNMENT",
+                "149040.0"
+              ],
+              [
+                "SK593574",
+                "2004-03-09",
+                "ASSIGNMENT",
+                "218160.0"
+              ],
+              [
+                "12032800050010",
+                "2012-03-16",
+                "DEED POLL WITH PLAN",
+                null
+              ],
+              [
+                "14012401810016",
+                "2014-01-10",
+                "BUILDING LICENCE NO.2465 WITH PLAN",
+                null
+              ],
+              [
+                "14021000080025",
+                "2014-01-24",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "15062200030029",
+                "2015-06-05",
+                "DEED OF EASEMENT WITH PLAN",
+                null
+              ],
+              [
+                "16092002130035",
+                "2016-09-08",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16123000450095",
+                "2016-11-16",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "17041302240030",
+                "2017-03-27",
+                "DEED OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "17041302240051",
+                "2017-03-27",
+                "DEED OF RIGHT OF WAY",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD247 689 S.C SS.1",
+            "Old Schedule Lot",
+            "C3812982",
+            [
+              [
+                "SK573653",
+                "2003-10-02",
+                "ASSIGNMENT",
+                "149040.0"
+              ],
+              [
+                "SK619673",
+                "2004-10-08",
+                "ASSIGNMENT",
+                "192700.0"
+              ],
+              [
+                "13031800780089",
+                "2013-03-06",
+                "ASSIGNMENT",
+                "20000.0"
+              ],
+              [
+                "14012401810016",
+                "2014-01-10",
+                "BUILDING LICENCE NO.2465 WITH PLAN",
+                null
+              ],
+              [
+                "14021000080025",
+                "2014-01-24",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "15062200030029",
+                "2015-06-05",
+                "DEED OF EASEMENT WITH PLAN",
+                null
+              ],
+              [
+                "16092002130035",
+                "2016-09-08",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16123000450095",
+                "2016-11-16",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "17041302240062",
+                "2017-03-27",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "17041302240030",
+                "2017-03-27",
+                "DEED OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "17041302240051",
+                "2017-03-27",
+                "DEED OF RIGHT OF WAY",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD247 689 S.G",
+            "Old Schedule Lot",
+            "C5256696",
+            [
+              [
+                "SK278979",
+                "1997-05-02",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "SK619673",
+                "2004-10-08",
+                "ASSIGNMENT",
+                "192700.0"
+              ],
+              [
+                "13031800780089",
+                "2013-03-06",
+                "ASSIGNMENT",
+                "20000.0"
+              ],
+              [
+                "14012401810016",
+                "2014-01-10",
+                "BUILDING LICENCE NO.2465 WITH PLAN",
+                null
+              ],
+              [
+                "14021000080025",
+                "2014-01-24",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "15062200030029",
+                "2015-06-05",
+                "DEED OF EASEMENT WITH PLAN",
+                null
+              ],
+              [
+                "16092002130035",
+                "2016-09-08",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16123000450095",
+                "2016-11-16",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "17041302240062",
+                "2017-03-27",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "17041302240030",
+                "2017-03-27",
+                "DEED OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "17041302240051",
+                "2017-03-27",
+                "DEED OF RIGHT OF WAY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937855928976291,
@@ -2514,7 +7648,106 @@
         1810162438,
         null,
         "48 TAI LAM WU",
-        []
+        [
+          [
+            "DD247 682 RP",
+            "Old Schedule Lot",
+            "C3812772",
+            [
+              [
+                "SK97480",
+                "1980-08-13",
+                "-",
+                null
+              ],
+              [
+                "SK222404",
+                "1994-06-24",
+                "-",
+                "108850.0"
+              ],
+              [
+                "SK429756",
+                "2000-07-05",
+                "ASSIGNMENT",
+                "108850.0"
+              ],
+              [
+                "07042702610062",
+                "2007-04-01",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "07113001980042",
+                "2007-10-29",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "14052600860027",
+                "2014-05-08",
+                "BUILDING LICENCE NO. 2397 WITH PLAN",
+                null
+              ],
+              [
+                "16041401540064",
+                "2014-06-06",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD247 682 S.A",
+            "Old Schedule Lot",
+            "C3812787",
+            [
+              [
+                "SK97480",
+                "1980-08-13",
+                "-",
+                null
+              ],
+              [
+                "SK223764",
+                "1994-08-09",
+                "-",
+                "108850.0"
+              ],
+              [
+                "SK429757",
+                "2000-07-05",
+                "ASSIGNMENT",
+                "108850.0"
+              ],
+              [
+                "07042702610062",
+                "2007-04-01",
+                "CHINESE CONSENT LETTER",
+                null
+              ],
+              [
+                "07113001980042",
+                "2007-10-29",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "14052600860027",
+                "2014-05-08",
+                "BUILDING LICENCE NO. 2397 WITH PLAN",
+                null
+              ],
+              [
+                "16041401540064",
+                "2014-06-06",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9937790033153384,

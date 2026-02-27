@@ -44,7 +44,14 @@
         1108230484,
         null,
         "3 CHEONG SAN LANE",
-        []
+        [
+          [
+            "NKIL 6427",
+            "New Grant Lot",
+            "D0220449",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9924231947580817,
@@ -120,7 +127,14 @@
         1108230587,
         "CHEONG CHIT HOUSE",
         "3 CHEONG SAN LANE",
-        []
+        [
+          [
+            "NKIL 6427",
+            "New Grant Lot",
+            "D0220449",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992427846575283,
@@ -234,7 +248,21 @@
         1108230722,
         null,
         null,
-        []
+        [
+          [
+            "NKIL 6333",
+            "New Grant Lot",
+            "D2070203",
+            [
+              [
+                "16071902030037",
+                "2016-06-29",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923662668322006,
@@ -310,7 +338,75 @@
         1108230978,
         "METRO HARBOUR VIEW BLOCK 2",
         "8 FUK LEE STREET",
-        []
+        [
+          [
+            "KIL 11127 RP",
+            "New Grant Lot",
+            "C4573194",
+            [
+              [
+                "UB8274697",
+                "2000-12-22",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB8661163",
+                "2001-12-14",
+                "LEASE OF COMMUNICATIONS NETWORK AREA WITH PLANS",
+                null
+              ],
+              [
+                "UB8556921",
+                "2001-12-14",
+                "LEASE OF COMMUNICATIONS NETWORK AREA WITH PLANS",
+                null
+              ],
+              [
+                "UB8556922",
+                "2001-12-14",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB8557695",
+                "2001-12-17",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "UB8572604",
+                "2002-01-07",
+                "SUPPLEMENTAL STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "UB8658781",
+                "2002-04-02",
+                "LETTER EXCLUDING BALCONIES FROM GROSS FLOOR AREA CALCULATION",
+                null
+              ],
+              [
+                "UB8649209",
+                "2002-04-06",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB8649210",
+                "2002-04-08",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "UB8658782",
+                "2002-04-18",
+                "SECOND SUPPLEMENTAL STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924619779172985,
@@ -367,7 +463,75 @@
         1108230983,
         "METRO HARBOUR VIEW BLOCK 1",
         "8 FUK LEE STREET",
-        []
+        [
+          [
+            "KIL 11127 RP",
+            "New Grant Lot",
+            "C4573194",
+            [
+              [
+                "UB8274697",
+                "2000-12-22",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB8661163",
+                "2001-12-14",
+                "LEASE OF COMMUNICATIONS NETWORK AREA WITH PLANS",
+                null
+              ],
+              [
+                "UB8556921",
+                "2001-12-14",
+                "LEASE OF COMMUNICATIONS NETWORK AREA WITH PLANS",
+                null
+              ],
+              [
+                "UB8556922",
+                "2001-12-14",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB8557695",
+                "2001-12-17",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "UB8572604",
+                "2002-01-07",
+                "SUPPLEMENTAL STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "UB8658781",
+                "2002-04-02",
+                "LETTER EXCLUDING BALCONIES FROM GROSS FLOOR AREA CALCULATION",
+                null
+              ],
+              [
+                "UB8649209",
+                "2002-04-06",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB8649210",
+                "2002-04-08",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "UB8658782",
+                "2002-04-18",
+                "SECOND SUPPLEMENTAL STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924558581801366,
@@ -595,7 +759,45 @@
         1108231450,
         null,
         null,
-        []
+        [
+          [
+            "KIL 11142",
+            "New Grant Lot",
+            "C6161398",
+            [
+              [
+                "UB9389378",
+                "2004-08-27",
+                "CONSENT LETTER FOR AMENDMENT OF APPROVED BUILDING PLANS",
+                null
+              ],
+              [
+                "05060800200049",
+                "2005-05-12",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "06050301520012",
+                "2006-04-07",
+                "CONSENT LETTER FOR AMENDMENTS TO BUILDING PLANS",
+                null
+              ],
+              [
+                "11060902470015",
+                "2011-05-18",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "18120400070010",
+                "2018-11-13",
+                "CONSENT LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923851166606,
@@ -633,7 +835,21 @@
         1108231464,
         "YUEN FAT BUILDING",
         "89 YEN CHOW STREET WEST",
-        []
+        [
+          [
+            "KIL 11011",
+            "New Grant Lot",
+            "C4572651",
+            [
+              [
+                "UB6088663",
+                "1994-07-28",
+                "ORDER UNDER S.6(1) OF SEWAGE TUNNEL (STATUTORY EASEMENTS) ORDINANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923616919512097,
@@ -671,7 +887,45 @@
         1108231523,
         null,
         null,
-        []
+        [
+          [
+            "KIL 11142",
+            "New Grant Lot",
+            "C6161398",
+            [
+              [
+                "UB9389378",
+                "2004-08-27",
+                "CONSENT LETTER FOR AMENDMENT OF APPROVED BUILDING PLANS",
+                null
+              ],
+              [
+                "05060800200049",
+                "2005-05-12",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "06050301520012",
+                "2006-04-07",
+                "CONSENT LETTER FOR AMENDMENTS TO BUILDING PLANS",
+                null
+              ],
+              [
+                "11060902470015",
+                "2011-05-18",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "18120400070010",
+                "2018-11-13",
+                "CONSENT LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923820845630404,
@@ -709,7 +963,45 @@
         1108231549,
         null,
         null,
-        []
+        [
+          [
+            "KIL 11142",
+            "New Grant Lot",
+            "C6161398",
+            [
+              [
+                "UB9389378",
+                "2004-08-27",
+                "CONSENT LETTER FOR AMENDMENT OF APPROVED BUILDING PLANS",
+                null
+              ],
+              [
+                "05060800200049",
+                "2005-05-12",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "06050301520012",
+                "2006-04-07",
+                "CONSENT LETTER FOR AMENDMENTS TO BUILDING PLANS",
+                null
+              ],
+              [
+                "11060902470015",
+                "2011-05-18",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "18120400070010",
+                "2018-11-13",
+                "CONSENT LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992383477642615,
@@ -766,7 +1058,45 @@
         1108231623,
         null,
         null,
-        []
+        [
+          [
+            "KIL 11142",
+            "New Grant Lot",
+            "C6161398",
+            [
+              [
+                "UB9389378",
+                "2004-08-27",
+                "CONSENT LETTER FOR AMENDMENT OF APPROVED BUILDING PLANS",
+                null
+              ],
+              [
+                "05060800200049",
+                "2005-05-12",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "06050301520012",
+                "2006-04-07",
+                "CONSENT LETTER FOR AMENDMENTS TO BUILDING PLANS",
+                null
+              ],
+              [
+                "11060902470015",
+                "2011-05-18",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "18120400070010",
+                "2018-11-13",
+                "CONSENT LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992378851907136,
@@ -994,7 +1324,21 @@
         1108231859,
         null,
         null,
-        []
+        [
+          [
+            "KIL 11011",
+            "New Grant Lot",
+            "C4572651",
+            [
+              [
+                "UB6088663",
+                "1994-07-28",
+                "ORDER UNDER S.6(1) OF SEWAGE TUNNEL (STATUTORY EASEMENTS) ORDINANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923785240578957,
@@ -1089,7 +1433,21 @@
         1108231989,
         null,
         null,
-        []
+        [
+          [
+            "KIL 11011",
+            "New Grant Lot",
+            "C4572651",
+            [
+              [
+                "UB6088663",
+                "1994-07-28",
+                "ORDER UNDER S.6(1) OF SEWAGE TUNNEL (STATUTORY EASEMENTS) ORDINANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923768505066486,
@@ -1203,7 +1561,87 @@
         1108232101,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992457713492172,
@@ -1260,7 +1698,87 @@
         1108232185,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924557139666415,
@@ -1279,7 +1797,87 @@
         1108232188,
         "HARBOUR GREEN TOWER 6",
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992455752553691,
@@ -1374,7 +1972,87 @@
         1108232246,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924571351138083,
@@ -1393,7 +2071,87 @@
         1108232248,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924543988013261,
@@ -1431,7 +2189,87 @@
         1108232294,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924560500400592,
@@ -1450,7 +2288,87 @@
         1108232297,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992457204263544,
@@ -1564,7 +2482,87 @@
         1108232406,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924563214586755,
@@ -1583,7 +2581,87 @@
         1108232412,
         "HARBOUR GREEN TOWER 5",
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924563519056746,
@@ -1678,7 +2756,87 @@
         1108232491,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924577455037242,
@@ -1697,7 +2855,87 @@
         1108232500,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992455013697987,
@@ -1735,7 +2973,87 @@
         1108232543,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924566595728161,
@@ -1754,7 +3072,87 @@
         1108232548,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924580528721807,
@@ -1811,7 +3209,87 @@
         1108232597,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924533250164402,
@@ -1906,7 +3384,87 @@
         1108232697,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924569493445274,
@@ -1944,7 +3502,87 @@
         1108232701,
         "HARBOUR GREEN TOWER 3",
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924569776860743,
@@ -1982,7 +3620,87 @@
         1108232768,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992453801033516,
@@ -2039,7 +3757,87 @@
         1108232799,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992458371515605,
@@ -2058,7 +3856,87 @@
         1108232803,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992455641084874,
@@ -2153,7 +4031,87 @@
         1108232868,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992457287805862,
@@ -2172,7 +4130,87 @@
         1108232872,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924586691480963,
@@ -2381,7 +4419,87 @@
         1108233046,
         "HARBOUR GREEN TOWER 2",
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924579102413946,
@@ -2438,7 +4556,87 @@
         1108233102,
         "HARBOUR GREEN TOWER 1",
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924506146556316,
@@ -2457,7 +4655,87 @@
         1108233107,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924502389731331,
@@ -2533,7 +4811,87 @@
         1108233139,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992459950508368,
@@ -2609,7 +4967,87 @@
         1108233236,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992448219434351,
@@ -2685,7 +5123,87 @@
         1108233318,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924600347416108,
@@ -2932,7 +5450,39 @@
         1108233542,
         "HAMPTON PLACE TOWER 1",
         "11 HOI FAN ROAD",
-        []
+        [
+          [
+            "KIL 11107",
+            "New Grant Lot",
+            "C4801592",
+            [
+              [
+                "UB8626559",
+                "2002-02-18",
+                "CONSENT LETTER(RE: BALCONY EXCLUDED FR.CALCULATION OF GROSS FLOOR AREA)",
+                null
+              ],
+              [
+                "UB8746937",
+                "2002-07-26",
+                "CONSENT LETTER(RE:UTILITY PLATFORMS EXCLUDED FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "UB8767028",
+                "2002-08-28",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB8767027",
+                "2002-08-30",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992382747381965,
@@ -2951,7 +5501,87 @@
         1108233546,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924599811425492,
@@ -3027,7 +5657,39 @@
         1108233606,
         "HAMPTON PLACE TOWER 2",
         "11 HOI FAN ROAD",
-        []
+        [
+          [
+            "KIL 11107",
+            "New Grant Lot",
+            "C4801592",
+            [
+              [
+                "UB8626559",
+                "2002-02-18",
+                "CONSENT LETTER(RE: BALCONY EXCLUDED FR.CALCULATION OF GROSS FLOOR AREA)",
+                null
+              ],
+              [
+                "UB8746937",
+                "2002-07-26",
+                "CONSENT LETTER(RE:UTILITY PLATFORMS EXCLUDED FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "UB8767028",
+                "2002-08-28",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB8767027",
+                "2002-08-30",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992386824482893,
@@ -3122,7 +5784,39 @@
         1108233665,
         "HAMPTON PLACE TOWER 3",
         "11 HOI FAN ROAD",
-        []
+        [
+          [
+            "KIL 11107",
+            "New Grant Lot",
+            "C4801592",
+            [
+              [
+                "UB8626559",
+                "2002-02-18",
+                "CONSENT LETTER(RE: BALCONY EXCLUDED FR.CALCULATION OF GROSS FLOOR AREA)",
+                null
+              ],
+              [
+                "UB8746937",
+                "2002-07-26",
+                "CONSENT LETTER(RE:UTILITY PLATFORMS EXCLUDED FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "UB8767028",
+                "2002-08-28",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB8767027",
+                "2002-08-30",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923908503791106,
@@ -3255,7 +5949,87 @@
         1108233912,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924593386716014,
@@ -3369,7 +6143,63 @@
         1108234006,
         "THE LONG BEACH TOWER 9",
         "8 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11152",
+            "New Grant Lot",
+            "C4573236",
+            [
+              [
+                "UB8796980",
+                "2002-10-04",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "UB9283275",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES (BALCONY)",
+                null
+              ],
+              [
+                "UB9283276",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES *",
+                null
+              ],
+              [
+                "UB9283274",
+                "2004-07-22",
+                "CERTIFIED COPY UNDERTAKING LETTER (FOR RECREATION FACILITIES)",
+                null
+              ],
+              [
+                "UB9338255",
+                "2004-09-09",
+                "OCCUPATION PERMIT (PERMIT NO.KN 29/2004(OP))",
+                null
+              ],
+              [
+                "06050902690010",
+                "2006-04-10",
+                "AGREEMENT FOR TENANCY WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06050902690021",
+                "2006-04-10",
+                "TENANCY AGREEMENT WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06082600480286",
+                "2006-08-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923988515664903,
@@ -3407,7 +6237,87 @@
         1108234126,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992459877166592,
@@ -3445,7 +6355,63 @@
         1108234200,
         "THE LONG BEACH TOWER 8",
         "8 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11152",
+            "New Grant Lot",
+            "C4573236",
+            [
+              [
+                "UB8796980",
+                "2002-10-04",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "UB9283275",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES (BALCONY)",
+                null
+              ],
+              [
+                "UB9283276",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES *",
+                null
+              ],
+              [
+                "UB9283274",
+                "2004-07-22",
+                "CERTIFIED COPY UNDERTAKING LETTER (FOR RECREATION FACILITIES)",
+                null
+              ],
+              [
+                "UB9338255",
+                "2004-09-09",
+                "OCCUPATION PERMIT (PERMIT NO.KN 29/2004(OP))",
+                null
+              ],
+              [
+                "06050902690010",
+                "2006-04-10",
+                "AGREEMENT FOR TENANCY WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06050902690021",
+                "2006-04-10",
+                "TENANCY AGREEMENT WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06082600480286",
+                "2006-08-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924018618428743,
@@ -3464,7 +6430,63 @@
         1108234221,
         "ISLAND HARBOURVIEW TOWER 1",
         "11 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11074",
+            "New Grant Lot",
+            "C6125843",
+            [
+              [
+                "UB7474682",
+                "1998-05-06",
+                "MEMORANDUM WITH CERTIFIED TRUE COPIES OF CARPARK LAYOUT PLANS ANNEXED",
+                null
+              ],
+              [
+                "UB7586017",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7586018",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7591601",
+                "1998-10-16",
+                "UNDERTAKING RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7611063",
+                "1998-11-17",
+                "MEMORANDUM",
+                null
+              ],
+              [
+                "UB7612617",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7612616",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWER 1-3,5-6 & 579 RESIDENTIAL CPS",
+                null
+              ],
+              [
+                "UB8121833",
+                "2000-03-02",
+                "GOVERNMENT GAZETTE (MTR ORDINANCE NO.13 OF 2000)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924185997473935,
@@ -3654,7 +6676,63 @@
         1108234415,
         "THE LONG BEACH TOWER 7",
         "8 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11152",
+            "New Grant Lot",
+            "C4573236",
+            [
+              [
+                "UB8796980",
+                "2002-10-04",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "UB9283275",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES (BALCONY)",
+                null
+              ],
+              [
+                "UB9283276",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES *",
+                null
+              ],
+              [
+                "UB9283274",
+                "2004-07-22",
+                "CERTIFIED COPY UNDERTAKING LETTER (FOR RECREATION FACILITIES)",
+                null
+              ],
+              [
+                "UB9338255",
+                "2004-09-09",
+                "OCCUPATION PERMIT (PERMIT NO.KN 29/2004(OP))",
+                null
+              ],
+              [
+                "06050902690010",
+                "2006-04-10",
+                "AGREEMENT FOR TENANCY WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06050902690021",
+                "2006-04-10",
+                "TENANCY AGREEMENT WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06082600480286",
+                "2006-08-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923996757133817,
@@ -3787,7 +6865,63 @@
         1108234551,
         "ISLAND HARBOURVIEW TOWER 2",
         "11 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11074",
+            "New Grant Lot",
+            "C6125843",
+            [
+              [
+                "UB7474682",
+                "1998-05-06",
+                "MEMORANDUM WITH CERTIFIED TRUE COPIES OF CARPARK LAYOUT PLANS ANNEXED",
+                null
+              ],
+              [
+                "UB7586017",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7586018",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7591601",
+                "1998-10-16",
+                "UNDERTAKING RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7611063",
+                "1998-11-17",
+                "MEMORANDUM",
+                null
+              ],
+              [
+                "UB7612617",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7612616",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWER 1-3,5-6 & 579 RESIDENTIAL CPS",
+                null
+              ],
+              [
+                "UB8121833",
+                "2000-03-02",
+                "GOVERNMENT GAZETTE (MTR ORDINANCE NO.13 OF 2000)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924190331680163,
@@ -3844,7 +6978,63 @@
         1108234678,
         "THE LONG BEACH TOWER 6",
         "8 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11152",
+            "New Grant Lot",
+            "C4573236",
+            [
+              [
+                "UB8796980",
+                "2002-10-04",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "UB9283275",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES (BALCONY)",
+                null
+              ],
+              [
+                "UB9283276",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES *",
+                null
+              ],
+              [
+                "UB9283274",
+                "2004-07-22",
+                "CERTIFIED COPY UNDERTAKING LETTER (FOR RECREATION FACILITIES)",
+                null
+              ],
+              [
+                "UB9338255",
+                "2004-09-09",
+                "OCCUPATION PERMIT (PERMIT NO.KN 29/2004(OP))",
+                null
+              ],
+              [
+                "06050902690010",
+                "2006-04-10",
+                "AGREEMENT FOR TENANCY WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06050902690021",
+                "2006-04-10",
+                "TENANCY AGREEMENT WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06082600480286",
+                "2006-08-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924017546483241,
@@ -3863,7 +7053,63 @@
         1108234737,
         null,
         "8 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11152",
+            "New Grant Lot",
+            "C4573236",
+            [
+              [
+                "UB8796980",
+                "2002-10-04",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "UB9283275",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES (BALCONY)",
+                null
+              ],
+              [
+                "UB9283276",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES *",
+                null
+              ],
+              [
+                "UB9283274",
+                "2004-07-22",
+                "CERTIFIED COPY UNDERTAKING LETTER (FOR RECREATION FACILITIES)",
+                null
+              ],
+              [
+                "UB9338255",
+                "2004-09-09",
+                "OCCUPATION PERMIT (PERMIT NO.KN 29/2004(OP))",
+                null
+              ],
+              [
+                "06050902690010",
+                "2006-04-10",
+                "AGREEMENT FOR TENANCY WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06050902690021",
+                "2006-04-10",
+                "TENANCY AGREEMENT WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06082600480286",
+                "2006-08-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923891430381724,
@@ -3920,7 +7166,63 @@
         1108234842,
         "THE LONG BEACH TOWER 5",
         "8 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11152",
+            "New Grant Lot",
+            "C4573236",
+            [
+              [
+                "UB8796980",
+                "2002-10-04",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "UB9283275",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES (BALCONY)",
+                null
+              ],
+              [
+                "UB9283276",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES *",
+                null
+              ],
+              [
+                "UB9283274",
+                "2004-07-22",
+                "CERTIFIED COPY UNDERTAKING LETTER (FOR RECREATION FACILITIES)",
+                null
+              ],
+              [
+                "UB9338255",
+                "2004-09-09",
+                "OCCUPATION PERMIT (PERMIT NO.KN 29/2004(OP))",
+                null
+              ],
+              [
+                "06050902690010",
+                "2006-04-10",
+                "AGREEMENT FOR TENANCY WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06050902690021",
+                "2006-04-10",
+                "TENANCY AGREEMENT WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06082600480286",
+                "2006-08-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99239766834045,
@@ -3939,7 +7241,63 @@
         1108234862,
         null,
         "8 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11152",
+            "New Grant Lot",
+            "C4573236",
+            [
+              [
+                "UB8796980",
+                "2002-10-04",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "UB9283275",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES (BALCONY)",
+                null
+              ],
+              [
+                "UB9283276",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES *",
+                null
+              ],
+              [
+                "UB9283274",
+                "2004-07-22",
+                "CERTIFIED COPY UNDERTAKING LETTER (FOR RECREATION FACILITIES)",
+                null
+              ],
+              [
+                "UB9338255",
+                "2004-09-09",
+                "OCCUPATION PERMIT (PERMIT NO.KN 29/2004(OP))",
+                null
+              ],
+              [
+                "06050902690010",
+                "2006-04-10",
+                "AGREEMENT FOR TENANCY WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06050902690021",
+                "2006-04-10",
+                "TENANCY AGREEMENT WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06082600480286",
+                "2006-08-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923924639409532,
@@ -3958,7 +7316,63 @@
         1108234871,
         "ISLAND HARBOURVIEW TOWER 3",
         "11 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11074",
+            "New Grant Lot",
+            "C6125843",
+            [
+              [
+                "UB7474682",
+                "1998-05-06",
+                "MEMORANDUM WITH CERTIFIED TRUE COPIES OF CARPARK LAYOUT PLANS ANNEXED",
+                null
+              ],
+              [
+                "UB7586017",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7586018",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7591601",
+                "1998-10-16",
+                "UNDERTAKING RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7611063",
+                "1998-11-17",
+                "MEMORANDUM",
+                null
+              ],
+              [
+                "UB7612617",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7612616",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWER 1-3,5-6 & 579 RESIDENTIAL CPS",
+                null
+              ],
+              [
+                "UB8121833",
+                "2000-03-02",
+                "GOVERNMENT GAZETTE (MTR ORDINANCE NO.13 OF 2000)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924200384844972,
@@ -3977,7 +7391,63 @@
         1108234878,
         null,
         "11 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11074",
+            "New Grant Lot",
+            "C6125843",
+            [
+              [
+                "UB7474682",
+                "1998-05-06",
+                "MEMORANDUM WITH CERTIFIED TRUE COPIES OF CARPARK LAYOUT PLANS ANNEXED",
+                null
+              ],
+              [
+                "UB7586017",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7586018",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7591601",
+                "1998-10-16",
+                "UNDERTAKING RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7611063",
+                "1998-11-17",
+                "MEMORANDUM",
+                null
+              ],
+              [
+                "UB7612617",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7612616",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWER 1-3,5-6 & 579 RESIDENTIAL CPS",
+                null
+              ],
+              [
+                "UB8121833",
+                "2000-03-02",
+                "GOVERNMENT GAZETTE (MTR ORDINANCE NO.13 OF 2000)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924314966707046,
@@ -4053,7 +7523,63 @@
         1108235025,
         "THE LONG BEACH TOWER 2",
         "8 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11152",
+            "New Grant Lot",
+            "C4573236",
+            [
+              [
+                "UB8796980",
+                "2002-10-04",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "UB9283275",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES (BALCONY)",
+                null
+              ],
+              [
+                "UB9283276",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES *",
+                null
+              ],
+              [
+                "UB9283274",
+                "2004-07-22",
+                "CERTIFIED COPY UNDERTAKING LETTER (FOR RECREATION FACILITIES)",
+                null
+              ],
+              [
+                "UB9338255",
+                "2004-09-09",
+                "OCCUPATION PERMIT (PERMIT NO.KN 29/2004(OP))",
+                null
+              ],
+              [
+                "06050902690010",
+                "2006-04-10",
+                "AGREEMENT FOR TENANCY WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06050902690021",
+                "2006-04-10",
+                "TENANCY AGREEMENT WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06082600480286",
+                "2006-08-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923897034310734,
@@ -4110,7 +7636,63 @@
         1108235062,
         "THE LONG BEACH TOWER 3",
         "8 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11152",
+            "New Grant Lot",
+            "C4573236",
+            [
+              [
+                "UB8796980",
+                "2002-10-04",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "UB9283275",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES (BALCONY)",
+                null
+              ],
+              [
+                "UB9283276",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES *",
+                null
+              ],
+              [
+                "UB9283274",
+                "2004-07-22",
+                "CERTIFIED COPY UNDERTAKING LETTER (FOR RECREATION FACILITIES)",
+                null
+              ],
+              [
+                "UB9338255",
+                "2004-09-09",
+                "OCCUPATION PERMIT (PERMIT NO.KN 29/2004(OP))",
+                null
+              ],
+              [
+                "06050902690010",
+                "2006-04-10",
+                "AGREEMENT FOR TENANCY WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06050902690021",
+                "2006-04-10",
+                "TENANCY AGREEMENT WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06082600480286",
+                "2006-08-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923958077025272,
@@ -4281,7 +7863,63 @@
         1108235174,
         "THE LONG BEACH TOWER 1",
         "8 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11152",
+            "New Grant Lot",
+            "C4573236",
+            [
+              [
+                "UB8796980",
+                "2002-10-04",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "UB9283275",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES (BALCONY)",
+                null
+              ],
+              [
+                "UB9283276",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES *",
+                null
+              ],
+              [
+                "UB9283274",
+                "2004-07-22",
+                "CERTIFIED COPY UNDERTAKING LETTER (FOR RECREATION FACILITIES)",
+                null
+              ],
+              [
+                "UB9338255",
+                "2004-09-09",
+                "OCCUPATION PERMIT (PERMIT NO.KN 29/2004(OP))",
+                null
+              ],
+              [
+                "06050902690010",
+                "2006-04-10",
+                "AGREEMENT FOR TENANCY WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06050902690021",
+                "2006-04-10",
+                "TENANCY AGREEMENT WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06082600480286",
+                "2006-08-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992386027989292,
@@ -4300,7 +7938,63 @@
         1108235189,
         "THE LONG BEACH CLUB HOUSE",
         "8 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11152",
+            "New Grant Lot",
+            "C4573236",
+            [
+              [
+                "UB8796980",
+                "2002-10-04",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "UB9283275",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES (BALCONY)",
+                null
+              ],
+              [
+                "UB9283276",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES *",
+                null
+              ],
+              [
+                "UB9283274",
+                "2004-07-22",
+                "CERTIFIED COPY UNDERTAKING LETTER (FOR RECREATION FACILITIES)",
+                null
+              ],
+              [
+                "UB9338255",
+                "2004-09-09",
+                "OCCUPATION PERMIT (PERMIT NO.KN 29/2004(OP))",
+                null
+              ],
+              [
+                "06050902690010",
+                "2006-04-10",
+                "AGREEMENT FOR TENANCY WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06050902690021",
+                "2006-04-10",
+                "TENANCY AGREEMENT WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06082600480286",
+                "2006-08-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99240325487762,
@@ -4376,7 +8070,63 @@
         1108235232,
         "ISLAND HARBOURVIEW TOWER 5",
         "11 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11074",
+            "New Grant Lot",
+            "C6125843",
+            [
+              [
+                "UB7474682",
+                "1998-05-06",
+                "MEMORANDUM WITH CERTIFIED TRUE COPIES OF CARPARK LAYOUT PLANS ANNEXED",
+                null
+              ],
+              [
+                "UB7586017",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7586018",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7591601",
+                "1998-10-16",
+                "UNDERTAKING RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7611063",
+                "1998-11-17",
+                "MEMORANDUM",
+                null
+              ],
+              [
+                "UB7612617",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7612616",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWER 1-3,5-6 & 579 RESIDENTIAL CPS",
+                null
+              ],
+              [
+                "UB8121833",
+                "2000-03-02",
+                "GOVERNMENT GAZETTE (MTR ORDINANCE NO.13 OF 2000)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992420256699105,
@@ -4452,7 +8202,63 @@
         1108235285,
         null,
         "8 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11152",
+            "New Grant Lot",
+            "C4573236",
+            [
+              [
+                "UB8796980",
+                "2002-10-04",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "UB9283275",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES (BALCONY)",
+                null
+              ],
+              [
+                "UB9283276",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES *",
+                null
+              ],
+              [
+                "UB9283274",
+                "2004-07-22",
+                "CERTIFIED COPY UNDERTAKING LETTER (FOR RECREATION FACILITIES)",
+                null
+              ],
+              [
+                "UB9338255",
+                "2004-09-09",
+                "OCCUPATION PERMIT (PERMIT NO.KN 29/2004(OP))",
+                null
+              ],
+              [
+                "06050902690010",
+                "2006-04-10",
+                "AGREEMENT FOR TENANCY WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06050902690021",
+                "2006-04-10",
+                "TENANCY AGREEMENT WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06082600480286",
+                "2006-08-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923985824052572,
@@ -4642,7 +8448,63 @@
         1108235468,
         "ISLAND HARBOURVIEW TOWER 6",
         "11 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11074",
+            "New Grant Lot",
+            "C6125843",
+            [
+              [
+                "UB7474682",
+                "1998-05-06",
+                "MEMORANDUM WITH CERTIFIED TRUE COPIES OF CARPARK LAYOUT PLANS ANNEXED",
+                null
+              ],
+              [
+                "UB7586017",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7586018",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7591601",
+                "1998-10-16",
+                "UNDERTAKING RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7611063",
+                "1998-11-17",
+                "MEMORANDUM",
+                null
+              ],
+              [
+                "UB7612617",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7612616",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWER 1-3,5-6 & 579 RESIDENTIAL CPS",
+                null
+              ],
+              [
+                "UB8121833",
+                "2000-03-02",
+                "GOVERNMENT GAZETTE (MTR ORDINANCE NO.13 OF 2000)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992420179669994,
@@ -4870,7 +8732,63 @@
         1108235673,
         "ISLAND HARBOURVIEW TOWER 7",
         "11 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11074",
+            "New Grant Lot",
+            "C6125843",
+            [
+              [
+                "UB7474682",
+                "1998-05-06",
+                "MEMORANDUM WITH CERTIFIED TRUE COPIES OF CARPARK LAYOUT PLANS ANNEXED",
+                null
+              ],
+              [
+                "UB7586017",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7586018",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7591601",
+                "1998-10-16",
+                "UNDERTAKING RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7611063",
+                "1998-11-17",
+                "MEMORANDUM",
+                null
+              ],
+              [
+                "UB7612617",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7612616",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWER 1-3,5-6 & 579 RESIDENTIAL CPS",
+                null
+              ],
+              [
+                "UB8121833",
+                "2000-03-02",
+                "GOVERNMENT GAZETTE (MTR ORDINANCE NO.13 OF 2000)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924196544521224,
@@ -4908,7 +8826,63 @@
         1108235687,
         "ISLAND HARBOURVIEW TOWER 8",
         "11 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11074",
+            "New Grant Lot",
+            "C6125843",
+            [
+              [
+                "UB7474682",
+                "1998-05-06",
+                "MEMORANDUM WITH CERTIFIED TRUE COPIES OF CARPARK LAYOUT PLANS ANNEXED",
+                null
+              ],
+              [
+                "UB7586017",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7586018",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7591601",
+                "1998-10-16",
+                "UNDERTAKING RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7611063",
+                "1998-11-17",
+                "MEMORANDUM",
+                null
+              ],
+              [
+                "UB7612617",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7612616",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWER 1-3,5-6 & 579 RESIDENTIAL CPS",
+                null
+              ],
+              [
+                "UB8121833",
+                "2000-03-02",
+                "GOVERNMENT GAZETTE (MTR ORDINANCE NO.13 OF 2000)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992426439490846,
@@ -4927,7 +8901,63 @@
         1108235703,
         "ISLAND HARBOURVIEW TOWER 9",
         "11 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11074",
+            "New Grant Lot",
+            "C6125843",
+            [
+              [
+                "UB7474682",
+                "1998-05-06",
+                "MEMORANDUM WITH CERTIFIED TRUE COPIES OF CARPARK LAYOUT PLANS ANNEXED",
+                null
+              ],
+              [
+                "UB7586017",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7586018",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7591601",
+                "1998-10-16",
+                "UNDERTAKING RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7611063",
+                "1998-11-17",
+                "MEMORANDUM",
+                null
+              ],
+              [
+                "UB7612617",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7612616",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWER 1-3,5-6 & 579 RESIDENTIAL CPS",
+                null
+              ],
+              [
+                "UB8121833",
+                "2000-03-02",
+                "GOVERNMENT GAZETTE (MTR ORDINANCE NO.13 OF 2000)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924326196783675,
@@ -4946,7 +8976,63 @@
         1108235717,
         "ISLAND HARBOURVIEW TOWER 10",
         "11 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11074",
+            "New Grant Lot",
+            "C6125843",
+            [
+              [
+                "UB7474682",
+                "1998-05-06",
+                "MEMORANDUM WITH CERTIFIED TRUE COPIES OF CARPARK LAYOUT PLANS ANNEXED",
+                null
+              ],
+              [
+                "UB7586017",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7586018",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7591601",
+                "1998-10-16",
+                "UNDERTAKING RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7611063",
+                "1998-11-17",
+                "MEMORANDUM",
+                null
+              ],
+              [
+                "UB7612617",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7612616",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWER 1-3,5-6 & 579 RESIDENTIAL CPS",
+                null
+              ],
+              [
+                "UB8121833",
+                "2000-03-02",
+                "GOVERNMENT GAZETTE (MTR ORDINANCE NO.13 OF 2000)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992438712038259,
@@ -5117,7 +9203,63 @@
         1108235857,
         "BANK OF CHINA CENTRE",
         "11 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11074",
+            "New Grant Lot",
+            "C6125843",
+            [
+              [
+                "UB7474682",
+                "1998-05-06",
+                "MEMORANDUM WITH CERTIFIED TRUE COPIES OF CARPARK LAYOUT PLANS ANNEXED",
+                null
+              ],
+              [
+                "UB7586017",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7586018",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7591601",
+                "1998-10-16",
+                "UNDERTAKING RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7611063",
+                "1998-11-17",
+                "MEMORANDUM",
+                null
+              ],
+              [
+                "UB7612617",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7612616",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWER 1-3,5-6 & 579 RESIDENTIAL CPS",
+                null
+              ],
+              [
+                "UB8121833",
+                "2000-03-02",
+                "GOVERNMENT GAZETTE (MTR ORDINANCE NO.13 OF 2000)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992448975382458,
@@ -5269,7 +9411,27 @@
         1108235959,
         null,
         "18 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11158",
+            "New Grant Lot",
+            "C4573244",
+            [
+              [
+                "UB8686236",
+                "2002-05-08",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "05092901230110",
+                "2005-09-27",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923969371074532,
@@ -5345,7 +9507,27 @@
         1108236002,
         "ONE SILVER SEA TOWER 8",
         "18 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11158",
+            "New Grant Lot",
+            "C4573244",
+            [
+              [
+                "UB8686236",
+                "2002-05-08",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "05092901230110",
+                "2005-09-27",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924059753085916,
@@ -5383,7 +9565,27 @@
         1108236048,
         "ONE SILVER SEA TOWER 7",
         "18 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11158",
+            "New Grant Lot",
+            "C4573244",
+            [
+              [
+                "UB8686236",
+                "2002-05-08",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "05092901230110",
+                "2005-09-27",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924032896135067,
@@ -5440,7 +9642,27 @@
         1108236084,
         "ONE SILVER SEA TOWER 1",
         "18 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11158",
+            "New Grant Lot",
+            "C4573244",
+            [
+              [
+                "UB8686236",
+                "2002-05-08",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "05092901230110",
+                "2005-09-27",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923864426728672,
@@ -5459,7 +9681,27 @@
         1108236094,
         "ONE SILVER SEA TOWER 5",
         "18 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11158",
+            "New Grant Lot",
+            "C4573244",
+            [
+              [
+                "UB8686236",
+                "2002-05-08",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "05092901230110",
+                "2005-09-27",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923968363993196,
@@ -5478,7 +9720,27 @@
         1108236095,
         "ONE SILVER SEA TOWER 6",
         "18 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11158",
+            "New Grant Lot",
+            "C4573244",
+            [
+              [
+                "UB8686236",
+                "2002-05-08",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "05092901230110",
+                "2005-09-27",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924000593268918,
@@ -5497,7 +9759,27 @@
         1108236097,
         "ONE SILVER SEA TOWER 2",
         "18 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11158",
+            "New Grant Lot",
+            "C4573244",
+            [
+              [
+                "UB8686236",
+                "2002-05-08",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "05092901230110",
+                "2005-09-27",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923900319327645,
@@ -5516,7 +9798,27 @@
         1108236098,
         "ONE SILVER SEA TOWER 3",
         "18 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11158",
+            "New Grant Lot",
+            "C4573244",
+            [
+              [
+                "UB8686236",
+                "2002-05-08",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "05092901230110",
+                "2005-09-27",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923933427263203,
@@ -6257,7 +10559,87 @@
         1108246071,
         null,
         "8 SHAM MONG ROAD",
-        []
+        [
+          [
+            "KIL 11151",
+            "New Grant Lot",
+            "C6125895",
+            [
+              [
+                "UB8835240",
+                "2002-12-05",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "UB9208560",
+                "2004-03-05",
+                "UNDERTAKING LETTER FOR CLUB HOUSE GFA EXEMPTION",
+                null
+              ],
+              [
+                "UB9208559",
+                "2004-03-05",
+                "UNDERTAKING LETTER FROM MTR CORPORATION LIMITED *",
+                null
+              ],
+              [
+                "UB9208557",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.1)",
+                null
+              ],
+              [
+                "UB9208558",
+                "2004-03-05",
+                "UNDERTAKING LETTER (GREEN FEATURES OF JOINT PRACTICE NOTE NO.2)",
+                null
+              ],
+              [
+                "05082402790012",
+                "2005-08-08",
+                "CONSENT LETTER FOR EXEMPTION OF BALCONIES AND UTILITY PLATFORMS FROM GFA CALCULATION",
+                null
+              ],
+              [
+                "05091201140034",
+                "2005-09-08",
+                "G.N. 4495 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ],
+              [
+                "05101501720205",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE: PHASE II)",
+                null
+              ],
+              [
+                "05101501720193",
+                "2005-10-14",
+                "STATUTORY DECLARATION (RE : PHASE I)",
+                null
+              ],
+              [
+                "05101802360015",
+                "2005-10-18",
+                "UNDERTAKING (RE PHASE I (TOWERS 3, 5 AND 6 AND THE CAR PARK) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05101802360025",
+                "2005-10-18",
+                "UNDERTAKING (RE : PHASE II (TOWERS 1 AND 2) OF HARBOUR GREEN)",
+                null
+              ],
+              [
+                "05102401690019",
+                "2005-10-20",
+                "G.N. 5418 DATED 20.10.2005 UNDER RAILWAYS ORDINANCE (CHAPTER 519)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992454867294525,
@@ -6276,7 +10658,39 @@
         1108246188,
         "HAMPTON LOFT",
         "11 HOI FAN ROAD",
-        []
+        [
+          [
+            "KIL 11107",
+            "New Grant Lot",
+            "C4801592",
+            [
+              [
+                "UB8626559",
+                "2002-02-18",
+                "CONSENT LETTER(RE: BALCONY EXCLUDED FR.CALCULATION OF GROSS FLOOR AREA)",
+                null
+              ],
+              [
+                "UB8746937",
+                "2002-07-26",
+                "CONSENT LETTER(RE:UTILITY PLATFORMS EXCLUDED FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "UB8767028",
+                "2002-08-28",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB8767027",
+                "2002-08-30",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923854838355544,
@@ -6295,7 +10709,63 @@
         1108246225,
         "OLYMPIAN CITY ONE",
         "11 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11074",
+            "New Grant Lot",
+            "C6125843",
+            [
+              [
+                "UB7474682",
+                "1998-05-06",
+                "MEMORANDUM WITH CERTIFIED TRUE COPIES OF CARPARK LAYOUT PLANS ANNEXED",
+                null
+              ],
+              [
+                "UB7586017",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7586018",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7591601",
+                "1998-10-16",
+                "UNDERTAKING RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7611063",
+                "1998-11-17",
+                "MEMORANDUM",
+                null
+              ],
+              [
+                "UB7612617",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7612616",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWER 1-3,5-6 & 579 RESIDENTIAL CPS",
+                null
+              ],
+              [
+                "UB8121833",
+                "2000-03-02",
+                "GOVERNMENT GAZETTE (MTR ORDINANCE NO.13 OF 2000)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924402612331853,
@@ -6314,7 +10784,63 @@
         1108246236,
         "THE LONG BEACH PLAZA",
         "8 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11152",
+            "New Grant Lot",
+            "C4573236",
+            [
+              [
+                "UB8796980",
+                "2002-10-04",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "UB9283275",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES (BALCONY)",
+                null
+              ],
+              [
+                "UB9283276",
+                "2004-06-25",
+                "CERTIFIED COPY UNDERTAKING LETTER FOR GREEN FEATURES *",
+                null
+              ],
+              [
+                "UB9283274",
+                "2004-07-22",
+                "CERTIFIED COPY UNDERTAKING LETTER (FOR RECREATION FACILITIES)",
+                null
+              ],
+              [
+                "UB9338255",
+                "2004-09-09",
+                "OCCUPATION PERMIT (PERMIT NO.KN 29/2004(OP))",
+                null
+              ],
+              [
+                "06050902690010",
+                "2006-04-10",
+                "AGREEMENT FOR TENANCY WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06050902690021",
+                "2006-04-10",
+                "TENANCY AGREEMENT WITH PLANS RE ALL THAT COMMERCIAL AREA ON LEVEL 2 OF THE PODIUM OF THE LONG BEACH",
+                "THE RENT IS $600,000.00 PER MONTH"
+              ],
+              [
+                "06082600480286",
+                "2006-08-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923932525370551,
@@ -6333,7 +10859,63 @@
         1108246254,
         null,
         "11 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11074",
+            "New Grant Lot",
+            "C6125843",
+            [
+              [
+                "UB7474682",
+                "1998-05-06",
+                "MEMORANDUM WITH CERTIFIED TRUE COPIES OF CARPARK LAYOUT PLANS ANNEXED",
+                null
+              ],
+              [
+                "UB7586017",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7586018",
+                "1998-10-08",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7591601",
+                "1998-10-16",
+                "UNDERTAKING RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7611063",
+                "1998-11-17",
+                "MEMORANDUM",
+                null
+              ],
+              [
+                "UB7612617",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWERS 7 & 10",
+                null
+              ],
+              [
+                "UB7612616",
+                "1998-11-18",
+                "STATUTORY DECLARATION WITH PLANS RE TOWER 1-3,5-6 & 579 RESIDENTIAL CPS",
+                null
+              ],
+              [
+                "UB8121833",
+                "2000-03-02",
+                "GOVERNMENT GAZETTE (MTR ORDINANCE NO.13 OF 2000)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992426252973239,
@@ -6352,7 +10934,27 @@
         1108246411,
         "THE OLYMPIAN HONG KONG",
         "18 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11158",
+            "New Grant Lot",
+            "C4573244",
+            [
+              [
+                "UB8686236",
+                "2002-05-08",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "05092901230110",
+                "2005-09-27",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923963622312932,
@@ -6390,7 +10992,27 @@
         1810079771,
         "IMPERIAL SEAFRONT",
         "10 - 12 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11146",
+            "New Grant Lot",
+            "D0978277",
+            [
+              [
+                "11062902030072",
+                "2011-06-28",
+                "BANK UNDERTAKING",
+                null
+              ],
+              [
+                "11062902030087",
+                "2011-06-28",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923870419172296,
@@ -6409,7 +11031,27 @@
         1810079777,
         "IMPERIAL SEAVIEW",
         "10 - 12 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11146",
+            "New Grant Lot",
+            "D0978277",
+            [
+              [
+                "11062902030072",
+                "2011-06-28",
+                "BANK UNDERTAKING",
+                null
+              ],
+              [
+                "11062902030087",
+                "2011-06-28",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923920101046435,
@@ -6428,7 +11070,27 @@
         1810079779,
         "IMPERIAL SEABANK",
         "10 - 12 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11146",
+            "New Grant Lot",
+            "D0978277",
+            [
+              [
+                "11062902030072",
+                "2011-06-28",
+                "BANK UNDERTAKING",
+                null
+              ],
+              [
+                "11062902030087",
+                "2011-06-28",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923969549454463,
@@ -6447,7 +11109,27 @@
         1810079783,
         "IMPERIAL SEASIDE",
         "10 - 12 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11146",
+            "New Grant Lot",
+            "D0978277",
+            [
+              [
+                "11062902030072",
+                "2011-06-28",
+                "BANK UNDERTAKING",
+                null
+              ],
+              [
+                "11062902030087",
+                "2011-06-28",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924001561420959,
@@ -6466,7 +11148,27 @@
         1810079784,
         "IMPERIAL SEASHORE",
         "10 - 12 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11146",
+            "New Grant Lot",
+            "D0978277",
+            [
+              [
+                "11062902030072",
+                "2011-06-28",
+                "BANK UNDERTAKING",
+                null
+              ],
+              [
+                "11062902030087",
+                "2011-06-28",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923996956364003,
@@ -6485,7 +11187,27 @@
         1810079785,
         "IMPERIAL SEACOAST",
         "10 - 12 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11146",
+            "New Grant Lot",
+            "D0978277",
+            [
+              [
+                "11062902030072",
+                "2011-06-28",
+                "BANK UNDERTAKING",
+                null
+              ],
+              [
+                "11062902030087",
+                "2011-06-28",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924052924375768,
@@ -6504,7 +11226,27 @@
         1810079787,
         null,
         "10 - 12 HOI FAI ROAD",
-        []
+        [
+          [
+            "KIL 11146",
+            "New Grant Lot",
+            "D0978277",
+            [
+              [
+                "11062902030072",
+                "2011-06-28",
+                "BANK UNDERTAKING",
+                null
+              ],
+              [
+                "11062902030087",
+                "2011-06-28",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9923943230202983,

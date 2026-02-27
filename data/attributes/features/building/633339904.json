@@ -6,7 +6,14 @@
         1103043484,
         "YAM O TRACTION SUBSTATION",
         null,
-        []
+        [
+          [
+            "CKWL 3",
+            "New Grant Lot",
+            "C4278706",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9902042507199262,
@@ -25,7 +32,14 @@
         1103043487,
         "SUNNY BAY SEWAGE P/P STN SUBSTATION",
         null,
-        []
+        [
+          [
+            "CKWL 3",
+            "New Grant Lot",
+            "C4278706",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9901844883469872,
@@ -44,7 +58,14 @@
         1103043492,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 2",
+            "New Grant Lot",
+            "C4278692",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900217329626666,
@@ -63,7 +84,14 @@
         1103043494,
         "SUNNY BAY PUBLIC TOILET",
         null,
-        []
+        [
+          [
+            "CKWL 3",
+            "New Grant Lot",
+            "C4278706",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.990179605441337,
@@ -82,7 +110,14 @@
         1103043495,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 3",
+            "New Grant Lot",
+            "C4278706",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.990189283330676,
@@ -120,7 +155,20 @@
         1103043498,
         "SUNNY BAY STATION",
         null,
-        []
+        [
+          [
+            "CKWL 2",
+            "New Grant Lot",
+            "C4278692",
+            []
+          ],
+          [
+            "CKWL 3",
+            "New Grant Lot",
+            "C4278706",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9901737640940727,
@@ -139,7 +187,14 @@
         1103043499,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 2",
+            "New Grant Lot",
+            "C4278692",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900964487079136,
@@ -158,7 +213,14 @@
         1103043506,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 3",
+            "New Grant Lot",
+            "C4278706",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9902149853441096,
@@ -177,7 +239,14 @@
         1103043512,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 2",
+            "New Grant Lot",
+            "C4278692",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900905227517547,
@@ -196,7 +265,14 @@
         1103043519,
         "YAM O SEWAGE P/P STN SUBSTATION",
         null,
-        []
+        [
+          [
+            "CKWL 3",
+            "New Grant Lot",
+            "C4278706",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.990211014832061,
@@ -215,7 +291,45 @@
         1103043520,
         null,
         null,
-        []
+        [
+          [
+            "DD359 LL 41",
+            "New Grant Lot",
+            "C1428986",
+            [
+              [
+                "17063001560012",
+                "1977-07-25",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW1325552",
+                "1999-12-10",
+                "DEED OF RESTRICTIVE COVENANT WITH PLANS",
+                null
+              ],
+              [
+                "15082602360011",
+                "2015-07-13",
+                "PROBATE",
+                null
+              ],
+              [
+                "17092601830018",
+                "2017-08-25",
+                "DEED OF VARIATION OF DEED OF RESTRICTIVE COVENANT WITH PLAN",
+                null
+              ],
+              [
+                "18010201190018",
+                "2017-11-20",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9900834026208691,
@@ -234,7 +348,14 @@
         1103043521,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 2",
+            "New Grant Lot",
+            "C4278692",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9901742058234562,
@@ -272,7 +393,14 @@
         1103043526,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 2",
+            "New Grant Lot",
+            "C4278692",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.990081398406406,
@@ -291,7 +419,14 @@
         1103043538,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 2",
+            "New Grant Lot",
+            "C4278692",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9901548265450715,
@@ -310,7 +445,14 @@
         1103043541,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 2",
+            "New Grant Lot",
+            "C4278692",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9901508991285526,
@@ -329,7 +471,14 @@
         1109178581,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 2",
+            "New Grant Lot",
+            "C4278692",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900728297016963,
@@ -348,7 +497,14 @@
         1810100469,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 2",
+            "New Grant Lot",
+            "C4278692",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9900890361334396,

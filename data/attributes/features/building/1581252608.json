@@ -25,7 +25,27 @@
         1101765087,
         null,
         "18F TSAM CHUK WAN",
-        []
+        [
+          [
+            "DD257 623",
+            "New Grant Lot",
+            "C3845300",
+            [
+              [
+                "SK122136",
+                "1986-01-07",
+                "COPY OF LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK122137",
+                "1986-12-19",
+                "LETTER BY DISTRICT LANDS OFFICER, SAI KUNG",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9951003148931492,
@@ -44,7 +64,27 @@
         1101765092,
         null,
         null,
-        []
+        [
+          [
+            "DD257 623",
+            "New Grant Lot",
+            "C3845300",
+            [
+              [
+                "SK122136",
+                "1986-01-07",
+                "COPY OF LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK122137",
+                "1986-12-19",
+                "LETTER BY DISTRICT LANDS OFFICER, SAI KUNG",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9950984340590083,
@@ -63,7 +103,27 @@
         1101765107,
         null,
         null,
-        []
+        [
+          [
+            "DD257 623",
+            "New Grant Lot",
+            "C3845300",
+            [
+              [
+                "SK122136",
+                "1986-01-07",
+                "COPY OF LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK122137",
+                "1986-12-19",
+                "LETTER BY DISTRICT LANDS OFFICER, SAI KUNG",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9950994244726568,
@@ -101,7 +161,57 @@
         1101765136,
         null,
         "18E TSAM CHUK WAN",
-        []
+        [
+          [
+            "DD257 354",
+            "Old Schedule Lot",
+            "C6353779",
+            [
+              [
+                "SK73194",
+                "1961-10-09",
+                "-",
+                null
+              ],
+              [
+                "SK84870",
+                "1971-11-29",
+                "MORTGAGE",
+                "20000.0"
+              ],
+              [
+                "SK85683",
+                "1972-11-20",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "SK86751",
+                "1974-01-15",
+                "MORTGAGE",
+                "20000.0"
+              ],
+              [
+                "SK87456",
+                "1975-03-18",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "SK91338",
+                "1978-04-10",
+                "-",
+                "10000.0"
+              ],
+              [
+                "SK120097",
+                "1987-06-02",
+                "-",
+                "80000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.995095669445716,
@@ -120,7 +230,14 @@
         1101765438,
         null,
         null,
-        []
+        [
+          [
+            "DD257 57",
+            "Old Schedule Lot",
+            "C3841425",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9952803719816576,
@@ -139,7 +256,14 @@
         1101765447,
         null,
         null,
-        []
+        [
+          [
+            "DD257 57",
+            "Old Schedule Lot",
+            "C3841425",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9952796794404444,
@@ -158,7 +282,33 @@
         1101765463,
         null,
         null,
-        []
+        [
+          [
+            "DD257 63",
+            "Old Schedule Lot",
+            "C3841464",
+            [
+              [
+                "SK78606",
+                "1965-01-27",
+                "-",
+                null
+              ],
+              [
+                "SK90033",
+                "1977-06-01",
+                "-",
+                null
+              ],
+              [
+                "23030100560019",
+                "2023-02-16",
+                "SEALING OF COURT CERTIFIED AND SEALED COPY PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952803328279727,
@@ -177,7 +327,14 @@
         1101765479,
         null,
         null,
-        []
+        [
+          [
+            "DD257 676",
+            "New Grant Lot",
+            "D3172178",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.99522807600081,
@@ -196,7 +353,14 @@
         1101765481,
         null,
         null,
-        []
+        [
+          [
+            "DD257 676",
+            "New Grant Lot",
+            "D3172178",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.995230798865009,
@@ -215,7 +379,14 @@
         1101765504,
         null,
         null,
-        []
+        [
+          [
+            "DD257 676",
+            "New Grant Lot",
+            "D3172178",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9952292425023574,
@@ -234,7 +405,14 @@
         1101765513,
         null,
         null,
-        []
+        [
+          [
+            "DD257 676",
+            "New Grant Lot",
+            "D3172178",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9952262939843464,
@@ -253,7 +431,14 @@
         1101765520,
         null,
         null,
-        []
+        [
+          [
+            "DD257 676",
+            "New Grant Lot",
+            "D3172178",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.995228485686723,
@@ -272,7 +457,14 @@
         1101765523,
         null,
         null,
-        []
+        [
+          [
+            "DD257 676",
+            "New Grant Lot",
+            "D3172178",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9952321599037102,
@@ -291,7 +483,14 @@
         1101765527,
         null,
         null,
-        []
+        [
+          [
+            "DD257 676",
+            "New Grant Lot",
+            "D3172178",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9952309477377008,
@@ -310,7 +509,14 @@
         1101765534,
         null,
         null,
-        []
+        [
+          [
+            "DD257 676",
+            "New Grant Lot",
+            "D3172178",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9952323180541467,
@@ -329,7 +535,14 @@
         1101765536,
         null,
         null,
-        []
+        [
+          [
+            "DD257 676",
+            "New Grant Lot",
+            "D3172178",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9952318732667609,
@@ -348,7 +561,14 @@
         1101765539,
         null,
         null,
-        []
+        [
+          [
+            "DD257 676",
+            "New Grant Lot",
+            "D3172178",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9952260520800933,
@@ -367,7 +587,14 @@
         1101765543,
         null,
         null,
-        []
+        [
+          [
+            "DD257 676",
+            "New Grant Lot",
+            "D3172178",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.99522859836999,
@@ -386,7 +613,14 @@
         1101765587,
         null,
         null,
-        []
+        [
+          [
+            "DD257 676",
+            "New Grant Lot",
+            "D3172178",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9952274528151075,
@@ -405,7 +639,14 @@
         1101765588,
         null,
         null,
-        []
+        [
+          [
+            "DD257 676",
+            "New Grant Lot",
+            "D3172178",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9952302454552513,
@@ -424,7 +665,51 @@
         1101765611,
         null,
         null,
-        []
+        [
+          [
+            "DD257 633",
+            "New Grant Lot",
+            "C3845341",
+            [
+              [
+                "SK105188",
+                "1983-05-30",
+                "RECTIFICATION AGREEMENT BY DISTRICT LANDS OFFICER, SAI KUNG",
+                null
+              ],
+              [
+                "SK109338",
+                "1983-09-07",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK109590",
+                "1985-02-14",
+                "-",
+                "140000.0"
+              ],
+              [
+                "21021601180019",
+                "2021-01-14",
+                "ASSIGNMENT",
+                "1250000.0"
+              ],
+              [
+                "22081601680034",
+                "2022-05-10",
+                "PROBATE",
+                null
+              ],
+              [
+                "22081601680040",
+                "2022-08-09",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952187418246268,
@@ -443,7 +728,143 @@
         1101765952,
         null,
         "11 WONG YI CHAU",
-        []
+        [
+          [
+            "DD257 248",
+            "Old Schedule Lot",
+            "C5131135",
+            [
+              [
+                "SK72828",
+                "1961-08-04",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK84717",
+                "1971-09-27",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK258223",
+                "1996-06-11",
+                "SEALED COPY WRIT OF SUMMONS HIGH COURT ACTION 1996, NO. A6611",
+                null
+              ],
+              [
+                "SK296284",
+                "1997-10-03",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "SK309755",
+                "1998-01-24",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "18062000840018",
+                "2018-05-31",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "19070401070017",
+                "2019-07-03",
+                "FIRST LEGAL CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "20072701200034",
+                "2020-07-24",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "20081400890010",
+                "2020-07-24",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "25031201660019",
+                "2025-02-26",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "400000.0"
+              ],
+              [
+                "25042300960017",
+                "2025-03-28",
+                "ASSIGNMENT",
+                "400000.0"
+              ]
+            ]
+          ],
+          [
+            "DD257 249 RP",
+            "Old Schedule Lot",
+            "D5123608",
+            [
+              [
+                "18062000840018",
+                "2018-05-31",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "20072701200034",
+                "2020-07-24",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "25031201660019",
+                "2025-02-26",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "400000.0"
+              ],
+              [
+                "25042300960017",
+                "2025-03-28",
+                "ASSIGNMENT",
+                "400000.0"
+              ]
+            ]
+          ],
+          [
+            "DD257 249 S.A",
+            "Old Schedule Lot",
+            "D5123593",
+            [
+              [
+                "18062000840018",
+                "2018-05-31",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "20072701200034",
+                "2020-07-24",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "25031201660019",
+                "2025-02-26",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "400000.0"
+              ],
+              [
+                "25042300960017",
+                "2025-03-28",
+                "ASSIGNMENT",
+                "400000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952231241741796,
@@ -462,7 +883,154 @@
         1101765957,
         null,
         "2 WONG YI CHAU",
-        []
+        [
+          [
+            "DD257 168 S.B",
+            "Old Schedule Lot",
+            "C3842502",
+            [
+              [
+                "SK72896",
+                "1961-08-14",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK255771",
+                "1996-07-05",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "SK336136",
+                "1998-08-11",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "14021101650150",
+                "2014-01-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2000000.0"
+              ],
+              [
+                "14091102030147",
+                "2014-09-02",
+                "ASSIGNMENT",
+                "2000000.0"
+              ],
+              [
+                "14111101570053",
+                "2014-11-05",
+                "FIRST LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "15062301610023",
+                "2015-06-15",
+                "FIRST LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "15062301610012",
+                "2015-06-15",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "16070601580071",
+                "2016-06-15",
+                "LEGAL CHARGE/MORTGAGE",
+                "4000000.0"
+              ],
+              [
+                "16070601580051",
+                "2016-06-15",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18050401580017",
+                "2018-04-19",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "4000000.0"
+              ]
+            ]
+          ],
+          [
+            "DD257 570",
+            "New Grant Lot",
+            "C5686842",
+            [
+              [
+                "SK72896",
+                "1961-08-14",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK255771",
+                "1996-07-05",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "SK336136",
+                "1998-08-11",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "14021101650132",
+                "2014-01-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1000000.0"
+              ],
+              [
+                "14091102030130",
+                "2014-09-02",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "14111101570066",
+                "2014-11-05",
+                "FIRST LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "15062301610035",
+                "2015-06-15",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "15062301610048",
+                "2015-06-15",
+                "FIRST LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "16070601580010",
+                "2016-06-15",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "16070601580085",
+                "2016-06-15",
+                "LEGAL CHARGE/MORTGAGE",
+                "4000000.0"
+              ],
+              [
+                "18050401580023",
+                "2018-04-19",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "4000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952555807739663,
@@ -481,7 +1049,70 @@
         1101765958,
         null,
         "1 WONG YI CHAU",
-        []
+        [
+          [
+            "DD257 575",
+            "New Grant Lot",
+            "C3845023",
+            [
+              [
+                "SK72637",
+                "1961-07-06",
+                "-",
+                null
+              ],
+              [
+                "SK181664",
+                "1991-05-02",
+                "-",
+                null
+              ],
+              [
+                "SK290854",
+                "1997-06-27",
+                "MEMORANDUM AGREEMENT FOR SALE AND PURCHASE",
+                "980000.0"
+              ],
+              [
+                "SK290855",
+                "1997-06-27",
+                "ASSIGNMENT",
+                "980000.0"
+              ]
+            ]
+          ],
+          [
+            "DD257 576",
+            "New Grant Lot",
+            "C5257399",
+            [
+              [
+                "SK72637",
+                "1961-07-06",
+                "-",
+                null
+              ],
+              [
+                "SK181664",
+                "1991-05-02",
+                "-",
+                null
+              ],
+              [
+                "SK290854",
+                "1997-06-27",
+                "MEMORANDUM AGREEMENT FOR SALE AND PURCHASE",
+                "980000.0"
+              ],
+              [
+                "SK290855",
+                "1997-06-27",
+                "ASSIGNMENT",
+                "980000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.995257703395879,
@@ -500,7 +1131,33 @@
         1101765984,
         null,
         null,
-        []
+        [
+          [
+            "DD257 237",
+            "Old Schedule Lot",
+            "C5131120",
+            [
+              [
+                "SK72894",
+                "1961-08-14",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "10033000830012",
+                "2010-02-26",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF WONG NG FUK TONG",
+                null
+              ],
+              [
+                "10033000830022",
+                "2010-03-05",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF WONG NG FUK TONG",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952267020617975,
@@ -519,7 +1176,33 @@
         1101765997,
         null,
         null,
-        []
+        [
+          [
+            "DD257 237",
+            "Old Schedule Lot",
+            "C5131120",
+            [
+              [
+                "SK72894",
+                "1961-08-14",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "10033000830012",
+                "2010-02-26",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF WONG NG FUK TONG",
+                null
+              ],
+              [
+                "10033000830022",
+                "2010-03-05",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF WONG NG FUK TONG",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952252644270712,
@@ -576,7 +1259,82 @@
         1101766123,
         null,
         "18 WONG YI CHAU",
-        []
+        [
+          [
+            "DD257 579 RP",
+            "New Grant Lot",
+            "D2522100",
+            [
+              [
+                "SK540532",
+                "2002-11-04",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "13080700230037",
+                "2013-08-01",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "13080700230041",
+                "2013-08-01",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "13103100220025",
+                "2013-10-29",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "15011900220045",
+                "2014-12-18",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD257 579 S.A",
+            "New Grant Lot",
+            "D2522117",
+            [
+              [
+                "SK540532",
+                "2002-11-04",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "13080700230037",
+                "2013-08-01",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "13080700230041",
+                "2013-08-01",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "13103100220025",
+                "2013-10-29",
+                "DEED OF PARTITION",
+                null
+              ],
+              [
+                "15011900220045",
+                "2014-12-18",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.995229393672052,
@@ -595,7 +1353,51 @@
         1101766130,
         null,
         "27 WONG YI CHAU",
-        []
+        [
+          [
+            "DD257 585",
+            "New Grant Lot",
+            "C6469985",
+            [
+              [
+                "13120601610148",
+                "2013-08-28",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "19030602120135",
+                "2014-02-24",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "14040401630131",
+                "2014-02-24",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "24121201350341",
+                "2014-02-24",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "23033002460024",
+                "2022-09-20",
+                "A SEALED COPY OF AMENDED CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "23091201650107",
+                "2023-06-30",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952375416712187,
@@ -614,7 +1416,33 @@
         1101766155,
         null,
         "19 WONG YI CHAU",
-        []
+        [
+          [
+            "DD257 219",
+            "Old Schedule Lot",
+            "C5131101",
+            [
+              [
+                "SK73760",
+                "1962-01-26",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK83825",
+                "1970-07-22",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "12033002980091",
+                "2012-03-17",
+                "ASSIGNMENT",
+                "800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952311361034585,
@@ -633,7 +1461,57 @@
         1101766168,
         null,
         "39 WONG YI CHAU",
-        []
+        [
+          [
+            "DD257 222 S.A",
+            "Old Schedule Lot",
+            "D2405032",
+            [
+              [
+                "SK90358",
+                "1977-08-26",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK261862",
+                "1996-09-20",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "SK444013",
+                "2000-08-18",
+                "ASSIGNMENT",
+                "380000.0"
+              ],
+              [
+                "SK488751",
+                "2001-08-17",
+                "PROBATE",
+                null
+              ],
+              [
+                "SK499018",
+                "2001-10-31",
+                "ASSIGNMENT",
+                "380000.0"
+              ],
+              [
+                "13031500270016",
+                "2013-03-11",
+                "ASSENT",
+                null
+              ],
+              [
+                "13052200480063",
+                "2013-05-13",
+                "DEED OF PARTITION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952283075504502,
@@ -652,7 +1530,106 @@
         1101766174,
         null,
         "38 WONG YI CHAU",
-        []
+        [
+          [
+            "DD257 222 RP",
+            "Old Schedule Lot",
+            "D2405047",
+            [
+              [
+                "SK90358",
+                "1977-08-26",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK261862",
+                "1996-09-20",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "SK444013",
+                "2000-08-18",
+                "ASSIGNMENT",
+                "380000.0"
+              ],
+              [
+                "SK488751",
+                "2001-08-17",
+                "PROBATE",
+                null
+              ],
+              [
+                "SK499018",
+                "2001-10-31",
+                "ASSIGNMENT",
+                "380000.0"
+              ],
+              [
+                "13031500270016",
+                "2013-03-11",
+                "ASSENT",
+                null
+              ],
+              [
+                "13052200480063",
+                "2013-05-13",
+                "DEED OF PARTITION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD257 222 S.A",
+            "Old Schedule Lot",
+            "D2405032",
+            [
+              [
+                "SK90358",
+                "1977-08-26",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK261862",
+                "1996-09-20",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "SK444013",
+                "2000-08-18",
+                "ASSIGNMENT",
+                "380000.0"
+              ],
+              [
+                "SK488751",
+                "2001-08-17",
+                "PROBATE",
+                null
+              ],
+              [
+                "SK499018",
+                "2001-10-31",
+                "ASSIGNMENT",
+                "380000.0"
+              ],
+              [
+                "13031500270016",
+                "2013-03-11",
+                "ASSENT",
+                null
+              ],
+              [
+                "13052200480063",
+                "2013-05-13",
+                "DEED OF PARTITION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952293694338155,
@@ -671,7 +1648,51 @@
         1101766180,
         null,
         "33 WONG YI CHAU",
-        []
+        [
+          [
+            "DD257 211 S.A",
+            "Old Schedule Lot",
+            "D2172048",
+            [
+              [
+                "SK72828",
+                "1961-08-04",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK84717",
+                "1971-09-27",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK362680",
+                "1999-01-14",
+                "ASSIGNMENT",
+                "995000.0"
+              ],
+              [
+                "SK362679",
+                "1999-01-14",
+                "STATUTORY DECLARATION BY WONG LOY HAY",
+                null
+              ],
+              [
+                "11020202610151",
+                "2008-10-29",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12071200290027",
+                "2012-07-09",
+                "DEED OF PARTITION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952374690251622,
@@ -690,7 +1711,51 @@
         1101766182,
         null,
         "32 WONG YI CHAU",
-        []
+        [
+          [
+            "DD257 211 RP",
+            "Old Schedule Lot",
+            "D2172056",
+            [
+              [
+                "SK72828",
+                "1961-08-04",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK84717",
+                "1971-09-27",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK362679",
+                "1999-01-14",
+                "STATUTORY DECLARATION BY WONG LOY HAY",
+                null
+              ],
+              [
+                "SK362680",
+                "1999-01-14",
+                "ASSIGNMENT",
+                "995000.0"
+              ],
+              [
+                "11020202610151",
+                "2008-10-29",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12071200290027",
+                "2012-07-09",
+                "DEED OF PARTITION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952389223718008,
@@ -709,7 +1774,88 @@
         1101766185,
         null,
         "36 WONG YI CHAU",
-        []
+        [
+          [
+            "DD257 220",
+            "Old Schedule Lot",
+            "C3842855",
+            [
+              [
+                "SK72695",
+                "1961-07-14",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK222814",
+                "1994-06-17",
+                "APPROVAL LETTER FOR SUCCESSION",
+                null
+              ],
+              [
+                "19020101740020",
+                "2019-01-08",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "19020101740014",
+                "2019-01-08",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "500000.0"
+              ]
+            ]
+          ],
+          [
+            "DD257 221",
+            "Old Schedule Lot",
+            "C5131117",
+            [
+              [
+                "SK68661",
+                "1959-04-01",
+                "-",
+                null
+              ],
+              [
+                "SK68743",
+                "1959-04-20",
+                "MORTGAGE",
+                "1800.0"
+              ],
+              [
+                "SK70661",
+                "1960-06-27",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "SK287665",
+                "1997-07-25",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "SK287664",
+                "1997-07-25",
+                "MEMORANDUM AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ],
+              [
+                "11091600250044",
+                "2011-09-08",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "2000000.0"
+              ],
+              [
+                "11101400230138",
+                "2011-10-10",
+                "ASSIGNMENT",
+                "2000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.995232063006578,
@@ -728,7 +1874,57 @@
         1101766186,
         null,
         "37 WONG YI CHAU",
-        []
+        [
+          [
+            "DD257 221",
+            "Old Schedule Lot",
+            "C5131117",
+            [
+              [
+                "SK68661",
+                "1959-04-01",
+                "-",
+                null
+              ],
+              [
+                "SK68743",
+                "1959-04-20",
+                "MORTGAGE",
+                "1800.0"
+              ],
+              [
+                "SK70661",
+                "1960-06-27",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "SK287665",
+                "1997-07-25",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "SK287664",
+                "1997-07-25",
+                "MEMORANDUM AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ],
+              [
+                "11091600250044",
+                "2011-09-08",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "2000000.0"
+              ],
+              [
+                "11101400230138",
+                "2011-10-10",
+                "ASSIGNMENT",
+                "2000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952310901561343,
@@ -747,7 +1943,75 @@
         1101766187,
         null,
         "35 WONG YI CHAU",
-        []
+        [
+          [
+            "DD257 213",
+            "Old Schedule Lot",
+            "C5986090",
+            [
+              [
+                "SK72636",
+                "1961-07-06",
+                "-",
+                null
+              ],
+              [
+                "SK101946",
+                "1981-12-04",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "07123102920080",
+                "2007-08-23",
+                "PROBATE",
+                null
+              ],
+              [
+                "10052601280059",
+                "2010-05-12",
+                "PROBATE",
+                null
+              ],
+              [
+                "13030801140019",
+                "2013-02-14",
+                "ASSENT",
+                null
+              ],
+              [
+                "18110602450069",
+                "2017-05-25",
+                "PROBATE",
+                null
+              ],
+              [
+                "19012902270253",
+                "2019-01-07",
+                "ASSENT",
+                null
+              ],
+              [
+                "19112902280080",
+                "2019-10-31",
+                "ASSENT",
+                null
+              ],
+              [
+                "20100901740062",
+                "2020-09-18",
+                "PROBATE",
+                null
+              ],
+              [
+                "24040900480031",
+                "2024-03-22",
+                "ASSIGNMENT",
+                "240000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952335671834274,
@@ -766,7 +2030,57 @@
         1101766189,
         null,
         "34 WONG YI CHAU",
-        []
+        [
+          [
+            "DD257 212",
+            "Old Schedule Lot",
+            "C3842819",
+            [
+              [
+                "SK68663",
+                "1959-04-01",
+                "-",
+                null
+              ],
+              [
+                "SK68776",
+                "1959-04-25",
+                "MORTGAGE",
+                "3000.0"
+              ],
+              [
+                "SK80202",
+                "1966-04-20",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "SK154097",
+                "1990-02-20",
+                "-",
+                null
+              ],
+              [
+                "17112000210024",
+                "2017-11-15",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "24111901090156",
+                "2024-10-29",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "25032701560158",
+                "2025-02-10",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952353816911037,
@@ -785,7 +2099,69 @@
         1101766329,
         null,
         null,
-        []
+        [
+          [
+            "DD254 74",
+            "New Grant Lot",
+            "C3835325",
+            [
+              [
+                "SK72830",
+                "1961-08-04",
+                "-",
+                null
+              ],
+              [
+                "SK83707",
+                "1970-04-28",
+                "CONVEYANCE ON SALE",
+                "15000.0"
+              ],
+              [
+                "SK83706",
+                "1970-04-28",
+                "-",
+                "15000.0"
+              ],
+              [
+                "09042401900010",
+                "2009-04-08",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "10060901580018",
+                "2010-01-22",
+                "PROBATE",
+                null
+              ],
+              [
+                "10042102150017",
+                "2010-03-29",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "10042300110016",
+                "2010-03-29",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "16062901600014",
+                "2016-04-20",
+                "PROBATE",
+                null
+              ],
+              [
+                "16071202130162",
+                "2016-06-02",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952646382638903,
@@ -804,7 +2180,69 @@
         1101766335,
         null,
         "2 HEI TSZ WAN",
-        []
+        [
+          [
+            "DD254 74",
+            "New Grant Lot",
+            "C3835325",
+            [
+              [
+                "SK72830",
+                "1961-08-04",
+                "-",
+                null
+              ],
+              [
+                "SK83707",
+                "1970-04-28",
+                "CONVEYANCE ON SALE",
+                "15000.0"
+              ],
+              [
+                "SK83706",
+                "1970-04-28",
+                "-",
+                "15000.0"
+              ],
+              [
+                "09042401900010",
+                "2009-04-08",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "10060901580018",
+                "2010-01-22",
+                "PROBATE",
+                null
+              ],
+              [
+                "10042102150017",
+                "2010-03-29",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "10042300110016",
+                "2010-03-29",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "16062901600014",
+                "2016-04-20",
+                "PROBATE",
+                null
+              ],
+              [
+                "16071202130162",
+                "2016-06-02",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952647964163295,
@@ -823,7 +2261,69 @@
         1101766340,
         null,
         null,
-        []
+        [
+          [
+            "DD254 50 RP",
+            "Old Schedule Lot",
+            "C5130099",
+            [
+              [
+                "SK101893",
+                "1981-11-26",
+                "-",
+                null
+              ],
+              [
+                "SK217862",
+                "1994-04-11",
+                "-",
+                null
+              ],
+              [
+                "SK448313",
+                "2000-09-27",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK448314",
+                "2000-10-26",
+                "ASSIGNMENT",
+                "950000.0"
+              ],
+              [
+                "SK448315",
+                "2000-10-27",
+                "ASSIGNMENT",
+                "980000.0"
+              ],
+              [
+                "SK458363",
+                "2001-03-06",
+                "MORTGAGE TO SECURE GENERAL CREDIT FACILITIES",
+                null
+              ],
+              [
+                "SK537109",
+                "2002-10-21",
+                "SEALED COPY OF BANKRUPTCY ORDER",
+                null
+              ],
+              [
+                "SK546961",
+                "2003-01-28",
+                "CERTIFIED COPY OF CREDITORS' MEETING RESOLUTION",
+                null
+              ],
+              [
+                "06010600160199",
+                "2005-09-08",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952649584095528,
@@ -842,7 +2342,33 @@
         1101766397,
         null,
         null,
-        []
+        [
+          [
+            "DD254 71",
+            "New Grant Lot",
+            "C3835290",
+            [
+              [
+                "SK73629",
+                "1961-12-27",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK104769",
+                "1983-03-04",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "20111000720088",
+                "2020-05-20",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952660152901234,
@@ -861,7 +2387,88 @@
         1101766406,
         null,
         "8 HEI TSZ WAN",
-        []
+        [
+          [
+            "DD254 48",
+            "Old Schedule Lot",
+            "C3835175",
+            [
+              [
+                "SK72770",
+                "1961-07-26",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK73629",
+                "1961-12-27",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK101768",
+                "1981-11-10",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "SK103201",
+                "1982-06-15",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK511519",
+                "2002-02-27",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "SK511520",
+                "2002-02-27",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "SK511522",
+                "2002-02-27",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "20111000720088",
+                "2020-05-20",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD254 71",
+            "New Grant Lot",
+            "C3835290",
+            [
+              [
+                "SK73629",
+                "1961-12-27",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK104769",
+                "1983-03-04",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "20111000720088",
+                "2020-05-20",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952661746165663,
@@ -880,7 +2487,118 @@
         1101766417,
         null,
         null,
-        []
+        [
+          [
+            "DD254 47",
+            "Old Schedule Lot",
+            "C3835161",
+            [
+              [
+                "SK62224",
+                "1955-03-22",
+                "-",
+                null
+              ],
+              [
+                "SK101893",
+                "1981-11-26",
+                "-",
+                null
+              ],
+              [
+                "SK217862",
+                "1994-04-11",
+                "-",
+                null
+              ],
+              [
+                "SK286765",
+                "1997-05-25",
+                "CERTIFIED COPY OF GENERAL POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK286766",
+                "1997-07-15",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "SK286767",
+                "1997-07-15",
+                "ASSIGNMENT",
+                "1300000.0"
+              ],
+              [
+                "11071901730083",
+                "2010-09-10",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLANS",
+                "6697000.0"
+              ],
+              [
+                "11071901730093",
+                "2010-10-06",
+                "ASSIGNMENT",
+                "6697000.0"
+              ]
+            ]
+          ],
+          [
+            "DD254 48",
+            "Old Schedule Lot",
+            "C3835175",
+            [
+              [
+                "SK72770",
+                "1961-07-26",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK73629",
+                "1961-12-27",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK101768",
+                "1981-11-10",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "SK103201",
+                "1982-06-15",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "SK511519",
+                "2002-02-27",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "SK511520",
+                "2002-02-27",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "SK511522",
+                "2002-02-27",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "20111000720088",
+                "2020-05-20",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9952662495088396,
@@ -918,7 +2636,14 @@
         1101766909,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9951844161380212,
@@ -956,7 +2681,14 @@
         1101766916,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9951866231817839,
@@ -975,7 +2707,14 @@
         1101766918,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9951950804237277,
@@ -994,7 +2733,14 @@
         1101766922,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9951823585495978,
@@ -1013,7 +2759,14 @@
         1101766945,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9951960839561338,
@@ -1051,7 +2804,14 @@
         1101766958,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9951831761473882,
@@ -1070,7 +2830,14 @@
         1101766973,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9952027223495492,
@@ -1089,7 +2856,14 @@
         1101766975,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9951988560695892,
@@ -1108,7 +2882,14 @@
         1101767035,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9951827467310261,
@@ -1127,7 +2908,14 @@
         1101767050,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.995183304523032,
@@ -1146,7 +2934,14 @@
         1101767094,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9951833329313273,
@@ -1165,7 +2960,14 @@
         1101767123,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.995200374114506,
@@ -1184,7 +2986,14 @@
         1101767157,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9951847162670833,
@@ -1203,7 +3012,14 @@
         1101767163,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.995181349994607,
@@ -1222,7 +3038,14 @@
         1101767178,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9951981252139461,
@@ -1241,7 +3064,14 @@
         1101767203,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.995183200110921,
@@ -1260,7 +3090,14 @@
         1101767220,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9951883693274242,
@@ -1279,7 +3116,14 @@
         1101767233,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9951885836851115,
@@ -1298,7 +3142,14 @@
         1101767237,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9951931661550901,
@@ -1317,7 +3168,14 @@
         1101767242,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9951869855498345,
@@ -1336,7 +3194,45 @@
         1109726796,
         null,
         "19 WONG KENG TEI",
-        []
+        [
+          [
+            "DD257 647",
+            "New Grant Lot",
+            "C5131576",
+            [
+              [
+                "SK195934",
+                "1991-12-18",
+                "APPROVAL LETTER",
+                null
+              ],
+              [
+                "SK195933",
+                "1992-01-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "SK195935",
+                "1992-02-18",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "SK194205",
+                "1992-06-19",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "5190000.0"
+              ],
+              [
+                "SK195936",
+                "1992-08-10",
+                "-",
+                "5190000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9951554122930537,
@@ -1355,7 +3251,14 @@
         1810035242,
         null,
         null,
-        []
+        [
+          [
+            "DD257 676",
+            "New Grant Lot",
+            "D3172178",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9952351715667656,
@@ -1374,7 +3277,14 @@
         1810081371,
         null,
         null,
-        []
+        [
+          [
+            "DD254 76",
+            "New Grant Lot",
+            "D2857697",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9951830304428015,

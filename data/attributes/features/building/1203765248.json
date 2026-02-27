@@ -158,7 +158,27 @@
         1107615307,
         null,
         "1 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1250",
+            "New Grant Lot",
+            "C3229886",
+            [
+              [
+                "15031900750163",
+                "2015-01-07",
+                "PROBATE",
+                null
+              ],
+              [
+                "15031900750179",
+                "2015-03-09",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928575100543222,
@@ -196,7 +216,69 @@
         1107615318,
         null,
         "8 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 756",
+            "Old Schedule Lot",
+            "C3227196",
+            [
+              [
+                "N146670",
+                "1962-03-05",
+                "-",
+                null
+              ],
+              [
+                "N323799",
+                "1994-12-12",
+                "DECLARATION OF LEE (OR LI) YING",
+                null
+              ],
+              [
+                "N323801",
+                "1994-12-12",
+                "DECLARATION OF YIP KOON WONG ALIAS IP KUN WONG ALIAS IP KUN WONG",
+                null
+              ],
+              [
+                "N323800",
+                "1994-12-20",
+                "DECLARATION OF IP KUN SAN ALIAS YIP KOON SUN",
+                null
+              ],
+              [
+                "N323802",
+                "1995-01-04",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "17091800520153",
+                "2007-11-07",
+                "SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "08012801700306",
+                "2007-11-07",
+                "SEALED COPY AMENDED CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "12100901890036",
+                "2007-11-07",
+                "SEALED COPY OF AMENDED-CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "22080200590071",
+                "2007-11-07",
+                "SEALED COPY OF AMENDED CHARGING ORDER ABSOLUTE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928603365493298,
@@ -215,7 +297,69 @@
         1107615323,
         null,
         "9 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 756",
+            "Old Schedule Lot",
+            "C3227196",
+            [
+              [
+                "N146670",
+                "1962-03-05",
+                "-",
+                null
+              ],
+              [
+                "N323799",
+                "1994-12-12",
+                "DECLARATION OF LEE (OR LI) YING",
+                null
+              ],
+              [
+                "N323801",
+                "1994-12-12",
+                "DECLARATION OF YIP KOON WONG ALIAS IP KUN WONG ALIAS IP KUN WONG",
+                null
+              ],
+              [
+                "N323800",
+                "1994-12-20",
+                "DECLARATION OF IP KUN SAN ALIAS YIP KOON SUN",
+                null
+              ],
+              [
+                "N323802",
+                "1995-01-04",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "17091800520153",
+                "2007-11-07",
+                "SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "08012801700306",
+                "2007-11-07",
+                "SEALED COPY AMENDED CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "12100901890036",
+                "2007-11-07",
+                "SEALED COPY OF AMENDED-CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "22080200590071",
+                "2007-11-07",
+                "SEALED COPY OF AMENDED CHARGING ORDER ABSOLUTE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928607415426838,
@@ -234,7 +378,45 @@
         1107615330,
         null,
         "10 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 753",
+            "Old Schedule Lot",
+            "C3227183",
+            [
+              [
+                "N147466",
+                "1962-06-13",
+                "-",
+                null
+              ],
+              [
+                "21032602140030",
+                "2021-03-10",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "21112302350036",
+                "2021-11-08",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "24101501760212",
+                "2024-09-24",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "25041501910777",
+                "2025-03-25",
+                "A SEALED COPY OF ORDER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928616485677797,
@@ -253,7 +435,21 @@
         1107615334,
         null,
         "1B LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1270",
+            "New Grant Lot",
+            "C3230020",
+            [
+              [
+                "N208984",
+                "1983-06-22",
+                "-",
+                "1.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928530432963296,
@@ -272,7 +468,21 @@
         1107615336,
         null,
         "23 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1251",
+            "New Grant Lot",
+            "C3229897",
+            [
+              [
+                "08033100620451",
+                "2008-02-18",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928670749088158,
@@ -291,7 +501,93 @@
         1107615340,
         null,
         "11A LIN MA HANG",
-        []
+        [
+          [
+            "DD47 751",
+            "Old Schedule Lot",
+            "C5637786",
+            [
+              [
+                "N199431",
+                "1980-09-03",
+                "-",
+                "20000.0"
+              ],
+              [
+                "N212781",
+                "1984-06-26",
+                "-",
+                "1.0"
+              ],
+              [
+                "N230906",
+                "1989-06-05",
+                "GIFT",
+                null
+              ],
+              [
+                "N278418",
+                "1992-09-18",
+                "-",
+                null
+              ],
+              [
+                "N314969",
+                "1994-03-15",
+                "-",
+                null
+              ],
+              [
+                "N322691",
+                "1994-11-21",
+                "-",
+                null
+              ],
+              [
+                "N322690",
+                "1994-11-21",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "N511766",
+                "2000-12-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N517550",
+                "2001-09-28",
+                "ASSENT",
+                null
+              ],
+              [
+                "N517549",
+                "2001-09-28",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "11011800470039",
+                "2010-12-08",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "11051602700042",
+                "2011-04-18",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "16020401420150",
+                "2016-02-04",
+                "SATISFACTION CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928623656520137,
@@ -310,7 +606,27 @@
         1107615343,
         null,
         "24 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1249",
+            "New Grant Lot",
+            "C3229875",
+            [
+              [
+                "N396235",
+                "1997-06-06",
+                "ORDER: H.C.M.P. NO.1377 OF 1997",
+                null
+              ],
+              [
+                "N398322",
+                "1997-06-20",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928674941287678,
@@ -329,7 +645,45 @@
         1107615346,
         null,
         "16 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 736",
+            "Old Schedule Lot",
+            "C6726671",
+            [
+              [
+                "N147466",
+                "1962-06-13",
+                "-",
+                null
+              ],
+              [
+                "21032602140030",
+                "2021-03-10",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "21112302350036",
+                "2021-11-08",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "24101501760212",
+                "2024-09-24",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "25041501910777",
+                "2025-03-25",
+                "A SEALED COPY OF ORDER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928602274173977,
@@ -348,7 +702,93 @@
         1107615347,
         null,
         "11B LIN MA HANG",
-        []
+        [
+          [
+            "DD47 751",
+            "Old Schedule Lot",
+            "C5637786",
+            [
+              [
+                "N199431",
+                "1980-09-03",
+                "-",
+                "20000.0"
+              ],
+              [
+                "N212781",
+                "1984-06-26",
+                "-",
+                "1.0"
+              ],
+              [
+                "N230906",
+                "1989-06-05",
+                "GIFT",
+                null
+              ],
+              [
+                "N278418",
+                "1992-09-18",
+                "-",
+                null
+              ],
+              [
+                "N314969",
+                "1994-03-15",
+                "-",
+                null
+              ],
+              [
+                "N322691",
+                "1994-11-21",
+                "-",
+                null
+              ],
+              [
+                "N322690",
+                "1994-11-21",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "N511766",
+                "2000-12-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N517550",
+                "2001-09-28",
+                "ASSENT",
+                null
+              ],
+              [
+                "N517549",
+                "2001-09-28",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "11011800470039",
+                "2010-12-08",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "11051602700042",
+                "2011-04-18",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "16020401420150",
+                "2016-02-04",
+                "SATISFACTION CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992862772111545,
@@ -367,7 +807,14 @@
         1107615351,
         null,
         "25 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1252",
+            "New Grant Lot",
+            "C3229906",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9928679147728192,
@@ -405,7 +852,75 @@
         1107615360,
         null,
         null,
-        []
+        [
+          [
+            "DD47 741",
+            "Old Schedule Lot",
+            "C3227123",
+            [
+              [
+                "N199431",
+                "1980-09-03",
+                "-",
+                "20000.0"
+              ],
+              [
+                "N212781",
+                "1984-06-26",
+                "-",
+                "1.0"
+              ],
+              [
+                "N230906",
+                "1989-06-05",
+                "GIFT",
+                null
+              ],
+              [
+                "N278418",
+                "1992-09-18",
+                "-",
+                null
+              ],
+              [
+                "N314969",
+                "1994-03-15",
+                "-",
+                null
+              ],
+              [
+                "N322691",
+                "1994-11-21",
+                "-",
+                null
+              ],
+              [
+                "N322690",
+                "1994-11-21",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "N511766",
+                "2000-12-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N517550",
+                "2001-09-28",
+                "ASSENT",
+                null
+              ],
+              [
+                "N517549",
+                "2001-09-28",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928586582150918,
@@ -424,7 +939,125 @@
         1107615367,
         null,
         "11 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 746",
+            "Old Schedule Lot",
+            "C5790763",
+            [
+              [
+                "N147496",
+                "1962-06-18",
+                "-",
+                null
+              ],
+              [
+                "16050301290056",
+                "2016-04-13",
+                "RESEALED GRANT OF PROBATE",
+                null
+              ],
+              [
+                "17091101960010",
+                "2017-08-12",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "1500000.0"
+              ],
+              [
+                "17091101960022",
+                "2017-08-12",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "17083101650129",
+                "2017-08-12",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "17083101650112",
+                "2017-08-12",
+                "ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 747",
+            "Old Schedule Lot",
+            "C3227152",
+            [
+              [
+                "N144339",
+                "1961-06-09",
+                "-",
+                null
+              ],
+              [
+                "17061201640063",
+                "2016-10-26",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF IP SHING LUNG TSO",
+                null
+              ],
+              [
+                "17061201640072",
+                "2017-03-27",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF IP SHING LUNG TSO",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 748",
+            "Old Schedule Lot",
+            "C3227162",
+            [
+              [
+                "N45887",
+                "1920-05-14",
+                "-",
+                null
+              ],
+              [
+                "N147497",
+                "1962-06-18",
+                "-",
+                null
+              ],
+              [
+                "16050301290056",
+                "2016-04-13",
+                "RESEALED GRANT OF PROBATE",
+                null
+              ],
+              [
+                "17091101960022",
+                "2017-08-12",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "17091101960010",
+                "2017-08-12",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "1500000.0"
+              ],
+              [
+                "17083101650129",
+                "2017-08-12",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "17083101650112",
+                "2017-08-12",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928625564208826,
@@ -443,7 +1076,57 @@
         1107615368,
         null,
         "18 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 742",
+            "Old Schedule Lot",
+            "C3227130",
+            [
+              [
+                "N147447",
+                "1962-06-12",
+                "-",
+                null
+              ],
+              [
+                "N323799",
+                "1994-12-12",
+                "DECLARATION OF LEE (OR LI) YING",
+                null
+              ],
+              [
+                "N323801",
+                "1994-12-12",
+                "DECLARATION OF YIP KOON WONG ALIAS IP KUN WONG ALIAS IP KUN WONG",
+                null
+              ],
+              [
+                "N323800",
+                "1994-12-20",
+                "DECLARATION OF IP KUN SAN ALIAS YIP KOON SUN",
+                null
+              ],
+              [
+                "N323802",
+                "1995-01-04",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "05070600720016",
+                "2005-06-30",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "05081901510010",
+                "2005-08-05",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992859212535738,
@@ -462,7 +1145,21 @@
         1107615370,
         null,
         "26 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1248",
+            "New Grant Lot",
+            "C3229861",
+            [
+              [
+                "N161683",
+                "1968-04-10",
+                "-",
+                "12000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928651195514067,
@@ -481,7 +1178,33 @@
         1107615376,
         null,
         "20 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 743",
+            "Old Schedule Lot",
+            "C3227148",
+            [
+              [
+                "N144339",
+                "1961-06-09",
+                "-",
+                null
+              ],
+              [
+                "17061201640063",
+                "2016-10-26",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF IP SHING LUNG TSO",
+                null
+              ],
+              [
+                "17061201640072",
+                "2017-03-27",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF IP SHING LUNG TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928598155102533,
@@ -500,7 +1223,69 @@
         1107615381,
         null,
         "7 - 27 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1247",
+            "New Grant Lot",
+            "C3229851",
+            [
+              [
+                "N226808",
+                "1988-04-12",
+                "DECLARATION OF LOSS OF YIP LEUNG TAI ALIAS LEUNG TAI",
+                null
+              ],
+              [
+                "N226809",
+                "1988-04-12",
+                "-",
+                "1.0"
+              ],
+              [
+                "13102201730012",
+                "2013-06-03",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "14032101610083",
+                "2013-12-30",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "14052701370084",
+                "2014-05-20",
+                "SATISFACTION CERTIFICATE",
+                null
+              ],
+              [
+                "16070602080166",
+                "2016-04-20",
+                "SEALED CONFIRMATION OF ADMINISTRATION",
+                null
+              ],
+              [
+                "16072001500112",
+                "2016-06-27",
+                "ASSENT",
+                null
+              ],
+              [
+                "25020701820186",
+                "2024-09-12",
+                "PROBATE (WITH COPY OF THE LAST WILL AND TESTAMENT HEREUNTO ANNEXED)",
+                null
+              ],
+              [
+                "25020701820198",
+                "2024-11-25",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928654317448875,
@@ -519,7 +1304,27 @@
         1107615382,
         null,
         "22 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 744",
+            "Old Schedule Lot",
+            "C5976635",
+            [
+              [
+                "N143493",
+                "1961-03-02",
+                "-",
+                null
+              ],
+              [
+                "N207761",
+                "1983-03-02",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928609256614307,
@@ -538,7 +1343,45 @@
         1107615392,
         null,
         "22A LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1273",
+            "New Grant Lot",
+            "C3230030",
+            [
+              [
+                "N511766",
+                "2000-12-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12110702410026",
+                "2012-09-18",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "13010800470044",
+                "2012-12-17",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "17060900580027",
+                "2017-06-09",
+                "SATISFACTION CERTIFICATE",
+                null
+              ],
+              [
+                "20020501960087",
+                "2019-11-22",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928636270219464,
@@ -576,7 +1419,81 @@
         1107615397,
         null,
         null,
-        []
+        [
+          [
+            "DD47 705",
+            "Old Schedule Lot",
+            "C3226926",
+            [
+              [
+                "N58696",
+                "1924-02-29",
+                "-",
+                null
+              ],
+              [
+                "N145421",
+                "1961-10-20",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N146051",
+                "1961-12-27",
+                "-",
+                null
+              ],
+              [
+                "N273244",
+                "1992-06-22",
+                "DECLARATION OF YAU YEE (OR YI) KIU",
+                null
+              ],
+              [
+                "N273243",
+                "1992-06-26",
+                "DECLARATION OF YIP (OR IP) TIM CHOI (OR TSOI)",
+                null
+              ],
+              [
+                "N273246",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "N273242",
+                "1992-06-28",
+                "DECLARATION OF YIP (OR IP) LUNG",
+                null
+              ],
+              [
+                "N273241",
+                "1992-06-28",
+                "DECLARATION OF YIP (OR IP) TIM",
+                null
+              ],
+              [
+                "N366905",
+                "1996-06-03",
+                "-",
+                null
+              ],
+              [
+                "N428347",
+                "1997-10-03",
+                "MEMO AS TO ERROR IN RESPECT OF MEMORIAL NOS. 58696 AND 146051",
+                null
+              ],
+              [
+                "23060501960041",
+                "2023-04-12",
+                "SEALED COPY OF ORDER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928452763512507,
@@ -595,7 +1512,21 @@
         1107615404,
         null,
         null,
-        []
+        [
+          [
+            "DD47 703",
+            "Old Schedule Lot",
+            "C3226917",
+            [
+              [
+                "N88574",
+                "1934-01-23",
+                "SALE",
+                "100.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928441703028026,
@@ -671,7 +1602,40 @@
         1107615466,
         null,
         null,
-        []
+        [
+          [
+            "DD47 690",
+            "Old Schedule Lot",
+            "C6304549",
+            [
+              [
+                "N58636",
+                "1924-02-26",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 691",
+            "Old Schedule Lot",
+            "C6726665",
+            [
+              [
+                "06111002300039",
+                "2005-11-21",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "06111002300040",
+                "2006-10-10",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928429875254017,
@@ -690,7 +1654,27 @@
         1107615494,
         null,
         "36B LIN MA HANG",
-        []
+        [
+          [
+            "DD47 679",
+            "Old Schedule Lot",
+            "C3226818",
+            [
+              [
+                "N130583",
+                "1953-08-27",
+                "-",
+                null
+              ],
+              [
+                "N415446",
+                "1998-03-21",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928421166555046,
@@ -709,7 +1693,69 @@
         1107615501,
         null,
         "37 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 678",
+            "Old Schedule Lot",
+            "C5976624",
+            [
+              [
+                "N145419",
+                "1961-10-20",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "N273244",
+                "1992-06-22",
+                "DECLARATION OF YAU YEE (OR YI) KIU",
+                null
+              ],
+              [
+                "N273243",
+                "1992-06-26",
+                "DECLARATION OF YIP (OR IP) TIM CHOI (OR TSOI)",
+                null
+              ],
+              [
+                "N273245",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "N273242",
+                "1992-06-28",
+                "DECLARATION OF YIP (OR IP) LUNG",
+                null
+              ],
+              [
+                "N273241",
+                "1992-06-28",
+                "DECLARATION OF YIP (OR IP) TIM",
+                null
+              ],
+              [
+                "N366905",
+                "1996-06-03",
+                "-",
+                null
+              ],
+              [
+                "N513608",
+                "2001-02-13",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "23060501960041",
+                "2023-04-12",
+                "SEALED COPY OF ORDER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928400000583943,
@@ -747,7 +1793,20 @@
         1107615509,
         null,
         "28 - 29 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1253",
+            "New Grant Lot",
+            "C5638050",
+            []
+          ],
+          [
+            "DD47 1254",
+            "New Grant Lot",
+            "C6590636",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9928496441108214,
@@ -766,7 +1825,87 @@
         1107615532,
         null,
         "38 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 136 S.D",
+            "Old Schedule Lot",
+            "C3224426",
+            [
+              [
+                "N55367",
+                "1923-03-24",
+                "-",
+                "318.0"
+              ],
+              [
+                "N100140",
+                "1937-06-08",
+                "-",
+                null
+              ],
+              [
+                "N465668",
+                "1999-11-02",
+                "APPROVAL OF SUCCESSION OF IP PING SHAU",
+                null
+              ],
+              [
+                "N511105",
+                "2001-05-21",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "15021001480013",
+                "2015-01-15",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "20040101790044",
+                "2015-03-30",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "15042102050077",
+                "2015-03-30",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "25030601370401",
+                "2015-03-30",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "21072202130028",
+                "2021-06-15",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "22011702360090",
+                "2021-12-13",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "25010201030045",
+                "2024-12-03",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "25040301820022",
+                "2025-03-17",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928396682515388,
@@ -785,7 +1924,87 @@
         1107615544,
         null,
         "39 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 136 S.D",
+            "Old Schedule Lot",
+            "C3224426",
+            [
+              [
+                "N55367",
+                "1923-03-24",
+                "-",
+                "318.0"
+              ],
+              [
+                "N100140",
+                "1937-06-08",
+                "-",
+                null
+              ],
+              [
+                "N465668",
+                "1999-11-02",
+                "APPROVAL OF SUCCESSION OF IP PING SHAU",
+                null
+              ],
+              [
+                "N511105",
+                "2001-05-21",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "15021001480013",
+                "2015-01-15",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "20040101790044",
+                "2015-03-30",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "15042102050077",
+                "2015-03-30",
+                "SEALED COPY CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "25030601370401",
+                "2015-03-30",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "21072202130028",
+                "2021-06-15",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "22011702360090",
+                "2021-12-13",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "25010201030045",
+                "2024-12-03",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "25040301820022",
+                "2025-03-17",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928393746476176,
@@ -804,7 +2023,179 @@
         1107615552,
         null,
         "30 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 672",
+            "Old Schedule Lot",
+            "C3226744",
+            [
+              [
+                "N145421",
+                "1961-10-20",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N273244",
+                "1992-06-22",
+                "DECLARATION OF YAU YEE (OR YI) KIU",
+                null
+              ],
+              [
+                "N273243",
+                "1992-06-26",
+                "DECLARATION OF YIP (OR IP) TIM CHOI (OR TSOI)",
+                null
+              ],
+              [
+                "N273246",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "N273241",
+                "1992-06-28",
+                "DECLARATION OF YIP (OR IP) TIM",
+                null
+              ],
+              [
+                "N273242",
+                "1992-06-28",
+                "DECLARATION OF YIP (OR IP) LUNG",
+                null
+              ],
+              [
+                "N366905",
+                "1996-06-03",
+                "-",
+                null
+              ],
+              [
+                "23060501960041",
+                "2023-04-12",
+                "SEALED COPY OF ORDER",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 673 S.A",
+            "Old Schedule Lot",
+            "C3226763",
+            [
+              [
+                "N58874",
+                "1924-03-19",
+                "SALE",
+                "60.0"
+              ],
+              [
+                "N145419",
+                "1961-10-20",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "N273244",
+                "1992-06-22",
+                "DECLARATION OF YAU YEE (OR YI) KIU",
+                null
+              ],
+              [
+                "N273245",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "N273243",
+                "1992-06-26",
+                "DECLARATION OF YIP (OR IP) TIM CHOI (OR TSOI)",
+                null
+              ],
+              [
+                "N273242",
+                "1992-06-28",
+                "DECLARATION OF YIP (OR IP) LUNG",
+                null
+              ],
+              [
+                "N273241",
+                "1992-06-28",
+                "DECLARATION OF YIP (OR IP) TIM",
+                null
+              ],
+              [
+                "N366905",
+                "1996-06-03",
+                "-",
+                null
+              ],
+              [
+                "23060501960041",
+                "2023-04-12",
+                "SEALED COPY OF ORDER",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 673 S.B",
+            "Old Schedule Lot",
+            "C3226776",
+            [
+              [
+                "N145419",
+                "1961-10-20",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "N273244",
+                "1992-06-22",
+                "DECLARATION OF YAU YEE (OR YI) KIU",
+                null
+              ],
+              [
+                "N273243",
+                "1992-06-26",
+                "DECLARATION OF YIP (OR IP) TIM CHOI (OR TSOI)",
+                null
+              ],
+              [
+                "N273245",
+                "1992-06-26",
+                "-",
+                null
+              ],
+              [
+                "N273241",
+                "1992-06-28",
+                "DECLARATION OF YIP (OR IP) TIM",
+                null
+              ],
+              [
+                "N273242",
+                "1992-06-28",
+                "DECLARATION OF YIP (OR IP) LUNG",
+                null
+              ],
+              [
+                "N366905",
+                "1996-06-03",
+                "-",
+                null
+              ],
+              [
+                "23060501960041",
+                "2023-04-12",
+                "SEALED COPY OF ORDER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99284501918475,
@@ -842,7 +2233,33 @@
         1107615567,
         null,
         "31A LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1276",
+            "New Grant Lot",
+            "C3230055",
+            [
+              [
+                "07011801200082",
+                "2006-12-21",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "07011801200090",
+                "2006-12-21",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08073000390105",
+                "2008-07-03",
+                "TOLERATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992848629968193,
@@ -861,7 +2278,120 @@
         1107615577,
         null,
         "34 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1243",
+            "New Grant Lot",
+            "C3229844",
+            [
+              [
+                "N180330",
+                "1975-05-08",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 656",
+            "Old Schedule Lot",
+            "C3226638",
+            [
+              [
+                "N144234",
+                "1961-05-30",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 658",
+            "Old Schedule Lot",
+            "C3226649",
+            [
+              [
+                "N151434",
+                "1963-11-20",
+                "-",
+                null
+              ],
+              [
+                "N478457",
+                "2000-04-13",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N499314",
+                "2000-12-11",
+                "STATUTORY DECLARATION OF YIP SUI SHAN ALSO KNOWN AS IP SHUI SHAN",
+                null
+              ],
+              [
+                "N511420",
+                "2001-05-22",
+                "ASSIGNMENT",
+                "9000.0"
+              ],
+              [
+                "19081400460041",
+                "2018-06-11",
+                "PROBATE",
+                null
+              ],
+              [
+                "22021801830011",
+                "2022-01-28",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 659",
+            "Old Schedule Lot",
+            "C6726652",
+            [
+              [
+                "N157997",
+                "1966-07-05",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N182674",
+                "1976-04-02",
+                "REMOVAL OF TRUSTEE",
+                null
+              ],
+              [
+                "N513504",
+                "2001-07-02",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N513505",
+                "2001-07-02",
+                "ASSIGNMENT",
+                "9000.0"
+              ],
+              [
+                "19081400460041",
+                "2018-06-11",
+                "PROBATE",
+                null
+              ],
+              [
+                "22021801830011",
+                "2022-01-28",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928419521301555,
@@ -880,7 +2410,33 @@
         1107615579,
         null,
         "31 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 671",
+            "Old Schedule Lot",
+            "C3226735",
+            [
+              [
+                "N495547",
+                "2000-09-18",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "16020400520012",
+                "2016-01-04",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "17062300690099",
+                "2017-05-11",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928444861046872,
@@ -899,7 +2455,33 @@
         1107615595,
         null,
         "32 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 670",
+            "Old Schedule Lot",
+            "C3226721",
+            [
+              [
+                "N170849",
+                "1972-05-18",
+                "-",
+                null
+              ],
+              [
+                "N465668",
+                "1999-11-02",
+                "APPROVAL OF SUCCESSION OF IP PING SHAU",
+                null
+              ],
+              [
+                "16020400520012",
+                "2016-01-04",
+                "ASSIGNMENT",
+                "100000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928442426662565,
@@ -918,7 +2500,63 @@
         1107615608,
         null,
         "33 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 669",
+            "Old Schedule Lot",
+            "C3226713",
+            [
+              [
+                "N143288",
+                "1961-01-30",
+                "-",
+                null
+              ],
+              [
+                "N201404",
+                "1981-04-09",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N398754",
+                "1997-07-11",
+                "STATUTORY DECLARATION OF YEAP OW LAN \"THE DECLARANT\"",
+                null
+              ],
+              [
+                "12031200240135",
+                "2012-02-17",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "12092100360285",
+                "2012-08-29",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "13121701050031",
+                "2013-09-24",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "14041701560125",
+                "2014-03-17",
+                "A SEALED COPY OF ORDER",
+                null
+              ],
+              [
+                "22093002100020",
+                "2022-08-25",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928439998682124,
@@ -937,7 +2575,39 @@
         1107615615,
         null,
         "41 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 136 S.A",
+            "Old Schedule Lot",
+            "C3224399",
+            [
+              [
+                "N49696",
+                "1921-05-18",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "N55366",
+                "1923-03-24",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N59704",
+                "1924-06-17",
+                "-",
+                "200.0"
+              ],
+              [
+                "N180331",
+                "1975-05-08",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928395603811178,
@@ -975,7 +2645,21 @@
         1107615627,
         null,
         "33 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1242",
+            "New Grant Lot",
+            "C5790824",
+            [
+              [
+                "N180330",
+                "1975-05-08",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928442082690885,
@@ -994,7 +2678,39 @@
         1107615633,
         null,
         "33B LIN MA HANG",
-        []
+        [
+          [
+            "DD47 674 RP",
+            "Old Schedule Lot",
+            "C5637738",
+            [
+              [
+                "N282972",
+                "1992-11-05",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N309805",
+                "1994-03-25",
+                "AGREEMENT FOR SALE AND PURCHASE RE R.P.",
+                "288800.0"
+              ],
+              [
+                "N318716",
+                "1994-07-19",
+                "CONSENT LETTER (RE LOT NO.674 IN DD47)",
+                null
+              ],
+              [
+                "N318719",
+                "1994-08-10",
+                "-",
+                "288800.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928478995838648,
@@ -1051,7 +2767,21 @@
         1107615784,
         null,
         "76B LIN MA HANG",
-        []
+        [
+          [
+            "DD47 802",
+            "Old Schedule Lot",
+            "C5053308",
+            [
+              [
+                "N401735",
+                "1997-06-19",
+                "MEMO AS TO ERROR IN RESPECT OF MEM.NO.58636",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928408847066126,
@@ -1070,7 +2800,27 @@
         1107615800,
         null,
         "76 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 805",
+            "Old Schedule Lot",
+            "C3227404",
+            [
+              [
+                "N211203",
+                "1983-12-20",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N230722",
+                "1989-05-24",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928425800194476,
@@ -1089,7 +2839,52 @@
         1107615806,
         null,
         "77A LIN MA HANG",
-        []
+        [
+          [
+            "DD47 803",
+            "Old Schedule Lot",
+            "C5835580",
+            [
+              [
+                "N153622",
+                "1964-08-18",
+                "-",
+                null
+              ],
+              [
+                "25040301280061",
+                "2025-03-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "25061201700049",
+                "2025-05-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2500000.0"
+              ],
+              [
+                "25080701860074",
+                "2025-07-17",
+                "ASSIGNMENT",
+                "2500000.0"
+              ]
+            ]
+          ],
+          [
+            "DD47 804",
+            "Old Schedule Lot",
+            "C5932324",
+            [
+              [
+                "N45898",
+                "1920-05-14",
+                "-",
+                "40.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928407009534856,
@@ -1108,7 +2903,64 @@
         1107615811,
         null,
         "129A LIN MA HANG",
-        []
+        [
+          [
+            "DD47 811",
+            "Old Schedule Lot",
+            "C3227428",
+            [
+              [
+                "N45901",
+                "1920-05-14",
+                "-",
+                "200.0"
+              ],
+              [
+                "N153055",
+                "1964-05-26",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N415575",
+                "1998-03-12",
+                "MEMO AS TO ERROR IN RESPECT OF MEMORIAL NO.153055",
+                null
+              ],
+              [
+                "N417687",
+                "1998-05-15",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "05091500390012",
+                "2005-08-20",
+                "CONFIRMATORY ASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 812",
+            "Old Schedule Lot",
+            "C3227435",
+            [
+              [
+                "N62915",
+                "1925-06-22",
+                "-",
+                null
+              ],
+              [
+                "N153619",
+                "1964-08-18",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928451180188071,
@@ -1127,7 +2979,27 @@
         1107615834,
         null,
         "88 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 816",
+            "Old Schedule Lot",
+            "C3227462",
+            [
+              [
+                "N113099",
+                "1941-08-22",
+                "-",
+                null
+              ],
+              [
+                "11013101000121",
+                "2010-12-06",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928469535907822,
@@ -1146,7 +3018,27 @@
         1107615841,
         null,
         "89 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 817",
+            "Old Schedule Lot",
+            "C3227472",
+            [
+              [
+                "N62915",
+                "1925-06-22",
+                "-",
+                null
+              ],
+              [
+                "N153619",
+                "1964-08-18",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928476554240337,
@@ -1165,7 +3057,27 @@
         1107615844,
         null,
         "90 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 818",
+            "Old Schedule Lot",
+            "C5053317",
+            [
+              [
+                "N60181",
+                "1925-01-02",
+                "-",
+                "200.0"
+              ],
+              [
+                "N153619",
+                "1964-08-18",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928482047254643,
@@ -1184,7 +3096,21 @@
         1107615845,
         null,
         "58B LIN MA HANG",
-        []
+        [
+          [
+            "DD47 839",
+            "Old Schedule Lot",
+            "C5790782",
+            [
+              [
+                "19010802410028",
+                "2018-12-17",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928412690860282,
@@ -1203,7 +3129,58 @@
         1107615848,
         null,
         "91 - 92 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 819",
+            "Old Schedule Lot",
+            "C5053327",
+            [
+              [
+                "N126030",
+                "1950-05-24",
+                "-",
+                null
+              ],
+              [
+                "N446511",
+                "1999-06-04",
+                "STATUTORY DECLARATION BY YIP CHUN LOI ALSO KNOWN AS IP CHUEN LOI",
+                null
+              ],
+              [
+                "N446512",
+                "1999-06-30",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "24010400550036",
+                "2023-11-21",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 820",
+            "Old Schedule Lot",
+            "C6304614",
+            [
+              [
+                "N113099",
+                "1941-08-22",
+                "-",
+                null
+              ],
+              [
+                "11013101000121",
+                "2010-12-06",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928488299779445,
@@ -1222,7 +3199,21 @@
         1107615850,
         null,
         "78C LIN MA HANG",
-        []
+        [
+          [
+            "DD47 838",
+            "Old Schedule Lot",
+            "C5053359",
+            [
+              [
+                "19010802410028",
+                "2018-12-17",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928423608397543,
@@ -1241,7 +3232,21 @@
         1107615852,
         null,
         null,
-        []
+        [
+          [
+            "DD47 839",
+            "Old Schedule Lot",
+            "C5790782",
+            [
+              [
+                "19010802410028",
+                "2018-12-17",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992841247573878,
@@ -1260,7 +3265,21 @@
         1107615855,
         null,
         "78C LIN MA HANG",
-        []
+        [
+          [
+            "DD47 836",
+            "Old Schedule Lot",
+            "C3227604",
+            [
+              [
+                "N4871",
+                "1907-09-06",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928430841248856,
@@ -1279,7 +3298,34 @@
         1107615877,
         null,
         "98 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 823 S.A",
+            "Old Schedule Lot",
+            "C3227499",
+            [
+              [
+                "N18043",
+                "1911-12-08",
+                "-",
+                "160.0"
+              ]
+            ]
+          ],
+          [
+            "DD47 824",
+            "Old Schedule Lot",
+            "C3227535",
+            [
+              [
+                "N113130",
+                "1941-08-29",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928475617744144,
@@ -1298,7 +3344,70 @@
         1107615880,
         null,
         "105 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 826",
+            "Old Schedule Lot",
+            "C5053330",
+            [
+              [
+                "N327826",
+                "1994-02-10",
+                "NOTICE OF DEATH OF MANAGER",
+                null
+              ],
+              [
+                "N327827",
+                "1994-09-09",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N443353",
+                "1998-08-11",
+                "NOTICE TO DEATH OF MANAGER OF IP SZ (OR SZE) FAT TSO OR SZE FAT TSO",
+                null
+              ],
+              [
+                "N443354",
+                "1999-05-12",
+                "APPROVAL OF CANCELLATION OF MANAGER OF IP SZ (SZE) FAT TSO/SZE FAT TSO",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 834 S.A",
+            "Old Schedule Lot",
+            "D3303821",
+            [
+              [
+                "N157997",
+                "1966-07-05",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N182674",
+                "1976-04-02",
+                "REMOVAL OF TRUSTEE",
+                null
+              ],
+              [
+                "N513504",
+                "2001-07-02",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "16040500750045",
+                "2016-03-11",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928444780353254,
@@ -1317,7 +3426,51 @@
         1107615883,
         null,
         "99 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 823 S.C",
+            "Old Schedule Lot",
+            "C3227514",
+            [
+              [
+                "N148359",
+                "1962-10-24",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N211055",
+                "1983-04-19",
+                "STATUTORY DECLARATION OF YIP KWONG WU ALIAS IP KWONG WU RE HIS OWN SHARE",
+                null
+              ],
+              [
+                "N210577",
+                "1983-09-07",
+                "STATUTORY DECLARATION OF ALFRED DONARD YAP",
+                null
+              ],
+              [
+                "N213265",
+                "1984-08-20",
+                "SUCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "16081100200017",
+                "2016-07-14",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "22072000310010",
+                "2022-06-22",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992848519206249,
@@ -1336,7 +3489,27 @@
         1107615889,
         null,
         "104 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 829",
+            "Old Schedule Lot",
+            "C3227569",
+            [
+              [
+                "08081500600025",
+                "2007-06-25",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF LAU KI KAU TSO",
+                null
+              ],
+              [
+                "08081500600032",
+                "2008-07-14",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF LAU KI KAU TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992842497071731,
@@ -1355,7 +3528,51 @@
         1107615892,
         null,
         "99A LIN MA HANG",
-        []
+        [
+          [
+            "DD47 823 S.D",
+            "Old Schedule Lot",
+            "C3227527",
+            [
+              [
+                "N148359",
+                "1962-10-24",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N211055",
+                "1983-04-19",
+                "STATUTORY DECLARATION OF YIP KWONG WU ALIAS IP KWONG WU RE HIS OWN SHARE",
+                null
+              ],
+              [
+                "N210577",
+                "1983-09-07",
+                "STATUTORY DECLARATION OF ALFRED DONARD YAP",
+                null
+              ],
+              [
+                "N213265",
+                "1984-08-20",
+                "SUCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "16081100200017",
+                "2016-07-14",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "22072000310010",
+                "2022-06-22",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928497875181888,
@@ -1374,7 +3591,39 @@
         1107615894,
         null,
         "105 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 826",
+            "Old Schedule Lot",
+            "C5053330",
+            [
+              [
+                "N327826",
+                "1994-02-10",
+                "NOTICE OF DEATH OF MANAGER",
+                null
+              ],
+              [
+                "N327827",
+                "1994-09-09",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N443353",
+                "1998-08-11",
+                "NOTICE TO DEATH OF MANAGER OF IP SZ (OR SZE) FAT TSO OR SZE FAT TSO",
+                null
+              ],
+              [
+                "N443354",
+                "1999-05-12",
+                "APPROVAL OF CANCELLATION OF MANAGER OF IP SZ (SZE) FAT TSO/SZE FAT TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928440620328607,
@@ -1393,7 +3642,112 @@
         1107615897,
         null,
         "109 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 877",
+            "Old Schedule Lot",
+            "C3227860",
+            [
+              [
+                "N148359",
+                "1962-10-24",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N211055",
+                "1983-04-19",
+                "STATUTORY DECLARATION OF YIP KWONG WU ALIAS IP KWONG WU RE HIS OWN SHARE",
+                null
+              ],
+              [
+                "N210577",
+                "1983-09-07",
+                "STATUTORY DECLARATION OF ALFRED DONARD YAP",
+                null
+              ],
+              [
+                "N213265",
+                "1984-08-20",
+                "SUCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "16081100200017",
+                "2016-07-14",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "21072802560043",
+                "2021-02-23",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "22072000310010",
+                "2022-06-22",
+                "PROBATE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 878",
+            "Old Schedule Lot",
+            "C3227875",
+            [
+              [
+                "N65319",
+                "1926-09-28",
+                "-",
+                "100.0"
+              ],
+              [
+                "N148359",
+                "1962-10-24",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N211055",
+                "1983-04-19",
+                "STATUTORY DECLARATION OF YIP KWONG WU ALIAS IP KWONG WU RE HIS OWN SHARE",
+                null
+              ],
+              [
+                "N210577",
+                "1983-09-07",
+                "STATUTORY DECLARATION OF ALFRED DONARD YAP",
+                null
+              ],
+              [
+                "N213265",
+                "1984-08-20",
+                "SUCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "16081100200017",
+                "2016-07-14",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "21072802560043",
+                "2021-02-23",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "22072000310010",
+                "2022-06-22",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992847903252266,
@@ -1431,7 +3785,57 @@
         1107615905,
         null,
         "111 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 877",
+            "Old Schedule Lot",
+            "C3227860",
+            [
+              [
+                "N148359",
+                "1962-10-24",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N211055",
+                "1983-04-19",
+                "STATUTORY DECLARATION OF YIP KWONG WU ALIAS IP KWONG WU RE HIS OWN SHARE",
+                null
+              ],
+              [
+                "N210577",
+                "1983-09-07",
+                "STATUTORY DECLARATION OF ALFRED DONARD YAP",
+                null
+              ],
+              [
+                "N213265",
+                "1984-08-20",
+                "SUCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "16081100200017",
+                "2016-07-14",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "21072802560043",
+                "2021-02-23",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "22072000310010",
+                "2022-06-22",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928493472870379,
@@ -1450,7 +3854,51 @@
         1107615907,
         null,
         "113 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 880",
+            "Old Schedule Lot",
+            "C3227885",
+            [
+              [
+                "N145336",
+                "1961-10-11",
+                "-",
+                null
+              ],
+              [
+                "N387550",
+                "1997-03-13",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "N470214",
+                "2000-01-11",
+                "ASSIGNMENT BY IP WONG YAN",
+                "450000.0"
+              ],
+              [
+                "N469964",
+                "2000-01-11",
+                "MEMORANDUM FOR SALE AND PURCHASE BY IP WONG YAN",
+                "450000.0"
+              ],
+              [
+                "08033100620451",
+                "2008-02-18",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "08033100620467",
+                "2008-02-18",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928452437286703,
@@ -1469,7 +3917,69 @@
         1107615914,
         null,
         "114 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 881",
+            "Old Schedule Lot",
+            "C3227897",
+            [
+              [
+                "N47699",
+                "1921-01-08",
+                "SALE",
+                "200.0"
+              ],
+              [
+                "N153055",
+                "1964-05-26",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N415575",
+                "1998-03-12",
+                "MEMO AS TO ERROR IN RESPECT OF MEMORIAL NO.153055",
+                null
+              ],
+              [
+                "N418873",
+                "1998-03-17",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "N418874",
+                "1998-05-25",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "N438184",
+                "1999-04-22",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "20060401100072",
+                "2020-05-19",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "20072102160027",
+                "2020-07-03",
+                "ASSIGNMENT",
+                "10000.0"
+              ],
+              [
+                "20072001830016",
+                "2020-07-03",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "10000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928457685629553,
@@ -1488,7 +3998,34 @@
         1107615920,
         null,
         "112 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 875",
+            "Old Schedule Lot",
+            "C3227854",
+            [
+              [
+                "N58636",
+                "1924-02-26",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 876",
+            "Old Schedule Lot",
+            "C6304621",
+            [
+              [
+                "N55176",
+                "1923-01-22",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928507106485445,
@@ -1507,7 +4044,21 @@
         1107615921,
         null,
         "115 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 882",
+            "Old Schedule Lot",
+            "C6060043",
+            [
+              [
+                "N493530",
+                "2000-05-17",
+                "APPROVAL OF SUCCESSION OF LAU KEE (KI) YUN (KWOK) ALIAS LAU KEE WUN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928463360897877,
@@ -1526,7 +4077,89 @@
         1107615924,
         null,
         "142 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 849",
+            "Old Schedule Lot",
+            "C6504950",
+            [
+              [
+                "N58638",
+                "1924-02-26",
+                "-",
+                "200.0"
+              ],
+              [
+                "N58636",
+                "1924-02-26",
+                "-",
+                null
+              ],
+              [
+                "N153055",
+                "1964-05-26",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N415575",
+                "1998-03-12",
+                "MEMO AS TO ERROR IN RESPECT OF MEMORIAL NO.153055",
+                null
+              ],
+              [
+                "N417686",
+                "1998-05-15",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 852",
+            "Old Schedule Lot",
+            "C3227685",
+            [
+              [
+                "N30996",
+                "1915-09-28",
+                "-",
+                "330.0"
+              ]
+            ]
+          ],
+          [
+            "DD47 853",
+            "Old Schedule Lot",
+            "C3227699",
+            [
+              [
+                "N143290",
+                "1961-01-30",
+                "-",
+                null
+              ],
+              [
+                "N201404",
+                "1981-04-09",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N398755",
+                "1997-07-11",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "N398754",
+                "1997-07-11",
+                "STATUTORY DECLARATION OF YEAP OW LAN \"THE DECLARANT\"",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992841773582845,
@@ -1545,7 +4178,76 @@
         1107615927,
         null,
         "140 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 850",
+            "Old Schedule Lot",
+            "C6642560",
+            [
+              [
+                "N72712A",
+                "1929-04-02",
+                "-",
+                null
+              ],
+              [
+                "N85498",
+                "1933-02-02",
+                "-",
+                null
+              ],
+              [
+                "N153618",
+                "1964-08-18",
+                "-",
+                null
+              ],
+              [
+                "N153636",
+                "1964-08-19",
+                "-",
+                null
+              ],
+              [
+                "N520156",
+                "2001-07-05",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N520157",
+                "2001-10-24",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "16072000850018",
+                "2016-06-20",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 851",
+            "Old Schedule Lot",
+            "C3227678",
+            [
+              [
+                "N200319",
+                "1980-12-05",
+                "-",
+                "340000.0"
+              ],
+              [
+                "N220063",
+                "1984-10-31",
+                "CONVEYANCE ON SALE",
+                "6760551.5"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928403035270283,
@@ -1564,7 +4266,39 @@
         1107615930,
         null,
         "116 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 883",
+            "Old Schedule Lot",
+            "C3227905",
+            [
+              [
+                "N156892",
+                "1965-12-14",
+                "-",
+                null
+              ],
+              [
+                "N157145",
+                "1966-01-11",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "N201414",
+                "1981-04-10",
+                "STATUTORY DECLARATION OF IP WONG KWAI ALIAS YIP FONG KWAI",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 884",
+            "Old Schedule Lot",
+            "C3227912",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9928471038004199,
@@ -1583,7 +4317,27 @@
         1107615933,
         null,
         "144 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 854",
+            "Old Schedule Lot",
+            "C3227709",
+            [
+              [
+                "N211203",
+                "1983-12-20",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N230722",
+                "1989-05-24",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992842595969702,
@@ -1602,7 +4356,51 @@
         1107615938,
         null,
         "145 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 855",
+            "Old Schedule Lot",
+            "C3227710",
+            [
+              [
+                "N15526",
+                "1911-03-09",
+                "DECLARATION OF SUCCESSOR",
+                null
+              ],
+              [
+                "N50079",
+                "1921-07-15",
+                "TRANSFER",
+                null
+              ],
+              [
+                "N143288",
+                "1961-01-30",
+                "-",
+                null
+              ],
+              [
+                "N201404",
+                "1981-04-09",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N398754",
+                "1997-07-11",
+                "STATUTORY DECLARATION OF YEAP OW LAN \"THE DECLARANT\"",
+                null
+              ],
+              [
+                "12031200240135",
+                "2012-02-17",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928430449663344,
@@ -1640,7 +4438,21 @@
         1107615946,
         null,
         "118 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 886",
+            "Old Schedule Lot",
+            "C3227926",
+            [
+              [
+                "N145319",
+                "1961-10-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928484265650228,
@@ -1678,7 +4490,46 @@
         1107615962,
         null,
         "168 - 169 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1255",
+            "New Grant Lot",
+            "C3229919",
+            [
+              [
+                "N573526",
+                "2004-03-18",
+                "PROBATE",
+                null
+              ],
+              [
+                "05031600270093",
+                "2005-02-28",
+                "ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 1256",
+            "New Grant Lot",
+            "C3229927",
+            [
+              [
+                "N573526",
+                "2004-03-18",
+                "PROBATE",
+                null
+              ],
+              [
+                "05031600270093",
+                "2005-02-28",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928693397017068,
@@ -1697,7 +4548,95 @@
         1107615965,
         null,
         "147 - 148 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 860",
+            "Old Schedule Lot",
+            "C3227755",
+            [
+              [
+                "N204700",
+                "1981-11-12",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 861",
+            "Old Schedule Lot",
+            "C3227769",
+            [
+              [
+                "N130198",
+                "1953-04-13",
+                "-",
+                null
+              ],
+              [
+                "N517275",
+                "2001-08-27",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N541301",
+                "2002-12-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N547408",
+                "2003-05-13",
+                "ASSENT",
+                null
+              ],
+              [
+                "N547407",
+                "2003-05-13",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "07071303130038",
+                "2003-05-16",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "07082002360066",
+                "2007-06-28",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 862",
+            "Old Schedule Lot",
+            "C5053369",
+            [
+              [
+                "N130200",
+                "1953-04-13",
+                "-",
+                null
+              ],
+              [
+                "N546034",
+                "2002-07-19",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF KUN CHING/TSING FAT TSO",
+                null
+              ],
+              [
+                "N546035",
+                "2002-11-29",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928454821013994,
@@ -1716,7 +4655,46 @@
         1107615974,
         null,
         "145A LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1240",
+            "Old Schedule Lot",
+            "C5638040",
+            [
+              [
+                "N143516",
+                "1961-03-06",
+                "-",
+                null
+              ],
+              [
+                "N466703",
+                "1999-11-25",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 857",
+            "Old Schedule Lot",
+            "C3227736",
+            [
+              [
+                "N143516",
+                "1961-03-06",
+                "-",
+                null
+              ],
+              [
+                "N466703",
+                "1999-11-25",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992844061240554,
@@ -1735,7 +4713,21 @@
         1107615978,
         null,
         "120B LIN MA HANG",
-        []
+        [
+          [
+            "DD47 891",
+            "Old Schedule Lot",
+            "C3227968",
+            [
+              [
+                "N53867",
+                "1922-12-08",
+                "-",
+                "60.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928511167416698,
@@ -1754,7 +4746,21 @@
         1107615986,
         null,
         "120A LIN MA HANG",
-        []
+        [
+          [
+            "DD47 890",
+            "Old Schedule Lot",
+            "C3227959",
+            [
+              [
+                "N493530",
+                "2000-05-17",
+                "APPROVAL OF SUCCESSION OF LAU KEE (KI) YUN (KWOK) ALIAS LAU KEE WUN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928509180617116,
@@ -1773,7 +4779,14 @@
         1107615988,
         null,
         "170 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1265",
+            "New Grant Lot",
+            "C5638064",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9928756919769872,
@@ -1792,7 +4805,89 @@
         1107616000,
         null,
         "128 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 870",
+            "Old Schedule Lot",
+            "C3227810",
+            [
+              [
+                "N145000",
+                "1961-08-28",
+                "SUCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N416105",
+                "1998-02-24",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "N416104",
+                "1998-02-24",
+                "APPROVAL OF SUCCESSION OF SIN WONG YAU",
+                null
+              ],
+              [
+                "N545000",
+                "2003-03-20",
+                "SEALED COPY ORDER (HCMP 874/2003)",
+                null
+              ],
+              [
+                "24011600470018",
+                "2023-12-05",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "350000.0"
+              ],
+              [
+                "24011600470029",
+                "2023-12-05",
+                "ASSIGNMENT",
+                "350000.0"
+              ]
+            ]
+          ],
+          [
+            "DD47 872",
+            "Old Schedule Lot",
+            "C5637807",
+            [
+              [
+                "N158041",
+                "1966-07-12",
+                "-",
+                null
+              ],
+              [
+                "N414717",
+                "1997-10-30",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 873",
+            "Old Schedule Lot",
+            "C3227831",
+            [
+              [
+                "N47738",
+                "1921-01-12",
+                "-",
+                "200.0"
+              ],
+              [
+                "N493530",
+                "2000-05-17",
+                "APPROVAL OF SUCCESSION OF LAU KEE (KI) YUN (KWOK) ALIAS LAU KEE WUN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928499468776084,
@@ -1811,7 +4906,14 @@
         1107616007,
         null,
         "124 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 908",
+            "Old Schedule Lot",
+            "C3228054",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9928566139508428,
@@ -1849,7 +4951,27 @@
         1107616018,
         null,
         "129 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 915",
+            "Old Schedule Lot",
+            "C3228125",
+            [
+              [
+                "N146841",
+                "1962-03-20",
+                "-",
+                null
+              ],
+              [
+                "N298280",
+                "1993-09-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928525219022282,
@@ -1868,7 +4990,33 @@
         1107616030,
         null,
         "130 - 131 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 913 S.B",
+            "Old Schedule Lot",
+            "C3228115",
+            [
+              [
+                "N32860",
+                "1916-03-07",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "N145987",
+                "1961-12-18",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 914",
+            "Old Schedule Lot",
+            "C5407904",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992854010421075,
@@ -1887,7 +5035,69 @@
         1107616033,
         null,
         "158 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 916",
+            "Old Schedule Lot",
+            "C3228134",
+            [
+              [
+                "N72712A",
+                "1929-04-02",
+                "-",
+                null
+              ],
+              [
+                "N85498",
+                "1933-02-02",
+                "-",
+                null
+              ],
+              [
+                "N153618",
+                "1964-08-18",
+                "-",
+                null
+              ],
+              [
+                "N153636",
+                "1964-08-19",
+                "-",
+                null
+              ],
+              [
+                "N529174",
+                "2002-02-22",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N529175",
+                "2002-04-25",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N529176",
+                "2002-04-25",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "07013002390022",
+                "2007-01-02",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "16072000850018",
+                "2016-06-20",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928506384087947,
@@ -1925,7 +5135,69 @@
         1107616041,
         null,
         "159 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 916",
+            "Old Schedule Lot",
+            "C3228134",
+            [
+              [
+                "N72712A",
+                "1929-04-02",
+                "-",
+                null
+              ],
+              [
+                "N85498",
+                "1933-02-02",
+                "-",
+                null
+              ],
+              [
+                "N153618",
+                "1964-08-18",
+                "-",
+                null
+              ],
+              [
+                "N153636",
+                "1964-08-19",
+                "-",
+                null
+              ],
+              [
+                "N529174",
+                "2002-02-22",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N529175",
+                "2002-04-25",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N529176",
+                "2002-04-25",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "07013002390022",
+                "2007-01-02",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "16072000850018",
+                "2016-06-20",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992850961701793,
@@ -1944,7 +5216,94 @@
         1107616047,
         null,
         null,
-        []
+        [
+          [
+            "DD47 1063 S.A",
+            "Old Schedule Lot",
+            "C3229033",
+            [
+              [
+                "N9475",
+                "1909-08-09",
+                "-",
+                "20.0"
+              ],
+              [
+                "14111800430023",
+                "2014-09-18",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "15012000450065",
+                "2014-12-22",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "20011001370052",
+                "2014-12-22",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 1063 S.B",
+            "Old Schedule Lot",
+            "C5747506",
+            [
+              [
+                "N205794",
+                "1982-10-21",
+                "-",
+                null
+              ],
+              [
+                "N414722",
+                "1998-02-24",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "18072400310014",
+                "2017-04-28",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "17081100180168",
+                "2017-04-28",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "18081000970024",
+                "2018-07-24",
+                "PROBATE",
+                null
+              ],
+              [
+                "18101100100017",
+                "2018-09-20",
+                "ASSENT",
+                null
+              ],
+              [
+                "19050200290096",
+                "2019-03-12",
+                "ASSENT",
+                null
+              ],
+              [
+                "19120300210205",
+                "2019-11-01",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928729495308015,
@@ -1963,7 +5322,106 @@
         1107616049,
         null,
         "160 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 916",
+            "Old Schedule Lot",
+            "C3228134",
+            [
+              [
+                "N72712A",
+                "1929-04-02",
+                "-",
+                null
+              ],
+              [
+                "N85498",
+                "1933-02-02",
+                "-",
+                null
+              ],
+              [
+                "N153618",
+                "1964-08-18",
+                "-",
+                null
+              ],
+              [
+                "N153636",
+                "1964-08-19",
+                "-",
+                null
+              ],
+              [
+                "N529174",
+                "2002-02-22",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N529175",
+                "2002-04-25",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N529176",
+                "2002-04-25",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "07013002390022",
+                "2007-01-02",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "16072000850018",
+                "2016-06-20",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 917",
+            "Old Schedule Lot",
+            "C6726680",
+            [
+              [
+                "N144331",
+                "1961-06-08",
+                "-",
+                null
+              ],
+              [
+                "N490944",
+                "2000-07-22",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "20022100180027",
+                "2019-12-12",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "24051700240022",
+                "2024-04-04",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "24051700240030",
+                "2024-05-06",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928514292239559,
@@ -1982,7 +5440,27 @@
         1107616054,
         null,
         "171 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1051",
+            "Old Schedule Lot",
+            "C3228951",
+            [
+              [
+                "N145696",
+                "1961-11-16",
+                "-",
+                null
+              ],
+              [
+                "N212957",
+                "1984-07-25",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928748563599326,
@@ -2001,7 +5479,45 @@
         1107616063,
         null,
         "161 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 917",
+            "Old Schedule Lot",
+            "C6726680",
+            [
+              [
+                "N144331",
+                "1961-06-08",
+                "-",
+                null
+              ],
+              [
+                "N490944",
+                "2000-07-22",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "20022100180027",
+                "2019-12-12",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "24051700240022",
+                "2024-04-04",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "24051700240030",
+                "2024-05-06",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928522075968782,
@@ -2020,7 +5536,45 @@
         1107616066,
         null,
         "185 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 952",
+            "Old Schedule Lot",
+            "C5835619",
+            [
+              [
+                "N55528",
+                "1923-04-11",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N162351",
+                "1968-10-01",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N197432",
+                "1979-10-26",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N198326",
+                "1980-03-03",
+                "CONVEYANCE ON SALE WITH PLAN",
+                "1000.0"
+              ],
+              [
+                "13080501130103",
+                "2013-07-31",
+                "SEALED COPY OF WRIT OF SUMMONS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928632894051233,
@@ -2039,7 +5593,45 @@
         1107616068,
         null,
         "184 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 952",
+            "Old Schedule Lot",
+            "C5835619",
+            [
+              [
+                "N55528",
+                "1923-04-11",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N162351",
+                "1968-10-01",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N197432",
+                "1979-10-26",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N198326",
+                "1980-03-03",
+                "CONVEYANCE ON SALE WITH PLAN",
+                "1000.0"
+              ],
+              [
+                "13080501130103",
+                "2013-07-31",
+                "SEALED COPY OF WRIT OF SUMMONS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992862659482389,
@@ -2058,7 +5650,45 @@
         1107616070,
         null,
         "183 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 951",
+            "Old Schedule Lot",
+            "C3228360",
+            [
+              [
+                "N55528",
+                "1923-04-11",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N162351",
+                "1968-10-01",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N197432",
+                "1979-10-26",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N198326",
+                "1980-03-03",
+                "CONVEYANCE ON SALE WITH PLAN",
+                "1000.0"
+              ],
+              [
+                "13080501130103",
+                "2013-07-31",
+                "SEALED COPY OF WRIT OF SUMMONS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992862097403421,
@@ -2077,7 +5707,33 @@
         1107616072,
         null,
         "182 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 950",
+            "Old Schedule Lot",
+            "C6304631",
+            [
+              [
+                "N117460",
+                "1947-06-25",
+                "MORTGAGE",
+                "800.0"
+              ],
+              [
+                "N135864",
+                "1957-01-19",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N138902",
+                "1958-12-27",
+                "SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928615358719775,
@@ -2096,7 +5752,51 @@
         1107616073,
         null,
         "181 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 949",
+            "Old Schedule Lot",
+            "C3228359",
+            [
+              [
+                "N414722",
+                "1998-02-24",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "17081100180168",
+                "2017-04-28",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "18081000970024",
+                "2018-07-24",
+                "PROBATE",
+                null
+              ],
+              [
+                "18101100100017",
+                "2018-09-20",
+                "ASSENT",
+                null
+              ],
+              [
+                "19050200290096",
+                "2019-03-12",
+                "ASSENT",
+                null
+              ],
+              [
+                "20030200830042",
+                "2020-02-03",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928609556336814,
@@ -2115,7 +5815,51 @@
         1107616074,
         null,
         "180 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 949",
+            "Old Schedule Lot",
+            "C3228359",
+            [
+              [
+                "N414722",
+                "1998-02-24",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "17081100180168",
+                "2017-04-28",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "18081000970024",
+                "2018-07-24",
+                "PROBATE",
+                null
+              ],
+              [
+                "18101100100017",
+                "2018-09-20",
+                "ASSENT",
+                null
+              ],
+              [
+                "19050200290096",
+                "2019-03-12",
+                "ASSENT",
+                null
+              ],
+              [
+                "20030200830042",
+                "2020-02-03",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928603726316678,
@@ -2134,7 +5878,45 @@
         1107616075,
         null,
         "179A LIN MA HANG",
-        []
+        [
+          [
+            "DD47 927",
+            "Old Schedule Lot",
+            "C5637857",
+            [
+              [
+                "N201528",
+                "1981-04-23",
+                "-",
+                null
+              ],
+              [
+                "N326335",
+                "1995-03-13",
+                "-",
+                null
+              ],
+              [
+                "N405300",
+                "1997-09-24",
+                "ASSIGNMENT",
+                "400000.0"
+              ],
+              [
+                "18081000970024",
+                "2018-07-24",
+                "PROBATE",
+                null
+              ],
+              [
+                "18101100100017",
+                "2018-09-20",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928574150942149,
@@ -2153,7 +5935,70 @@
         1107616076,
         null,
         "162 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 918",
+            "Old Schedule Lot",
+            "C3228144",
+            [
+              [
+                "N144891",
+                "1961-08-11",
+                "-",
+                null
+              ],
+              [
+                "N490944",
+                "2000-07-22",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "20022100180027",
+                "2019-12-12",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "24051700240022",
+                "2024-04-04",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "24051700240030",
+                "2024-05-06",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 919",
+            "Old Schedule Lot",
+            "C3228155",
+            [
+              [
+                "N160426",
+                "1967-06-14",
+                "-",
+                null
+              ],
+              [
+                "N160935",
+                "1967-10-24",
+                "-",
+                "4500.0"
+              ],
+              [
+                "N314285",
+                "1994-05-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928530896778132,
@@ -2191,7 +6036,39 @@
         1107616085,
         null,
         "190 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 953",
+            "Old Schedule Lot",
+            "C3228378",
+            [
+              [
+                "N198325",
+                "1980-03-03",
+                "-",
+                "1000.0"
+              ],
+              [
+                "N199594",
+                "1980-09-29",
+                "-",
+                null
+              ],
+              [
+                "19081400460041",
+                "2018-06-11",
+                "PROBATE",
+                null
+              ],
+              [
+                "22021801830011",
+                "2022-01-28",
+                "VESTING ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928650454395738,
@@ -2210,7 +6087,21 @@
         1107616092,
         null,
         "164 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 920",
+            "Old Schedule Lot",
+            "C5407916",
+            [
+              [
+                "N145822",
+                "1961-11-30",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928547469454938,
@@ -2229,7 +6120,21 @@
         1107616100,
         null,
         "165 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 920",
+            "Old Schedule Lot",
+            "C5407916",
+            [
+              [
+                "N145822",
+                "1961-11-30",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992855255597467,
@@ -2248,7 +6153,45 @@
         1107616108,
         null,
         "166 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 921",
+            "Old Schedule Lot",
+            "C6504969",
+            [
+              [
+                "N148553",
+                "1962-11-14",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "06111401100038",
+                "2005-10-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "06111401100041",
+                "2006-10-30",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "18120600490013",
+                "2018-04-10",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF IP SHING TSAU (OR CHAU) TSO",
+                null
+              ],
+              [
+                "18120600490020",
+                "2018-10-18",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF IP SHING TSAU (OR CHAU) TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992855830694327,
@@ -2267,7 +6210,83 @@
         1107616150,
         null,
         "194 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 959",
+            "Old Schedule Lot",
+            "C5053397",
+            [
+              [
+                "N55528",
+                "1923-04-11",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N162351",
+                "1968-10-01",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N197432",
+                "1979-10-26",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "N198326",
+                "1980-03-03",
+                "CONVEYANCE ON SALE WITH PLAN",
+                "1000.0"
+              ],
+              [
+                "13080501130103",
+                "2013-07-31",
+                "SEALED COPY OF WRIT OF SUMMONS",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 960",
+            "Old Schedule Lot",
+            "C3228402",
+            [
+              [
+                "N147452",
+                "1962-06-12",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 962",
+            "Old Schedule Lot",
+            "C6304645",
+            [
+              [
+                "N150086",
+                "1963-06-04",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "N414728",
+                "1998-02-24",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N429519",
+                "1998-12-11",
+                "STATUTORY DECLARATION OF YIP CHUN CHOI ALIAS IP TSUN TSOI",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928683843865522,
@@ -2286,7 +6305,39 @@
         1107616165,
         null,
         "202 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1046 RP",
+            "Old Schedule Lot",
+            "C5637936",
+            [
+              [
+                "N147395",
+                "1962-06-01",
+                "-",
+                null
+              ],
+              [
+                "N535444",
+                "2002-09-09",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "12080800300116",
+                "2012-06-26",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "13011501190055",
+                "2012-11-26",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992875030329783,
@@ -2305,7 +6356,39 @@
         1107616185,
         null,
         "213A LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1275",
+            "New Grant Lot",
+            "C5923187",
+            [
+              [
+                "N424940",
+                "1998-01-07",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "N537564",
+                "2002-07-09",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "N537563",
+                "2002-07-22",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "N534613",
+                "2002-07-23",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992857186156338,
@@ -2324,7 +6407,112 @@
         1107616187,
         null,
         "215A LIN MA HANG",
-        []
+        [
+          [
+            "DD47 970",
+            "Old Schedule Lot",
+            "C3228489",
+            [
+              [
+                "N148553",
+                "1962-11-14",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "06111401100038",
+                "2005-10-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "06111401100041",
+                "2006-10-30",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "14060601260021",
+                "2013-12-31",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "14082901920030",
+                "2014-08-11",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "19061800950040",
+                "2014-08-11",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "18120600490013",
+                "2018-04-10",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF IP SHING TSAU (OR CHAU) TSO",
+                null
+              ],
+              [
+                "18120600490020",
+                "2018-10-18",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF IP SHING TSAU (OR CHAU) TSO",
+                null
+              ],
+              [
+                "23120401450048",
+                "2023-11-28",
+                "SATISFACTION CERTIFICATE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 971",
+            "Old Schedule Lot",
+            "C3228492",
+            [
+              [
+                "N337165",
+                "1995-06-09",
+                "-",
+                null
+              ],
+              [
+                "14060601260021",
+                "2013-12-31",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "14082901920030",
+                "2014-08-11",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "19061800950040",
+                "2014-08-11",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "23080200260071",
+                "2023-07-18",
+                "ASSIGNMENT",
+                "800000.0"
+              ],
+              [
+                "23120401450048",
+                "2023-11-28",
+                "SATISFACTION CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992864048112142,
@@ -2362,7 +6550,40 @@
         1107616201,
         null,
         "206 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 983",
+            "Old Schedule Lot",
+            "C5053407",
+            [
+              [
+                "N179641",
+                "1975-02-25",
+                "-",
+                "1100.0"
+              ]
+            ]
+          ],
+          [
+            "DD47 987",
+            "Old Schedule Lot",
+            "C3228624",
+            [
+              [
+                "N146841",
+                "1962-03-20",
+                "-",
+                null
+              ],
+              [
+                "N298280",
+                "1993-09-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928674239868336,
@@ -2381,7 +6602,21 @@
         1107616203,
         null,
         "215 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1271",
+            "New Grant Lot",
+            "C5325650",
+            [
+              [
+                "N510592",
+                "2001-04-25",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928650790458082,
@@ -2400,7 +6635,21 @@
         1107616208,
         null,
         "222A LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1267",
+            "New Grant Lot",
+            "C3230007",
+            [
+              [
+                "N463633",
+                "1999-10-22",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928615573972375,
@@ -2419,7 +6668,40 @@
         1107616209,
         null,
         "216 - 218 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 984 RP",
+            "Old Schedule Lot",
+            "C5893308",
+            [
+              [
+                "N64322",
+                "1926-03-31",
+                "-",
+                "675.0"
+              ],
+              [
+                "N490943",
+                "2000-07-20",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 985 RP",
+            "Old Schedule Lot",
+            "C3228601",
+            [
+              [
+                "N378280",
+                "1996-10-22",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928662034611297,
@@ -2438,7 +6720,51 @@
         1107616213,
         null,
         "250 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 549",
+            "Old Schedule Lot",
+            "C3226073",
+            [
+              [
+                "N160426",
+                "1967-06-14",
+                "-",
+                null
+              ],
+              [
+                "N160934",
+                "1967-10-24",
+                "-",
+                null
+              ],
+              [
+                "N309572",
+                "1994-03-26",
+                "DECLARATION",
+                null
+              ],
+              [
+                "N309573",
+                "1994-03-26",
+                "-",
+                null
+              ],
+              [
+                "N309571",
+                "1994-03-26",
+                "DECLARATION",
+                null
+              ],
+              [
+                "N385019",
+                "1997-01-17",
+                "BUILDING LICENCE NO. 61/96",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928524272920431,
@@ -2457,7 +6783,21 @@
         1107616217,
         null,
         "222B LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1266",
+            "New Grant Lot",
+            "C3229996",
+            [
+              [
+                "N260367",
+                "1991-08-12",
+                "-",
+                "500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928619811542274,
@@ -2476,7 +6816,14 @@
         1107616223,
         null,
         "222 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1263",
+            "New Grant Lot",
+            "C3229976",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992862655168337,
@@ -2495,7 +6842,27 @@
         1107616228,
         null,
         "219 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 985 S.A",
+            "Old Schedule Lot",
+            "C6415964",
+            [
+              [
+                "N378280",
+                "1996-10-22",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N413890",
+                "1998-03-18",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928668841629238,
@@ -2514,7 +6881,27 @@
         1107616234,
         null,
         "227 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1272",
+            "New Grant Lot",
+            "C5053524",
+            [
+              [
+                "N202263",
+                "1981-08-01",
+                "POWER OF ATTORNEY BY YIP CHEUNG WO",
+                null
+              ],
+              [
+                "16041500900024",
+                "2015-06-15",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928629207095323,
@@ -2533,7 +6920,57 @@
         1107616241,
         null,
         "221 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 986 RP",
+            "Old Schedule Lot",
+            "D2108803",
+            [
+              [
+                "N146939",
+                "1962-04-02",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N448484",
+                "1999-06-15",
+                "APPROVAL OF SUCCESSION OF IP (OR YIP) KAT FU",
+                null
+              ],
+              [
+                "09051100340049",
+                "2009-03-02",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "11032902710020",
+                "2010-09-17",
+                "PROBATE",
+                null
+              ],
+              [
+                "12032801710040",
+                "2012-02-15",
+                "ASSENT",
+                null
+              ],
+              [
+                "12032801710010",
+                "2012-02-15",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "12042300430023",
+                "2012-03-01",
+                "ASSIGNMENT",
+                "300000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928673924707185,
@@ -2552,7 +6989,21 @@
         1107616243,
         null,
         "223 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1262",
+            "New Grant Lot",
+            "C5241804",
+            [
+              [
+                "N176933",
+                "1973-12-17",
+                "POWER OF ATTORNEY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992863301853287,
@@ -2571,7 +7022,45 @@
         1107616249,
         null,
         "224 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1259",
+            "New Grant Lot",
+            "C3229958",
+            [
+              [
+                "N285933",
+                "1993-05-14",
+                "-",
+                null
+              ],
+              [
+                "13041700240266",
+                "2013-03-04",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "13041200220179",
+                "2013-03-04",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "600000.0"
+              ],
+              [
+                "15100800210023",
+                "2015-09-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2000000.0"
+              ],
+              [
+                "15103001060034",
+                "2015-10-14",
+                "ASSIGNMENT",
+                "2000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992863663108485,
@@ -2590,7 +7079,21 @@
         1107616259,
         null,
         "223A - 223 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1274",
+            "New Grant Lot",
+            "C3230040",
+            [
+              [
+                "N448484",
+                "1999-06-15",
+                "APPROVAL OF SUCCESSION OF IP (OR YIP) KAT FU",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928677014317502,
@@ -2609,7 +7112,14 @@
         1107616261,
         null,
         "225 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1269",
+            "New Grant Lot",
+            "C3230012",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992864427341491,
@@ -2628,7 +7138,52 @@
         1107616282,
         null,
         "236 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 494 S.A SS.1",
+            "Old Schedule Lot",
+            "C3225821",
+            [
+              [
+                "N490333",
+                "2000-08-02",
+                "ASSIGNMENT",
+                "150000.0"
+              ],
+              [
+                "05092600680167",
+                "2005-08-31",
+                "BUILDING LICENCE NO. 60/2005 WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 494 S.B SS.1",
+            "Old Schedule Lot",
+            "C3225858",
+            [
+              [
+                "N490334",
+                "2000-08-02",
+                "ASSIGNMENT",
+                "150000.0"
+              ],
+              [
+                "N561023",
+                "2004-03-31",
+                "DEED OF EXCHANGE",
+                null
+              ],
+              [
+                "05092600680167",
+                "2005-08-31",
+                "BUILDING LICENCE NO. 60/2005 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928567809813866,
@@ -2647,7 +7202,52 @@
         1107616291,
         null,
         "235 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 494 S.A RP",
+            "Old Schedule Lot",
+            "C6059989",
+            [
+              [
+                "N490333",
+                "2000-08-02",
+                "ASSIGNMENT",
+                "150000.0"
+              ],
+              [
+                "N561023",
+                "2004-03-31",
+                "DEED OF EXCHANGE",
+                null
+              ],
+              [
+                "05092600680150",
+                "2005-08-31",
+                "BUILDING LICENCE NO. 61/2005 WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 494 S.B RP",
+            "Old Schedule Lot",
+            "C3225844",
+            [
+              [
+                "N490334",
+                "2000-08-02",
+                "ASSIGNMENT",
+                "150000.0"
+              ],
+              [
+                "05092600680150",
+                "2005-08-31",
+                "BUILDING LICENCE NO. 61/2005 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928575460420603,
@@ -2666,7 +7266,63 @@
         1107616293,
         null,
         "237 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 494 S.E",
+            "Old Schedule Lot",
+            "D0492657",
+            [
+              [
+                "05120600280599",
+                "2005-11-14",
+                "ASSIGNMENT",
+                "875000.0"
+              ],
+              [
+                "06022200220175",
+                "2006-02-03",
+                "ASSIGNMENT",
+                "145000.0"
+              ],
+              [
+                "06022200220164",
+                "2006-02-03",
+                "DEED OF PARTITION WITH PLAN",
+                null
+              ],
+              [
+                "08040301510022",
+                "2008-03-06",
+                "BUILDING LICENCE NO. 108/2007 WITH PLAN",
+                null
+              ],
+              [
+                "10120300450141",
+                "2010-09-20",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "17081100180168",
+                "2017-04-28",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "19050200290096",
+                "2019-03-12",
+                "ASSENT",
+                null
+              ],
+              [
+                "20052000150025",
+                "2020-05-04",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928548308978071,
@@ -2685,7 +7341,64 @@
         1107616321,
         null,
         "226 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 536",
+            "Old Schedule Lot",
+            "C3225986",
+            [
+              [
+                "N145325",
+                "1961-10-11",
+                "-",
+                null
+              ],
+              [
+                "N338831",
+                "1995-09-27",
+                "-",
+                null
+              ],
+              [
+                "N343659",
+                "1995-11-24",
+                "-",
+                null
+              ],
+              [
+                "N517800",
+                "2001-10-04",
+                "BUILDING LICENCE NO. 41/2001 WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 537 RP",
+            "Old Schedule Lot",
+            "C5053164",
+            [
+              [
+                "N72719",
+                "1929-08-14",
+                "PROHIBITORY ORDER",
+                null
+              ],
+              [
+                "N343659",
+                "1995-11-24",
+                "-",
+                null
+              ],
+              [
+                "N517800",
+                "2001-10-04",
+                "BUILDING LICENCE NO. 41/2001 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928637608743907,
@@ -2723,7 +7436,14 @@
         1107616392,
         null,
         null,
-        []
+        [
+          [
+            "DD47 1168",
+            "Old Schedule Lot",
+            "C3229514",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9928922758957044,
@@ -2761,7 +7481,21 @@
         1107616858,
         null,
         null,
-        []
+        [
+          [
+            "DD48 91",
+            "Old Schedule Lot",
+            "C3230689",
+            [
+              [
+                "N144234",
+                "1961-05-30",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992850005398458,
@@ -2780,7 +7514,21 @@
         1107616904,
         null,
         null,
-        []
+        [
+          [
+            "DD48 115",
+            "Old Schedule Lot",
+            "C3230840",
+            [
+              [
+                "N153903",
+                "1964-09-23",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99284894194831,
@@ -2837,7 +7585,45 @@
         1107617462,
         null,
         null,
-        []
+        [
+          [
+            "DD48 641",
+            "Old Schedule Lot",
+            "C3232952",
+            [
+              [
+                "N12979",
+                "1910-05-31",
+                "-",
+                null
+              ],
+              [
+                "N16111",
+                "1911-03-28",
+                "-",
+                null
+              ],
+              [
+                "N34862",
+                "1917-01-03",
+                "-",
+                "150.0"
+              ],
+              [
+                "N336613",
+                "1994-06-20",
+                "DEATH & APPOINTMENT OF MANAGER OF IP SHU KAT TONG",
+                null
+              ],
+              [
+                "N336614",
+                "1995-04-20",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928475570957567,
@@ -2856,7 +7642,33 @@
         1107617463,
         null,
         null,
-        []
+        [
+          [
+            "DD48 409",
+            "Old Schedule Lot",
+            "C5638199",
+            [
+              [
+                "N34862",
+                "1917-01-03",
+                "-",
+                "150.0"
+              ],
+              [
+                "N336613",
+                "1994-06-20",
+                "DEATH & APPOINTMENT OF MANAGER OF IP SHU KAT TONG",
+                null
+              ],
+              [
+                "N336614",
+                "1995-04-20",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928429724653318,
@@ -2875,7 +7687,33 @@
         1107617469,
         null,
         null,
-        []
+        [
+          [
+            "DD48 409",
+            "Old Schedule Lot",
+            "C5638199",
+            [
+              [
+                "N34862",
+                "1917-01-03",
+                "-",
+                "150.0"
+              ],
+              [
+                "N336613",
+                "1994-06-20",
+                "DEATH & APPOINTMENT OF MANAGER OF IP SHU KAT TONG",
+                null
+              ],
+              [
+                "N336614",
+                "1995-04-20",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928426633414398,
@@ -2894,7 +7732,14 @@
         1107659540,
         null,
         "213B LIN MA HANG",
-        []
+        [
+          [
+            "DD47 1278",
+            "New Grant Lot",
+            "D1358835",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9928557123295936,
@@ -2913,7 +7758,33 @@
         1107659541,
         null,
         "233 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 494 S.C",
+            "Old Schedule Lot",
+            "D0492663",
+            [
+              [
+                "05120600280599",
+                "2005-11-14",
+                "ASSIGNMENT",
+                "875000.0"
+              ],
+              [
+                "06022200220164",
+                "2006-02-03",
+                "DEED OF PARTITION WITH PLAN",
+                null
+              ],
+              [
+                "08040301510042",
+                "2008-03-06",
+                "BUILDING LICENCE NO. 77/2007 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992860175213398,
@@ -2932,7 +7803,33 @@
         1107659542,
         null,
         "232 LIN MA HANG",
-        []
+        [
+          [
+            "DD47 494 S.D",
+            "Old Schedule Lot",
+            "D0492671",
+            [
+              [
+                "05120600280599",
+                "2005-11-14",
+                "ASSIGNMENT",
+                "875000.0"
+              ],
+              [
+                "06022200220164",
+                "2006-02-03",
+                "DEED OF PARTITION WITH PLAN",
+                null
+              ],
+              [
+                "08040301510039",
+                "2008-03-06",
+                "BUILDING LICENCE NO. 78/2007 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9928606820840609,
@@ -2989,7 +7886,76 @@
         1810163129,
         null,
         null,
-        []
+        [
+          [
+            "DD47 956",
+            "Old Schedule Lot",
+            "C5637873",
+            [
+              [
+                "N117460",
+                "1947-06-25",
+                "MORTGAGE",
+                "800.0"
+              ],
+              [
+                "N135864",
+                "1957-01-19",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N138902",
+                "1958-12-27",
+                "SUCCESSION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD47 957",
+            "Old Schedule Lot",
+            "C5053380",
+            [
+              [
+                "N414722",
+                "1998-02-24",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "17081100180168",
+                "2017-04-28",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "18081000970024",
+                "2018-07-24",
+                "PROBATE",
+                null
+              ],
+              [
+                "18101100100017",
+                "2018-09-20",
+                "ASSENT",
+                null
+              ],
+              [
+                "19050200290096",
+                "2019-03-12",
+                "ASSENT",
+                null
+              ],
+              [
+                "20030200830042",
+                "2020-02-03",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992865264319356,
@@ -3008,7 +7974,27 @@
         1810172014,
         null,
         null,
-        []
+        [
+          [
+            "DD47 885",
+            "Old Schedule Lot",
+            "C5637811",
+            [
+              [
+                "N547662",
+                "2003-02-10",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N547663",
+                "2003-06-11",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992847838657575,

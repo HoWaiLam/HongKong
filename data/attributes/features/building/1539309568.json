@@ -6,7 +6,21 @@
         1107615309,
         null,
         null,
-        []
+        [
+          [
+            "DD147 40",
+            "Old Schedule Lot",
+            "C3125028",
+            [
+              [
+                "N196519",
+                "1979-06-22",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947199811624583,
@@ -25,7 +39,105 @@
         1107615312,
         null,
         "36 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 41",
+            "Old Schedule Lot",
+            "C3125030",
+            [
+              [
+                "N128576",
+                "1952-02-12",
+                "-",
+                null
+              ],
+              [
+                "N204775",
+                "1982-05-12",
+                "STATUTORY DECLARATION OF CHEUNG MUK YUNG ALIAS CHEUNG CHOY",
+                null
+              ],
+              [
+                "N208255",
+                "1983-03-31",
+                "-",
+                null
+              ],
+              [
+                "N277171",
+                "1992-07-28",
+                "STATUTORY DECLARATION BY CHEUNG CHOY",
+                null
+              ],
+              [
+                "N362925",
+                "1996-04-25",
+                "-",
+                "140000.0"
+              ],
+              [
+                "N362924",
+                "1996-04-25",
+                "MEMORANDUM OF SALE BY CHEUNG SHING YAU RE 1/2 OF 1/2 SHARE",
+                "140000.0"
+              ],
+              [
+                "N451224",
+                "1999-06-24",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHEUNG MUK YUNG RE 1/3 OF 1/2 SHARE",
+                "50000.0"
+              ],
+              [
+                "N451227",
+                "1999-06-24",
+                "ASSIGNMENT",
+                "50000.0"
+              ],
+              [
+                "N451229",
+                "1999-06-24",
+                "ASSIGNMENT",
+                "50000.0"
+              ],
+              [
+                "N451228",
+                "1999-06-24",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHEUNG MUK YUNG RE 1/3 OF 1/2 SHARE",
+                "50000.0"
+              ],
+              [
+                "N451225",
+                "1999-06-24",
+                "ASSIGNMENT",
+                "50000.0"
+              ],
+              [
+                "N451226",
+                "1999-06-24",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHEUNG MUK YUNG RE 1/3 OF 1/2 SHARE",
+                "50000.0"
+              ],
+              [
+                "N560639",
+                "2003-11-28",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N561833",
+                "2004-03-27",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "50000.0"
+              ],
+              [
+                "N561834",
+                "2004-03-31",
+                "ASSIGNMENT",
+                "50000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947219858151015,
@@ -44,7 +156,69 @@
         1107615313,
         null,
         "45 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 1155",
+            "New Grant Lot",
+            "C5041334",
+            [
+              [
+                "N78564",
+                "1931-02-05",
+                "-",
+                "500.0"
+              ],
+              [
+                "N78601",
+                "1931-02-07",
+                "-",
+                "250.0"
+              ],
+              [
+                "N122265",
+                "1948-12-09",
+                "-",
+                null
+              ],
+              [
+                "N181435",
+                "1975-10-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "07051800240102",
+                "2006-10-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "07051800240110",
+                "2007-03-29",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "17070300430030",
+                "2014-05-13",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "21122402470024",
+                "2014-05-13",
+                "RE-REGISTRATION OF NOTICE OF DEATH/RESIGNATION AND APPOINTMENT OF MANAGER*",
+                null
+              ],
+              [
+                "17070300430046",
+                "2016-03-07",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994718060701992,
@@ -82,7 +256,69 @@
         1107615321,
         null,
         "46 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 1155",
+            "New Grant Lot",
+            "C5041334",
+            [
+              [
+                "N78564",
+                "1931-02-05",
+                "-",
+                "500.0"
+              ],
+              [
+                "N78601",
+                "1931-02-07",
+                "-",
+                "250.0"
+              ],
+              [
+                "N122265",
+                "1948-12-09",
+                "-",
+                null
+              ],
+              [
+                "N181435",
+                "1975-10-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "07051800240102",
+                "2006-10-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "07051800240110",
+                "2007-03-29",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "17070300430030",
+                "2014-05-13",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "21122402470024",
+                "2014-05-13",
+                "RE-REGISTRATION OF NOTICE OF DEATH/RESIGNATION AND APPOINTMENT OF MANAGER*",
+                null
+              ],
+              [
+                "17070300430046",
+                "2016-03-07",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947182693360488,
@@ -120,7 +356,69 @@
         1107615329,
         null,
         "77 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 1155",
+            "New Grant Lot",
+            "C5041334",
+            [
+              [
+                "N78564",
+                "1931-02-05",
+                "-",
+                "500.0"
+              ],
+              [
+                "N78601",
+                "1931-02-07",
+                "-",
+                "250.0"
+              ],
+              [
+                "N122265",
+                "1948-12-09",
+                "-",
+                null
+              ],
+              [
+                "N181435",
+                "1975-10-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "07051800240102",
+                "2006-10-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "07051800240110",
+                "2007-03-29",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "17070300430030",
+                "2014-05-13",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "21122402470024",
+                "2014-05-13",
+                "RE-REGISTRATION OF NOTICE OF DEATH/RESIGNATION AND APPOINTMENT OF MANAGER*",
+                null
+              ],
+              [
+                "17070300430046",
+                "2016-03-07",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994715059476753,
@@ -158,7 +456,94 @@
         1107615335,
         null,
         "47 - 48 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 1155",
+            "New Grant Lot",
+            "C5041334",
+            [
+              [
+                "N78564",
+                "1931-02-05",
+                "-",
+                "500.0"
+              ],
+              [
+                "N78601",
+                "1931-02-07",
+                "-",
+                "250.0"
+              ],
+              [
+                "N122265",
+                "1948-12-09",
+                "-",
+                null
+              ],
+              [
+                "N181435",
+                "1975-10-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "07051800240102",
+                "2006-10-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "07051800240110",
+                "2007-03-29",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "17070300430030",
+                "2014-05-13",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "21122402470024",
+                "2014-05-13",
+                "RE-REGISTRATION OF NOTICE OF DEATH/RESIGNATION AND APPOINTMENT OF MANAGER*",
+                null
+              ],
+              [
+                "17070300430046",
+                "2016-03-07",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD147 51",
+            "Old Schedule Lot",
+            "C3125080",
+            [
+              [
+                "N101031",
+                "1937-12-03",
+                "-",
+                null
+              ],
+              [
+                "N141057",
+                "1960-03-07",
+                "-",
+                null
+              ],
+              [
+                "05041302840062",
+                "2005-03-18",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947176929693298,
@@ -196,7 +581,69 @@
         1107615339,
         null,
         "76 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 1155",
+            "New Grant Lot",
+            "C5041334",
+            [
+              [
+                "N78564",
+                "1931-02-05",
+                "-",
+                "500.0"
+              ],
+              [
+                "N78601",
+                "1931-02-07",
+                "-",
+                "250.0"
+              ],
+              [
+                "N122265",
+                "1948-12-09",
+                "-",
+                null
+              ],
+              [
+                "N181435",
+                "1975-10-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "07051800240102",
+                "2006-10-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "07051800240110",
+                "2007-03-29",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "17070300430030",
+                "2014-05-13",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "21122402470024",
+                "2014-05-13",
+                "RE-REGISTRATION OF NOTICE OF DEATH/RESIGNATION AND APPOINTMENT OF MANAGER*",
+                null
+              ],
+              [
+                "17070300430046",
+                "2016-03-07",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994715319202008,
@@ -234,7 +681,69 @@
         1107615344,
         null,
         "75 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 1155",
+            "New Grant Lot",
+            "C5041334",
+            [
+              [
+                "N78564",
+                "1931-02-05",
+                "-",
+                "500.0"
+              ],
+              [
+                "N78601",
+                "1931-02-07",
+                "-",
+                "250.0"
+              ],
+              [
+                "N122265",
+                "1948-12-09",
+                "-",
+                null
+              ],
+              [
+                "N181435",
+                "1975-10-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "07051800240102",
+                "2006-10-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "07051800240110",
+                "2007-03-29",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "17070300430030",
+                "2014-05-13",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "21122402470024",
+                "2014-05-13",
+                "RE-REGISTRATION OF NOTICE OF DEATH/RESIGNATION AND APPOINTMENT OF MANAGER*",
+                null
+              ],
+              [
+                "17070300430046",
+                "2016-03-07",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947155605298637,
@@ -253,7 +762,69 @@
         1107615348,
         null,
         "82 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 1155",
+            "New Grant Lot",
+            "C5041334",
+            [
+              [
+                "N78564",
+                "1931-02-05",
+                "-",
+                "500.0"
+              ],
+              [
+                "N78601",
+                "1931-02-07",
+                "-",
+                "250.0"
+              ],
+              [
+                "N122265",
+                "1948-12-09",
+                "-",
+                null
+              ],
+              [
+                "N181435",
+                "1975-10-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "07051800240102",
+                "2006-10-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "07051800240110",
+                "2007-03-29",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "17070300430030",
+                "2014-05-13",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "21122402470024",
+                "2014-05-13",
+                "RE-REGISTRATION OF NOTICE OF DEATH/RESIGNATION AND APPOINTMENT OF MANAGER*",
+                null
+              ],
+              [
+                "17070300430046",
+                "2016-03-07",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947140704110706,
@@ -272,7 +843,94 @@
         1107615349,
         null,
         "55 - 56 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 1155",
+            "New Grant Lot",
+            "C5041334",
+            [
+              [
+                "N78564",
+                "1931-02-05",
+                "-",
+                "500.0"
+              ],
+              [
+                "N78601",
+                "1931-02-07",
+                "-",
+                "250.0"
+              ],
+              [
+                "N122265",
+                "1948-12-09",
+                "-",
+                null
+              ],
+              [
+                "N181435",
+                "1975-10-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "07051800240102",
+                "2006-10-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "07051800240110",
+                "2007-03-29",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "17070300430030",
+                "2014-05-13",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "21122402470024",
+                "2014-05-13",
+                "RE-REGISTRATION OF NOTICE OF DEATH/RESIGNATION AND APPOINTMENT OF MANAGER*",
+                null
+              ],
+              [
+                "17070300430046",
+                "2016-03-07",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD147 51",
+            "Old Schedule Lot",
+            "C3125080",
+            [
+              [
+                "N101031",
+                "1937-12-03",
+                "-",
+                null
+              ],
+              [
+                "N141057",
+                "1960-03-07",
+                "-",
+                null
+              ],
+              [
+                "05041302840062",
+                "2005-03-18",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947187042280246,
@@ -291,7 +949,69 @@
         1107615350,
         null,
         "74 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 1155",
+            "New Grant Lot",
+            "C5041334",
+            [
+              [
+                "N78564",
+                "1931-02-05",
+                "-",
+                "500.0"
+              ],
+              [
+                "N78601",
+                "1931-02-07",
+                "-",
+                "250.0"
+              ],
+              [
+                "N122265",
+                "1948-12-09",
+                "-",
+                null
+              ],
+              [
+                "N181435",
+                "1975-10-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "07051800240102",
+                "2006-10-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "07051800240110",
+                "2007-03-29",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "17070300430030",
+                "2014-05-13",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "21122402470024",
+                "2014-05-13",
+                "RE-REGISTRATION OF NOTICE OF DEATH/RESIGNATION AND APPOINTMENT OF MANAGER*",
+                null
+              ],
+              [
+                "17070300430046",
+                "2016-03-07",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994715811404382,
@@ -310,7 +1030,69 @@
         1107615352,
         null,
         "83 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 1155",
+            "New Grant Lot",
+            "C5041334",
+            [
+              [
+                "N78564",
+                "1931-02-05",
+                "-",
+                "500.0"
+              ],
+              [
+                "N78601",
+                "1931-02-07",
+                "-",
+                "250.0"
+              ],
+              [
+                "N122265",
+                "1948-12-09",
+                "-",
+                null
+              ],
+              [
+                "N181435",
+                "1975-10-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "07051800240102",
+                "2006-10-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "07051800240110",
+                "2007-03-29",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "17070300430030",
+                "2014-05-13",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "21122402470024",
+                "2014-05-13",
+                "RE-REGISTRATION OF NOTICE OF DEATH/RESIGNATION AND APPOINTMENT OF MANAGER*",
+                null
+              ],
+              [
+                "17070300430046",
+                "2016-03-07",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947142721206632,
@@ -329,7 +1111,69 @@
         1107615356,
         null,
         null,
-        []
+        [
+          [
+            "DD147 1155",
+            "New Grant Lot",
+            "C5041334",
+            [
+              [
+                "N78564",
+                "1931-02-05",
+                "-",
+                "500.0"
+              ],
+              [
+                "N78601",
+                "1931-02-07",
+                "-",
+                "250.0"
+              ],
+              [
+                "N122265",
+                "1948-12-09",
+                "-",
+                null
+              ],
+              [
+                "N181435",
+                "1975-10-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "07051800240102",
+                "2006-10-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "07051800240110",
+                "2007-03-29",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "17070300430030",
+                "2014-05-13",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "21122402470024",
+                "2014-05-13",
+                "RE-REGISTRATION OF NOTICE OF DEATH/RESIGNATION AND APPOINTMENT OF MANAGER*",
+                null
+              ],
+              [
+                "17070300430046",
+                "2016-03-07",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994716684061466,
@@ -348,7 +1192,69 @@
         1107615357,
         null,
         "73 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 1155",
+            "New Grant Lot",
+            "C5041334",
+            [
+              [
+                "N78564",
+                "1931-02-05",
+                "-",
+                "500.0"
+              ],
+              [
+                "N78601",
+                "1931-02-07",
+                "-",
+                "250.0"
+              ],
+              [
+                "N122265",
+                "1948-12-09",
+                "-",
+                null
+              ],
+              [
+                "N181435",
+                "1975-10-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "07051800240102",
+                "2006-10-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "07051800240110",
+                "2007-03-29",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "17070300430030",
+                "2014-05-13",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "21122402470024",
+                "2014-05-13",
+                "RE-REGISTRATION OF NOTICE OF DEATH/RESIGNATION AND APPOINTMENT OF MANAGER*",
+                null
+              ],
+              [
+                "17070300430046",
+                "2016-03-07",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994716143037776,
@@ -367,7 +1273,69 @@
         1107615359,
         null,
         "83A KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 1155",
+            "New Grant Lot",
+            "C5041334",
+            [
+              [
+                "N78564",
+                "1931-02-05",
+                "-",
+                "500.0"
+              ],
+              [
+                "N78601",
+                "1931-02-07",
+                "-",
+                "250.0"
+              ],
+              [
+                "N122265",
+                "1948-12-09",
+                "-",
+                null
+              ],
+              [
+                "N181435",
+                "1975-10-04",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "07051800240102",
+                "2006-10-12",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "07051800240110",
+                "2007-03-29",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "17070300430030",
+                "2014-05-13",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "21122402470024",
+                "2014-05-13",
+                "RE-REGISTRATION OF NOTICE OF DEATH/RESIGNATION AND APPOINTMENT OF MANAGER*",
+                null
+              ],
+              [
+                "17070300430046",
+                "2016-03-07",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947144501916876,
@@ -519,7 +1487,33 @@
         1107615379,
         null,
         "57 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 60",
+            "Old Schedule Lot",
+            "C3125134",
+            [
+              [
+                "N101031",
+                "1937-12-03",
+                "-",
+                null
+              ],
+              [
+                "N141057",
+                "1960-03-07",
+                "-",
+                null
+              ],
+              [
+                "05041302840062",
+                "2005-03-18",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947199989585445,
@@ -538,7 +1532,33 @@
         1107615383,
         null,
         "89 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 55",
+            "Old Schedule Lot",
+            "C3125108",
+            [
+              [
+                "N99622",
+                "1937-04-21",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N570902",
+                "2003-10-10",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N570903",
+                "2004-09-24",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947146561909295,
@@ -557,7 +1577,21 @@
         1107615385,
         null,
         "33 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 61",
+            "Old Schedule Lot",
+            "C3125147",
+            [
+              [
+                "N196519",
+                "1979-06-22",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994722516080796,
@@ -576,7 +1610,33 @@
         1107615386,
         null,
         "58 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 60",
+            "Old Schedule Lot",
+            "C3125134",
+            [
+              [
+                "N101031",
+                "1937-12-03",
+                "-",
+                null
+              ],
+              [
+                "N141057",
+                "1960-03-07",
+                "-",
+                null
+              ],
+              [
+                "05041302840062",
+                "2005-03-18",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947201383115036,
@@ -595,7 +1655,33 @@
         1107615389,
         null,
         "90 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 55",
+            "Old Schedule Lot",
+            "C3125108",
+            [
+              [
+                "N99622",
+                "1937-04-21",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N570902",
+                "2003-10-10",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N570903",
+                "2004-09-24",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994714813432898,
@@ -614,7 +1700,21 @@
         1107615391,
         null,
         "32 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 61",
+            "Old Schedule Lot",
+            "C3125147",
+            [
+              [
+                "N196519",
+                "1979-06-22",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947222927961623,
@@ -652,7 +1752,63 @@
         1107615395,
         null,
         "59 - 60 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 1190",
+            "New Grant Lot",
+            "C3129735",
+            [
+              [
+                "N178628",
+                "1974-10-14",
+                "-",
+                null
+              ],
+              [
+                "N228797",
+                "1988-05-16",
+                "-",
+                null
+              ],
+              [
+                "N231215",
+                "1988-05-16",
+                "-",
+                null
+              ],
+              [
+                "N245364",
+                "1990-07-25",
+                "-",
+                null
+              ],
+              [
+                "N245363",
+                "1990-07-25",
+                "DEED OF FAMILY ASSANGEMENT RE 1/2 SHARE",
+                null
+              ],
+              [
+                "21123102340072",
+                "2021-12-10",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "22012002390122",
+                "2021-12-22",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "250000.0"
+              ],
+              [
+                "22012002390134",
+                "2021-12-24",
+                "ASSIGNMENT",
+                "250000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947195843401475,
@@ -671,7 +1827,21 @@
         1107615400,
         null,
         "61 - 62 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 64",
+            "Old Schedule Lot",
+            "C3125171",
+            [
+              [
+                "N196519",
+                "1979-06-22",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947183264098962,
@@ -690,7 +1860,21 @@
         1107615402,
         null,
         "31 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 62",
+            "Old Schedule Lot",
+            "C3125151",
+            [
+              [
+                "N196519",
+                "1979-06-22",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994721618990001,
@@ -766,7 +1950,21 @@
         1107615420,
         null,
         "30 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 63",
+            "Old Schedule Lot",
+            "C3125160",
+            [
+              [
+                "N196519",
+                "1979-06-22",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947213944930329,
@@ -823,7 +2021,21 @@
         1107615437,
         null,
         "29 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 63",
+            "Old Schedule Lot",
+            "C3125160",
+            [
+              [
+                "N196519",
+                "1979-06-22",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947214073845736,
@@ -880,7 +2092,21 @@
         1107615453,
         null,
         "28 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 63",
+            "Old Schedule Lot",
+            "C3125160",
+            [
+              [
+                "N196519",
+                "1979-06-22",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947214899830703,
@@ -899,7 +2125,21 @@
         1107615464,
         null,
         "27 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 63",
+            "Old Schedule Lot",
+            "C3125160",
+            [
+              [
+                "N196519",
+                "1979-06-22",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994721412429403,
@@ -956,7 +2196,14 @@
         1107615488,
         null,
         "24 - 25 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 1192",
+            "New Grant Lot",
+            "C5789238",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.994721262951407,
@@ -975,7 +2222,20 @@
         1107615537,
         null,
         "101 - 103 KAT O FISHERMAN VILLAGE",
-        []
+        [
+          [
+            "DD147 1213",
+            "New Grant Lot",
+            "C3129818",
+            []
+          ],
+          [
+            "DD147 1214",
+            "New Grant Lot",
+            "C3129826",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947184624364396,
@@ -1298,7 +2558,46 @@
         1107615788,
         null,
         "102 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 246",
+            "Old Schedule Lot",
+            "C3126090",
+            [
+              [
+                "N146359",
+                "1962-01-24",
+                "-",
+                null
+              ],
+              [
+                "N523478",
+                "2001-12-05",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD147 247",
+            "Old Schedule Lot",
+            "C3126105",
+            [
+              [
+                "N107420",
+                "1940-01-05",
+                "-",
+                null
+              ],
+              [
+                "N153138",
+                "1964-06-09",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947620256821814,
@@ -1317,7 +2616,27 @@
         1107615789,
         null,
         "103 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 246",
+            "Old Schedule Lot",
+            "C3126090",
+            [
+              [
+                "N146359",
+                "1962-01-24",
+                "-",
+                null
+              ],
+              [
+                "N523478",
+                "2001-12-05",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99476307139404,
@@ -1336,7 +2655,27 @@
         1107615793,
         null,
         "104 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 245",
+            "Old Schedule Lot",
+            "C3126087",
+            [
+              [
+                "N146359",
+                "1962-01-24",
+                "-",
+                null
+              ],
+              [
+                "N523478",
+                "2001-12-05",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947645413049144,
@@ -1374,7 +2713,27 @@
         1107615807,
         null,
         null,
-        []
+        [
+          [
+            "DD147 245",
+            "Old Schedule Lot",
+            "C3126087",
+            [
+              [
+                "N146359",
+                "1962-01-24",
+                "-",
+                null
+              ],
+              [
+                "N523478",
+                "2001-12-05",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947638886175592,
@@ -1393,7 +2752,33 @@
         1107615812,
         null,
         null,
-        []
+        [
+          [
+            "DD147 1187",
+            "New Grant Lot",
+            "C3129705",
+            [
+              [
+                "07020100380013",
+                "2001-09-06",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "07020100380038",
+                "2007-01-18",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "07020100380026",
+                "2007-01-18",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947362657543182,
@@ -1412,7 +2797,39 @@
         1107615815,
         null,
         "90B KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1146",
+            "New Grant Lot",
+            "C6058489",
+            [
+              [
+                "N123812",
+                "1949-02-11",
+                "MORTGAGE",
+                "3200.0"
+              ],
+              [
+                "N415849",
+                "1997-09-30",
+                "MEMO AS TO ERROR IN RESPECT OF MEMORIAL NO.99622",
+                null
+              ],
+              [
+                "N570902",
+                "2003-10-10",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N570903",
+                "2004-09-24",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947554724724295,
@@ -1431,7 +2848,33 @@
         1107615816,
         null,
         "1 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1187",
+            "New Grant Lot",
+            "C3129705",
+            [
+              [
+                "07020100380013",
+                "2001-09-06",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "07020100380038",
+                "2007-01-18",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "07020100380026",
+                "2007-01-18",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947355961877618,
@@ -1450,7 +2893,39 @@
         1107615817,
         null,
         "90A KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1146",
+            "New Grant Lot",
+            "C6058489",
+            [
+              [
+                "N123812",
+                "1949-02-11",
+                "MORTGAGE",
+                "3200.0"
+              ],
+              [
+                "N415849",
+                "1997-09-30",
+                "MEMO AS TO ERROR IN RESPECT OF MEMORIAL NO.99622",
+                null
+              ],
+              [
+                "N570902",
+                "2003-10-10",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N570903",
+                "2004-09-24",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947548051152084,
@@ -1469,7 +2944,33 @@
         1107615818,
         null,
         "88 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1201",
+            "New Grant Lot",
+            "C5997978",
+            [
+              [
+                "05102000090462",
+                "2005-10-13",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "13021400240073",
+                "2012-06-25",
+                "PROBATE",
+                null
+              ],
+              [
+                "13092401010220",
+                "2013-08-29",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947517281370555,
@@ -1488,7 +2989,39 @@
         1107615819,
         null,
         "90 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1146",
+            "New Grant Lot",
+            "C6058489",
+            [
+              [
+                "N123812",
+                "1949-02-11",
+                "MORTGAGE",
+                "3200.0"
+              ],
+              [
+                "N415849",
+                "1997-09-30",
+                "MEMO AS TO ERROR IN RESPECT OF MEMORIAL NO.99622",
+                null
+              ],
+              [
+                "N570902",
+                "2003-10-10",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N570903",
+                "2004-09-24",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947540990939225,
@@ -1507,7 +3040,57 @@
         1107615822,
         null,
         "89 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 116",
+            "Old Schedule Lot",
+            "C3125402",
+            [
+              [
+                "N73471",
+                "1929-07-04",
+                "-",
+                null
+              ],
+              [
+                "N87226",
+                "1933-09-02",
+                "MORTGAGE",
+                "2000.0"
+              ],
+              [
+                "N99099",
+                "1937-02-09",
+                "SUB-MORIGAGE BY WONG SHING FAT",
+                "100.0"
+              ],
+              [
+                "N99622",
+                "1937-04-21",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N106994",
+                "1939-11-16",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N570902",
+                "2003-10-10",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N570903",
+                "2004-09-24",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947533808795053,
@@ -1526,7 +3109,14 @@
         1107615823,
         null,
         "2 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1188",
+            "New Grant Lot",
+            "C3129710",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947361515153232,
@@ -1545,7 +3135,14 @@
         1107615829,
         null,
         "99 - 99A KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1178",
+            "New Grant Lot",
+            "C3129632",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947587310288166,
@@ -1564,7 +3161,14 @@
         1107615830,
         null,
         "87 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 114",
+            "Old Schedule Lot",
+            "C6414333",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947507116597472,
@@ -1583,7 +3187,33 @@
         1107615832,
         null,
         "3 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 93 S.A &EXT THERETO",
+            "New Grant Lot",
+            "C3125229",
+            [
+              [
+                "N107420",
+                "1940-01-05",
+                "-",
+                null
+              ],
+              [
+                "N127693",
+                "1951-06-28",
+                "-",
+                "200.0"
+              ],
+              [
+                "N151324",
+                "1963-10-25",
+                "EXTENSION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947370801897486,
@@ -1640,7 +3270,14 @@
         1107615842,
         null,
         null,
-        []
+        [
+          [
+            "DD147 1188",
+            "New Grant Lot",
+            "C3129710",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947362857116469,
@@ -1659,7 +3296,33 @@
         1107615847,
         null,
         "4 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 93 S.A &EXT THERETO",
+            "New Grant Lot",
+            "C3125229",
+            [
+              [
+                "N107420",
+                "1940-01-05",
+                "-",
+                null
+              ],
+              [
+                "N127693",
+                "1951-06-28",
+                "-",
+                "200.0"
+              ],
+              [
+                "N151324",
+                "1963-10-25",
+                "EXTENSION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947375364062778,
@@ -1678,7 +3341,33 @@
         1107615849,
         null,
         "85 - 85A KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 112",
+            "Old Schedule Lot",
+            "C5746096",
+            [
+              [
+                "N150194",
+                "1963-06-17",
+                "-",
+                null
+              ],
+              [
+                "N520241",
+                "2001-11-07",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "06051100540039",
+                "2006-04-22",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994748880900249,
@@ -1697,7 +3386,27 @@
         1107615854,
         null,
         "84 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 105",
+            "Old Schedule Lot",
+            "C3125373",
+            [
+              [
+                "N32973",
+                "1916-03-24",
+                "-",
+                null
+              ],
+              [
+                "N146377",
+                "1962-01-25",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947479313778316,
@@ -1716,7 +3425,27 @@
         1107615856,
         null,
         null,
-        []
+        [
+          [
+            "DD147 93 S.B",
+            "Old Schedule Lot",
+            "C3125237",
+            [
+              [
+                "N107420",
+                "1940-01-05",
+                "-",
+                null
+              ],
+              [
+                "N153138",
+                "1964-06-09",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947379381149368,
@@ -1735,7 +3464,27 @@
         1107615857,
         null,
         "97 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 121",
+            "Old Schedule Lot",
+            "C3125439",
+            [
+              [
+                "N210400",
+                "1983-09-01",
+                "-",
+                null
+              ],
+              [
+                "N210668",
+                "1983-10-11",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947549621226563,
@@ -1754,7 +3503,21 @@
         1107615858,
         null,
         "83 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 106",
+            "Old Schedule Lot",
+            "C5975049",
+            [
+              [
+                "N146356",
+                "1962-01-24",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994747173528424,
@@ -1773,7 +3536,21 @@
         1107615859,
         null,
         "82 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 106",
+            "Old Schedule Lot",
+            "C5975049",
+            [
+              [
+                "N146356",
+                "1962-01-24",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947464197280123,
@@ -1792,7 +3569,27 @@
         1107615860,
         null,
         "96 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 121",
+            "Old Schedule Lot",
+            "C3125439",
+            [
+              [
+                "N210400",
+                "1983-09-01",
+                "-",
+                null
+              ],
+              [
+                "N210668",
+                "1983-10-11",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947543040051168,
@@ -1811,7 +3608,33 @@
         1107615864,
         null,
         "95 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 120",
+            "Old Schedule Lot",
+            "C3125426",
+            [
+              [
+                "N100932",
+                "1937-11-16",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N157981",
+                "1966-06-29",
+                "-",
+                null
+              ],
+              [
+                "N562384",
+                "2004-05-06",
+                "ASSIGNMENT",
+                "400000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994753685098049,
@@ -1830,7 +3653,45 @@
         1107615865,
         null,
         "94 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 119",
+            "Old Schedule Lot",
+            "C3125418",
+            [
+              [
+                "N141837",
+                "1960-07-12",
+                "-",
+                null
+              ],
+              [
+                "12030900740021",
+                "2012-02-09",
+                "PROBATE",
+                null
+              ],
+              [
+                "12082301210112",
+                "2012-07-24",
+                "ASSENT",
+                null
+              ],
+              [
+                "24010501280132",
+                "2023-12-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1550000.0"
+              ],
+              [
+                "24030800720014",
+                "2024-02-28",
+                "ASSIGNMENT",
+                "1550000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994753039922934,
@@ -1849,7 +3710,21 @@
         1107615867,
         null,
         "93 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 117",
+            "Old Schedule Lot",
+            "C6296616",
+            [
+              [
+                "N146667",
+                "1962-03-03",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947522803468383,
@@ -1868,7 +3743,14 @@
         1107615868,
         null,
         "5 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 97",
+            "Old Schedule Lot",
+            "C6459574",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947414205173222,
@@ -1887,7 +3769,14 @@
         1107615870,
         null,
         "4A KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 94",
+            "Old Schedule Lot",
+            "C3125248",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.99473892612045,
@@ -1906,7 +3795,21 @@
         1107615873,
         null,
         null,
-        []
+        [
+          [
+            "DD147 1125",
+            "New Grant Lot",
+            "C3129405",
+            [
+              [
+                "N5145",
+                "1907-11-23",
+                "-",
+                "4.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994740575886059,
@@ -1944,7 +3847,39 @@
         1107615878,
         null,
         null,
-        []
+        [
+          [
+            "DD147 103 S.B",
+            "Old Schedule Lot",
+            "C5323091",
+            [
+              [
+                "N87074",
+                "1933-07-26",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N128255",
+                "1951-12-11",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N128486",
+                "1951-12-11",
+                "SALE",
+                null
+              ],
+              [
+                "N558158",
+                "2003-12-12",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947452794152107,
@@ -1963,7 +3898,27 @@
         1107615881,
         null,
         null,
-        []
+        [
+          [
+            "DD147 104 S.A SS.2",
+            "Old Schedule Lot",
+            "C3125350",
+            [
+              [
+                "N135986",
+                "1957-02-26",
+                "-",
+                null
+              ],
+              [
+                "N70365",
+                "9999-12-31",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947466889203538,
@@ -1982,7 +3937,52 @@
         1107615884,
         null,
         "22 - 22A KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 104 S.A SS.1 RP",
+            "Old Schedule Lot",
+            "C3125348",
+            [
+              [
+                "N135986",
+                "1957-02-26",
+                "-",
+                null
+              ],
+              [
+                "N465672",
+                "1999-10-29",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N70365",
+                "9999-12-31",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD147 104 S.A SS.2",
+            "Old Schedule Lot",
+            "C3125350",
+            [
+              [
+                "N135986",
+                "1957-02-26",
+                "-",
+                null
+              ],
+              [
+                "N70365",
+                "9999-12-31",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994748516315521,
@@ -2001,7 +4001,63 @@
         1107615885,
         null,
         "9 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 101 S.A",
+            "Old Schedule Lot",
+            "C3125271",
+            [
+              [
+                "N87074",
+                "1933-07-26",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N128488",
+                "1951-12-11",
+                "-",
+                "2000.0"
+              ],
+              [
+                "N128255",
+                "1951-12-11",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N148687",
+                "1962-09-18",
+                "-",
+                null
+              ],
+              [
+                "N148009",
+                "1962-09-18",
+                "-",
+                null
+              ],
+              [
+                "N153821",
+                "1964-09-12",
+                "MORTGAGE",
+                "5000.0"
+              ],
+              [
+                "N157163",
+                "1966-01-24",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "08112701830015",
+                "2008-11-18",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947437331059326,
@@ -2020,7 +4076,39 @@
         1107615895,
         null,
         "10 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 103 S.B",
+            "Old Schedule Lot",
+            "C5323091",
+            [
+              [
+                "N87074",
+                "1933-07-26",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N128255",
+                "1951-12-11",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N128486",
+                "1951-12-11",
+                "SALE",
+                null
+              ],
+              [
+                "N558158",
+                "2003-12-12",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947442000209799,
@@ -2039,7 +4127,21 @@
         1107615896,
         null,
         "6 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1134",
+            "New Grant Lot",
+            "C3129478",
+            [
+              [
+                "N205257",
+                "1982-08-17",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947415086117184,
@@ -2058,7 +4160,14 @@
         1107615901,
         null,
         null,
-        []
+        [
+          [
+            "DD147 218",
+            "Old Schedule Lot",
+            "C5629577",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.994771979374177,
@@ -2077,7 +4186,21 @@
         1107615903,
         null,
         "11 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 103 S.A SS.1",
+            "Old Schedule Lot",
+            "D3380956",
+            [
+              [
+                "15051801170198",
+                "2015-03-30",
+                "ASSIGNMENT",
+                "1500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994744715104448,
@@ -2096,7 +4219,27 @@
         1107615908,
         null,
         "12 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 104 S.A SS.2",
+            "Old Schedule Lot",
+            "C3125350",
+            [
+              [
+                "N135986",
+                "1957-02-26",
+                "-",
+                null
+              ],
+              [
+                "N70365",
+                "9999-12-31",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947453267159252,
@@ -2115,7 +4258,33 @@
         1107615910,
         null,
         null,
-        []
+        [
+          [
+            "DD147 218",
+            "Old Schedule Lot",
+            "C5629577",
+            []
+          ],
+          [
+            "DD147 220 RP",
+            "Old Schedule Lot",
+            "C6414343",
+            [
+              [
+                "N107420",
+                "1940-01-05",
+                "-",
+                null
+              ],
+              [
+                "N153138",
+                "1964-06-09",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947724880049102,
@@ -2134,7 +4303,64 @@
         1107615915,
         null,
         "5B KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1149 RP",
+            "New Grant Lot",
+            null,
+            []
+          ],
+          [
+            "DD147 1149 S.A",
+            "New Grant Lot",
+            "C6296950",
+            [
+              [
+                "N158216",
+                "1966-07-28",
+                "-",
+                null
+              ],
+              [
+                "N403937",
+                "1997-09-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "100000.0"
+              ],
+              [
+                "N403938",
+                "1997-09-08",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "17061600290017",
+                "2017-05-22",
+                "ASSIGNMENT",
+                "50000.0"
+              ]
+            ]
+          ],
+          [
+            "DD147 1149 S.B",
+            "New Grant Lot",
+            "C6559188",
+            [
+              [
+                "N158217",
+                "1966-07-28",
+                "-",
+                null
+              ],
+              [
+                "N435630",
+                "1999-02-09",
+                "ASSIGNMENT",
+                "200000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947390956051183,
@@ -2153,7 +4379,39 @@
         1107615917,
         null,
         "13 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 104 S.A SS.3",
+            "Old Schedule Lot",
+            "C6296607",
+            [
+              [
+                "N136157",
+                "1957-02-26",
+                "-",
+                "3300.0"
+              ],
+              [
+                "N533177",
+                "2002-07-20",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "18051602420024",
+                "2018-04-19",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "18051602420014",
+                "2018-04-19",
+                "AGREEMENT FOR DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947458477475644,
@@ -2172,7 +4430,20 @@
         1107615922,
         null,
         "5A KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1149 RP",
+            "New Grant Lot",
+            null,
+            []
+          ],
+          [
+            "DD147 1152",
+            "New Grant Lot",
+            "C3129527",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.994739682995777,
@@ -2191,7 +4462,45 @@
         1107615926,
         null,
         "29A KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 104 S.B",
+            "Old Schedule Lot",
+            "C3125367",
+            [
+              [
+                "N66785",
+                "1927-03-21",
+                "-",
+                "200.0"
+              ],
+              [
+                "N99622",
+                "1937-04-21",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N123812",
+                "1949-02-11",
+                "MORTGAGE",
+                "3200.0"
+              ],
+              [
+                "N570902",
+                "2003-10-10",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N570903",
+                "2004-09-24",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994753550490726,
@@ -2210,7 +4519,33 @@
         1107615928,
         null,
         "6A KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1152",
+            "New Grant Lot",
+            "C3129527",
+            []
+          ],
+          [
+            "DD147 1160",
+            "New Grant Lot",
+            "C3129552",
+            [
+              [
+                "N93964",
+                "1935-10-29",
+                "-",
+                "800.0"
+              ],
+              [
+                "N201825",
+                "1981-05-28",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947404714540369,
@@ -2248,7 +4583,88 @@
         1107615943,
         null,
         "26 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 104 S.B",
+            "Old Schedule Lot",
+            "C3125367",
+            [
+              [
+                "N66785",
+                "1927-03-21",
+                "-",
+                "200.0"
+              ],
+              [
+                "N99622",
+                "1937-04-21",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N123812",
+                "1949-02-11",
+                "MORTGAGE",
+                "3200.0"
+              ],
+              [
+                "N570902",
+                "2003-10-10",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N570903",
+                "2004-09-24",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD147 129 S.C",
+            "Old Schedule Lot",
+            "C5746112",
+            [
+              [
+                "N128452",
+                "1952-01-15",
+                "-",
+                null
+              ],
+              [
+                "N198539",
+                "1980-04-24",
+                "STATUTORY DECLARATION BY LI YUN TAI ALIAS YAU LI YING",
+                null
+              ],
+              [
+                "N199724",
+                "1980-10-02",
+                "CONVEYANCE ON SALE",
+                "80000.0"
+              ],
+              [
+                "N220063",
+                "1984-10-31",
+                "CONVEYANCE ON SALE",
+                "6760551.5"
+              ],
+              [
+                "05120300260080",
+                "2005-11-11",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "650000.0"
+              ],
+              [
+                "06010300070187",
+                "2005-12-02",
+                "ASSIGNMENT",
+                "650000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947499475102208,
@@ -2267,7 +4683,57 @@
         1107615953,
         null,
         "28 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 128 S.C",
+            "Old Schedule Lot",
+            "C3125478",
+            [
+              [
+                "N128061",
+                "1951-10-29",
+                "-",
+                null
+              ],
+              [
+                "13112901130048",
+                "2013-08-13",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "19030602120115",
+                "2014-02-17",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "24020601530161",
+                "2014-02-17",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "14040401630070",
+                "2014-02-17",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "23060802380059",
+                "2023-04-28",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "23081800540321",
+                "2023-08-07",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947512246482066,
@@ -2286,7 +4752,33 @@
         1107615956,
         null,
         "25 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 129 S.B SS.1",
+            "Old Schedule Lot",
+            "C3125507",
+            [
+              [
+                "N127835",
+                "1951-09-20",
+                "SALE",
+                "5000.0"
+              ],
+              [
+                "N231251",
+                "1989-06-02",
+                "STATUTORY DECLARATION BY LAM WONG YAM KIU ALIAS LAM WONG YAM KIU",
+                null
+              ],
+              [
+                "N231253",
+                "9999-12-31",
+                "-",
+                "150000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947491238678785,
@@ -2305,7 +4797,57 @@
         1107615963,
         null,
         "29 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 128 S.B",
+            "Old Schedule Lot",
+            "C5746101",
+            [
+              [
+                "N128061",
+                "1951-10-29",
+                "-",
+                null
+              ],
+              [
+                "13112901130048",
+                "2013-08-13",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "14040401630070",
+                "2014-02-17",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "19030602120115",
+                "2014-02-17",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "24020601530161",
+                "2014-02-17",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "23060802380059",
+                "2023-04-28",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "23081800540321",
+                "2023-08-07",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99475178638047,
@@ -2324,7 +4866,27 @@
         1107615971,
         null,
         null,
-        []
+        [
+          [
+            "DD147 1160",
+            "New Grant Lot",
+            "C3129552",
+            [
+              [
+                "N93964",
+                "1935-10-29",
+                "-",
+                "800.0"
+              ],
+              [
+                "N201825",
+                "1981-05-28",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947399585249033,
@@ -2362,7 +4924,14 @@
         1107615985,
         null,
         "15 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1216",
+            "New Grant Lot",
+            "C3129833",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947444356856794,
@@ -2381,7 +4950,21 @@
         1107615993,
         null,
         "16 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1217",
+            "New Grant Lot",
+            "C3129845",
+            [
+              [
+                "N204398",
+                "1982-03-29",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947451351015413,
@@ -2400,7 +4983,33 @@
         1107616020,
         null,
         "18 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1163 S.B",
+            "Old Schedule Lot",
+            "C5041353",
+            [
+              [
+                "N187931",
+                "1977-11-16",
+                "-",
+                null
+              ],
+              [
+                "N222576",
+                "1986-11-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "125000.0"
+              ],
+              [
+                "N222743",
+                "1987-02-24",
+                "-",
+                "125000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947464290520296,
@@ -2419,7 +5028,33 @@
         1107616024,
         null,
         "19 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1163 RP",
+            "Old Schedule Lot",
+            "C5041342",
+            [
+              [
+                "N187931",
+                "1977-11-16",
+                "-",
+                null
+              ],
+              [
+                "20060201440024",
+                "2018-09-27",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "20062301740042",
+                "2020-06-06",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947469698743208,
@@ -2438,7 +5073,27 @@
         1107616035,
         null,
         "26A KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1163 S.A",
+            "Old Schedule Lot",
+            "C6459624",
+            [
+              [
+                "N222516",
+                "1987-01-06",
+                "-",
+                "50000.0"
+              ],
+              [
+                "N188867",
+                "9999-12-31",
+                "-",
+                "50000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994747084983861,
@@ -2476,7 +5131,20 @@
         1107616043,
         null,
         null,
-        []
+        [
+          [
+            "DD147 140",
+            "Old Schedule Lot",
+            "C3125608",
+            []
+          ],
+          [
+            "DD147 143",
+            "Old Schedule Lot",
+            "C3125621",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947540990787913,
@@ -2495,7 +5163,33 @@
         1107616044,
         null,
         "39 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 214",
+            "Old Schedule Lot",
+            "C6296680",
+            [
+              [
+                "N155206",
+                "1965-03-17",
+                "-",
+                null
+              ],
+              [
+                "N452315",
+                "1999-08-31",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "09090700190269",
+                "2008-11-27",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947605471713001,
@@ -2533,7 +5227,33 @@
         1107616087,
         null,
         "81 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 208",
+            "Old Schedule Lot",
+            "C3125990",
+            [
+              [
+                "N148729",
+                "1962-12-05",
+                "-",
+                null
+              ],
+              [
+                "08010800270045",
+                "2007-12-14",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "08091602320016",
+                "2008-08-07",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947665419983613,
@@ -2552,7 +5272,33 @@
         1107616094,
         null,
         "80 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 208",
+            "Old Schedule Lot",
+            "C3125990",
+            [
+              [
+                "N148729",
+                "1962-12-05",
+                "-",
+                null
+              ],
+              [
+                "08010800270045",
+                "2007-12-14",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "08091602320016",
+                "2008-08-07",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947669305411584,
@@ -2571,7 +5317,33 @@
         1107616096,
         null,
         "39A KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 214",
+            "Old Schedule Lot",
+            "C6296680",
+            [
+              [
+                "N155206",
+                "1965-03-17",
+                "-",
+                null
+              ],
+              [
+                "N452315",
+                "1999-08-31",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "09090700190269",
+                "2008-11-27",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947607302133652,
@@ -2590,7 +5362,33 @@
         1107616098,
         null,
         null,
-        []
+        [
+          [
+            "DD147 210",
+            "Old Schedule Lot",
+            "C3126005",
+            [
+              [
+                "N135342",
+                "1956-09-11",
+                "-",
+                null
+              ],
+              [
+                "N136065",
+                "1957-03-18",
+                "-",
+                "3800.0"
+              ]
+            ]
+          ],
+          [
+            "DD147 211",
+            "Old Schedule Lot",
+            "C5041007",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947639010587392,
@@ -2609,7 +5407,21 @@
         1107616114,
         null,
         "61 KAT O MAIN STREET",
-        []
+        [
+          [
+            "TAXLORD LOT 213",
+            "Taxlord Lot [old]",
+            "C3129931",
+            [
+              [
+                "N84873",
+                "1932-12-28",
+                "-",
+                "40.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947615800436926,
@@ -2628,7 +5440,14 @@
         1107616115,
         null,
         "62 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 211",
+            "Old Schedule Lot",
+            "C5041007",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947623272343917,
@@ -2647,7 +5466,106 @@
         1107616121,
         null,
         "41 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 134 S.B RP",
+            "Old Schedule Lot",
+            "C3125563",
+            [
+              [
+                "N128007",
+                "1951-10-11",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N197686",
+                "1979-09-15",
+                "(PRE-IRIS) LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "13020500800036",
+                "2000-01-17",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "13020500800010",
+                "2013-01-16",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ],
+              [
+                "13020500800023",
+                "2013-01-16",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "15052100300084",
+                "2015-04-20",
+                "PROBATE",
+                null
+              ],
+              [
+                "20072300080124",
+                "2020-07-20",
+                "DEED POLL WITH PLAN",
+                null
+              ],
+              [
+                "20080700350026",
+                "2020-07-20",
+                "ASSIGNMENT",
+                "850000.0"
+              ]
+            ]
+          ],
+          [
+            "DD147 134 S.B SS.2",
+            "Old Schedule Lot",
+            "D4898715",
+            [
+              [
+                "N128007",
+                "1951-10-11",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N197686",
+                "1979-09-15",
+                "(PRE-IRIS) LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "13020500800036",
+                "2000-01-17",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "13020500800023",
+                "2013-01-16",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "15052100300084",
+                "2015-04-20",
+                "PROBATE",
+                null
+              ],
+              [
+                "20111001520056",
+                "2020-08-20",
+                "ASSIGNMENT",
+                "680000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947521562057189,
@@ -2666,7 +5584,27 @@
         1107616122,
         null,
         "63 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 210",
+            "Old Schedule Lot",
+            "C3126005",
+            [
+              [
+                "N135342",
+                "1956-09-11",
+                "-",
+                null
+              ],
+              [
+                "N136065",
+                "1957-03-18",
+                "-",
+                "3800.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947628095703425,
@@ -2704,7 +5642,27 @@
         1107616128,
         null,
         "77 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 188",
+            "Old Schedule Lot",
+            "C3125910",
+            [
+              [
+                "N36953",
+                "1917-11-22",
+                "-",
+                "8.0"
+              ],
+              [
+                "25042200290081",
+                "2025-03-18",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947714192383048,
@@ -2723,7 +5681,63 @@
         1107616129,
         null,
         "43 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 134 S.B RP",
+            "Old Schedule Lot",
+            "C3125563",
+            [
+              [
+                "N128007",
+                "1951-10-11",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N197686",
+                "1979-09-15",
+                "(PRE-IRIS) LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "13020500800036",
+                "2000-01-17",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "13020500800010",
+                "2013-01-16",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ],
+              [
+                "13020500800023",
+                "2013-01-16",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "15052100300084",
+                "2015-04-20",
+                "PROBATE",
+                null
+              ],
+              [
+                "20072300080124",
+                "2020-07-20",
+                "DEED POLL WITH PLAN",
+                null
+              ],
+              [
+                "20080700350026",
+                "2020-07-20",
+                "ASSIGNMENT",
+                "850000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947527664299594,
@@ -2742,7 +5756,27 @@
         1107616131,
         null,
         "78 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 187",
+            "Old Schedule Lot",
+            "C6296672",
+            [
+              [
+                "N36953",
+                "1917-11-22",
+                "-",
+                "8.0"
+              ],
+              [
+                "25042200290081",
+                "2025-03-18",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947720925184436,
@@ -2761,7 +5795,70 @@
         1107616137,
         null,
         "64 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 204",
+            "Old Schedule Lot",
+            "C5239347",
+            [
+              [
+                "N146358",
+                "1962-01-24",
+                "-",
+                null
+              ],
+              [
+                "N431939",
+                "1996-01-04",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "100000.0"
+              ],
+              [
+                "N431520",
+                "1999-01-11",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N434243",
+                "1999-02-22",
+                "ASSIGNMENT",
+                "100000.0"
+              ]
+            ]
+          ],
+          [
+            "DD147 205",
+            "Old Schedule Lot",
+            "C5323119",
+            [
+              [
+                "N146358",
+                "1962-01-24",
+                "-",
+                null
+              ],
+              [
+                "N431939",
+                "1996-01-04",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "100000.0"
+              ],
+              [
+                "N431520",
+                "1999-01-11",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N434243",
+                "1999-02-22",
+                "ASSIGNMENT",
+                "100000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994763323952733,
@@ -2780,7 +5877,21 @@
         1107616139,
         null,
         null,
-        []
+        [
+          [
+            "DD147 186",
+            "Old Schedule Lot",
+            "C3125905",
+            [
+              [
+                "25042200290081",
+                "2025-03-18",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947728039803103,
@@ -2799,7 +5910,39 @@
         1107616140,
         null,
         "45 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 134 S.A",
+            "Old Schedule Lot",
+            "C6296648",
+            [
+              [
+                "N128484",
+                "1951-10-11",
+                "-",
+                "1600.0"
+              ],
+              [
+                "N133421",
+                "1955-07-05",
+                "MORTGAGE",
+                "1000.0"
+              ],
+              [
+                "N134352",
+                "1956-01-28",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N134606",
+                "1956-03-19",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947531102737903,
@@ -2818,7 +5961,14 @@
         1107616142,
         null,
         "57 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 154",
+            "Old Schedule Lot",
+            "C6559133",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947594725714437,
@@ -2837,7 +5987,27 @@
         1107616148,
         null,
         "47 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 135",
+            "Old Schedule Lot",
+            "C3125587",
+            [
+              [
+                "N99622",
+                "1937-04-21",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N162844",
+                "1969-01-07",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947534096387036,
@@ -2856,7 +6026,39 @@
         1107616151,
         null,
         "49 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 TL T55",
+            "Taxlord Lot",
+            "C5789258",
+            [
+              [
+                "N128415",
+                "1952-01-11",
+                "-",
+                "250.0"
+              ],
+              [
+                "N162845",
+                "1969-01-07",
+                "-",
+                null
+              ],
+              [
+                "N276809",
+                "1992-06-18",
+                "-",
+                null
+              ],
+              [
+                "25092300290027",
+                "2025-09-08",
+                "DEED OF GIFT",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947547973464947,
@@ -2875,7 +6077,57 @@
         1107616155,
         null,
         null,
-        []
+        [
+          [
+            "DD147 1117",
+            "Old Schedule Lot",
+            "C3129397",
+            []
+          ],
+          [
+            "DD147 TL T54",
+            "Taxlord Lot",
+            "C3129904",
+            [
+              [
+                "N128007",
+                "1951-10-11",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N197686",
+                "1979-09-15",
+                "(PRE-IRIS) LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "13020500800036",
+                "2000-01-17",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "13020500800056",
+                "2013-01-16",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "13020500800049",
+                "2013-01-16",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ],
+              [
+                "15052100300084",
+                "2015-04-20",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947599736983939,
@@ -2913,7 +6165,106 @@
         1107616163,
         null,
         "58 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 158",
+            "Old Schedule Lot",
+            "C6296658",
+            [
+              [
+                "N128007",
+                "1951-10-11",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N197686",
+                "1979-09-15",
+                "(PRE-IRIS) LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "13020500800036",
+                "2000-01-17",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "13020500800023",
+                "2013-01-16",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "13020500800010",
+                "2013-01-16",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ],
+              [
+                "15052100300084",
+                "2015-04-20",
+                "PROBATE",
+                null
+              ],
+              [
+                "21031702590074",
+                "2021-02-18",
+                "ASSIGNMENT",
+                "680000.0"
+              ]
+            ]
+          ],
+          [
+            "DD147 159",
+            "Old Schedule Lot",
+            "C3125724",
+            [
+              [
+                "N128007",
+                "1951-10-11",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N197686",
+                "1979-09-15",
+                "(PRE-IRIS) LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "13020500800036",
+                "2000-01-17",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "13020500800056",
+                "2013-01-16",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "13020500800049",
+                "2013-01-16",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ],
+              [
+                "15052100300084",
+                "2015-04-20",
+                "PROBATE",
+                null
+              ],
+              [
+                "21032501660183",
+                "2021-02-18",
+                "ASSIGNMENT",
+                "300000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947582147040281,
@@ -2970,7 +6321,81 @@
         1107616175,
         null,
         "70 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 199",
+            "Old Schedule Lot",
+            "C5975056",
+            [
+              [
+                "N131113",
+                "1954-01-14",
+                "-",
+                null
+              ],
+              [
+                "N147336",
+                "1962-01-29",
+                "-",
+                "500.0"
+              ],
+              [
+                "N152730",
+                "1964-04-09",
+                "MORTGAGE",
+                "3000.0"
+              ],
+              [
+                "N167903",
+                "1971-05-25",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "N256898",
+                "1990-05-09",
+                "-",
+                "40000.0"
+              ],
+              [
+                "16052002270120",
+                "2016-05-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "380000.0"
+              ],
+              [
+                "16052602000254",
+                "2016-05-18",
+                "ASSIGNMENT",
+                "380000.0"
+              ],
+              [
+                "20060201440024",
+                "2018-09-27",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "20062301740042",
+                "2020-06-06",
+                "ASSENT",
+                null
+              ],
+              [
+                "20092501160053",
+                "2020-09-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "800000.0"
+              ],
+              [
+                "20101202310166",
+                "2020-09-30",
+                "ASSIGNMENT",
+                "800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947659416635257,
@@ -2989,7 +6414,33 @@
         1107616178,
         null,
         "114 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1205",
+            "New Grant Lot",
+            "C5629910",
+            []
+          ],
+          [
+            "DD147 1206",
+            "New Grant Lot",
+            "C3129796",
+            [
+              [
+                "N162699",
+                "1968-12-06",
+                "-",
+                "7500.0"
+              ],
+              [
+                "20092200320017",
+                "2019-11-12",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947734242357156,
@@ -3008,7 +6459,14 @@
         1107616184,
         null,
         "115 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1205",
+            "New Grant Lot",
+            "C5629910",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947741609994394,
@@ -3027,7 +6485,87 @@
         1107616204,
         null,
         "72A KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 TL T53",
+            "Taxlord Lot",
+            "C3129896",
+            [
+              [
+                "N2755",
+                "1906-08-11",
+                "-",
+                "200.0"
+              ],
+              [
+                "N11722",
+                "1910-03-29",
+                "-",
+                "35.0"
+              ],
+              [
+                "N122262",
+                "1948-12-09",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N124601",
+                "1949-07-28",
+                "TRANSFER OF PROPERTY",
+                null
+              ],
+              [
+                "N160282",
+                "1967-05-11",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N160326",
+                "1967-05-23",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N182017",
+                "1975-12-27",
+                "APPOINTMENT OF MANAGERS",
+                null
+              ],
+              [
+                "07060800910011",
+                "2006-10-12",
+                "NOTICE OF DEATH/RETIREMENT  AND APPOINTMENT OF MANAGER OF LUNG FUK (OR FOOK) TONG",
+                null
+              ],
+              [
+                "07060800910028",
+                "2007-03-29",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF LUNG FUK (OR FOOK) TONG",
+                null
+              ],
+              [
+                "21122402470011",
+                "2014-05-13",
+                "RE-REGISTRATION OF NOTICE OF DEATH/RESIGNATION AND APPOINTMENT OF MANAGER*",
+                null
+              ],
+              [
+                "17070300430016",
+                "2014-05-13",
+                "NOTICE OF DEATH/RESIGNATION AND APPOINTMENT OF MANAGER OF LUNG FUK (OR FOOK) TONG*",
+                null
+              ],
+              [
+                "17070300430021",
+                "2016-03-07",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99476284098377,
@@ -3046,7 +6584,148 @@
         1107616211,
         null,
         "76 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 170",
+            "Old Schedule Lot",
+            "C3125811",
+            [
+              [
+                "N128576",
+                "1952-02-12",
+                "-",
+                null
+              ],
+              [
+                "N204775",
+                "1982-05-12",
+                "STATUTORY DECLARATION OF CHEUNG MUK YUNG ALIAS CHEUNG CHOY",
+                null
+              ],
+              [
+                "N208255",
+                "1983-03-31",
+                "-",
+                null
+              ],
+              [
+                "N277171",
+                "1992-07-28",
+                "STATUTORY DECLARATION BY CHEUNG CHOY",
+                null
+              ],
+              [
+                "N362922",
+                "1996-04-25",
+                "MEMORANDUM OF SALE BY CHEUNG SHING YAU RE 1/2 OF 1/2 SHARE",
+                "20000.0"
+              ],
+              [
+                "N362923",
+                "1996-04-25",
+                "-",
+                "20000.0"
+              ],
+              [
+                "N451225",
+                "1999-06-24",
+                "ASSIGNMENT",
+                "50000.0"
+              ],
+              [
+                "N451224",
+                "1999-06-24",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHEUNG MUK YUNG RE 1/3 OF 1/2 SHARE",
+                "50000.0"
+              ],
+              [
+                "N451226",
+                "1999-06-24",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHEUNG MUK YUNG RE 1/3 OF 1/2 SHARE",
+                "50000.0"
+              ],
+              [
+                "N451228",
+                "1999-06-24",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHEUNG MUK YUNG RE 1/3 OF 1/2 SHARE",
+                "50000.0"
+              ],
+              [
+                "N451229",
+                "1999-06-24",
+                "ASSIGNMENT",
+                "50000.0"
+              ],
+              [
+                "N451227",
+                "1999-06-24",
+                "ASSIGNMENT",
+                "50000.0"
+              ],
+              [
+                "N560639",
+                "2003-11-28",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N561833",
+                "2004-03-27",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "50000.0"
+              ],
+              [
+                "N561834",
+                "2004-03-31",
+                "ASSIGNMENT",
+                "50000.0"
+              ]
+            ]
+          ],
+          [
+            "DD147 171",
+            "Old Schedule Lot",
+            "C3125827",
+            [
+              [
+                "N87226",
+                "1933-09-02",
+                "MORTGAGE",
+                "2000.0"
+              ],
+              [
+                "N99099",
+                "1937-02-09",
+                "SUB-MORIGAGE BY WONG SHING FAT",
+                "100.0"
+              ],
+              [
+                "N99622",
+                "1937-04-21",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N106994",
+                "1939-11-16",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N570902",
+                "2003-10-10",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N570903",
+                "2004-09-24",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947691396818588,
@@ -3065,7 +6744,39 @@
         1107616214,
         null,
         "116 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 176",
+            "Old Schedule Lot",
+            "C5040962",
+            [
+              [
+                "N87815",
+                "1933-10-16",
+                "-",
+                "120.0"
+              ],
+              [
+                "N87810",
+                "1933-10-16",
+                "-",
+                null
+              ],
+              [
+                "N201902",
+                "1981-06-04",
+                "-",
+                null
+              ],
+              [
+                "N202765",
+                "1981-10-15",
+                "STATUTORY DECLARATION OF WAN WONG PO ALIAS WAN FONG PO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947748025514351,
@@ -3103,7 +6814,27 @@
         1107616300,
         null,
         "117 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 890",
+            "Old Schedule Lot",
+            "C3128237",
+            [
+              [
+                "N146645",
+                "1962-02-28",
+                "-",
+                null
+              ],
+              [
+                "08071702680041",
+                "2008-06-04",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947720664948678,
@@ -3122,7 +6853,57 @@
         1107616404,
         null,
         "121 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 895",
+            "Old Schedule Lot",
+            "C3128271",
+            [
+              [
+                "N211105",
+                "1983-12-03",
+                "-",
+                null
+              ],
+              [
+                "12062200280109",
+                "2012-05-31",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "12062200280090",
+                "2012-05-31",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "12062200280120",
+                "2012-06-01",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "12061500330095",
+                "2012-06-01",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "12061500330085",
+                "2012-06-01",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "12062200280114",
+                "2012-06-01",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947700154531618,
@@ -3141,7 +6922,45 @@
         1107616443,
         null,
         "124A - 124 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1168",
+            "New Grant Lot",
+            "C5041363",
+            [
+              [
+                "N145386",
+                "1961-10-17",
+                "-",
+                null
+              ],
+              [
+                "19081201460265",
+                "2014-06-06",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "20030301580017",
+                "2019-12-06",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "20060301530011",
+                "2020-05-22",
+                "A SEALED COPY OF AMENDED CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "20100700840035",
+                "2020-08-10",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947671374870115,
@@ -3160,7 +6979,45 @@
         1107616452,
         null,
         "125A KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 903",
+            "Old Schedule Lot",
+            "C5975106",
+            [
+              [
+                "N203031",
+                "1981-11-25",
+                "-",
+                null
+              ],
+              [
+                "N203030",
+                "1981-11-25",
+                "-",
+                null
+              ],
+              [
+                "N203032",
+                "1981-11-25",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N203033",
+                "1981-11-25",
+                "-",
+                null
+              ],
+              [
+                "23122900510013",
+                "2023-12-04",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99476710505272,
@@ -3179,7 +7036,45 @@
         1107616457,
         null,
         "125 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 899",
+            "Old Schedule Lot",
+            "C5323172",
+            [
+              [
+                "N203032",
+                "1981-11-25",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N203031",
+                "1981-11-25",
+                "-",
+                null
+              ],
+              [
+                "N203030",
+                "1981-11-25",
+                "-",
+                null
+              ],
+              [
+                "N203033",
+                "1981-11-25",
+                "-",
+                null
+              ],
+              [
+                "23122900510013",
+                "2023-12-04",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994769380271344,
@@ -3198,7 +7093,45 @@
         1107616464,
         null,
         "126A - 126 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 904 S.A",
+            "Old Schedule Lot",
+            "C5323183",
+            [
+              [
+                "N160559",
+                "1967-07-11",
+                "-",
+                null
+              ],
+              [
+                "N200299",
+                "1980-11-29",
+                "ORDER OF ADJUDICATION (1/3 SHARE)",
+                null
+              ],
+              [
+                "N220574",
+                "1986-02-17",
+                "BANKRUPTCY NO.B74 OF 1980 NOTICEOF TERMINATION OF INTEREST (1/3 SHARE)",
+                null
+              ],
+              [
+                "17030302230100",
+                "2016-11-22",
+                "PROBATE",
+                null
+              ],
+              [
+                "23100601970020",
+                "2023-08-26",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947670732738658,
@@ -3217,7 +7150,21 @@
         1107616470,
         null,
         "127A KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 904 RP",
+            "Old Schedule Lot",
+            "C5239417",
+            [
+              [
+                "N160559",
+                "1967-07-11",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994767029128575,
@@ -3236,7 +7183,14 @@
         1107616476,
         null,
         "128A KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 905",
+            "Old Schedule Lot",
+            "C3128302",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947670354002935,
@@ -3255,7 +7209,39 @@
         1107616477,
         null,
         null,
-        []
+        [
+          [
+            "DD147 902",
+            "Old Schedule Lot",
+            "C5746148",
+            [
+              [
+                "N160559",
+                "1967-07-11",
+                "-",
+                null
+              ],
+              [
+                "N208316",
+                "1983-03-21",
+                "-",
+                null
+              ],
+              [
+                "06112301590118",
+                "2006-10-25",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "80000.0"
+              ],
+              [
+                "06112301590121",
+                "2006-10-25",
+                "ASSIGNMENT",
+                "80000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947692689609988,
@@ -3274,7 +7260,14 @@
         1107616488,
         null,
         "130 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 908",
+            "Old Schedule Lot",
+            "C3128337",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947693706511185,
@@ -3293,7 +7286,45 @@
         1107616500,
         null,
         "135 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 906",
+            "Old Schedule Lot",
+            "C3128311",
+            [
+              [
+                "N152731",
+                "1964-04-15",
+                "-",
+                "1000.0"
+              ],
+              [
+                "N155814",
+                "1965-06-03",
+                "POWER OF ATTORNEY CHAU HING'S SHARE FROM 25.5.1965 TO 24.5.1975 (10 YEARS)",
+                null
+              ],
+              [
+                "N155815",
+                "1965-06-25",
+                "POWER OF ATTORNEY CHAU WAH'S SHARE FROM 26.5.65 TO 25.5.75 (10 YEARS)",
+                null
+              ],
+              [
+                "N157153",
+                "1966-01-26",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "N340864",
+                "1995-11-13",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947677566645556,
@@ -3331,7 +7362,45 @@
         1107616512,
         null,
         "136 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 907",
+            "Old Schedule Lot",
+            "C3128320",
+            [
+              [
+                "N152731",
+                "1964-04-15",
+                "-",
+                "1000.0"
+              ],
+              [
+                "N155814",
+                "1965-06-03",
+                "POWER OF ATTORNEY CHAU HING'S SHARE FROM 25.5.1965 TO 24.5.1975 (10 YEARS)",
+                null
+              ],
+              [
+                "N155815",
+                "1965-06-25",
+                "POWER OF ATTORNEY CHAU WAH'S SHARE FROM 26.5.65 TO 25.5.75 (10 YEARS)",
+                null
+              ],
+              [
+                "N157153",
+                "1966-01-26",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "N377194",
+                "1996-09-02",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947677607193972,
@@ -3350,7 +7419,21 @@
         1107616524,
         null,
         "137 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 916",
+            "Old Schedule Lot",
+            "C3128380",
+            [
+              [
+                "N157434",
+                "1966-03-15",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994767493417407,
@@ -3369,7 +7452,21 @@
         1107616529,
         null,
         null,
-        []
+        [
+          [
+            "DD147 916",
+            "Old Schedule Lot",
+            "C3128380",
+            [
+              [
+                "N157434",
+                "1966-03-15",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947692535979598,
@@ -3388,7 +7485,27 @@
         1107616531,
         null,
         "138 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 917",
+            "Old Schedule Lot",
+            "C6599168",
+            [
+              [
+                "N144965",
+                "1961-08-22",
+                "-",
+                null
+              ],
+              [
+                "N149921",
+                "1963-04-08",
+                "-",
+                "2000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947672883217926,
@@ -3407,7 +7524,27 @@
         1107616535,
         null,
         null,
-        []
+        [
+          [
+            "DD147 917",
+            "Old Schedule Lot",
+            "C6599168",
+            [
+              [
+                "N144965",
+                "1961-08-22",
+                "-",
+                null
+              ],
+              [
+                "N149921",
+                "1963-04-08",
+                "-",
+                "2000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99476886418477,
@@ -3426,7 +7563,33 @@
         1107616542,
         null,
         null,
-        []
+        [
+          [
+            "DD147 918 RP",
+            "Old Schedule Lot",
+            "C5629773",
+            [
+              [
+                "N152731",
+                "1964-04-15",
+                "-",
+                "1000.0"
+              ],
+              [
+                "N340864",
+                "1995-11-13",
+                "-",
+                null
+              ],
+              [
+                "N377194",
+                "1996-09-02",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947687478057083,
@@ -3445,7 +7608,101 @@
         1107616544,
         null,
         "140 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 918 RP",
+            "Old Schedule Lot",
+            "C5629773",
+            [
+              [
+                "N152731",
+                "1964-04-15",
+                "-",
+                "1000.0"
+              ],
+              [
+                "N340864",
+                "1995-11-13",
+                "-",
+                null
+              ],
+              [
+                "N377194",
+                "1996-09-02",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD147 918 S.A",
+            "Old Schedule Lot",
+            "C3128395",
+            [
+              [
+                "N150577",
+                "1963-08-06",
+                "-",
+                null
+              ],
+              [
+                "N205860",
+                "1982-10-29",
+                "-",
+                null
+              ],
+              [
+                "N222576",
+                "1986-11-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "125000.0"
+              ],
+              [
+                "N222742",
+                "1987-02-24",
+                "DECLARATION OF CHOW TIN SANG",
+                null
+              ],
+              [
+                "N222743",
+                "1987-02-24",
+                "-",
+                "125000.0"
+              ]
+            ]
+          ],
+          [
+            "DD147 919",
+            "Old Schedule Lot",
+            "C6296855",
+            [
+              [
+                "N149930",
+                "1963-05-21",
+                "-",
+                null
+              ],
+              [
+                "13011100780173",
+                "2012-12-13",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "13062500360080",
+                "2013-02-22",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "13062500360090",
+                "2013-05-23",
+                "ASSIGNMENT",
+                "300000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994767564568242,
@@ -3464,7 +7721,14 @@
         1107616582,
         null,
         "142 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 924",
+            "Old Schedule Lot",
+            "C3128431",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947641706498638,
@@ -3483,7 +7747,14 @@
         1107616599,
         null,
         null,
-        []
+        [
+          [
+            "DD147 877",
+            "Old Schedule Lot",
+            "C5891793",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947660604050232,
@@ -3502,7 +7773,14 @@
         1107616608,
         null,
         "143 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 877",
+            "Old Schedule Lot",
+            "C5891793",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947654637370493,
@@ -3521,7 +7799,14 @@
         1107616630,
         null,
         null,
-        []
+        [
+          [
+            "DD147 877",
+            "Old Schedule Lot",
+            "C5891793",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947650022519205,
@@ -3540,7 +7825,33 @@
         1107616707,
         null,
         "153 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 933",
+            "Old Schedule Lot",
+            "C3128485",
+            [
+              [
+                "N147240",
+                "1962-05-09",
+                "-",
+                null
+              ],
+              [
+                "N427832",
+                "1998-10-30",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "N427831",
+                "1998-10-30",
+                "STATUTORY DECLARATION BY YAU KAU WAH ALSO KNOWN AS YAU KAU WA",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994758123475001,
@@ -3559,7 +7870,27 @@
         1107616711,
         null,
         "159 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 936 S.A",
+            "Old Schedule Lot",
+            "C6296876",
+            [
+              [
+                "N17834",
+                "1911-10-27",
+                "-",
+                null
+              ],
+              [
+                "N146508",
+                "1962-02-14",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947600366081484,
@@ -3578,7 +7909,39 @@
         1107616712,
         null,
         "154 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1194",
+            "New Grant Lot",
+            "C5789241",
+            []
+          ],
+          [
+            "DD147 933",
+            "Old Schedule Lot",
+            "C3128485",
+            [
+              [
+                "N147240",
+                "1962-05-09",
+                "-",
+                null
+              ],
+              [
+                "N427832",
+                "1998-10-30",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "N427831",
+                "1998-10-30",
+                "STATUTORY DECLARATION BY YAU KAU WAH ALSO KNOWN AS YAU KAU WA",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947575426462327,
@@ -3597,7 +7960,33 @@
         1107616716,
         null,
         "160 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 936 S.B",
+            "Old Schedule Lot",
+            "C5629806",
+            [
+              [
+                "N17834",
+                "1911-10-27",
+                "-",
+                null
+              ],
+              [
+                "N146392",
+                "1962-01-25",
+                "-",
+                null
+              ],
+              [
+                "N497045",
+                "2000-07-22",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947604506652918,
@@ -3616,7 +8005,51 @@
         1107616729,
         null,
         "161 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 937",
+            "Old Schedule Lot",
+            "C5629813",
+            [
+              [
+                "N72098",
+                "1929-01-29",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N149952",
+                "1963-05-22",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "16021800500018",
+                "2016-01-19",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "16051201640070",
+                "2016-04-11",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "21032401680089",
+                "2016-04-11",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "25061901350444",
+                "2025-05-26",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947608410604254,
@@ -3635,7 +8068,57 @@
         1107616738,
         null,
         "175 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 TL T52 S.A",
+            "Taxlord Lot",
+            "C3129880",
+            [
+              [
+                "N28494",
+                "1914-12-07",
+                "-",
+                "6.0"
+              ],
+              [
+                "N72098",
+                "1929-01-29",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N149952",
+                "1963-05-22",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "16021800500018",
+                "2016-01-19",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "21032401680089",
+                "2016-04-11",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "16051201640070",
+                "2016-04-11",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "25061901350444",
+                "2025-05-26",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947582473387029,
@@ -3654,7 +8137,51 @@
         1107616745,
         null,
         "168A KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 937",
+            "Old Schedule Lot",
+            "C5629813",
+            [
+              [
+                "N72098",
+                "1929-01-29",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N149952",
+                "1963-05-22",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "16021800500018",
+                "2016-01-19",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "16051201640070",
+                "2016-04-11",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "21032401680089",
+                "2016-04-11",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "25061901350444",
+                "2025-05-26",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947612202058083,
@@ -3673,7 +8200,57 @@
         1107616752,
         null,
         "176 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 TL T52 S.A",
+            "Taxlord Lot",
+            "C3129880",
+            [
+              [
+                "N28494",
+                "1914-12-07",
+                "-",
+                "6.0"
+              ],
+              [
+                "N72098",
+                "1929-01-29",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N149952",
+                "1963-05-22",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "16021800500018",
+                "2016-01-19",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "21032401680089",
+                "2016-04-11",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "16051201640070",
+                "2016-04-11",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "25061901350444",
+                "2025-05-26",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994758684085092,
@@ -3692,7 +8269,14 @@
         1107616760,
         null,
         null,
-        []
+        [
+          [
+            "DD147 1186",
+            "New Grant Lot",
+            "C3129694",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947690363189148,
@@ -3711,7 +8295,33 @@
         1107616771,
         null,
         "145 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1182",
+            "New Grant Lot",
+            "C6296988",
+            [
+              [
+                "N427831",
+                "1998-10-30",
+                "STATUTORY DECLARATION BY YAU KAU WAH ALSO KNOWN AS YAU KAU WA",
+                null
+              ],
+              [
+                "N433997",
+                "1999-02-15",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "N433998",
+                "1999-02-15",
+                "ASSIGNMENT BY WAY OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947691721698415,
@@ -3730,7 +8340,14 @@
         1107616776,
         null,
         "146 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1183",
+            "New Grant Lot",
+            "C5833926",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947695541099864,
@@ -3749,7 +8366,14 @@
         1107616781,
         null,
         "147 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1184",
+            "New Grant Lot",
+            "C3129675",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947699683296531,
@@ -3768,7 +8392,51 @@
         1107616783,
         null,
         "177 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 946",
+            "Old Schedule Lot",
+            "C3128553",
+            [
+              [
+                "N145970",
+                "1961-12-15",
+                "-",
+                null
+              ],
+              [
+                "N178807",
+                "1974-11-07",
+                "-",
+                null
+              ],
+              [
+                "N196367",
+                "1979-07-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N490139",
+                "2000-07-19",
+                "APPROVAL OF SUCCESSION OF TONG MUK SANG",
+                null
+              ],
+              [
+                "N510370",
+                "2001-02-13",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N544390",
+                "2003-03-07",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947624057798372,
@@ -3787,7 +8455,27 @@
         1107616790,
         null,
         "178 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 947",
+            "Old Schedule Lot",
+            "C3128560",
+            [
+              [
+                "N148367",
+                "1962-06-13",
+                "-",
+                null
+              ],
+              [
+                "N147511",
+                "1962-06-19",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994762588579226,
@@ -3806,7 +8494,14 @@
         1107616791,
         null,
         "148 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1199",
+            "New Grant Lot",
+            "C3129750",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947703708385063,
@@ -3844,7 +8539,70 @@
         1107616796,
         null,
         "179 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 947",
+            "Old Schedule Lot",
+            "C3128560",
+            [
+              [
+                "N148367",
+                "1962-06-13",
+                "-",
+                null
+              ],
+              [
+                "N147511",
+                "1962-06-19",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD147 948",
+            "Old Schedule Lot",
+            "C3128571",
+            [
+              [
+                "N145970",
+                "1961-12-15",
+                "-",
+                null
+              ],
+              [
+                "N178807",
+                "1974-11-07",
+                "-",
+                null
+              ],
+              [
+                "N196367",
+                "1979-07-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N490139",
+                "2000-07-19",
+                "APPROVAL OF SUCCESSION OF TONG MUK SANG",
+                null
+              ],
+              [
+                "N510370",
+                "2001-02-13",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N544390",
+                "2003-03-07",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947627599210043,
@@ -3863,7 +8621,14 @@
         1107616797,
         null,
         "149 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 1199",
+            "New Grant Lot",
+            "C3129750",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947710673022443,
@@ -3882,7 +8647,27 @@
         1107616799,
         null,
         "180A KAT WAI PATH",
-        []
+        [
+          [
+            "DD147 950",
+            "Old Schedule Lot",
+            "C3128599",
+            [
+              [
+                "N148367",
+                "1962-06-13",
+                "-",
+                null
+              ],
+              [
+                "N147511",
+                "1962-06-19",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947659520885572,
@@ -3901,7 +8686,51 @@
         1107616805,
         null,
         "180 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 948",
+            "Old Schedule Lot",
+            "C3128571",
+            [
+              [
+                "N145970",
+                "1961-12-15",
+                "-",
+                null
+              ],
+              [
+                "N178807",
+                "1974-11-07",
+                "-",
+                null
+              ],
+              [
+                "N196367",
+                "1979-07-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N490139",
+                "2000-07-19",
+                "APPROVAL OF SUCCESSION OF TONG MUK SANG",
+                null
+              ],
+              [
+                "N510370",
+                "2001-02-13",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "N544390",
+                "2003-03-07",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947629477008724,
@@ -3920,7 +8749,27 @@
         1107616830,
         null,
         "182 KAT WAI PATH",
-        []
+        [
+          [
+            "DD147 951",
+            "Old Schedule Lot",
+            "C3128600",
+            [
+              [
+                "N145426",
+                "1961-10-20",
+                "-",
+                null
+              ],
+              [
+                "12030201200053",
+                "2011-11-16",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994765370665973,
@@ -3939,7 +8788,21 @@
         1107616837,
         null,
         "183 KAT WAI PATH",
-        []
+        [
+          [
+            "DD147 1189",
+            "New Grant Lot",
+            "C3129725",
+            [
+              [
+                "12030201200061",
+                "2011-11-16",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947657294389172,
@@ -3958,7 +8821,21 @@
         1107616855,
         null,
         "184 KAT WAI PATH",
-        []
+        [
+          [
+            "DD147 954 S.B",
+            "Old Schedule Lot",
+            "C3128630",
+            [
+              [
+                "N7910",
+                "1908-12-28",
+                "-",
+                "63.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947653470643196,
@@ -3977,7 +8854,14 @@
         1107616881,
         null,
         "188 KAT WAI PATH",
-        []
+        [
+          [
+            "DD147 1193",
+            "New Grant Lot",
+            "C6459635",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947662475057986,
@@ -4015,7 +8899,63 @@
         1107616919,
         null,
         "191 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 965",
+            "Old Schedule Lot",
+            "C3128684",
+            [
+              [
+                "N128007",
+                "1951-10-11",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N197686",
+                "1979-09-15",
+                "(PRE-IRIS) LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "13020500800036",
+                "2000-01-17",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "13020500800049",
+                "2013-01-16",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ],
+              [
+                "13020500800056",
+                "2013-01-16",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "15052100300084",
+                "2015-04-20",
+                "PROBATE",
+                null
+              ],
+              [
+                "20120802210023",
+                "2020-11-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1800000.0"
+              ],
+              [
+                "21011302170042",
+                "2020-12-24",
+                "ASSIGNMENT",
+                "1800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994763863137136,
@@ -4034,7 +8974,46 @@
         1107616927,
         null,
         "193 KAT WAI PATH",
-        []
+        [
+          [
+            "DD147 960",
+            "Old Schedule Lot",
+            "C3128645",
+            [
+              [
+                "N145970",
+                "1961-12-15",
+                "-",
+                null
+              ],
+              [
+                "N401733",
+                "1997-07-30",
+                "MEMO AS TO ERROR IN RESPECT OF MEMORIAL NO.145970",
+                null
+              ],
+              [
+                "05031000420013",
+                "2005-01-13",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD147 961",
+            "Old Schedule Lot",
+            "C3128650",
+            [
+              [
+                "05031000420013",
+                "2005-01-13",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947688177266567,
@@ -4091,7 +9070,27 @@
         1107617056,
         null,
         null,
-        []
+        [
+          [
+            "DD147 1077",
+            "Old Schedule Lot",
+            "C6296939",
+            [
+              [
+                "N151490",
+                "1963-11-26",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N153327",
+                "1964-07-07",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947992305614546,
@@ -4129,7 +9128,33 @@
         1107617112,
         null,
         "205 KAT WAI PATH",
-        []
+        [
+          [
+            "DD147 1020",
+            "Old Schedule Lot",
+            "C3129026",
+            [
+              [
+                "N147612",
+                "1962-07-05",
+                "-",
+                null
+              ],
+              [
+                "N387985",
+                "1997-04-04",
+                "STATUTORY DECLARATION OF LAU YAT MING",
+                null
+              ],
+              [
+                "N414719",
+                "1998-02-25",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947751479337499,
@@ -4148,7 +9173,119 @@
         1107617115,
         null,
         "195 KAT WAI PATH",
-        []
+        [
+          [
+            "DD147 1007",
+            "Old Schedule Lot",
+            "C3128950",
+            [
+              [
+                "N146029",
+                "1961-12-21",
+                "-",
+                null
+              ],
+              [
+                "18020500530014",
+                "2018-01-23",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "19102400230076",
+                "2019-09-27",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "23101902030037",
+                "2023-09-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD147 1008",
+            "Old Schedule Lot",
+            "C5629854",
+            [
+              [
+                "N146030",
+                "1961-12-21",
+                "-",
+                null
+              ],
+              [
+                "18020500530014",
+                "2018-01-23",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "19102400230076",
+                "2019-09-27",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "21030300110133",
+                "2021-02-08",
+                "ASSIGNMENT",
+                "470000.0"
+              ],
+              [
+                "23101902030037",
+                "2023-09-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "25080400250038",
+                "2025-07-23",
+                "ASSIGNMENT",
+                "235000.0"
+              ],
+              [
+                "25100902300021",
+                "2025-09-29",
+                "ASSIGNMENT",
+                "235000.0"
+              ]
+            ]
+          ],
+          [
+            "DD147 1128",
+            "Old Schedule Lot",
+            "C3129437",
+            [
+              [
+                "N147611",
+                "1962-07-05",
+                "-",
+                null
+              ],
+              [
+                "N414719",
+                "1998-02-25",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "21030100640059",
+                "2020-12-17",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "24062500310022",
+                "2024-05-22",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99477247652449,
@@ -4167,7 +9304,21 @@
         1107617127,
         null,
         "206 KAT WAI PATH",
-        []
+        [
+          [
+            "DD147 1019 S.A",
+            "Old Schedule Lot",
+            "D3693678",
+            [
+              [
+                "09021701250015",
+                "2009-02-02",
+                "ASSIGNMENT",
+                "500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947753442405842,
@@ -4186,7 +9337,21 @@
         1107617132,
         null,
         "222 O PUI TONG PATH",
-        []
+        [
+          [
+            "DD147 1203",
+            "New Grant Lot",
+            "C3129776",
+            [
+              [
+                "N555103",
+                "2003-08-23",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947947489043736,
@@ -4205,7 +9370,27 @@
         1107617144,
         null,
         "207 KAT WAI PATH",
-        []
+        [
+          [
+            "DD147 1019 RP",
+            "Old Schedule Lot",
+            "D3693685",
+            [
+              [
+                "09021701250015",
+                "2009-02-02",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "17040700300027",
+                "2017-03-15",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947754311600483,
@@ -4224,7 +9409,27 @@
         1107617151,
         null,
         null,
-        []
+        [
+          [
+            "DD147 1011",
+            "Old Schedule Lot",
+            "C3128987",
+            [
+              [
+                "N151571",
+                "1963-12-04",
+                "-",
+                null
+              ],
+              [
+                "N354910",
+                "1996-03-05",
+                "MEME AS TO ERROR IN RESPECT OF MEMORAL NO.152732",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947729418713374,
@@ -4243,7 +9448,27 @@
         1107617152,
         null,
         "198 KAT WAI PATH",
-        []
+        [
+          [
+            "DD147 1011",
+            "Old Schedule Lot",
+            "C3128987",
+            [
+              [
+                "N151571",
+                "1963-12-04",
+                "-",
+                null
+              ],
+              [
+                "N354910",
+                "1996-03-05",
+                "MEME AS TO ERROR IN RESPECT OF MEMORAL NO.152732",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947720076551219,
@@ -4262,7 +9487,21 @@
         1107617160,
         null,
         "208 KAT WAI PATH",
-        []
+        [
+          [
+            "DD147 1018",
+            "Old Schedule Lot",
+            "C5041272",
+            [
+              [
+                "N558157",
+                "2003-12-18",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994775541737516,
@@ -4281,7 +9520,39 @@
         1107617165,
         null,
         "199 KAT WAI PATH",
-        []
+        [
+          [
+            "DD147 1012",
+            "Old Schedule Lot",
+            "C3128997",
+            [
+              [
+                "N204505",
+                "1982-04-07",
+                "-",
+                null
+              ],
+              [
+                "19102900810028",
+                "2019-10-08",
+                "A SEALED COPY OF CHARGING ORDER: NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "20062200930010",
+                "2020-04-27",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "25111400460113",
+                "2020-04-27",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947721433068715,
@@ -4300,7 +9571,21 @@
         1107617187,
         null,
         "200 KAT WAI PATH",
-        []
+        [
+          [
+            "DD147 1013",
+            "Old Schedule Lot",
+            "C5239424",
+            [
+              [
+                "N151570",
+                "1963-12-04",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947723716267411,
@@ -4319,7 +9604,14 @@
         1107617188,
         null,
         null,
-        []
+        [
+          [
+            "DD147 1017",
+            "Old Schedule Lot",
+            "C3129004",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947753385793094,
@@ -4338,7 +9630,21 @@
         1107617190,
         null,
         null,
-        []
+        [
+          [
+            "DD147 1013",
+            "Old Schedule Lot",
+            "C5239424",
+            [
+              [
+                "N151570",
+                "1963-12-04",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947715120268776,
@@ -4357,7 +9663,45 @@
         1107617198,
         null,
         "226 O PUI TONG PATH",
-        []
+        [
+          [
+            "DD147 1114",
+            "New Grant Lot",
+            "C5239447",
+            [
+              [
+                "N151490",
+                "1963-11-26",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N153327",
+                "1964-07-07",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "15091802090027",
+                "2015-08-21",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "15120400900113",
+                "2015-11-16",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "23050401340037",
+                "2015-11-16",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947941030244294,
@@ -4376,7 +9720,45 @@
         1107617207,
         null,
         "227 O PUI TONG PATH",
-        []
+        [
+          [
+            "DD147 1114",
+            "New Grant Lot",
+            "C5239447",
+            [
+              [
+                "N151490",
+                "1963-11-26",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N153327",
+                "1964-07-07",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "15091802090027",
+                "2015-08-21",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "15120400900113",
+                "2015-11-16",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "23050401340037",
+                "2015-11-16",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947940877940775,
@@ -4395,7 +9777,21 @@
         1107617263,
         null,
         "231 O PUI TONG PATH",
-        []
+        [
+          [
+            "DD148 218",
+            "Old Schedule Lot",
+            "C3130989",
+            [
+              [
+                "N198069",
+                "1980-01-28",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994793395730245,
@@ -4414,7 +9810,27 @@
         1107617344,
         null,
         null,
-        []
+        [
+          [
+            "DD148 203",
+            "Old Schedule Lot",
+            "C3130914",
+            [
+              [
+                "N146645",
+                "1962-02-28",
+                "-",
+                null
+              ],
+              [
+                "08071702680041",
+                "2008-06-04",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994776119132593,
@@ -4547,7 +9963,39 @@
         1810129931,
         null,
         null,
-        []
+        [
+          [
+            "DD147 152",
+            "Old Schedule Lot",
+            "C5746129",
+            [
+              [
+                "N100932",
+                "1937-11-16",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N157981",
+                "1966-06-29",
+                "-",
+                null
+              ],
+              [
+                "N562383",
+                "2004-05-06",
+                "DEED OF EXCHANGE",
+                null
+              ],
+              [
+                "N562385",
+                "2004-05-06",
+                "ASSIGNMENT",
+                "400000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947582300623816,
@@ -4566,7 +10014,39 @@
         1910215426,
         null,
         null,
-        []
+        [
+          [
+            "DD147 1149 S.A",
+            "New Grant Lot",
+            "C6296950",
+            [
+              [
+                "N158216",
+                "1966-07-28",
+                "-",
+                null
+              ],
+              [
+                "N403937",
+                "1997-09-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "100000.0"
+              ],
+              [
+                "N403938",
+                "1997-09-08",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "17061600290017",
+                "2017-05-22",
+                "ASSIGNMENT",
+                "50000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947380219185245,
@@ -4585,7 +10065,33 @@
         1910215944,
         null,
         null,
-        []
+        [
+          [
+            "DD147 112",
+            "Old Schedule Lot",
+            "C5746096",
+            [
+              [
+                "N150194",
+                "1963-06-17",
+                "-",
+                null
+              ],
+              [
+                "N520241",
+                "2001-11-07",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "06051100540039",
+                "2006-04-22",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994749520551287,
@@ -4623,7 +10129,51 @@
         1910215959,
         null,
         "37 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 149",
+            "Old Schedule Lot",
+            "C5405091",
+            [
+              [
+                "N54050",
+                "1923-01-06",
+                "REDEMPTION OF BLOCK GOVT. LEASE MORTGAGE",
+                null
+              ],
+              [
+                "N67620",
+                "1927-06-15",
+                "-",
+                null
+              ],
+              [
+                "N70821",
+                "1928-10-03",
+                "-",
+                "120.0"
+              ],
+              [
+                "N99622",
+                "1937-04-21",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N570902",
+                "2003-10-10",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N570903",
+                "2004-09-24",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947555865247404,
@@ -4699,7 +10249,52 @@
         1910216620,
         null,
         null,
-        []
+        [
+          [
+            "DD147 202",
+            "Old Schedule Lot",
+            "C5040992",
+            [
+              [
+                "N63235",
+                "1925-12-05",
+                "-",
+                "500.0"
+              ],
+              [
+                "N65646",
+                "1926-12-14",
+                "SALE",
+                "250.0"
+              ],
+              [
+                "07120502490010",
+                "2007-09-24",
+                "APPROVAL LETTER OF SUCCESSION UNDER S.17 OF N.T. ORD. (CAP.97) & SECTION 12 OF N.T. LAND (EXEMPTION) ORD.",
+                null
+              ],
+              [
+                "18060100240046",
+                "2018-05-02",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD147 203",
+            "Old Schedule Lot",
+            "C3125985",
+            [
+              [
+                "N160726",
+                "1967-08-28",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947644562121971,
@@ -4718,7 +10313,52 @@
         1910216655,
         null,
         null,
-        []
+        [
+          [
+            "DD147 195",
+            "Old Schedule Lot",
+            "C3125934",
+            [
+              [
+                "N160726",
+                "1967-08-28",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD147 196",
+            "Old Schedule Lot",
+            "C3125941",
+            [
+              [
+                "N146867",
+                "1962-03-23",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N151830",
+                "1963-12-30",
+                "MORTGAGE",
+                "3000.0"
+              ],
+              [
+                "N153287",
+                "1964-06-30",
+                "MORTGAGE",
+                "3000.0"
+              ],
+              [
+                "N161152",
+                "1967-12-28",
+                "REDEMPTION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947671902151205,
@@ -4737,7 +10377,52 @@
         1910216658,
         null,
         null,
-        []
+        [
+          [
+            "DD147 172",
+            "Old Schedule Lot",
+            "C3125835",
+            [
+              [
+                "N150193",
+                "1963-06-17",
+                "-",
+                null
+              ],
+              [
+                "N150192",
+                "1963-06-17",
+                "-",
+                null
+              ],
+              [
+                "N450703",
+                "1997-06-16",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "N450702",
+                "1997-06-16",
+                "APPROVAL OF SUCCESSION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD147 195",
+            "Old Schedule Lot",
+            "C3125934",
+            [
+              [
+                "N160726",
+                "1967-08-28",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947680496792992,
@@ -4756,7 +10441,27 @@
         1910216700,
         null,
         null,
-        []
+        [
+          [
+            "DD147 897",
+            "Old Schedule Lot",
+            "C3128282",
+            [
+              [
+                "N137515",
+                "1958-02-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "19081201460265",
+                "2014-06-06",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947700509460125,
@@ -4775,7 +10480,14 @@
         1910216709,
         null,
         null,
-        []
+        [
+          [
+            "DD147 920",
+            "Old Schedule Lot",
+            "C3128404",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9947670397188075,
@@ -4794,7 +10506,33 @@
         1910216740,
         null,
         null,
-        []
+        [
+          [
+            "DD147 933",
+            "Old Schedule Lot",
+            "C3128485",
+            [
+              [
+                "N147240",
+                "1962-05-09",
+                "-",
+                null
+              ],
+              [
+                "N427832",
+                "1998-10-30",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "N427831",
+                "1998-10-30",
+                "STATUTORY DECLARATION BY YAU KAU WAH ALSO KNOWN AS YAU KAU WA",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947586758724078,
@@ -4832,7 +10570,39 @@
         1910216794,
         null,
         "194A KAT WAI PATH",
-        []
+        [
+          [
+            "DD147 1128",
+            "Old Schedule Lot",
+            "C3129437",
+            [
+              [
+                "N147611",
+                "1962-07-05",
+                "-",
+                null
+              ],
+              [
+                "N414719",
+                "1998-02-25",
+                "APPROVAL OF SUCCESSION",
+                null
+              ],
+              [
+                "21030100640059",
+                "2020-12-17",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "24062500310022",
+                "2024-05-22",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947728005644965,
@@ -4851,7 +10621,69 @@
         1910252689,
         null,
         "4D KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 102",
+            "Old Schedule Lot",
+            "C3125295",
+            [
+              [
+                "N87074",
+                "1933-07-26",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N128255",
+                "1951-12-11",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N158661",
+                "1966-10-26",
+                "STATUTORY DECLARATION OF LI PAK TSUN ALIAS LEE TAI",
+                null
+              ],
+              [
+                "N198959",
+                "1980-06-26",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "N201621",
+                "1981-04-30",
+                "CONVEYANCE ON SALE",
+                "140000.0"
+              ],
+              [
+                "N201951",
+                "1981-05-19",
+                "CONVEYANCE ON SALE",
+                "400000.0"
+              ],
+              [
+                "N220063",
+                "1984-10-31",
+                "CONVEYANCE ON SALE",
+                "6760551.5"
+              ],
+              [
+                "05120300260080",
+                "2005-11-11",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "650000.0"
+              ],
+              [
+                "06010300070187",
+                "2005-12-02",
+                "ASSIGNMENT",
+                "650000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947418649662987,
@@ -4927,7 +10759,69 @@
         1910270736,
         null,
         "27 KAT O MAIN STREET",
-        []
+        [
+          [
+            "DD147 128 S.A",
+            "Old Schedule Lot",
+            "C3125469",
+            [
+              [
+                "N129498",
+                "1952-10-30",
+                "-",
+                null
+              ],
+              [
+                "N129496",
+                "1952-10-30",
+                "-",
+                null
+              ],
+              [
+                "N129497",
+                "1952-10-30",
+                "-",
+                null
+              ],
+              [
+                "N132327",
+                "1954-10-28",
+                "MORTGAGE",
+                "1500.0"
+              ],
+              [
+                "N135607",
+                "1956-11-27",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N152730",
+                "1964-04-09",
+                "MORTGAGE",
+                "3000.0"
+              ],
+              [
+                "N167903",
+                "1971-05-25",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "18021501950058",
+                "2017-09-15",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "200000.0"
+              ],
+              [
+                "18021501950066",
+                "2017-09-15",
+                "ASSIGNMENT",
+                "200000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9947506678060867,

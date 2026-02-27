@@ -63,7 +63,14 @@
         1109178932,
         null,
         "10 SHAM WAT",
-        []
+        [
+          [
+            "DD301 LL 162",
+            "New Grant Lot",
+            "C4079516",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9877237265696004,
@@ -348,7 +355,39 @@
         1109181960,
         null,
         "4 SHAM WAT",
-        []
+        [
+          [
+            "DD301 LL 161",
+            "New Grant Lot",
+            "C5160864",
+            [
+              [
+                "IS98969",
+                "1979-10-02",
+                "-",
+                null
+              ],
+              [
+                "IS223744",
+                "1995-03-02",
+                "ASSENT",
+                null
+              ],
+              [
+                "IS246535",
+                "1995-03-02",
+                "DEED OF FAMILY ARRANGEMENT (PREVIOUSLY REGD. BY M/N 223743)",
+                null
+              ],
+              [
+                "IS223743",
+                "1995-03-02",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987722459080992,
@@ -367,7 +406,14 @@
         1109182324,
         null,
         "9 SHAM WAT",
-        []
+        [
+          [
+            "DD301 LL 160",
+            "New Grant Lot",
+            "C5160858",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9877228720179914,

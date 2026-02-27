@@ -6,7 +6,21 @@
         1101763617,
         null,
         null,
-        []
+        [
+          [
+            "DD276 1349",
+            "New Grant Lot",
+            "C3877479",
+            [
+              [
+                "SK217214",
+                "1994-03-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99616065276213,
@@ -25,7 +39,21 @@
         1101763618,
         "IMMACULATE CONCEPTION CHAPEL",
         "18E TAI LONG",
-        []
+        [
+          [
+            "DD276 1349",
+            "New Grant Lot",
+            "C3877479",
+            [
+              [
+                "SK217214",
+                "1994-03-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.996161947086307,
@@ -44,7 +72,21 @@
         1101763620,
         null,
         "18D TAI LONG",
-        []
+        [
+          [
+            "DD276 1349",
+            "New Grant Lot",
+            "C3877479",
+            [
+              [
+                "SK217214",
+                "1994-03-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9961626154365093,
@@ -63,7 +105,21 @@
         1101763621,
         null,
         null,
-        []
+        [
+          [
+            "DD276 1349",
+            "New Grant Lot",
+            "C3877479",
+            [
+              [
+                "SK217214",
+                "1994-03-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9961604444503827,
@@ -82,7 +138,69 @@
         1101763622,
         null,
         "18C TAI LONG",
-        []
+        [
+          [
+            "DD276 828",
+            "Old Schedule Lot",
+            "C3875024",
+            [
+              [
+                "SK284595",
+                "1996-05-20",
+                "APPROVAL LETTER OF SUCCESSION BY DO/SK",
+                null
+              ],
+              [
+                "SK300002",
+                "1997-11-21",
+                "ASSIGNMENT",
+                "875000.0"
+              ],
+              [
+                "SK300000",
+                "1997-11-21",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "437500.0"
+              ],
+              [
+                "SK300001",
+                "1997-11-21",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "437500.0"
+              ],
+              [
+                "SK388032",
+                "1999-08-13",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "05101000270127",
+                "2005-09-14",
+                "SECOND MORTGAGE",
+                "FOR CONSIDERATION & SHARES AFFECTED SEE MEMORIAL"
+              ],
+              [
+                "15091802040010",
+                "2015-09-07",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18022301740075",
+                "2018-01-30",
+                "RELEASE",
+                null
+              ],
+              [
+                "24100301030032",
+                "2024-09-19",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9961656788136268,
@@ -101,7 +219,69 @@
         1101763623,
         null,
         "18B TAI LONG",
-        []
+        [
+          [
+            "DD276 829",
+            "Old Schedule Lot",
+            "C6736887",
+            [
+              [
+                "SK275450",
+                "1996-09-20",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "SK290958",
+                "1997-07-05",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "625000.0"
+              ],
+              [
+                "SK452365",
+                "1997-07-05",
+                "MEMORANDUM OF AGREEMENT (SUPPLEMENTAL TO MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE M/N SK290958)",
+                null
+              ],
+              [
+                "SK290959",
+                "1997-07-05",
+                "ASSIGNMENT",
+                "625000.0"
+              ],
+              [
+                "SK388032",
+                "1999-08-13",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "05101000270127",
+                "2005-09-14",
+                "SECOND MORTGAGE",
+                "FOR CONSIDERATION & SHARES AFFECTED SEE MEMORIAL"
+              ],
+              [
+                "15091802040010",
+                "2015-09-07",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18022301740075",
+                "2018-01-30",
+                "RELEASE",
+                null
+              ],
+              [
+                "24100301030032",
+                "2024-09-19",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.996165112225961,
@@ -120,7 +300,69 @@
         1101763624,
         null,
         "18A TAI LONG",
-        []
+        [
+          [
+            "DD276 830",
+            "Old Schedule Lot",
+            "C3875031",
+            [
+              [
+                "SK275450",
+                "1996-09-20",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "SK290959",
+                "1997-07-05",
+                "ASSIGNMENT",
+                "625000.0"
+              ],
+              [
+                "SK290958",
+                "1997-07-05",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "625000.0"
+              ],
+              [
+                "SK452365",
+                "1997-07-05",
+                "MEMORANDUM OF AGREEMENT (SUPPLEMENTAL TO MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE M/N SK290958)",
+                null
+              ],
+              [
+                "SK388032",
+                "1999-08-13",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "05101000270127",
+                "2005-09-14",
+                "SECOND MORTGAGE",
+                "FOR CONSIDERATION & SHARES AFFECTED SEE MEMORIAL"
+              ],
+              [
+                "15091802040010",
+                "2015-09-07",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18022301740075",
+                "2018-01-30",
+                "RELEASE",
+                null
+              ],
+              [
+                "24100301030032",
+                "2024-09-19",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9961646129231232,
@@ -177,7 +419,142 @@
         1101763630,
         null,
         "30B TAI LONG",
-        []
+        [
+          [
+            "DD276 851",
+            "Old Schedule Lot",
+            "C3875173",
+            [
+              [
+                "SK85897",
+                "1973-02-28",
+                "-",
+                null
+              ],
+              [
+                "SK211889",
+                "1993-04-20",
+                "-",
+                null
+              ],
+              [
+                "SK211890",
+                "1993-10-20",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "SK215804",
+                "1994-02-04",
+                "-",
+                null
+              ],
+              [
+                "SK230639",
+                "1995-01-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1330360.0"
+              ],
+              [
+                "SK232351",
+                "1995-02-15",
+                "SUPPLEMENTAL AGREEMENT",
+                "1330360.0"
+              ],
+              [
+                "SK250217",
+                "1996-06-26",
+                "MEMORANDUM OF RESCISSION",
+                null
+              ],
+              [
+                "SK454172",
+                "2000-12-23",
+                "DEED OF RATIFICATION",
+                null
+              ],
+              [
+                "17111300070016",
+                "2017-02-01",
+                "PROBATE",
+                null
+              ],
+              [
+                "17111300070028",
+                "2017-02-16",
+                "ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD276 852",
+            "Old Schedule Lot",
+            "C3875185",
+            [
+              [
+                "SK86052",
+                "1973-04-18",
+                "-",
+                null
+              ],
+              [
+                "SK211889",
+                "1993-04-20",
+                "-",
+                null
+              ],
+              [
+                "SK211890",
+                "1993-10-20",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "SK215804",
+                "1994-02-04",
+                "-",
+                null
+              ],
+              [
+                "SK230639",
+                "1995-01-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1330360.0"
+              ],
+              [
+                "SK232351",
+                "1995-02-15",
+                "SUPPLEMENTAL AGREEMENT",
+                "1330360.0"
+              ],
+              [
+                "SK250217",
+                "1996-06-26",
+                "MEMORANDUM OF RESCISSION",
+                null
+              ],
+              [
+                "SK454172",
+                "2000-12-23",
+                "DEED OF RATIFICATION",
+                null
+              ],
+              [
+                "17111300070016",
+                "2017-02-01",
+                "PROBATE",
+                null
+              ],
+              [
+                "17111300070028",
+                "2017-02-16",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9961668543470241,
@@ -196,7 +573,14 @@
         1101763632,
         null,
         "30A TAI LONG",
-        []
+        [
+          [
+            "DD276 850",
+            "Old Schedule Lot",
+            "C3875166",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9961649364345317,
@@ -215,7 +599,69 @@
         1101763636,
         null,
         "30 TAI LONG",
-        []
+        [
+          [
+            "DD276 854",
+            "Old Schedule Lot",
+            "C3875192",
+            [
+              [
+                "SK284595",
+                "1996-05-20",
+                "APPROVAL LETTER OF SUCCESSION BY DO/SK",
+                null
+              ],
+              [
+                "SK300002",
+                "1997-11-21",
+                "ASSIGNMENT",
+                "875000.0"
+              ],
+              [
+                "SK300000",
+                "1997-11-21",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "437500.0"
+              ],
+              [
+                "SK300001",
+                "1997-11-21",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "437500.0"
+              ],
+              [
+                "SK388032",
+                "1999-08-13",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "05101000270127",
+                "2005-09-14",
+                "SECOND MORTGAGE",
+                "FOR CONSIDERATION & SHARES AFFECTED SEE MEMORIAL"
+              ],
+              [
+                "15091802040010",
+                "2015-09-07",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18022301740075",
+                "2018-01-30",
+                "RELEASE",
+                null
+              ],
+              [
+                "24100301030032",
+                "2024-09-19",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9961651998971948,
@@ -234,7 +680,21 @@
         1101763638,
         null,
         "31 TAI LONG",
-        []
+        [
+          [
+            "DD276 855",
+            "Old Schedule Lot",
+            "C5135066",
+            [
+              [
+                "SK271295",
+                "1996-05-08",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9961655301032903,
@@ -253,7 +713,75 @@
         1101763639,
         null,
         "32 TAI LONG",
-        []
+        [
+          [
+            "DD276 856",
+            "Old Schedule Lot",
+            "C3875206",
+            [
+              [
+                "SK86052",
+                "1973-04-18",
+                "-",
+                null
+              ],
+              [
+                "SK211889",
+                "1993-04-20",
+                "-",
+                null
+              ],
+              [
+                "SK211890",
+                "1993-10-20",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "SK215804",
+                "1994-02-04",
+                "-",
+                null
+              ],
+              [
+                "SK230639",
+                "1995-01-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1330360.0"
+              ],
+              [
+                "SK232351",
+                "1995-02-15",
+                "SUPPLEMENTAL AGREEMENT",
+                "1330360.0"
+              ],
+              [
+                "SK250217",
+                "1996-06-26",
+                "MEMORANDUM OF RESCISSION",
+                null
+              ],
+              [
+                "SK454172",
+                "2000-12-23",
+                "DEED OF RATIFICATION",
+                null
+              ],
+              [
+                "17111300070016",
+                "2017-02-01",
+                "PROBATE",
+                null
+              ],
+              [
+                "17111300070028",
+                "2017-02-16",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9961656543451685,
@@ -272,7 +800,209 @@
         1101763641,
         null,
         "33 TAI LONG",
-        []
+        [
+          [
+            "DD276 1342",
+            "New Grant Lot",
+            "C3877431",
+            [
+              [
+                "SK86052",
+                "1973-04-18",
+                "-",
+                null
+              ],
+              [
+                "SK211889",
+                "1993-04-20",
+                "-",
+                null
+              ],
+              [
+                "SK211890",
+                "1993-10-20",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "SK215804",
+                "1994-02-04",
+                "-",
+                null
+              ],
+              [
+                "SK230639",
+                "1995-01-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1330360.0"
+              ],
+              [
+                "SK232351",
+                "1995-02-15",
+                "SUPPLEMENTAL AGREEMENT",
+                "1330360.0"
+              ],
+              [
+                "SK250217",
+                "1996-06-26",
+                "MEMORANDUM OF RESCISSION",
+                null
+              ],
+              [
+                "SK454172",
+                "2000-12-23",
+                "DEED OF RATIFICATION",
+                null
+              ],
+              [
+                "17111300070016",
+                "2017-02-01",
+                "PROBATE",
+                null
+              ],
+              [
+                "17111300070028",
+                "2017-02-16",
+                "ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD276 856",
+            "Old Schedule Lot",
+            "C3875206",
+            [
+              [
+                "SK86052",
+                "1973-04-18",
+                "-",
+                null
+              ],
+              [
+                "SK211889",
+                "1993-04-20",
+                "-",
+                null
+              ],
+              [
+                "SK211890",
+                "1993-10-20",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "SK215804",
+                "1994-02-04",
+                "-",
+                null
+              ],
+              [
+                "SK230639",
+                "1995-01-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1330360.0"
+              ],
+              [
+                "SK232351",
+                "1995-02-15",
+                "SUPPLEMENTAL AGREEMENT",
+                "1330360.0"
+              ],
+              [
+                "SK250217",
+                "1996-06-26",
+                "MEMORANDUM OF RESCISSION",
+                null
+              ],
+              [
+                "SK454172",
+                "2000-12-23",
+                "DEED OF RATIFICATION",
+                null
+              ],
+              [
+                "17111300070016",
+                "2017-02-01",
+                "PROBATE",
+                null
+              ],
+              [
+                "17111300070028",
+                "2017-02-16",
+                "ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD276 857",
+            "Old Schedule Lot",
+            "C3875213",
+            [
+              [
+                "SK86052",
+                "1973-04-18",
+                "-",
+                null
+              ],
+              [
+                "SK211889",
+                "1993-04-20",
+                "-",
+                null
+              ],
+              [
+                "SK211890",
+                "1993-10-20",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "SK215804",
+                "1994-02-04",
+                "-",
+                null
+              ],
+              [
+                "SK230639",
+                "1995-01-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1330360.0"
+              ],
+              [
+                "SK232351",
+                "1995-02-15",
+                "SUPPLEMENTAL AGREEMENT",
+                "1330360.0"
+              ],
+              [
+                "SK250217",
+                "1996-06-26",
+                "MEMORANDUM OF RESCISSION",
+                null
+              ],
+              [
+                "SK454172",
+                "2000-12-23",
+                "DEED OF RATIFICATION",
+                null
+              ],
+              [
+                "17111300070016",
+                "2017-02-01",
+                "PROBATE",
+                null
+              ],
+              [
+                "17111300070028",
+                "2017-02-16",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9961660654110365,
@@ -291,7 +1021,111 @@
         1101763645,
         null,
         "34 TAI LONG",
-        []
+        [
+          [
+            "DD275 197",
+            "Old Schedule Lot",
+            "C3866923",
+            [
+              [
+                "SK101571",
+                "1981-10-28",
+                "-",
+                null
+              ],
+              [
+                "SK229946",
+                "1993-02-09",
+                "AGREEMENT FOR SALE AND PURCHASE RE 1/2 SHARE BY CHAN PING",
+                "250000.0"
+              ],
+              [
+                "SK208712",
+                "1993-06-10",
+                "-",
+                null
+              ],
+              [
+                "SK229947",
+                "1993-09-22",
+                "AGREEMENT FOR SALE AND PURCHASE RE 1/2 SHARE BY CHAN FOOK YAU",
+                "250000.0"
+              ],
+              [
+                "SK233081",
+                "1995-03-15",
+                "SUPPLEMENTAL AGREEMENT RE 1/2 SHARE BY CHAN PING",
+                null
+              ],
+              [
+                "SK233537",
+                "1995-04-07",
+                "SUPPLEMENTAL AGREEMENT RE 1/2 SHARE BY CHAN FOOK YAU",
+                null
+              ],
+              [
+                "SK296307",
+                "1997-08-11",
+                "DEED OF CONFIRMATION",
+                null
+              ],
+              [
+                "SK452368",
+                "1997-09-26",
+                "MEMORANDUM OF AGREEMENT (SUPPLEMENTAL TO MEMORIAL NOS. SK229946 AND SK233081)",
+                null
+              ],
+              [
+                "SK296311",
+                "1997-09-26",
+                "ASSIGNMENT",
+                "250000.0"
+              ],
+              [
+                "SK452367",
+                "1997-09-26",
+                "MEMORANDUM OF AGREEMENT (SUPPLEMENTAL TO MEMORIAL NOS. SK229947 AND SK233537)",
+                null
+              ],
+              [
+                "SK296310",
+                "1997-09-26",
+                "ASSIGNMENT",
+                "250000.0"
+              ],
+              [
+                "SK388032",
+                "1999-08-13",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "05101000270127",
+                "2005-09-14",
+                "SECOND MORTGAGE",
+                "FOR CONSIDERATION & SHARES AFFECTED SEE MEMORIAL"
+              ],
+              [
+                "15091802040010",
+                "2015-09-07",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18022301740075",
+                "2018-01-30",
+                "RELEASE",
+                null
+              ],
+              [
+                "24100301030032",
+                "2024-09-19",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9961670781099607,
@@ -310,7 +1144,93 @@
         1101763646,
         null,
         "27 TAI LONG",
-        []
+        [
+          [
+            "DD275 189",
+            "Old Schedule Lot",
+            "C6355532",
+            [
+              [
+                "SK102721",
+                "1982-04-13",
+                "-",
+                null
+              ],
+              [
+                "SK104074",
+                "1982-11-01",
+                "-",
+                null
+              ],
+              [
+                "SK230636",
+                "1995-01-13",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "750000.0"
+              ],
+              [
+                "SK243641",
+                "1996-03-11",
+                "SUPPLEMENTAL AGREEMENT",
+                "750000.0"
+              ],
+              [
+                "SK244806",
+                "1996-04-24",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "SK452356",
+                "1997-11-03",
+                "MEMORANDUM OF AGREEMENT  (SUPPLEMENTAL TO MEM. NO.SK230636 & MEM. NO.SK243641)",
+                null
+              ],
+              [
+                "SK583674",
+                "1997-11-03",
+                "ASSIGNMENT (PREVIOUSLY REGISTERED BY M/N 298370)",
+                "750000.0"
+              ],
+              [
+                "SK298370",
+                "1997-11-03",
+                "ASSIGNMENT",
+                "750000.0"
+              ],
+              [
+                "SK388032",
+                "1999-08-13",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "05101000270127",
+                "2005-09-14",
+                "SECOND MORTGAGE",
+                "FOR CONSIDERATION & SHARES AFFECTED SEE MEMORIAL"
+              ],
+              [
+                "15091802040010",
+                "2015-09-07",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18022301740075",
+                "2018-01-30",
+                "RELEASE",
+                null
+              ],
+              [
+                "24100301030032",
+                "2024-09-19",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.996165389581577,
@@ -329,7 +1249,111 @@
         1101763647,
         null,
         "35 TAI LONG",
-        []
+        [
+          [
+            "DD275 196",
+            "Old Schedule Lot",
+            "C6470291",
+            [
+              [
+                "SK101571",
+                "1981-10-28",
+                "-",
+                null
+              ],
+              [
+                "SK229946",
+                "1993-02-09",
+                "AGREEMENT FOR SALE AND PURCHASE RE 1/2 SHARE BY CHAN PING",
+                "250000.0"
+              ],
+              [
+                "SK208712",
+                "1993-06-10",
+                "-",
+                null
+              ],
+              [
+                "SK229947",
+                "1993-09-22",
+                "AGREEMENT FOR SALE AND PURCHASE RE 1/2 SHARE BY CHAN FOOK YAU",
+                "250000.0"
+              ],
+              [
+                "SK233081",
+                "1995-03-15",
+                "SUPPLEMENTAL AGREEMENT RE 1/2 SHARE BY CHAN PING",
+                null
+              ],
+              [
+                "SK233537",
+                "1995-04-07",
+                "SUPPLEMENTAL AGREEMENT RE 1/2 SHARE BY CHAN FOOK YAU",
+                null
+              ],
+              [
+                "SK296307",
+                "1997-08-11",
+                "DEED OF CONFIRMATION",
+                null
+              ],
+              [
+                "SK296311",
+                "1997-09-26",
+                "ASSIGNMENT",
+                "250000.0"
+              ],
+              [
+                "SK452368",
+                "1997-09-26",
+                "MEMORANDUM OF AGREEMENT (SUPPLEMENTAL TO MEMORIAL NOS. SK229946 AND SK233081)",
+                null
+              ],
+              [
+                "SK296310",
+                "1997-09-26",
+                "ASSIGNMENT",
+                "250000.0"
+              ],
+              [
+                "SK452367",
+                "1997-09-26",
+                "MEMORANDUM OF AGREEMENT (SUPPLEMENTAL TO MEMORIAL NOS. SK229947 AND SK233537)",
+                null
+              ],
+              [
+                "SK388032",
+                "1999-08-13",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "05101000270127",
+                "2005-09-14",
+                "SECOND MORTGAGE",
+                "FOR CONSIDERATION & SHARES AFFECTED SEE MEMORIAL"
+              ],
+              [
+                "15091802040010",
+                "2015-09-07",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18022301740075",
+                "2018-01-30",
+                "RELEASE",
+                null
+              ],
+              [
+                "24100301030032",
+                "2024-09-19",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9961672720462613,
@@ -348,7 +1372,93 @@
         1101763648,
         null,
         "27 TAI LONG",
-        []
+        [
+          [
+            "DD275 189",
+            "Old Schedule Lot",
+            "C6355532",
+            [
+              [
+                "SK102721",
+                "1982-04-13",
+                "-",
+                null
+              ],
+              [
+                "SK104074",
+                "1982-11-01",
+                "-",
+                null
+              ],
+              [
+                "SK230636",
+                "1995-01-13",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "750000.0"
+              ],
+              [
+                "SK243641",
+                "1996-03-11",
+                "SUPPLEMENTAL AGREEMENT",
+                "750000.0"
+              ],
+              [
+                "SK244806",
+                "1996-04-24",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "SK452356",
+                "1997-11-03",
+                "MEMORANDUM OF AGREEMENT  (SUPPLEMENTAL TO MEM. NO.SK230636 & MEM. NO.SK243641)",
+                null
+              ],
+              [
+                "SK583674",
+                "1997-11-03",
+                "ASSIGNMENT (PREVIOUSLY REGISTERED BY M/N 298370)",
+                "750000.0"
+              ],
+              [
+                "SK298370",
+                "1997-11-03",
+                "ASSIGNMENT",
+                "750000.0"
+              ],
+              [
+                "SK388032",
+                "1999-08-13",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "05101000270127",
+                "2005-09-14",
+                "SECOND MORTGAGE",
+                "FOR CONSIDERATION & SHARES AFFECTED SEE MEMORIAL"
+              ],
+              [
+                "15091802040010",
+                "2015-09-07",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18022301740075",
+                "2018-01-30",
+                "RELEASE",
+                null
+              ],
+              [
+                "24100301030032",
+                "2024-09-19",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.996165521840761,
@@ -367,7 +1477,124 @@
         1101763649,
         null,
         "28 TAI LONG",
-        []
+        [
+          [
+            "DD275 190",
+            "Old Schedule Lot",
+            "C3866885",
+            [
+              [
+                "SK440943",
+                "2000-08-10",
+                "APPROVAL LETTER OF SUCCESSION BY DISTRICT OFFICER, SAI KUNG",
+                null
+              ],
+              [
+                "SK518326",
+                "2001-08-22",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "1.0"
+              ],
+              [
+                "SK518327",
+                "2001-08-22",
+                "ASSIGNMENT",
+                "1.0"
+              ],
+              [
+                "21022301860018",
+                "2021-02-11",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD275 191",
+            "Old Schedule Lot",
+            "C3866895",
+            [
+              [
+                "SK102721",
+                "1982-04-13",
+                "-",
+                null
+              ],
+              [
+                "SK104074",
+                "1982-11-01",
+                "-",
+                null
+              ],
+              [
+                "SK230636",
+                "1995-01-13",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "750000.0"
+              ],
+              [
+                "SK243641",
+                "1996-03-11",
+                "SUPPLEMENTAL AGREEMENT",
+                "750000.0"
+              ],
+              [
+                "SK244806",
+                "1996-04-24",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "SK452356",
+                "1997-11-03",
+                "MEMORANDUM OF AGREEMENT  (SUPPLEMENTAL TO MEM. NO.SK230636 & MEM. NO.SK243641)",
+                null
+              ],
+              [
+                "SK298370",
+                "1997-11-03",
+                "ASSIGNMENT",
+                "750000.0"
+              ],
+              [
+                "SK583674",
+                "1997-11-03",
+                "ASSIGNMENT (PREVIOUSLY REGISTERED BY M/N 298370)",
+                "750000.0"
+              ],
+              [
+                "SK388032",
+                "1999-08-13",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "05101000270127",
+                "2005-09-14",
+                "SECOND MORTGAGE",
+                "FOR CONSIDERATION & SHARES AFFECTED SEE MEMORIAL"
+              ],
+              [
+                "15091802040010",
+                "2015-09-07",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18022301740075",
+                "2018-01-30",
+                "RELEASE",
+                null
+              ],
+              [
+                "24100301030032",
+                "2024-09-19",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9961656094850595,
@@ -386,7 +1613,112 @@
         1101763650,
         null,
         "36 TAI LONG",
-        []
+        [
+          [
+            "DD275 194",
+            "Old Schedule Lot",
+            "C5134152",
+            [
+              [
+                "SK70176",
+                "1960-03-02",
+                "-",
+                null
+              ],
+              [
+                "SK71202",
+                "1960-10-26",
+                "MORTGAGE",
+                "1000.0"
+              ],
+              [
+                "SK71518",
+                "1961-01-06",
+                "-",
+                "4800.0"
+              ],
+              [
+                "SK71517",
+                "1961-01-06",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "SK88564",
+                "1976-02-10",
+                "-",
+                "12000.0"
+              ],
+              [
+                "SK88711",
+                "1976-02-20",
+                "MORTGAGE",
+                "700000.0"
+              ],
+              [
+                "SK89094",
+                "1976-07-27",
+                "FURTHER CHARGE",
+                "50000.0"
+              ],
+              [
+                "SK89173",
+                "1976-08-16",
+                "FURTHER CHARGE & COLLATERAL MORTGAGE",
+                "250000.0"
+              ],
+              [
+                "SK89213",
+                "1976-09-16",
+                "FURTHER CHARGE",
+                "300000.0"
+              ],
+              [
+                "SK91435",
+                "1978-01-31",
+                "DECLARATION BY FUNG HO HON JOE",
+                null
+              ],
+              [
+                "SK91982",
+                "1978-02-01",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "SK91983",
+                "1978-02-14",
+                "-",
+                "2400000.0"
+              ]
+            ]
+          ],
+          [
+            "DD275 195",
+            "Old Schedule Lot",
+            "C6355547",
+            [
+              [
+                "SK309305",
+                "1997-12-05",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "SK334426",
+                "1998-07-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "500000.0"
+              ],
+              [
+                "15122201490054",
+                "2015-12-17",
+                "MEMORANDUM OF RESCISSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9961675131595749,
@@ -405,7 +1737,87 @@
         1101763652,
         null,
         "37 TAI LONG",
-        []
+        [
+          [
+            "DD275 194",
+            "Old Schedule Lot",
+            "C5134152",
+            [
+              [
+                "SK70176",
+                "1960-03-02",
+                "-",
+                null
+              ],
+              [
+                "SK71202",
+                "1960-10-26",
+                "MORTGAGE",
+                "1000.0"
+              ],
+              [
+                "SK71518",
+                "1961-01-06",
+                "-",
+                "4800.0"
+              ],
+              [
+                "SK71517",
+                "1961-01-06",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "SK88564",
+                "1976-02-10",
+                "-",
+                "12000.0"
+              ],
+              [
+                "SK88711",
+                "1976-02-20",
+                "MORTGAGE",
+                "700000.0"
+              ],
+              [
+                "SK89094",
+                "1976-07-27",
+                "FURTHER CHARGE",
+                "50000.0"
+              ],
+              [
+                "SK89173",
+                "1976-08-16",
+                "FURTHER CHARGE & COLLATERAL MORTGAGE",
+                "250000.0"
+              ],
+              [
+                "SK89213",
+                "1976-09-16",
+                "FURTHER CHARGE",
+                "300000.0"
+              ],
+              [
+                "SK91435",
+                "1978-01-31",
+                "DECLARATION BY FUNG HO HON JOE",
+                null
+              ],
+              [
+                "SK91982",
+                "1978-02-01",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "SK91983",
+                "1978-02-14",
+                "-",
+                "2400000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9961677654979648,
@@ -424,7 +1836,39 @@
         1101763653,
         null,
         "29 TAI LONG",
-        []
+        [
+          [
+            "DD275 192",
+            "Old Schedule Lot",
+            "C3866908",
+            [
+              [
+                "SK100325",
+                "1981-05-13",
+                "-",
+                null
+              ],
+              [
+                "SK290616",
+                "1997-07-31",
+                "APPROVAL LETTER OF SUCCESSION BY DO/SK",
+                null
+              ],
+              [
+                "SK340067",
+                "1998-09-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "625000.0"
+              ],
+              [
+                "SK459266",
+                "2001-03-09",
+                "MEMORANDUM OF RESCISSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9961661344392636,
@@ -443,7 +1887,14 @@
         1101763654,
         null,
         "38 TAI LONG",
-        []
+        [
+          [
+            "DD275 193",
+            "Old Schedule Lot",
+            "C3866912",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9961678326712284,
@@ -481,7 +1932,81 @@
         1101763656,
         null,
         "13 TAI LONG",
-        []
+        [
+          [
+            "DD275 1003",
+            "New Grant Lot",
+            "C5986597",
+            [
+              [
+                "SK101420",
+                "1981-10-09",
+                "-",
+                null
+              ],
+              [
+                "SK230638",
+                "1995-01-13",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "863870.0"
+              ],
+              [
+                "SK296304",
+                "1995-03-13",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "SK234028",
+                "1995-04-24",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "SK452371",
+                "1997-09-26",
+                "MEMORANDUM OF AGREEMENT (SUPPLEMENTAL TO MEMORIAL NOS. SK230638 AND SK234028)",
+                null
+              ],
+              [
+                "SK296306",
+                "1997-09-26",
+                "ASSIGNMENT",
+                "863870.0"
+              ],
+              [
+                "SK388032",
+                "1999-08-13",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "05101000270127",
+                "2005-09-14",
+                "SECOND MORTGAGE",
+                "FOR CONSIDERATION & SHARES AFFECTED SEE MEMORIAL"
+              ],
+              [
+                "15091802040010",
+                "2015-09-07",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18022301740075",
+                "2018-01-30",
+                "RELEASE",
+                null
+              ],
+              [
+                "24100301030032",
+                "2024-09-19",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9961606367932556,
@@ -500,7 +2025,87 @@
         1101763657,
         null,
         "39 TAI LONG",
-        []
+        [
+          [
+            "DD275 180",
+            "Old Schedule Lot",
+            "C6601232",
+            [
+              [
+                "SK70176",
+                "1960-03-02",
+                "-",
+                null
+              ],
+              [
+                "SK71281",
+                "1960-11-09",
+                "MORTGAGE",
+                "1500.0"
+              ],
+              [
+                "SK71589",
+                "1961-01-20",
+                "-",
+                "4500.0"
+              ],
+              [
+                "SK71588",
+                "1961-01-20",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "SK88564",
+                "1976-02-10",
+                "-",
+                "12000.0"
+              ],
+              [
+                "SK88711",
+                "1976-02-20",
+                "MORTGAGE",
+                "700000.0"
+              ],
+              [
+                "SK89094",
+                "1976-07-27",
+                "FURTHER CHARGE",
+                "50000.0"
+              ],
+              [
+                "SK89173",
+                "1976-08-16",
+                "FURTHER CHARGE & COLLATERAL MORTGAGE",
+                "250000.0"
+              ],
+              [
+                "SK89213",
+                "1976-09-16",
+                "FURTHER CHARGE",
+                "300000.0"
+              ],
+              [
+                "SK91435",
+                "1978-01-31",
+                "DECLARATION BY FUNG HO HON JOE",
+                null
+              ],
+              [
+                "SK91982",
+                "1978-02-01",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "SK91983",
+                "1978-02-14",
+                "-",
+                "2400000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9961687692930554,
@@ -519,7 +2124,81 @@
         1101763658,
         null,
         "14 TAI LONG",
-        []
+        [
+          [
+            "DD275 1003",
+            "New Grant Lot",
+            "C5986597",
+            [
+              [
+                "SK101420",
+                "1981-10-09",
+                "-",
+                null
+              ],
+              [
+                "SK230638",
+                "1995-01-13",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "863870.0"
+              ],
+              [
+                "SK296304",
+                "1995-03-13",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "SK234028",
+                "1995-04-24",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "SK452371",
+                "1997-09-26",
+                "MEMORANDUM OF AGREEMENT (SUPPLEMENTAL TO MEMORIAL NOS. SK230638 AND SK234028)",
+                null
+              ],
+              [
+                "SK296306",
+                "1997-09-26",
+                "ASSIGNMENT",
+                "863870.0"
+              ],
+              [
+                "SK388032",
+                "1999-08-13",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "05101000270127",
+                "2005-09-14",
+                "SECOND MORTGAGE",
+                "FOR CONSIDERATION & SHARES AFFECTED SEE MEMORIAL"
+              ],
+              [
+                "15091802040010",
+                "2015-09-07",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18022301740075",
+                "2018-01-30",
+                "RELEASE",
+                null
+              ],
+              [
+                "24100301030032",
+                "2024-09-19",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.996160799260654,
@@ -538,7 +2217,39 @@
         1101763659,
         null,
         null,
-        []
+        [
+          [
+            "DD275 178",
+            "Old Schedule Lot",
+            "C3866833",
+            [
+              [
+                "SK100325",
+                "1981-05-13",
+                "-",
+                null
+              ],
+              [
+                "SK290616",
+                "1997-07-31",
+                "APPROVAL LETTER OF SUCCESSION BY DO/SK",
+                null
+              ],
+              [
+                "SK340067",
+                "1998-09-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "625000.0"
+              ],
+              [
+                "SK459266",
+                "2001-03-09",
+                "MEMORANDUM OF RESCISSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9961673704013192,
@@ -557,7 +2268,81 @@
         1101763660,
         null,
         "15 TAI LONG",
-        []
+        [
+          [
+            "DD275 1003",
+            "New Grant Lot",
+            "C5986597",
+            [
+              [
+                "SK101420",
+                "1981-10-09",
+                "-",
+                null
+              ],
+              [
+                "SK230638",
+                "1995-01-13",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "863870.0"
+              ],
+              [
+                "SK296304",
+                "1995-03-13",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "SK234028",
+                "1995-04-24",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "SK452371",
+                "1997-09-26",
+                "MEMORANDUM OF AGREEMENT (SUPPLEMENTAL TO MEMORIAL NOS. SK230638 AND SK234028)",
+                null
+              ],
+              [
+                "SK296306",
+                "1997-09-26",
+                "ASSIGNMENT",
+                "863870.0"
+              ],
+              [
+                "SK388032",
+                "1999-08-13",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "05101000270127",
+                "2005-09-14",
+                "SECOND MORTGAGE",
+                "FOR CONSIDERATION & SHARES AFFECTED SEE MEMORIAL"
+              ],
+              [
+                "15091802040010",
+                "2015-09-07",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18022301740075",
+                "2018-01-30",
+                "RELEASE",
+                null
+              ],
+              [
+                "24100301030032",
+                "2024-09-19",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9961609695854359,

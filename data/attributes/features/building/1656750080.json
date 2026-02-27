@@ -6,7 +6,21 @@
         1106131777,
         null,
         "15 TAI TAN",
-        []
+        [
+          [
+            "DD292 479",
+            "New Grant Lot",
+            "C4880495",
+            [
+              [
+                "TP703362",
+                "2003-05-12",
+                "TOLERATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954980514841905,
@@ -25,7 +39,33 @@
         1106131800,
         null,
         "13B TAI TAN",
-        []
+        [
+          [
+            "DD292 454",
+            "New Grant Lot",
+            "C1864666",
+            [
+              [
+                "TP285068",
+                "1988-07-13",
+                "SEALED COPY OF ORDER",
+                null
+              ],
+              [
+                "TP588874",
+                "1998-12-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1000000.0"
+              ],
+              [
+                "TP588875",
+                "1998-12-01",
+                "ASSIGNMENT",
+                "1000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954970973884378,
@@ -44,7 +84,21 @@
         1106131836,
         null,
         "12 TAI TAN",
-        []
+        [
+          [
+            "DD292 478",
+            "New Grant Lot",
+            "C1864766",
+            [
+              [
+                "13040200960029",
+                "2001-12-18",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954948182980905,
@@ -63,7 +117,21 @@
         1106131871,
         null,
         "12C TAI TAN",
-        []
+        [
+          [
+            "DD292 476",
+            "New Grant Lot",
+            "C6394490",
+            [
+              [
+                "12120301300073",
+                "2012-11-22",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954938956151291,
@@ -82,7 +150,45 @@
         1106131879,
         null,
         "12B TAI TAN",
-        []
+        [
+          [
+            "DD292 475",
+            "New Grant Lot",
+            "C6197731",
+            [
+              [
+                "TP268263",
+                "1986-11-03",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "TP278509",
+                "1987-09-10",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "TP278508",
+                "1987-10-06",
+                "POWER OF ATTORNEY BY LAU TING FOOK",
+                null
+              ],
+              [
+                "TP278510",
+                "1988-01-27",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "TP278511",
+                "1988-01-27",
+                "UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954929788606766,
@@ -101,7 +207,27 @@
         1106131897,
         null,
         "12A TAI TAN",
-        []
+        [
+          [
+            "DD292 474",
+            "New Grant Lot",
+            "C1864759",
+            [
+              [
+                "TP502597",
+                "1996-09-20",
+                "PROBATE",
+                null
+              ],
+              [
+                "TP567328",
+                "1998-03-25",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.995491179696684,
@@ -120,7 +246,33 @@
         1106131969,
         null,
         "11 TAI TAN",
-        []
+        [
+          [
+            "DD292 448 S.A",
+            "New Grant Lot",
+            "D1176462",
+            [
+              [
+                "TP555591",
+                "1997-11-19",
+                "ASSIGNMENT",
+                "300000.0"
+              ],
+              [
+                "15010802210015",
+                "2014-07-18",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "17031701810085",
+                "2017-02-08",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954783741514737,
@@ -139,7 +291,52 @@
         1106131977,
         null,
         "10 TAI TAN",
-        []
+        [
+          [
+            "DD292 448 RP",
+            "New Grant Lot",
+            "D1176456",
+            [
+              [
+                "TP555591",
+                "1997-11-19",
+                "ASSIGNMENT",
+                "300000.0"
+              ],
+              [
+                "08052602430209",
+                "2008-05-09",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD292 448 S.A",
+            "New Grant Lot",
+            "D1176462",
+            [
+              [
+                "TP555591",
+                "1997-11-19",
+                "ASSIGNMENT",
+                "300000.0"
+              ],
+              [
+                "15010802210015",
+                "2014-07-18",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "17031701810085",
+                "2017-02-08",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954779265604385,
@@ -158,7 +355,45 @@
         1106131988,
         null,
         "9 TAI TAN",
-        []
+        [
+          [
+            "DD292 75 RP",
+            "Old Schedule Lot",
+            "D1171186",
+            [
+              [
+                "TP142182",
+                "1960-09-02",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TP170817",
+                "1972-05-16",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "07053000790013",
+                "2006-11-02",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF LI SZ I TSO",
+                null
+              ],
+              [
+                "07053000790026",
+                "2007-05-11",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF LI SZ I TSO",
+                null
+              ],
+              [
+                "09072401530026",
+                "2009-07-16",
+                "CONSENT LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954771829673985,
@@ -177,7 +412,81 @@
         1106132039,
         null,
         "3 TAI TAN",
-        []
+        [
+          [
+            "DD292 71",
+            "Old Schedule Lot",
+            "C1862492",
+            [
+              [
+                "TP113522",
+                "1941-11-10",
+                "-",
+                null
+              ],
+              [
+                "TP178985",
+                "1974-11-20",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TP180527",
+                "1975-06-09",
+                "-",
+                null
+              ],
+              [
+                "TP194841",
+                "1979-04-12",
+                "CONVEYANCE ON SALE",
+                "395000.0"
+              ],
+              [
+                "TP197610",
+                "1979-10-23",
+                "CONVEYANCE ON SALE",
+                "395000.0"
+              ],
+              [
+                "TP197799",
+                "1979-11-14",
+                "BUILDING MORTGAGE",
+                "850000.0"
+              ],
+              [
+                "TP199004",
+                "1980-03-10",
+                "DEED OF VARIATION",
+                null
+              ],
+              [
+                "TP199507",
+                "1980-04-29",
+                "BUILDING FURTHER CHARGE",
+                "300000.0"
+              ],
+              [
+                "TP199434",
+                "1980-05-26",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TP199435",
+                "1980-05-26",
+                "DEED OF RATIFICATION",
+                null
+              ],
+              [
+                "TP199895",
+                "1980-07-16",
+                "SEPARATE REASSIGNMENT",
+                "1150000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954816638868769,
@@ -196,7 +505,81 @@
         1106132044,
         null,
         "2 TAI TAN",
-        []
+        [
+          [
+            "DD292 71",
+            "Old Schedule Lot",
+            "C1862492",
+            [
+              [
+                "TP113522",
+                "1941-11-10",
+                "-",
+                null
+              ],
+              [
+                "TP178985",
+                "1974-11-20",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TP180527",
+                "1975-06-09",
+                "-",
+                null
+              ],
+              [
+                "TP194841",
+                "1979-04-12",
+                "CONVEYANCE ON SALE",
+                "395000.0"
+              ],
+              [
+                "TP197610",
+                "1979-10-23",
+                "CONVEYANCE ON SALE",
+                "395000.0"
+              ],
+              [
+                "TP197799",
+                "1979-11-14",
+                "BUILDING MORTGAGE",
+                "850000.0"
+              ],
+              [
+                "TP199004",
+                "1980-03-10",
+                "DEED OF VARIATION",
+                null
+              ],
+              [
+                "TP199507",
+                "1980-04-29",
+                "BUILDING FURTHER CHARGE",
+                "300000.0"
+              ],
+              [
+                "TP199434",
+                "1980-05-26",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TP199435",
+                "1980-05-26",
+                "DEED OF RATIFICATION",
+                null
+              ],
+              [
+                "TP199895",
+                "1980-07-16",
+                "SEPARATE REASSIGNMENT",
+                "1150000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954814095244144,
@@ -215,7 +598,81 @@
         1106132052,
         null,
         "1 TAI TAN",
-        []
+        [
+          [
+            "DD292 71",
+            "Old Schedule Lot",
+            "C1862492",
+            [
+              [
+                "TP113522",
+                "1941-11-10",
+                "-",
+                null
+              ],
+              [
+                "TP178985",
+                "1974-11-20",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TP180527",
+                "1975-06-09",
+                "-",
+                null
+              ],
+              [
+                "TP194841",
+                "1979-04-12",
+                "CONVEYANCE ON SALE",
+                "395000.0"
+              ],
+              [
+                "TP197610",
+                "1979-10-23",
+                "CONVEYANCE ON SALE",
+                "395000.0"
+              ],
+              [
+                "TP197799",
+                "1979-11-14",
+                "BUILDING MORTGAGE",
+                "850000.0"
+              ],
+              [
+                "TP199004",
+                "1980-03-10",
+                "DEED OF VARIATION",
+                null
+              ],
+              [
+                "TP199507",
+                "1980-04-29",
+                "BUILDING FURTHER CHARGE",
+                "300000.0"
+              ],
+              [
+                "TP199434",
+                "1980-05-26",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TP199435",
+                "1980-05-26",
+                "DEED OF RATIFICATION",
+                null
+              ],
+              [
+                "TP199895",
+                "1980-07-16",
+                "SEPARATE REASSIGNMENT",
+                "1150000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954811618836072,
@@ -234,7 +691,69 @@
         1106132234,
         null,
         "7D TUNG SAM KEI",
-        []
+        [
+          [
+            "DD295 3",
+            "Old Schedule Lot",
+            "C5531401",
+            [
+              [
+                "TP144379",
+                "1961-06-14",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP192989",
+                "1979-01-08",
+                "-",
+                null
+              ],
+              [
+                "13041602250035",
+                "2007-03-02",
+                "PROBATE",
+                null
+              ],
+              [
+                "11011700530019",
+                "2009-06-16",
+                "PROBATE",
+                null
+              ],
+              [
+                "13051502490178",
+                "2013-04-18",
+                "PROBATE",
+                null
+              ],
+              [
+                "13072500570014",
+                "2013-07-17",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "25080800470027",
+                "2015-08-31",
+                "CERTIFIED COPY OF PROBATE",
+                null
+              ],
+              [
+                "16020300860146",
+                "2016-01-22",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "25080800470039",
+                "2025-07-31",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9956905549014161,
@@ -291,7 +810,21 @@
         1106132285,
         null,
         "7 TUNG SAM KEI",
-        []
+        [
+          [
+            "DD295 20",
+            "New Grant Lot",
+            "C5531412",
+            [
+              [
+                "11011700530019",
+                "2009-06-16",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9956874923578012,
@@ -310,7 +843,52 @@
         1106132286,
         null,
         "6 TUNG SAM KEI",
-        []
+        [
+          [
+            "DD295 20",
+            "New Grant Lot",
+            "C5531412",
+            [
+              [
+                "11011700530019",
+                "2009-06-16",
+                "PROBATE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD295 23",
+            "New Grant Lot",
+            "C4881466",
+            [
+              [
+                "TP192989",
+                "1979-01-08",
+                "-",
+                null
+              ],
+              [
+                "TP204537",
+                "1981-07-08",
+                "CONVEYANCE AS GIFT",
+                null
+              ],
+              [
+                "25080800470027",
+                "2015-08-31",
+                "CERTIFIED COPY OF PROBATE",
+                null
+              ],
+              [
+                "25080800470039",
+                "2025-07-31",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9956867658214854,
@@ -329,7 +907,100 @@
         1106132288,
         null,
         "5 TUNG SAM KEI",
-        []
+        [
+          [
+            "DD295 23",
+            "New Grant Lot",
+            "C4881466",
+            [
+              [
+                "TP192989",
+                "1979-01-08",
+                "-",
+                null
+              ],
+              [
+                "TP204537",
+                "1981-07-08",
+                "CONVEYANCE AS GIFT",
+                null
+              ],
+              [
+                "25080800470027",
+                "2015-08-31",
+                "CERTIFIED COPY OF PROBATE",
+                null
+              ],
+              [
+                "25080800470039",
+                "2025-07-31",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD295 5",
+            "Old Schedule Lot",
+            "C1872069",
+            [
+              [
+                "TP144379",
+                "1961-06-14",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP192989",
+                "1979-01-08",
+                "-",
+                null
+              ],
+              [
+                "13041602250035",
+                "2007-03-02",
+                "PROBATE",
+                null
+              ],
+              [
+                "11011700530019",
+                "2009-06-16",
+                "PROBATE",
+                null
+              ],
+              [
+                "13051502490178",
+                "2013-04-18",
+                "PROBATE",
+                null
+              ],
+              [
+                "13072500570014",
+                "2013-07-17",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "25080800470027",
+                "2015-08-31",
+                "CERTIFIED COPY OF PROBATE",
+                null
+              ],
+              [
+                "16020300860146",
+                "2016-01-22",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "25080800470039",
+                "2025-07-31",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9956861264565735,
@@ -348,7 +1019,69 @@
         1106132290,
         null,
         "4 TUNG SAM KEI",
-        []
+        [
+          [
+            "DD295 5",
+            "Old Schedule Lot",
+            "C1872069",
+            [
+              [
+                "TP144379",
+                "1961-06-14",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP192989",
+                "1979-01-08",
+                "-",
+                null
+              ],
+              [
+                "13041602250035",
+                "2007-03-02",
+                "PROBATE",
+                null
+              ],
+              [
+                "11011700530019",
+                "2009-06-16",
+                "PROBATE",
+                null
+              ],
+              [
+                "13051502490178",
+                "2013-04-18",
+                "PROBATE",
+                null
+              ],
+              [
+                "13072500570014",
+                "2013-07-17",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "25080800470027",
+                "2015-08-31",
+                "CERTIFIED COPY OF PROBATE",
+                null
+              ],
+              [
+                "16020300860146",
+                "2016-01-22",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "25080800470039",
+                "2025-07-31",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9956854992987603,
@@ -367,7 +1100,69 @@
         1106132291,
         null,
         "3 TUNG SAM KEI",
-        []
+        [
+          [
+            "DD295 5",
+            "Old Schedule Lot",
+            "C1872069",
+            [
+              [
+                "TP144379",
+                "1961-06-14",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP192989",
+                "1979-01-08",
+                "-",
+                null
+              ],
+              [
+                "13041602250035",
+                "2007-03-02",
+                "PROBATE",
+                null
+              ],
+              [
+                "11011700530019",
+                "2009-06-16",
+                "PROBATE",
+                null
+              ],
+              [
+                "13051502490178",
+                "2013-04-18",
+                "PROBATE",
+                null
+              ],
+              [
+                "13072500570014",
+                "2013-07-17",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "25080800470027",
+                "2015-08-31",
+                "CERTIFIED COPY OF PROBATE",
+                null
+              ],
+              [
+                "16020300860146",
+                "2016-01-22",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "25080800470039",
+                "2025-07-31",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9956848723347003,
@@ -386,7 +1181,58 @@
         1106132293,
         null,
         "2 TUNG SAM KEI",
-        []
+        [
+          [
+            "DD295 16 &EXT",
+            "New Grant Lot",
+            "C1872108",
+            [
+              [
+                "TP142884",
+                "1960-11-02",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "TP192989",
+                "1979-01-08",
+                "-",
+                null
+              ],
+              [
+                "TP204647",
+                "1981-07-08",
+                "CONVEYANCE AS GIFT",
+                null
+              ],
+              [
+                "13051502490178",
+                "2013-04-18",
+                "PROBATE",
+                null
+              ],
+              [
+                "13072500570014",
+                "2013-07-17",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD295 22",
+            "New Grant Lot",
+            "C5871718",
+            [
+              [
+                "16020300860146",
+                "2016-01-22",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.995684226747905,
@@ -405,7 +1251,21 @@
         1106132295,
         null,
         "1 TUNG SAM KEI",
-        []
+        [
+          [
+            "DD295 22",
+            "New Grant Lot",
+            "C5871718",
+            [
+              [
+                "16020300860146",
+                "2016-01-22",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.995683498101931,
@@ -424,7 +1284,14 @@
         1106132401,
         null,
         "10 TUNG SAM KEI",
-        []
+        [
+          [
+            "DD295 29",
+            "New Grant Lot",
+            "C1872132",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9956979051381376,
@@ -443,7 +1310,33 @@
         1106132406,
         null,
         "8 TUNG SAM KEI",
-        []
+        [
+          [
+            "DD295 28",
+            "New Grant Lot",
+            "C1872120",
+            [
+              [
+                "TP209633",
+                "1982-07-26",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TP209635",
+                "1982-08-13",
+                "RECTIFICATION AGREEMENT",
+                null
+              ],
+              [
+                "TP317939",
+                "1990-02-26",
+                "DEED OF RECTIFICATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9956965424906061,
@@ -462,7 +1355,27 @@
         1106132451,
         null,
         "9A TUNG SAM KEI",
-        []
+        [
+          [
+            "DD295 30",
+            "New Grant Lot",
+            "C1872147",
+            [
+              [
+                "TP269553",
+                "1987-07-10",
+                "LETTER OF TOLERATION",
+                null
+              ],
+              [
+                "25080800470027",
+                "2015-08-31",
+                "CERTIFIED COPY OF PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9956884495033298,
@@ -519,7 +1432,51 @@
         1106132766,
         null,
         null,
-        []
+        [
+          [
+            "DD292 455",
+            "New Grant Lot",
+            "C1864678",
+            [
+              [
+                "TP186205",
+                "1977-05-25",
+                "MEMORANDUM OF AGREEMENT",
+                null
+              ],
+              [
+                "TP532565",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TP532564",
+                "1997-06-25",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "19082800790024",
+                "1999-07-19",
+                "CERTIFIED COPY CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ],
+              [
+                "19082800790036",
+                "2000-11-29",
+                "CERTIFIED COPY CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ],
+              [
+                "19041701150126",
+                "2019-03-21",
+                "TEMPORARY WAIVER LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9955019229205624,
@@ -823,7 +1780,106 @@
         1810009510,
         null,
         null,
-        []
+        [
+          [
+            "DD292 127 S.A",
+            "Old Schedule Lot",
+            "D1015266",
+            [
+              [
+                "07061200860056",
+                "2007-05-23",
+                "ASSIGNMENT",
+                "1950000.0"
+              ],
+              [
+                "07113002160128",
+                "2007-10-29",
+                "ASSIGNMENT",
+                "120000.0"
+              ],
+              [
+                "12122701800071",
+                "2012-12-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "12122701800059",
+                "2012-12-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "12122701800042",
+                "2012-12-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "14040701110095",
+                "2014-03-24",
+                "BUILDING LICENCE NO. 101/2010 WITH PLAN",
+                null
+              ],
+              [
+                "15063001700030",
+                "2015-06-19",
+                "BUILDING MORTGAGE",
+                "5000000.0"
+              ]
+            ]
+          ],
+          [
+            "DD292 128 S.A",
+            "Old Schedule Lot",
+            "D1015079",
+            [
+              [
+                "07061200860045",
+                "2007-05-23",
+                "ASSIGNMENT",
+                "1950000.0"
+              ],
+              [
+                "07113002160130",
+                "2007-10-29",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "12122701800059",
+                "2012-12-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "12122701800042",
+                "2012-12-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "12122701800071",
+                "2012-12-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "14040701110095",
+                "2014-03-24",
+                "BUILDING LICENCE NO. 101/2010 WITH PLAN",
+                null
+              ],
+              [
+                "15063001700030",
+                "2015-06-19",
+                "BUILDING MORTGAGE",
+                "5000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954711077107825,
@@ -842,7 +1898,251 @@
         1810014492,
         null,
         null,
-        []
+        [
+          [
+            "DD292 126",
+            "Old Schedule Lot",
+            "C1862852",
+            [
+              [
+                "TP113522",
+                "1941-11-10",
+                "-",
+                null
+              ],
+              [
+                "TP178985",
+                "1974-11-20",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TP180527",
+                "1975-06-09",
+                "-",
+                null
+              ],
+              [
+                "TP199435",
+                "1980-05-26",
+                "DEED OF RATIFICATION",
+                null
+              ],
+              [
+                "TP199434",
+                "1980-05-26",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TP211387",
+                "1982-07-12",
+                "PROBATE",
+                null
+              ],
+              [
+                "TP305652",
+                "1983-01-11",
+                "ASSENT",
+                null
+              ],
+              [
+                "TP226491",
+                "1985-01-25",
+                "LETTER OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TP312753",
+                "1989-12-29",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "TP479287",
+                "1995-03-15",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "07031201550046",
+                "2007-02-09",
+                "ASSIGNMENT",
+                "1200000.0"
+              ],
+              [
+                "07031201550021",
+                "2007-02-09",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "07031201550032",
+                "2007-02-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1200000.0"
+              ],
+              [
+                "07042402240052",
+                "2007-03-15",
+                "ASSIGNMENT",
+                "1693613.0"
+              ],
+              [
+                "07041702010012",
+                "2007-03-15",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1693613.0"
+              ],
+              [
+                "07042402240017",
+                "2007-03-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1129075.0"
+              ],
+              [
+                "07042402240026",
+                "2007-03-30",
+                "ASSIGNMENT",
+                "1129075.0"
+              ],
+              [
+                "07113002160113",
+                "2007-10-29",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "12122701800059",
+                "2012-12-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "12122701800071",
+                "2012-12-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "12122701800061",
+                "2012-12-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "14040801420173",
+                "2014-03-21",
+                "BUILDING LICENCE NO. 102/2010 WITH PLAN",
+                null
+              ],
+              [
+                "15063001700045",
+                "2015-06-19",
+                "BUILDING MORTGAGE",
+                "5000000.0"
+              ]
+            ]
+          ],
+          [
+            "DD292 127 RP",
+            "Old Schedule Lot",
+            "D1015272",
+            [
+              [
+                "07061200860056",
+                "2007-05-23",
+                "ASSIGNMENT",
+                "1950000.0"
+              ],
+              [
+                "07113002160104",
+                "2007-10-29",
+                "ASSIGNMENT",
+                "120000.0"
+              ],
+              [
+                "12122701800061",
+                "2012-12-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "12122701800059",
+                "2012-12-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "12122701800071",
+                "2012-12-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "14040801420173",
+                "2014-03-21",
+                "BUILDING LICENCE NO. 102/2010 WITH PLAN",
+                null
+              ],
+              [
+                "15063001700045",
+                "2015-06-19",
+                "BUILDING MORTGAGE",
+                "5000000.0"
+              ]
+            ]
+          ],
+          [
+            "DD292 129 S.B",
+            "Old Schedule Lot",
+            "D1015154",
+            [
+              [
+                "07061200860045",
+                "2007-05-23",
+                "ASSIGNMENT",
+                "1950000.0"
+              ],
+              [
+                "07113002160090",
+                "2007-10-29",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "12122701800059",
+                "2012-12-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "12122701800071",
+                "2012-12-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "12122701800061",
+                "2012-12-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "14040801420173",
+                "2014-03-21",
+                "BUILDING LICENCE NO. 102/2010 WITH PLAN",
+                null
+              ],
+              [
+                "15063001700045",
+                "2015-06-19",
+                "BUILDING MORTGAGE",
+                "5000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.995472159198953,
@@ -861,7 +2161,180 @@
         1810014730,
         null,
         null,
-        []
+        [
+          [
+            "DD292 123 S.A",
+            "Old Schedule Lot",
+            "D1009004",
+            [
+              [
+                "07031201550046",
+                "2007-02-09",
+                "ASSIGNMENT",
+                "1200000.0"
+              ],
+              [
+                "07042402240052",
+                "2007-03-15",
+                "ASSIGNMENT",
+                "1693613.0"
+              ],
+              [
+                "07042402240026",
+                "2007-03-30",
+                "ASSIGNMENT",
+                "1129075.0"
+              ],
+              [
+                "07113002160081",
+                "2007-10-29",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "12122701800071",
+                "2012-12-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "14042502010017",
+                "2014-04-01",
+                "BUILDING LICENCE NO. 103/2010 WITH PLAN",
+                null
+              ],
+              [
+                "15063001700050",
+                "2015-06-19",
+                "BUILDING MORTGAGE",
+                "5000000.0"
+              ]
+            ]
+          ],
+          [
+            "DD292 124 S.A",
+            "Old Schedule Lot",
+            "D1009164",
+            [
+              [
+                "07041601180084",
+                "2007-03-27",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07041601180093",
+                "2007-03-31",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07101002070028",
+                "2007-09-21",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "07113002160081",
+                "2007-10-29",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "12122701800071",
+                "2012-12-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "14042502010017",
+                "2014-04-01",
+                "BUILDING LICENCE NO. 103/2010 WITH PLAN",
+                null
+              ],
+              [
+                "15063001700050",
+                "2015-06-19",
+                "BUILDING MORTGAGE",
+                "5000000.0"
+              ]
+            ]
+          ],
+          [
+            "DD292 125 S.B",
+            "Old Schedule Lot",
+            "D1015111",
+            [
+              [
+                "07061200860045",
+                "2007-05-23",
+                "ASSIGNMENT",
+                "1950000.0"
+              ],
+              [
+                "07113002160072",
+                "2007-10-29",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "12122701800071",
+                "2012-12-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "14042502010017",
+                "2014-04-01",
+                "BUILDING LICENCE NO. 103/2010 WITH PLAN",
+                null
+              ],
+              [
+                "15063001700050",
+                "2015-06-19",
+                "BUILDING MORTGAGE",
+                "5000000.0"
+              ]
+            ]
+          ],
+          [
+            "DD292 129 S.C",
+            "Old Schedule Lot",
+            "D1015160",
+            [
+              [
+                "07061200860045",
+                "2007-05-23",
+                "ASSIGNMENT",
+                "1950000.0"
+              ],
+              [
+                "07113002160072",
+                "2007-10-29",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "12122701800071",
+                "2012-12-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "14042502010017",
+                "2014-04-01",
+                "BUILDING LICENCE NO. 103/2010 WITH PLAN",
+                null
+              ],
+              [
+                "15063001700050",
+                "2015-06-19",
+                "BUILDING MORTGAGE",
+                "5000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954736386008547,
@@ -880,7 +2353,155 @@
         1810014731,
         null,
         null,
-        []
+        [
+          [
+            "DD292 122 S.B",
+            "Old Schedule Lot",
+            "D1008970",
+            [
+              [
+                "07031201550046",
+                "2007-02-09",
+                "ASSIGNMENT",
+                "1200000.0"
+              ],
+              [
+                "07042402240052",
+                "2007-03-15",
+                "ASSIGNMENT",
+                "1693613.0"
+              ],
+              [
+                "07042402240026",
+                "2007-03-30",
+                "ASSIGNMENT",
+                "1129075.0"
+              ],
+              [
+                "07081701300083",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "14042502010025",
+                "2014-04-02",
+                "BUILDING LICENCE NO. 104/2010 WITH PLAN",
+                null
+              ],
+              [
+                "15063001700067",
+                "2015-06-19",
+                "BUILDING MORTGAGE",
+                "5000000.0"
+              ],
+              [
+                "21120600700027",
+                "2021-12-02",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD292 123 S.B",
+            "Old Schedule Lot",
+            "D1009030",
+            [
+              [
+                "07031201550046",
+                "2007-02-09",
+                "ASSIGNMENT",
+                "1200000.0"
+              ],
+              [
+                "07042402240052",
+                "2007-03-15",
+                "ASSIGNMENT",
+                "1693613.0"
+              ],
+              [
+                "07042402240026",
+                "2007-03-30",
+                "ASSIGNMENT",
+                "1129075.0"
+              ],
+              [
+                "07081701300083",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "14042502010025",
+                "2014-04-02",
+                "BUILDING LICENCE NO. 104/2010 WITH PLAN",
+                null
+              ],
+              [
+                "15063001700067",
+                "2015-06-19",
+                "BUILDING MORTGAGE",
+                "5000000.0"
+              ],
+              [
+                "21120600700027",
+                "2021-12-02",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD292 124 RP",
+            "Old Schedule Lot",
+            "D1009174",
+            [
+              [
+                "07041601180084",
+                "2007-03-27",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07041601180093",
+                "2007-03-31",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07081701300083",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "07101002070028",
+                "2007-09-21",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "14042502010025",
+                "2014-04-02",
+                "BUILDING LICENCE NO. 104/2010 WITH PLAN",
+                null
+              ],
+              [
+                "15063001700067",
+                "2015-06-19",
+                "BUILDING MORTGAGE",
+                "5000000.0"
+              ],
+              [
+                "21120600700027",
+                "2021-12-02",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.995474469115202,
@@ -899,7 +2520,395 @@
         1810016209,
         null,
         null,
-        []
+        [
+          [
+            "DD292 104 S.B",
+            "Old Schedule Lot",
+            "D1009072",
+            [
+              [
+                "07041601180084",
+                "2007-03-27",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07041601180093",
+                "2007-03-31",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07081701300094",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "07101002070028",
+                "2007-09-21",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "11042901180180",
+                "2011-03-28",
+                "BUILDING LICENCE NO. 107/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710100",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16051302070027",
+                "2016-02-01",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "17011701950017",
+                "2016-09-15",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "17012602100049",
+                "2017-01-10",
+                "RELEASE",
+                null
+              ],
+              [
+                "17012602100058",
+                "2017-01-19",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19122301930038",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "23101301560029",
+                "2023-10-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "15000000.0"
+              ],
+              [
+                "24031801070013",
+                "2024-03-14",
+                "CONFIRMATORY AND CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "24052001840017",
+                "2024-05-09",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "24081301790032",
+                "2024-07-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "15000000.0"
+              ],
+              [
+                "24091302090014",
+                "2024-08-30",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "24091302090022",
+                "2024-08-30",
+                "ASSIGNMENT",
+                "15000000.0"
+              ]
+            ]
+          ],
+          [
+            "DD292 119 S.A",
+            "Old Schedule Lot",
+            "D1008915",
+            [
+              [
+                "07031201550021",
+                "2007-02-09",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "07031201550046",
+                "2007-02-09",
+                "ASSIGNMENT",
+                "1200000.0"
+              ],
+              [
+                "07042402240052",
+                "2007-03-15",
+                "ASSIGNMENT",
+                "1693613.0"
+              ],
+              [
+                "07042402240026",
+                "2007-03-30",
+                "ASSIGNMENT",
+                "1129075.0"
+              ],
+              [
+                "07081701300094",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11042901180180",
+                "2011-03-28",
+                "BUILDING LICENCE NO. 107/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710100",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16051302070027",
+                "2016-02-01",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "17011701950017",
+                "2016-09-15",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "17012602100049",
+                "2017-01-10",
+                "RELEASE",
+                null
+              ],
+              [
+                "17012602100058",
+                "2017-01-19",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19122301930038",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "23101301560029",
+                "2023-10-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "15000000.0"
+              ],
+              [
+                "24031801070013",
+                "2024-03-14",
+                "CONFIRMATORY AND CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "24052001840017",
+                "2024-05-09",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "24081301790032",
+                "2024-07-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "15000000.0"
+              ],
+              [
+                "24091302090022",
+                "2024-08-30",
+                "ASSIGNMENT",
+                "15000000.0"
+              ],
+              [
+                "24091302090014",
+                "2024-08-30",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ],
+          [
+            "DD292 120 RP",
+            "Old Schedule Lot",
+            "D1009145",
+            [
+              [
+                "07041601180084",
+                "2007-03-27",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07041601180093",
+                "2007-03-31",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07081701300094",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "07101002070028",
+                "2007-09-21",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "11042901180180",
+                "2011-03-28",
+                "BUILDING LICENCE NO. 107/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710100",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16051302070027",
+                "2016-02-01",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "17011701950017",
+                "2016-09-15",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "17012602100049",
+                "2017-01-10",
+                "RELEASE",
+                null
+              ],
+              [
+                "17012602100058",
+                "2017-01-19",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930038",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "23101301560029",
+                "2023-10-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "15000000.0"
+              ],
+              [
+                "24031801070013",
+                "2024-03-14",
+                "CONFIRMATORY AND CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "24052001840017",
+                "2024-05-09",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "24081301790032",
+                "2024-07-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "15000000.0"
+              ],
+              [
+                "24091302090014",
+                "2024-08-30",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "24091302090022",
+                "2024-08-30",
+                "ASSIGNMENT",
+                "15000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954796418429557,
@@ -918,7 +2927,461 @@
         1810016210,
         null,
         null,
-        []
+        [
+          [
+            "DD292 104 S.C",
+            "Old Schedule Lot",
+            "D1009084",
+            [
+              [
+                "07041601180084",
+                "2007-03-27",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07041601180093",
+                "2007-03-31",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07081701300100",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "07101002070028",
+                "2007-09-21",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "11051202240047",
+                "2011-04-12",
+                "BUILDING LICENCE NO. 108/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710033",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16101301310033",
+                "2016-08-11",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "17091501360106",
+                "2017-07-18",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "17090502090040",
+                "2017-08-10",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "17090502090036",
+                "2017-08-10",
+                "RELEASE",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930045",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "20040301980055",
+                "2020-03-04",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "23000000.0"
+              ],
+              [
+                "20050501070051",
+                "2020-04-06",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEY"
+              ],
+              [
+                "20052500750022",
+                "2020-04-06",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "20050501070064",
+                "2020-04-06",
+                "ASSIGNMENT WITH PLAN",
+                "23000000.0"
+              ],
+              [
+                "20071700190162",
+                "2020-06-26",
+                "SECOND LEGAL CHARGE",
+                "2500000.0"
+              ],
+              [
+                "20072401490012",
+                "2020-07-22",
+                "SEALED COPY WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "20110601300051",
+                "2020-09-29",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "21063002620038",
+                "2021-02-17",
+                "SEALED COPY WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "23050500860042",
+                "2023-03-15",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "23120601870066",
+                "2023-10-05",
+                "THIRD MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ],
+          [
+            "DD292 118 S.A",
+            "Old Schedule Lot",
+            "D1009091",
+            [
+              [
+                "07041601180084",
+                "2007-03-27",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07041601180093",
+                "2007-03-31",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07081701300100",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "07101002070028",
+                "2007-09-21",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "11051202240047",
+                "2011-04-12",
+                "BUILDING LICENCE NO. 108/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710033",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16101301310033",
+                "2016-08-11",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "17091501360106",
+                "2017-07-18",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "17090502090040",
+                "2017-08-10",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "17090502090036",
+                "2017-08-10",
+                "RELEASE",
+                null
+              ],
+              [
+                "19122301930045",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "20040301980055",
+                "2020-03-04",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "23000000.0"
+              ],
+              [
+                "20050501070051",
+                "2020-04-06",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEY"
+              ],
+              [
+                "20050501070064",
+                "2020-04-06",
+                "ASSIGNMENT WITH PLAN",
+                "23000000.0"
+              ],
+              [
+                "20052500750022",
+                "2020-04-06",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "20071700190162",
+                "2020-06-26",
+                "SECOND LEGAL CHARGE",
+                "2500000.0"
+              ],
+              [
+                "20072401490012",
+                "2020-07-22",
+                "SEALED COPY WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "20110601300051",
+                "2020-09-29",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "21063002620038",
+                "2021-02-17",
+                "SEALED COPY WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "23050500860042",
+                "2023-03-15",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "23120601870066",
+                "2023-10-05",
+                "THIRD MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ],
+          [
+            "DD292 119 S.B",
+            "Old Schedule Lot",
+            "D1008925",
+            [
+              [
+                "07031201550046",
+                "2007-02-09",
+                "ASSIGNMENT",
+                "1200000.0"
+              ],
+              [
+                "07031201550021",
+                "2007-02-09",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "07042402240052",
+                "2007-03-15",
+                "ASSIGNMENT",
+                "1693613.0"
+              ],
+              [
+                "07042402240026",
+                "2007-03-30",
+                "ASSIGNMENT",
+                "1129075.0"
+              ],
+              [
+                "07081701300100",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11051202240047",
+                "2011-04-12",
+                "BUILDING LICENCE NO. 108/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710033",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16101301310033",
+                "2016-08-11",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "17091501360106",
+                "2017-07-18",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "17090502090040",
+                "2017-08-10",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "17090502090036",
+                "2017-08-10",
+                "RELEASE",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930045",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "20040301980055",
+                "2020-03-04",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "23000000.0"
+              ],
+              [
+                "20050501070051",
+                "2020-04-06",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEY"
+              ],
+              [
+                "20052500750022",
+                "2020-04-06",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "20050501070064",
+                "2020-04-06",
+                "ASSIGNMENT WITH PLAN",
+                "23000000.0"
+              ],
+              [
+                "20071700190162",
+                "2020-06-26",
+                "SECOND LEGAL CHARGE",
+                "2500000.0"
+              ],
+              [
+                "20072401490012",
+                "2020-07-22",
+                "SEALED COPY WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "21063002620038",
+                "2021-02-17",
+                "SEALED COPY WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "23050500860042",
+                "2023-03-15",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "23120601870066",
+                "2023-10-05",
+                "THIRD MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954804708788951,
@@ -937,7 +3400,631 @@
         1810016211,
         null,
         null,
-        []
+        [
+          [
+            "DD292 104 RP",
+            "Old Schedule Lot",
+            "D1009050",
+            [
+              [
+                "07041601180084",
+                "2007-03-27",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07041601180093",
+                "2007-03-31",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07081701300052",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "07101002070028",
+                "2007-09-21",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "11051202240051",
+                "2011-04-12",
+                "BUILDING LICENCE NO. 109/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710042",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16051302070065",
+                "2016-03-02",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16110402120066",
+                "2016-09-15",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "16112902050095",
+                "2016-10-14",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "16112902050067",
+                "2016-10-14",
+                "RELEASE",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930058",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21121001440020",
+                "2020-10-15",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "21061701160015",
+                "2021-06-07",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "23051902350031",
+                "2023-04-25",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "18000000.0"
+              ],
+              [
+                "23060902440092",
+                "2023-05-25",
+                "ASSIGNMENT WITH PLAN",
+                "18000000.0"
+              ],
+              [
+                "23071400810079",
+                "2023-07-07",
+                "RENTAL ASSIGNMENT",
+                null
+              ],
+              [
+                "23071400810065",
+                "2023-07-07",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ],
+          [
+            "DD292 105 S.B",
+            "Old Schedule Lot",
+            "D1008726",
+            [
+              [
+                "07031201550046",
+                "2007-02-09",
+                "ASSIGNMENT",
+                "1200000.0"
+              ],
+              [
+                "07042402240052",
+                "2007-03-15",
+                "ASSIGNMENT",
+                "1693613.0"
+              ],
+              [
+                "07042402240026",
+                "2007-03-30",
+                "ASSIGNMENT",
+                "1129075.0"
+              ],
+              [
+                "07081701300052",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11051202240051",
+                "2011-04-12",
+                "BUILDING LICENCE NO. 109/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710042",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16051302070065",
+                "2016-03-02",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16110402120066",
+                "2016-09-15",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "16112902050095",
+                "2016-10-14",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "16112902050067",
+                "2016-10-14",
+                "RELEASE",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930058",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21121001440020",
+                "2020-10-15",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "23051902350031",
+                "2023-04-25",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "18000000.0"
+              ],
+              [
+                "23060902440092",
+                "2023-05-25",
+                "ASSIGNMENT WITH PLAN",
+                "18000000.0"
+              ],
+              [
+                "23071400810065",
+                "2023-07-07",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "23071400810079",
+                "2023-07-07",
+                "RENTAL ASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD292 115 S.I",
+            "Old Schedule Lot",
+            "D1169408",
+            [
+              [
+                "07120601290053",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "07120601290041",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "07120601290026",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "777200.0"
+              ],
+              [
+                "07120601290038",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "777200.0"
+              ],
+              [
+                "08050802390057",
+                "2007-12-06",
+                "ASSIGNMENT",
+                "50000.0"
+              ],
+              [
+                "11051202240051",
+                "2011-04-12",
+                "BUILDING LICENCE NO. 109/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710042",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16051302070065",
+                "2016-03-02",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16110402120066",
+                "2016-09-15",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "16112902050095",
+                "2016-10-14",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "16112902050067",
+                "2016-10-14",
+                "RELEASE",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930058",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21121001440020",
+                "2020-10-15",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "23051902350031",
+                "2023-04-25",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "18000000.0"
+              ],
+              [
+                "23060902440092",
+                "2023-05-25",
+                "ASSIGNMENT WITH PLAN",
+                "18000000.0"
+              ],
+              [
+                "23071400810079",
+                "2023-07-07",
+                "RENTAL ASSIGNMENT",
+                null
+              ],
+              [
+                "23071400810065",
+                "2023-07-07",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ],
+          [
+            "DD292 116 S.A",
+            "Old Schedule Lot",
+            "D1008905",
+            [
+              [
+                "07031201550046",
+                "2007-02-09",
+                "ASSIGNMENT",
+                "1200000.0"
+              ],
+              [
+                "07042402240052",
+                "2007-03-15",
+                "ASSIGNMENT",
+                "1693613.0"
+              ],
+              [
+                "07042402240026",
+                "2007-03-30",
+                "ASSIGNMENT",
+                "1129075.0"
+              ],
+              [
+                "07081701300052",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11051202240051",
+                "2011-04-12",
+                "BUILDING LICENCE NO. 109/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710042",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16051302070065",
+                "2016-03-02",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16110402120066",
+                "2016-09-15",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "16112902050095",
+                "2016-10-14",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "16112902050067",
+                "2016-10-14",
+                "RELEASE",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930058",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21121001440020",
+                "2020-10-15",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "23051902350031",
+                "2023-04-25",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "18000000.0"
+              ],
+              [
+                "23060902440092",
+                "2023-05-25",
+                "ASSIGNMENT WITH PLAN",
+                "18000000.0"
+              ],
+              [
+                "23071400810065",
+                "2023-07-07",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "23071400810079",
+                "2023-07-07",
+                "RENTAL ASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD292 118 S.B",
+            "Old Schedule Lot",
+            "D1009108",
+            [
+              [
+                "07041601180084",
+                "2007-03-27",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07041601180093",
+                "2007-03-31",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07081701300052",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "07101002070028",
+                "2007-09-21",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "11051202240051",
+                "2011-04-12",
+                "BUILDING LICENCE NO. 109/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710042",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16051302070065",
+                "2016-03-02",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16110402120066",
+                "2016-09-15",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "16112902050067",
+                "2016-10-14",
+                "RELEASE",
+                null
+              ],
+              [
+                "16112902050095",
+                "2016-10-14",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930058",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21121001440020",
+                "2020-10-15",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "21061701160015",
+                "2021-06-07",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "23051902350031",
+                "2023-04-25",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "18000000.0"
+              ],
+              [
+                "23060902440092",
+                "2023-05-25",
+                "ASSIGNMENT WITH PLAN",
+                "18000000.0"
+              ],
+              [
+                "23071400810079",
+                "2023-07-07",
+                "RENTAL ASSIGNMENT",
+                null
+              ],
+              [
+                "23071400810065",
+                "2023-07-07",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954817862437013,
@@ -956,7 +4043,305 @@
         1810016212,
         null,
         null,
-        []
+        [
+          [
+            "DD292 105 RP",
+            "Old Schedule Lot",
+            "D1008738",
+            [
+              [
+                "07031201550046",
+                "2007-02-09",
+                "ASSIGNMENT",
+                "1200000.0"
+              ],
+              [
+                "07042402240052",
+                "2007-03-15",
+                "ASSIGNMENT",
+                "1693613.0"
+              ],
+              [
+                "07042402240026",
+                "2007-03-30",
+                "ASSIGNMENT",
+                "1129075.0"
+              ],
+              [
+                "07081701300032",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11052001620044",
+                "2011-04-20",
+                "BUILDING LICENCE NO. 110/2010 WITH PLAN",
+                null
+              ],
+              [
+                "13032201430115",
+                "2013-03-01",
+                "PROBATE",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930069",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "20010301330044",
+                "2019-12-30",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "20010301330056",
+                "2019-12-30",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "20010301330061",
+                "2019-12-30",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21030801080035",
+                "2020-12-30",
+                "DEED OF SURRENDER",
+                null
+              ],
+              [
+                "21030801080049",
+                "2020-12-30",
+                "DEED OF SURRENDER",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD292 106 S.A",
+            "Old Schedule Lot",
+            "D1008703",
+            [
+              [
+                "07031201550046",
+                "2007-02-09",
+                "ASSIGNMENT",
+                "1200000.0"
+              ],
+              [
+                "07031201550021",
+                "2007-02-09",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "07042402240052",
+                "2007-03-15",
+                "ASSIGNMENT",
+                "1693613.0"
+              ],
+              [
+                "07042402240026",
+                "2007-03-30",
+                "ASSIGNMENT",
+                "1129075.0"
+              ],
+              [
+                "07081701300032",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11052001620044",
+                "2011-04-20",
+                "BUILDING LICENCE NO. 110/2010 WITH PLAN",
+                null
+              ],
+              [
+                "13032201430115",
+                "2013-03-01",
+                "PROBATE",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930069",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "20010301330061",
+                "2019-12-30",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "20010301330056",
+                "2019-12-30",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "20010301330044",
+                "2019-12-30",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21030801080035",
+                "2020-12-30",
+                "DEED OF SURRENDER",
+                null
+              ],
+              [
+                "21030801080049",
+                "2020-12-30",
+                "DEED OF SURRENDER",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD292 114 S.A",
+            "Old Schedule Lot",
+            "D1008818",
+            [
+              [
+                "07031201550046",
+                "2007-02-09",
+                "ASSIGNMENT",
+                "1200000.0"
+              ],
+              [
+                "07042402240052",
+                "2007-03-15",
+                "ASSIGNMENT",
+                "1693613.0"
+              ],
+              [
+                "07042402240026",
+                "2007-03-30",
+                "ASSIGNMENT",
+                "1129075.0"
+              ],
+              [
+                "07081701300032",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11052001620044",
+                "2011-04-20",
+                "BUILDING LICENCE NO. 110/2010 WITH PLAN",
+                null
+              ],
+              [
+                "13032201430115",
+                "2013-03-01",
+                "PROBATE",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930069",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "20010301330044",
+                "2019-12-30",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "20010301330061",
+                "2019-12-30",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "20010301330056",
+                "2019-12-30",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21030801080035",
+                "2020-12-30",
+                "DEED OF SURRENDER",
+                null
+              ],
+              [
+                "21030801080049",
+                "2020-12-30",
+                "DEED OF SURRENDER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954830532401204,
@@ -975,7 +4360,82 @@
         1810016269,
         null,
         null,
-        []
+        [
+          [
+            "DD292 139 S.A",
+            "Old Schedule Lot",
+            "D1015256",
+            [
+              [
+                "07061200860056",
+                "2007-05-23",
+                "ASSIGNMENT",
+                "1950000.0"
+              ],
+              [
+                "07113002160041",
+                "2007-10-29",
+                "ASSIGNMENT",
+                "120000.0"
+              ],
+              [
+                "13022801290301",
+                "2013-02-08",
+                "BUILDING LICENCE NO. 111/2010 WITH PLAN",
+                null
+              ],
+              [
+                "15063001700017",
+                "2015-06-19",
+                "BUILDING MORTGAGE",
+                "5000000.0"
+              ],
+              [
+                "23050801580025",
+                "2022-08-08",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD292 140 S.B",
+            "Old Schedule Lot",
+            "D1016986",
+            [
+              [
+                "07061200860060",
+                "2007-05-23",
+                "ASSIGNMENT",
+                "3280000.0"
+              ],
+              [
+                "07113002160033",
+                "2007-10-29",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "13022801290301",
+                "2013-02-08",
+                "BUILDING LICENCE NO. 111/2010 WITH PLAN",
+                null
+              ],
+              [
+                "15063001700017",
+                "2015-06-19",
+                "BUILDING MORTGAGE",
+                "5000000.0"
+              ],
+              [
+                "23050801580025",
+                "2022-08-08",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954717280808978,
@@ -994,7 +4454,70 @@
         1810016270,
         null,
         null,
-        []
+        [
+          [
+            "DD292 131 S.A",
+            "Old Schedule Lot",
+            "D1016943",
+            [
+              [
+                "07061200860060",
+                "2007-05-23",
+                "ASSIGNMENT",
+                "3280000.0"
+              ],
+              [
+                "07113002160014",
+                "2007-10-29",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "13022801290290",
+                "2013-02-08",
+                "BUILDING LICENCE NO. 112/2010 WITH PLAN",
+                null
+              ],
+              [
+                "15063001700027",
+                "2015-06-19",
+                "BUILDING MORTGAGE",
+                "5000000.0"
+              ]
+            ]
+          ],
+          [
+            "DD292 139 S.B",
+            "Old Schedule Lot",
+            "D1015206",
+            [
+              [
+                "07061200860056",
+                "2007-05-23",
+                "ASSIGNMENT",
+                "1950000.0"
+              ],
+              [
+                "07113002160023",
+                "2007-10-29",
+                "ASSIGNMENT",
+                "120000.0"
+              ],
+              [
+                "13022801290290",
+                "2013-02-08",
+                "BUILDING LICENCE NO. 112/2010 WITH PLAN",
+                null
+              ],
+              [
+                "15063001700027",
+                "2015-06-19",
+                "BUILDING MORTGAGE",
+                "5000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954727617456354,
@@ -1013,7 +4536,461 @@
         1810016271,
         null,
         null,
-        []
+        [
+          [
+            "DD292 115 S.A",
+            "Old Schedule Lot",
+            "D1169351",
+            [
+              [
+                "07120601290053",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "07120601290041",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "07120601290026",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "777200.0"
+              ],
+              [
+                "07120601290038",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "777200.0"
+              ],
+              [
+                "08050802390108",
+                "2007-12-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11052001620025",
+                "2011-04-28",
+                "BUILDING LICENCE NO. 113/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710057",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16020301700031",
+                "2015-11-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16081801450023",
+                "2016-06-08",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "16080302090024",
+                "2016-07-06",
+                "RELEASE",
+                null
+              ],
+              [
+                "16080302090039",
+                "2016-07-06",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19122301930076",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "20052101630012",
+                "2020-04-21",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "27000000.0"
+              ],
+              [
+                "20060201990054",
+                "2020-05-22",
+                "ASSIGNMENT WITH PLAN",
+                "27000000.0"
+              ],
+              [
+                "20060201990048",
+                "2020-05-22",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEY"
+              ],
+              [
+                "20060201990062",
+                "2020-05-22",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "20070200410050",
+                "2020-06-12",
+                "SECOND LEGAL CHARGE",
+                "4000000.0"
+              ],
+              [
+                "21030502350011",
+                "2020-12-01",
+                "THIRD LEGAL CHARGE",
+                null
+              ],
+              [
+                "21031102130028",
+                "2021-02-22",
+                "THIRD MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "21031900130224",
+                "2021-02-22",
+                "SECOND MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "21031501790019",
+                "2021-03-15",
+                "LEGAL CHARGE WITH PLAN",
+                "ALL MONEYS"
+              ],
+              [
+                "23081800530025",
+                "2023-08-02",
+                "SEALED COPY ORDER",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD292 133 S.A",
+            "Old Schedule Lot",
+            "D1169467",
+            [
+              [
+                "07120601290041",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "07120601290026",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "777200.0"
+              ],
+              [
+                "07120601290038",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "777200.0"
+              ],
+              [
+                "07120601290053",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "08050802390108",
+                "2007-12-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11052001620025",
+                "2011-04-28",
+                "BUILDING LICENCE NO. 113/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710057",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16020301700031",
+                "2015-11-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16081801450023",
+                "2016-06-08",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "16080302090024",
+                "2016-07-06",
+                "RELEASE",
+                null
+              ],
+              [
+                "16080302090039",
+                "2016-07-06",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19122301930076",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "20052101630012",
+                "2020-04-21",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "27000000.0"
+              ],
+              [
+                "20060201990048",
+                "2020-05-22",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEY"
+              ],
+              [
+                "20060201990062",
+                "2020-05-22",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "20060201990054",
+                "2020-05-22",
+                "ASSIGNMENT WITH PLAN",
+                "27000000.0"
+              ],
+              [
+                "20070200410050",
+                "2020-06-12",
+                "SECOND LEGAL CHARGE",
+                "4000000.0"
+              ],
+              [
+                "21030502350011",
+                "2020-12-01",
+                "THIRD LEGAL CHARGE",
+                null
+              ],
+              [
+                "21031102130028",
+                "2021-02-22",
+                "THIRD MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "21031900130224",
+                "2021-02-22",
+                "SECOND MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "21031501790019",
+                "2021-03-15",
+                "LEGAL CHARGE WITH PLAN",
+                "ALL MONEYS"
+              ],
+              [
+                "23081800530025",
+                "2023-08-02",
+                "SEALED COPY ORDER",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD292 134 S.A",
+            "Old Schedule Lot",
+            "D1043432",
+            [
+              [
+                "07081401910033",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "07081401910017",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "400000.0"
+              ],
+              [
+                "07081401910046",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "07081401910028",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "08050802390035",
+                "2007-12-14",
+                "ASSIGNMENT",
+                "50000.0"
+              ],
+              [
+                "11052001620025",
+                "2011-04-28",
+                "BUILDING LICENCE NO. 113/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710057",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16020301700031",
+                "2015-11-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16081801450023",
+                "2016-06-08",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "16080302090024",
+                "2016-07-06",
+                "RELEASE",
+                null
+              ],
+              [
+                "16080302090039",
+                "2016-07-06",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930076",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "20052101630012",
+                "2020-04-21",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "27000000.0"
+              ],
+              [
+                "20060201990062",
+                "2020-05-22",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "20060201990054",
+                "2020-05-22",
+                "ASSIGNMENT WITH PLAN",
+                "27000000.0"
+              ],
+              [
+                "20060201990048",
+                "2020-05-22",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEY"
+              ],
+              [
+                "20070200410050",
+                "2020-06-12",
+                "SECOND LEGAL CHARGE",
+                "4000000.0"
+              ],
+              [
+                "21030502350011",
+                "2020-12-01",
+                "THIRD LEGAL CHARGE",
+                null
+              ],
+              [
+                "21031102130028",
+                "2021-02-22",
+                "THIRD MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "21031900130224",
+                "2021-02-22",
+                "SECOND MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "21031501790019",
+                "2021-03-15",
+                "LEGAL CHARGE WITH PLAN",
+                "ALL MONEYS"
+              ],
+              [
+                "23081800530025",
+                "2023-08-02",
+                "SEALED COPY ORDER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954747651572136,
@@ -1032,7 +5009,190 @@
         1810016272,
         null,
         null,
-        []
+        [
+          [
+            "DD292 115 S.B",
+            "Old Schedule Lot",
+            "D1169367",
+            [
+              [
+                "07120601290053",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "07120601290041",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "07120601290026",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "777200.0"
+              ],
+              [
+                "07120601290038",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "777200.0"
+              ],
+              [
+                "08050802390093",
+                "2007-12-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11060303460041",
+                "2011-05-06",
+                "BUILDING LICENCE NO. 114/2010  WITH PLAN",
+                null
+              ],
+              [
+                "14051601810012",
+                "2014-05-07",
+                "BUILDING MORTGAGE",
+                "5000000.0"
+              ],
+              [
+                "16020301700047",
+                "2015-11-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16081801450031",
+                "2016-06-08",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "16080302090049",
+                "2016-07-06",
+                "RELEASE",
+                null
+              ],
+              [
+                "16080302090050",
+                "2016-07-06",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "21123000990041",
+                "2021-12-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "16000000.0"
+              ],
+              [
+                "22012401680033",
+                "2022-01-11",
+                "ASSIGNMENT",
+                "16000000.0"
+              ],
+              [
+                "22012401680028",
+                "2022-01-11",
+                "RECEIPT ON DISCHARGE",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD292 133 S.B",
+            "Old Schedule Lot",
+            "D1169481",
+            [
+              [
+                "07120601290041",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "07120601290026",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "777200.0"
+              ],
+              [
+                "07120601290038",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "777200.0"
+              ],
+              [
+                "07120601290053",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "08050802390093",
+                "2007-12-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11060303460041",
+                "2011-05-06",
+                "BUILDING LICENCE NO. 114/2010  WITH PLAN",
+                null
+              ],
+              [
+                "14051601810012",
+                "2014-05-07",
+                "BUILDING MORTGAGE",
+                "5000000.0"
+              ],
+              [
+                "16020301700047",
+                "2015-11-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16081801450031",
+                "2016-06-08",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "16080302090049",
+                "2016-07-06",
+                "RELEASE",
+                null
+              ],
+              [
+                "16080302090050",
+                "2016-07-06",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "21123000990041",
+                "2021-12-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "16000000.0"
+              ],
+              [
+                "22012401680028",
+                "2022-01-11",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "22012401680033",
+                "2022-01-11",
+                "ASSIGNMENT",
+                "16000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.995476275074268,
@@ -1051,7 +5211,238 @@
         1810016273,
         null,
         null,
-        []
+        [
+          [
+            "DD292 115 S.E",
+            "Old Schedule Lot",
+            "D1169386",
+            [
+              [
+                "07120601290038",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "777200.0"
+              ],
+              [
+                "07120601290041",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "07120601290026",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "777200.0"
+              ],
+              [
+                "07120601290053",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "08050802390071",
+                "2007-12-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11060303460055",
+                "2011-05-06",
+                "BUILDING LICENCE NO. 115/2010  WITH PLAN",
+                null
+              ],
+              [
+                "14050901710062",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16051302070046",
+                "2016-03-02",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16110402120076",
+                "2016-09-15",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "16112902050055",
+                "2016-10-14",
+                "RELEASE",
+                null
+              ],
+              [
+                "16112902050073",
+                "2016-10-14",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930083",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21022300880033",
+                "2021-02-08",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "20000000.0"
+              ],
+              [
+                "21042101220028",
+                "2021-04-01",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "21042101220041",
+                "2021-04-01",
+                "ASSIGNMENT WITH PLAN",
+                "20000000.0"
+              ],
+              [
+                "21042101220038",
+                "2021-04-01",
+                "RECEIPT ON DISCHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ],
+          [
+            "DD292 116 S.D",
+            "Old Schedule Lot",
+            "D1008890",
+            [
+              [
+                "07031201550046",
+                "2007-02-09",
+                "ASSIGNMENT",
+                "1200000.0"
+              ],
+              [
+                "07042402240052",
+                "2007-03-15",
+                "ASSIGNMENT",
+                "1693613.0"
+              ],
+              [
+                "07042402240026",
+                "2007-03-30",
+                "ASSIGNMENT",
+                "1129075.0"
+              ],
+              [
+                "08050802390071",
+                "2007-12-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11060303460055",
+                "2011-05-06",
+                "BUILDING LICENCE NO. 115/2010  WITH PLAN",
+                null
+              ],
+              [
+                "14050901710062",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16051302070046",
+                "2016-03-02",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16110402120076",
+                "2016-09-15",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "16112902050055",
+                "2016-10-14",
+                "RELEASE",
+                null
+              ],
+              [
+                "16112902050073",
+                "2016-10-14",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19122301930083",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21022300880033",
+                "2021-02-08",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "20000000.0"
+              ],
+              [
+                "21042101220028",
+                "2021-04-01",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "21042101220038",
+                "2021-04-01",
+                "RECEIPT ON DISCHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "21042101220041",
+                "2021-04-01",
+                "ASSIGNMENT WITH PLAN",
+                "20000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954790932030129,
@@ -1070,7 +5461,172 @@
         1810016274,
         null,
         "63 TAI TAN",
-        []
+        [
+          [
+            "DD292 114 S.D",
+            "Old Schedule Lot",
+            "D1008842",
+            [
+              [
+                "07031201550046",
+                "2007-02-09",
+                "ASSIGNMENT",
+                "1200000.0"
+              ],
+              [
+                "07042402240052",
+                "2007-03-15",
+                "ASSIGNMENT",
+                "1693613.0"
+              ],
+              [
+                "07042402240026",
+                "2007-03-30",
+                "ASSIGNMENT",
+                "1129075.0"
+              ],
+              [
+                "08050802390066",
+                "2007-12-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11051600930032",
+                "2011-04-27",
+                "BUILDING LICENCE NO. 116/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710074",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16091302070035",
+                "2016-06-13",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "17091501360110",
+                "2017-07-18",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "17090502090061",
+                "2017-08-10",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "17090502090056",
+                "2017-08-10",
+                "RELEASE",
+                null
+              ],
+              [
+                "23071402210020",
+                "2019-09-03",
+                "A SEALED COPY OF DEBTOR'S BANKRUPTCY ORDER",
+                null
+              ],
+              [
+                "25011301890018",
+                "2025-01-08",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ],
+          [
+            "DD292 115 S.F",
+            "Old Schedule Lot",
+            "D1169338",
+            [
+              [
+                "07120601290053",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "07120601290041",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "07120601290026",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "777200.0"
+              ],
+              [
+                "07120601290038",
+                "2007-11-26",
+                "ASSIGNMENT",
+                "777200.0"
+              ],
+              [
+                "08050802390066",
+                "2007-12-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11051600930032",
+                "2011-04-27",
+                "BUILDING LICENCE NO. 116/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710074",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16091302070035",
+                "2016-06-13",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "17091501360110",
+                "2017-07-18",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "17090502090061",
+                "2017-08-10",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "17090502090056",
+                "2017-08-10",
+                "RELEASE",
+                null
+              ],
+              [
+                "23071402210020",
+                "2019-09-03",
+                "A SEALED COPY OF DEBTOR'S BANKRUPTCY ORDER",
+                null
+              ],
+              [
+                "25011301890018",
+                "2025-01-08",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954805292715674,
@@ -1089,7 +5645,256 @@
         1810016275,
         null,
         null,
-        []
+        [
+          [
+            "DD292 107 S.B",
+            "Old Schedule Lot",
+            "D1008805",
+            [
+              [
+                "07031201550046",
+                "2007-02-09",
+                "ASSIGNMENT",
+                "1200000.0"
+              ],
+              [
+                "07042402240052",
+                "2007-03-15",
+                "ASSIGNMENT",
+                "1693613.0"
+              ],
+              [
+                "07042402240026",
+                "2007-03-30",
+                "ASSIGNMENT",
+                "1129075.0"
+              ],
+              [
+                "07081701300065",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "08061202480013",
+                "2008-05-16",
+                "ASSIGNMENT",
+                "50000.0"
+              ],
+              [
+                "11061502080089",
+                "2011-06-02",
+                "BUILDING LICENCE WITH PLAN",
+                null
+              ],
+              [
+                "14050901710084",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16020301700050",
+                "2015-12-17",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16081801450047",
+                "2016-06-08",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "16080302090067",
+                "2016-07-06",
+                "RELEASE",
+                null
+              ],
+              [
+                "16080302090070",
+                "2016-07-06",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19122301930090",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21051200570046",
+                "2021-04-20",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "23000000.0"
+              ],
+              [
+                "23062301010018",
+                "2021-08-31",
+                "RELEASE",
+                null
+              ],
+              [
+                "21090301630037",
+                "2021-08-31",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "21090301630026",
+                "2021-08-31",
+                "ASSIGNMENT WITH PLAN",
+                "23000000.0"
+              ],
+              [
+                "21090701210048",
+                "2021-08-31",
+                "DEED OF CONSENT OF RIGHT OF WAY",
+                null
+              ],
+              [
+                "21122300870028",
+                "2021-12-22",
+                "SECOND MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ],
+          [
+            "DD292 114 RP",
+            "Old Schedule Lot",
+            "D1008858",
+            [
+              [
+                "07031201550046",
+                "2007-02-09",
+                "ASSIGNMENT",
+                "1200000.0"
+              ],
+              [
+                "07042402240052",
+                "2007-03-15",
+                "ASSIGNMENT",
+                "1693613.0"
+              ],
+              [
+                "07042402240026",
+                "2007-03-30",
+                "ASSIGNMENT",
+                "1129075.0"
+              ],
+              [
+                "08050802390040",
+                "2007-12-14",
+                "ASSIGNMENT",
+                "50000.0"
+              ],
+              [
+                "11061502080089",
+                "2011-06-02",
+                "BUILDING LICENCE WITH PLAN",
+                null
+              ],
+              [
+                "14050901710084",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16020301700050",
+                "2015-12-17",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16081801450047",
+                "2016-06-08",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "16080302090067",
+                "2016-07-06",
+                "RELEASE",
+                null
+              ],
+              [
+                "16080302090070",
+                "2016-07-06",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19122301930090",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21051200570046",
+                "2021-04-20",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "23000000.0"
+              ],
+              [
+                "21090301630037",
+                "2021-08-31",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "21090701210048",
+                "2021-08-31",
+                "DEED OF CONSENT OF RIGHT OF WAY",
+                null
+              ],
+              [
+                "21090301630026",
+                "2021-08-31",
+                "ASSIGNMENT WITH PLAN",
+                "23000000.0"
+              ],
+              [
+                "23062301010018",
+                "2021-08-31",
+                "RELEASE",
+                null
+              ],
+              [
+                "21122300870028",
+                "2021-12-22",
+                "SECOND MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954819736004863,
@@ -1108,7 +5913,153 @@
         1810016276,
         null,
         "61 TAI TAN",
-        []
+        [
+          [
+            "DD292 107 S.C",
+            "Old Schedule Lot",
+            "D1008765",
+            [
+              [
+                "07031201550046",
+                "2007-02-09",
+                "ASSIGNMENT",
+                "1200000.0"
+              ],
+              [
+                "07042402240052",
+                "2007-03-15",
+                "ASSIGNMENT",
+                "1693613.0"
+              ],
+              [
+                "07042402240026",
+                "2007-03-30",
+                "ASSIGNMENT",
+                "1129075.0"
+              ],
+              [
+                "08061202480135",
+                "2008-05-16",
+                "ASSIGNMENT",
+                "50000.0"
+              ],
+              [
+                "11072602310056",
+                "2011-07-15",
+                "BUILDING LICENCE NO.118/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710090",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "15011402090014",
+                "2014-12-19",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "17012001800082",
+                "2016-10-13",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "19012502200042",
+                "2018-12-05",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "19012201230044",
+                "2019-01-04",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19012201230039",
+                "2019-01-04",
+                "RELEASE",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "20011700920030",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "20010301330061",
+                "2019-12-30",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21012201210030",
+                "2020-12-24",
+                "AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "20000000.0"
+              ],
+              [
+                "21032501680013",
+                "2021-01-29",
+                "RECEIPT ON DISCHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "21031100850021",
+                "2021-01-29",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "21022300880012",
+                "2021-01-29",
+                "ASSIGNMENT WITH PLAN",
+                "20000000.0"
+              ],
+              [
+                "21042101220013",
+                "2021-04-01",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "21090101650806",
+                "2021-08-04",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "21090101650814",
+                "2021-08-04",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954834183254497,
@@ -1127,7 +6078,383 @@
         1810016649,
         null,
         null,
-        []
+        [
+          [
+            "DD292 120 S.B",
+            "Old Schedule Lot",
+            "D1009127",
+            [
+              [
+                "07041601180084",
+                "2007-03-27",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07041601180093",
+                "2007-03-31",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07081701300073",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "07101002070028",
+                "2007-09-21",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "11052001620017",
+                "2011-04-29",
+                "BUILDING LICENCE NO. 105/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710015",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16101301310027",
+                "2016-08-11",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "17091501360096",
+                "2017-07-18",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "17090502090021",
+                "2017-08-10",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "17090502090012",
+                "2017-08-10",
+                "RELEASE",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930010",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21033001650010",
+                "2021-03-04",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "17000000.0"
+              ],
+              [
+                "21061701160015",
+                "2021-06-07",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "22012401650032",
+                "2022-01-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "22012602100018",
+                "2022-01-06",
+                "ASSIGNMENT WITH PLAN",
+                "17000000.0"
+              ],
+              [
+                "22012401650021",
+                "2022-01-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "22011401900022",
+                "2022-01-06",
+                "RELEASE",
+                "ALL MONEYS"
+              ]
+            ]
+          ],
+          [
+            "DD292 122 S.C",
+            "Old Schedule Lot",
+            "D1009010",
+            [
+              [
+                "07031201550046",
+                "2007-02-09",
+                "ASSIGNMENT",
+                "1200000.0"
+              ],
+              [
+                "07042402240052",
+                "2007-03-15",
+                "ASSIGNMENT",
+                "1693613.0"
+              ],
+              [
+                "07042402240026",
+                "2007-03-30",
+                "ASSIGNMENT",
+                "1129075.0"
+              ],
+              [
+                "07081701300073",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11052001620017",
+                "2011-04-29",
+                "BUILDING LICENCE NO. 105/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710015",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16101301310027",
+                "2016-08-11",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "17091501360096",
+                "2017-07-18",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "17090502090021",
+                "2017-08-10",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "17090502090012",
+                "2017-08-10",
+                "RELEASE",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930010",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21033001650010",
+                "2021-03-04",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "17000000.0"
+              ],
+              [
+                "21120600700027",
+                "2021-12-02",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "22012602100018",
+                "2022-01-06",
+                "ASSIGNMENT WITH PLAN",
+                "17000000.0"
+              ],
+              [
+                "22011401900022",
+                "2022-01-06",
+                "RELEASE",
+                "ALL MONEYS"
+              ],
+              [
+                "22012401650021",
+                "2022-01-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "22012401650032",
+                "2022-01-06",
+                "DEED OF CONSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD292 123 RP",
+            "Old Schedule Lot",
+            "D1009041",
+            [
+              [
+                "07031201550046",
+                "2007-02-09",
+                "ASSIGNMENT",
+                "1200000.0"
+              ],
+              [
+                "07042402240052",
+                "2007-03-15",
+                "ASSIGNMENT",
+                "1693613.0"
+              ],
+              [
+                "07042402240026",
+                "2007-03-30",
+                "ASSIGNMENT",
+                "1129075.0"
+              ],
+              [
+                "07081701300073",
+                "2007-08-06",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11052001620017",
+                "2011-04-29",
+                "BUILDING LICENCE NO. 105/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710015",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16101301310027",
+                "2016-08-11",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "17091501360096",
+                "2017-07-18",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "17090502090012",
+                "2017-08-10",
+                "RELEASE",
+                null
+              ],
+              [
+                "17090502090021",
+                "2017-08-10",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930010",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "21033001650010",
+                "2021-03-04",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE WITH PLAN",
+                "17000000.0"
+              ],
+              [
+                "22012401650021",
+                "2022-01-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "22011401900022",
+                "2022-01-06",
+                "RELEASE",
+                "ALL MONEYS"
+              ],
+              [
+                "22012401650032",
+                "2022-01-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "22012602100018",
+                "2022-01-06",
+                "ASSIGNMENT WITH PLAN",
+                "17000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954766034417124,
@@ -1146,7 +6473,244 @@
         1810016650,
         null,
         null,
-        []
+        [
+          [
+            "DD292 120 S.C",
+            "Old Schedule Lot",
+            "D1009139",
+            [
+              [
+                "07041601180084",
+                "2007-03-27",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07041601180093",
+                "2007-03-31",
+                "ASSIGNMENT",
+                "820000.0"
+              ],
+              [
+                "07101002070028",
+                "2007-09-21",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "07113002160058",
+                "2007-10-29",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11042901180173",
+                "2011-03-25",
+                "BUILDING LICENCE NO. 106/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710025",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16051302070054",
+                "2016-03-02",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16110402120057",
+                "2016-09-15",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "16112902050048",
+                "2016-10-14",
+                "RELEASE",
+                null
+              ],
+              [
+                "16112902050080",
+                "2016-10-14",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19122301930026",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "24050801840024",
+                "2024-04-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "16490000.0"
+              ],
+              [
+                "24083002360156",
+                "2024-08-21",
+                "ASSIGNMENT",
+                "16490000.0"
+              ],
+              [
+                "24083002360163",
+                "2024-08-21",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "24083002360144",
+                "2024-08-21",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ],
+          [
+            "DD292 122 RP",
+            "Old Schedule Lot",
+            "D1009023",
+            [
+              [
+                "07031201550046",
+                "2007-02-09",
+                "ASSIGNMENT",
+                "1200000.0"
+              ],
+              [
+                "07042402240052",
+                "2007-03-15",
+                "ASSIGNMENT",
+                "1693613.0"
+              ],
+              [
+                "07042402240026",
+                "2007-03-30",
+                "ASSIGNMENT",
+                "1129075.0"
+              ],
+              [
+                "07113002160058",
+                "2007-10-29",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11042901180173",
+                "2011-03-25",
+                "BUILDING LICENCE NO. 106/2010 WITH PLAN",
+                null
+              ],
+              [
+                "14050901710025",
+                "2014-04-11",
+                "BUILDING MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "16051302070054",
+                "2016-03-02",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "16110402120057",
+                "2016-09-15",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "16112902050048",
+                "2016-10-14",
+                "RELEASE",
+                null
+              ],
+              [
+                "16112902050080",
+                "2016-10-14",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19122301930105",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930111",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930026",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19122301930124",
+                "2019-12-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "22012401650021",
+                "2022-01-06",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "24050801840024",
+                "2024-04-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "16490000.0"
+              ],
+              [
+                "24083002360144",
+                "2024-08-21",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "24083002360156",
+                "2024-08-21",
+                "ASSIGNMENT",
+                "16490000.0"
+              ],
+              [
+                "24083002360163",
+                "2024-08-21",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954775538719165,
@@ -1165,7 +6729,57 @@
         1810147549,
         null,
         "4 TAI TAN",
-        []
+        [
+          [
+            "DD292 76 S.C",
+            "Old Schedule Lot",
+            "D1043285",
+            [
+              [
+                "TP717154",
+                "1996-09-20",
+                "PROBATE",
+                null
+              ],
+              [
+                "TP698827",
+                "2003-01-27",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "07050301570017",
+                "2007-04-23",
+                "ASSENT",
+                null
+              ],
+              [
+                "07050700970124",
+                "2007-04-23",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "07071601770045",
+                "2007-06-10",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "07062601650021",
+                "2007-06-11",
+                "DEED OF EXCHANGE",
+                null
+              ],
+              [
+                "15012100950132",
+                "2014-11-14",
+                "WARNING LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954752429832507,
@@ -1184,7 +6798,69 @@
         1810147550,
         null,
         "5 TAI TAN",
-        []
+        [
+          [
+            "DD292 76 S.B",
+            "Old Schedule Lot",
+            "D1043308",
+            [
+              [
+                "TP143554",
+                "1961-03-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP216087",
+                "1983-11-14",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP216218",
+                "1983-11-25",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP717154",
+                "1996-09-20",
+                "PROBATE",
+                null
+              ],
+              [
+                "TP698827",
+                "2003-01-27",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "07050700970124",
+                "2007-04-23",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "07050301570017",
+                "2007-04-23",
+                "ASSENT",
+                null
+              ],
+              [
+                "07062601650021",
+                "2007-06-11",
+                "DEED OF EXCHANGE",
+                null
+              ],
+              [
+                "15012100950120",
+                "2014-11-14",
+                "WARNING LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99547562559937,
@@ -1203,7 +6879,69 @@
         1810147551,
         null,
         "6 TAI TAN",
-        []
+        [
+          [
+            "DD292 76 S.A",
+            "Old Schedule Lot",
+            "D1043297",
+            [
+              [
+                "TP143554",
+                "1961-03-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP216087",
+                "1983-11-14",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP216218",
+                "1983-11-25",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP717154",
+                "1996-09-20",
+                "PROBATE",
+                null
+              ],
+              [
+                "TP698827",
+                "2003-01-27",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "07050301570017",
+                "2007-04-23",
+                "ASSENT",
+                null
+              ],
+              [
+                "07050700970124",
+                "2007-04-23",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "07062601650021",
+                "2007-06-11",
+                "DEED OF EXCHANGE",
+                null
+              ],
+              [
+                "15012100950110",
+                "2014-11-14",
+                "WARNING LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954760080227374,
@@ -1222,7 +6960,63 @@
         1810147552,
         null,
         "7 TAI TAN",
-        []
+        [
+          [
+            "DD292 75 S.A",
+            "Old Schedule Lot",
+            "D1171159",
+            [
+              [
+                "TP142182",
+                "1960-09-02",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TP170817",
+                "1972-05-16",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "07053000790013",
+                "2006-11-02",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF LI SZ I TSO",
+                null
+              ],
+              [
+                "07053000790026",
+                "2007-05-11",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF LI SZ I TSO",
+                null
+              ],
+              [
+                "09072401530036",
+                "2009-07-16",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "09072401530026",
+                "2009-07-16",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "09082502550055",
+                "2009-07-23",
+                "ASSIGNMENT",
+                "30000.0"
+              ],
+              [
+                "15012100950086",
+                "2014-11-14",
+                "WARNING LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954764010618453,
@@ -1241,7 +7035,63 @@
         1810147553,
         null,
         "8 TAI TAN",
-        []
+        [
+          [
+            "DD292 75 S.B",
+            "Old Schedule Lot",
+            "D1171166",
+            [
+              [
+                "TP142182",
+                "1960-09-02",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TP170817",
+                "1972-05-16",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "07053000790013",
+                "2006-11-02",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF LI SZ I TSO",
+                null
+              ],
+              [
+                "07053000790026",
+                "2007-05-11",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF LI SZ I TSO",
+                null
+              ],
+              [
+                "09072401530026",
+                "2009-07-16",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "09072401530036",
+                "2009-07-16",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "09082502550055",
+                "2009-07-23",
+                "ASSIGNMENT",
+                "30000.0"
+              ],
+              [
+                "15012100950096",
+                "2014-11-14",
+                "WARNING LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954767718810302,
@@ -1260,7 +7110,63 @@
         1810147554,
         null,
         "9A TAI TAN",
-        []
+        [
+          [
+            "DD292 75 S.C",
+            "Old Schedule Lot",
+            "D1171177",
+            [
+              [
+                "TP142182",
+                "1960-09-02",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TP170817",
+                "1972-05-16",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "07053000790013",
+                "2006-11-02",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF LI SZ I TSO",
+                null
+              ],
+              [
+                "07053000790026",
+                "2007-05-11",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF LI SZ I TSO",
+                null
+              ],
+              [
+                "09072401530026",
+                "2009-07-16",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "09072401530041",
+                "2009-07-16",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "09111201510050",
+                "2009-10-08",
+                "ASSIGNMENT",
+                "30000.0"
+              ],
+              [
+                "15012100950109",
+                "2014-11-14",
+                "WARNING LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954774710390006,
@@ -1317,7 +7223,33 @@
         1810147558,
         null,
         null,
-        []
+        [
+          [
+            "DD292 450",
+            "New Grant Lot",
+            "C1864637",
+            [
+              [
+                "TP157243",
+                "1966-02-09",
+                "-",
+                null
+              ],
+              [
+                "TP698826",
+                "2002-12-03",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TP698827",
+                "2003-01-27",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954746820371974,
@@ -1336,7 +7268,45 @@
         1810153460,
         null,
         null,
-        []
+        [
+          [
+            "DD292 68 S.A",
+            "Old Schedule Lot",
+            "D2282537",
+            [
+              [
+                "TP312753",
+                "1989-12-29",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "TP479287",
+                "1995-03-15",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "07051701160038",
+                "2007-05-10",
+                "ASSIGNMENT",
+                "40000.0"
+              ],
+              [
+                "12110800220054",
+                "2012-10-13",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "17030101660030",
+                "2017-02-07",
+                "BUILDING LICENCE NO. 22/2016 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954853559150978,
@@ -1355,7 +7325,45 @@
         1810153461,
         null,
         null,
-        []
+        [
+          [
+            "DD292 68 RP",
+            "Old Schedule Lot",
+            "D2282545",
+            [
+              [
+                "TP312753",
+                "1989-12-29",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "TP479287",
+                "1995-03-15",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "07051701160038",
+                "2007-05-10",
+                "ASSIGNMENT",
+                "40000.0"
+              ],
+              [
+                "12121002000023",
+                "2012-11-26",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "17030101660023",
+                "2017-02-07",
+                "BUILDING LICENCE NO. 23/2016 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9954836261559554,
@@ -1374,7 +7382,21 @@
         1810157609,
         null,
         null,
-        []
+        [
+          [
+            "DD292 140 S.C SS.1",
+            "Old Schedule Lot",
+            "D5121722",
+            [
+              [
+                "07061200860060",
+                "2007-05-23",
+                "ASSIGNMENT",
+                "3280000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.995468682562643,
@@ -1393,7 +7415,21 @@
         1810157629,
         "TAI TAN VILL SUBSTATION",
         null,
-        []
+        [
+          [
+            "DD292 140 S.C SS.1",
+            "Old Schedule Lot",
+            "D5121722",
+            [
+              [
+                "07061200860060",
+                "2007-05-23",
+                "ASSIGNMENT",
+                "3280000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.995468579705869,
@@ -1431,7 +7467,33 @@
         1810157748,
         null,
         "13A - 13B TAI TAN",
-        []
+        [
+          [
+            "DD292 454",
+            "New Grant Lot",
+            "C1864666",
+            [
+              [
+                "TP285068",
+                "1988-07-13",
+                "SEALED COPY OF ORDER",
+                null
+              ],
+              [
+                "TP588874",
+                "1998-12-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1000000.0"
+              ],
+              [
+                "TP588875",
+                "1998-12-01",
+                "ASSIGNMENT",
+                "1000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.995496564177351,

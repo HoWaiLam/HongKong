@@ -899,7 +899,21 @@
         1100004947,
         null,
         null,
-        []
+        [
+          [
+            "KCTL 497",
+            "New Grant Lot",
+            "D0326377",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992155330011491,
@@ -918,7 +932,21 @@
         1100004975,
         null,
         null,
-        []
+        [
+          [
+            "KCTL 497",
+            "New Grant Lot",
+            "D0326377",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921465365255455,
@@ -1013,7 +1041,21 @@
         1100005050,
         "KAR YAM HOUSE",
         null,
-        []
+        [
+          [
+            "KCTL 497",
+            "New Grant Lot",
+            "D0326377",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921461988479061,
@@ -1051,7 +1093,21 @@
         1100005121,
         "HONG YAM HOUSE",
         null,
-        []
+        [
+          [
+            "KCTL 497",
+            "New Grant Lot",
+            "D0326377",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992155576316998,
@@ -1070,7 +1126,21 @@
         1100005203,
         null,
         null,
-        []
+        [
+          [
+            "KCTL 497",
+            "New Grant Lot",
+            "D0326377",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921418768576944,
@@ -1089,7 +1159,14 @@
         1100005214,
         "YUN FUNG HOUSE",
         "99 LEI MUK ROAD",
-        []
+        [
+          [
+            "KCTL 477",
+            "New Grant Lot",
+            "C4463844",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9920908950479035,
@@ -1108,7 +1185,21 @@
         1100005217,
         "SALESIAN YIP HON PRIMARY SCHOOL",
         null,
-        []
+        [
+          [
+            "KCTL 497",
+            "New Grant Lot",
+            "D0326377",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992145395171183,
@@ -1127,7 +1218,14 @@
         1100005220,
         null,
         "99 LEI MUK ROAD",
-        []
+        [
+          [
+            "KCTL 477",
+            "New Grant Lot",
+            "C4463844",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.99209246537546,
@@ -1146,7 +1244,14 @@
         1100005302,
         null,
         "99 LEI MUK ROAD",
-        []
+        [
+          [
+            "KCTL 477",
+            "New Grant Lot",
+            "C4463844",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9920929239109932,
@@ -1165,7 +1270,33 @@
         1100005304,
         null,
         "120 LEI MUK ROAD",
-        []
+        [
+          [
+            "KCTL 506 RP",
+            "New Grant Lot",
+            "D1733011",
+            [
+              [
+                "10012702780013",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10060402430137",
+                "2010-05-17",
+                "APPROVAL LETTER",
+                null
+              ],
+              [
+                "10063001980054",
+                "2010-06-18",
+                "DEED OF MUTUAL GRANT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921071908339971,
@@ -1184,7 +1315,33 @@
         1100005311,
         "YUNG SHEK HOUSE",
         "120 LEI MUK ROAD",
-        []
+        [
+          [
+            "KCTL 506 RP",
+            "New Grant Lot",
+            "D1733011",
+            [
+              [
+                "10012702780013",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10060402430137",
+                "2010-05-17",
+                "APPROVAL LETTER",
+                null
+              ],
+              [
+                "10063001980054",
+                "2010-06-18",
+                "DEED OF MUTUAL GRANT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921109288144587,
@@ -1222,7 +1379,21 @@
         1100005376,
         "SALESIAN YIP HON PRIMARY SCHOOL",
         null,
-        []
+        [
+          [
+            "KCTL 497",
+            "New Grant Lot",
+            "D0326377",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921447500145404,
@@ -1241,7 +1412,33 @@
         1100005428,
         null,
         "120 LEI MUK ROAD",
-        []
+        [
+          [
+            "KCTL 506 RP",
+            "New Grant Lot",
+            "D1733011",
+            [
+              [
+                "10012702780013",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10060402430137",
+                "2010-05-17",
+                "APPROVAL LETTER",
+                null
+              ],
+              [
+                "10063001980054",
+                "2010-06-18",
+                "DEED OF MUTUAL GRANT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920981996525529,
@@ -1260,7 +1457,21 @@
         1100005437,
         "CHEUNG YAM HOUSE",
         null,
-        []
+        [
+          [
+            "KCTL 497",
+            "New Grant Lot",
+            "D0326377",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921576358981108,
@@ -1279,7 +1490,33 @@
         1100005556,
         "SHEK LEI CATHOLIC SECONDARY SCHOOL SUBSTATION",
         null,
-        []
+        [
+          [
+            "KCTL 317",
+            "New Grant Lot",
+            "C4787800",
+            [
+              [
+                "TW834433",
+                "1992-05-11",
+                "PARTICULARS AND CONSIDERATIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW882126",
+                "1993-03-25",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW1510034",
+                "2003-01-27",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921344936372056,
@@ -1298,7 +1535,33 @@
         1100005560,
         null,
         "120 LEI MUK ROAD",
-        []
+        [
+          [
+            "KCTL 506 RP",
+            "New Grant Lot",
+            "D1733011",
+            [
+              [
+                "10012702780013",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10060402430137",
+                "2010-05-17",
+                "APPROVAL LETTER",
+                null
+              ],
+              [
+                "10063001980054",
+                "2010-06-18",
+                "DEED OF MUTUAL GRANT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921137536906104,
@@ -1336,7 +1599,33 @@
         1100005595,
         "SHEK LEI CATHOLIC SECONDARY SCHOOL",
         "23 - 31 ON CHIT STREET",
-        []
+        [
+          [
+            "KCTL 317",
+            "New Grant Lot",
+            "C4787800",
+            [
+              [
+                "TW834433",
+                "1992-05-11",
+                "PARTICULARS AND CONSIDERATIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW882126",
+                "1993-03-25",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW1510034",
+                "2003-01-27",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921289691273103,
@@ -1355,7 +1644,33 @@
         1100005789,
         "SHEK YAM SHOPPING CENTRE",
         "120 LEI MUK ROAD",
-        []
+        [
+          [
+            "KCTL 506 RP",
+            "New Grant Lot",
+            "D1733011",
+            [
+              [
+                "10012702780013",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10060402430137",
+                "2010-05-17",
+                "APPROVAL LETTER",
+                null
+              ],
+              [
+                "10063001980054",
+                "2010-06-18",
+                "DEED OF MUTUAL GRANT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920937337071722,
@@ -1374,7 +1689,33 @@
         1100005846,
         null,
         "120 LEI MUK ROAD",
-        []
+        [
+          [
+            "KCTL 506 RP",
+            "New Grant Lot",
+            "D1733011",
+            [
+              [
+                "10012702780013",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10060402430137",
+                "2010-05-17",
+                "APPROVAL LETTER",
+                null
+              ],
+              [
+                "10063001980054",
+                "2010-06-18",
+                "DEED OF MUTUAL GRANT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992098470666102,
@@ -1393,7 +1734,33 @@
         1100005928,
         "CHI SHEK HOUSE",
         "120 LEI MUK ROAD",
-        []
+        [
+          [
+            "KCTL 506 RP",
+            "New Grant Lot",
+            "D1733011",
+            [
+              [
+                "10012702780013",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10060402430137",
+                "2010-05-17",
+                "APPROVAL LETTER",
+                null
+              ],
+              [
+                "10063001980054",
+                "2010-06-18",
+                "DEED OF MUTUAL GRANT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992098193868092,
@@ -1412,7 +1779,21 @@
         1100005955,
         "YIU YAM HOUSE",
         null,
-        []
+        [
+          [
+            "KCTL 497",
+            "New Grant Lot",
+            "D0326377",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921620762461505,
@@ -1431,7 +1812,21 @@
         1100005994,
         "ON YAM SHOPPING CENTRE",
         null,
-        []
+        [
+          [
+            "KCTL 497",
+            "New Grant Lot",
+            "D0326377",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921514655632722,
@@ -1450,7 +1845,21 @@
         1100005995,
         null,
         null,
-        []
+        [
+          [
+            "KCTL 497",
+            "New Grant Lot",
+            "D0326377",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921552804534195,
@@ -1469,7 +1878,21 @@
         1100006033,
         null,
         null,
-        []
+        [
+          [
+            "KCTL 497",
+            "New Grant Lot",
+            "D0326377",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921461140535952,
@@ -1488,7 +1911,33 @@
         1100006045,
         "TWGHS MRS WU YORK YU MEMORIAL COLLEGE",
         "13 - 21 ON CHIT STREET",
-        []
+        [
+          [
+            "KCTL 332 RP",
+            "New Grant Lot",
+            "C4462995",
+            [
+              [
+                "TW1006686",
+                "1995-05-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1228795",
+                "1998-06-30",
+                "ORDER NO.DH 37/NT/98/C UNDER S.27(A) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW1513130",
+                "2003-02-21",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921317841966373,
@@ -1526,7 +1975,33 @@
         1100006082,
         "YAN SHEK HOUSE",
         "120 LEI MUK ROAD",
-        []
+        [
+          [
+            "KCTL 506 RP",
+            "New Grant Lot",
+            "D1733011",
+            [
+              [
+                "10012702780013",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10060402430137",
+                "2010-05-17",
+                "APPROVAL LETTER",
+                null
+              ],
+              [
+                "10063001980054",
+                "2010-06-18",
+                "DEED OF MUTUAL GRANT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921050569289485,
@@ -1545,7 +2020,33 @@
         1100006089,
         null,
         null,
-        []
+        [
+          [
+            "KCTL 332 RP",
+            "New Grant Lot",
+            "C4462995",
+            [
+              [
+                "TW1006686",
+                "1995-05-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1228795",
+                "1998-06-30",
+                "ORDER NO.DH 37/NT/98/C UNDER S.27(A) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW1513130",
+                "2003-02-21",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921277183951687,
@@ -1564,7 +2065,21 @@
         1100006134,
         "TAK YAM HOUSE",
         null,
-        []
+        [
+          [
+            "KCTL 497",
+            "New Grant Lot",
+            "D0326377",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992158577233007,
@@ -1583,7 +2098,21 @@
         1100006156,
         null,
         null,
-        []
+        [
+          [
+            "KCTL 497",
+            "New Grant Lot",
+            "D0326377",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921490460076556,
@@ -1602,7 +2131,33 @@
         1100006181,
         null,
         "120 LEI MUK ROAD",
-        []
+        [
+          [
+            "KCTL 506 RP",
+            "New Grant Lot",
+            "D1733011",
+            [
+              [
+                "10012702780013",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10060402430137",
+                "2010-05-17",
+                "APPROVAL LETTER",
+                null
+              ],
+              [
+                "10063001980054",
+                "2010-06-18",
+                "DEED OF MUTUAL GRANT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921008493159393,
@@ -1621,7 +2176,33 @@
         1100006206,
         null,
         null,
-        []
+        [
+          [
+            "KCTL 332 RP",
+            "New Grant Lot",
+            "C4462995",
+            [
+              [
+                "TW1006686",
+                "1995-05-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1228795",
+                "1998-06-30",
+                "ORDER NO.DH 37/NT/98/C UNDER S.27(A) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW1513130",
+                "2003-02-21",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921378899645428,
@@ -1659,7 +2240,39 @@
         1100006262,
         "JU CHING CHU SECONDARY SCHOOL KWAI CHUNG",
         "1 - 11 ON CHIT STREET",
-        []
+        [
+          [
+            "KCTL 368",
+            "New Grant Lot",
+            "C6022312",
+            [
+              [
+                "TW863974",
+                "1992-10-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1242129",
+                "1998-09-11",
+                "ORDER NO. DH 53/NT/98/C UNDER S.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW1513129",
+                "2003-02-21",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "22052301790037",
+                "2022-05-13",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921320291014522,
@@ -1697,7 +2310,21 @@
         1100006343,
         null,
         null,
-        []
+        [
+          [
+            "KCTL 497",
+            "New Grant Lot",
+            "D0326377",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99215889670467,
@@ -1735,7 +2362,45 @@
         1100006374,
         "LION BUILDING",
         "113 - 117 SHEK YAM ROAD",
-        []
+        [
+          [
+            "KCTL 162",
+            "New Grant Lot",
+            "C5860783",
+            [
+              [
+                "TW85380",
+                "1970-08-08",
+                "-",
+                "490000.0"
+              ],
+              [
+                "TW87358",
+                "1971-02-24",
+                "A LETTER",
+                null
+              ],
+              [
+                "TW89612",
+                "1971-08-11",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW89613",
+                "1971-08-11",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW89793",
+                "1971-08-24",
+                "BUILDING MORTGAGE RE KCTL 162",
+                "1500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920941010147477,
@@ -1754,7 +2419,45 @@
         1100006467,
         "KWOK PO BUILDING",
         "101 - 111 SHEK YAM ROAD",
-        []
+        [
+          [
+            "KCTL 244",
+            "New Grant Lot",
+            "C4462346",
+            [
+              [
+                "TW88365",
+                "1971-04-26",
+                "-",
+                "463600.0"
+              ],
+              [
+                "TW89640",
+                "1971-07-15",
+                "LETTER",
+                null
+              ],
+              [
+                "TW90306",
+                "1971-09-24",
+                "BUILDING MORTGAGE",
+                "500000.0"
+              ],
+              [
+                "TW98447",
+                "1972-09-08",
+                "OCCUPATION PERMIT",
+                null
+              ],
+              [
+                "TW99036",
+                "1972-10-20",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920985662311514,
@@ -1792,7 +2495,27 @@
         1100006473,
         "KWAI FAT BUILDING",
         "98 - 112 SHEK YAM ROAD",
-        []
+        [
+          [
+            "KCTL 210",
+            "New Grant Lot",
+            "C4462131",
+            [
+              [
+                "TW88283",
+                "1971-04-23",
+                "A LETTER",
+                null
+              ],
+              [
+                "TW91793",
+                "1971-09-29",
+                "UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921088027548812,
@@ -1811,7 +2534,21 @@
         1100006495,
         "CHAK YAM HOUSE",
         null,
-        []
+        [
+          [
+            "KCTL 497",
+            "New Grant Lot",
+            "D0326377",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921505948730267,
@@ -1868,7 +2605,45 @@
         1100006552,
         "YEE FAT BUILDING BLOCK B",
         "186 - 218 WO YI HOP ROAD",
-        []
+        [
+          [
+            "KCTL 243",
+            "New Grant Lot",
+            "C4462336",
+            [
+              [
+                "TW88943",
+                "1971-05-29",
+                "ASSIGNMENT",
+                "1031485.25"
+              ],
+              [
+                "TW113224",
+                "1974-06-07",
+                "UNDERTAKING BY KWONG HEY DEV. CO. LTD. & SHUI CHEONG LAND INV.CO.LTD.",
+                null
+              ],
+              [
+                "TW113225",
+                "1974-06-07",
+                "UNDERTAKING BY SIU ON REALTY CO. LTD. & WING TAI DEV. CO. LTD.",
+                null
+              ],
+              [
+                "TW113223",
+                "1974-06-07",
+                "UNDERTAKING BY SHUI CHEONG LAND INVESTMENT CO. LTD.",
+                null
+              ],
+              [
+                "TW126594",
+                "1975-09-30",
+                "A LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992094426428007,
@@ -1963,7 +2738,39 @@
         1100006706,
         "KWONG FAI BUILDING",
         "85 - 99 SHEK YAM ROAD",
-        []
+        [
+          [
+            "KCTL 225",
+            "New Grant Lot",
+            "C4787735",
+            [
+              [
+                "TW90544",
+                "1971-07-05",
+                "LETTER",
+                null
+              ],
+              [
+                "TW90044",
+                "1971-09-10",
+                "BUILDING MORTGAGE",
+                "900000.0"
+              ],
+              [
+                "TW92993",
+                "1972-02-24",
+                "UNDERTAKING BY KIU KWONG CONSTRUCTION COMPANY",
+                null
+              ],
+              [
+                "TW98849",
+                "1972-10-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921052648725246,
@@ -1982,7 +2789,45 @@
         1100006723,
         "TIN ON HOUSE",
         "76 - 96 SHEK YAM ROAD",
-        []
+        [
+          [
+            "KCTL 176",
+            "New Grant Lot",
+            "C4461889",
+            [
+              [
+                "TW89300",
+                "1971-07-12",
+                "ASSIGNMENT",
+                "518768.0"
+              ],
+              [
+                "TW89637",
+                "1971-07-13",
+                "LETTER",
+                null
+              ],
+              [
+                "TW91273",
+                "1971-11-01",
+                "BUILDING MORTGAGE",
+                "1500000.0"
+              ],
+              [
+                "TW329825",
+                "1973-02-19",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW103983",
+                "1973-06-01",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921124127573673,
@@ -2001,7 +2846,57 @@
         1100006842,
         "TAI PAK TIN STREET SUBSTATION",
         null,
-        []
+        [
+          [
+            "KCTL 379",
+            "New Grant Lot",
+            "C5490895",
+            [
+              [
+                "TW641533",
+                "1990-02-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW817302",
+                "1992-03-05",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW824590",
+                "1992-04-09",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW924321",
+                "1993-09-13",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW1347185",
+                "1994-01-13",
+                "CERTIFIED TRUE COPY CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ],
+              [
+                "TW1363679",
+                "1999-03-05",
+                "CERTIFIED TRUE COPY CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ],
+              [
+                "TW1502891",
+                "2002-12-23",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921236133483806,
@@ -2020,7 +2915,51 @@
         1100006855,
         "KAM LUK BUILDING",
         "61 - 83 SHEK YAM ROAD",
-        []
+        [
+          [
+            "KCTL 247",
+            "New Grant Lot",
+            "C4462375",
+            [
+              [
+                "TW88746",
+                "1971-06-10",
+                "-",
+                "648970.0"
+              ],
+              [
+                "TW88747",
+                "1971-06-10",
+                "DECLARATION OF TRUST",
+                null
+              ],
+              [
+                "TW89042",
+                "1971-06-22",
+                "-",
+                null
+              ],
+              [
+                "TW99216",
+                "1972-11-08",
+                "FURTHER CHARGE AND BUILDING MORTGAGE",
+                null
+              ],
+              [
+                "TW100221",
+                "1972-11-21",
+                "LETTER",
+                null
+              ],
+              [
+                "TW102038",
+                "1973-04-02",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921105845334308,
@@ -2039,7 +2978,45 @@
         1100006858,
         "SHUI KING BUILDING BLOCK A",
         "138 - 184 WO YI HOP ROAD",
-        []
+        [
+          [
+            "KCTL 241",
+            "New Grant Lot",
+            "C5490859",
+            [
+              [
+                "TW87530",
+                "1971-03-29",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "2063750.0"
+              ],
+              [
+                "TW89422",
+                "1971-07-02",
+                "ASSIGNMENT",
+                "2063750.0"
+              ],
+              [
+                "TW111220",
+                "1974-02-27",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW111221",
+                "1974-02-27",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "18040300120013",
+                "1974-10-03",
+                "CERTIFIED COPY LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921023220417289,
@@ -2058,7 +3035,21 @@
         1100006864,
         "LUEN FAT INDUSTRIAL NO3 BUILDING",
         "43 LAM TIN STREET",
-        []
+        [
+          [
+            "KCTL 14",
+            "New Grant Lot",
+            "C4461056",
+            [
+              [
+                "TW127034",
+                "1975-05-16",
+                "PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920934104226293,
@@ -2077,7 +3068,45 @@
         1100007110,
         "SHUI KING BUILDING BLOCK B",
         "138 - 184 WO YI HOP ROAD",
-        []
+        [
+          [
+            "KCTL 241",
+            "New Grant Lot",
+            "C5490859",
+            [
+              [
+                "TW87530",
+                "1971-03-29",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "2063750.0"
+              ],
+              [
+                "TW89422",
+                "1971-07-02",
+                "ASSIGNMENT",
+                "2063750.0"
+              ],
+              [
+                "TW111220",
+                "1974-02-27",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW111221",
+                "1974-02-27",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "18040300120013",
+                "1974-10-03",
+                "CERTIFIED COPY LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921075101666406,
@@ -2096,7 +3125,21 @@
         1100007163,
         null,
         null,
-        []
+        [
+          [
+            "KCTL 497",
+            "New Grant Lot",
+            "D0326377",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921585050105903,
@@ -2115,7 +3158,51 @@
         1100007278,
         "KAM SHEK BUILDING NORTH BLOCK",
         "44 - 66 SHEK YAM ROAD",
-        []
+        [
+          [
+            "KCTL 221",
+            "New Grant Lot",
+            "C4462190",
+            [
+              [
+                "TW90303",
+                "1971-08-12",
+                "LETTER",
+                null
+              ],
+              [
+                "TW90328",
+                "1971-09-14",
+                "-",
+                "700000.0"
+              ],
+              [
+                "TW93466",
+                "1972-03-09",
+                "FURTHER CHARGE AND BUILDING MORTGAGE",
+                "3500000.0"
+              ],
+              [
+                "TW95205",
+                "1972-05-16",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW102430",
+                "1973-01-30",
+                "LETTER",
+                null
+              ],
+              [
+                "TW103532",
+                "1973-04-12",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921182558398012,
@@ -2134,7 +3221,21 @@
         1100007306,
         "SHING YAM HOUSE",
         null,
-        []
+        [
+          [
+            "KCTL 497",
+            "New Grant Lot",
+            "D0326377",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921562118286045,
@@ -2153,7 +3254,315 @@
         1100007336,
         "SILKA TSUEN WAN HOTEL",
         "119 WO YI HOP ROAD",
-        []
+        [
+          [
+            "KCTL 167",
+            "New Grant Lot",
+            "C4461811",
+            [
+              [
+                "TW101039",
+                "1973-01-22",
+                "BUILDING MORTGAGE",
+                "3300000.0"
+              ],
+              [
+                "TW100557",
+                "1973-01-24",
+                "LAYOUT PLAN",
+                null
+              ],
+              [
+                "TW113276",
+                "1974-03-25",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "TW113277",
+                "1974-03-25",
+                "AGREEMENT FOR MORTGAGE",
+                "8500000.0"
+              ],
+              [
+                "TW116852",
+                "1974-08-12",
+                "MORTGAGE",
+                "8500000.0"
+              ],
+              [
+                "TW116853",
+                "1974-08-12",
+                "FURTHER CHARGE",
+                null
+              ],
+              [
+                "TW116118",
+                "1974-09-03",
+                "LETTER FROM DISTRICT OFFICE TSUEN WAN",
+                null
+              ],
+              [
+                "TW116234",
+                "1974-09-13",
+                "TENANCY AGREEMENT FOR 3 YEARS FROM 1.10.74 RE 10/F",
+                null
+              ],
+              [
+                "TW116235",
+                "1974-09-13",
+                "TENANCY AGREEMENT FOR 10 YEARS FROM 1.10.74",
+                null
+              ],
+              [
+                "TW117151",
+                "1974-10-16",
+                "TENANCY AGREEMENT RE 11/F",
+                null
+              ],
+              [
+                "TW118823",
+                "1974-12-07",
+                "TENANCY AGREEMENT FOR 3 YEARS FROM 1.10.74 TO 30.9.77 RE 8/F & 9/F",
+                null
+              ],
+              [
+                "TW123112",
+                "1975-04-30",
+                "TENANCY AGREEMENT FOR 3 YEARS FROM 1.5.75 RE 7TH FLOOR",
+                null
+              ],
+              [
+                "TW123702",
+                "1975-05-27",
+                "TENANCY AGREEMENT FOR 3 YEARS FROM 1.6.75 RE 6TH FLOOR",
+                null
+              ],
+              [
+                "TW125790",
+                "1975-09-09",
+                "2ND FURTHER CHARGE",
+                "3000000.0"
+              ],
+              [
+                "TW137261",
+                "1976-01-19",
+                "DEED OF RECTIFICATION",
+                null
+              ],
+              [
+                "TW130713",
+                "1976-03-10",
+                "SUPPLEMENTAL AGREEMENT IN RESPECT OF 8TH FLOOR",
+                "48100.0"
+              ],
+              [
+                "TW132446",
+                "1976-05-12",
+                "TENANCY AGREEMENT FOR 3 YEARS & 1 MONTH FROM 1.3.76 RE 8TH FLOOR",
+                null
+              ],
+              [
+                "TW142036",
+                "1977-04-15",
+                "FURTHER CHARGE",
+                "2700000.0"
+              ],
+              [
+                "TW147023",
+                "1977-07-26",
+                "FURTHER CHARGE",
+                "3000000.0"
+              ],
+              [
+                "TW149275",
+                "1977-10-04",
+                "DEED OF RECTIFICATION AND CONFIRMATION",
+                null
+              ],
+              [
+                "TW161469",
+                "1978-05-30",
+                "TENANCY AGREEMENT FOR 2 YEARS FROM 1.6.78 RE 6TH FLOOR",
+                null
+              ],
+              [
+                "TW161470",
+                "1978-05-30",
+                "TENANCY AGREEMENT FOR 3 YEARS FROM 1.5.78 RE 7TH FLOOR",
+                null
+              ],
+              [
+                "TW162302",
+                "1978-06-17",
+                "FURTHER CHARGE AND MORTGAGE",
+                null
+              ],
+              [
+                "TW162301",
+                "1978-06-17",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "TW166246",
+                "1978-09-25",
+                "TENANCY AGREEMENT FOR 5 YRS 11 MTHS & 16 DAYS FROM 16.10.78 RE 9/F",
+                null
+              ],
+              [
+                "TW172557",
+                "1979-01-04",
+                "FURTHER CHARGE",
+                "1300000.0"
+              ],
+              [
+                "TW183264",
+                "1979-07-13",
+                "FURTHER CHARGE",
+                null
+              ],
+              [
+                "TW191222",
+                "1980-02-07",
+                "DEED OF RECTIFICATION",
+                null
+              ],
+              [
+                "TW203822",
+                "1980-08-05",
+                "FURTHER CHARGE",
+                null
+              ],
+              [
+                "TW219882",
+                "1981-05-18",
+                "TENANCY AGREEMENT FROM 15.3.81 TO 30.9.84 RE 10TH FLOOR",
+                null
+              ],
+              [
+                "TW219881",
+                "1981-05-18",
+                "TENANCY AGREEMENT FROM 1.5.81 TO 30.9.84 RE 7TH FLOOR",
+                null
+              ],
+              [
+                "TW266212",
+                "1982-11-01",
+                "FURTHER CHARGE",
+                null
+              ],
+              [
+                "TW318202",
+                "1984-05-10",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW334886",
+                "1984-10-16",
+                "DEED OF NOVATION",
+                null
+              ],
+              [
+                "TW551230",
+                "1988-06-01",
+                "TENANCY AGREEMENT FOR 2 YEARS FROM 1.7.88 TO 30.6.90 WITH PLANS",
+                null
+              ],
+              [
+                "TW513854",
+                "1988-06-01",
+                "TENANCY AGREEMENT FOR 2 YEARS FROM 1.7.88 WITH PLANS",
+                null
+              ],
+              [
+                "TW513855",
+                "1988-06-01",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "83980000.0"
+              ],
+              [
+                "TW526381",
+                "1988-09-07",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "TW562564",
+                "1988-12-24",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "TW564170",
+                "1989-01-20",
+                "-",
+                "83980000.0"
+              ],
+              [
+                "TW564169",
+                "1989-01-20",
+                "PARTIAL RELEASE",
+                null
+              ],
+              [
+                "TW564171",
+                "1989-01-20",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "TW704888",
+                "1990-10-02",
+                "TENANCY AGREEMENT WITH PLAN FOR 1 YEAR FROM 1.10.90 TO 30.9.91",
+                null
+              ],
+              [
+                "TW704035",
+                "1990-10-19",
+                "DEED OF VARIATION OF MORTGAGE",
+                null
+              ],
+              [
+                "TW919370",
+                "1993-09-28",
+                "RELEASE",
+                null
+              ],
+              [
+                "TW944731",
+                "1994-03-11",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "150000000.0"
+              ],
+              [
+                "TW953407",
+                "1994-04-29",
+                "MORTGAGE OF KCTL 167",
+                null
+              ],
+              [
+                "TW953406",
+                "1994-04-29",
+                "-",
+                "150000000.0"
+              ],
+              [
+                "TW953408",
+                "1994-04-30",
+                "MEMORANDUM OF CHANGE OF NAME OF A BUILDING",
+                null
+              ],
+              [
+                "TW1162833",
+                "1997-08-09",
+                "DEED POLL WITH PLANS RE ALLOCATION OF UNDIVIDED SHARES",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992099708300684,
@@ -2172,7 +3581,21 @@
         1100007460,
         "CHEUNG WING INDUSTRIAL BUILDING",
         "109 - 115 WO YI HOP ROAD",
-        []
+        [
+          [
+            "KCTL 51",
+            "New Grant Lot",
+            "C5476092",
+            [
+              [
+                "TW91531",
+                "1971-11-18",
+                "CAR PARKING PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921005082298513,
@@ -2191,7 +3614,57 @@
         1100007513,
         "KAM CHONG INDUSTRIAL BUILDING",
         "30 - 38 LAM TIN STREET",
-        []
+        [
+          [
+            "DD444 284 S.A",
+            "New Grant Lot",
+            "C1475699",
+            [
+              [
+                "TW76776",
+                "1963-06-20",
+                "MEMORANDUM OF AGREEMENT",
+                null
+              ],
+              [
+                "TW76097",
+                "1964-05-26",
+                "MORTGAGE",
+                "1000000.0"
+              ],
+              [
+                "TW77140",
+                "1964-10-12",
+                "MODIFICATION",
+                null
+              ],
+              [
+                "TW79188",
+                "1966-02-03",
+                "FURTHER CHARGE",
+                null
+              ],
+              [
+                "TW79943",
+                "1966-10-19",
+                "FURTHER CHARGE",
+                null
+              ],
+              [
+                "TW83768",
+                "1969-10-27",
+                "FURTHER CHARGE",
+                null
+              ],
+              [
+                "TW86547",
+                "1970-12-15",
+                "PARTIAL REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920927142159273,
@@ -2210,7 +3683,33 @@
         1100007534,
         "LEE WO BUILDING",
         "124 - 136 WO YI HOP ROAD",
-        []
+        [
+          [
+            "KCTL 239",
+            "New Grant Lot",
+            "C4787763",
+            [
+              [
+                "TW88070",
+                "1971-04-29",
+                "CONVEYANCE ON SALE",
+                "873680.0"
+              ],
+              [
+                "TW90531",
+                "1971-08-20",
+                "LETTER",
+                null
+              ],
+              [
+                "TW105954",
+                "1973-08-31",
+                "UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921103460728473,
@@ -2229,7 +3728,21 @@
         1100007558,
         "KWAI LAI BUILDING",
         "29 - 45 SHEK YAM ROAD",
-        []
+        [
+          [
+            "KCTL 235",
+            "New Grant Lot",
+            "C4462280",
+            [
+              [
+                "TW93260",
+                "1972-02-22",
+                "UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921137689862682,
@@ -2248,7 +3761,51 @@
         1100007594,
         "KAM SHEK BUILDING SOUTH BLOCK",
         "44 - 66 SHEK YAM ROAD",
-        []
+        [
+          [
+            "KCTL 221",
+            "New Grant Lot",
+            "C4462190",
+            [
+              [
+                "TW90303",
+                "1971-08-12",
+                "LETTER",
+                null
+              ],
+              [
+                "TW90328",
+                "1971-09-14",
+                "-",
+                "700000.0"
+              ],
+              [
+                "TW93466",
+                "1972-03-09",
+                "FURTHER CHARGE AND BUILDING MORTGAGE",
+                "3500000.0"
+              ],
+              [
+                "TW95205",
+                "1972-05-16",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW102430",
+                "1973-01-30",
+                "LETTER",
+                null
+              ],
+              [
+                "TW103532",
+                "1973-04-12",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921184130547214,
@@ -2267,7 +3824,898 @@
         1100007626,
         "PARK SUN BUILDING",
         "97 - 107 WO YI HOP ROAD",
-        []
+        [
+          [
+            "DD444 316",
+            "New Grant Lot",
+            "C1475979",
+            [
+              [
+                "TW82864",
+                "1969-04-10",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW82942",
+                "1969-04-14",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW82865",
+                "1969-04-14",
+                "-",
+                "220000.0"
+              ],
+              [
+                "TW118840",
+                "1969-04-14",
+                "DECLARATION OF TRUST BY LIM POR YEN",
+                null
+              ],
+              [
+                "TW116701",
+                "1974-10-11",
+                "CERTIFIED LAY-OUT PLAN",
+                null
+              ],
+              [
+                "TW118841",
+                "1974-10-17",
+                "-",
+                null
+              ],
+              [
+                "TW120602",
+                "1975-02-20",
+                "TENANCY AGREEMENT RE UNIT A ON 9/F",
+                null
+              ],
+              [
+                "TW120601",
+                "1975-03-07",
+                "TENANCY AGREEMENT RE UNITS A & B ON 7/F",
+                null
+              ],
+              [
+                "TW121396",
+                "1975-03-21",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "TW121466",
+                "1975-03-26",
+                "TENANCY AGREEMENT RE UNIT B ON 10/F",
+                null
+              ],
+              [
+                "TW122417",
+                "1975-04-25",
+                "TENANCY AGREEMENT RE UNITS A & B ON 4/F",
+                null
+              ],
+              [
+                "TW123907",
+                "1975-05-26",
+                "TENANCY AGREEMENT RE UNITS A & B ON 8/F",
+                null
+              ],
+              [
+                "TW124417",
+                "1975-05-26",
+                "TENANCY AGREEMENT RE UNIT B ON 9/F",
+                null
+              ],
+              [
+                "TW124416",
+                "1975-07-08",
+                "TENANCY AGREEMENT RE UNITS A & B ON 6/F",
+                null
+              ],
+              [
+                "TW125301",
+                "1975-08-12",
+                "TENANCY AGREEMENT RE UNITS A & B ON 12/F",
+                null
+              ],
+              [
+                "TW125442",
+                "1975-09-04",
+                "TENANCY AGREEMENT RE UNIT B ON 11/F",
+                null
+              ],
+              [
+                "TW125310",
+                "1975-09-04",
+                "TENANCY AGREEMENT RE UNIT A ON 11/F",
+                null
+              ],
+              [
+                "TW131884",
+                "1976-02-19",
+                "MORTGAGE",
+                "20000000.0"
+              ],
+              [
+                "TW131883",
+                "1976-02-19",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "TW129287",
+                "1976-03-05",
+                "TENANCY AGREEMENT RE FACTORY UNIT B ON 2/F",
+                null
+              ],
+              [
+                "TW132182",
+                "1976-05-01",
+                "TENANCY AGREEMENT RE FACTORY UNITS A & B ON 1/F",
+                null
+              ],
+              [
+                "TW133311",
+                "1976-07-03",
+                "TENANCY AGREEMENT RE FACTORY A ON 2/F",
+                null
+              ],
+              [
+                "TW149356",
+                "1977-09-19",
+                "TENANCY AGREEMENT FOR 2 YEARS FROM 7.8.1977 TO 6.8.1979",
+                null
+              ],
+              [
+                "TW148572",
+                "1977-09-24",
+                "SURRENDER",
+                null
+              ],
+              [
+                "TW148573",
+                "1977-09-24",
+                "TENANCY AGREEMENT RE FACTORY B ON 10/F",
+                null
+              ],
+              [
+                "TW161315",
+                "1978-05-22",
+                "TENANCY AGREEMENT RE UNITS A & B ON 1/F",
+                null
+              ],
+              [
+                "TW164716",
+                "1978-08-02",
+                "SURRENDER",
+                null
+              ],
+              [
+                "TW164723",
+                "1978-08-04",
+                "SURRENDER",
+                null
+              ],
+              [
+                "TW164694",
+                "1978-08-16",
+                "TENANCY AGREEMENT RE FACTORY UNIT A ON 2/F",
+                null
+              ],
+              [
+                "TW182043",
+                "1979-09-26",
+                "TENANCY AGREEMENT RE FACTORY UNITS A & B ON G/F",
+                null
+              ],
+              [
+                "TW186890",
+                "1980-01-02",
+                "FURTHER CHARGE",
+                null
+              ],
+              [
+                "TW308149",
+                "1984-03-10",
+                "TENANCY AGREEMENT RE UNITS A & B ON G/F",
+                null
+              ],
+              [
+                "TW316686",
+                "1984-04-02",
+                "TENANCY AGREEMENT RE UNITS A & B ON 9/F",
+                null
+              ],
+              [
+                "TW327151",
+                "1984-05-14",
+                "TENANCY AGREEMENT RE UNIT B ON 4/F, UNITS A & B ON 6/F & UNIT A ON 11/F",
+                null
+              ],
+              [
+                "TW316317",
+                "1984-05-16",
+                "TENANCY AGREEMENT RE UNITS A & B ON 8/F",
+                null
+              ],
+              [
+                "TW316318",
+                "1984-05-16",
+                "TENANCY AGREEMENT RE UNIT B ON 2/F",
+                null
+              ],
+              [
+                "TW317314",
+                "1984-05-26",
+                "TENANCY AGREEMENT RE UNIT A ON 3/F",
+                null
+              ],
+              [
+                "TW334869",
+                "1984-12-17",
+                "TENANCY AGREEMENT RE UNIT A ON 10/F",
+                null
+              ],
+              [
+                "TW368643",
+                "1985-12-02",
+                "TENANCY AGREEMENT RE UNIT B ON 11/F",
+                null
+              ],
+              [
+                "TW927503",
+                "1993-11-12",
+                "LEASE WITH PLAN RE BASEMENT & G/F",
+                null
+              ],
+              [
+                "TW1046582",
+                "1996-03-05",
+                "LEASE RE BASEMENT AND G/F",
+                null
+              ],
+              [
+                "TW1333261",
+                "1997-02-14",
+                "DUPLICATE COPY OF TENANCY AGREEMENT WITH PLAN RE UNIT 3B ON 3/F",
+                null
+              ],
+              [
+                "TW1188946",
+                "1997-12-10",
+                "TEMPORARY WAIVER LETTER WITH PLAN RE UNIT 3B OF 3/F",
+                null
+              ],
+              [
+                "TW1210997",
+                "1998-05-11",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT A ON 3/F",
+                null
+              ],
+              [
+                "TW1283939",
+                "1999-02-12",
+                "TEMPORARY WAIVER LETTER WITH PLAN RE GROUND FLOOR",
+                null
+              ],
+              [
+                "TW1305235",
+                "1999-08-23",
+                "LEASE RE BASEMENT & G/F FOR 2 YEARS FROM 1.9.99",
+                null
+              ],
+              [
+                "TW1335261",
+                "2000-01-10",
+                "STATUTORY DECLARATION OF LAU SHU YAN, JULIUS",
+                null
+              ],
+              [
+                "TW1335262",
+                "2000-02-11",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "TW1335260",
+                "2000-02-11",
+                "RELEASE",
+                null
+              ],
+              [
+                "TW1518024",
+                "2003-03-26",
+                "ORDER NO.INVO00033/NT/03 UNDER S.26A(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW1556191",
+                "2003-12-31",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT A1 ON 5/F",
+                null
+              ],
+              [
+                "TW1556192",
+                "2003-12-31",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT A ON 1/F",
+                null
+              ],
+              [
+                "TW1599199",
+                "2004-09-13",
+                "LETTER OF COMPLIANCE RE THE CANOPY AT THE 1/F",
+                null
+              ],
+              [
+                "05052401880050",
+                "2005-04-28",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT A ON 6/F",
+                "THE RENT IS $34,500 PER MONTH"
+              ],
+              [
+                "06012601600028",
+                "2005-09-23",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT B ON 6TH FLOOR",
+                "THE RENT IS $32,200.00 PER MONTH"
+              ],
+              [
+                "06020701390028",
+                "2006-01-10",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT 6 ON 12/F",
+                "THE RENT IS $6,630.00 PER MONTH"
+              ],
+              [
+                "06020701390010",
+                "2006-01-10",
+                "LICENCE AGREEMENT WITH PLAN RE ROOF TOP",
+                "THE LICENCE FEE IS $13,500.00 PER MONTH"
+              ],
+              [
+                "07032201080026",
+                "2007-03-08",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT B ON 9/F",
+                "THE RENT IS $19,800.00 PER MONTH"
+              ],
+              [
+                "07032201080014",
+                "2007-03-08",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT A ON 9/F",
+                "THE RENT IS $19,800.00 PER MONTH"
+              ],
+              [
+                "10043001690091",
+                "2010-01-15",
+                "NOTICE NO. WNZ/U24-24/0001/08 BY THE BUILDING AUTHORITY UNDER SECTION 24C(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11101001840107",
+                "2011-09-15",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12102400840388",
+                "2012-09-04",
+                "TENANCY AGREEMENT WITH PLAN RE UNITS A2 AND B ON 13/F",
+                "THE RENT IS $53,102.40 PER MONTH"
+              ],
+              [
+                "12100500820017",
+                "2012-09-04",
+                "TENANCY AGREEMENT WITH PLAN RE UNITS A & B ON 3/F",
+                "THE RENT IS $105,640 PER MONTH"
+              ],
+              [
+                "13052300880011",
+                "2013-05-11",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT B ON 6/F OF PARK SUN BUILDING",
+                "FOR RENT SEE REMARKS"
+              ],
+              [
+                "14022801310010",
+                "2014-02-06",
+                "TENANCY AGREEMENT WITH PLAN RE UNITS A2 AND B ON 13/F OF PARK SUN BUILDING",
+                "THE RENT IS $57,408.00 PER MONTH"
+              ],
+              [
+                "16012600530011",
+                "2015-12-10",
+                "SATISFACTION LETTER",
+                null
+              ],
+              [
+                "17050200490111",
+                "2017-03-31",
+                "ORDER NO. \"C/HH/004391/16/NT\" BY THE BUILDING AUTHORITY UNDER S. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "17050200490121",
+                "2017-03-31",
+                "ORDER NO. \"D00927/NT/16/HH\" BY THE BUILDING AUTHORITY UNDER S. 26 OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "18071700930097",
+                "2018-06-20",
+                "WAIVER LETTER",
+                null
+              ],
+              [
+                "21101200940021",
+                "2021-09-29",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "22080301660015",
+                "2022-07-05",
+                "TERMINATION LETTER",
+                null
+              ],
+              [
+                "23080401570018",
+                "2023-07-06",
+                "DUPLICATE OR COUNTERPART TENANCY AGREEMENT WITH PLAN RE UNIT B ON 6/F OF PARK SUN BUILDING",
+                "THE RENT IS $103,500.00 PER MONTH"
+              ],
+              [
+                "23102600370114",
+                "2023-07-25",
+                "LETTER OF WITHDRAWAL (ORDER NO. \"C/HH/004391/16/NT\")",
+                null
+              ],
+              [
+                "23102600370101",
+                "2023-07-25",
+                "LETTER OF COMPLIANCE (ORDER NO. \"D00927/NT/16/HH\")",
+                null
+              ]
+            ]
+          ],
+          [
+            "KCTL 146",
+            "New Grant Lot",
+            "C4461680",
+            [
+              [
+                "TW116701",
+                "1974-10-11",
+                "CERTIFIED LAY-OUT PLAN",
+                null
+              ],
+              [
+                "TW120602",
+                "1975-02-20",
+                "TENANCY AGREEMENT RE UNIT A ON 9/F",
+                null
+              ],
+              [
+                "TW120601",
+                "1975-03-07",
+                "TENANCY AGREEMENT RE UNITS A & B ON 7/F",
+                null
+              ],
+              [
+                "TW121396",
+                "1975-03-21",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "TW121466",
+                "1975-03-26",
+                "TENANCY AGREEMENT RE UNIT B ON 10/F",
+                null
+              ],
+              [
+                "TW122417",
+                "1975-04-25",
+                "TENANCY AGREEMENT RE UNITS A & B ON 4/F",
+                null
+              ],
+              [
+                "TW123907",
+                "1975-05-26",
+                "TENANCY AGREEMENT RE UNITS A & B ON 8/F",
+                null
+              ],
+              [
+                "TW124417",
+                "1975-05-26",
+                "TENANCY AGREEMENT RE UNIT B ON 9/F",
+                null
+              ],
+              [
+                "TW124416",
+                "1975-07-08",
+                "TENANCY AGREEMENT RE UNITS A & B ON 6/F",
+                null
+              ],
+              [
+                "TW125301",
+                "1975-08-12",
+                "TENANCY AGREEMENT RE UNITS A & B ON 12/F",
+                null
+              ],
+              [
+                "TW125442",
+                "1975-09-04",
+                "TENANCY AGREEMENT RE UNIT B ON 11/F",
+                null
+              ],
+              [
+                "TW125310",
+                "1975-09-04",
+                "TENANCY AGREEMENT RE UNIT A ON 11/F",
+                null
+              ],
+              [
+                "TW131883",
+                "1976-02-19",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "TW131884",
+                "1976-02-19",
+                "MORTGAGE",
+                "20000000.0"
+              ],
+              [
+                "TW129287",
+                "1976-03-05",
+                "TENANCY AGREEMENT RE FACTORY UNIT B ON 2/F",
+                null
+              ],
+              [
+                "TW132182",
+                "1976-05-01",
+                "TENANCY AGREEMENT RE FACTORY UNITS A & B ON 1/F",
+                null
+              ],
+              [
+                "TW133311",
+                "1976-07-03",
+                "TENANCY AGREEMENT RE FACTORY A ON 2/F",
+                null
+              ],
+              [
+                "TW149356",
+                "1977-09-19",
+                "TENANCY AGREEMENT FOR 2 YEARS FROM 7.8.1977 TO 6.8.1979",
+                null
+              ],
+              [
+                "TW148572",
+                "1977-09-24",
+                "SURRENDER",
+                null
+              ],
+              [
+                "TW148573",
+                "1977-09-24",
+                "TENANCY AGREEMENT RE FACTORY B ON 10/F",
+                null
+              ],
+              [
+                "TW161315",
+                "1978-05-22",
+                "TENANCY AGREEMENT RE UNITS A & B ON 1/F",
+                null
+              ],
+              [
+                "TW164716",
+                "1978-08-02",
+                "SURRENDER",
+                null
+              ],
+              [
+                "TW164723",
+                "1978-08-04",
+                "SURRENDER",
+                null
+              ],
+              [
+                "TW164694",
+                "1978-08-16",
+                "TENANCY AGREEMENT RE FACTORY UNIT A ON 2/F",
+                null
+              ],
+              [
+                "TW182043",
+                "1979-09-26",
+                "TENANCY AGREEMENT RE FACTORY UNITS A & B ON G/F",
+                null
+              ],
+              [
+                "TW186890",
+                "1980-01-02",
+                "FURTHER CHARGE",
+                null
+              ],
+              [
+                "TW308149",
+                "1984-03-10",
+                "TENANCY AGREEMENT RE UNITS A & B ON G/F",
+                null
+              ],
+              [
+                "TW316686",
+                "1984-04-02",
+                "TENANCY AGREEMENT RE UNITS A & B ON 9/F",
+                null
+              ],
+              [
+                "TW327151",
+                "1984-05-14",
+                "TENANCY AGREEMENT RE UNIT B ON 4/F, UNITS A & B ON 6/F & UNIT A ON 11/F",
+                null
+              ],
+              [
+                "TW316318",
+                "1984-05-16",
+                "TENANCY AGREEMENT RE UNIT B ON 2/F",
+                null
+              ],
+              [
+                "TW316317",
+                "1984-05-16",
+                "TENANCY AGREEMENT RE UNITS A & B ON 8/F",
+                null
+              ],
+              [
+                "TW317314",
+                "1984-05-26",
+                "TENANCY AGREEMENT RE UNIT A ON 3/F",
+                null
+              ],
+              [
+                "TW334869",
+                "1984-12-17",
+                "TENANCY AGREEMENT RE UNIT A ON 10/F",
+                null
+              ],
+              [
+                "TW368643",
+                "1985-12-02",
+                "TENANCY AGREEMENT RE UNIT B ON 11/F",
+                null
+              ],
+              [
+                "TW927503",
+                "1993-11-12",
+                "LEASE WITH PLAN RE BASEMENT & G/F",
+                null
+              ],
+              [
+                "TW1046582",
+                "1996-03-05",
+                "LEASE RE BASEMENT AND G/F",
+                null
+              ],
+              [
+                "TW1333261",
+                "1997-02-14",
+                "DUPLICATE COPY OF TENANCY AGREEMENT WITH PLAN RE UNIT 3B ON 3/F",
+                null
+              ],
+              [
+                "TW1188946",
+                "1997-12-10",
+                "TEMPORARY WAIVER LETTER WITH PLAN RE UNIT 3B OF 3/F",
+                null
+              ],
+              [
+                "TW1210997",
+                "1998-05-11",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT A ON 3/F",
+                null
+              ],
+              [
+                "TW1283939",
+                "1999-02-12",
+                "TEMPORARY WAIVER LETTER WITH PLAN RE GROUND FLOOR",
+                null
+              ],
+              [
+                "TW1305235",
+                "1999-08-23",
+                "LEASE RE BASEMENT & G/F FOR 2 YEARS FROM 1.9.99",
+                null
+              ],
+              [
+                "TW1335261",
+                "2000-01-10",
+                "STATUTORY DECLARATION OF LAU SHU YAN, JULIUS",
+                null
+              ],
+              [
+                "TW1335260",
+                "2000-02-11",
+                "RELEASE",
+                null
+              ],
+              [
+                "TW1335262",
+                "2000-02-11",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "TW1518024",
+                "2003-03-26",
+                "ORDER NO.INVO00033/NT/03 UNDER S.26A(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "TW1545345",
+                "2003-10-20",
+                "TENANCY AGREEMENT WITH PLAN RE UNITS 5 & 6 ON 4/F",
+                null
+              ],
+              [
+                "TW1556191",
+                "2003-12-31",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT A1 ON 5/F",
+                null
+              ],
+              [
+                "TW1556192",
+                "2003-12-31",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT A ON 1/F",
+                null
+              ],
+              [
+                "TW1599199",
+                "2004-09-13",
+                "LETTER OF COMPLIANCE RE THE CANOPY AT THE 1/F",
+                null
+              ],
+              [
+                "TW1605993",
+                "2004-11-05",
+                "TENANCY AGREEMENT WITH PLAN RE UNITS 7 & 8 ON 8/F",
+                null
+              ],
+              [
+                "TW1622964",
+                "2005-01-24",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT B ON 6/F (PORTION OF 6TH FLOOR)",
+                null
+              ],
+              [
+                "05052401880050",
+                "2005-04-28",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT A ON 6/F",
+                "THE RENT IS $34,500 PER MONTH"
+              ],
+              [
+                "06012601600028",
+                "2005-09-23",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT B ON 6TH FLOOR",
+                "THE RENT IS $32,200.00 PER MONTH"
+              ],
+              [
+                "06020701390010",
+                "2006-01-10",
+                "LICENCE AGREEMENT WITH PLAN RE ROOF TOP",
+                "THE LICENCE FEE IS $13,500.00 PER MONTH"
+              ],
+              [
+                "06020701390028",
+                "2006-01-10",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT 6 ON 12/F",
+                "THE RENT IS $6,630.00 PER MONTH"
+              ],
+              [
+                "07032201080026",
+                "2007-03-08",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT B ON 9/F",
+                "THE RENT IS $19,800.00 PER MONTH"
+              ],
+              [
+                "07032201080014",
+                "2007-03-08",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT A ON 9/F",
+                "THE RENT IS $19,800.00 PER MONTH"
+              ],
+              [
+                "10043001690091",
+                "2010-01-15",
+                "NOTICE NO. WNZ/U24-24/0001/08 BY THE BUILDING AUTHORITY UNDER SECTION 24C(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11101001840107",
+                "2011-09-15",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "12102400840388",
+                "2012-09-04",
+                "TENANCY AGREEMENT WITH PLAN RE UNITS A2 AND B ON 13/F",
+                "THE RENT IS $53,102.40 PER MONTH"
+              ],
+              [
+                "12100500820017",
+                "2012-09-04",
+                "TENANCY AGREEMENT WITH PLAN RE UNITS A & B ON 3/F",
+                "THE RENT IS $105,640 PER MONTH"
+              ],
+              [
+                "13052300880011",
+                "2013-05-11",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT B ON 6/F OF PARK SUN BUILDING",
+                "FOR RENT SEE REMARKS"
+              ],
+              [
+                "14022801310010",
+                "2014-02-06",
+                "TENANCY AGREEMENT WITH PLAN RE UNITS A2 AND B ON 13/F OF PARK SUN BUILDING",
+                "THE RENT IS $57,408.00 PER MONTH"
+              ],
+              [
+                "16012600530011",
+                "2015-12-10",
+                "SATISFACTION LETTER",
+                null
+              ],
+              [
+                "17050200490121",
+                "2017-03-31",
+                "ORDER NO. \"D00927/NT/16/HH\" BY THE BUILDING AUTHORITY UNDER S. 26 OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "17050200490111",
+                "2017-03-31",
+                "ORDER NO. \"C/HH/004391/16/NT\" BY THE BUILDING AUTHORITY UNDER S. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "18071700930097",
+                "2018-06-20",
+                "WAIVER LETTER",
+                null
+              ],
+              [
+                "21101200940021",
+                "2021-09-29",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "22080301660015",
+                "2022-07-05",
+                "TERMINATION LETTER",
+                null
+              ],
+              [
+                "23080401570018",
+                "2023-07-06",
+                "DUPLICATE OR COUNTERPART TENANCY AGREEMENT WITH PLAN RE UNIT B ON 6/F OF PARK SUN BUILDING",
+                "THE RENT IS $103,500.00 PER MONTH"
+              ],
+              [
+                "23102600370114",
+                "2023-07-25",
+                "LETTER OF WITHDRAWAL (ORDER NO. \"C/HH/004391/16/NT\")",
+                null
+              ],
+              [
+                "23102600370101",
+                "2023-07-25",
+                "LETTER OF COMPLIANCE (ORDER NO. \"D00927/NT/16/HH\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992099472543312,
@@ -2305,7 +4753,21 @@
         1100007715,
         "SIN HUA BANK BUILDING",
         "1 - 11 SHEK YI ROAD",
-        []
+        [
+          [
+            "KCTL 240",
+            "New Grant Lot",
+            "C4462323",
+            [
+              [
+                "TW119907",
+                "1974-11-29",
+                "LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921110543357037,
@@ -2324,7 +4786,39 @@
         1100007840,
         "KAM WA BUILDING",
         "21 - 25 SHEK YAM ROAD",
-        []
+        [
+          [
+            "KCTL 171",
+            "New Grant Lot",
+            "C4461845",
+            [
+              [
+                "TW91039",
+                "1971-08-20",
+                "LETTER",
+                null
+              ],
+              [
+                "TW96737",
+                "1972-07-24",
+                "BUILDING MORTGAGE",
+                "1900000.0"
+              ],
+              [
+                "TW125015",
+                "1975-08-20",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "TW331270",
+                "1975-10-23",
+                "LETTER OF COMPLIANCE",
+                "44000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921097875723874,
@@ -2343,7 +4837,33 @@
         1100007887,
         "SHEK CHEUNG HOUSE",
         "12 TAI PAK TIN STREET",
-        []
+        [
+          [
+            "KCTL 505 RP",
+            "New Grant Lot",
+            "D1761099",
+            [
+              [
+                "10042602120027",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10072001060028",
+                "2010-07-14",
+                "LETTER OF APPROVAL",
+                null
+              ],
+              [
+                "10081801770011",
+                "2010-08-09",
+                "DEED OF MUTUAL GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921301274575036,
@@ -2362,7 +4882,51 @@
         1100007920,
         "SING SHING BUILDING",
         "19 SHEK YAM ROAD",
-        []
+        [
+          [
+            "KCTL 172",
+            "New Grant Lot",
+            "C4461855",
+            [
+              [
+                "TW85953",
+                "1970-10-30",
+                "-",
+                "750000.0"
+              ],
+              [
+                "TW87270",
+                "1971-02-16",
+                "A LETTER",
+                null
+              ],
+              [
+                "TW87372",
+                "1971-03-10",
+                "BUILDING MORTGAGE TO SECURE BANKING FACILITIES",
+                "500000.0"
+              ],
+              [
+                "TW88360",
+                "1971-05-17",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW102296",
+                "1973-02-09",
+                "LETTER",
+                null
+              ],
+              [
+                "TW101850",
+                "1973-03-12",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921066090045605,
@@ -2381,7 +4945,33 @@
         1100007931,
         null,
         null,
-        []
+        [
+          [
+            "KCTL 505 RP",
+            "New Grant Lot",
+            "D1761099",
+            [
+              [
+                "10042602120027",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10072001060028",
+                "2010-07-14",
+                "LETTER OF APPROVAL",
+                null
+              ],
+              [
+                "10081801770011",
+                "2010-08-09",
+                "DEED OF MUTUAL GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992135517972393,
@@ -2419,7 +5009,27 @@
         1100007977,
         "KONG SHENG FACTORY BUILDING",
         "75 - 87 WO YI HOP ROAD",
-        []
+        [
+          [
+            "DD444 291",
+            "New Grant Lot",
+            "C1475779",
+            [
+              [
+                "TW79354",
+                "1966-03-17",
+                "MORTGAGE TO GRANT GENERAL BANKING FACILITIES RE LOT NO.291 IN DD444",
+                "3000000.0"
+              ],
+              [
+                "TW80776",
+                "1967-06-01",
+                "REDEMPTION RE 28/172 SHARE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992094452294416,
@@ -2457,7 +5067,27 @@
         1100007992,
         "HOOVER COURT",
         "33 - 57 TAI PAK TIN STREET",
-        []
+        [
+          [
+            "KCTL 211",
+            "New Grant Lot",
+            "C6022297",
+            [
+              [
+                "TW87379",
+                "1971-02-11",
+                "LETTER",
+                null
+              ],
+              [
+                "TW88132",
+                "1971-05-03",
+                "UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921163014758057,
@@ -2495,7 +5125,33 @@
         1100008024,
         "SHEK YAN HOUSE",
         "17 SHEK LI STREET",
-        []
+        [
+          [
+            "KCTL 505 RP",
+            "New Grant Lot",
+            "D1761099",
+            [
+              [
+                "10042602120027",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10072001060028",
+                "2010-07-14",
+                "LETTER OF APPROVAL",
+                null
+              ],
+              [
+                "10081801770011",
+                "2010-08-09",
+                "DEED OF MUTUAL GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921381903415816,
@@ -2514,7 +5170,33 @@
         1100008054,
         "SHEK FU HOUSE",
         "10 TAI PAK TIN STREET",
-        []
+        [
+          [
+            "KCTL 505 RP",
+            "New Grant Lot",
+            "D1761099",
+            [
+              [
+                "10042602120027",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10072001060028",
+                "2010-07-14",
+                "LETTER OF APPROVAL",
+                null
+              ],
+              [
+                "10081801770011",
+                "2010-08-09",
+                "DEED OF MUTUAL GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921240269912652,
@@ -2533,7 +5215,39 @@
         1100008073,
         "ON SHING BUILDING",
         "19 - 31 TAI PAK TIN STREET",
-        []
+        [
+          [
+            "KCTL 226",
+            "New Grant Lot",
+            "C4462238",
+            [
+              [
+                "TW89025",
+                "1971-06-21",
+                "CONVEYANCE ON SALE",
+                "1080000.0"
+              ],
+              [
+                "TW95363",
+                "1972-05-26",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW104130",
+                "1973-06-07",
+                "LETTER",
+                null
+              ],
+              [
+                "TW361708",
+                "1973-08-16",
+                "COPY LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921124486689372,
@@ -2552,7 +5266,33 @@
         1100008100,
         "YI WO BUILDING",
         "2 SHEK YAM ROAD",
-        []
+        [
+          [
+            "KCTL 203",
+            "New Grant Lot",
+            "C4462080",
+            [
+              [
+                "TW95170",
+                "1972-04-26",
+                "BUILDING MORTGAGE RE KCTL 203",
+                "1600000.0"
+              ],
+              [
+                "TW97906",
+                "1972-10-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW98905",
+                "1972-10-30",
+                "SUPPLEMENTAL DEED & DEED OF VARIATION RE KCTL 203",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921072720462047,
@@ -2590,7 +5330,27 @@
         1100008163,
         null,
         "60 WO YI HOP ROAD",
-        []
+        [
+          [
+            "KCTL 209",
+            "New Grant Lot",
+            "C4462129",
+            [
+              [
+                "TW114490",
+                "1974-07-18",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW117099",
+                "1974-09-07",
+                "LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921018622423625,
@@ -2647,7 +5407,45 @@
         1100008217,
         null,
         "13 - 15 TAI PAK TIN STREET",
-        []
+        [
+          [
+            "KCTL 252",
+            "New Grant Lot",
+            "C5188595",
+            [
+              [
+                "TW95648",
+                "1972-06-05",
+                "-",
+                "700000.0"
+              ],
+              [
+                "TW100152",
+                "1972-12-27",
+                "BUILDING MORTGAGE",
+                "1900000.0"
+              ],
+              [
+                "TW111070",
+                "1974-02-25",
+                "UNDERTAKING BY CENTRAL INT. LTD.",
+                null
+              ],
+              [
+                "TW115642",
+                "1974-06-20",
+                "LETTER",
+                null
+              ],
+              [
+                "TW116768",
+                "1974-09-25",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921053519231362,
@@ -2685,7 +5483,33 @@
         1100008247,
         "SHEK KWONG HOUSE",
         "15 SHEK LI STREET",
-        []
+        [
+          [
+            "KCTL 505 RP",
+            "New Grant Lot",
+            "D1761099",
+            [
+              [
+                "10042602120027",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10072001060028",
+                "2010-07-14",
+                "LETTER OF APPROVAL",
+                null
+              ],
+              [
+                "10081801770011",
+                "2010-08-09",
+                "DEED OF MUTUAL GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921334394849848,
@@ -2723,7 +5547,51 @@
         1100008250,
         "KWAI CHUNG FA YUEN",
         "50 - 56 WO YI HOP ROAD",
-        []
+        [
+          [
+            "KCTL 266",
+            "New Grant Lot",
+            "C4462472",
+            [
+              [
+                "TW184030",
+                "1979-10-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW249940",
+                "1982-01-05",
+                "STATUTORY DECLARATION BY WELLINGTON WONG",
+                null
+              ],
+              [
+                "TW246796",
+                "1982-03-03",
+                "DEBENTURE",
+                "160000000.0"
+              ],
+              [
+                "TW246797",
+                "1982-03-17",
+                "LETTER OF CONSENT AND LETTERS ACCEPTING CONSENT CONDITIONS",
+                null
+              ],
+              [
+                "TW249941",
+                "1982-04-02",
+                "STATUTORY DECLARATION BY WELLINGTON WONG",
+                null
+              ],
+              [
+                "TW250095",
+                "1982-06-07",
+                "UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921002495134177,
@@ -2761,7 +5629,33 @@
         1100008253,
         "SHEK FUK HOUSE",
         "6 TAI PAK TIN STREET",
-        []
+        [
+          [
+            "KCTL 505 RP",
+            "New Grant Lot",
+            "D1761099",
+            [
+              [
+                "10042602120027",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10072001060028",
+                "2010-07-14",
+                "LETTER OF APPROVAL",
+                null
+              ],
+              [
+                "10081801770011",
+                "2010-08-09",
+                "DEED OF MUTUAL GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992111874514656,
@@ -2780,7 +5674,33 @@
         1100008267,
         "SHEK HEI HOUSE",
         "8 TAI PAK TIN STREET",
-        []
+        [
+          [
+            "KCTL 505 RP",
+            "New Grant Lot",
+            "D1761099",
+            [
+              [
+                "10042602120027",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10072001060028",
+                "2010-07-14",
+                "LETTER OF APPROVAL",
+                null
+              ],
+              [
+                "10081801770011",
+                "2010-08-09",
+                "DEED OF MUTUAL GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921168183686733,
@@ -2856,7 +5776,39 @@
         1100008365,
         "VICTORY GARDEN",
         "153 TAI LOONG STREET",
-        []
+        [
+          [
+            "KCTL 402",
+            "New Grant Lot",
+            "C6694341",
+            [
+              [
+                "TW451611",
+                "1986-10-17",
+                "DEVELOPMENT AND SHAREHOLDERS' AGREEMENT",
+                null
+              ],
+              [
+                "TW408753",
+                "1986-10-28",
+                "MEMORANDUM OF CAR PARK LAYOUT WITH CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TW457574",
+                "1987-07-15",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW458793",
+                "1987-08-05",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920976595143758,
@@ -2875,7 +5827,33 @@
         1100008374,
         "SHEK LEI COMMUNITY HALL",
         "2 TAI PAK TIN STREET",
-        []
+        [
+          [
+            "KCTL 505 RP",
+            "New Grant Lot",
+            "D1761099",
+            [
+              [
+                "10042602120027",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10072001060028",
+                "2010-07-14",
+                "LETTER OF APPROVAL",
+                null
+              ],
+              [
+                "10081801770011",
+                "2010-08-09",
+                "DEED OF MUTUAL GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921058784511254,
@@ -2951,7 +5929,33 @@
         1100008414,
         "SHEK WING HOUSE",
         "11 SHEK LI STREET",
-        []
+        [
+          [
+            "KCTL 505 RP",
+            "New Grant Lot",
+            "D1761099",
+            [
+              [
+                "10042602120027",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10072001060028",
+                "2010-07-14",
+                "LETTER OF APPROVAL",
+                null
+              ],
+              [
+                "10081801770011",
+                "2010-08-09",
+                "DEED OF MUTUAL GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921251320859799,
@@ -2989,7 +5993,27 @@
         1100008448,
         "KWAI DAO BUILDING",
         "129 - 151 TAI LOONG STREET",
-        []
+        [
+          [
+            "KCTL 246",
+            "New Grant Lot",
+            "C4462368",
+            [
+              [
+                "TW89032",
+                "1971-06-14",
+                "ASSIGNMENT",
+                "796250.0"
+              ],
+              [
+                "TW102155",
+                "1973-05-02",
+                "UNDERTAKING BY WANG TEH HUEI",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992098441482116,
@@ -3008,7 +6032,33 @@
         1100008461,
         "YUEN YUEN 1 SECONDARY SCHOOL SUBSTATION",
         null,
-        []
+        [
+          [
+            "KCTL 306",
+            "New Grant Lot",
+            "C4462772",
+            [
+              [
+                "TW432663",
+                "1987-02-25",
+                "MODIFICATION LETTER AS PER PLAN",
+                null
+              ],
+              [
+                "TW761581",
+                "1991-07-19",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "20073100510117",
+                "2020-07-14",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992094854996787,
@@ -3027,7 +6077,14 @@
         1100008512,
         "CHEONG SHEN MANSION",
         "113 - 127 TAI LOONG STREET",
-        []
+        [
+          [
+            "KCTL 152",
+            "New Grant Lot",
+            "C4461727",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992092257085116,
@@ -3046,7 +6103,33 @@
         1100014783,
         null,
         "120 LEI MUK ROAD",
-        []
+        [
+          [
+            "KCTL 506 RP",
+            "New Grant Lot",
+            "D1733011",
+            [
+              [
+                "10012702780013",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10060402430137",
+                "2010-05-17",
+                "APPROVAL LETTER",
+                null
+              ],
+              [
+                "10063001980054",
+                "2010-06-18",
+                "DEED OF MUTUAL GRANT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921005392002447,
@@ -3065,7 +6148,33 @@
         1100014790,
         "SHEK YAM SHOPPING CENTRE",
         "120 LEI MUK ROAD",
-        []
+        [
+          [
+            "KCTL 506 RP",
+            "New Grant Lot",
+            "D1733011",
+            [
+              [
+                "10012702780013",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10060402430137",
+                "2010-05-17",
+                "APPROVAL LETTER",
+                null
+              ],
+              [
+                "10063001980054",
+                "2010-06-18",
+                "DEED OF MUTUAL GRANT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921001412700172,
@@ -3084,7 +6193,45 @@
         1100014813,
         "LION BUILDING",
         null,
-        []
+        [
+          [
+            "KCTL 162",
+            "New Grant Lot",
+            "C5860783",
+            [
+              [
+                "TW85380",
+                "1970-08-08",
+                "-",
+                "490000.0"
+              ],
+              [
+                "TW87358",
+                "1971-02-24",
+                "A LETTER",
+                null
+              ],
+              [
+                "TW89612",
+                "1971-08-11",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW89613",
+                "1971-08-11",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW89793",
+                "1971-08-24",
+                "BUILDING MORTGAGE RE KCTL 162",
+                "1500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920940244459382,
@@ -3122,7 +6269,45 @@
         1100014817,
         null,
         "186 - 218 WO YI HOP ROAD",
-        []
+        [
+          [
+            "KCTL 243",
+            "New Grant Lot",
+            "C4462336",
+            [
+              [
+                "TW88943",
+                "1971-05-29",
+                "ASSIGNMENT",
+                "1031485.25"
+              ],
+              [
+                "TW113224",
+                "1974-06-07",
+                "UNDERTAKING BY KWONG HEY DEV. CO. LTD. & SHUI CHEONG LAND INV.CO.LTD.",
+                null
+              ],
+              [
+                "TW113225",
+                "1974-06-07",
+                "UNDERTAKING BY SIU ON REALTY CO. LTD. & WING TAI DEV. CO. LTD.",
+                null
+              ],
+              [
+                "TW113223",
+                "1974-06-07",
+                "UNDERTAKING BY SHUI CHEONG LAND INVESTMENT CO. LTD.",
+                null
+              ],
+              [
+                "TW126594",
+                "1975-09-30",
+                "A LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920926135802277,
@@ -3141,7 +6326,45 @@
         1100014822,
         "KWOK PO BUILDING",
         null,
-        []
+        [
+          [
+            "KCTL 244",
+            "New Grant Lot",
+            "C4462346",
+            [
+              [
+                "TW88365",
+                "1971-04-26",
+                "-",
+                "463600.0"
+              ],
+              [
+                "TW89640",
+                "1971-07-15",
+                "LETTER",
+                null
+              ],
+              [
+                "TW90306",
+                "1971-09-24",
+                "BUILDING MORTGAGE",
+                "500000.0"
+              ],
+              [
+                "TW98447",
+                "1972-09-08",
+                "OCCUPATION PERMIT",
+                null
+              ],
+              [
+                "TW99036",
+                "1972-10-20",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920980391298497,
@@ -3160,7 +6383,27 @@
         1100014823,
         "KWAI FAT BUILDING",
         null,
-        []
+        [
+          [
+            "KCTL 210",
+            "New Grant Lot",
+            "C4462131",
+            [
+              [
+                "TW88283",
+                "1971-04-23",
+                "A LETTER",
+                null
+              ],
+              [
+                "TW91793",
+                "1971-09-29",
+                "UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992108183873449,
@@ -3179,7 +6422,45 @@
         1100014829,
         "TIN ON HOUSE",
         null,
-        []
+        [
+          [
+            "KCTL 176",
+            "New Grant Lot",
+            "C4461889",
+            [
+              [
+                "TW89300",
+                "1971-07-12",
+                "ASSIGNMENT",
+                "518768.0"
+              ],
+              [
+                "TW89637",
+                "1971-07-13",
+                "LETTER",
+                null
+              ],
+              [
+                "TW91273",
+                "1971-11-01",
+                "BUILDING MORTGAGE",
+                "1500000.0"
+              ],
+              [
+                "TW329825",
+                "1973-02-19",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW103983",
+                "1973-06-01",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921122353757204,
@@ -3198,7 +6479,39 @@
         1100014834,
         null,
         null,
-        []
+        [
+          [
+            "KCTL 225",
+            "New Grant Lot",
+            "C4787735",
+            [
+              [
+                "TW90544",
+                "1971-07-05",
+                "LETTER",
+                null
+              ],
+              [
+                "TW90044",
+                "1971-09-10",
+                "BUILDING MORTGAGE",
+                "900000.0"
+              ],
+              [
+                "TW92993",
+                "1972-02-24",
+                "UNDERTAKING BY KIU KWONG CONSTRUCTION COMPANY",
+                null
+              ],
+              [
+                "TW98849",
+                "1972-10-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921049965536424,
@@ -3217,7 +6530,45 @@
         1100014835,
         null,
         "138 - 184 WO YI HOP ROAD",
-        []
+        [
+          [
+            "KCTL 241",
+            "New Grant Lot",
+            "C5490859",
+            [
+              [
+                "TW87530",
+                "1971-03-29",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "2063750.0"
+              ],
+              [
+                "TW89422",
+                "1971-07-02",
+                "ASSIGNMENT",
+                "2063750.0"
+              ],
+              [
+                "TW111220",
+                "1974-02-27",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW111221",
+                "1974-02-27",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "18040300120013",
+                "1974-10-03",
+                "CERTIFIED COPY LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921050879255189,
@@ -3236,7 +6587,21 @@
         1100014840,
         "LUEN FAT INDUSTRIAL NO3 BUILDING",
         null,
-        []
+        [
+          [
+            "KCTL 14",
+            "New Grant Lot",
+            "C4461056",
+            [
+              [
+                "TW127034",
+                "1975-05-16",
+                "PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920937890888288,
@@ -3255,7 +6620,51 @@
         1100014841,
         "KAM LUK BUILDING",
         null,
-        []
+        [
+          [
+            "KCTL 247",
+            "New Grant Lot",
+            "C4462375",
+            [
+              [
+                "TW88746",
+                "1971-06-10",
+                "-",
+                "648970.0"
+              ],
+              [
+                "TW88747",
+                "1971-06-10",
+                "DECLARATION OF TRUST",
+                null
+              ],
+              [
+                "TW89042",
+                "1971-06-22",
+                "-",
+                null
+              ],
+              [
+                "TW99216",
+                "1972-11-08",
+                "FURTHER CHARGE AND BUILDING MORTGAGE",
+                null
+              ],
+              [
+                "TW100221",
+                "1972-11-21",
+                "LETTER",
+                null
+              ],
+              [
+                "TW102038",
+                "1973-04-02",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921101752119774,
@@ -3274,7 +6683,51 @@
         1100014853,
         null,
         "44 - 66 SHEK YAM ROAD",
-        []
+        [
+          [
+            "KCTL 221",
+            "New Grant Lot",
+            "C4462190",
+            [
+              [
+                "TW90303",
+                "1971-08-12",
+                "LETTER",
+                null
+              ],
+              [
+                "TW90328",
+                "1971-09-14",
+                "-",
+                "700000.0"
+              ],
+              [
+                "TW93466",
+                "1972-03-09",
+                "FURTHER CHARGE AND BUILDING MORTGAGE",
+                "3500000.0"
+              ],
+              [
+                "TW95205",
+                "1972-05-16",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW102430",
+                "1973-01-30",
+                "LETTER",
+                null
+              ],
+              [
+                "TW103532",
+                "1973-04-12",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921185583173133,
@@ -3293,7 +6746,315 @@
         1100014855,
         null,
         null,
-        []
+        [
+          [
+            "KCTL 167",
+            "New Grant Lot",
+            "C4461811",
+            [
+              [
+                "TW101039",
+                "1973-01-22",
+                "BUILDING MORTGAGE",
+                "3300000.0"
+              ],
+              [
+                "TW100557",
+                "1973-01-24",
+                "LAYOUT PLAN",
+                null
+              ],
+              [
+                "TW113276",
+                "1974-03-25",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "TW113277",
+                "1974-03-25",
+                "AGREEMENT FOR MORTGAGE",
+                "8500000.0"
+              ],
+              [
+                "TW116852",
+                "1974-08-12",
+                "MORTGAGE",
+                "8500000.0"
+              ],
+              [
+                "TW116853",
+                "1974-08-12",
+                "FURTHER CHARGE",
+                null
+              ],
+              [
+                "TW116118",
+                "1974-09-03",
+                "LETTER FROM DISTRICT OFFICE TSUEN WAN",
+                null
+              ],
+              [
+                "TW116234",
+                "1974-09-13",
+                "TENANCY AGREEMENT FOR 3 YEARS FROM 1.10.74 RE 10/F",
+                null
+              ],
+              [
+                "TW116235",
+                "1974-09-13",
+                "TENANCY AGREEMENT FOR 10 YEARS FROM 1.10.74",
+                null
+              ],
+              [
+                "TW117151",
+                "1974-10-16",
+                "TENANCY AGREEMENT RE 11/F",
+                null
+              ],
+              [
+                "TW118823",
+                "1974-12-07",
+                "TENANCY AGREEMENT FOR 3 YEARS FROM 1.10.74 TO 30.9.77 RE 8/F & 9/F",
+                null
+              ],
+              [
+                "TW123112",
+                "1975-04-30",
+                "TENANCY AGREEMENT FOR 3 YEARS FROM 1.5.75 RE 7TH FLOOR",
+                null
+              ],
+              [
+                "TW123702",
+                "1975-05-27",
+                "TENANCY AGREEMENT FOR 3 YEARS FROM 1.6.75 RE 6TH FLOOR",
+                null
+              ],
+              [
+                "TW125790",
+                "1975-09-09",
+                "2ND FURTHER CHARGE",
+                "3000000.0"
+              ],
+              [
+                "TW137261",
+                "1976-01-19",
+                "DEED OF RECTIFICATION",
+                null
+              ],
+              [
+                "TW130713",
+                "1976-03-10",
+                "SUPPLEMENTAL AGREEMENT IN RESPECT OF 8TH FLOOR",
+                "48100.0"
+              ],
+              [
+                "TW132446",
+                "1976-05-12",
+                "TENANCY AGREEMENT FOR 3 YEARS & 1 MONTH FROM 1.3.76 RE 8TH FLOOR",
+                null
+              ],
+              [
+                "TW142036",
+                "1977-04-15",
+                "FURTHER CHARGE",
+                "2700000.0"
+              ],
+              [
+                "TW147023",
+                "1977-07-26",
+                "FURTHER CHARGE",
+                "3000000.0"
+              ],
+              [
+                "TW149275",
+                "1977-10-04",
+                "DEED OF RECTIFICATION AND CONFIRMATION",
+                null
+              ],
+              [
+                "TW161469",
+                "1978-05-30",
+                "TENANCY AGREEMENT FOR 2 YEARS FROM 1.6.78 RE 6TH FLOOR",
+                null
+              ],
+              [
+                "TW161470",
+                "1978-05-30",
+                "TENANCY AGREEMENT FOR 3 YEARS FROM 1.5.78 RE 7TH FLOOR",
+                null
+              ],
+              [
+                "TW162302",
+                "1978-06-17",
+                "FURTHER CHARGE AND MORTGAGE",
+                null
+              ],
+              [
+                "TW162301",
+                "1978-06-17",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "TW166246",
+                "1978-09-25",
+                "TENANCY AGREEMENT FOR 5 YRS 11 MTHS & 16 DAYS FROM 16.10.78 RE 9/F",
+                null
+              ],
+              [
+                "TW172557",
+                "1979-01-04",
+                "FURTHER CHARGE",
+                "1300000.0"
+              ],
+              [
+                "TW183264",
+                "1979-07-13",
+                "FURTHER CHARGE",
+                null
+              ],
+              [
+                "TW191222",
+                "1980-02-07",
+                "DEED OF RECTIFICATION",
+                null
+              ],
+              [
+                "TW203822",
+                "1980-08-05",
+                "FURTHER CHARGE",
+                null
+              ],
+              [
+                "TW219882",
+                "1981-05-18",
+                "TENANCY AGREEMENT FROM 15.3.81 TO 30.9.84 RE 10TH FLOOR",
+                null
+              ],
+              [
+                "TW219881",
+                "1981-05-18",
+                "TENANCY AGREEMENT FROM 1.5.81 TO 30.9.84 RE 7TH FLOOR",
+                null
+              ],
+              [
+                "TW266212",
+                "1982-11-01",
+                "FURTHER CHARGE",
+                null
+              ],
+              [
+                "TW318202",
+                "1984-05-10",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW334886",
+                "1984-10-16",
+                "DEED OF NOVATION",
+                null
+              ],
+              [
+                "TW551230",
+                "1988-06-01",
+                "TENANCY AGREEMENT FOR 2 YEARS FROM 1.7.88 TO 30.6.90 WITH PLANS",
+                null
+              ],
+              [
+                "TW513854",
+                "1988-06-01",
+                "TENANCY AGREEMENT FOR 2 YEARS FROM 1.7.88 WITH PLANS",
+                null
+              ],
+              [
+                "TW513855",
+                "1988-06-01",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "83980000.0"
+              ],
+              [
+                "TW526381",
+                "1988-09-07",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "TW562564",
+                "1988-12-24",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "TW564170",
+                "1989-01-20",
+                "-",
+                "83980000.0"
+              ],
+              [
+                "TW564169",
+                "1989-01-20",
+                "PARTIAL RELEASE",
+                null
+              ],
+              [
+                "TW564171",
+                "1989-01-20",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "TW704888",
+                "1990-10-02",
+                "TENANCY AGREEMENT WITH PLAN FOR 1 YEAR FROM 1.10.90 TO 30.9.91",
+                null
+              ],
+              [
+                "TW704035",
+                "1990-10-19",
+                "DEED OF VARIATION OF MORTGAGE",
+                null
+              ],
+              [
+                "TW919370",
+                "1993-09-28",
+                "RELEASE",
+                null
+              ],
+              [
+                "TW944731",
+                "1994-03-11",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "150000000.0"
+              ],
+              [
+                "TW953407",
+                "1994-04-29",
+                "MORTGAGE OF KCTL 167",
+                null
+              ],
+              [
+                "TW953406",
+                "1994-04-29",
+                "-",
+                "150000000.0"
+              ],
+              [
+                "TW953408",
+                "1994-04-30",
+                "MEMORANDUM OF CHANGE OF NAME OF A BUILDING",
+                null
+              ],
+              [
+                "TW1162833",
+                "1997-08-09",
+                "DEED POLL WITH PLANS RE ALLOCATION OF UNDIVIDED SHARES",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992100030225462,
@@ -3312,7 +7073,33 @@
         1100014864,
         "LEE WO BUILDING",
         null,
-        []
+        [
+          [
+            "KCTL 239",
+            "New Grant Lot",
+            "C4787763",
+            [
+              [
+                "TW88070",
+                "1971-04-29",
+                "CONVEYANCE ON SALE",
+                "873680.0"
+              ],
+              [
+                "TW90531",
+                "1971-08-20",
+                "LETTER",
+                null
+              ],
+              [
+                "TW105954",
+                "1973-08-31",
+                "UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921102645415962,
@@ -3331,7 +7118,21 @@
         1100014865,
         "KWAI LAI BUILDING",
         null,
-        []
+        [
+          [
+            "KCTL 235",
+            "New Grant Lot",
+            "C4462280",
+            [
+              [
+                "TW93260",
+                "1972-02-22",
+                "UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992113644046354,
@@ -3350,7 +7151,21 @@
         1100014874,
         "SIN HUA BANK BUILDING",
         null,
-        []
+        [
+          [
+            "KCTL 240",
+            "New Grant Lot",
+            "C4462323",
+            [
+              [
+                "TW119907",
+                "1974-11-29",
+                "LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921110364682995,
@@ -3369,7 +7184,39 @@
         1100014887,
         "KAM WA BUILDING",
         null,
-        []
+        [
+          [
+            "KCTL 171",
+            "New Grant Lot",
+            "C4461845",
+            [
+              [
+                "TW91039",
+                "1971-08-20",
+                "LETTER",
+                null
+              ],
+              [
+                "TW96737",
+                "1972-07-24",
+                "BUILDING MORTGAGE",
+                "1900000.0"
+              ],
+              [
+                "TW125015",
+                "1975-08-20",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "TW331270",
+                "1975-10-23",
+                "LETTER OF COMPLIANCE",
+                "44000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992109980174368,
@@ -3388,7 +7235,51 @@
         1100014892,
         "SING SHING BUILDING",
         null,
-        []
+        [
+          [
+            "KCTL 172",
+            "New Grant Lot",
+            "C4461855",
+            [
+              [
+                "TW85953",
+                "1970-10-30",
+                "-",
+                "750000.0"
+              ],
+              [
+                "TW87270",
+                "1971-02-16",
+                "A LETTER",
+                null
+              ],
+              [
+                "TW87372",
+                "1971-03-10",
+                "BUILDING MORTGAGE TO SECURE BANKING FACILITIES",
+                "500000.0"
+              ],
+              [
+                "TW88360",
+                "1971-05-17",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW102296",
+                "1973-02-09",
+                "LETTER",
+                null
+              ],
+              [
+                "TW101850",
+                "1973-03-12",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921069660713988,
@@ -3407,7 +7298,27 @@
         1100014897,
         "HOOVER COURT",
         null,
-        []
+        [
+          [
+            "KCTL 211",
+            "New Grant Lot",
+            "C6022297",
+            [
+              [
+                "TW87379",
+                "1971-02-11",
+                "LETTER",
+                null
+              ],
+              [
+                "TW88132",
+                "1971-05-03",
+                "UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921168523098054,
@@ -3426,7 +7337,33 @@
         1100014904,
         null,
         null,
-        []
+        [
+          [
+            "KCTL 505 RP",
+            "New Grant Lot",
+            "D1761099",
+            [
+              [
+                "10042602120027",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10072001060028",
+                "2010-07-14",
+                "LETTER OF APPROVAL",
+                null
+              ],
+              [
+                "10081801770011",
+                "2010-08-09",
+                "DEED OF MUTUAL GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921345997852806,
@@ -3445,7 +7382,39 @@
         1100014909,
         "ON SHING BUILDING",
         null,
-        []
+        [
+          [
+            "KCTL 226",
+            "New Grant Lot",
+            "C4462238",
+            [
+              [
+                "TW89025",
+                "1971-06-21",
+                "CONVEYANCE ON SALE",
+                "1080000.0"
+              ],
+              [
+                "TW95363",
+                "1972-05-26",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW104130",
+                "1973-06-07",
+                "LETTER",
+                null
+              ],
+              [
+                "TW361708",
+                "1973-08-16",
+                "COPY LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921128166686792,
@@ -3464,7 +7433,33 @@
         1100014911,
         "YI WO BUILDING",
         null,
-        []
+        [
+          [
+            "KCTL 203",
+            "New Grant Lot",
+            "C4462080",
+            [
+              [
+                "TW95170",
+                "1972-04-26",
+                "BUILDING MORTGAGE RE KCTL 203",
+                "1600000.0"
+              ],
+              [
+                "TW97906",
+                "1972-10-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW98905",
+                "1972-10-30",
+                "SUPPLEMENTAL DEED & DEED OF VARIATION RE KCTL 203",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921069584865967,
@@ -3502,7 +7497,45 @@
         1100014922,
         null,
         null,
-        []
+        [
+          [
+            "KCTL 252",
+            "New Grant Lot",
+            "C5188595",
+            [
+              [
+                "TW95648",
+                "1972-06-05",
+                "-",
+                "700000.0"
+              ],
+              [
+                "TW100152",
+                "1972-12-27",
+                "BUILDING MORTGAGE",
+                "1900000.0"
+              ],
+              [
+                "TW111070",
+                "1974-02-25",
+                "UNDERTAKING BY CENTRAL INT. LTD.",
+                null
+              ],
+              [
+                "TW115642",
+                "1974-06-20",
+                "LETTER",
+                null
+              ],
+              [
+                "TW116768",
+                "1974-09-25",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992105558948056,
@@ -3521,7 +7554,33 @@
         1100014923,
         null,
         null,
-        []
+        [
+          [
+            "KCTL 505 RP",
+            "New Grant Lot",
+            "D1761099",
+            [
+              [
+                "10042602120027",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10072001060028",
+                "2010-07-14",
+                "LETTER OF APPROVAL",
+                null
+              ],
+              [
+                "10081801770011",
+                "2010-08-09",
+                "DEED OF MUTUAL GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921142766138018,
@@ -3540,7 +7599,51 @@
         1100014925,
         "KWAI CHUNG FA YUEN",
         null,
-        []
+        [
+          [
+            "KCTL 266",
+            "New Grant Lot",
+            "C4462472",
+            [
+              [
+                "TW184030",
+                "1979-10-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW249940",
+                "1982-01-05",
+                "STATUTORY DECLARATION BY WELLINGTON WONG",
+                null
+              ],
+              [
+                "TW246796",
+                "1982-03-03",
+                "DEBENTURE",
+                "160000000.0"
+              ],
+              [
+                "TW246797",
+                "1982-03-17",
+                "LETTER OF CONSENT AND LETTERS ACCEPTING CONSENT CONDITIONS",
+                null
+              ],
+              [
+                "TW249941",
+                "1982-04-02",
+                "STATUTORY DECLARATION BY WELLINGTON WONG",
+                null
+              ],
+              [
+                "TW250095",
+                "1982-06-07",
+                "UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921013124767728,
@@ -3559,7 +7662,39 @@
         1100014934,
         "VICTORY GARDEN",
         "153 TAI LOONG STREET",
-        []
+        [
+          [
+            "KCTL 402",
+            "New Grant Lot",
+            "C6694341",
+            [
+              [
+                "TW451611",
+                "1986-10-17",
+                "DEVELOPMENT AND SHAREHOLDERS' AGREEMENT",
+                null
+              ],
+              [
+                "TW408753",
+                "1986-10-28",
+                "MEMORANDUM OF CAR PARK LAYOUT WITH CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TW457574",
+                "1987-07-15",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW458793",
+                "1987-08-05",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920961909576116,
@@ -3578,7 +7713,33 @@
         1100014938,
         null,
         null,
-        []
+        [
+          [
+            "KCTL 505 RP",
+            "New Grant Lot",
+            "D1761099",
+            [
+              [
+                "10042602120027",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10072001060028",
+                "2010-07-14",
+                "LETTER OF APPROVAL",
+                null
+              ],
+              [
+                "10081801770011",
+                "2010-08-09",
+                "DEED OF MUTUAL GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921068659084555,
@@ -3597,7 +7758,27 @@
         1100014944,
         "KWAI DAO BUILDING",
         null,
-        []
+        [
+          [
+            "KCTL 246",
+            "New Grant Lot",
+            "C4462368",
+            [
+              [
+                "TW89032",
+                "1971-06-14",
+                "ASSIGNMENT",
+                "796250.0"
+              ],
+              [
+                "TW102155",
+                "1973-05-02",
+                "UNDERTAKING BY WANG TEH HUEI",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920984831209978,
@@ -3616,7 +7797,14 @@
         1100014956,
         "CHEONG SHEN MANSION",
         null,
-        []
+        [
+          [
+            "KCTL 152",
+            "New Grant Lot",
+            "C4461727",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992092648813667,
@@ -3673,7 +7861,21 @@
         1101342378,
         "FUNG YAM HOUSE",
         null,
-        []
+        [
+          [
+            "KCTL 497",
+            "New Grant Lot",
+            "D0326377",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921494870468284,
@@ -4034,7 +8236,33 @@
         1810094796,
         null,
         null,
-        []
+        [
+          [
+            "KCTL 505 RP",
+            "New Grant Lot",
+            "D1761099",
+            [
+              [
+                "10042602120027",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ],
+              [
+                "10072001060028",
+                "2010-07-14",
+                "LETTER OF APPROVAL",
+                null
+              ],
+              [
+                "10081801770011",
+                "2010-08-09",
+                "DEED OF MUTUAL GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9921235892240183,
@@ -4243,7 +8471,87 @@
         1910235434,
         "ICITY",
         "111 TA CHUEN PING STREET",
-        []
+        [
+          [
+            "DD444 313 S.A",
+            "New Grant Lot",
+            "D3347241",
+            [
+              [
+                "TW343097",
+                "1969-12-29",
+                "COPY CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "14091902650027",
+                "2014-09-19",
+                "LETTER WITH AMENDED LAYOUT PLAN",
+                null
+              ],
+              [
+                "14091902650014",
+                "2014-09-19",
+                "LETTER WITH LAYOUT PLAN",
+                null
+              ],
+              [
+                "15051502330143",
+                "2015-05-08",
+                "ASSIGNMENT",
+                "452500000.0"
+              ],
+              [
+                "16050602120086",
+                "2015-11-13",
+                "CERTIFIED COPY CERTIFICATE OF CHANGE OF NAME",
+                null
+              ],
+              [
+                "16050602120215",
+                "2016-05-05",
+                "MEMORANDUM WITH LAYOUT PLAN OF PARKING, LOADING AND UNLOADING SPACES WITH PLANS",
+                null
+              ],
+              [
+                "16052402080139",
+                "2016-05-17",
+                "MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "16052702180175",
+                "2016-05-26",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "21060802720110",
+                "2021-05-18",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "21123102500218",
+                "2021-12-20",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "22010602540088",
+                "2022-01-06",
+                "SUPPLEMENTAL STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "23102501990130",
+                "2023-10-17",
+                "RELEASE OF DEBENTURE AND MORTGAGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992098958708722,
@@ -4262,7 +8570,87 @@
         1910235435,
         "ICITY",
         null,
-        []
+        [
+          [
+            "DD444 313 S.A",
+            "New Grant Lot",
+            "D3347241",
+            [
+              [
+                "TW343097",
+                "1969-12-29",
+                "COPY CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "14091902650027",
+                "2014-09-19",
+                "LETTER WITH AMENDED LAYOUT PLAN",
+                null
+              ],
+              [
+                "14091902650014",
+                "2014-09-19",
+                "LETTER WITH LAYOUT PLAN",
+                null
+              ],
+              [
+                "15051502330143",
+                "2015-05-08",
+                "ASSIGNMENT",
+                "452500000.0"
+              ],
+              [
+                "16050602120086",
+                "2015-11-13",
+                "CERTIFIED COPY CERTIFICATE OF CHANGE OF NAME",
+                null
+              ],
+              [
+                "16050602120215",
+                "2016-05-05",
+                "MEMORANDUM WITH LAYOUT PLAN OF PARKING, LOADING AND UNLOADING SPACES WITH PLANS",
+                null
+              ],
+              [
+                "16052402080139",
+                "2016-05-17",
+                "MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "16052702180175",
+                "2016-05-26",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "21060802720110",
+                "2021-05-18",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "21123102500218",
+                "2021-12-20",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "22010602540088",
+                "2022-01-06",
+                "SUPPLEMENTAL STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "23102501990130",
+                "2023-10-17",
+                "RELEASE OF DEBENTURE AND MORTGAGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920987390931237,

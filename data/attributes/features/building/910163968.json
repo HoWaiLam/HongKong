@@ -424,7 +424,75 @@
         1100000679,
         null,
         null,
-        []
+        [
+          [
+            "DD435 170",
+            "Old Schedule Lot",
+            "C1460594",
+            [
+              [
+                "TW29579",
+                "1929-01-24",
+                "MORTGAGE",
+                "300.0"
+              ],
+              [
+                "TW33241",
+                "1931-04-25",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "TW33242",
+                "1931-04-25",
+                "MORTGAGE",
+                "2500.0"
+              ],
+              [
+                "TW36914",
+                "1934-09-11",
+                "SUB MORTGAGE",
+                "500.0"
+              ],
+              [
+                "TW57837",
+                "1952-03-26",
+                "-",
+                null
+              ],
+              [
+                "TW75499",
+                "1964-02-21",
+                "-",
+                "38826.4"
+              ],
+              [
+                "TW77871",
+                "1965-02-19",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                "21500000.0"
+              ],
+              [
+                "TW78385",
+                "1965-06-03",
+                "FURTHER CHARGE & MORTGAGE TO GRANT FURTHER GENERAL BANKING FACILITIES",
+                "8500000.0"
+              ],
+              [
+                "TW86507",
+                "1970-12-01",
+                "MORTGAGE TO SECURE BANKING FACILITIES",
+                "5400000.0"
+              ],
+              [
+                "TW156949",
+                "1978-04-12",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916281802002682,
@@ -481,7 +549,39 @@
         1100000693,
         null,
         null,
-        []
+        [
+          [
+            "DD435 172",
+            "Old Schedule Lot",
+            "C6167515",
+            [
+              [
+                "TW29638",
+                "1929-02-02",
+                "MORTGAGE",
+                "400.0"
+              ],
+              [
+                "TW64997",
+                "1956-10-09",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "TW65002",
+                "1956-10-09",
+                "-",
+                "2760.0"
+              ],
+              [
+                "TW85072",
+                "1970-06-04",
+                "-",
+                "29449.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916288681659184,
@@ -557,7 +657,87 @@
         1100000700,
         null,
         null,
-        []
+        [
+          [
+            "DD360 1049",
+            "Old Schedule Lot",
+            "C1434113",
+            [
+              [
+                "TW51761",
+                "1948-11-18",
+                "-",
+                "5000.0"
+              ],
+              [
+                "TW65901",
+                "1957-06-01",
+                "EQUITABLE CHARGE BY LI CHUNG YEE (EXECUTOR)",
+                null
+              ],
+              [
+                "TW66480",
+                "1957-09-27",
+                "PROBATE",
+                null
+              ],
+              [
+                "TW69769",
+                "1959-12-07",
+                "A CERTIFICATE OF SATISFACTION",
+                null
+              ],
+              [
+                "TW89656",
+                "1971-04-24",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "TW109145",
+                "1971-05-25",
+                "ORDER",
+                null
+              ],
+              [
+                "TW89662",
+                "1971-08-09",
+                "ASSENT",
+                null
+              ],
+              [
+                "TW108179",
+                "1973-08-24",
+                "SUPPLEMENTAL DEED OF DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "TW109144",
+                "1973-10-25",
+                "ORDER",
+                null
+              ],
+              [
+                "TW318975",
+                "1984-06-07",
+                "CONVEYANCE ON SALE",
+                "316245.0"
+              ],
+              [
+                "TW1324339",
+                "1999-12-14",
+                "ASSIGNMENT",
+                "1165900.0"
+              ],
+              [
+                "TW1322685",
+                "1999-12-14",
+                "MEMORANDUM FOR SALE AND PURCHASE",
+                "1165900.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914859916504346,
@@ -595,7 +775,63 @@
         1100000710,
         null,
         null,
-        []
+        [
+          [
+            "DD360 1050",
+            "Old Schedule Lot",
+            "C1434127",
+            [
+              [
+                "TW33242",
+                "1931-04-25",
+                "MORTGAGE",
+                "2500.0"
+              ],
+              [
+                "TW36914",
+                "1934-09-11",
+                "SUB MORTGAGE",
+                "500.0"
+              ],
+              [
+                "TW57837",
+                "1952-03-26",
+                "-",
+                null
+              ],
+              [
+                "TW75499",
+                "1964-02-21",
+                "-",
+                "38826.4"
+              ],
+              [
+                "TW77871",
+                "1965-02-19",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                "21500000.0"
+              ],
+              [
+                "TW78385",
+                "1965-06-03",
+                "FURTHER CHARGE & MORTGAGE TO GRANT FURTHER GENERAL BANKING FACILITIES",
+                "8500000.0"
+              ],
+              [
+                "TW86507",
+                "1970-12-01",
+                "MORTGAGE TO SECURE BANKING FACILITIES",
+                "5400000.0"
+              ],
+              [
+                "TW156949",
+                "1978-04-12",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991486493367947,
@@ -709,7 +945,93 @@
         1100000721,
         null,
         null,
-        []
+        [
+          [
+            "DD360 1052",
+            "Old Schedule Lot",
+            "C6165301",
+            [
+              [
+                "TW16073",
+                "1919-10-15",
+                "-",
+                "32.0"
+              ],
+              [
+                "TW50659",
+                "1948-04-20",
+                "-",
+                "473.0"
+              ],
+              [
+                "TW65901",
+                "1957-06-01",
+                "EQUITABLE CHARGE BY LI CHUNG YEE (EXECUTOR)",
+                null
+              ],
+              [
+                "TW66480",
+                "1957-09-27",
+                "PROBATE",
+                null
+              ],
+              [
+                "TW69769",
+                "1959-12-07",
+                "A CERTIFICATE OF SATISFACTION",
+                null
+              ],
+              [
+                "TW89656",
+                "1971-04-24",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "TW109145",
+                "1971-05-25",
+                "ORDER",
+                null
+              ],
+              [
+                "TW89662",
+                "1971-08-09",
+                "ASSENT",
+                null
+              ],
+              [
+                "TW108179",
+                "1973-08-24",
+                "SUPPLEMENTAL DEED OF DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "TW109144",
+                "1973-10-25",
+                "ORDER",
+                null
+              ],
+              [
+                "TW318975",
+                "1984-06-07",
+                "CONVEYANCE ON SALE",
+                "316245.0"
+              ],
+              [
+                "TW1324339",
+                "1999-12-14",
+                "ASSIGNMENT",
+                "1165900.0"
+              ],
+              [
+                "TW1322685",
+                "1999-12-14",
+                "MEMORANDUM FOR SALE AND PURCHASE",
+                "1165900.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914879390083342,
@@ -747,7 +1069,142 @@
         1100000723,
         null,
         null,
-        []
+        [
+          [
+            "DD360 1049",
+            "Old Schedule Lot",
+            "C1434113",
+            [
+              [
+                "TW51761",
+                "1948-11-18",
+                "-",
+                "5000.0"
+              ],
+              [
+                "TW65901",
+                "1957-06-01",
+                "EQUITABLE CHARGE BY LI CHUNG YEE (EXECUTOR)",
+                null
+              ],
+              [
+                "TW66480",
+                "1957-09-27",
+                "PROBATE",
+                null
+              ],
+              [
+                "TW69769",
+                "1959-12-07",
+                "A CERTIFICATE OF SATISFACTION",
+                null
+              ],
+              [
+                "TW89656",
+                "1971-04-24",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "TW109145",
+                "1971-05-25",
+                "ORDER",
+                null
+              ],
+              [
+                "TW89662",
+                "1971-08-09",
+                "ASSENT",
+                null
+              ],
+              [
+                "TW108179",
+                "1973-08-24",
+                "SUPPLEMENTAL DEED OF DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "TW109144",
+                "1973-10-25",
+                "ORDER",
+                null
+              ],
+              [
+                "TW318975",
+                "1984-06-07",
+                "CONVEYANCE ON SALE",
+                "316245.0"
+              ],
+              [
+                "TW1324339",
+                "1999-12-14",
+                "ASSIGNMENT",
+                "1165900.0"
+              ],
+              [
+                "TW1322685",
+                "1999-12-14",
+                "MEMORANDUM FOR SALE AND PURCHASE",
+                "1165900.0"
+              ]
+            ]
+          ],
+          [
+            "DD360 1050",
+            "Old Schedule Lot",
+            "C1434127",
+            [
+              [
+                "TW33242",
+                "1931-04-25",
+                "MORTGAGE",
+                "2500.0"
+              ],
+              [
+                "TW36914",
+                "1934-09-11",
+                "SUB MORTGAGE",
+                "500.0"
+              ],
+              [
+                "TW57837",
+                "1952-03-26",
+                "-",
+                null
+              ],
+              [
+                "TW75499",
+                "1964-02-21",
+                "-",
+                "38826.4"
+              ],
+              [
+                "TW77871",
+                "1965-02-19",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                "21500000.0"
+              ],
+              [
+                "TW78385",
+                "1965-06-03",
+                "FURTHER CHARGE & MORTGAGE TO GRANT FURTHER GENERAL BANKING FACILITIES",
+                "8500000.0"
+              ],
+              [
+                "TW86507",
+                "1970-12-01",
+                "MORTGAGE TO SECURE BANKING FACILITIES",
+                "5400000.0"
+              ],
+              [
+                "TW156949",
+                "1978-04-12",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914851047850284,
@@ -823,7 +1280,118 @@
         1100000729,
         null,
         null,
-        []
+        [
+          [
+            "DD360 1050",
+            "Old Schedule Lot",
+            "C1434127",
+            [
+              [
+                "TW33242",
+                "1931-04-25",
+                "MORTGAGE",
+                "2500.0"
+              ],
+              [
+                "TW36914",
+                "1934-09-11",
+                "SUB MORTGAGE",
+                "500.0"
+              ],
+              [
+                "TW57837",
+                "1952-03-26",
+                "-",
+                null
+              ],
+              [
+                "TW75499",
+                "1964-02-21",
+                "-",
+                "38826.4"
+              ],
+              [
+                "TW77871",
+                "1965-02-19",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                "21500000.0"
+              ],
+              [
+                "TW78385",
+                "1965-06-03",
+                "FURTHER CHARGE & MORTGAGE TO GRANT FURTHER GENERAL BANKING FACILITIES",
+                "8500000.0"
+              ],
+              [
+                "TW86507",
+                "1970-12-01",
+                "MORTGAGE TO SECURE BANKING FACILITIES",
+                "5400000.0"
+              ],
+              [
+                "TW156949",
+                "1978-04-12",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD360 1051",
+            "Old Schedule Lot",
+            "C4826989",
+            [
+              [
+                "TW33242",
+                "1931-04-25",
+                "MORTGAGE",
+                "2500.0"
+              ],
+              [
+                "TW36914",
+                "1934-09-11",
+                "SUB MORTGAGE",
+                "500.0"
+              ],
+              [
+                "TW57837",
+                "1952-03-26",
+                "-",
+                null
+              ],
+              [
+                "TW75499",
+                "1964-02-21",
+                "-",
+                "38826.4"
+              ],
+              [
+                "TW77871",
+                "1965-02-19",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                "21500000.0"
+              ],
+              [
+                "TW78385",
+                "1965-06-03",
+                "FURTHER CHARGE & MORTGAGE TO GRANT FURTHER GENERAL BANKING FACILITIES",
+                "8500000.0"
+              ],
+              [
+                "TW86507",
+                "1970-12-01",
+                "MORTGAGE TO SECURE BANKING FACILITIES",
+                "5400000.0"
+              ],
+              [
+                "TW156949",
+                "1978-04-12",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99148555453616,
@@ -975,7 +1543,111 @@
         1100000749,
         null,
         null,
-        []
+        [
+          [
+            "DD435 193",
+            "Old Schedule Lot",
+            "C4830202",
+            [
+              [
+                "TW50931",
+                "1948-05-29",
+                "-",
+                "1013.0"
+              ],
+              [
+                "TW65901",
+                "1957-06-01",
+                "EQUITABLE CHARGE BY LI CHUNG YEE (EXECUTOR)",
+                null
+              ],
+              [
+                "TW66480",
+                "1957-09-27",
+                "PROBATE",
+                null
+              ],
+              [
+                "TW69769",
+                "1959-12-07",
+                "A CERTIFICATE OF SATISFACTION",
+                null
+              ],
+              [
+                "TW89656",
+                "1971-04-24",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "TW109145",
+                "1971-05-25",
+                "ORDER",
+                null
+              ],
+              [
+                "TW89658",
+                "1971-08-09",
+                "ASSENT",
+                null
+              ],
+              [
+                "TW108179",
+                "1973-08-24",
+                "SUPPLEMENTAL DEED OF DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "TW109144",
+                "1973-10-25",
+                "ORDER",
+                null
+              ],
+              [
+                "TW112943",
+                "1974-05-28",
+                "-",
+                "62725.5"
+              ],
+              [
+                "TW137467",
+                "1976-12-07",
+                "WAIVER LETTER RE PORTION",
+                null
+              ],
+              [
+                "TW175135",
+                "1979-03-22",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "TW258819",
+                "1982-08-23",
+                "SUPPLEMENTAL AGREEMENT RE PORTION",
+                null
+              ],
+              [
+                "TW748545",
+                "1991-05-24",
+                "AGREEMENT RE PORTION",
+                null
+              ],
+              [
+                "TW1090849",
+                "1996-09-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "200000.0"
+              ],
+              [
+                "TW1096183",
+                "1996-10-22",
+                "ASSIGNMENT",
+                "200000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991608589619935,
@@ -1013,7 +1685,99 @@
         1100000752,
         null,
         null,
-        []
+        [
+          [
+            "DD360 1053",
+            "Old Schedule Lot",
+            "C1434135",
+            [
+              [
+                "TW16071",
+                "1919-10-15",
+                "REDEMPTION OF BLOCK GOVERNMENT LEASE C.C. MORTGAGE",
+                null
+              ],
+              [
+                "TW16072",
+                "1919-10-15",
+                "-",
+                "40.0"
+              ],
+              [
+                "TW50659",
+                "1948-04-20",
+                "-",
+                "473.0"
+              ],
+              [
+                "TW65901",
+                "1957-06-01",
+                "EQUITABLE CHARGE BY LI CHUNG YEE (EXECUTOR)",
+                null
+              ],
+              [
+                "TW66480",
+                "1957-09-27",
+                "PROBATE",
+                null
+              ],
+              [
+                "TW69769",
+                "1959-12-07",
+                "A CERTIFICATE OF SATISFACTION",
+                null
+              ],
+              [
+                "TW89656",
+                "1971-04-24",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "TW109145",
+                "1971-05-25",
+                "ORDER",
+                null
+              ],
+              [
+                "TW89662",
+                "1971-08-09",
+                "ASSENT",
+                null
+              ],
+              [
+                "TW108179",
+                "1973-08-24",
+                "SUPPLEMENTAL DEED OF DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "TW109144",
+                "1973-10-25",
+                "ORDER",
+                null
+              ],
+              [
+                "TW318975",
+                "1984-06-07",
+                "CONVEYANCE ON SALE",
+                "316245.0"
+              ],
+              [
+                "TW1324339",
+                "1999-12-14",
+                "ASSIGNMENT",
+                "1165900.0"
+              ],
+              [
+                "TW1322685",
+                "1999-12-14",
+                "MEMORANDUM FOR SALE AND PURCHASE",
+                "1165900.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991485416846992,
@@ -1032,7 +1796,165 @@
         1100000753,
         null,
         null,
-        []
+        [
+          [
+            "DD360 1232 S.A",
+            "New Grant Lot",
+            "C1434815",
+            [
+              [
+                "TW181981",
+                "1979-06-27",
+                "RECTIFICATION AGREEMENT",
+                null
+              ],
+              [
+                "TW592816",
+                "1980-08-16",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW577143",
+                "1987-12-22",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "600000.0"
+              ],
+              [
+                "TW577925",
+                "1989-03-22",
+                "-",
+                "600000.0"
+              ],
+              [
+                "TW577926",
+                "1989-03-22",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "TW725455",
+                "1990-11-30",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "1250000.0"
+              ],
+              [
+                "TW805502",
+                "1991-04-11",
+                "RELEASE",
+                null
+              ],
+              [
+                "TW805503",
+                "1991-04-11",
+                "-",
+                "1250000.0"
+              ],
+              [
+                "TW805504",
+                "1991-04-11",
+                "MORTGAGE",
+                "750000.0"
+              ],
+              [
+                "TW843626",
+                "1991-04-11",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "TW805505",
+                "1991-04-11",
+                "SECOND LEGAL CHARGE",
+                "500000.0"
+              ],
+              [
+                "TW784357",
+                "1991-05-31",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW1130742",
+                "1997-02-19",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4300000.0"
+              ],
+              [
+                "TW1179112",
+                "1997-08-27",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "TW1179113",
+                "1997-08-27",
+                "ASSIGNMENT",
+                "4300000.0"
+              ],
+              [
+                "TW1179111",
+                "1997-08-27",
+                "RELEASE",
+                null
+              ],
+              [
+                "TW1179114",
+                "1997-08-27",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "TW1213762",
+                "1998-05-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4200000.0"
+              ],
+              [
+                "TW1245566",
+                "1998-07-10",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW1245568",
+                "1998-07-13",
+                "ASSIGNMENT",
+                "4200000.0"
+              ],
+              [
+                "TW1245567",
+                "1998-07-13",
+                "RELEASE",
+                null
+              ],
+              [
+                "TW1245569",
+                "1998-07-13",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "07032702410013",
+                "2007-03-07",
+                "RELEASE",
+                "ALL MONEYS"
+              ],
+              [
+                "23052900720095",
+                "2022-12-30",
+                "ORDER NO. \"VVS/F09/300027/22/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLANS",
+                null
+              ],
+              [
+                "23110100741219",
+                "2023-08-08",
+                "LETTER OF COMPLIANCE (ORDER NO. \"VVS/F09/300027/22/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916000474223807,
@@ -1089,7 +2011,111 @@
         1100000757,
         null,
         null,
-        []
+        [
+          [
+            "DD435 193",
+            "Old Schedule Lot",
+            "C4830202",
+            [
+              [
+                "TW50931",
+                "1948-05-29",
+                "-",
+                "1013.0"
+              ],
+              [
+                "TW65901",
+                "1957-06-01",
+                "EQUITABLE CHARGE BY LI CHUNG YEE (EXECUTOR)",
+                null
+              ],
+              [
+                "TW66480",
+                "1957-09-27",
+                "PROBATE",
+                null
+              ],
+              [
+                "TW69769",
+                "1959-12-07",
+                "A CERTIFICATE OF SATISFACTION",
+                null
+              ],
+              [
+                "TW89656",
+                "1971-04-24",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "TW109145",
+                "1971-05-25",
+                "ORDER",
+                null
+              ],
+              [
+                "TW89658",
+                "1971-08-09",
+                "ASSENT",
+                null
+              ],
+              [
+                "TW108179",
+                "1973-08-24",
+                "SUPPLEMENTAL DEED OF DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "TW109144",
+                "1973-10-25",
+                "ORDER",
+                null
+              ],
+              [
+                "TW112943",
+                "1974-05-28",
+                "-",
+                "62725.5"
+              ],
+              [
+                "TW137467",
+                "1976-12-07",
+                "WAIVER LETTER RE PORTION",
+                null
+              ],
+              [
+                "TW175135",
+                "1979-03-22",
+                "SUPPLEMENTAL AGREEMENT",
+                null
+              ],
+              [
+                "TW258819",
+                "1982-08-23",
+                "SUPPLEMENTAL AGREEMENT RE PORTION",
+                null
+              ],
+              [
+                "TW748545",
+                "1991-05-24",
+                "AGREEMENT RE PORTION",
+                null
+              ],
+              [
+                "TW1090849",
+                "1996-09-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "200000.0"
+              ],
+              [
+                "TW1096183",
+                "1996-10-22",
+                "ASSIGNMENT",
+                "200000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916085350016566,
@@ -1108,7 +2134,141 @@
         1100000759,
         null,
         null,
-        []
+        [
+          [
+            "DD360 1232 RP",
+            "New Grant Lot",
+            "C1434803",
+            [
+              [
+                "TW307016",
+                "1984-02-15",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "TW307015",
+                "1984-02-15",
+                "-",
+                "225000.0"
+              ],
+              [
+                "TW592819",
+                "1989-05-25",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "TW592818",
+                "1989-05-25",
+                "-",
+                "500000.0"
+              ],
+              [
+                "TW592817",
+                "1989-05-25",
+                "RELEASE",
+                null
+              ],
+              [
+                "TW752737",
+                "1991-06-10",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "1480000.0"
+              ],
+              [
+                "TW830869",
+                "1991-07-03",
+                "NOMINATION BY CHEUNG CHUN LUKE",
+                null
+              ],
+              [
+                "TW824713",
+                "1992-04-16",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW833718",
+                "1992-05-01",
+                "-",
+                "1480000.0"
+              ],
+              [
+                "TW833717",
+                "1992-05-01",
+                "RELEASE",
+                null
+              ],
+              [
+                "TW871729",
+                "1992-12-23",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "TW1231904",
+                "1998-06-23",
+                "ASSIGNMENT SUBJECT TO MORTGAGE",
+                "1480000.0"
+              ],
+              [
+                "TW1240915",
+                "1998-06-23",
+                "ASSIGNMENT (PREVIOUSLY REGISTERED BY M/N 1231904)",
+                "1480000.0"
+              ],
+              [
+                "TW1376622",
+                "2000-09-26",
+                "DEED OF VARIATION AND FURTHER CHARGE",
+                null
+              ],
+              [
+                "TW1457280",
+                "2002-03-15",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "TW1457279",
+                "2002-03-15",
+                "RELEASE",
+                null
+              ],
+              [
+                "TW1594537",
+                "2004-08-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2108000.0"
+              ],
+              [
+                "TW1601451",
+                "2004-09-22",
+                "ASSIGNMENT",
+                "2108000.0"
+              ],
+              [
+                "TW1601452",
+                "2004-09-22",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "13112702250021",
+                "2013-11-22",
+                "SECOND MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "19031401760099",
+                "2019-02-28",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991600873628572,
@@ -1184,7 +2344,21 @@
         1100000780,
         null,
         null,
-        []
+        [
+          [
+            "TWTL 419",
+            "New Grant Lot",
+            "D3272600",
+            [
+              [
+                "21090701730110",
+                "2021-06-07",
+                "WARNING LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914540219679955,
@@ -1222,7 +2396,21 @@
         1100000789,
         null,
         null,
-        []
+        [
+          [
+            "TWTL 419",
+            "New Grant Lot",
+            "D3272600",
+            [
+              [
+                "21090701730110",
+                "2021-06-07",
+                "WARNING LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914497383600565,
@@ -1336,7 +2524,21 @@
         1100000810,
         null,
         null,
-        []
+        [
+          [
+            "TWTL 419",
+            "New Grant Lot",
+            "D3272600",
+            [
+              [
+                "21090701730110",
+                "2021-06-07",
+                "WARNING LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914486180602218,
@@ -1450,7 +2652,21 @@
         1100000832,
         null,
         null,
-        []
+        [
+          [
+            "TWTL 419",
+            "New Grant Lot",
+            "D3272600",
+            [
+              [
+                "21090701730110",
+                "2021-06-07",
+                "WARNING LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991454773092737,
@@ -1507,7 +2723,81 @@
         1100000844,
         null,
         null,
-        []
+        [
+          [
+            "DD360 903",
+            "Old Schedule Lot",
+            "C1433484",
+            [
+              [
+                "TW56763",
+                "1951-08-20",
+                "APPOINTMENT OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "TW540524",
+                "1988-04-01",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "TW540525",
+                "1988-08-19",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TW1211056",
+                "1997-12-19",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TW1211057",
+                "1998-05-01",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TW1620687",
+                "2004-10-26",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "TW1620688",
+                "2005-01-13",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "18051400790018",
+                "2015-08-31",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "18051400790024",
+                "2018-01-24",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "25052800940028",
+                "2018-11-08",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "25052800940034",
+                "2025-03-17",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915933020610637,
@@ -1526,7 +2816,154 @@
         1100000845,
         null,
         null,
-        []
+        [
+          [
+            "DD360 902",
+            "Old Schedule Lot",
+            "C4826911",
+            [
+              [
+                "TW56763",
+                "1951-08-20",
+                "APPOINTMENT OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "TW540524",
+                "1988-04-01",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "TW540525",
+                "1988-08-19",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TW1211056",
+                "1997-12-19",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TW1211057",
+                "1998-05-01",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TW1620687",
+                "2004-10-26",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "TW1620688",
+                "2005-01-13",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "18051400790018",
+                "2015-08-31",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "18051400790024",
+                "2018-01-24",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "25052800940028",
+                "2018-11-08",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "25052800940034",
+                "2025-03-17",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD360 903",
+            "Old Schedule Lot",
+            "C1433484",
+            [
+              [
+                "TW56763",
+                "1951-08-20",
+                "APPOINTMENT OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "TW540524",
+                "1988-04-01",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "TW540525",
+                "1988-08-19",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TW1211056",
+                "1997-12-19",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TW1211057",
+                "1998-05-01",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TW1620687",
+                "2004-10-26",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "TW1620688",
+                "2005-01-13",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "18051400790018",
+                "2015-08-31",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "18051400790024",
+                "2018-01-24",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "25052800940028",
+                "2018-11-08",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "25052800940034",
+                "2025-03-17",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915920172697315,
@@ -1564,7 +3001,21 @@
         1100000848,
         null,
         null,
-        []
+        [
+          [
+            "TWTL 419",
+            "New Grant Lot",
+            "D3272600",
+            [
+              [
+                "21090701730110",
+                "2021-06-07",
+                "WARNING LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914451066152332,
@@ -1583,7 +3034,21 @@
         1100000849,
         null,
         null,
-        []
+        [
+          [
+            "TWTL 419",
+            "New Grant Lot",
+            "D3272600",
+            [
+              [
+                "21090701730110",
+                "2021-06-07",
+                "WARNING LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914473401095172,
@@ -1621,7 +3086,81 @@
         1100000863,
         null,
         null,
-        []
+        [
+          [
+            "DD435 272",
+            "Old Schedule Lot",
+            "C1460941",
+            [
+              [
+                "TW56763",
+                "1951-08-20",
+                "APPOINTMENT OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "TW540524",
+                "1988-04-01",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "TW540525",
+                "1988-08-19",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TW1211056",
+                "1997-12-19",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TW1211057",
+                "1998-05-01",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TW1620687",
+                "2004-10-26",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "TW1620688",
+                "2005-01-13",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "18051400790018",
+                "2015-08-31",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "18051400790024",
+                "2018-01-24",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "25052800940028",
+                "2018-11-08",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "25052800940034",
+                "2025-03-17",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916462320476098,
@@ -1640,7 +3179,81 @@
         1100000868,
         null,
         null,
-        []
+        [
+          [
+            "DD435 272",
+            "Old Schedule Lot",
+            "C1460941",
+            [
+              [
+                "TW56763",
+                "1951-08-20",
+                "APPOINTMENT OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "TW540524",
+                "1988-04-01",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "TW540525",
+                "1988-08-19",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TW1211056",
+                "1997-12-19",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TW1211057",
+                "1998-05-01",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TW1620687",
+                "2004-10-26",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "TW1620688",
+                "2005-01-13",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "18051400790018",
+                "2015-08-31",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "18051400790024",
+                "2018-01-24",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "25052800940028",
+                "2018-11-08",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "25052800940034",
+                "2025-03-17",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916471172924677,
@@ -1659,7 +3272,63 @@
         1100000870,
         null,
         null,
-        []
+        [
+          [
+            "DD360 1120",
+            "Old Schedule Lot",
+            "C6387392",
+            [
+              [
+                "TW33242",
+                "1931-04-25",
+                "MORTGAGE",
+                "2500.0"
+              ],
+              [
+                "TW36914",
+                "1934-09-11",
+                "SUB MORTGAGE",
+                "500.0"
+              ],
+              [
+                "TW57837",
+                "1952-03-26",
+                "-",
+                null
+              ],
+              [
+                "TW75499",
+                "1964-02-21",
+                "-",
+                "38826.4"
+              ],
+              [
+                "TW77871",
+                "1965-02-19",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                "21500000.0"
+              ],
+              [
+                "TW78385",
+                "1965-06-03",
+                "FURTHER CHARGE & MORTGAGE TO GRANT FURTHER GENERAL BANKING FACILITIES",
+                "8500000.0"
+              ],
+              [
+                "TW86507",
+                "1970-12-01",
+                "MORTGAGE TO SECURE BANKING FACILITIES",
+                "5400000.0"
+              ],
+              [
+                "TW156949",
+                "1978-04-12",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914936644820662,
@@ -1678,7 +3347,63 @@
         1100000871,
         null,
         null,
-        []
+        [
+          [
+            "DD360 1121",
+            "Old Schedule Lot",
+            "C1434457",
+            [
+              [
+                "TW33242",
+                "1931-04-25",
+                "MORTGAGE",
+                "2500.0"
+              ],
+              [
+                "TW36914",
+                "1934-09-11",
+                "SUB MORTGAGE",
+                "500.0"
+              ],
+              [
+                "TW57837",
+                "1952-03-26",
+                "-",
+                null
+              ],
+              [
+                "TW75499",
+                "1964-02-21",
+                "-",
+                "38826.4"
+              ],
+              [
+                "TW77871",
+                "1965-02-19",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                "21500000.0"
+              ],
+              [
+                "TW78385",
+                "1965-06-03",
+                "FURTHER CHARGE & MORTGAGE TO GRANT FURTHER GENERAL BANKING FACILITIES",
+                "8500000.0"
+              ],
+              [
+                "TW86507",
+                "1970-12-01",
+                "MORTGAGE TO SECURE BANKING FACILITIES",
+                "5400000.0"
+              ],
+              [
+                "TW156949",
+                "1978-04-12",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914948052322403,
@@ -1697,7 +3422,63 @@
         1100000872,
         null,
         null,
-        []
+        [
+          [
+            "DD360 1121",
+            "Old Schedule Lot",
+            "C1434457",
+            [
+              [
+                "TW33242",
+                "1931-04-25",
+                "MORTGAGE",
+                "2500.0"
+              ],
+              [
+                "TW36914",
+                "1934-09-11",
+                "SUB MORTGAGE",
+                "500.0"
+              ],
+              [
+                "TW57837",
+                "1952-03-26",
+                "-",
+                null
+              ],
+              [
+                "TW75499",
+                "1964-02-21",
+                "-",
+                "38826.4"
+              ],
+              [
+                "TW77871",
+                "1965-02-19",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                "21500000.0"
+              ],
+              [
+                "TW78385",
+                "1965-06-03",
+                "FURTHER CHARGE & MORTGAGE TO GRANT FURTHER GENERAL BANKING FACILITIES",
+                "8500000.0"
+              ],
+              [
+                "TW86507",
+                "1970-12-01",
+                "MORTGAGE TO SECURE BANKING FACILITIES",
+                "5400000.0"
+              ],
+              [
+                "TW156949",
+                "1978-04-12",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991496910877438,
@@ -1716,7 +3497,63 @@
         1100000873,
         null,
         null,
-        []
+        [
+          [
+            "DD360 1120",
+            "Old Schedule Lot",
+            "C6387392",
+            [
+              [
+                "TW33242",
+                "1931-04-25",
+                "MORTGAGE",
+                "2500.0"
+              ],
+              [
+                "TW36914",
+                "1934-09-11",
+                "SUB MORTGAGE",
+                "500.0"
+              ],
+              [
+                "TW57837",
+                "1952-03-26",
+                "-",
+                null
+              ],
+              [
+                "TW75499",
+                "1964-02-21",
+                "-",
+                "38826.4"
+              ],
+              [
+                "TW77871",
+                "1965-02-19",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                "21500000.0"
+              ],
+              [
+                "TW78385",
+                "1965-06-03",
+                "FURTHER CHARGE & MORTGAGE TO GRANT FURTHER GENERAL BANKING FACILITIES",
+                "8500000.0"
+              ],
+              [
+                "TW86507",
+                "1970-12-01",
+                "MORTGAGE TO SECURE BANKING FACILITIES",
+                "5400000.0"
+              ],
+              [
+                "TW156949",
+                "1978-04-12",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914912354572605,
@@ -1735,7 +3572,63 @@
         1100000874,
         null,
         null,
-        []
+        [
+          [
+            "DD360 1121",
+            "Old Schedule Lot",
+            "C1434457",
+            [
+              [
+                "TW33242",
+                "1931-04-25",
+                "MORTGAGE",
+                "2500.0"
+              ],
+              [
+                "TW36914",
+                "1934-09-11",
+                "SUB MORTGAGE",
+                "500.0"
+              ],
+              [
+                "TW57837",
+                "1952-03-26",
+                "-",
+                null
+              ],
+              [
+                "TW75499",
+                "1964-02-21",
+                "-",
+                "38826.4"
+              ],
+              [
+                "TW77871",
+                "1965-02-19",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                "21500000.0"
+              ],
+              [
+                "TW78385",
+                "1965-06-03",
+                "FURTHER CHARGE & MORTGAGE TO GRANT FURTHER GENERAL BANKING FACILITIES",
+                "8500000.0"
+              ],
+              [
+                "TW86507",
+                "1970-12-01",
+                "MORTGAGE TO SECURE BANKING FACILITIES",
+                "5400000.0"
+              ],
+              [
+                "TW156949",
+                "1978-04-12",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914960340299763,
@@ -1773,7 +3666,81 @@
         1100000880,
         null,
         null,
-        []
+        [
+          [
+            "DD435 274",
+            "Old Schedule Lot",
+            "C1460952",
+            [
+              [
+                "TW56763",
+                "1951-08-20",
+                "APPOINTMENT OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "TW540524",
+                "1988-04-01",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "TW540525",
+                "1988-08-19",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TW1211056",
+                "1997-12-19",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TW1211057",
+                "1998-05-01",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TW1620687",
+                "2004-10-26",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "TW1620688",
+                "2005-01-13",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "18051400790018",
+                "2015-08-31",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "18051400790024",
+                "2018-01-24",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF TSANG HOK CHUN TSO",
+                null
+              ],
+              [
+                "25052800940028",
+                "2018-11-08",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "25052800940034",
+                "2025-03-17",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916458867287705,
@@ -1887,7 +3854,39 @@
         1100000910,
         null,
         "58 ROUTE TWISK",
-        []
+        [
+          [
+            "DD360 1136",
+            "Old Schedule Lot",
+            "C1434507",
+            [
+              [
+                "TW29638",
+                "1929-02-02",
+                "MORTGAGE",
+                "400.0"
+              ],
+              [
+                "TW65002",
+                "1956-10-09",
+                "-",
+                "2760.0"
+              ],
+              [
+                "TW64997",
+                "1956-10-09",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "TW85072",
+                "1970-06-04",
+                "-",
+                "29449.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915078562812043,
@@ -1906,7 +3905,70 @@
         1100000911,
         null,
         "58 ROUTE TWISK",
-        []
+        [
+          [
+            "DD360 1136",
+            "Old Schedule Lot",
+            "C1434507",
+            [
+              [
+                "TW29638",
+                "1929-02-02",
+                "MORTGAGE",
+                "400.0"
+              ],
+              [
+                "TW65002",
+                "1956-10-09",
+                "-",
+                "2760.0"
+              ],
+              [
+                "TW64997",
+                "1956-10-09",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "TW85072",
+                "1970-06-04",
+                "-",
+                "29449.0"
+              ]
+            ]
+          ],
+          [
+            "DD360 1137",
+            "Old Schedule Lot",
+            "C1434517",
+            [
+              [
+                "TW29638",
+                "1929-02-02",
+                "MORTGAGE",
+                "400.0"
+              ],
+              [
+                "TW65002",
+                "1956-10-09",
+                "-",
+                "2760.0"
+              ],
+              [
+                "TW64997",
+                "1956-10-09",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "TW85072",
+                "1970-06-04",
+                "-",
+                "29449.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915095035616819,
@@ -1963,7 +4025,39 @@
         1100000915,
         null,
         "58 ROUTE TWISK",
-        []
+        [
+          [
+            "DD360 1136",
+            "Old Schedule Lot",
+            "C1434507",
+            [
+              [
+                "TW29638",
+                "1929-02-02",
+                "MORTGAGE",
+                "400.0"
+              ],
+              [
+                "TW65002",
+                "1956-10-09",
+                "-",
+                "2760.0"
+              ],
+              [
+                "TW64997",
+                "1956-10-09",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "TW85072",
+                "1970-06-04",
+                "-",
+                "29449.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915064184397766,
@@ -2191,7 +4285,69 @@
         1100000997,
         null,
         null,
-        []
+        [
+          [
+            "DD358 42",
+            "Old Schedule Lot",
+            "C6614608",
+            [
+              [
+                "TW39780",
+                "1937-01-22",
+                "-",
+                null
+              ],
+              [
+                "TW70816",
+                "1960-11-28",
+                "(PRE-IRIS) SUCCESSION",
+                null
+              ],
+              [
+                "TW1228346",
+                "1998-07-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "08111400530010",
+                "2008-05-19",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF PO LAM TONG",
+                null
+              ],
+              [
+                "08111400530026",
+                "2008-10-21",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "16101701420017",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "16123001630024",
+                "2016-12-19",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "16123001630017",
+                "2016-12-23",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "21011200700018",
+                "2021-01-05",
+                "VESTING ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913858777401954,
@@ -2324,7 +4480,57 @@
         1100001084,
         "THE CAIRNHILL BLOCK 1",
         "108 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 395",
+            "New Grant Lot",
+            "C4758374",
+            [
+              [
+                "TW1426442",
+                "2001-09-17",
+                "LETTER OF PERMISSION WITH PLAN",
+                null
+              ],
+              [
+                "TW1445982",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1475400",
+                "2002-08-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1524253",
+                "2003-06-12",
+                "UNDERTAKING BY THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD. &",
+                null
+              ],
+              [
+                "TW1524254",
+                "2003-06-13",
+                "STATUTORY DECLARATION RE BLOCKS 1-3 & 5-10 & 615 CPS ON 3/F, 5/F-7/F",
+                null
+              ],
+              [
+                "TW1555393",
+                "2004-01-21",
+                "UNDERTAKING BY THE BANK OF EAST ASIA LTD. AND HANG SENG BANK LTD.",
+                null
+              ],
+              [
+                "TW1555394",
+                "2004-01-21",
+                "STATUTORY DECLARATION RE BLOCKS 11- 12, 15-19 & 540 CPS ON 2-3/F, 5-6/F",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915840362885278,
@@ -2419,7 +4625,57 @@
         1100001112,
         "THE CAIRNHILL BLOCK 2",
         "108 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 395",
+            "New Grant Lot",
+            "C4758374",
+            [
+              [
+                "TW1426442",
+                "2001-09-17",
+                "LETTER OF PERMISSION WITH PLAN",
+                null
+              ],
+              [
+                "TW1445982",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1475400",
+                "2002-08-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1524253",
+                "2003-06-12",
+                "UNDERTAKING BY THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD. &",
+                null
+              ],
+              [
+                "TW1524254",
+                "2003-06-13",
+                "STATUTORY DECLARATION RE BLOCKS 1-3 & 5-10 & 615 CPS ON 3/F, 5/F-7/F",
+                null
+              ],
+              [
+                "TW1555393",
+                "2004-01-21",
+                "UNDERTAKING BY THE BANK OF EAST ASIA LTD. AND HANG SENG BANK LTD.",
+                null
+              ],
+              [
+                "TW1555394",
+                "2004-01-21",
+                "STATUTORY DECLARATION RE BLOCKS 11- 12, 15-19 & 540 CPS ON 2-3/F, 5-6/F",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991583488008236,
@@ -2571,7 +4827,57 @@
         1100001151,
         "THE CAIRNHILL BLOCK 3",
         "108 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 395",
+            "New Grant Lot",
+            "C4758374",
+            [
+              [
+                "TW1426442",
+                "2001-09-17",
+                "LETTER OF PERMISSION WITH PLAN",
+                null
+              ],
+              [
+                "TW1445982",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1475400",
+                "2002-08-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1524253",
+                "2003-06-12",
+                "UNDERTAKING BY THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD. &",
+                null
+              ],
+              [
+                "TW1524254",
+                "2003-06-13",
+                "STATUTORY DECLARATION RE BLOCKS 1-3 & 5-10 & 615 CPS ON 3/F, 5/F-7/F",
+                null
+              ],
+              [
+                "TW1555393",
+                "2004-01-21",
+                "UNDERTAKING BY THE BANK OF EAST ASIA LTD. AND HANG SENG BANK LTD.",
+                null
+              ],
+              [
+                "TW1555394",
+                "2004-01-21",
+                "STATUTORY DECLARATION RE BLOCKS 11- 12, 15-19 & 540 CPS ON 2-3/F, 5-6/F",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915829833644207,
@@ -2609,7 +4915,57 @@
         1100001194,
         "THE CAIRNHILL BLOCK 6",
         "108 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 395",
+            "New Grant Lot",
+            "C4758374",
+            [
+              [
+                "TW1426442",
+                "2001-09-17",
+                "LETTER OF PERMISSION WITH PLAN",
+                null
+              ],
+              [
+                "TW1445982",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1475400",
+                "2002-08-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1524253",
+                "2003-06-12",
+                "UNDERTAKING BY THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD. &",
+                null
+              ],
+              [
+                "TW1524254",
+                "2003-06-13",
+                "STATUTORY DECLARATION RE BLOCKS 1-3 & 5-10 & 615 CPS ON 3/F, 5/F-7/F",
+                null
+              ],
+              [
+                "TW1555393",
+                "2004-01-21",
+                "UNDERTAKING BY THE BANK OF EAST ASIA LTD. AND HANG SENG BANK LTD.",
+                null
+              ],
+              [
+                "TW1555394",
+                "2004-01-21",
+                "STATUTORY DECLARATION RE BLOCKS 11- 12, 15-19 & 540 CPS ON 2-3/F, 5-6/F",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99158162430728,
@@ -2628,7 +4984,57 @@
         1100001212,
         "THE CAIRNHILL BLOCK 7",
         "108 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 395",
+            "New Grant Lot",
+            "C4758374",
+            [
+              [
+                "TW1426442",
+                "2001-09-17",
+                "LETTER OF PERMISSION WITH PLAN",
+                null
+              ],
+              [
+                "TW1445982",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1475400",
+                "2002-08-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1524253",
+                "2003-06-12",
+                "UNDERTAKING BY THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD. &",
+                null
+              ],
+              [
+                "TW1524254",
+                "2003-06-13",
+                "STATUTORY DECLARATION RE BLOCKS 1-3 & 5-10 & 615 CPS ON 3/F, 5/F-7/F",
+                null
+              ],
+              [
+                "TW1555393",
+                "2004-01-21",
+                "UNDERTAKING BY THE BANK OF EAST ASIA LTD. AND HANG SENG BANK LTD.",
+                null
+              ],
+              [
+                "TW1555394",
+                "2004-01-21",
+                "STATUTORY DECLARATION RE BLOCKS 11- 12, 15-19 & 540 CPS ON 2-3/F, 5-6/F",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991586567642743,
@@ -2647,7 +5053,57 @@
         1100001219,
         "THE CAIRNHILL BLOCK 8",
         "108 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 395",
+            "New Grant Lot",
+            "C4758374",
+            [
+              [
+                "TW1426442",
+                "2001-09-17",
+                "LETTER OF PERMISSION WITH PLAN",
+                null
+              ],
+              [
+                "TW1445982",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1475400",
+                "2002-08-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1524253",
+                "2003-06-12",
+                "UNDERTAKING BY THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD. &",
+                null
+              ],
+              [
+                "TW1524254",
+                "2003-06-13",
+                "STATUTORY DECLARATION RE BLOCKS 1-3 & 5-10 & 615 CPS ON 3/F, 5/F-7/F",
+                null
+              ],
+              [
+                "TW1555393",
+                "2004-01-21",
+                "UNDERTAKING BY THE BANK OF EAST ASIA LTD. AND HANG SENG BANK LTD.",
+                null
+              ],
+              [
+                "TW1555394",
+                "2004-01-21",
+                "STATUTORY DECLARATION RE BLOCKS 11- 12, 15-19 & 540 CPS ON 2-3/F, 5-6/F",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915900426743618,
@@ -2685,7 +5141,105 @@
         1100001221,
         null,
         null,
-        []
+        [
+          [
+            "DD358 47",
+            "Old Schedule Lot",
+            "C4826344",
+            [
+              [
+                "TW15600",
+                "1919-06-30",
+                "-",
+                null
+              ],
+              [
+                "TW27184",
+                "1926-08-12",
+                "-",
+                null
+              ],
+              [
+                "TW27451",
+                "1926-11-18",
+                "MORTGAGE",
+                "750.0"
+              ],
+              [
+                "TW28063",
+                "1927-07-29",
+                "TRANSFER OF MORTGAGE BY LI PO CHUN",
+                "750.0"
+              ],
+              [
+                "TW34999",
+                "1932-10-14",
+                "MORTGAGE",
+                "700.0"
+              ],
+              [
+                "TW38493",
+                "1935-11-04",
+                "AGREEMENT FOR SALE",
+                "440.0"
+              ],
+              [
+                "TW38521",
+                "1935-11-14",
+                "-",
+                null
+              ],
+              [
+                "TW70816",
+                "1960-11-28",
+                "(PRE-IRIS) SUCCESSION",
+                null
+              ],
+              [
+                "TW1228346",
+                "1998-07-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "08111400530010",
+                "2008-05-19",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF PO LAM TONG",
+                null
+              ],
+              [
+                "08111400530026",
+                "2008-10-21",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "16101701420017",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "16123001630024",
+                "2016-12-19",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "16123001630017",
+                "2016-12-23",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "21011200700018",
+                "2021-01-05",
+                "VESTING ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913775067053032,
@@ -2704,7 +5258,57 @@
         1100001225,
         "THE CAIRNHILL BLOCK 9",
         "108 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 395",
+            "New Grant Lot",
+            "C4758374",
+            [
+              [
+                "TW1426442",
+                "2001-09-17",
+                "LETTER OF PERMISSION WITH PLAN",
+                null
+              ],
+              [
+                "TW1445982",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1475400",
+                "2002-08-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1524253",
+                "2003-06-12",
+                "UNDERTAKING BY THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD. &",
+                null
+              ],
+              [
+                "TW1524254",
+                "2003-06-13",
+                "STATUTORY DECLARATION RE BLOCKS 1-3 & 5-10 & 615 CPS ON 3/F, 5/F-7/F",
+                null
+              ],
+              [
+                "TW1555393",
+                "2004-01-21",
+                "UNDERTAKING BY THE BANK OF EAST ASIA LTD. AND HANG SENG BANK LTD.",
+                null
+              ],
+              [
+                "TW1555394",
+                "2004-01-21",
+                "STATUTORY DECLARATION RE BLOCKS 11- 12, 15-19 & 540 CPS ON 2-3/F, 5-6/F",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991593544281541,
@@ -2723,7 +5327,57 @@
         1100001227,
         "THE CAIRNHILL BLOCK 5",
         "108 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 395",
+            "New Grant Lot",
+            "C4758374",
+            [
+              [
+                "TW1426442",
+                "2001-09-17",
+                "LETTER OF PERMISSION WITH PLAN",
+                null
+              ],
+              [
+                "TW1445982",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1475400",
+                "2002-08-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1524253",
+                "2003-06-12",
+                "UNDERTAKING BY THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD. &",
+                null
+              ],
+              [
+                "TW1524254",
+                "2003-06-13",
+                "STATUTORY DECLARATION RE BLOCKS 1-3 & 5-10 & 615 CPS ON 3/F, 5/F-7/F",
+                null
+              ],
+              [
+                "TW1555393",
+                "2004-01-21",
+                "UNDERTAKING BY THE BANK OF EAST ASIA LTD. AND HANG SENG BANK LTD.",
+                null
+              ],
+              [
+                "TW1555394",
+                "2004-01-21",
+                "STATUTORY DECLARATION RE BLOCKS 11- 12, 15-19 & 540 CPS ON 2-3/F, 5-6/F",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915785689171897,
@@ -2742,7 +5396,57 @@
         1100001236,
         "THE CAIRNHILL BLOCK 10",
         "108 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 395",
+            "New Grant Lot",
+            "C4758374",
+            [
+              [
+                "TW1426442",
+                "2001-09-17",
+                "LETTER OF PERMISSION WITH PLAN",
+                null
+              ],
+              [
+                "TW1445982",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1475400",
+                "2002-08-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1524253",
+                "2003-06-12",
+                "UNDERTAKING BY THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD. &",
+                null
+              ],
+              [
+                "TW1524254",
+                "2003-06-13",
+                "STATUTORY DECLARATION RE BLOCKS 1-3 & 5-10 & 615 CPS ON 3/F, 5/F-7/F",
+                null
+              ],
+              [
+                "TW1555393",
+                "2004-01-21",
+                "UNDERTAKING BY THE BANK OF EAST ASIA LTD. AND HANG SENG BANK LTD.",
+                null
+              ],
+              [
+                "TW1555394",
+                "2004-01-21",
+                "STATUTORY DECLARATION RE BLOCKS 11- 12, 15-19 & 540 CPS ON 2-3/F, 5-6/F",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915970118966897,
@@ -2799,7 +5503,124 @@
         1100001259,
         null,
         null,
-        []
+        [
+          [
+            "DD358 348",
+            "New Grant Lot",
+            "C6387292",
+            [
+              [
+                "TW70816",
+                "1960-11-28",
+                "(PRE-IRIS) SUCCESSION",
+                null
+              ],
+              [
+                "TW1228346",
+                "1998-07-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "08111400530010",
+                "2008-05-19",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF PO LAM TONG",
+                null
+              ],
+              [
+                "08111400530026",
+                "2008-10-21",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "16101701420017",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "16123001630024",
+                "2016-12-19",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "16123001630017",
+                "2016-12-23",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "21011200700018",
+                "2021-01-05",
+                "VESTING ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD358 349",
+            "New Grant Lot",
+            "C1427887",
+            [
+              [
+                "TW70816",
+                "1960-11-28",
+                "(PRE-IRIS) SUCCESSION",
+                null
+              ],
+              [
+                "TW1228346",
+                "1998-07-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "08111400530010",
+                "2008-05-19",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF PO LAM TONG",
+                null
+              ],
+              [
+                "08111400530026",
+                "2008-10-21",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "16101701420017",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "16123001630024",
+                "2016-12-19",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "16123001630017",
+                "2016-12-23",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "21011200700018",
+                "2021-01-05",
+                "VESTING ASSENT",
+                null
+              ],
+              [
+                "23122901110010",
+                "2023-11-30",
+                "Please refer to the NatureDescriptionCHN Field.",
+                "THE RENT IS $1.00 PER YEAR"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991376433114582,
@@ -2856,7 +5677,69 @@
         1100001273,
         null,
         null,
-        []
+        [
+          [
+            "DD358 349",
+            "New Grant Lot",
+            "C1427887",
+            [
+              [
+                "TW70816",
+                "1960-11-28",
+                "(PRE-IRIS) SUCCESSION",
+                null
+              ],
+              [
+                "TW1228346",
+                "1998-07-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "08111400530010",
+                "2008-05-19",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF PO LAM TONG",
+                null
+              ],
+              [
+                "08111400530026",
+                "2008-10-21",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "16101701420017",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "16123001630024",
+                "2016-12-19",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "16123001630017",
+                "2016-12-23",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "21011200700018",
+                "2021-01-05",
+                "VESTING ASSENT",
+                null
+              ],
+              [
+                "23122901110010",
+                "2023-11-30",
+                "Please refer to the NatureDescriptionCHN Field.",
+                "THE RENT IS $1.00 PER YEAR"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991372913690987,
@@ -2875,7 +5758,69 @@
         1100001282,
         "THE CLIVEDEN BLOCK 10",
         "98 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 404",
+            "New Grant Lot",
+            "C5487944",
+            [
+              [
+                "TW1468163",
+                "2001-06-04",
+                "LETTER OF UNDERTAKING (RELATNG TO BALCONIES)",
+                null
+              ],
+              [
+                "TW1468164",
+                "2001-06-08",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "TW1437014",
+                "2001-10-19",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1446204",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1464449",
+                "2002-05-09",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1470054",
+                "2002-07-09",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1476316",
+                "2002-08-08",
+                "UNDERTAKING LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1482955",
+                "2002-09-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW1482954",
+                "2002-10-07",
+                "STATUTORY DECLARATION WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915780970051187,
@@ -2894,7 +5839,124 @@
         1100001283,
         null,
         null,
-        []
+        [
+          [
+            "DD358 348",
+            "New Grant Lot",
+            "C6387292",
+            [
+              [
+                "TW70816",
+                "1960-11-28",
+                "(PRE-IRIS) SUCCESSION",
+                null
+              ],
+              [
+                "TW1228346",
+                "1998-07-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "08111400530010",
+                "2008-05-19",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF PO LAM TONG",
+                null
+              ],
+              [
+                "08111400530026",
+                "2008-10-21",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "16101701420017",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "16123001630024",
+                "2016-12-19",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "16123001630017",
+                "2016-12-23",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "21011200700018",
+                "2021-01-05",
+                "VESTING ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD358 349",
+            "New Grant Lot",
+            "C1427887",
+            [
+              [
+                "TW70816",
+                "1960-11-28",
+                "(PRE-IRIS) SUCCESSION",
+                null
+              ],
+              [
+                "TW1228346",
+                "1998-07-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "08111400530010",
+                "2008-05-19",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF PO LAM TONG",
+                null
+              ],
+              [
+                "08111400530026",
+                "2008-10-21",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "16101701420017",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "16123001630024",
+                "2016-12-19",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "16123001630017",
+                "2016-12-23",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "21011200700018",
+                "2021-01-05",
+                "VESTING ASSENT",
+                null
+              ],
+              [
+                "23122901110010",
+                "2023-11-30",
+                "Please refer to the NatureDescriptionCHN Field.",
+                "THE RENT IS $1.00 PER YEAR"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991375233300914,
@@ -2913,7 +5975,63 @@
         1100001284,
         null,
         null,
-        []
+        [
+          [
+            "DD358 348",
+            "New Grant Lot",
+            "C6387292",
+            [
+              [
+                "TW70816",
+                "1960-11-28",
+                "(PRE-IRIS) SUCCESSION",
+                null
+              ],
+              [
+                "TW1228346",
+                "1998-07-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "08111400530010",
+                "2008-05-19",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF PO LAM TONG",
+                null
+              ],
+              [
+                "08111400530026",
+                "2008-10-21",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "16101701420017",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "16123001630024",
+                "2016-12-19",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "16123001630017",
+                "2016-12-23",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "21011200700018",
+                "2021-01-05",
+                "VESTING ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913763026649292,
@@ -2932,7 +6050,57 @@
         1100001288,
         "THE CAIRNHILL BLOCK 11",
         "108 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 395",
+            "New Grant Lot",
+            "C4758374",
+            [
+              [
+                "TW1426442",
+                "2001-09-17",
+                "LETTER OF PERMISSION WITH PLAN",
+                null
+              ],
+              [
+                "TW1445982",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1475400",
+                "2002-08-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1524253",
+                "2003-06-12",
+                "UNDERTAKING BY THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD. &",
+                null
+              ],
+              [
+                "TW1524254",
+                "2003-06-13",
+                "STATUTORY DECLARATION RE BLOCKS 1-3 & 5-10 & 615 CPS ON 3/F, 5/F-7/F",
+                null
+              ],
+              [
+                "TW1555393",
+                "2004-01-21",
+                "UNDERTAKING BY THE BANK OF EAST ASIA LTD. AND HANG SENG BANK LTD.",
+                null
+              ],
+              [
+                "TW1555394",
+                "2004-01-21",
+                "STATUTORY DECLARATION RE BLOCKS 11- 12, 15-19 & 540 CPS ON 2-3/F, 5-6/F",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916068373173834,
@@ -2970,7 +6138,69 @@
         1100001298,
         "THE CLIVEDEN BLOCK 1",
         "98 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 404",
+            "New Grant Lot",
+            "C5487944",
+            [
+              [
+                "TW1468163",
+                "2001-06-04",
+                "LETTER OF UNDERTAKING (RELATNG TO BALCONIES)",
+                null
+              ],
+              [
+                "TW1468164",
+                "2001-06-08",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "TW1437014",
+                "2001-10-19",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1446204",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1464449",
+                "2002-05-09",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1470054",
+                "2002-07-09",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1476316",
+                "2002-08-08",
+                "UNDERTAKING LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1482955",
+                "2002-09-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW1482954",
+                "2002-10-07",
+                "STATUTORY DECLARATION WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915949082834077,
@@ -3046,7 +6276,69 @@
         1100001310,
         "THE CLIVEDEN BLOCK 9",
         "98 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 404",
+            "New Grant Lot",
+            "C5487944",
+            [
+              [
+                "TW1468163",
+                "2001-06-04",
+                "LETTER OF UNDERTAKING (RELATNG TO BALCONIES)",
+                null
+              ],
+              [
+                "TW1468164",
+                "2001-06-08",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "TW1437014",
+                "2001-10-19",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1446204",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1464449",
+                "2002-05-09",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1470054",
+                "2002-07-09",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1476316",
+                "2002-08-08",
+                "UNDERTAKING LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1482955",
+                "2002-09-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW1482954",
+                "2002-10-07",
+                "STATUTORY DECLARATION WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915791700092842,
@@ -3065,7 +6357,69 @@
         1100001324,
         "THE CLIVEDEN BLOCK 2",
         "98 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 404",
+            "New Grant Lot",
+            "C5487944",
+            [
+              [
+                "TW1468163",
+                "2001-06-04",
+                "LETTER OF UNDERTAKING (RELATNG TO BALCONIES)",
+                null
+              ],
+              [
+                "TW1468164",
+                "2001-06-08",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "TW1437014",
+                "2001-10-19",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1446204",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1464449",
+                "2002-05-09",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1470054",
+                "2002-07-09",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1476316",
+                "2002-08-08",
+                "UNDERTAKING LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1482955",
+                "2002-09-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW1482954",
+                "2002-10-07",
+                "STATUTORY DECLARATION WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915925150282043,
@@ -3084,7 +6438,69 @@
         1100001339,
         "THE CLIVEDEN BLOCK 3",
         "98 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 404",
+            "New Grant Lot",
+            "C5487944",
+            [
+              [
+                "TW1468163",
+                "2001-06-04",
+                "LETTER OF UNDERTAKING (RELATNG TO BALCONIES)",
+                null
+              ],
+              [
+                "TW1468164",
+                "2001-06-08",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "TW1437014",
+                "2001-10-19",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1446204",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1464449",
+                "2002-05-09",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1470054",
+                "2002-07-09",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1476316",
+                "2002-08-08",
+                "UNDERTAKING LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1482955",
+                "2002-09-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW1482954",
+                "2002-10-07",
+                "STATUTORY DECLARATION WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915893998553333,
@@ -3103,7 +6519,69 @@
         1100001340,
         "THE CLIVEDEN BLOCK 6",
         "98 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 404",
+            "New Grant Lot",
+            "C5487944",
+            [
+              [
+                "TW1468163",
+                "2001-06-04",
+                "LETTER OF UNDERTAKING (RELATNG TO BALCONIES)",
+                null
+              ],
+              [
+                "TW1468164",
+                "2001-06-08",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "TW1437014",
+                "2001-10-19",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1446204",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1464449",
+                "2002-05-09",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1470054",
+                "2002-07-09",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1476316",
+                "2002-08-08",
+                "UNDERTAKING LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1482955",
+                "2002-09-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW1482954",
+                "2002-10-07",
+                "STATUTORY DECLARATION WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915829600655734,
@@ -3141,7 +6619,69 @@
         1100001343,
         "THE CLIVEDEN BLOCK 5",
         "98 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 404",
+            "New Grant Lot",
+            "C5487944",
+            [
+              [
+                "TW1468163",
+                "2001-06-04",
+                "LETTER OF UNDERTAKING (RELATNG TO BALCONIES)",
+                null
+              ],
+              [
+                "TW1468164",
+                "2001-06-08",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "TW1437014",
+                "2001-10-19",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1446204",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1464449",
+                "2002-05-09",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1470054",
+                "2002-07-09",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1476316",
+                "2002-08-08",
+                "UNDERTAKING LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1482955",
+                "2002-09-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW1482954",
+                "2002-10-07",
+                "STATUTORY DECLARATION WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915861877261591,
@@ -3198,7 +6738,69 @@
         1100001366,
         "THE CLIVEDEN BLOCK 7",
         "98 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 404",
+            "New Grant Lot",
+            "C5487944",
+            [
+              [
+                "TW1468163",
+                "2001-06-04",
+                "LETTER OF UNDERTAKING (RELATNG TO BALCONIES)",
+                null
+              ],
+              [
+                "TW1468164",
+                "2001-06-08",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "TW1437014",
+                "2001-10-19",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1446204",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1464449",
+                "2002-05-09",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1470054",
+                "2002-07-09",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1476316",
+                "2002-08-08",
+                "UNDERTAKING LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1482955",
+                "2002-09-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW1482954",
+                "2002-10-07",
+                "STATUTORY DECLARATION WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915791497026292,
@@ -3217,7 +6819,57 @@
         1100001374,
         "THE CAIRNHILL BLOCK 19",
         "108 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 395",
+            "New Grant Lot",
+            "C4758374",
+            [
+              [
+                "TW1426442",
+                "2001-09-17",
+                "LETTER OF PERMISSION WITH PLAN",
+                null
+              ],
+              [
+                "TW1445982",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1475400",
+                "2002-08-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1524253",
+                "2003-06-12",
+                "UNDERTAKING BY THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD. &",
+                null
+              ],
+              [
+                "TW1524254",
+                "2003-06-13",
+                "STATUTORY DECLARATION RE BLOCKS 1-3 & 5-10 & 615 CPS ON 3/F, 5/F-7/F",
+                null
+              ],
+              [
+                "TW1555393",
+                "2004-01-21",
+                "UNDERTAKING BY THE BANK OF EAST ASIA LTD. AND HANG SENG BANK LTD.",
+                null
+              ],
+              [
+                "TW1555394",
+                "2004-01-21",
+                "STATUTORY DECLARATION RE BLOCKS 11- 12, 15-19 & 540 CPS ON 2-3/F, 5-6/F",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916198656961386,
@@ -3236,7 +6888,57 @@
         1100001377,
         "THE CAIRNHILL BLOCK 12",
         "108 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 395",
+            "New Grant Lot",
+            "C4758374",
+            [
+              [
+                "TW1426442",
+                "2001-09-17",
+                "LETTER OF PERMISSION WITH PLAN",
+                null
+              ],
+              [
+                "TW1445982",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1475400",
+                "2002-08-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1524253",
+                "2003-06-12",
+                "UNDERTAKING BY THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD. &",
+                null
+              ],
+              [
+                "TW1524254",
+                "2003-06-13",
+                "STATUTORY DECLARATION RE BLOCKS 1-3 & 5-10 & 615 CPS ON 3/F, 5/F-7/F",
+                null
+              ],
+              [
+                "TW1555393",
+                "2004-01-21",
+                "UNDERTAKING BY THE BANK OF EAST ASIA LTD. AND HANG SENG BANK LTD.",
+                null
+              ],
+              [
+                "TW1555394",
+                "2004-01-21",
+                "STATUTORY DECLARATION RE BLOCKS 11- 12, 15-19 & 540 CPS ON 2-3/F, 5-6/F",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916024116809272,
@@ -3255,7 +6957,69 @@
         1100001383,
         null,
         "98 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 404",
+            "New Grant Lot",
+            "C5487944",
+            [
+              [
+                "TW1468163",
+                "2001-06-04",
+                "LETTER OF UNDERTAKING (RELATNG TO BALCONIES)",
+                null
+              ],
+              [
+                "TW1468164",
+                "2001-06-08",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "TW1437014",
+                "2001-10-19",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1446204",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1464449",
+                "2002-05-09",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1470054",
+                "2002-07-09",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1476316",
+                "2002-08-08",
+                "UNDERTAKING LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1482955",
+                "2002-09-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW1482954",
+                "2002-10-07",
+                "STATUTORY DECLARATION WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991591884489049,
@@ -3293,7 +7057,69 @@
         1100001402,
         "THE CLIVEDEN BLOCK 8",
         "98 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 404",
+            "New Grant Lot",
+            "C5487944",
+            [
+              [
+                "TW1468163",
+                "2001-06-04",
+                "LETTER OF UNDERTAKING (RELATNG TO BALCONIES)",
+                null
+              ],
+              [
+                "TW1468164",
+                "2001-06-08",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "TW1437014",
+                "2001-10-19",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1446204",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1464449",
+                "2002-05-09",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1470054",
+                "2002-07-09",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1476316",
+                "2002-08-08",
+                "UNDERTAKING LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1482955",
+                "2002-09-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW1482954",
+                "2002-10-07",
+                "STATUTORY DECLARATION WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915769466437594,
@@ -3312,7 +7138,57 @@
         1100001408,
         "THE CAIRNHILL BLOCK 15",
         "108 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 395",
+            "New Grant Lot",
+            "C4758374",
+            [
+              [
+                "TW1426442",
+                "2001-09-17",
+                "LETTER OF PERMISSION WITH PLAN",
+                null
+              ],
+              [
+                "TW1445982",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1475400",
+                "2002-08-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1524253",
+                "2003-06-12",
+                "UNDERTAKING BY THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD. &",
+                null
+              ],
+              [
+                "TW1524254",
+                "2003-06-13",
+                "STATUTORY DECLARATION RE BLOCKS 1-3 & 5-10 & 615 CPS ON 3/F, 5/F-7/F",
+                null
+              ],
+              [
+                "TW1555393",
+                "2004-01-21",
+                "UNDERTAKING BY THE BANK OF EAST ASIA LTD. AND HANG SENG BANK LTD.",
+                null
+              ],
+              [
+                "TW1555394",
+                "2004-01-21",
+                "STATUTORY DECLARATION RE BLOCKS 11- 12, 15-19 & 540 CPS ON 2-3/F, 5-6/F",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916068258028663,
@@ -3350,7 +7226,27 @@
         1100001418,
         "HO KOON NATURE EDUCATION CUM ASTRONOMICAL CENTRE",
         "101 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 359",
+            "New Grant Lot",
+            "C6027059",
+            [
+              [
+                "TW1411232",
+                "2001-06-11",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW1545187",
+                "2003-10-29",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915614053720219,
@@ -3369,7 +7265,57 @@
         1100001424,
         "THE CAIRNHILL BLOCK 16",
         "108 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 395",
+            "New Grant Lot",
+            "C4758374",
+            [
+              [
+                "TW1426442",
+                "2001-09-17",
+                "LETTER OF PERMISSION WITH PLAN",
+                null
+              ],
+              [
+                "TW1445982",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1475400",
+                "2002-08-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1524253",
+                "2003-06-12",
+                "UNDERTAKING BY THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD. &",
+                null
+              ],
+              [
+                "TW1524254",
+                "2003-06-13",
+                "STATUTORY DECLARATION RE BLOCKS 1-3 & 5-10 & 615 CPS ON 3/F, 5/F-7/F",
+                null
+              ],
+              [
+                "TW1555393",
+                "2004-01-21",
+                "UNDERTAKING BY THE BANK OF EAST ASIA LTD. AND HANG SENG BANK LTD.",
+                null
+              ],
+              [
+                "TW1555394",
+                "2004-01-21",
+                "STATUTORY DECLARATION RE BLOCKS 11- 12, 15-19 & 540 CPS ON 2-3/F, 5-6/F",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916102125341657,
@@ -3388,7 +7334,57 @@
         1100001439,
         "THE CAIRNHILL BLOCK 17",
         "108 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 395",
+            "New Grant Lot",
+            "C4758374",
+            [
+              [
+                "TW1426442",
+                "2001-09-17",
+                "LETTER OF PERMISSION WITH PLAN",
+                null
+              ],
+              [
+                "TW1445982",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1475400",
+                "2002-08-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1524253",
+                "2003-06-12",
+                "UNDERTAKING BY THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD. &",
+                null
+              ],
+              [
+                "TW1524254",
+                "2003-06-13",
+                "STATUTORY DECLARATION RE BLOCKS 1-3 & 5-10 & 615 CPS ON 3/F, 5/F-7/F",
+                null
+              ],
+              [
+                "TW1555393",
+                "2004-01-21",
+                "UNDERTAKING BY THE BANK OF EAST ASIA LTD. AND HANG SENG BANK LTD.",
+                null
+              ],
+              [
+                "TW1555394",
+                "2004-01-21",
+                "STATUTORY DECLARATION RE BLOCKS 11- 12, 15-19 & 540 CPS ON 2-3/F, 5-6/F",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916136450779998,
@@ -3407,7 +7403,57 @@
         1100001450,
         "THE CAIRNHILL BLOCK 18",
         "108 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 395",
+            "New Grant Lot",
+            "C4758374",
+            [
+              [
+                "TW1426442",
+                "2001-09-17",
+                "LETTER OF PERMISSION WITH PLAN",
+                null
+              ],
+              [
+                "TW1445982",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1475400",
+                "2002-08-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1524253",
+                "2003-06-12",
+                "UNDERTAKING BY THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD. &",
+                null
+              ],
+              [
+                "TW1524254",
+                "2003-06-13",
+                "STATUTORY DECLARATION RE BLOCKS 1-3 & 5-10 & 615 CPS ON 3/F, 5/F-7/F",
+                null
+              ],
+              [
+                "TW1555393",
+                "2004-01-21",
+                "UNDERTAKING BY THE BANK OF EAST ASIA LTD. AND HANG SENG BANK LTD.",
+                null
+              ],
+              [
+                "TW1555394",
+                "2004-01-21",
+                "STATUTORY DECLARATION RE BLOCKS 11- 12, 15-19 & 540 CPS ON 2-3/F, 5-6/F",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991618151518108,
@@ -3464,7 +7510,27 @@
         1100001495,
         null,
         "101 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 359",
+            "New Grant Lot",
+            "C6027059",
+            [
+              [
+                "TW1411232",
+                "2001-06-11",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW1545187",
+                "2003-10-29",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915629734016569,
@@ -3502,7 +7568,51 @@
         1100001519,
         "ROUTE TWISK VILLA HOUSE 10",
         "99 ROUTE TWISK",
-        []
+        [
+          [
+            "DD432 257 &EXT",
+            "New Grant Lot",
+            "C1452319",
+            [
+              [
+                "TW75560",
+                "1964-03-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW79065",
+                "1965-12-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW81841",
+                "1968-06-12",
+                "MODIFICATION RE LOT NO.257 IN DD 432",
+                null
+              ],
+              [
+                "TW92790",
+                "1971-12-30",
+                "-",
+                "390000.0"
+              ],
+              [
+                "TW407918",
+                "1986-08-29",
+                "MODIFICATION LETTER RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW407919",
+                "1986-08-29",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915812099376227,
@@ -3521,7 +7631,51 @@
         1100001534,
         "ROUTE TWISK VILLA HOUSE 9",
         "99 ROUTE TWISK",
-        []
+        [
+          [
+            "DD432 257 &EXT",
+            "New Grant Lot",
+            "C1452319",
+            [
+              [
+                "TW75560",
+                "1964-03-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW79065",
+                "1965-12-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW81841",
+                "1968-06-12",
+                "MODIFICATION RE LOT NO.257 IN DD 432",
+                null
+              ],
+              [
+                "TW92790",
+                "1971-12-30",
+                "-",
+                "390000.0"
+              ],
+              [
+                "TW407918",
+                "1986-08-29",
+                "MODIFICATION LETTER RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW407919",
+                "1986-08-29",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915816913851858,
@@ -3578,7 +7732,51 @@
         1100001580,
         "ROUTE TWISK VILLA HOUSE 1",
         "99 ROUTE TWISK",
-        []
+        [
+          [
+            "DD432 257 &EXT",
+            "New Grant Lot",
+            "C1452319",
+            [
+              [
+                "TW75560",
+                "1964-03-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW79065",
+                "1965-12-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW81841",
+                "1968-06-12",
+                "MODIFICATION RE LOT NO.257 IN DD 432",
+                null
+              ],
+              [
+                "TW92790",
+                "1971-12-30",
+                "-",
+                "390000.0"
+              ],
+              [
+                "TW407918",
+                "1986-08-29",
+                "MODIFICATION LETTER RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW407919",
+                "1986-08-29",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915830307220708,
@@ -3597,7 +7795,51 @@
         1100001606,
         "ROUTE TWISK VILLA HOUSE 2",
         "99 ROUTE TWISK",
-        []
+        [
+          [
+            "DD432 257 &EXT",
+            "New Grant Lot",
+            "C1452319",
+            [
+              [
+                "TW75560",
+                "1964-03-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW79065",
+                "1965-12-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW81841",
+                "1968-06-12",
+                "MODIFICATION RE LOT NO.257 IN DD 432",
+                null
+              ],
+              [
+                "TW92790",
+                "1971-12-30",
+                "-",
+                "390000.0"
+              ],
+              [
+                "TW407918",
+                "1986-08-29",
+                "MODIFICATION LETTER RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW407919",
+                "1986-08-29",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915822810742656,
@@ -3616,7 +7858,51 @@
         1100001628,
         "ROUTE TWISK VILLA HOUSE 3",
         "99 ROUTE TWISK",
-        []
+        [
+          [
+            "DD432 257 &EXT",
+            "New Grant Lot",
+            "C1452319",
+            [
+              [
+                "TW75560",
+                "1964-03-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW79065",
+                "1965-12-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW81841",
+                "1968-06-12",
+                "MODIFICATION RE LOT NO.257 IN DD 432",
+                null
+              ],
+              [
+                "TW92790",
+                "1971-12-30",
+                "-",
+                "390000.0"
+              ],
+              [
+                "TW407918",
+                "1986-08-29",
+                "MODIFICATION LETTER RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW407919",
+                "1986-08-29",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915804028375,
@@ -3635,7 +7921,51 @@
         1100001634,
         "ROUTE TWISK VILLA HOUSE 7",
         "99 ROUTE TWISK",
-        []
+        [
+          [
+            "DD432 257 &EXT",
+            "New Grant Lot",
+            "C1452319",
+            [
+              [
+                "TW75560",
+                "1964-03-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW79065",
+                "1965-12-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW81841",
+                "1968-06-12",
+                "MODIFICATION RE LOT NO.257 IN DD 432",
+                null
+              ],
+              [
+                "TW92790",
+                "1971-12-30",
+                "-",
+                "390000.0"
+              ],
+              [
+                "TW407918",
+                "1986-08-29",
+                "MODIFICATION LETTER RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW407919",
+                "1986-08-29",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99157472252054,
@@ -3654,7 +7984,51 @@
         1100001644,
         "ROUTE TWISK VILLA HOUSE 4",
         "99 ROUTE TWISK",
-        []
+        [
+          [
+            "DD432 257 &EXT",
+            "New Grant Lot",
+            "C1452319",
+            [
+              [
+                "TW75560",
+                "1964-03-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW79065",
+                "1965-12-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW81841",
+                "1968-06-12",
+                "MODIFICATION RE LOT NO.257 IN DD 432",
+                null
+              ],
+              [
+                "TW92790",
+                "1971-12-30",
+                "-",
+                "390000.0"
+              ],
+              [
+                "TW407918",
+                "1986-08-29",
+                "MODIFICATION LETTER RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW407919",
+                "1986-08-29",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991579610360563,
@@ -3673,7 +8047,51 @@
         1100001645,
         "ROUTE TWISK VILLA HOUSE 5",
         "99 ROUTE TWISK",
-        []
+        [
+          [
+            "DD432 257 &EXT",
+            "New Grant Lot",
+            "C1452319",
+            [
+              [
+                "TW75560",
+                "1964-03-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW79065",
+                "1965-12-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW81841",
+                "1968-06-12",
+                "MODIFICATION RE LOT NO.257 IN DD 432",
+                null
+              ],
+              [
+                "TW92790",
+                "1971-12-30",
+                "-",
+                "390000.0"
+              ],
+              [
+                "TW407918",
+                "1986-08-29",
+                "MODIFICATION LETTER RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW407919",
+                "1986-08-29",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915775659091768,
@@ -3692,7 +8110,51 @@
         1100001656,
         "ROUTE TWISK VILLA HOUSE 8",
         "99 ROUTE TWISK",
-        []
+        [
+          [
+            "DD432 257 &EXT",
+            "New Grant Lot",
+            "C1452319",
+            [
+              [
+                "TW75560",
+                "1964-03-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW79065",
+                "1965-12-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW81841",
+                "1968-06-12",
+                "MODIFICATION RE LOT NO.257 IN DD 432",
+                null
+              ],
+              [
+                "TW92790",
+                "1971-12-30",
+                "-",
+                "390000.0"
+              ],
+              [
+                "TW407918",
+                "1986-08-29",
+                "MODIFICATION LETTER RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW407919",
+                "1986-08-29",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991573665513749,
@@ -3711,7 +8173,51 @@
         1100001668,
         "ROUTE TWISK VILLA HOUSE 6",
         "99 ROUTE TWISK",
-        []
+        [
+          [
+            "DD432 257 &EXT",
+            "New Grant Lot",
+            "C1452319",
+            [
+              [
+                "TW75560",
+                "1964-03-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW79065",
+                "1965-12-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW81841",
+                "1968-06-12",
+                "MODIFICATION RE LOT NO.257 IN DD 432",
+                null
+              ],
+              [
+                "TW92790",
+                "1971-12-30",
+                "-",
+                "390000.0"
+              ],
+              [
+                "TW407918",
+                "1986-08-29",
+                "MODIFICATION LETTER RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW407919",
+                "1986-08-29",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915765977151783,
@@ -3920,7 +8426,117 @@
         1100001890,
         null,
         null,
-        []
+        [
+          [
+            "DD432 1",
+            "Old Schedule Lot",
+            "C4829094",
+            [
+              [
+                "TW10594",
+                "1916-02-01",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "TW39961",
+                "1937-03-10",
+                "MORTGAGE",
+                "100.0"
+              ],
+              [
+                "TW47221",
+                "1941-09-19",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "TW49407",
+                "1947-09-04",
+                "-",
+                null
+              ],
+              [
+                "TW70322",
+                "1960-07-11",
+                "MORTGAGE",
+                "5000.0"
+              ],
+              [
+                "TW73421",
+                "1963-01-22",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "TW179449",
+                "1979-08-13",
+                "DEATH CERTIFICATE OF TANG SHIU WA ALIAS TANG FUK",
+                null
+              ],
+              [
+                "TW188988",
+                "1980-03-25",
+                "-",
+                null
+              ],
+              [
+                "TW806425",
+                "1991-12-18",
+                "POWER OF ATTORNEY OF 1/7 SHARE BY TANG LEUNG YIU",
+                null
+              ],
+              [
+                "TW903877",
+                "1993-07-09",
+                "REVOCATION",
+                null
+              ],
+              [
+                "TW903878",
+                "1993-07-09",
+                "-",
+                "230000.0"
+              ],
+              [
+                "TW960746",
+                "1994-05-19",
+                "AGREEMENT FOR SALE AND PURCHASE OF 1/7 SHARE BY TANG YUN SANG",
+                "230000.0"
+              ],
+              [
+                "TW960747",
+                "1994-05-19",
+                "-",
+                "230000.0"
+              ],
+              [
+                "05042002370306",
+                "2005-04-04",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "20020600630058",
+                "2020-01-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "180000.0"
+              ],
+              [
+                "20020700840093",
+                "2020-01-21",
+                "ASSIGNMENT",
+                "180000.0"
+              ],
+              [
+                "22082201350018",
+                "2022-08-08",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916206130913627,
@@ -3958,7 +8574,21 @@
         1100001899,
         null,
         null,
-        []
+        [
+          [
+            "DD359 28",
+            "Old Schedule Lot",
+            "C1428112",
+            [
+              [
+                "TW15366",
+                "1919-04-24",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915242688243748,
@@ -4471,7 +9101,27 @@
         1100002628,
         null,
         "145 - 165 TSUEN KING CIRCUIT",
-        []
+        [
+          [
+            "TWTL 282",
+            "New Grant Lot",
+            "C4757733",
+            [
+              [
+                "TW851940",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "16071501880013",
+                "2016-07-05",
+                "TEMPORARY WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915162425979762,
@@ -4509,7 +9159,14 @@
         1100002642,
         null,
         null,
-        []
+        [
+          [
+            "TWTL 358",
+            "New Grant Lot",
+            "C4758246",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9916505569565712,
@@ -4585,7 +9242,27 @@
         1100002714,
         "LIM POR YEN SECONDARY SCHOOL SUBSTATION",
         "145 - 165 TSUEN KING CIRCUIT",
-        []
+        [
+          [
+            "TWTL 282",
+            "New Grant Lot",
+            "C4757733",
+            [
+              [
+                "TW851940",
+                "1992-07-22",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "16071501880013",
+                "2016-07-05",
+                "TEMPORARY WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915116135230693,
@@ -4642,7 +9319,57 @@
         1100014723,
         null,
         "108 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 395",
+            "New Grant Lot",
+            "C4758374",
+            [
+              [
+                "TW1426442",
+                "2001-09-17",
+                "LETTER OF PERMISSION WITH PLAN",
+                null
+              ],
+              [
+                "TW1445982",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1475400",
+                "2002-08-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1524253",
+                "2003-06-12",
+                "UNDERTAKING BY THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD. &",
+                null
+              ],
+              [
+                "TW1524254",
+                "2003-06-13",
+                "STATUTORY DECLARATION RE BLOCKS 1-3 & 5-10 & 615 CPS ON 3/F, 5/F-7/F",
+                null
+              ],
+              [
+                "TW1555393",
+                "2004-01-21",
+                "UNDERTAKING BY THE BANK OF EAST ASIA LTD. AND HANG SENG BANK LTD.",
+                null
+              ],
+              [
+                "TW1555394",
+                "2004-01-21",
+                "STATUTORY DECLARATION RE BLOCKS 11- 12, 15-19 & 540 CPS ON 2-3/F, 5-6/F",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915869498616707,
@@ -4661,7 +9388,69 @@
         1100014724,
         null,
         "98 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 404",
+            "New Grant Lot",
+            "C5487944",
+            [
+              [
+                "TW1468163",
+                "2001-06-04",
+                "LETTER OF UNDERTAKING (RELATNG TO BALCONIES)",
+                null
+              ],
+              [
+                "TW1468164",
+                "2001-06-08",
+                "UNDERTAKING LETTER",
+                null
+              ],
+              [
+                "TW1437014",
+                "2001-10-19",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1446204",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1464449",
+                "2002-05-09",
+                "LETTER (RELATING TO EXCLUSION OF THE BALCONY FROM THE CALCULATION OF",
+                null
+              ],
+              [
+                "TW1470054",
+                "2002-07-09",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1476316",
+                "2002-08-08",
+                "UNDERTAKING LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1482955",
+                "2002-09-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TW1482954",
+                "2002-10-07",
+                "STATUTORY DECLARATION WITH PLANS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9915849454684584,
@@ -4680,7 +9469,57 @@
         1100014725,
         null,
         "108 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 395",
+            "New Grant Lot",
+            "C4758374",
+            [
+              [
+                "TW1426442",
+                "2001-09-17",
+                "LETTER OF PERMISSION WITH PLAN",
+                null
+              ],
+              [
+                "TW1445982",
+                "2001-12-18",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1475400",
+                "2002-08-19",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1524253",
+                "2003-06-12",
+                "UNDERTAKING BY THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD. &",
+                null
+              ],
+              [
+                "TW1524254",
+                "2003-06-13",
+                "STATUTORY DECLARATION RE BLOCKS 1-3 & 5-10 & 615 CPS ON 3/F, 5/F-7/F",
+                null
+              ],
+              [
+                "TW1555393",
+                "2004-01-21",
+                "UNDERTAKING BY THE BANK OF EAST ASIA LTD. AND HANG SENG BANK LTD.",
+                null
+              ],
+              [
+                "TW1555394",
+                "2004-01-21",
+                "STATUTORY DECLARATION RE BLOCKS 11- 12, 15-19 & 540 CPS ON 2-3/F, 5-6/F",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916113898377574,
@@ -4699,7 +9538,27 @@
         1100014727,
         null,
         "101 ROUTE TWISK",
-        []
+        [
+          [
+            "TWTL 359",
+            "New Grant Lot",
+            "C6027059",
+            [
+              [
+                "TW1411232",
+                "2001-06-11",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TW1545187",
+                "2003-10-29",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991563430754124,
@@ -4718,7 +9577,87 @@
         1810002178,
         null,
         null,
-        []
+        [
+          [
+            "DD360 1065",
+            "Old Schedule Lot",
+            "C1434207",
+            [
+              [
+                "TW28249",
+                "1927-10-21",
+                "-",
+                null
+              ],
+              [
+                "TW29668",
+                "1929-02-05",
+                "MORTGAGE",
+                "200.0"
+              ],
+              [
+                "TW30428",
+                "1929-11-15",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "TW30429",
+                "1929-11-15",
+                "MORTGAGE",
+                "2000.0"
+              ],
+              [
+                "TW50646",
+                "1948-04-16",
+                "-",
+                null
+              ],
+              [
+                "TW64582",
+                "1956-07-04",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "TW77787",
+                "1965-01-22",
+                "AGREEMENT FOR SALE",
+                "25000.0"
+              ],
+              [
+                "TW78432",
+                "1965-06-26",
+                "ORDER (VACATION OF PROHIBITORY ORDER)",
+                null
+              ],
+              [
+                "TW86653",
+                "1970-12-28",
+                "STATUTORY DECLARATION BY TSANG CHAN HING",
+                null
+              ],
+              [
+                "TW86656",
+                "1971-01-12",
+                "-",
+                "65770.0"
+              ],
+              [
+                "TW86654",
+                "1971-01-12",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "TW86655",
+                "1971-01-12",
+                "CANCELLATION AGREEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914828076780764,
@@ -4737,7 +9676,39 @@
         1810088432,
         null,
         null,
-        []
+        [
+          [
+            "DD432 105",
+            "New Grant Lot",
+            "C1451623",
+            [
+              [
+                "TW72903",
+                "1962-08-11",
+                "-",
+                "8000.0"
+              ],
+              [
+                "TW80525",
+                "1967-04-14",
+                "TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "10082402540016",
+                "2010-06-29",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "10082603060049",
+                "2010-07-21",
+                "ASSIGNMENT",
+                "200000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916428328035922,
@@ -4756,7 +9727,39 @@
         1810088433,
         null,
         null,
-        []
+        [
+          [
+            "DD432 105",
+            "New Grant Lot",
+            "C1451623",
+            [
+              [
+                "TW72903",
+                "1962-08-11",
+                "-",
+                "8000.0"
+              ],
+              [
+                "TW80525",
+                "1967-04-14",
+                "TENANCY AGREEMENT",
+                null
+              ],
+              [
+                "10082402540016",
+                "2010-06-29",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "10082603060049",
+                "2010-07-21",
+                "ASSIGNMENT",
+                "200000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9916417410098821,
@@ -4851,7 +9854,51 @@
         1810136333,
         null,
         "99 ROUTE TWISK",
-        []
+        [
+          [
+            "DD432 257 &EXT",
+            "New Grant Lot",
+            "C1452319",
+            [
+              [
+                "TW75560",
+                "1964-03-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW79065",
+                "1965-12-02",
+                "MODIFICATION RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW81841",
+                "1968-06-12",
+                "MODIFICATION RE LOT NO.257 IN DD 432",
+                null
+              ],
+              [
+                "TW92790",
+                "1971-12-30",
+                "-",
+                "390000.0"
+              ],
+              [
+                "TW407918",
+                "1986-08-29",
+                "MODIFICATION LETTER RE LOT NO.257 IN DD432",
+                null
+              ],
+              [
+                "TW407919",
+                "1986-08-29",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991583659279226,
@@ -4870,7 +9917,105 @@
         1910219530,
         null,
         null,
-        []
+        [
+          [
+            "DD358 72",
+            "Old Schedule Lot",
+            "C1427533",
+            [
+              [
+                "TW15600",
+                "1919-06-30",
+                "-",
+                null
+              ],
+              [
+                "TW27184",
+                "1926-08-12",
+                "-",
+                null
+              ],
+              [
+                "TW27451",
+                "1926-11-18",
+                "MORTGAGE",
+                "750.0"
+              ],
+              [
+                "TW28063",
+                "1927-07-29",
+                "TRANSFER OF MORTGAGE BY LI PO CHUN",
+                "750.0"
+              ],
+              [
+                "TW34999",
+                "1932-10-14",
+                "MORTGAGE",
+                "700.0"
+              ],
+              [
+                "TW38493",
+                "1935-11-04",
+                "AGREEMENT FOR SALE",
+                "440.0"
+              ],
+              [
+                "TW38521",
+                "1935-11-14",
+                "-",
+                null
+              ],
+              [
+                "TW70816",
+                "1960-11-28",
+                "(PRE-IRIS) SUCCESSION",
+                null
+              ],
+              [
+                "TW1228346",
+                "1998-07-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "08111400530010",
+                "2008-05-19",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF PO LAM TONG",
+                null
+              ],
+              [
+                "08111400530026",
+                "2008-10-21",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "16101701420017",
+                "2016-07-06",
+                "PROBATE",
+                null
+              ],
+              [
+                "16123001630024",
+                "2016-12-19",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "16123001630017",
+                "2016-12-23",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ],
+              [
+                "21011200700018",
+                "2021-01-05",
+                "VESTING ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913761511739763,
@@ -4965,7 +10110,123 @@
         1910266364,
         null,
         null,
-        []
+        [
+          [
+            "DD360 1027",
+            "Old Schedule Lot",
+            "C1434030",
+            [
+              [
+                "TW28249",
+                "1927-10-21",
+                "-",
+                null
+              ],
+              [
+                "TW29668",
+                "1929-02-05",
+                "MORTGAGE",
+                "200.0"
+              ],
+              [
+                "TW30428",
+                "1929-11-15",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "TW30429",
+                "1929-11-15",
+                "MORTGAGE",
+                "2000.0"
+              ],
+              [
+                "TW50646",
+                "1948-04-16",
+                "-",
+                null
+              ],
+              [
+                "TW64582",
+                "1956-07-04",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "TW77787",
+                "1965-01-22",
+                "AGREEMENT FOR SALE",
+                "25000.0"
+              ],
+              [
+                "TW78432",
+                "1965-06-26",
+                "ORDER (VACATION OF PROHIBITORY ORDER)",
+                null
+              ],
+              [
+                "TW86653",
+                "1970-12-28",
+                "STATUTORY DECLARATION BY TSANG CHAN HING",
+                null
+              ],
+              [
+                "TW86654",
+                "1971-01-12",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "TW86655",
+                "1971-01-12",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "TW88537",
+                "1971-05-31",
+                "-",
+                "100.0"
+              ],
+              [
+                "TW102639",
+                "1973-05-25",
+                "-",
+                "4356.0"
+              ],
+              [
+                "TW183655",
+                "1979-11-07",
+                "-",
+                "20000.0"
+              ],
+              [
+                "TW1569349",
+                "2004-01-14",
+                "PROBATE",
+                null
+              ],
+              [
+                "TW1574313",
+                "2004-04-22",
+                "ASSIGNMENT",
+                "170000.0"
+              ],
+              [
+                "TW1571992",
+                "2004-04-22",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "170000.0"
+              ],
+              [
+                "25061600500199",
+                "2025-04-29",
+                "WARNING LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9914775872385373,

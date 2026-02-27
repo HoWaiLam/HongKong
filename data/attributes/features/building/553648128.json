@@ -500,7 +500,27 @@
         1103053966,
         null,
         null,
-        []
+        [
+          [
+            "DD341 LL 102 RP",
+            "Old Schedule Lot",
+            "C4217963",
+            [
+              [
+                "IS74593",
+                "1962-08-22",
+                "-",
+                "16125.9"
+              ],
+              [
+                "IS305767",
+                "2002-06-12",
+                "ASSIGNMENT",
+                "1.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989670419644382,
@@ -519,7 +539,93 @@
         1103054085,
         null,
         "7 WANG TONG",
-        []
+        [
+          [
+            "DD333 LL 642",
+            "Old Schedule Lot",
+            "C4207513",
+            [
+              [
+                "IS74307",
+                "1962-06-08",
+                "-",
+                null
+              ],
+              [
+                "IS75842",
+                "1963-07-04",
+                "MORTGAGE BY CHAN CHEUNG CHOY",
+                "1000.0"
+              ],
+              [
+                "IS77343",
+                "1964-05-15",
+                "MORTGAGE BY CHAN CHEUNG HING",
+                "3000.0"
+              ],
+              [
+                "IS86135",
+                "1973-04-11",
+                "RDEDEMPTION",
+                null
+              ],
+              [
+                "IS86142",
+                "1973-04-12",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS86304",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN YING ALIAS CHAN YAN-KWO",
+                null
+              ],
+              [
+                "IS86303",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN SING ALIAS CHAN YAN-TAK",
+                null
+              ],
+              [
+                "IS86561",
+                "1973-09-07",
+                "-",
+                null
+              ],
+              [
+                "IS100775",
+                "1980-04-22",
+                "APPOINTMENT  OF NEW TRUSTEE",
+                null
+              ],
+              [
+                "IS100774",
+                "1980-04-22",
+                "STATUTORY DECLAREATION",
+                null
+              ],
+              [
+                "15112400770029",
+                "2015-10-22",
+                "LETTERS OF ADMINISTRATION CAETERORUM",
+                null
+              ],
+              [
+                "16062700950022",
+                "2016-01-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "17010402000116",
+                "2016-12-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9896345713827042,
@@ -538,7 +644,93 @@
         1103054086,
         null,
         "6 WANG TONG",
-        []
+        [
+          [
+            "DD333 LL 642",
+            "Old Schedule Lot",
+            "C4207513",
+            [
+              [
+                "IS74307",
+                "1962-06-08",
+                "-",
+                null
+              ],
+              [
+                "IS75842",
+                "1963-07-04",
+                "MORTGAGE BY CHAN CHEUNG CHOY",
+                "1000.0"
+              ],
+              [
+                "IS77343",
+                "1964-05-15",
+                "MORTGAGE BY CHAN CHEUNG HING",
+                "3000.0"
+              ],
+              [
+                "IS86135",
+                "1973-04-11",
+                "RDEDEMPTION",
+                null
+              ],
+              [
+                "IS86142",
+                "1973-04-12",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS86304",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN YING ALIAS CHAN YAN-KWO",
+                null
+              ],
+              [
+                "IS86303",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN SING ALIAS CHAN YAN-TAK",
+                null
+              ],
+              [
+                "IS86561",
+                "1973-09-07",
+                "-",
+                null
+              ],
+              [
+                "IS100775",
+                "1980-04-22",
+                "APPOINTMENT  OF NEW TRUSTEE",
+                null
+              ],
+              [
+                "IS100774",
+                "1980-04-22",
+                "STATUTORY DECLAREATION",
+                null
+              ],
+              [
+                "15112400770029",
+                "2015-10-22",
+                "LETTERS OF ADMINISTRATION CAETERORUM",
+                null
+              ],
+              [
+                "16062700950022",
+                "2016-01-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "17010402000116",
+                "2016-12-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9896340284656318,
@@ -557,7 +749,93 @@
         1103054092,
         null,
         "5 WANG TONG",
-        []
+        [
+          [
+            "DD333 LL 642",
+            "Old Schedule Lot",
+            "C4207513",
+            [
+              [
+                "IS74307",
+                "1962-06-08",
+                "-",
+                null
+              ],
+              [
+                "IS75842",
+                "1963-07-04",
+                "MORTGAGE BY CHAN CHEUNG CHOY",
+                "1000.0"
+              ],
+              [
+                "IS77343",
+                "1964-05-15",
+                "MORTGAGE BY CHAN CHEUNG HING",
+                "3000.0"
+              ],
+              [
+                "IS86135",
+                "1973-04-11",
+                "RDEDEMPTION",
+                null
+              ],
+              [
+                "IS86142",
+                "1973-04-12",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS86304",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN YING ALIAS CHAN YAN-KWO",
+                null
+              ],
+              [
+                "IS86303",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN SING ALIAS CHAN YAN-TAK",
+                null
+              ],
+              [
+                "IS86561",
+                "1973-09-07",
+                "-",
+                null
+              ],
+              [
+                "IS100775",
+                "1980-04-22",
+                "APPOINTMENT  OF NEW TRUSTEE",
+                null
+              ],
+              [
+                "IS100774",
+                "1980-04-22",
+                "STATUTORY DECLAREATION",
+                null
+              ],
+              [
+                "15112400770029",
+                "2015-10-22",
+                "LETTERS OF ADMINISTRATION CAETERORUM",
+                null
+              ],
+              [
+                "16062700950022",
+                "2016-01-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "17010402000116",
+                "2016-12-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9896331457431478,
@@ -576,7 +854,93 @@
         1103054101,
         null,
         "4 WANG TONG",
-        []
+        [
+          [
+            "DD333 LL 642",
+            "Old Schedule Lot",
+            "C4207513",
+            [
+              [
+                "IS74307",
+                "1962-06-08",
+                "-",
+                null
+              ],
+              [
+                "IS75842",
+                "1963-07-04",
+                "MORTGAGE BY CHAN CHEUNG CHOY",
+                "1000.0"
+              ],
+              [
+                "IS77343",
+                "1964-05-15",
+                "MORTGAGE BY CHAN CHEUNG HING",
+                "3000.0"
+              ],
+              [
+                "IS86135",
+                "1973-04-11",
+                "RDEDEMPTION",
+                null
+              ],
+              [
+                "IS86142",
+                "1973-04-12",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS86304",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN YING ALIAS CHAN YAN-KWO",
+                null
+              ],
+              [
+                "IS86303",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN SING ALIAS CHAN YAN-TAK",
+                null
+              ],
+              [
+                "IS86561",
+                "1973-09-07",
+                "-",
+                null
+              ],
+              [
+                "IS100775",
+                "1980-04-22",
+                "APPOINTMENT  OF NEW TRUSTEE",
+                null
+              ],
+              [
+                "IS100774",
+                "1980-04-22",
+                "STATUTORY DECLAREATION",
+                null
+              ],
+              [
+                "15112400770029",
+                "2015-10-22",
+                "LETTERS OF ADMINISTRATION CAETERORUM",
+                null
+              ],
+              [
+                "16062700950022",
+                "2016-01-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "17010402000116",
+                "2016-12-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9896327257935424,
@@ -595,7 +959,93 @@
         1103054107,
         null,
         "3 WANG TONG",
-        []
+        [
+          [
+            "DD333 LL 642",
+            "Old Schedule Lot",
+            "C4207513",
+            [
+              [
+                "IS74307",
+                "1962-06-08",
+                "-",
+                null
+              ],
+              [
+                "IS75842",
+                "1963-07-04",
+                "MORTGAGE BY CHAN CHEUNG CHOY",
+                "1000.0"
+              ],
+              [
+                "IS77343",
+                "1964-05-15",
+                "MORTGAGE BY CHAN CHEUNG HING",
+                "3000.0"
+              ],
+              [
+                "IS86135",
+                "1973-04-11",
+                "RDEDEMPTION",
+                null
+              ],
+              [
+                "IS86142",
+                "1973-04-12",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS86304",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN YING ALIAS CHAN YAN-KWO",
+                null
+              ],
+              [
+                "IS86303",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN SING ALIAS CHAN YAN-TAK",
+                null
+              ],
+              [
+                "IS86561",
+                "1973-09-07",
+                "-",
+                null
+              ],
+              [
+                "IS100775",
+                "1980-04-22",
+                "APPOINTMENT  OF NEW TRUSTEE",
+                null
+              ],
+              [
+                "IS100774",
+                "1980-04-22",
+                "STATUTORY DECLAREATION",
+                null
+              ],
+              [
+                "15112400770029",
+                "2015-10-22",
+                "LETTERS OF ADMINISTRATION CAETERORUM",
+                null
+              ],
+              [
+                "16062700950022",
+                "2016-01-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "17010402000116",
+                "2016-12-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9896323419567519,
@@ -614,7 +1064,93 @@
         1103054112,
         null,
         "2 WANG TONG",
-        []
+        [
+          [
+            "DD333 LL 642",
+            "Old Schedule Lot",
+            "C4207513",
+            [
+              [
+                "IS74307",
+                "1962-06-08",
+                "-",
+                null
+              ],
+              [
+                "IS75842",
+                "1963-07-04",
+                "MORTGAGE BY CHAN CHEUNG CHOY",
+                "1000.0"
+              ],
+              [
+                "IS77343",
+                "1964-05-15",
+                "MORTGAGE BY CHAN CHEUNG HING",
+                "3000.0"
+              ],
+              [
+                "IS86135",
+                "1973-04-11",
+                "RDEDEMPTION",
+                null
+              ],
+              [
+                "IS86142",
+                "1973-04-12",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS86304",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN YING ALIAS CHAN YAN-KWO",
+                null
+              ],
+              [
+                "IS86303",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN SING ALIAS CHAN YAN-TAK",
+                null
+              ],
+              [
+                "IS86561",
+                "1973-09-07",
+                "-",
+                null
+              ],
+              [
+                "IS100775",
+                "1980-04-22",
+                "APPOINTMENT  OF NEW TRUSTEE",
+                null
+              ],
+              [
+                "IS100774",
+                "1980-04-22",
+                "STATUTORY DECLAREATION",
+                null
+              ],
+              [
+                "15112400770029",
+                "2015-10-22",
+                "LETTERS OF ADMINISTRATION CAETERORUM",
+                null
+              ],
+              [
+                "16062700950022",
+                "2016-01-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "17010402000116",
+                "2016-12-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9896317557519783,
@@ -633,7 +1169,93 @@
         1103054124,
         null,
         "1 WANG TONG",
-        []
+        [
+          [
+            "DD333 LL 642",
+            "Old Schedule Lot",
+            "C4207513",
+            [
+              [
+                "IS74307",
+                "1962-06-08",
+                "-",
+                null
+              ],
+              [
+                "IS75842",
+                "1963-07-04",
+                "MORTGAGE BY CHAN CHEUNG CHOY",
+                "1000.0"
+              ],
+              [
+                "IS77343",
+                "1964-05-15",
+                "MORTGAGE BY CHAN CHEUNG HING",
+                "3000.0"
+              ],
+              [
+                "IS86135",
+                "1973-04-11",
+                "RDEDEMPTION",
+                null
+              ],
+              [
+                "IS86142",
+                "1973-04-12",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS86304",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN YING ALIAS CHAN YAN-KWO",
+                null
+              ],
+              [
+                "IS86303",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN SING ALIAS CHAN YAN-TAK",
+                null
+              ],
+              [
+                "IS86561",
+                "1973-09-07",
+                "-",
+                null
+              ],
+              [
+                "IS100775",
+                "1980-04-22",
+                "APPOINTMENT  OF NEW TRUSTEE",
+                null
+              ],
+              [
+                "IS100774",
+                "1980-04-22",
+                "STATUTORY DECLAREATION",
+                null
+              ],
+              [
+                "15112400770029",
+                "2015-10-22",
+                "LETTERS OF ADMINISTRATION CAETERORUM",
+                null
+              ],
+              [
+                "16062700950022",
+                "2016-01-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "17010402000116",
+                "2016-12-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9896311267479878,
@@ -652,7 +1274,93 @@
         1103054136,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 642",
+            "Old Schedule Lot",
+            "C4207513",
+            [
+              [
+                "IS74307",
+                "1962-06-08",
+                "-",
+                null
+              ],
+              [
+                "IS75842",
+                "1963-07-04",
+                "MORTGAGE BY CHAN CHEUNG CHOY",
+                "1000.0"
+              ],
+              [
+                "IS77343",
+                "1964-05-15",
+                "MORTGAGE BY CHAN CHEUNG HING",
+                "3000.0"
+              ],
+              [
+                "IS86135",
+                "1973-04-11",
+                "RDEDEMPTION",
+                null
+              ],
+              [
+                "IS86142",
+                "1973-04-12",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS86304",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN YING ALIAS CHAN YAN-KWO",
+                null
+              ],
+              [
+                "IS86303",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN SING ALIAS CHAN YAN-TAK",
+                null
+              ],
+              [
+                "IS86561",
+                "1973-09-07",
+                "-",
+                null
+              ],
+              [
+                "IS100775",
+                "1980-04-22",
+                "APPOINTMENT  OF NEW TRUSTEE",
+                null
+              ],
+              [
+                "IS100774",
+                "1980-04-22",
+                "STATUTORY DECLAREATION",
+                null
+              ],
+              [
+                "15112400770029",
+                "2015-10-22",
+                "LETTERS OF ADMINISTRATION CAETERORUM",
+                null
+              ],
+              [
+                "16062700950022",
+                "2016-01-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "17010402000116",
+                "2016-12-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9896305868133075,
@@ -671,7 +1379,93 @@
         1103054145,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 642",
+            "Old Schedule Lot",
+            "C4207513",
+            [
+              [
+                "IS74307",
+                "1962-06-08",
+                "-",
+                null
+              ],
+              [
+                "IS75842",
+                "1963-07-04",
+                "MORTGAGE BY CHAN CHEUNG CHOY",
+                "1000.0"
+              ],
+              [
+                "IS77343",
+                "1964-05-15",
+                "MORTGAGE BY CHAN CHEUNG HING",
+                "3000.0"
+              ],
+              [
+                "IS86135",
+                "1973-04-11",
+                "RDEDEMPTION",
+                null
+              ],
+              [
+                "IS86142",
+                "1973-04-12",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS86304",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN YING ALIAS CHAN YAN-KWO",
+                null
+              ],
+              [
+                "IS86303",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN SING ALIAS CHAN YAN-TAK",
+                null
+              ],
+              [
+                "IS86561",
+                "1973-09-07",
+                "-",
+                null
+              ],
+              [
+                "IS100775",
+                "1980-04-22",
+                "APPOINTMENT  OF NEW TRUSTEE",
+                null
+              ],
+              [
+                "IS100774",
+                "1980-04-22",
+                "STATUTORY DECLAREATION",
+                null
+              ],
+              [
+                "15112400770029",
+                "2015-10-22",
+                "LETTERS OF ADMINISTRATION CAETERORUM",
+                null
+              ],
+              [
+                "16062700950022",
+                "2016-01-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "17010402000116",
+                "2016-12-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9896302535102908,
@@ -690,7 +1484,93 @@
         1103054148,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 642",
+            "Old Schedule Lot",
+            "C4207513",
+            [
+              [
+                "IS74307",
+                "1962-06-08",
+                "-",
+                null
+              ],
+              [
+                "IS75842",
+                "1963-07-04",
+                "MORTGAGE BY CHAN CHEUNG CHOY",
+                "1000.0"
+              ],
+              [
+                "IS77343",
+                "1964-05-15",
+                "MORTGAGE BY CHAN CHEUNG HING",
+                "3000.0"
+              ],
+              [
+                "IS86135",
+                "1973-04-11",
+                "RDEDEMPTION",
+                null
+              ],
+              [
+                "IS86142",
+                "1973-04-12",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS86304",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN YING ALIAS CHAN YAN-KWO",
+                null
+              ],
+              [
+                "IS86303",
+                "1973-05-25",
+                "STATUTORY DECLARATION BY CHAN SING ALIAS CHAN YAN-TAK",
+                null
+              ],
+              [
+                "IS86561",
+                "1973-09-07",
+                "-",
+                null
+              ],
+              [
+                "IS100775",
+                "1980-04-22",
+                "APPOINTMENT  OF NEW TRUSTEE",
+                null
+              ],
+              [
+                "IS100774",
+                "1980-04-22",
+                "STATUTORY DECLAREATION",
+                null
+              ],
+              [
+                "15112400770029",
+                "2015-10-22",
+                "LETTERS OF ADMINISTRATION CAETERORUM",
+                null
+              ],
+              [
+                "16062700950022",
+                "2016-01-19",
+                "LETTERS OF ADMINISTRATION DE BONIS NON",
+                null
+              ],
+              [
+                "17010402000116",
+                "2016-12-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989630045451863,

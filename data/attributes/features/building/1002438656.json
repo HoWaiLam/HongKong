@@ -6,7 +6,63 @@
         1107617908,
         null,
         null,
-        []
+        [
+          [
+            "DD90 445",
+            "Old Schedule Lot",
+            "C5089821",
+            [
+              [
+                "N189426",
+                "1978-04-07",
+                "-",
+                null
+              ],
+              [
+                "N221514",
+                "1986-05-09",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N541246",
+                "2002-12-06",
+                "DEED POLL",
+                null
+              ],
+              [
+                "N558363",
+                "2004-02-04",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N559043",
+                "2004-03-09",
+                "ASSENT",
+                null
+              ],
+              [
+                "07043000040013",
+                "2007-04-10",
+                "APPROVAL LETTER OF SUCCESSION UNDER S. 17 OF THE NEW TERRITORIES ORDINANCE (CAP. 97) *",
+                null
+              ],
+              [
+                "21111700150043",
+                "2021-11-03",
+                "CERTIFIED AND SEALED COPY GRANT OF CONFIRMATION",
+                null
+              ],
+              [
+                "25032501520031",
+                "2024-02-22",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920868594292538,
@@ -44,7 +100,39 @@
         1107617936,
         null,
         "2 MUK WU CHUEN YIU",
-        []
+        [
+          [
+            "DD90 448 S.A SS.1",
+            "Old Schedule Lot",
+            "D1040110",
+            [
+              [
+                "N464913",
+                "1999-11-15",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "N509980",
+                "2001-05-02",
+                "ASSIGNMENT",
+                "50000.0"
+              ],
+              [
+                "24071502100063",
+                "2024-07-09",
+                "DEED OF RECTIFICATION OF DEED POLL MEM. NO. N508984 WITH PLAN",
+                null
+              ],
+              [
+                "24071502100073",
+                "2024-07-09",
+                "DEED OF RECTIFICATION OF DEED POLL MEM. NO.07091900790045 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920770560636065,
@@ -63,7 +151,87 @@
         1107617942,
         null,
         null,
-        []
+        [
+          [
+            "DD90 381",
+            "Old Schedule Lot",
+            "C6327665",
+            [
+              [
+                "N2699",
+                "1906-07-11",
+                "MORTGAGE",
+                "220.0"
+              ],
+              [
+                "N4912",
+                "1907-09-27",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N4913",
+                "1907-09-27",
+                "-",
+                "480.0"
+              ],
+              [
+                "N5562",
+                "1908-01-14",
+                "MORTGAGE",
+                "100.0"
+              ],
+              [
+                "N13638",
+                "1910-08-17",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "N97293",
+                "1936-09-29",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "N151149",
+                "1963-10-15",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N222897",
+                "1987-04-03",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "09091600370039",
+                "2009-03-23",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "09091600370044",
+                "2009-07-24",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "18051801790039",
+                "2017-06-07",
+                "NOTICE OF RESIGNATION AND APPOINTMENT OF MANAGER OF  KONG TUNG SHING TSO",
+                null
+              ],
+              [
+                "18051801790049",
+                "2018-04-17",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KONG TUNG SHING TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920619323858713,
@@ -82,7 +250,51 @@
         1107617957,
         null,
         "7 MUK WU CHUEN YIU",
-        []
+        [
+          [
+            "DD90 435 RP",
+            "Old Schedule Lot",
+            "C3522723",
+            [
+              [
+                "N151149",
+                "1963-10-15",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N222897",
+                "1987-04-03",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "09091600370039",
+                "2009-03-23",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "09091600370044",
+                "2009-07-24",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "18051801790039",
+                "2017-06-07",
+                "NOTICE OF RESIGNATION AND APPOINTMENT OF MANAGER OF  KONG TUNG SHING TSO",
+                null
+              ],
+              [
+                "18051801790049",
+                "2018-04-17",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KONG TUNG SHING TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920684129496367,
@@ -101,7 +313,51 @@
         1107617960,
         null,
         "3 MUK WU CHUEN YIU",
-        []
+        [
+          [
+            "DD90 436 RP",
+            "Old Schedule Lot",
+            "C3522744",
+            [
+              [
+                "N151149",
+                "1963-10-15",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N222897",
+                "1987-04-03",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "09091600370039",
+                "2009-03-23",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "09091600370044",
+                "2009-07-24",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "18051801790039",
+                "2017-06-07",
+                "NOTICE OF RESIGNATION AND APPOINTMENT OF MANAGER OF  KONG TUNG SHING TSO",
+                null
+              ],
+              [
+                "18051801790049",
+                "2018-04-17",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KONG TUNG SHING TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920725659930671,
@@ -120,7 +376,94 @@
         1107617963,
         null,
         "8 MUK WU CHUEN YIU",
-        []
+        [
+          [
+            "DD90 434 RP",
+            "New Grant Lot",
+            "C5999134",
+            [
+              [
+                "N151149",
+                "1963-10-15",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N222897",
+                "1987-04-03",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "09091600370039",
+                "2009-03-23",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "09091600370044",
+                "2009-07-24",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "18051801790039",
+                "2017-06-07",
+                "NOTICE OF RESIGNATION AND APPOINTMENT OF MANAGER OF  KONG TUNG SHING TSO",
+                null
+              ],
+              [
+                "18051801790049",
+                "2018-04-17",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KONG TUNG SHING TSO",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD90 435 RP",
+            "Old Schedule Lot",
+            "C3522723",
+            [
+              [
+                "N151149",
+                "1963-10-15",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N222897",
+                "1987-04-03",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "09091600370039",
+                "2009-03-23",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "09091600370044",
+                "2009-07-24",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "18051801790039",
+                "2017-06-07",
+                "NOTICE OF RESIGNATION AND APPOINTMENT OF MANAGER OF  KONG TUNG SHING TSO",
+                null
+              ],
+              [
+                "18051801790049",
+                "2018-04-17",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KONG TUNG SHING TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920679632997873,
@@ -139,7 +482,51 @@
         1107617966,
         null,
         "9 MUK WU CHUEN YIU",
-        []
+        [
+          [
+            "DD90 434 RP",
+            "New Grant Lot",
+            "C5999134",
+            [
+              [
+                "N151149",
+                "1963-10-15",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N222897",
+                "1987-04-03",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "09091600370039",
+                "2009-03-23",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "09091600370044",
+                "2009-07-24",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "18051801790039",
+                "2017-06-07",
+                "NOTICE OF RESIGNATION AND APPOINTMENT OF MANAGER OF  KONG TUNG SHING TSO",
+                null
+              ],
+              [
+                "18051801790049",
+                "2018-04-17",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KONG TUNG SHING TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920675539349424,
@@ -158,7 +545,51 @@
         1107617976,
         null,
         "10 MUK WU NGA YIU",
-        []
+        [
+          [
+            "DD90 433 RP",
+            "Old Schedule Lot",
+            "C5795469",
+            [
+              [
+                "N151149",
+                "1963-10-15",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N222897",
+                "1987-04-03",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "09091600370039",
+                "2009-03-23",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "09091600370044",
+                "2009-07-24",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "18051801790039",
+                "2017-06-07",
+                "NOTICE OF RESIGNATION AND APPOINTMENT OF MANAGER OF  KONG TUNG SHING TSO",
+                null
+              ],
+              [
+                "18051801790049",
+                "2018-04-17",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KONG TUNG SHING TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992066204305053,
@@ -177,7 +608,63 @@
         1107617979,
         null,
         "12 MUK WU CHUEN YIU",
-        []
+        [
+          [
+            "DD90 431",
+            "Old Schedule Lot",
+            "C3522679",
+            [
+              [
+                "N35011",
+                "1917-01-16",
+                "-",
+                "35.0"
+              ],
+              [
+                "N97293",
+                "1936-09-29",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "N151149",
+                "1963-10-15",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N222897",
+                "1987-04-03",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "09091600370039",
+                "2009-03-23",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "09091600370044",
+                "2009-07-24",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "18051801790039",
+                "2017-06-07",
+                "NOTICE OF RESIGNATION AND APPOINTMENT OF MANAGER OF  KONG TUNG SHING TSO",
+                null
+              ],
+              [
+                "18051801790049",
+                "2018-04-17",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KONG TUNG SHING TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920640311961355,
@@ -196,7 +683,112 @@
         1107617984,
         null,
         "13 MUK WU CHUEN YIU",
-        []
+        [
+          [
+            "DD90 383 S.B",
+            "New Grant Lot",
+            "C5751754",
+            [
+              [
+                "N97293",
+                "1936-09-29",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "N151149",
+                "1963-10-15",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N222897",
+                "1987-04-03",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "09091600370039",
+                "2009-03-23",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "09091600370044",
+                "2009-07-24",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "18051801790039",
+                "2017-06-07",
+                "NOTICE OF RESIGNATION AND APPOINTMENT OF MANAGER OF  KONG TUNG SHING TSO",
+                null
+              ],
+              [
+                "18051801790049",
+                "2018-04-17",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KONG TUNG SHING TSO",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD90 431",
+            "Old Schedule Lot",
+            "C3522679",
+            [
+              [
+                "N35011",
+                "1917-01-16",
+                "-",
+                "35.0"
+              ],
+              [
+                "N97293",
+                "1936-09-29",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "N151149",
+                "1963-10-15",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N222897",
+                "1987-04-03",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "09091600370039",
+                "2009-03-23",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "09091600370044",
+                "2009-07-24",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "18051801790039",
+                "2017-06-07",
+                "NOTICE OF RESIGNATION AND APPOINTMENT OF MANAGER OF  KONG TUNG SHING TSO",
+                null
+              ],
+              [
+                "18051801790049",
+                "2018-04-17",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KONG TUNG SHING TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992063585917896,
@@ -215,7 +807,63 @@
         1109658520,
         null,
         "1A MUK WU NGA YIU",
-        []
+        [
+          [
+            "DD90 445",
+            "Old Schedule Lot",
+            "C5089821",
+            [
+              [
+                "N189426",
+                "1978-04-07",
+                "-",
+                null
+              ],
+              [
+                "N221514",
+                "1986-05-09",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N541246",
+                "2002-12-06",
+                "DEED POLL",
+                null
+              ],
+              [
+                "N558363",
+                "2004-02-04",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "N559043",
+                "2004-03-09",
+                "ASSENT",
+                null
+              ],
+              [
+                "07043000040013",
+                "2007-04-10",
+                "APPROVAL LETTER OF SUCCESSION UNDER S. 17 OF THE NEW TERRITORIES ORDINANCE (CAP. 97) *",
+                null
+              ],
+              [
+                "21111700150043",
+                "2021-11-03",
+                "CERTIFIED AND SEALED COPY GRANT OF CONFIRMATION",
+                null
+              ],
+              [
+                "25032501520031",
+                "2024-02-22",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920852964197382,
@@ -253,7 +901,57 @@
         1910254902,
         null,
         null,
-        []
+        [
+          [
+            "DD90 383 S.B",
+            "New Grant Lot",
+            "C5751754",
+            [
+              [
+                "N97293",
+                "1936-09-29",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "N151149",
+                "1963-10-15",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N222897",
+                "1987-04-03",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "09091600370039",
+                "2009-03-23",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "09091600370044",
+                "2009-07-24",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "18051801790039",
+                "2017-06-07",
+                "NOTICE OF RESIGNATION AND APPOINTMENT OF MANAGER OF  KONG TUNG SHING TSO",
+                null
+              ],
+              [
+                "18051801790049",
+                "2018-04-17",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KONG TUNG SHING TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920621175384983,
@@ -272,7 +970,57 @@
         1910254926,
         null,
         null,
-        []
+        [
+          [
+            "DD90 383 S.A",
+            "New Grant Lot",
+            "C3522388",
+            [
+              [
+                "N97293",
+                "1936-09-29",
+                "DIVISION OF PROPERTY",
+                null
+              ],
+              [
+                "N151149",
+                "1963-10-15",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "N222897",
+                "1987-04-03",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "09091600370039",
+                "2009-03-23",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "09091600370044",
+                "2009-07-24",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "18051801790039",
+                "2017-06-07",
+                "NOTICE OF RESIGNATION AND APPOINTMENT OF MANAGER OF  KONG TUNG SHING TSO",
+                null
+              ],
+              [
+                "18051801790049",
+                "2018-04-17",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF KONG TUNG SHING TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9920616391582286,

@@ -6,7 +6,27 @@
         1103043559,
         null,
         null,
-        []
+        [
+          [
+            "DD360 LL 114",
+            "New Grant Lot",
+            "C5363822",
+            [
+              [
+                "TW1325552",
+                "1999-12-10",
+                "DEED OF RESTRICTIVE COVENANT WITH PLANS",
+                null
+              ],
+              [
+                "17092601830018",
+                "2017-08-25",
+                "DEED OF VARIATION OF DEED OF RESTRICTIVE COVENANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9898333356598013,
@@ -25,7 +45,14 @@
         1103043580,
         "NLEX PUBLIC LIGHTING F SUBSTATION",
         null,
-        []
+        [
+          [
+            "CKWL 2",
+            "New Grant Lot",
+            "C4278692",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9897584563491155,
@@ -63,7 +90,14 @@
         1103043589,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 2",
+            "New Grant Lot",
+            "C4278692",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9897213844407016,
@@ -82,7 +116,14 @@
         1103043600,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 2",
+            "New Grant Lot",
+            "C4278692",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9897307034851448,
@@ -101,7 +142,14 @@
         1103043608,
         "SHAM SHUI KOK TRACTION SUBSTATION",
         null,
-        []
+        [
+          [
+            "CKWL 2",
+            "New Grant Lot",
+            "C4278692",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9897269602462015,
@@ -120,7 +168,14 @@
         1103043609,
         null,
         null,
-        []
+        [
+          [
+            "CKWL 2",
+            "New Grant Lot",
+            "C4278692",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9897255767966016,
@@ -139,7 +194,81 @@
         1103043629,
         "SHAM SHUI KOK SUBSTATION",
         null,
-        []
+        [
+          [
+            "DD360 LL 113",
+            "New Grant Lot",
+            "C1435138",
+            [
+              [
+                "TW1343894",
+                "1994-01-13",
+                "CERTIFIED TRUE COPY CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ],
+              [
+                "TW1140800",
+                "1997-05-23",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1275892",
+                "1998-12-28",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1356795",
+                "1999-03-05",
+                "CERTIFIED COPY OF CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ],
+              [
+                "TW1325552",
+                "1999-12-10",
+                "DEED OF RESTRICTIVE COVENANT WITH PLANS",
+                null
+              ],
+              [
+                "TW1600020",
+                "2004-07-14",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "05052601710022",
+                "2005-01-13",
+                "PERMISSION LETTER",
+                null
+              ],
+              [
+                "07050702030010",
+                "2007-05-04",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "09073002060039",
+                "2009-07-24",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "17092601830018",
+                "2017-08-25",
+                "DEED OF VARIATION OF DEED OF RESTRICTIVE COVENANT WITH PLAN",
+                null
+              ],
+              [
+                "25092901280453",
+                "2025-09-17",
+                "CONSENT LETTER",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9897322004617084,
@@ -158,7 +287,81 @@
         1103043630,
         null,
         null,
-        []
+        [
+          [
+            "DD360 LL 113",
+            "New Grant Lot",
+            "C1435138",
+            [
+              [
+                "TW1343894",
+                "1994-01-13",
+                "CERTIFIED TRUE COPY CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ],
+              [
+                "TW1140800",
+                "1997-05-23",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1275892",
+                "1998-12-28",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1356795",
+                "1999-03-05",
+                "CERTIFIED COPY OF CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ],
+              [
+                "TW1325552",
+                "1999-12-10",
+                "DEED OF RESTRICTIVE COVENANT WITH PLANS",
+                null
+              ],
+              [
+                "TW1600020",
+                "2004-07-14",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "05052601710022",
+                "2005-01-13",
+                "PERMISSION LETTER",
+                null
+              ],
+              [
+                "07050702030010",
+                "2007-05-04",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "09073002060039",
+                "2009-07-24",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "17092601830018",
+                "2017-08-25",
+                "DEED OF VARIATION OF DEED OF RESTRICTIVE COVENANT WITH PLAN",
+                null
+              ],
+              [
+                "25092901280453",
+                "2025-09-17",
+                "CONSENT LETTER",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9897420419348373,
@@ -576,7 +779,14 @@
         1103043796,
         "NORTH LANTAU MICROWAVE LINK RELAY STATION",
         null,
-        []
+        [
+          [
+            "CKWL 2",
+            "New Grant Lot",
+            "C4278692",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.989789516798486,
@@ -747,7 +957,14 @@
         1109184508,
         "SUNNY BAY SALT WATER PUMPING STATION",
         null,
-        []
+        [
+          [
+            "CKWL 2",
+            "New Grant Lot",
+            "C4278692",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9898432102464558,

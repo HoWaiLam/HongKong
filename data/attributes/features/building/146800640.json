@@ -25,7 +25,93 @@
         1109179319,
         null,
         null,
-        []
+        [
+          [
+            "DDMCPL 5 S.A",
+            "Old Schedule Lot",
+            "C4267536",
+            [
+              [
+                "IS40714",
+                "1937-12-06",
+                "SALE",
+                "2000.0"
+              ],
+              [
+                "IS60597",
+                "1954-03-16",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "09081402560042",
+                "2007-06-06",
+                "A SEALED COPY OF WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "10102201660134",
+                "2010-10-08",
+                "ORDER NO. DH0117/NT/10/C BY THE BUILDING AUTHORITY UNDER SECTION 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "11050300230038",
+                "2011-04-15",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "13111801110048",
+                "2013-11-08",
+                "SUPERSEDING ORDER NO. DH0154/NT/13/C UNDER S. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "16110902030016",
+                "2016-08-03",
+                "SEALED COPY JUDGMENT",
+                null
+              ],
+              [
+                "22030700100016",
+                "2017-02-03",
+                "SEALED COPY ORDER AND DIRECTIONS",
+                null
+              ],
+              [
+                "20052201880015",
+                "2020-05-11",
+                "CERTIFIED TRUE COPY SUMMONS",
+                null
+              ],
+              [
+                "22062300850096",
+                "2022-05-31",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "22091400750016",
+                "2022-07-29",
+                "SUPERSEDING ORDER NO. \"DH0037/NT/22/C\" UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "25061901350167",
+                "2025-05-23",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0037/NT/22/C\")",
+                null
+              ],
+              [
+                "25061901350171",
+                "2025-05-23",
+                "ORDER NO.\"DH0026/NT/25/C\"BY THE BUILDING AUTHORITY UNDER SECTION 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9873737589442808,
@@ -44,7 +130,51 @@
         1109181765,
         null,
         null,
-        []
+        [
+          [
+            "DDMCPL 1",
+            "Old Schedule Lot",
+            "C4267494",
+            [
+              [
+                "IS45081",
+                "1940-08-09",
+                "SALE",
+                "1000.0"
+              ],
+              [
+                "IS61928",
+                "1955-01-11",
+                "-",
+                null
+              ],
+              [
+                "IS68842",
+                "1959-05-11",
+                "POWER OF ATTORNEY BY SIK TO LUN ALIAS PAK CHUNG YET",
+                null
+              ],
+              [
+                "IS73329",
+                "1961-11-02",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS73503",
+                "1961-12-06",
+                "CANCELLATION OF POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS86640",
+                "1973-08-17",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9873756702618932,
@@ -101,7 +231,51 @@
         1109183189,
         "TSZ HING MONASTERY",
         null,
-        []
+        [
+          [
+            "DDMCPL 2",
+            "Old Schedule Lot",
+            "C4267502",
+            [
+              [
+                "IS45081",
+                "1940-08-09",
+                "SALE",
+                "1000.0"
+              ],
+              [
+                "IS61928",
+                "1955-01-11",
+                "-",
+                null
+              ],
+              [
+                "IS68842",
+                "1959-05-11",
+                "POWER OF ATTORNEY BY SIK TO LUN ALIAS PAK CHUNG YET",
+                null
+              ],
+              [
+                "IS73329",
+                "1961-11-02",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS73503",
+                "1961-12-06",
+                "CANCELLATION OF POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS86640",
+                "1973-08-17",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9873772275344552,
@@ -139,7 +313,93 @@
         1109184693,
         null,
         null,
-        []
+        [
+          [
+            "DDMCPL 5 S.A",
+            "Old Schedule Lot",
+            "C4267536",
+            [
+              [
+                "IS40714",
+                "1937-12-06",
+                "SALE",
+                "2000.0"
+              ],
+              [
+                "IS60597",
+                "1954-03-16",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "09081402560042",
+                "2007-06-06",
+                "A SEALED COPY OF WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "10102201660134",
+                "2010-10-08",
+                "ORDER NO. DH0117/NT/10/C BY THE BUILDING AUTHORITY UNDER SECTION 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "11050300230038",
+                "2011-04-15",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "13111801110048",
+                "2013-11-08",
+                "SUPERSEDING ORDER NO. DH0154/NT/13/C UNDER S. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "16110902030016",
+                "2016-08-03",
+                "SEALED COPY JUDGMENT",
+                null
+              ],
+              [
+                "22030700100016",
+                "2017-02-03",
+                "SEALED COPY ORDER AND DIRECTIONS",
+                null
+              ],
+              [
+                "20052201880015",
+                "2020-05-11",
+                "CERTIFIED TRUE COPY SUMMONS",
+                null
+              ],
+              [
+                "22062300850096",
+                "2022-05-31",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "22091400750016",
+                "2022-07-29",
+                "SUPERSEDING ORDER NO. \"DH0037/NT/22/C\" UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "25061901350167",
+                "2025-05-23",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0037/NT/22/C\")",
+                null
+              ],
+              [
+                "25061901350171",
+                "2025-05-23",
+                "ORDER NO.\"DH0026/NT/25/C\"BY THE BUILDING AUTHORITY UNDER SECTION 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9873729036749084,
@@ -177,7 +437,93 @@
         1109185798,
         null,
         null,
-        []
+        [
+          [
+            "DDMCPL 5 S.A",
+            "Old Schedule Lot",
+            "C4267536",
+            [
+              [
+                "IS40714",
+                "1937-12-06",
+                "SALE",
+                "2000.0"
+              ],
+              [
+                "IS60597",
+                "1954-03-16",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "09081402560042",
+                "2007-06-06",
+                "A SEALED COPY OF WRIT OF SUMMONS",
+                null
+              ],
+              [
+                "10102201660134",
+                "2010-10-08",
+                "ORDER NO. DH0117/NT/10/C BY THE BUILDING AUTHORITY UNDER SECTION 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "11050300230038",
+                "2011-04-15",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "13111801110048",
+                "2013-11-08",
+                "SUPERSEDING ORDER NO. DH0154/NT/13/C UNDER S. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "16110902030016",
+                "2016-08-03",
+                "SEALED COPY JUDGMENT",
+                null
+              ],
+              [
+                "22030700100016",
+                "2017-02-03",
+                "SEALED COPY ORDER AND DIRECTIONS",
+                null
+              ],
+              [
+                "20052201880015",
+                "2020-05-11",
+                "CERTIFIED TRUE COPY SUMMONS",
+                null
+              ],
+              [
+                "22062300850096",
+                "2022-05-31",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "22091400750016",
+                "2022-07-29",
+                "SUPERSEDING ORDER NO. \"DH0037/NT/22/C\" UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "25061901350167",
+                "2025-05-23",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0037/NT/22/C\")",
+                null
+              ],
+              [
+                "25061901350171",
+                "2025-05-23",
+                "ORDER NO.\"DH0026/NT/25/C\"BY THE BUILDING AUTHORITY UNDER SECTION 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.987372013803375,

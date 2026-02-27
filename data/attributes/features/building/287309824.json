@@ -386,7 +386,75 @@
         1103051527,
         null,
         null,
-        []
+        [
+          [
+            "DDTTTL 237",
+            "New Grant Lot",
+            "C5183999",
+            [
+              [
+                "IS265411",
+                "1998-06-05",
+                "NOTICE OF RETIREMENT AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS265412",
+                "1998-09-15",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF PO LAM TONG",
+                null
+              ],
+              [
+                "08111400530010",
+                "2008-05-19",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF PO LAM TONG",
+                null
+              ],
+              [
+                "08111400530026",
+                "2008-10-21",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "12070602760029",
+                "2012-06-05",
+                "ORDER NO. DH0076/NT/12/C UNDER SECTION 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "12070602760036",
+                "2012-06-05",
+                "ORDER NO. DH0077/NT/12/C BY BUILDING AUTHORITY UNDER SECTION 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "18110600570055",
+                "2018-10-15",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "20051901070226",
+                "2020-05-06",
+                "AMENDED PERMISSION LETTER",
+                null
+              ],
+              [
+                "21021001090113",
+                "2020-11-27",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0077/NT/12/C\")",
+                null
+              ],
+              [
+                "21021001090109",
+                "2020-11-27",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0076/NT/12/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.988351085547269,
@@ -481,7 +549,33 @@
         1109181410,
         null,
         null,
-        []
+        [
+          [
+            "DDNPL 232",
+            "New Grant Lot",
+            "C4268006",
+            [
+              [
+                "IS198717",
+                "1992-01-25",
+                "NOTICE OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS198718",
+                "1992-12-14",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS221066",
+                "1995-05-30",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9880206245360097,
@@ -538,7 +632,14 @@
         1109186579,
         null,
         "49 NGONG PING TSUEN",
-        []
+        [
+          [
+            "DDNPL 43 &EXT THERETO",
+            "New Grant Lot",
+            "C4266851",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9880256006069543,

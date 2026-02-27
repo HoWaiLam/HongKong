@@ -6,7 +6,117 @@
         1100014107,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913009807710902,
@@ -25,7 +135,14 @@
         1100014152,
         null,
         null,
-        []
+        [
+          [
+            "KTPPL 41",
+            "New Grant Lot",
+            "D5345906",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9912283001370445,
@@ -44,7 +161,117 @@
         1100014157,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991310979022817,
@@ -63,7 +290,117 @@
         1100014172,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913216783625918,
@@ -82,7 +419,117 @@
         1100014173,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991317197843616,
@@ -101,7 +548,117 @@
         1100014187,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913034888248877,
@@ -120,7 +677,117 @@
         1100014198,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913037711219927,
@@ -139,7 +806,117 @@
         1100014201,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912929161648896,
@@ -253,7 +1030,117 @@
         1100014214,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912815872523342,
@@ -272,7 +1159,117 @@
         1100014224,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912748112813752,
@@ -291,7 +1288,117 @@
         1100014241,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912735696510342,
@@ -310,7 +1417,117 @@
         1100014243,
         null,
         "1 - 7 SAI TSO WAN ROAD",
-        []
+        [
+          [
+            "TYTL 72",
+            "New Grant Lot",
+            "C6609501",
+            [
+              [
+                "TW184426",
+                "1977-04-10",
+                "MASTER PLAN RE TYTL 72",
+                null
+              ],
+              [
+                "TW627352",
+                "1984-07-27",
+                "-",
+                null
+              ],
+              [
+                "TW704390",
+                "1990-10-23",
+                "WAIVER LETTER RE PORTION AS PER PLAN",
+                null
+              ],
+              [
+                "TW1144357",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144358",
+                "1997-06-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1144359",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216919",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW1617750",
+                "2004-12-30",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "08040801020029",
+                "2008-03-04",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "10093000760046",
+                "2010-06-29",
+                "ORDER NO. CCOS/RT/001387/10/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "11060900510031",
+                "2011-05-30",
+                "SUPPLEMENTARY WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14061000680347",
+                "2011-09-14",
+                "ORDER NO. UBCS/04-53/0001/10 UNDER SECTION 24(1) THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "12041300940015",
+                "2012-03-13",
+                "LETTER OF WITHDRAWAL",
+                null
+              ],
+              [
+                "23031301400155",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-021/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490647",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-022/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "23101200490657",
+                "2014-12-30",
+                "NOTICE NO. \"UMB/MB081205-020/0001\" UNDER S. 30B(3) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "15012200740228",
+                "2015-01-02",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912619790799346,
@@ -329,7 +1546,69 @@
         1100014255,
         null,
         "5 - 9 TSING KEUNG STREET",
-        []
+        [
+          [
+            "TYTL 60",
+            "New Grant Lot",
+            "C4758897",
+            [
+              [
+                "TW617094",
+                "1983-04-14",
+                "LICENCE (AS PER PLAN)",
+                null
+              ],
+              [
+                "TW383607",
+                "1986-06-06",
+                "DECLARATION BY LIANG MING SHING",
+                null
+              ],
+              [
+                "TW703258",
+                "1990-10-05",
+                "WAIVER LETTER (RE PORTION) AS PER PLAN",
+                null
+              ],
+              [
+                "TW875118",
+                "1992-07-01",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "TW875119",
+                "1992-09-30",
+                "WAIVER LETTER RE PORTION WITH PLAN",
+                null
+              ],
+              [
+                "TW1144360",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144361",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216918",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "07111902270195",
+                "2007-10-29",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912723982374783,
@@ -348,7 +1627,69 @@
         1100014271,
         null,
         "5 - 9 TSING KEUNG STREET",
-        []
+        [
+          [
+            "TYTL 60",
+            "New Grant Lot",
+            "C4758897",
+            [
+              [
+                "TW617094",
+                "1983-04-14",
+                "LICENCE (AS PER PLAN)",
+                null
+              ],
+              [
+                "TW383607",
+                "1986-06-06",
+                "DECLARATION BY LIANG MING SHING",
+                null
+              ],
+              [
+                "TW703258",
+                "1990-10-05",
+                "WAIVER LETTER (RE PORTION) AS PER PLAN",
+                null
+              ],
+              [
+                "TW875118",
+                "1992-07-01",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "TW875119",
+                "1992-09-30",
+                "WAIVER LETTER RE PORTION WITH PLAN",
+                null
+              ],
+              [
+                "TW1144360",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144361",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216918",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "07111902270195",
+                "2007-10-29",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912675767339687,
@@ -367,7 +1708,69 @@
         1100014273,
         null,
         "5 - 9 TSING KEUNG STREET",
-        []
+        [
+          [
+            "TYTL 60",
+            "New Grant Lot",
+            "C4758897",
+            [
+              [
+                "TW617094",
+                "1983-04-14",
+                "LICENCE (AS PER PLAN)",
+                null
+              ],
+              [
+                "TW383607",
+                "1986-06-06",
+                "DECLARATION BY LIANG MING SHING",
+                null
+              ],
+              [
+                "TW703258",
+                "1990-10-05",
+                "WAIVER LETTER (RE PORTION) AS PER PLAN",
+                null
+              ],
+              [
+                "TW875118",
+                "1992-07-01",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "TW875119",
+                "1992-09-30",
+                "WAIVER LETTER RE PORTION WITH PLAN",
+                null
+              ],
+              [
+                "TW1144360",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144361",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216918",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "07111902270195",
+                "2007-10-29",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912658221858097,
@@ -386,7 +1789,69 @@
         1100014302,
         null,
         "5 - 9 TSING KEUNG STREET",
-        []
+        [
+          [
+            "TYTL 60",
+            "New Grant Lot",
+            "C4758897",
+            [
+              [
+                "TW617094",
+                "1983-04-14",
+                "LICENCE (AS PER PLAN)",
+                null
+              ],
+              [
+                "TW383607",
+                "1986-06-06",
+                "DECLARATION BY LIANG MING SHING",
+                null
+              ],
+              [
+                "TW703258",
+                "1990-10-05",
+                "WAIVER LETTER (RE PORTION) AS PER PLAN",
+                null
+              ],
+              [
+                "TW875118",
+                "1992-07-01",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "TW875119",
+                "1992-09-30",
+                "WAIVER LETTER RE PORTION WITH PLAN",
+                null
+              ],
+              [
+                "TW1144360",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144361",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216918",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "07111902270195",
+                "2007-10-29",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912716459199995,
@@ -443,7 +1908,69 @@
         1100014443,
         "CHINA MERCHANTS CONTAINER SERVICES LTD",
         "5 - 9 TSING KEUNG STREET",
-        []
+        [
+          [
+            "TYTL 60",
+            "New Grant Lot",
+            "C4758897",
+            [
+              [
+                "TW617094",
+                "1983-04-14",
+                "LICENCE (AS PER PLAN)",
+                null
+              ],
+              [
+                "TW383607",
+                "1986-06-06",
+                "DECLARATION BY LIANG MING SHING",
+                null
+              ],
+              [
+                "TW703258",
+                "1990-10-05",
+                "WAIVER LETTER (RE PORTION) AS PER PLAN",
+                null
+              ],
+              [
+                "TW875118",
+                "1992-07-01",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "TW875119",
+                "1992-09-30",
+                "WAIVER LETTER RE PORTION WITH PLAN",
+                null
+              ],
+              [
+                "TW1144360",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144361",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216918",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "07111902270195",
+                "2007-10-29",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912594908657781,
@@ -462,7 +1989,69 @@
         1100014463,
         null,
         "5 - 9 TSING KEUNG STREET",
-        []
+        [
+          [
+            "TYTL 60",
+            "New Grant Lot",
+            "C4758897",
+            [
+              [
+                "TW617094",
+                "1983-04-14",
+                "LICENCE (AS PER PLAN)",
+                null
+              ],
+              [
+                "TW383607",
+                "1986-06-06",
+                "DECLARATION BY LIANG MING SHING",
+                null
+              ],
+              [
+                "TW703258",
+                "1990-10-05",
+                "WAIVER LETTER (RE PORTION) AS PER PLAN",
+                null
+              ],
+              [
+                "TW875118",
+                "1992-07-01",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "TW875119",
+                "1992-09-30",
+                "WAIVER LETTER RE PORTION WITH PLAN",
+                null
+              ],
+              [
+                "TW1144360",
+                "1997-06-20",
+                "CERTIFIED TRUE COPY OF TOLERATION LETTER",
+                null
+              ],
+              [
+                "TW1144361",
+                "1997-06-25",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TW1216918",
+                "1998-06-09",
+                "SHORT TERM WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "07111902270195",
+                "2007-10-29",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912525429196188,
@@ -481,7 +2070,63 @@
         1100014531,
         null,
         "19 TSING KEUNG STREET",
-        []
+        [
+          [
+            "TYTL 115",
+            "New Grant Lot",
+            "C4759150",
+            [
+              [
+                "TW732907",
+                "1991-03-01",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW937874",
+                "1994-02-21",
+                "LETTER WITH CARPARK LAYOUT PLAN ANNEXED",
+                null
+              ],
+              [
+                "TW979584",
+                "1994-10-07",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW1460436",
+                "2002-04-01",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "17101001800021",
+                "2017-08-10",
+                "ORDER NO. \"DH0043/NT/17/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "20010600450034",
+                "2019-12-10",
+                "ORDER NO. \"DH0051/NT/19/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "20010801630136",
+                "2019-12-10",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0043/NT/17/C\")",
+                null
+              ],
+              [
+                "24050800350090",
+                "2023-12-15",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0051/NT/19/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912957292826683,
@@ -500,7 +2145,63 @@
         1100014569,
         null,
         "19 TSING KEUNG STREET",
-        []
+        [
+          [
+            "TYTL 115",
+            "New Grant Lot",
+            "C4759150",
+            [
+              [
+                "TW732907",
+                "1991-03-01",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW937874",
+                "1994-02-21",
+                "LETTER WITH CARPARK LAYOUT PLAN ANNEXED",
+                null
+              ],
+              [
+                "TW979584",
+                "1994-10-07",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW1460436",
+                "2002-04-01",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "17101001800021",
+                "2017-08-10",
+                "ORDER NO. \"DH0043/NT/17/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "20010600450034",
+                "2019-12-10",
+                "ORDER NO. \"DH0051/NT/19/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "20010801630136",
+                "2019-12-10",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0043/NT/17/C\")",
+                null
+              ],
+              [
+                "24050800350090",
+                "2023-12-15",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0051/NT/19/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912698140673124,
@@ -519,7 +2220,63 @@
         1100014570,
         null,
         "19 TSING KEUNG STREET",
-        []
+        [
+          [
+            "TYTL 115",
+            "New Grant Lot",
+            "C4759150",
+            [
+              [
+                "TW732907",
+                "1991-03-01",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW937874",
+                "1994-02-21",
+                "LETTER WITH CARPARK LAYOUT PLAN ANNEXED",
+                null
+              ],
+              [
+                "TW979584",
+                "1994-10-07",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW1460436",
+                "2002-04-01",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "17101001800021",
+                "2017-08-10",
+                "ORDER NO. \"DH0043/NT/17/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "20010600450034",
+                "2019-12-10",
+                "ORDER NO. \"DH0051/NT/19/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "20010801630136",
+                "2019-12-10",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0043/NT/17/C\")",
+                null
+              ],
+              [
+                "24050800350090",
+                "2023-12-15",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0051/NT/19/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912700621774169,
@@ -538,7 +2295,63 @@
         1100014580,
         null,
         "19 TSING KEUNG STREET",
-        []
+        [
+          [
+            "TYTL 115",
+            "New Grant Lot",
+            "C4759150",
+            [
+              [
+                "TW732907",
+                "1991-03-01",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW937874",
+                "1994-02-21",
+                "LETTER WITH CARPARK LAYOUT PLAN ANNEXED",
+                null
+              ],
+              [
+                "TW979584",
+                "1994-10-07",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW1460436",
+                "2002-04-01",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "17101001800021",
+                "2017-08-10",
+                "ORDER NO. \"DH0043/NT/17/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "20010600450034",
+                "2019-12-10",
+                "ORDER NO. \"DH0051/NT/19/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "20010801630136",
+                "2019-12-10",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0043/NT/17/C\")",
+                null
+              ],
+              [
+                "24050800350090",
+                "2023-12-15",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0051/NT/19/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912917795143494,
@@ -557,7 +2370,63 @@
         1100014595,
         null,
         "19 TSING KEUNG STREET",
-        []
+        [
+          [
+            "TYTL 115",
+            "New Grant Lot",
+            "C4759150",
+            [
+              [
+                "TW732907",
+                "1991-03-01",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW937874",
+                "1994-02-21",
+                "LETTER WITH CARPARK LAYOUT PLAN ANNEXED",
+                null
+              ],
+              [
+                "TW979584",
+                "1994-10-07",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW1460436",
+                "2002-04-01",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "17101001800021",
+                "2017-08-10",
+                "ORDER NO. \"DH0043/NT/17/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "20010600450034",
+                "2019-12-10",
+                "ORDER NO. \"DH0051/NT/19/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "20010801630136",
+                "2019-12-10",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0043/NT/17/C\")",
+                null
+              ],
+              [
+                "24050800350090",
+                "2023-12-15",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0051/NT/19/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913239830267195,
@@ -576,7 +2445,63 @@
         1100014596,
         null,
         "19 TSING KEUNG STREET",
-        []
+        [
+          [
+            "TYTL 115",
+            "New Grant Lot",
+            "C4759150",
+            [
+              [
+                "TW732907",
+                "1991-03-01",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW937874",
+                "1994-02-21",
+                "LETTER WITH CARPARK LAYOUT PLAN ANNEXED",
+                null
+              ],
+              [
+                "TW979584",
+                "1994-10-07",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW1460436",
+                "2002-04-01",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "17101001800021",
+                "2017-08-10",
+                "ORDER NO. \"DH0043/NT/17/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "20010600450034",
+                "2019-12-10",
+                "ORDER NO. \"DH0051/NT/19/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "20010801630136",
+                "2019-12-10",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0043/NT/17/C\")",
+                null
+              ],
+              [
+                "24050800350090",
+                "2023-12-15",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0051/NT/19/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9913100182456591,
@@ -595,7 +2520,63 @@
         1100659842,
         null,
         "19 TSING KEUNG STREET",
-        []
+        [
+          [
+            "TYTL 115",
+            "New Grant Lot",
+            "C4759150",
+            [
+              [
+                "TW732907",
+                "1991-03-01",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW937874",
+                "1994-02-21",
+                "LETTER WITH CARPARK LAYOUT PLAN ANNEXED",
+                null
+              ],
+              [
+                "TW979584",
+                "1994-10-07",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW1460436",
+                "2002-04-01",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "17101001800021",
+                "2017-08-10",
+                "ORDER NO. \"DH0043/NT/17/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "20010600450034",
+                "2019-12-10",
+                "ORDER NO. \"DH0051/NT/19/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "20010801630136",
+                "2019-12-10",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0043/NT/17/C\")",
+                null
+              ],
+              [
+                "24050800350090",
+                "2023-12-15",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0051/NT/19/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9912785258905046,
@@ -614,7 +2595,63 @@
         1100660055,
         null,
         "19 TSING KEUNG STREET",
-        []
+        [
+          [
+            "TYTL 115",
+            "New Grant Lot",
+            "C4759150",
+            [
+              [
+                "TW732907",
+                "1991-03-01",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TW937874",
+                "1994-02-21",
+                "LETTER WITH CARPARK LAYOUT PLAN ANNEXED",
+                null
+              ],
+              [
+                "TW979584",
+                "1994-10-07",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "TW1460436",
+                "2002-04-01",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "17101001800021",
+                "2017-08-10",
+                "ORDER NO. \"DH0043/NT/17/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "20010600450034",
+                "2019-12-10",
+                "ORDER NO. \"DH0051/NT/19/C\" BY THE BUILDING AUTHORITY UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "20010801630136",
+                "2019-12-10",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0043/NT/17/C\")",
+                null
+              ],
+              [
+                "24050800350090",
+                "2023-12-15",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0051/NT/19/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.991283861247988,

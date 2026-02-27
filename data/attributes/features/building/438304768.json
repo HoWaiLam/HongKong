@@ -82,7 +82,27 @@
         1108527350,
         "BUTTERFLY ESTATE PHASE 5 SWITCH ROOM SUBSTATION",
         "2 - 26 WU SHAN ROAD",
-        []
+        [
+          [
+            "TMTL 251 RP",
+            "New Grant Lot",
+            "C6696868",
+            [
+              [
+                "TM229180",
+                "1981-11-06",
+                "AGREEMENT",
+                "10910000.0"
+              ],
+              [
+                "TM228386",
+                "1983-07-23",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890449091385423,
@@ -120,7 +140,21 @@
         1108527385,
         null,
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890162692927762,
@@ -234,7 +268,69 @@
         1108527441,
         null,
         "2 - 26 WU SHAN ROAD",
-        []
+        [
+          [
+            "TMTL 251 S.A",
+            "New Grant Lot",
+            "C5472356",
+            [
+              [
+                "TM229180",
+                "1981-11-06",
+                "AGREEMENT",
+                "10910000.0"
+              ],
+              [
+                "TM229181",
+                "1983-07-23",
+                "LETTER WITH CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM228386",
+                "1983-07-23",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ],
+              [
+                "TM695277",
+                "1995-06-06",
+                "TEMPORARY WAIVER LETTER",
+                null
+              ],
+              [
+                "TM854416",
+                "1998-07-17",
+                "WAIVER LETTER",
+                null
+              ],
+              [
+                "TM992164",
+                "2001-05-09",
+                "DEED OF RELEASE OF MANAGEMENT UNDERTAKING",
+                null
+              ],
+              [
+                "TM1000738",
+                "2001-07-18",
+                "TEMPORARY WAIVER",
+                null
+              ],
+              [
+                "TM1098430",
+                "2004-05-31",
+                "WAIVER LETTER",
+                null
+              ],
+              [
+                "07071900540028",
+                "2007-07-09",
+                "WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890372603411528,
@@ -272,7 +368,39 @@
         1108527488,
         null,
         null,
-        []
+        [
+          [
+            "DD300 36 S.A",
+            "Old Schedule Lot",
+            "D6311600",
+            [
+              [
+                "TM188636",
+                "1978-03-09",
+                "SEAL COPY OF DEFENCE AND COUNTERCLAIM",
+                null
+              ],
+              [
+                "TM848985",
+                "1995-03-28",
+                "CERTIFIED TRUE COPY DEFENCE AND COUNTERCLAIM",
+                null
+              ],
+              [
+                "16121900120085",
+                "2016-11-30",
+                "ASSIGNMENT",
+                "5000000.0"
+              ],
+              [
+                "17031302160015",
+                "2017-03-10",
+                "CERTIFIED TRUE COPY OF THE ANTIQUITIES AND MONUMENTS (DECLARATION OF PROPOSED MONUMENT) (HUNG LAU) NOTICE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9889717911883122,
@@ -310,7 +438,39 @@
         1108527680,
         null,
         null,
-        []
+        [
+          [
+            "DD300 36 RP",
+            "Old Schedule Lot",
+            "D6311611",
+            [
+              [
+                "TM188636",
+                "1978-03-09",
+                "SEAL COPY OF DEFENCE AND COUNTERCLAIM",
+                null
+              ],
+              [
+                "TM848985",
+                "1995-03-28",
+                "CERTIFIED TRUE COPY DEFENCE AND COUNTERCLAIM",
+                null
+              ],
+              [
+                "16121900120085",
+                "2016-11-30",
+                "ASSIGNMENT",
+                "5000000.0"
+              ],
+              [
+                "17031302160015",
+                "2017-03-10",
+                "CERTIFIED TRUE COPY OF THE ANTIQUITIES AND MONUMENTS (DECLARATION OF PROPOSED MONUMENT) (HUNG LAU) NOTICE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.988964571275169,
@@ -329,7 +489,39 @@
         1108527685,
         null,
         null,
-        []
+        [
+          [
+            "DD300 36 RP",
+            "Old Schedule Lot",
+            "D6311611",
+            [
+              [
+                "TM188636",
+                "1978-03-09",
+                "SEAL COPY OF DEFENCE AND COUNTERCLAIM",
+                null
+              ],
+              [
+                "TM848985",
+                "1995-03-28",
+                "CERTIFIED TRUE COPY DEFENCE AND COUNTERCLAIM",
+                null
+              ],
+              [
+                "16121900120085",
+                "2016-11-30",
+                "ASSIGNMENT",
+                "5000000.0"
+              ],
+              [
+                "17031302160015",
+                "2017-03-10",
+                "CERTIFIED TRUE COPY OF THE ANTIQUITIES AND MONUMENTS (DECLARATION OF PROPOSED MONUMENT) (HUNG LAU) NOTICE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.988963729492252,
@@ -576,7 +768,21 @@
         1108527938,
         "TIP CHUI HOUSE",
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989030259867802,
@@ -595,7 +801,21 @@
         1108528000,
         "YAN TAK CATHOLIC PRIMARY SCHOOL",
         null,
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890404984586558,
@@ -614,7 +834,21 @@
         1108528081,
         null,
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890449949147984,
@@ -633,7 +867,21 @@
         1108528120,
         "TIP YEE HOUSE",
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989044606652729,
@@ -709,7 +957,21 @@
         1108528150,
         null,
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890341315875948,
@@ -728,7 +990,21 @@
         1108528175,
         null,
         null,
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890520895690922,
@@ -747,7 +1023,21 @@
         1108528181,
         null,
         null,
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989048992300135,
@@ -766,7 +1056,21 @@
         1108528183,
         "SIU LEUN SCHOOL SUBSTATION",
         null,
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9889989444553413,
@@ -804,7 +1108,69 @@
         1108528197,
         "MELODY GARDEN BLOCK 10",
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9889866467553015,
@@ -823,7 +1189,21 @@
         1108528198,
         null,
         null,
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890498687400622,
@@ -842,7 +1222,21 @@
         1108528209,
         "TIP LING HOUSE",
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989026468741888,
@@ -861,7 +1255,69 @@
         1108528216,
         "MELODY GARDEN MARKET",
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9889905059758084,
@@ -918,7 +1374,21 @@
         1108528226,
         null,
         null,
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989050712658168,
@@ -956,7 +1426,21 @@
         1108528243,
         null,
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890550905692244,
@@ -975,7 +1459,69 @@
         1108528251,
         "MELODY GARDEN BLOCK 9",
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9889805075760487,
@@ -994,7 +1540,21 @@
         1108528254,
         null,
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890103098802563,
@@ -1051,7 +1611,21 @@
         1108528268,
         null,
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890522583297017,
@@ -1070,7 +1644,14 @@
         1108528273,
         null,
         "29 WU KING ROAD",
-        []
+        [
+          [
+            "TMTL 306",
+            "New Grant Lot",
+            "C4752245",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9890862603578088,
@@ -1089,7 +1670,69 @@
         1108528274,
         "MELODY GARDEN COMMERCIAL CENTRE",
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9889948510149487,
@@ -1127,7 +1770,14 @@
         1108528287,
         null,
         "29 WU KING ROAD",
-        []
+        [
+          [
+            "TMTL 306",
+            "New Grant Lot",
+            "C4752245",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.989088786376831,
@@ -1146,7 +1796,21 @@
         1108528290,
         "BUTTERFLY BAY COMMUNITY CENTRE",
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890134516153033,
@@ -1165,7 +1829,14 @@
         1108528293,
         null,
         "29 WU KING ROAD",
-        []
+        [
+          [
+            "TMTL 306",
+            "New Grant Lot",
+            "C4752245",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9890921254365543,
@@ -1184,7 +1855,14 @@
         1108528295,
         null,
         "29 WU KING ROAD",
-        []
+        [
+          [
+            "TMTL 306",
+            "New Grant Lot",
+            "C4752245",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9890901165029273,
@@ -1203,7 +1881,14 @@
         1108528315,
         null,
         "29 WU KING ROAD",
-        []
+        [
+          [
+            "TMTL 306",
+            "New Grant Lot",
+            "C4752245",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9890896436353185,
@@ -1222,7 +1907,69 @@
         1108528321,
         "MELODY GARDEN BLOCK 8",
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9889803265896704,
@@ -1260,7 +2007,69 @@
         1108528351,
         null,
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9889897050985066,
@@ -1298,7 +2107,69 @@
         1108528370,
         null,
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9889971585255393,
@@ -1317,7 +2188,21 @@
         1108528373,
         "TIP SUM HOUSE",
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890307422885283,
@@ -1336,7 +2221,21 @@
         1108528375,
         null,
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890259525078708,
@@ -1374,7 +2273,21 @@
         1108528383,
         null,
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890474148062376,
@@ -1393,7 +2306,69 @@
         1108528390,
         "MELODY GARDEN COMMERCIAL CENTRE",
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890056754714796,
@@ -1450,7 +2425,69 @@
         1108528397,
         "MELODY GARDEN BLOCK 7",
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9889801629800818,
@@ -1469,7 +2506,21 @@
         1108528399,
         "BUTTERFLY BAY COMMUNITY CENTRE SUBSTATION",
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890117477934928,
@@ -1526,7 +2577,69 @@
         1108528425,
         "MELODY GARDEN SHOPPING ARCADE",
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9889947548030489,
@@ -1564,7 +2677,69 @@
         1108528434,
         null,
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9889908843025483,
@@ -1602,7 +2777,27 @@
         1108528450,
         "NGA HEI HOUSE",
         "201 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 255 RP",
+            "New Grant Lot",
+            "C4751998",
+            [
+              [
+                "TM262007",
+                "1983-10-04",
+                "AGREEMENT FOR THE EXCLUSIVE CONCESSION",
+                "5768000.0"
+              ],
+              [
+                "TM257757",
+                "1985-05-22",
+                "MANAGEMENT UNDERTAKING RE TMTL 255",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890916101612817,
@@ -1621,7 +2816,21 @@
         1108528455,
         "TIP SUM HOUSE SUBSTATION",
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890216700750682,
@@ -1678,7 +2887,69 @@
         1108528463,
         null,
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9889882660558638,
@@ -1697,7 +2968,21 @@
         1108528468,
         null,
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989041280170482,
@@ -1716,7 +3001,117 @@
         1108528470,
         "SIU HEI SHOPPING CENTRE",
         "201 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 255 S.A",
+            "New Grant Lot",
+            "C4752006",
+            [
+              [
+                "TM262007",
+                "1983-10-04",
+                "AGREEMENT FOR THE EXCLUSIVE CONCESSION",
+                "5768000.0"
+              ],
+              [
+                "TM257757",
+                "1985-05-22",
+                "MANAGEMENT UNDERTAKING RE TMTL 255",
+                null
+              ],
+              [
+                "TM703888",
+                "1995-06-06",
+                "TEMPORARY WAIVER LETTER",
+                null
+              ],
+              [
+                "TM854417",
+                "1998-07-17",
+                "WAIVER LETTER",
+                null
+              ],
+              [
+                "TM1000739",
+                "2001-07-18",
+                "TEMPORARY WAIVER",
+                null
+              ],
+              [
+                "TM1012130",
+                "2001-09-24",
+                "DEED OF RELEASE OF MANAGEMENT UNDERTAKING",
+                null
+              ],
+              [
+                "TM1098431",
+                "2004-05-31",
+                "WAIVER LETTER",
+                null
+              ],
+              [
+                "TM1113061",
+                "2004-11-04",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "06012401850072",
+                "2004-11-30",
+                "SUPPLEMENTAL WAIVER LETTER",
+                null
+              ],
+              [
+                "05121401690281",
+                "2005-11-25",
+                "ASSIGNMENT",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "15120400990014",
+                "2015-08-14",
+                "CERTIFIED TRUE COPY OF CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ],
+              [
+                "18120401690129",
+                "2018-10-12",
+                "TENANCY AGREEMENT WITH PLAN",
+                "FOR RENT AND TERM SEE REMARK"
+              ],
+              [
+                "19010702000100",
+                "2018-12-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "512000000.0"
+              ],
+              [
+                "19032602390128",
+                "2019-03-13",
+                "ASSIGNMENT",
+                "512000000.0"
+              ],
+              [
+                "19032602390135",
+                "2019-03-13",
+                "MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "24032101990097",
+                "2024-03-13",
+                "DEED OF RELEASE OF MORTGAGE",
+                null
+              ],
+              [
+                "24032101990100",
+                "2024-03-13",
+                "MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890823794796755,
@@ -1773,7 +3168,69 @@
         1108528476,
         "MELODY NURSERY",
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.988989673045958,
@@ -1792,7 +3249,69 @@
         1108528477,
         "MELODY GARDEN BLOCK 6",
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9889841015015726,
@@ -1849,7 +3368,69 @@
         1108528499,
         "MELODY ANGLO-CHINESE KINDERGARTEN",
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9889927498464863,
@@ -1868,7 +3449,69 @@
         1108528500,
         null,
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9889977957489016,
@@ -1887,7 +3530,69 @@
         1108528502,
         null,
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989011646672924,
@@ -1925,7 +3630,69 @@
         1108528509,
         null,
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989004685207295,
@@ -1963,7 +3730,69 @@
         1108528522,
         "MELODY GARDEN BLOCK 5",
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9889887888634368,
@@ -1982,7 +3811,21 @@
         1108528523,
         null,
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989030830817685,
@@ -2001,7 +3844,69 @@
         1108528525,
         null,
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9889951823887928,
@@ -2058,7 +3963,117 @@
         1108528544,
         "SIU HEI COURT CARPARK",
         "201 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 255 S.A",
+            "New Grant Lot",
+            "C4752006",
+            [
+              [
+                "TM262007",
+                "1983-10-04",
+                "AGREEMENT FOR THE EXCLUSIVE CONCESSION",
+                "5768000.0"
+              ],
+              [
+                "TM257757",
+                "1985-05-22",
+                "MANAGEMENT UNDERTAKING RE TMTL 255",
+                null
+              ],
+              [
+                "TM703888",
+                "1995-06-06",
+                "TEMPORARY WAIVER LETTER",
+                null
+              ],
+              [
+                "TM854417",
+                "1998-07-17",
+                "WAIVER LETTER",
+                null
+              ],
+              [
+                "TM1000739",
+                "2001-07-18",
+                "TEMPORARY WAIVER",
+                null
+              ],
+              [
+                "TM1012130",
+                "2001-09-24",
+                "DEED OF RELEASE OF MANAGEMENT UNDERTAKING",
+                null
+              ],
+              [
+                "TM1098431",
+                "2004-05-31",
+                "WAIVER LETTER",
+                null
+              ],
+              [
+                "TM1113061",
+                "2004-11-04",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "06012401850072",
+                "2004-11-30",
+                "SUPPLEMENTAL WAIVER LETTER",
+                null
+              ],
+              [
+                "05121401690281",
+                "2005-11-25",
+                "ASSIGNMENT",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "15120400990014",
+                "2015-08-14",
+                "CERTIFIED TRUE COPY OF CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ],
+              [
+                "18120401690129",
+                "2018-10-12",
+                "TENANCY AGREEMENT WITH PLAN",
+                "FOR RENT AND TERM SEE REMARK"
+              ],
+              [
+                "19010702000100",
+                "2018-12-12",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "512000000.0"
+              ],
+              [
+                "19032602390128",
+                "2019-03-13",
+                "ASSIGNMENT",
+                "512000000.0"
+              ],
+              [
+                "19032602390135",
+                "2019-03-13",
+                "MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "24032101990097",
+                "2024-03-13",
+                "DEED OF RELEASE OF MORTGAGE",
+                null
+              ],
+              [
+                "24032101990100",
+                "2024-03-13",
+                "MORTGAGE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890923748266125,
@@ -2077,7 +4092,69 @@
         1108528546,
         null,
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890127790923136,
@@ -2172,7 +4249,69 @@
         1108528568,
         "MELODY GARDEN BLOCK 1",
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890175465354838,
@@ -2191,7 +4330,69 @@
         1108528572,
         "MELODY GARDEN BLOCK 4",
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.988993844264816,
@@ -2210,7 +4411,69 @@
         1108528600,
         "MELODY GARDEN BLOCK 3",
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890035539359332,
@@ -2229,7 +4492,69 @@
         1108528606,
         "MELODY GARDEN BLOCK 2",
         "2 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 210",
+            "New Grant Lot",
+            "C4751504",
+            [
+              [
+                "TM204710",
+                "1981-06-16",
+                "LAND OFFICE CONSENT TO THE DEBENTURE",
+                null
+              ],
+              [
+                "TM204711",
+                "1981-06-20",
+                "DEBENTURE",
+                "FOR CONSIDERATION SEE MEMORIAL"
+              ],
+              [
+                "TM204712",
+                "1981-06-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM218665",
+                "1982-09-28",
+                "CAR PARK LAY-OUT PLANS",
+                null
+              ],
+              [
+                "TM222242",
+                "1982-11-04",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM228466",
+                "1983-02-07",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TM224831",
+                "1983-03-22",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM233959",
+                "1983-11-02",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM234861",
+                "1983-11-30",
+                "REASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890130678907587,
@@ -2267,7 +4592,129 @@
         1108528611,
         null,
         null,
-        []
+        [
+          [
+            "TMTL 333",
+            "New Grant Lot",
+            "C4823497",
+            [
+              [
+                "TM435700",
+                "1990-07-13",
+                "LOAN AGREEMENT INCORPORATING A LEGAL CHARGE",
+                null
+              ],
+              [
+                "TM435699",
+                "1990-07-13",
+                "UNDERTAKING BY THE SANWA BANK LIMITED",
+                null
+              ],
+              [
+                "TM444658",
+                "1990-09-03",
+                "LETTER WITH CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM459668",
+                "1990-11-27",
+                "LETTER WITH AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM460284",
+                "1990-12-05",
+                "STATUTORY DECLARATION BY CHOW SUK HAN, ANNA",
+                null
+              ],
+              [
+                "TM460283",
+                "1990-12-05",
+                "STATUTORY DECLARATION BY MA HO FAI",
+                null
+              ],
+              [
+                "TM460285",
+                "1990-12-05",
+                "STATUTORY DECLARATION BY NGAN ON TAK, ANDY RE RESIDENTIAL UNITS",
+                null
+              ],
+              [
+                "TM473469",
+                "1991-02-19",
+                "LETTER WITH AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM478562",
+                "1991-03-18",
+                "RELEASE",
+                null
+              ],
+              [
+                "TM483784",
+                "1991-04-26",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY NGAN ON TAK, ANDY",
+                null
+              ],
+              [
+                "TM483783",
+                "1991-04-26",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY MA HO FAI",
+                null
+              ],
+              [
+                "TM483785",
+                "1991-04-29",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY CHOW SUK HAN, ANNA",
+                null
+              ],
+              [
+                "TM498619",
+                "1991-06-24",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY CHOW SUK HAN, ANNA",
+                null
+              ],
+              [
+                "TM498621",
+                "1991-06-26",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY MA HO FAI",
+                null
+              ],
+              [
+                "TM498620",
+                "1991-07-06",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY NGAN ON TAK, ANDY",
+                null
+              ],
+              [
+                "TM520689",
+                "1991-09-09",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM528540",
+                "1992-01-08",
+                "LETTER WITH AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM540740",
+                "1992-03-12",
+                "OCCUPATION PERMIT NO. NT26/92",
+                null
+              ],
+              [
+                "TM543234",
+                "1992-04-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989041723541281,
@@ -2343,7 +4790,129 @@
         1108528669,
         "RICHLAND GARDEN BLOCK 1",
         "138 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 333",
+            "New Grant Lot",
+            "C4823497",
+            [
+              [
+                "TM435700",
+                "1990-07-13",
+                "LOAN AGREEMENT INCORPORATING A LEGAL CHARGE",
+                null
+              ],
+              [
+                "TM435699",
+                "1990-07-13",
+                "UNDERTAKING BY THE SANWA BANK LIMITED",
+                null
+              ],
+              [
+                "TM444658",
+                "1990-09-03",
+                "LETTER WITH CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM459668",
+                "1990-11-27",
+                "LETTER WITH AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM460284",
+                "1990-12-05",
+                "STATUTORY DECLARATION BY CHOW SUK HAN, ANNA",
+                null
+              ],
+              [
+                "TM460283",
+                "1990-12-05",
+                "STATUTORY DECLARATION BY MA HO FAI",
+                null
+              ],
+              [
+                "TM460285",
+                "1990-12-05",
+                "STATUTORY DECLARATION BY NGAN ON TAK, ANDY RE RESIDENTIAL UNITS",
+                null
+              ],
+              [
+                "TM473469",
+                "1991-02-19",
+                "LETTER WITH AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM478562",
+                "1991-03-18",
+                "RELEASE",
+                null
+              ],
+              [
+                "TM483784",
+                "1991-04-26",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY NGAN ON TAK, ANDY",
+                null
+              ],
+              [
+                "TM483783",
+                "1991-04-26",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY MA HO FAI",
+                null
+              ],
+              [
+                "TM483785",
+                "1991-04-29",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY CHOW SUK HAN, ANNA",
+                null
+              ],
+              [
+                "TM498619",
+                "1991-06-24",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY CHOW SUK HAN, ANNA",
+                null
+              ],
+              [
+                "TM498621",
+                "1991-06-26",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY MA HO FAI",
+                null
+              ],
+              [
+                "TM498620",
+                "1991-07-06",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY NGAN ON TAK, ANDY",
+                null
+              ],
+              [
+                "TM520689",
+                "1991-09-09",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM528540",
+                "1992-01-08",
+                "LETTER WITH AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM540740",
+                "1992-03-12",
+                "OCCUPATION PERMIT NO. NT26/92",
+                null
+              ],
+              [
+                "TM543234",
+                "1992-04-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989043557487676,
@@ -2381,7 +4950,129 @@
         1108528683,
         "RICHLAND GARDEN BLOCK 2",
         "138 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 333",
+            "New Grant Lot",
+            "C4823497",
+            [
+              [
+                "TM435700",
+                "1990-07-13",
+                "LOAN AGREEMENT INCORPORATING A LEGAL CHARGE",
+                null
+              ],
+              [
+                "TM435699",
+                "1990-07-13",
+                "UNDERTAKING BY THE SANWA BANK LIMITED",
+                null
+              ],
+              [
+                "TM444658",
+                "1990-09-03",
+                "LETTER WITH CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM459668",
+                "1990-11-27",
+                "LETTER WITH AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM460284",
+                "1990-12-05",
+                "STATUTORY DECLARATION BY CHOW SUK HAN, ANNA",
+                null
+              ],
+              [
+                "TM460283",
+                "1990-12-05",
+                "STATUTORY DECLARATION BY MA HO FAI",
+                null
+              ],
+              [
+                "TM460285",
+                "1990-12-05",
+                "STATUTORY DECLARATION BY NGAN ON TAK, ANDY RE RESIDENTIAL UNITS",
+                null
+              ],
+              [
+                "TM473469",
+                "1991-02-19",
+                "LETTER WITH AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM478562",
+                "1991-03-18",
+                "RELEASE",
+                null
+              ],
+              [
+                "TM483784",
+                "1991-04-26",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY NGAN ON TAK, ANDY",
+                null
+              ],
+              [
+                "TM483783",
+                "1991-04-26",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY MA HO FAI",
+                null
+              ],
+              [
+                "TM483785",
+                "1991-04-29",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY CHOW SUK HAN, ANNA",
+                null
+              ],
+              [
+                "TM498619",
+                "1991-06-24",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY CHOW SUK HAN, ANNA",
+                null
+              ],
+              [
+                "TM498621",
+                "1991-06-26",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY MA HO FAI",
+                null
+              ],
+              [
+                "TM498620",
+                "1991-07-06",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY NGAN ON TAK, ANDY",
+                null
+              ],
+              [
+                "TM520689",
+                "1991-09-09",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM528540",
+                "1992-01-08",
+                "LETTER WITH AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM540740",
+                "1992-03-12",
+                "OCCUPATION PERMIT NO. NT26/92",
+                null
+              ],
+              [
+                "TM543234",
+                "1992-04-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890494340706608,
@@ -2400,7 +5091,129 @@
         1108528704,
         "RICHLAND GARDEN BLOCK 3",
         "138 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 333",
+            "New Grant Lot",
+            "C4823497",
+            [
+              [
+                "TM435700",
+                "1990-07-13",
+                "LOAN AGREEMENT INCORPORATING A LEGAL CHARGE",
+                null
+              ],
+              [
+                "TM435699",
+                "1990-07-13",
+                "UNDERTAKING BY THE SANWA BANK LIMITED",
+                null
+              ],
+              [
+                "TM444658",
+                "1990-09-03",
+                "LETTER WITH CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM459668",
+                "1990-11-27",
+                "LETTER WITH AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM460284",
+                "1990-12-05",
+                "STATUTORY DECLARATION BY CHOW SUK HAN, ANNA",
+                null
+              ],
+              [
+                "TM460283",
+                "1990-12-05",
+                "STATUTORY DECLARATION BY MA HO FAI",
+                null
+              ],
+              [
+                "TM460285",
+                "1990-12-05",
+                "STATUTORY DECLARATION BY NGAN ON TAK, ANDY RE RESIDENTIAL UNITS",
+                null
+              ],
+              [
+                "TM473469",
+                "1991-02-19",
+                "LETTER WITH AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM478562",
+                "1991-03-18",
+                "RELEASE",
+                null
+              ],
+              [
+                "TM483784",
+                "1991-04-26",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY NGAN ON TAK, ANDY",
+                null
+              ],
+              [
+                "TM483783",
+                "1991-04-26",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY MA HO FAI",
+                null
+              ],
+              [
+                "TM483785",
+                "1991-04-29",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY CHOW SUK HAN, ANNA",
+                null
+              ],
+              [
+                "TM498619",
+                "1991-06-24",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY CHOW SUK HAN, ANNA",
+                null
+              ],
+              [
+                "TM498621",
+                "1991-06-26",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY MA HO FAI",
+                null
+              ],
+              [
+                "TM498620",
+                "1991-07-06",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY NGAN ON TAK, ANDY",
+                null
+              ],
+              [
+                "TM520689",
+                "1991-09-09",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM528540",
+                "1992-01-08",
+                "LETTER WITH AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM540740",
+                "1992-03-12",
+                "OCCUPATION PERMIT NO. NT26/92",
+                null
+              ],
+              [
+                "TM543234",
+                "1992-04-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890553009514451,
@@ -2419,7 +5232,129 @@
         1108528715,
         "RICHLAND GARDEN BLOCK 4",
         "138 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 333",
+            "New Grant Lot",
+            "C4823497",
+            [
+              [
+                "TM435700",
+                "1990-07-13",
+                "LOAN AGREEMENT INCORPORATING A LEGAL CHARGE",
+                null
+              ],
+              [
+                "TM435699",
+                "1990-07-13",
+                "UNDERTAKING BY THE SANWA BANK LIMITED",
+                null
+              ],
+              [
+                "TM444658",
+                "1990-09-03",
+                "LETTER WITH CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM459668",
+                "1990-11-27",
+                "LETTER WITH AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM460284",
+                "1990-12-05",
+                "STATUTORY DECLARATION BY CHOW SUK HAN, ANNA",
+                null
+              ],
+              [
+                "TM460283",
+                "1990-12-05",
+                "STATUTORY DECLARATION BY MA HO FAI",
+                null
+              ],
+              [
+                "TM460285",
+                "1990-12-05",
+                "STATUTORY DECLARATION BY NGAN ON TAK, ANDY RE RESIDENTIAL UNITS",
+                null
+              ],
+              [
+                "TM473469",
+                "1991-02-19",
+                "LETTER WITH AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM478562",
+                "1991-03-18",
+                "RELEASE",
+                null
+              ],
+              [
+                "TM483784",
+                "1991-04-26",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY NGAN ON TAK, ANDY",
+                null
+              ],
+              [
+                "TM483783",
+                "1991-04-26",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY MA HO FAI",
+                null
+              ],
+              [
+                "TM483785",
+                "1991-04-29",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY CHOW SUK HAN, ANNA",
+                null
+              ],
+              [
+                "TM498619",
+                "1991-06-24",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY CHOW SUK HAN, ANNA",
+                null
+              ],
+              [
+                "TM498621",
+                "1991-06-26",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY MA HO FAI",
+                null
+              ],
+              [
+                "TM498620",
+                "1991-07-06",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY NGAN ON TAK, ANDY",
+                null
+              ],
+              [
+                "TM520689",
+                "1991-09-09",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM528540",
+                "1992-01-08",
+                "LETTER WITH AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM540740",
+                "1992-03-12",
+                "OCCUPATION PERMIT NO. NT26/92",
+                null
+              ],
+              [
+                "TM543234",
+                "1992-04-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989061122949114,
@@ -2457,7 +5392,93 @@
         1108528732,
         "PIERHEAD GARDEN TOWER 1",
         "168 - 236 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 291",
+            "New Grant Lot",
+            "C4752169",
+            [
+              [
+                "TM285595",
+                "1986-08-12",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM294393",
+                "1987-03-16",
+                "MEMORANDUM WITH CAR PARK LAYOUT PLANS ATTACHED",
+                null
+              ],
+              [
+                "TM309681",
+                "1987-09-11",
+                "STATUTORY DECLARATION OF ROBERT ANGUS MCCALLOUGH",
+                null
+              ],
+              [
+                "TM309905",
+                "1987-09-15",
+                "STATUTORY DECLARATION OF SAMUEL WONG YIN SHUN",
+                null
+              ],
+              [
+                "TM309903",
+                "1987-09-15",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM309904",
+                "1987-09-17",
+                "STATUTORY DECLARATION OF AMBROSE HON CHUEN LAU",
+                null
+              ],
+              [
+                "TM318415",
+                "1987-11-05",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM341544",
+                "1988-08-08",
+                "LETTER",
+                null
+              ],
+              [
+                "TM344148",
+                "1988-08-18",
+                "OCCUPATION PERMIT",
+                null
+              ],
+              [
+                "TM347196",
+                "1988-10-11",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM347198",
+                "1988-10-11",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ],
+              [
+                "TM347197",
+                "1988-10-11",
+                "GUARANTEE",
+                null
+              ],
+              [
+                "TM380600",
+                "1989-06-16",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890767610937865,
@@ -2476,7 +5497,93 @@
         1108528765,
         "PIERHEAD GARDEN TOWER 2",
         "168 - 236 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 291",
+            "New Grant Lot",
+            "C4752169",
+            [
+              [
+                "TM285595",
+                "1986-08-12",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM294393",
+                "1987-03-16",
+                "MEMORANDUM WITH CAR PARK LAYOUT PLANS ATTACHED",
+                null
+              ],
+              [
+                "TM309681",
+                "1987-09-11",
+                "STATUTORY DECLARATION OF ROBERT ANGUS MCCALLOUGH",
+                null
+              ],
+              [
+                "TM309905",
+                "1987-09-15",
+                "STATUTORY DECLARATION OF SAMUEL WONG YIN SHUN",
+                null
+              ],
+              [
+                "TM309903",
+                "1987-09-15",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM309904",
+                "1987-09-17",
+                "STATUTORY DECLARATION OF AMBROSE HON CHUEN LAU",
+                null
+              ],
+              [
+                "TM318415",
+                "1987-11-05",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM341544",
+                "1988-08-08",
+                "LETTER",
+                null
+              ],
+              [
+                "TM344148",
+                "1988-08-18",
+                "OCCUPATION PERMIT",
+                null
+              ],
+              [
+                "TM347196",
+                "1988-10-11",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM347198",
+                "1988-10-11",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ],
+              [
+                "TM347197",
+                "1988-10-11",
+                "GUARANTEE",
+                null
+              ],
+              [
+                "TM380600",
+                "1989-06-16",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989083868473834,
@@ -2514,7 +5621,93 @@
         1108528772,
         null,
         "168 - 236 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 291",
+            "New Grant Lot",
+            "C4752169",
+            [
+              [
+                "TM285595",
+                "1986-08-12",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM294393",
+                "1987-03-16",
+                "MEMORANDUM WITH CAR PARK LAYOUT PLANS ATTACHED",
+                null
+              ],
+              [
+                "TM309681",
+                "1987-09-11",
+                "STATUTORY DECLARATION OF ROBERT ANGUS MCCALLOUGH",
+                null
+              ],
+              [
+                "TM309905",
+                "1987-09-15",
+                "STATUTORY DECLARATION OF SAMUEL WONG YIN SHUN",
+                null
+              ],
+              [
+                "TM309903",
+                "1987-09-15",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM309904",
+                "1987-09-17",
+                "STATUTORY DECLARATION OF AMBROSE HON CHUEN LAU",
+                null
+              ],
+              [
+                "TM318415",
+                "1987-11-05",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM341544",
+                "1988-08-08",
+                "LETTER",
+                null
+              ],
+              [
+                "TM344148",
+                "1988-08-18",
+                "OCCUPATION PERMIT",
+                null
+              ],
+              [
+                "TM347196",
+                "1988-10-11",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM347198",
+                "1988-10-11",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ],
+              [
+                "TM347197",
+                "1988-10-11",
+                "GUARANTEE",
+                null
+              ],
+              [
+                "TM380600",
+                "1989-06-16",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890918216823958,
@@ -2533,7 +5726,93 @@
         1108528779,
         "PIERHEAD GARDEN BLOCK 1 SUBSTATION",
         "168 - 236 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 291",
+            "New Grant Lot",
+            "C4752169",
+            [
+              [
+                "TM285595",
+                "1986-08-12",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM294393",
+                "1987-03-16",
+                "MEMORANDUM WITH CAR PARK LAYOUT PLANS ATTACHED",
+                null
+              ],
+              [
+                "TM309681",
+                "1987-09-11",
+                "STATUTORY DECLARATION OF ROBERT ANGUS MCCALLOUGH",
+                null
+              ],
+              [
+                "TM309905",
+                "1987-09-15",
+                "STATUTORY DECLARATION OF SAMUEL WONG YIN SHUN",
+                null
+              ],
+              [
+                "TM309903",
+                "1987-09-15",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM309904",
+                "1987-09-17",
+                "STATUTORY DECLARATION OF AMBROSE HON CHUEN LAU",
+                null
+              ],
+              [
+                "TM318415",
+                "1987-11-05",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM341544",
+                "1988-08-08",
+                "LETTER",
+                null
+              ],
+              [
+                "TM344148",
+                "1988-08-18",
+                "OCCUPATION PERMIT",
+                null
+              ],
+              [
+                "TM347196",
+                "1988-10-11",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM347198",
+                "1988-10-11",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ],
+              [
+                "TM347197",
+                "1988-10-11",
+                "GUARANTEE",
+                null
+              ],
+              [
+                "TM380600",
+                "1989-06-16",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989076329309603,
@@ -2571,7 +5850,93 @@
         1108528785,
         "PIERHEAD GARDEN TOWER 3",
         "168 - 236 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 291",
+            "New Grant Lot",
+            "C4752169",
+            [
+              [
+                "TM285595",
+                "1986-08-12",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM294393",
+                "1987-03-16",
+                "MEMORANDUM WITH CAR PARK LAYOUT PLANS ATTACHED",
+                null
+              ],
+              [
+                "TM309681",
+                "1987-09-11",
+                "STATUTORY DECLARATION OF ROBERT ANGUS MCCALLOUGH",
+                null
+              ],
+              [
+                "TM309905",
+                "1987-09-15",
+                "STATUTORY DECLARATION OF SAMUEL WONG YIN SHUN",
+                null
+              ],
+              [
+                "TM309903",
+                "1987-09-15",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM309904",
+                "1987-09-17",
+                "STATUTORY DECLARATION OF AMBROSE HON CHUEN LAU",
+                null
+              ],
+              [
+                "TM318415",
+                "1987-11-05",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM341544",
+                "1988-08-08",
+                "LETTER",
+                null
+              ],
+              [
+                "TM344148",
+                "1988-08-18",
+                "OCCUPATION PERMIT",
+                null
+              ],
+              [
+                "TM347196",
+                "1988-10-11",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM347198",
+                "1988-10-11",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ],
+              [
+                "TM347197",
+                "1988-10-11",
+                "GUARANTEE",
+                null
+              ],
+              [
+                "TM380600",
+                "1989-06-16",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890901973162893,
@@ -2590,7 +5955,93 @@
         1108528786,
         "MTR LRL RECTIFIER STATION NO1",
         "168 - 236 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 291",
+            "New Grant Lot",
+            "C4752169",
+            [
+              [
+                "TM285595",
+                "1986-08-12",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM294393",
+                "1987-03-16",
+                "MEMORANDUM WITH CAR PARK LAYOUT PLANS ATTACHED",
+                null
+              ],
+              [
+                "TM309681",
+                "1987-09-11",
+                "STATUTORY DECLARATION OF ROBERT ANGUS MCCALLOUGH",
+                null
+              ],
+              [
+                "TM309905",
+                "1987-09-15",
+                "STATUTORY DECLARATION OF SAMUEL WONG YIN SHUN",
+                null
+              ],
+              [
+                "TM309903",
+                "1987-09-15",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM309904",
+                "1987-09-17",
+                "STATUTORY DECLARATION OF AMBROSE HON CHUEN LAU",
+                null
+              ],
+              [
+                "TM318415",
+                "1987-11-05",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM341544",
+                "1988-08-08",
+                "LETTER",
+                null
+              ],
+              [
+                "TM344148",
+                "1988-08-18",
+                "OCCUPATION PERMIT",
+                null
+              ],
+              [
+                "TM347196",
+                "1988-10-11",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM347198",
+                "1988-10-11",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ],
+              [
+                "TM347197",
+                "1988-10-11",
+                "GUARANTEE",
+                null
+              ],
+              [
+                "TM380600",
+                "1989-06-16",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890746776564596,
@@ -2609,7 +6060,93 @@
         1108528791,
         "PIERHEAD GARDEN BLOCK 2 SUBSTATION",
         "168 - 236 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 291",
+            "New Grant Lot",
+            "C4752169",
+            [
+              [
+                "TM285595",
+                "1986-08-12",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM294393",
+                "1987-03-16",
+                "MEMORANDUM WITH CAR PARK LAYOUT PLANS ATTACHED",
+                null
+              ],
+              [
+                "TM309681",
+                "1987-09-11",
+                "STATUTORY DECLARATION OF ROBERT ANGUS MCCALLOUGH",
+                null
+              ],
+              [
+                "TM309905",
+                "1987-09-15",
+                "STATUTORY DECLARATION OF SAMUEL WONG YIN SHUN",
+                null
+              ],
+              [
+                "TM309903",
+                "1987-09-15",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM309904",
+                "1987-09-17",
+                "STATUTORY DECLARATION OF AMBROSE HON CHUEN LAU",
+                null
+              ],
+              [
+                "TM318415",
+                "1987-11-05",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM341544",
+                "1988-08-08",
+                "LETTER",
+                null
+              ],
+              [
+                "TM344148",
+                "1988-08-18",
+                "OCCUPATION PERMIT",
+                null
+              ],
+              [
+                "TM347196",
+                "1988-10-11",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM347198",
+                "1988-10-11",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ],
+              [
+                "TM347197",
+                "1988-10-11",
+                "GUARANTEE",
+                null
+              ],
+              [
+                "TM380600",
+                "1989-06-16",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890860469042189,
@@ -2628,7 +6165,93 @@
         1108528810,
         "PIERHEAD GARDEN BLOCK 3 SUBSTATION",
         "168 - 236 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 291",
+            "New Grant Lot",
+            "C4752169",
+            [
+              [
+                "TM285595",
+                "1986-08-12",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM294393",
+                "1987-03-16",
+                "MEMORANDUM WITH CAR PARK LAYOUT PLANS ATTACHED",
+                null
+              ],
+              [
+                "TM309681",
+                "1987-09-11",
+                "STATUTORY DECLARATION OF ROBERT ANGUS MCCALLOUGH",
+                null
+              ],
+              [
+                "TM309905",
+                "1987-09-15",
+                "STATUTORY DECLARATION OF SAMUEL WONG YIN SHUN",
+                null
+              ],
+              [
+                "TM309903",
+                "1987-09-15",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM309904",
+                "1987-09-17",
+                "STATUTORY DECLARATION OF AMBROSE HON CHUEN LAU",
+                null
+              ],
+              [
+                "TM318415",
+                "1987-11-05",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM341544",
+                "1988-08-08",
+                "LETTER",
+                null
+              ],
+              [
+                "TM344148",
+                "1988-08-18",
+                "OCCUPATION PERMIT",
+                null
+              ],
+              [
+                "TM347196",
+                "1988-10-11",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM347198",
+                "1988-10-11",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ],
+              [
+                "TM347197",
+                "1988-10-11",
+                "GUARANTEE",
+                null
+              ],
+              [
+                "TM380600",
+                "1989-06-16",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890923738528759,
@@ -2647,7 +6270,93 @@
         1108528819,
         null,
         null,
-        []
+        [
+          [
+            "TMTL 291",
+            "New Grant Lot",
+            "C4752169",
+            [
+              [
+                "TM285595",
+                "1986-08-12",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM294393",
+                "1987-03-16",
+                "MEMORANDUM WITH CAR PARK LAYOUT PLANS ATTACHED",
+                null
+              ],
+              [
+                "TM309681",
+                "1987-09-11",
+                "STATUTORY DECLARATION OF ROBERT ANGUS MCCALLOUGH",
+                null
+              ],
+              [
+                "TM309905",
+                "1987-09-15",
+                "STATUTORY DECLARATION OF SAMUEL WONG YIN SHUN",
+                null
+              ],
+              [
+                "TM309903",
+                "1987-09-15",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM309904",
+                "1987-09-17",
+                "STATUTORY DECLARATION OF AMBROSE HON CHUEN LAU",
+                null
+              ],
+              [
+                "TM318415",
+                "1987-11-05",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM341544",
+                "1988-08-08",
+                "LETTER",
+                null
+              ],
+              [
+                "TM344148",
+                "1988-08-18",
+                "OCCUPATION PERMIT",
+                null
+              ],
+              [
+                "TM347196",
+                "1988-10-11",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "TM347198",
+                "1988-10-11",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ],
+              [
+                "TM347197",
+                "1988-10-11",
+                "GUARANTEE",
+                null
+              ],
+              [
+                "TM380600",
+                "1989-06-16",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.98907281211318,
@@ -2875,7 +6584,63 @@
         1108530237,
         "SUNHING HUNGKAI TUEN MUN GODOWN",
         "28 HO FUK STREET",
-        []
+        [
+          [
+            "TMTL 318",
+            "New Grant Lot",
+            "C4752343",
+            [
+              [
+                "TM417835",
+                "1989-12-07",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM412854",
+                "1989-12-12",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "TM412853",
+                "1989-12-12",
+                "UNDERTAKING BY STANDARD CHARTERED BANK",
+                null
+              ],
+              [
+                "TM412852",
+                "1989-12-12",
+                "BUILDING MORTGAGE AND MORTGAGE",
+                null
+              ],
+              [
+                "TM426210",
+                "1990-05-11",
+                "LETTER WITH CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM477401",
+                "1991-02-22",
+                "DEED OF VARIATION",
+                null
+              ],
+              [
+                "TM608129",
+                "1993-09-27",
+                "RELEASE",
+                null
+              ],
+              [
+                "TM608128",
+                "1993-09-27",
+                "RELEASE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9887749322108381,
@@ -3103,7 +6868,51 @@
         1108530462,
         null,
         "96 HO YEUNG STREET",
-        []
+        [
+          [
+            "TMTL 316",
+            "New Grant Lot",
+            "C4752320",
+            [
+              [
+                "TM412643",
+                "1989-11-15",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM451634",
+                "1990-10-23",
+                "MEMORANDUM TOGETHER WITH CAR PARK LAY-OUT PLAN",
+                null
+              ],
+              [
+                "TM477868",
+                "1991-02-04",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM520356",
+                "1991-09-24",
+                "MODIFICATION LEETER",
+                null
+              ],
+              [
+                "TM754875",
+                "1992-02-12",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "TM773247",
+                "1997-03-22",
+                "LEASE FOR 10 YRS. FROM 1.1.1997 TO 31.12.2006 (BOTH DAYS INCLUSIVE)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.988742020076536,
@@ -3179,7 +6988,105 @@
         1108530511,
         "CUSTOMS AND EXCISE DEPARTMENT HARBOUR AND RIVER TRADE DIVISION",
         null,
-        []
+        [
+          [
+            "TMTL 393",
+            "New Grant Lot",
+            "C4752804",
+            [
+              [
+                "TM812647",
+                "1997-09-30",
+                "BUILDING MORTGAGE",
+                null
+              ],
+              [
+                "TM864672",
+                "1998-08-30",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM892695",
+                "1999-03-23",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM892696",
+                "1999-03-23",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "TM896655",
+                "1999-03-25",
+                "ASSIGNMENT WITH PLAN",
+                "85756002.0"
+              ],
+              [
+                "TM896654",
+                "1999-03-25",
+                "PARTIAL RELEASE WITH PLANS",
+                "76154002.0"
+              ],
+              [
+                "TM1067524",
+                "2000-05-02",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM954170",
+                "2000-05-02",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "TM971544",
+                "2000-11-20",
+                "LETTER (WITH CAR PARK LAYOUT PLANS ATTACHED) WITH PLAN",
+                null
+              ],
+              [
+                "TM1074516",
+                "2003-07-22",
+                "WAIVER LETTER (EXCLUDING THE GOVERNMENT ACCOMMODATION)",
+                null
+              ],
+              [
+                "06100901750159",
+                "2006-09-29",
+                "DEED OF RELEASE",
+                null
+              ],
+              [
+                "12021700880114",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS",
+                null
+              ],
+              [
+                "12021700880128",
+                "2012-02-06",
+                "LETTER WITH MASTER LAYOUT PLANS INDICATING THE UPDATED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "18030500870124",
+                "2017-11-15",
+                "ORDER NO. \"C/TE/003715/17/NT\" UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24081300840207",
+                "2024-01-25",
+                "LETTER OF COMPLIANCE (ORDER NO. \"C/TE/003715/17/NT\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9887280431121361,
@@ -3236,7 +7143,21 @@
         1108531850,
         "BUTTERFLY PLAZA",
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989036745584034,
@@ -3255,7 +7176,129 @@
         1108531855,
         "RICHLAND GARDEN COMMERCIAL COMPLEX",
         "138 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 333",
+            "New Grant Lot",
+            "C4823497",
+            [
+              [
+                "TM435700",
+                "1990-07-13",
+                "LOAN AGREEMENT INCORPORATING A LEGAL CHARGE",
+                null
+              ],
+              [
+                "TM435699",
+                "1990-07-13",
+                "UNDERTAKING BY THE SANWA BANK LIMITED",
+                null
+              ],
+              [
+                "TM444658",
+                "1990-09-03",
+                "LETTER WITH CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM459668",
+                "1990-11-27",
+                "LETTER WITH AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM460284",
+                "1990-12-05",
+                "STATUTORY DECLARATION BY CHOW SUK HAN, ANNA",
+                null
+              ],
+              [
+                "TM460283",
+                "1990-12-05",
+                "STATUTORY DECLARATION BY MA HO FAI",
+                null
+              ],
+              [
+                "TM460285",
+                "1990-12-05",
+                "STATUTORY DECLARATION BY NGAN ON TAK, ANDY RE RESIDENTIAL UNITS",
+                null
+              ],
+              [
+                "TM473469",
+                "1991-02-19",
+                "LETTER WITH AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM478562",
+                "1991-03-18",
+                "RELEASE",
+                null
+              ],
+              [
+                "TM483784",
+                "1991-04-26",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY NGAN ON TAK, ANDY",
+                null
+              ],
+              [
+                "TM483783",
+                "1991-04-26",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY MA HO FAI",
+                null
+              ],
+              [
+                "TM483785",
+                "1991-04-29",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY CHOW SUK HAN, ANNA",
+                null
+              ],
+              [
+                "TM498619",
+                "1991-06-24",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY CHOW SUK HAN, ANNA",
+                null
+              ],
+              [
+                "TM498621",
+                "1991-06-26",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY MA HO FAI",
+                null
+              ],
+              [
+                "TM498620",
+                "1991-07-06",
+                "SUPPLEMENTAL STATUTORY DECLARATION BY NGAN ON TAK, ANDY",
+                null
+              ],
+              [
+                "TM520689",
+                "1991-09-09",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TM528540",
+                "1992-01-08",
+                "LETTER WITH AMENDED CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "TM540740",
+                "1992-03-12",
+                "OCCUPATION PERMIT NO. NT26/92",
+                null
+              ],
+              [
+                "TM543234",
+                "1992-04-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989053534931881,
@@ -3274,7 +7317,21 @@
         1109405459,
         null,
         null,
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890025127047708,
@@ -3293,7 +7350,21 @@
         1109405513,
         "TIP MO HOUSE",
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890072352493702,
@@ -3312,7 +7383,27 @@
         1109405695,
         "KWAI KING HOUSE",
         "2 - 26 WU SHAN ROAD",
-        []
+        [
+          [
+            "TMTL 251 RP",
+            "New Grant Lot",
+            "C6696868",
+            [
+              [
+                "TM229180",
+                "1981-11-06",
+                "AGREEMENT",
+                "10910000.0"
+              ],
+              [
+                "TM228386",
+                "1983-07-23",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890507500856036,
@@ -3331,7 +7422,27 @@
         1109405853,
         "CHEUNG KING HOUSE",
         "2 - 26 WU SHAN ROAD",
-        []
+        [
+          [
+            "TMTL 251 RP",
+            "New Grant Lot",
+            "C6696868",
+            [
+              [
+                "TM229180",
+                "1981-11-06",
+                "AGREEMENT",
+                "10910000.0"
+              ],
+              [
+                "TM228386",
+                "1983-07-23",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989039850020052,
@@ -3350,7 +7461,27 @@
         1109405932,
         "MIN KING HOUSE",
         "2 - 26 WU SHAN ROAD",
-        []
+        [
+          [
+            "TMTL 251 RP",
+            "New Grant Lot",
+            "C6696868",
+            [
+              [
+                "TM229180",
+                "1981-11-06",
+                "AGREEMENT",
+                "10910000.0"
+              ],
+              [
+                "TM228386",
+                "1983-07-23",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890412627497607,
@@ -3369,7 +7500,27 @@
         1109406098,
         "LAU KING HOUSE",
         "2 - 26 WU SHAN ROAD",
-        []
+        [
+          [
+            "TMTL 251 RP",
+            "New Grant Lot",
+            "C6696868",
+            [
+              [
+                "TM229180",
+                "1981-11-06",
+                "AGREEMENT",
+                "10910000.0"
+              ],
+              [
+                "TM228386",
+                "1983-07-23",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890187738264564,
@@ -3407,7 +7558,27 @@
         1109406136,
         "YEUNG KING HOUSE",
         "2 - 26 WU SHAN ROAD",
-        []
+        [
+          [
+            "TMTL 251 RP",
+            "New Grant Lot",
+            "C6696868",
+            [
+              [
+                "TM229180",
+                "1981-11-06",
+                "AGREEMENT",
+                "10910000.0"
+              ],
+              [
+                "TM228386",
+                "1983-07-23",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890382860603704,
@@ -3426,7 +7597,27 @@
         1109406371,
         "TAO KING HOUSE",
         "2 - 26 WU SHAN ROAD",
-        []
+        [
+          [
+            "TMTL 251 RP",
+            "New Grant Lot",
+            "C6696868",
+            [
+              [
+                "TM229180",
+                "1981-11-06",
+                "AGREEMENT",
+                "10910000.0"
+              ],
+              [
+                "TM228386",
+                "1983-07-23",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989025405438675,
@@ -3445,7 +7636,27 @@
         1109406486,
         "KIN KING HOUSE",
         "2 - 26 WU SHAN ROAD",
-        []
+        [
+          [
+            "TMTL 251 RP",
+            "New Grant Lot",
+            "C6696868",
+            [
+              [
+                "TM229180",
+                "1981-11-06",
+                "AGREEMENT",
+                "10910000.0"
+              ],
+              [
+                "TM228386",
+                "1983-07-23",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890316733389466,
@@ -3464,7 +7675,21 @@
         1109406672,
         null,
         null,
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890057658539695,
@@ -3483,7 +7708,27 @@
         1109406745,
         "WAH KING HOUSE",
         "2 - 26 WU SHAN ROAD",
-        []
+        [
+          [
+            "TMTL 251 RP",
+            "New Grant Lot",
+            "C6696868",
+            [
+              [
+                "TM229180",
+                "1981-11-06",
+                "AGREEMENT",
+                "10910000.0"
+              ],
+              [
+                "TM228386",
+                "1983-07-23",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890493718035047,
@@ -3502,7 +7747,27 @@
         1109406951,
         "HANG KING HOUSE",
         "2 - 26 WU SHAN ROAD",
-        []
+        [
+          [
+            "TMTL 251 RP",
+            "New Grant Lot",
+            "C6696868",
+            [
+              [
+                "TM229180",
+                "1981-11-06",
+                "AGREEMENT",
+                "10910000.0"
+              ],
+              [
+                "TM228386",
+                "1983-07-23",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890545749119632,
@@ -3521,7 +7786,21 @@
         1109407179,
         "TIP YING HOUSE",
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890155529835576,
@@ -3540,7 +7819,27 @@
         1109407255,
         "PAK KING HOUSE",
         "2 - 26 WU SHAN ROAD",
-        []
+        [
+          [
+            "TMTL 251 RP",
+            "New Grant Lot",
+            "C6696868",
+            [
+              [
+                "TM229180",
+                "1981-11-06",
+                "AGREEMENT",
+                "10910000.0"
+              ],
+              [
+                "TM228386",
+                "1983-07-23",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890451044045996,
@@ -3559,7 +7858,27 @@
         1109407280,
         "YEH KING HOUSE",
         "2 - 26 WU SHAN ROAD",
-        []
+        [
+          [
+            "TMTL 251 RP",
+            "New Grant Lot",
+            "C6696868",
+            [
+              [
+                "TM229180",
+                "1981-11-06",
+                "AGREEMENT",
+                "10910000.0"
+              ],
+              [
+                "TM228386",
+                "1983-07-23",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890368904761837,
@@ -3578,7 +7897,27 @@
         1109407298,
         "YUE KING HOUSE",
         "2 - 26 WU SHAN ROAD",
-        []
+        [
+          [
+            "TMTL 251 RP",
+            "New Grant Lot",
+            "C6696868",
+            [
+              [
+                "TM229180",
+                "1981-11-06",
+                "AGREEMENT",
+                "10910000.0"
+              ],
+              [
+                "TM228386",
+                "1983-07-23",
+                "MANAGEMENT UNDERTAKING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9890239888361885,
@@ -3635,7 +7974,21 @@
         1810016010,
         null,
         "1 WU CHUI ROAD",
-        []
+        [
+          [
+            "TMTL 473",
+            "New Grant Lot",
+            "D0326364",
+            [
+              [
+                "06022401500019",
+                "2004-12-03",
+                "CERTIFIED COPY OF WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989032599682858,

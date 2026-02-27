@@ -44,7 +44,21 @@
         1106111236,
         null,
         null,
-        []
+        [
+          [
+            "DD9 1263",
+            "New Grant Lot",
+            "C6208807",
+            [
+              [
+                "TP70315",
+                "1928-05-22",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924894719421837,
@@ -63,7 +77,69 @@
         1106111247,
         null,
         null,
-        []
+        [
+          [
+            "DD9 159",
+            "Old Schedule Lot",
+            "C1990633",
+            [
+              [
+                "TP16870",
+                "1911-06-12",
+                "MORTGAGE",
+                "200.0"
+              ],
+              [
+                "TP30512",
+                "1915-05-03",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "TP30514",
+                "1915-05-03",
+                "MORTGAGE",
+                "397.3"
+              ],
+              [
+                "TP44616",
+                "1920-01-30",
+                "APPOINTMENT OF ADDITIONAL TRUSTEES",
+                null
+              ],
+              [
+                "TP50816",
+                "1922-01-06",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "TP55670",
+                "1923-05-03",
+                "-",
+                "20.0"
+              ],
+              [
+                "TP58818",
+                "1924-03-14",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "TP60010",
+                "1924-11-26",
+                "-",
+                "50.0"
+              ],
+              [
+                "TP70315",
+                "1928-05-22",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924870749226438,
@@ -120,7 +196,14 @@
         1106111300,
         null,
         "20A KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 1361 RP",
+            "New Grant Lot",
+            "D2861128",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9924732831573808,
@@ -139,7 +222,52 @@
         1106111307,
         null,
         "20 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 191 S.A RP",
+            "Old Schedule Lot",
+            "D2860586",
+            [
+              [
+                "TP204509",
+                "1981-07-13",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP209795",
+                "1982-08-07",
+                "MORTGAGE",
+                "370000.0"
+              ]
+            ]
+          ],
+          [
+            "DD9 191 S.B SS.1 S.A",
+            "Old Schedule Lot",
+            "D0922440",
+            [
+              [
+                "TP502454",
+                "1996-09-16",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "07030601960029",
+                "2007-02-07",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "16031002160214",
+                "2016-02-17",
+                "ASSIGNMENT",
+                "250000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924753892061935,
@@ -158,7 +286,93 @@
         1106111309,
         null,
         "23 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 1255 S.A",
+            "New Grant Lot",
+            "C2007196",
+            [
+              [
+                "TP44722",
+                "1920-02-06",
+                "MORTGAGE",
+                "100.0"
+              ],
+              [
+                "TP47091",
+                "1920-12-13",
+                "-",
+                null
+              ],
+              [
+                "TP68951",
+                "1928-01-04",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "TP70933",
+                "1928-11-05",
+                "MORTGAGE",
+                "340.0"
+              ],
+              [
+                "TP105328",
+                "1939-03-29",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "TP136579",
+                "1957-08-02",
+                "-",
+                null
+              ],
+              [
+                "TP208192",
+                "1982-04-07",
+                "POWER OF ATTORNEY BY CHAN HANG AND CHAN CHOI RE 2/3 SHARES",
+                null
+              ],
+              [
+                "TP208154",
+                "1982-04-14",
+                "STATUTORY DECLARATION OF CHAN CHEUK-FAI ALIAS CHAN SAU",
+                null
+              ],
+              [
+                "TP208155",
+                "1982-04-14",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TP211643",
+                "1983-03-14",
+                "CONVEYANCE AS A GIFT",
+                null
+              ],
+              [
+                "TP558345",
+                "1997-12-10",
+                "ASSIGNMENT",
+                "900000.0"
+              ],
+              [
+                "TP558344",
+                "1997-12-10",
+                "AGREEMENT FOR SALE AND PURCHASE BY CHAN KANG",
+                "900000.0"
+              ],
+              [
+                "TP609734",
+                "1999-07-14",
+                "SEALED COPY OF AMENDED WRIT OF SUMMONS",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925066794416966,
@@ -177,7 +391,46 @@
         1106111315,
         null,
         "12A KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 191 S.A RP",
+            "Old Schedule Lot",
+            "D2860586",
+            [
+              [
+                "TP204509",
+                "1981-07-13",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP209795",
+                "1982-08-07",
+                "MORTGAGE",
+                "370000.0"
+              ]
+            ]
+          ],
+          [
+            "DD9 191 S.C SS.1 RP",
+            "Old Schedule Lot",
+            "D3304119",
+            [
+              [
+                "09091801370030",
+                "2009-09-07",
+                "ASSIGNMENT",
+                "250000.0"
+              ],
+              [
+                "16032402450088",
+                "2016-02-17",
+                "ASSIGNMENT WITH PLAN",
+                "250000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924747840631962,
@@ -196,7 +449,46 @@
         1106111319,
         null,
         "12 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 191 S.A RP",
+            "Old Schedule Lot",
+            "D2860586",
+            [
+              [
+                "TP204509",
+                "1981-07-13",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP209795",
+                "1982-08-07",
+                "MORTGAGE",
+                "370000.0"
+              ]
+            ]
+          ],
+          [
+            "DD9 191 S.C SS.1 RP",
+            "Old Schedule Lot",
+            "D3304119",
+            [
+              [
+                "09091801370030",
+                "2009-09-07",
+                "ASSIGNMENT",
+                "250000.0"
+              ],
+              [
+                "16032402450088",
+                "2016-02-17",
+                "ASSIGNMENT WITH PLAN",
+                "250000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924754329803227,
@@ -215,7 +507,155 @@
         1106111322,
         null,
         null,
-        []
+        [
+          [
+            "DD9 186 RP",
+            "Old Schedule Lot",
+            "D5869638",
+            [
+              [
+                "TP5195",
+                "1907-12-03",
+                "CONVEYANCE ON SALE",
+                "40.0"
+              ],
+              [
+                "TP58632",
+                "1924-02-25",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "TP132166",
+                "1954-09-27",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "06121301410016",
+                "2003-06-27",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "06121301410027",
+                "2006-10-17",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "23041401740016",
+                "2023-01-27",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "23060201540040",
+                "2023-05-06",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD9 186 S.D",
+            "Old Schedule Lot",
+            "D5869610",
+            [
+              [
+                "TP5195",
+                "1907-12-03",
+                "CONVEYANCE ON SALE",
+                "40.0"
+              ],
+              [
+                "TP58632",
+                "1924-02-25",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "TP132166",
+                "1954-09-27",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "06121301410016",
+                "2003-06-27",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "06121301410027",
+                "2006-10-17",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "23041401740016",
+                "2023-01-27",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "23060201540040",
+                "2023-05-06",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD9 186 S.E",
+            "Old Schedule Lot",
+            "D5869624",
+            [
+              [
+                "TP5195",
+                "1907-12-03",
+                "CONVEYANCE ON SALE",
+                "40.0"
+              ],
+              [
+                "TP58632",
+                "1924-02-25",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "TP132166",
+                "1954-09-27",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "06121301410016",
+                "2003-06-27",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "06121301410027",
+                "2006-10-17",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "23041401740016",
+                "2023-01-27",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "23060201540040",
+                "2023-05-06",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924893181845023,
@@ -234,7 +674,52 @@
         1106111326,
         null,
         "13 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 191 S.A RP",
+            "Old Schedule Lot",
+            "D2860586",
+            [
+              [
+                "TP204509",
+                "1981-07-13",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP209795",
+                "1982-08-07",
+                "MORTGAGE",
+                "370000.0"
+              ]
+            ]
+          ],
+          [
+            "DD9 191 S.C SS.1 S.A",
+            "Old Schedule Lot",
+            "D3304109",
+            [
+              [
+                "09091801370030",
+                "2009-09-07",
+                "ASSIGNMENT",
+                "250000.0"
+              ],
+              [
+                "16031602160039",
+                "2016-02-17",
+                "ASSIGNMENT WITH PLAN",
+                "250000.0"
+              ],
+              [
+                "16031602160027",
+                "2016-02-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "250000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924759458727752,
@@ -253,7 +738,71 @@
         1106111329,
         null,
         "14 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 191 S.A RP",
+            "Old Schedule Lot",
+            "D2860586",
+            [
+              [
+                "TP204509",
+                "1981-07-13",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP209795",
+                "1982-08-07",
+                "MORTGAGE",
+                "370000.0"
+              ]
+            ]
+          ],
+          [
+            "DD9 191 S.C RP",
+            "Old Schedule Lot",
+            "C1991080",
+            [
+              [
+                "TP137321",
+                "1958-01-22",
+                "-",
+                null
+              ],
+              [
+                "TP584989",
+                "1998-10-20",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD9 191 S.C SS.1 S.A",
+            "Old Schedule Lot",
+            "D3304109",
+            [
+              [
+                "09091801370030",
+                "2009-09-07",
+                "ASSIGNMENT",
+                "250000.0"
+              ],
+              [
+                "16031602160039",
+                "2016-02-17",
+                "ASSIGNMENT WITH PLAN",
+                "250000.0"
+              ],
+              [
+                "16031602160027",
+                "2016-02-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "250000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924764602606384,
@@ -272,7 +821,46 @@
         1106111330,
         null,
         "15 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 191 S.A RP",
+            "Old Schedule Lot",
+            "D2860586",
+            [
+              [
+                "TP204509",
+                "1981-07-13",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP209795",
+                "1982-08-07",
+                "MORTGAGE",
+                "370000.0"
+              ]
+            ]
+          ],
+          [
+            "DD9 191 S.C RP",
+            "Old Schedule Lot",
+            "C1991080",
+            [
+              [
+                "TP137321",
+                "1958-01-22",
+                "-",
+                null
+              ],
+              [
+                "TP584989",
+                "1998-10-20",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992476996663319,
@@ -291,7 +879,46 @@
         1106111333,
         null,
         "16 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 191 S.A RP",
+            "Old Schedule Lot",
+            "D2860586",
+            [
+              [
+                "TP204509",
+                "1981-07-13",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP209795",
+                "1982-08-07",
+                "MORTGAGE",
+                "370000.0"
+              ]
+            ]
+          ],
+          [
+            "DD9 191 S.C RP",
+            "Old Schedule Lot",
+            "C1991080",
+            [
+              [
+                "TP137321",
+                "1958-01-22",
+                "-",
+                null
+              ],
+              [
+                "TP584989",
+                "1998-10-20",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924775254112075,
@@ -310,7 +937,46 @@
         1106111335,
         null,
         "16 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 191 S.A RP",
+            "Old Schedule Lot",
+            "D2860586",
+            [
+              [
+                "TP204509",
+                "1981-07-13",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP209795",
+                "1982-08-07",
+                "MORTGAGE",
+                "370000.0"
+              ]
+            ]
+          ],
+          [
+            "DD9 191 S.C RP",
+            "Old Schedule Lot",
+            "C1991080",
+            [
+              [
+                "TP137321",
+                "1958-01-22",
+                "-",
+                null
+              ],
+              [
+                "TP584989",
+                "1998-10-20",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992478025312819,
@@ -329,7 +995,45 @@
         1106111338,
         null,
         "30 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 172 RP",
+            "Old Schedule Lot",
+            "D2860539",
+            [
+              [
+                "TP114466",
+                "1946-09-20",
+                "CONVEYANCE ON SALE",
+                "4000.0"
+              ],
+              [
+                "TP434499",
+                "1993-06-15",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TP434498",
+                "1993-06-15",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF SZE WO TONG",
+                null
+              ],
+              [
+                "19112501300019",
+                "2017-05-02",
+                "NOTICE OF DEATH, RETIREMENT AND APPOINTMENT OF MANAGER OF SZE WO TONG",
+                null
+              ],
+              [
+                "19112501300021",
+                "2019-10-18",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925020229874317,
@@ -348,7 +1052,45 @@
         1106111340,
         null,
         "31 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 172 RP",
+            "Old Schedule Lot",
+            "D2860539",
+            [
+              [
+                "TP114466",
+                "1946-09-20",
+                "CONVEYANCE ON SALE",
+                "4000.0"
+              ],
+              [
+                "TP434499",
+                "1993-06-15",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TP434498",
+                "1993-06-15",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF SZE WO TONG",
+                null
+              ],
+              [
+                "19112501300019",
+                "2017-05-02",
+                "NOTICE OF DEATH, RETIREMENT AND APPOINTMENT OF MANAGER OF SZE WO TONG",
+                null
+              ],
+              [
+                "19112501300021",
+                "2019-10-18",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925021150241267,
@@ -367,7 +1109,64 @@
         1106111342,
         null,
         null,
-        []
+        [
+          [
+            "DD9 191 S.A RP",
+            "Old Schedule Lot",
+            "D2860586",
+            [
+              [
+                "TP204509",
+                "1981-07-13",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP209795",
+                "1982-08-07",
+                "MORTGAGE",
+                "370000.0"
+              ]
+            ]
+          ],
+          [
+            "DD9 191 S.B SS.4",
+            "Old Schedule Lot",
+            "C6587015",
+            [
+              [
+                "TP98073",
+                "1936-12-16",
+                "-",
+                "145.0"
+              ],
+              [
+                "TP166886",
+                "1970-12-09",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TP437791",
+                "1993-11-09",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "TP502457",
+                "1996-09-16",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "TP660189",
+                "2001-03-14",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992476924930142,
@@ -386,7 +1185,45 @@
         1106111343,
         null,
         "32 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 172 RP",
+            "Old Schedule Lot",
+            "D2860539",
+            [
+              [
+                "TP114466",
+                "1946-09-20",
+                "CONVEYANCE ON SALE",
+                "4000.0"
+              ],
+              [
+                "TP434499",
+                "1993-06-15",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TP434498",
+                "1993-06-15",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF SZE WO TONG",
+                null
+              ],
+              [
+                "19112501300019",
+                "2017-05-02",
+                "NOTICE OF DEATH, RETIREMENT AND APPOINTMENT OF MANAGER OF SZE WO TONG",
+                null
+              ],
+              [
+                "19112501300021",
+                "2019-10-18",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925022066776883,
@@ -405,7 +1242,45 @@
         1106111346,
         null,
         "33 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 172 RP",
+            "Old Schedule Lot",
+            "D2860539",
+            [
+              [
+                "TP114466",
+                "1946-09-20",
+                "CONVEYANCE ON SALE",
+                "4000.0"
+              ],
+              [
+                "TP434499",
+                "1993-06-15",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TP434498",
+                "1993-06-15",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF SZE WO TONG",
+                null
+              ],
+              [
+                "19112501300019",
+                "2017-05-02",
+                "NOTICE OF DEATH, RETIREMENT AND APPOINTMENT OF MANAGER OF SZE WO TONG",
+                null
+              ],
+              [
+                "19112501300021",
+                "2019-10-18",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925022949614357,
@@ -424,7 +1299,45 @@
         1106111348,
         null,
         "30A KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 179 S.F",
+            "Old Schedule Lot",
+            "C4896207",
+            [
+              [
+                "TP454808",
+                "1994-10-15",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "TP465348",
+                "1995-05-17",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "TP702134",
+                "2003-04-15",
+                "BUILDING LICENCE NO.440/2000 WITH PLAN",
+                "5400.0"
+              ],
+              [
+                "16120700200025",
+                "2008-12-18",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "11030402870016",
+                "2011-02-16",
+                "DEED OF GRANT OF RIGHT OF WAY  WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924965120116873,
@@ -443,7 +1356,33 @@
         1106111353,
         null,
         "27 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 1324",
+            "New Grant Lot",
+            "C2007552",
+            [
+              [
+                "TP210868",
+                "1982-12-20",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP580836",
+                "1998-08-18",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "TP580835",
+                "1998-08-18",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925039678822176,
@@ -462,7 +1401,39 @@
         1106111359,
         null,
         "27A KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 1313 S.B",
+            "New Grant Lot",
+            "C2007539",
+            [
+              [
+                "TP140628",
+                "1959-11-28",
+                "-",
+                "1000.0"
+              ],
+              [
+                "TP210868",
+                "1982-12-20",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP580836",
+                "1998-08-18",
+                "ASSIGNMENT",
+                "1000000.0"
+              ],
+              [
+                "TP580835",
+                "1998-08-18",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925036545688097,
@@ -481,7 +1452,51 @@
         1106111364,
         null,
         "28 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 1313 S.A",
+            "New Grant Lot",
+            "C2007520",
+            [
+              [
+                "TP140627",
+                "1959-11-28",
+                "-",
+                null
+              ],
+              [
+                "TP405249",
+                "1992-10-13",
+                "STATUTORY DECLARATION OF LI TUNG KIU ALSO KNOWN AS LEE TUNG MUI",
+                null
+              ],
+              [
+                "TP455178",
+                "1994-11-10",
+                "-",
+                null
+              ],
+              [
+                "14021100850064",
+                "2013-11-07",
+                "A SEALED COPY OF CHARGING ORDER : NOTICE TO SHOW CAUSE",
+                null
+              ],
+              [
+                "14053001560171",
+                "2014-04-28",
+                "A SEALED COPY OF CHARGING ORDER ABSOLUTE",
+                null
+              ],
+              [
+                "17112102600014",
+                "2017-11-20",
+                "SATISFACTION CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925033027546135,
@@ -500,7 +1515,63 @@
         1106111368,
         null,
         "181 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 197 S.A SS.2",
+            "Old Schedule Lot",
+            "C1991245",
+            [
+              [
+                "TP288667",
+                "1988-10-08",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "TP410699",
+                "1992-12-31",
+                "-",
+                "81312.0"
+              ],
+              [
+                "TP432046",
+                "1993-10-16",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ],
+              [
+                "TP484413",
+                "1995-12-18",
+                "BUILDING LICENCE NO.40/95",
+                null
+              ],
+              [
+                "TP691016",
+                "1997-06-23",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "TP691018",
+                "2002-08-09",
+                "ASSIGNMENT",
+                "2800000.0"
+              ],
+              [
+                "TP691017",
+                "2002-08-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2800000.0"
+              ],
+              [
+                "07032902380022",
+                "2007-03-21",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924749984360197,
@@ -519,7 +1590,45 @@
         1106111371,
         null,
         "35A KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 179 S.A RP",
+            "Old Schedule Lot",
+            "D2860562",
+            [
+              [
+                "TP465349",
+                "1995-05-17",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "TP673178",
+                "2001-09-25",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ],
+              [
+                "TP680180",
+                "2002-02-05",
+                "BUILDING LICENCE NO.441/2000 WITH PLAN",
+                null
+              ],
+              [
+                "09030900020010",
+                "2008-10-13",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "11030402870016",
+                "2011-02-16",
+                "DEED OF GRANT OF RIGHT OF WAY  WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924963474501307,
@@ -538,7 +1647,14 @@
         1106111372,
         null,
         "37 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 1375",
+            "New Grant Lot",
+            "C4898382",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9925009940784337,
@@ -557,7 +1673,69 @@
         1106111377,
         null,
         "180 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 197 S.A SS.1",
+            "Old Schedule Lot",
+            "C1991239",
+            [
+              [
+                "TP288667",
+                "1988-10-08",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "TP410698",
+                "1992-12-31",
+                "ASSIGNMENT",
+                "81312.0"
+              ],
+              [
+                "TP432045",
+                "1993-10-16",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ],
+              [
+                "TP484412",
+                "1995-12-18",
+                "BUILDING LICENCE NO.24/95 WITH PLAN",
+                null
+              ],
+              [
+                "TP691019",
+                "1997-06-23",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "TP691020",
+                "2002-07-15",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TP691022",
+                "2002-08-09",
+                "ASSIGNMENT",
+                "2800000.0"
+              ],
+              [
+                "TP691021",
+                "2002-08-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2800000.0"
+              ],
+              [
+                "07032902380022",
+                "2007-03-21",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924739766009136,
@@ -576,7 +1754,39 @@
         1106111379,
         null,
         "38 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 1254",
+            "New Grant Lot",
+            "C5729104",
+            [
+              [
+                "TP428235",
+                "1992-09-17",
+                "-",
+                null
+              ],
+              [
+                "TP500785",
+                "1996-08-29",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "10070502130010",
+                "2010-06-15",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "300000.0"
+              ],
+              [
+                "10070502130026",
+                "2010-06-15",
+                "ASSIGNMENT",
+                "300000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925012491108494,
@@ -595,7 +1805,69 @@
         1106111382,
         null,
         "179 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 198 S.A",
+            "Old Schedule Lot",
+            "C1991286",
+            [
+              [
+                "TP31789",
+                "1916-01-03",
+                "-",
+                "70.0"
+              ],
+              [
+                "TP53729",
+                "1922-11-06",
+                "MORTGAGE",
+                "150.0"
+              ],
+              [
+                "TP60808",
+                "1924-09-15",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "TP133298",
+                "1955-06-07",
+                "MORTGAGE",
+                "2000.0"
+              ],
+              [
+                "TP133826",
+                "1955-10-01",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "TP184549",
+                "1976-11-23",
+                "-",
+                "13000.0"
+              ],
+              [
+                "TP551486",
+                "1997-10-31",
+                "RECTIFICATION OF ERROR IN SUCCESSION M/N 94253",
+                null
+              ],
+              [
+                "19071000320034",
+                "2016-03-21",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "19071000320047",
+                "2019-06-28",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924762856023663,
@@ -614,7 +1886,33 @@
         1106111386,
         null,
         null,
-        []
+        [
+          [
+            "DD9 208 RP",
+            "Old Schedule Lot",
+            "D1731786",
+            [
+              [
+                "TP197805",
+                "1979-11-19",
+                "CONVEYANCE ON SALE",
+                "20000.0"
+              ],
+              [
+                "10052500480055",
+                "2010-04-12",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "25071000810029",
+                "2025-06-11",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924684606456196,
@@ -633,7 +1931,21 @@
         1106111387,
         null,
         "40 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 1504",
+            "New Grant Lot",
+            "C2008471",
+            [
+              [
+                "TP177363",
+                "1974-03-20",
+                "MEMORANDUM OF AGREEMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924861284619282,
@@ -652,7 +1964,63 @@
         1106111390,
         null,
         "176 KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 205 S.B SS.1",
+            "Old Schedule Lot",
+            "C1991397",
+            [
+              [
+                "TP575872",
+                "1998-05-29",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "TP575875",
+                "1998-05-29",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "TP576387",
+                "1998-05-29",
+                "ASSIGNMENT",
+                "250000.0"
+              ],
+              [
+                "06020100850091",
+                "2006-01-20",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "07030500830047",
+                "2007-01-26",
+                "BUILDING LICENCE NO. 189/2005 WITH PLAN",
+                null
+              ],
+              [
+                "09021200230079",
+                "2008-10-31",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "14112600210023",
+                "2014-10-28",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "14112600210016",
+                "2014-10-28",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924723555807493,
@@ -690,7 +2058,33 @@
         1106111393,
         null,
         "92 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 208 RP",
+            "Old Schedule Lot",
+            "D1731786",
+            [
+              [
+                "TP197805",
+                "1979-11-19",
+                "CONVEYANCE ON SALE",
+                "20000.0"
+              ],
+              [
+                "10052500480055",
+                "2010-04-12",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "25071000810029",
+                "2025-06-11",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924681694164652,
@@ -709,7 +2103,57 @@
         1106111396,
         null,
         "175 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 205 S.B RP",
+            "Old Schedule Lot",
+            "C1991380",
+            [
+              [
+                "TP575875",
+                "1998-05-29",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "TP575872",
+                "1998-05-29",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "05102701760024",
+                "2005-10-20",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "06091201640029",
+                "2006-09-08",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "06101301950069",
+                "2006-09-20",
+                "BUILDING LICENCENO. 86/2005 WITH PLAN",
+                null
+              ],
+              [
+                "07092800650085",
+                "2007-08-30",
+                "CERTIFICATE  OF COMPLIANCE",
+                null
+              ],
+              [
+                "09030201680013",
+                "2009-02-20",
+                "SUPPLEMENTAL DEED OF CONSENT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924726924133227,
@@ -728,7 +2172,63 @@
         1106111405,
         null,
         "261 KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 209 S.C",
+            "Old Schedule Lot",
+            "C6207619",
+            [
+              [
+                "TP188974",
+                "1978-03-07",
+                "CONVEYANCE ON SALE",
+                "75000.0"
+              ],
+              [
+                "TP449079",
+                "1994-07-01",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TP451283",
+                "1994-08-04",
+                "-",
+                null
+              ],
+              [
+                "TP458588",
+                "1994-12-30",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TP546943",
+                "1997-06-27",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "TP605838",
+                "1999-06-02",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "TP661834",
+                "2001-04-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "07040301640094",
+                "2007-03-09",
+                "BUILDING LICENCE NO. 136/2006 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924672007098791,
@@ -747,7 +2247,39 @@
         1106111406,
         null,
         "41 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 205 S.D RP",
+            "Old Schedule Lot",
+            "C1991429",
+            [
+              [
+                "TP188499",
+                "1978-01-19",
+                "-",
+                null
+              ],
+              [
+                "TP479813",
+                "1995-11-17",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TP478834",
+                "1995-12-20",
+                "DECLARATION OF LI POON SUNG ALSO KNOWN AS LEE PUN SUNG",
+                null
+              ],
+              [
+                "TP689461",
+                "2002-07-11",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924730376875692,
@@ -766,7 +2298,51 @@
         1106111408,
         null,
         "260 KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 209 S.D",
+            "Old Schedule Lot",
+            "C1991576",
+            [
+              [
+                "TP188974",
+                "1978-03-07",
+                "CONVEYANCE ON SALE",
+                "75000.0"
+              ],
+              [
+                "TP449079",
+                "1994-07-01",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TP451283",
+                "1994-08-04",
+                "-",
+                null
+              ],
+              [
+                "TP458589",
+                "1994-12-30",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TP583557",
+                "1998-09-15",
+                "ASSIGNMENT",
+                "150000.0"
+              ],
+              [
+                "07101802320056",
+                "2007-10-08",
+                "BUILDING LICENCE NO. 20/2007 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924676354749924,
@@ -785,7 +2361,39 @@
         1106111419,
         null,
         "173 KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 205 S.D SS.1 RP",
+            "Old Schedule Lot",
+            "D0906177",
+            [
+              [
+                "TP479813",
+                "1995-11-17",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TP482513",
+                "1996-02-03",
+                "ASSIGNMENT",
+                "150000.0"
+              ],
+              [
+                "07122803980141",
+                "2007-11-22",
+                "BUILDING LICENCE NO.57/2007 WITH PLAN",
+                null
+              ],
+              [
+                "21021801370066",
+                "2021-01-26",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924729945850856,
@@ -804,7 +2412,57 @@
         1106111426,
         null,
         "48D KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 209 S.E",
+            "Old Schedule Lot",
+            "C4896271",
+            [
+              [
+                "TP188974",
+                "1978-03-07",
+                "CONVEYANCE ON SALE",
+                "75000.0"
+              ],
+              [
+                "TP449079",
+                "1994-07-01",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TP451283",
+                "1994-08-04",
+                "-",
+                null
+              ],
+              [
+                "TP458590",
+                "1994-12-30",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TP472597",
+                "1995-07-31",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TP487540",
+                "1996-04-17",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TP582534",
+                "1998-08-31",
+                "BUILDING LICENCE NO. 14/98 (WITH PLAN)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992467736543318,
@@ -823,7 +2481,39 @@
         1106111437,
         null,
         "48B KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 207 S.A RP",
+            "Old Schedule Lot",
+            "D1548641",
+            [
+              [
+                "TP387880",
+                "1992-04-07",
+                "ASSIGNMENT",
+                "121968.0"
+              ],
+              [
+                "TP461932",
+                "1995-03-15",
+                "BUILDING LICENCE NO.58/94",
+                null
+              ],
+              [
+                "14102400520012",
+                "2014-10-09",
+                "G.N. 5814 DATED 9.10.2014 UNDER ROADS (WORKS, USE AND COMPENSATION) ORDINANCE (CHAPTER 370)*",
+                null
+              ],
+              [
+                "23121801530066",
+                "2023-11-23",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992469926349322,
@@ -842,7 +2532,63 @@
         1106111444,
         null,
         "48E KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 209 S.F",
+            "Old Schedule Lot",
+            "C1991585",
+            [
+              [
+                "TP188974",
+                "1978-03-07",
+                "CONVEYANCE ON SALE",
+                "75000.0"
+              ],
+              [
+                "TP449079",
+                "1994-07-01",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TP451283",
+                "1994-08-04",
+                "-",
+                null
+              ],
+              [
+                "TP458591",
+                "1994-12-30",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TP472598",
+                "1995-07-31",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TP680181",
+                "2002-01-30",
+                "BUILDING LICENCE NO.21/2001 WITH PLAN",
+                null
+              ],
+              [
+                "TP718164",
+                "2004-01-06",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "TP725585",
+                "2004-06-09",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924670693686437,
@@ -861,7 +2607,75 @@
         1106111454,
         null,
         "48C KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 207 RP",
+            "Old Schedule Lot",
+            "C1991538",
+            [
+              [
+                "TP382907",
+                "1992-01-08",
+                "-",
+                "243936.0"
+              ],
+              [
+                "TP387877",
+                "1992-01-08",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TP387879",
+                "1992-04-07",
+                "-",
+                "121968.0"
+              ],
+              [
+                "TP405375",
+                "1992-04-07",
+                "DEED POLL WITH PLAN RE S.A & R.P.",
+                null
+              ],
+              [
+                "TP461933",
+                "1995-03-15",
+                "BUILDING LICENCE NO.59/94",
+                null
+              ],
+              [
+                "TP680735",
+                "1996-10-15",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "TP681254",
+                "2002-02-25",
+                "ASSIGNMENT",
+                "2800000.0"
+              ],
+              [
+                "TP680736",
+                "2002-02-25",
+                "DEED OF CONFIRMATION",
+                null
+              ],
+              [
+                "TP681253",
+                "2002-02-25",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2800000.0"
+              ],
+              [
+                "14102400520012",
+                "2014-10-09",
+                "G.N. 5814 DATED 9.10.2014 UNDER ROADS (WORKS, USE AND COMPENSATION) ORDINANCE (CHAPTER 370)*",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924691511119326,
@@ -880,7 +2694,63 @@
         1106111478,
         null,
         "48 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 205 S.E SS.1 RP",
+            "Old Schedule Lot",
+            "C1991452",
+            [
+              [
+                "TP231222",
+                "1985-07-03",
+                "DECLARATION OF YIP CHIU TAI",
+                null
+              ],
+              [
+                "TP233441",
+                "1985-08-28",
+                "ASSENT",
+                null
+              ],
+              [
+                "TP410297",
+                "1992-12-22",
+                "-",
+                null
+              ],
+              [
+                "TP683767",
+                "2002-04-09",
+                "DEED POLL (WITH PLAN) (RE : S.B AND RP)",
+                null
+              ],
+              [
+                "TP687647",
+                "2002-06-24",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "21092801680075",
+                "2021-08-31",
+                "DEED POLL WITH PLAN",
+                null
+              ],
+              [
+                "25101700350070",
+                "2025-09-29",
+                "DEED OF CONSENT WITH PLAN",
+                ""
+              ],
+              [
+                "25101700350060",
+                "2025-09-29",
+                "DEED OF CONSENT WITH PLAN",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992472612578407,
@@ -899,7 +2769,187 @@
         1106111481,
         null,
         "49B KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 203 S.A SS.8",
+            "Old Schedule Lot",
+            "D5387504",
+            [
+              [
+                "TP620692",
+                "1999-12-08",
+                "ASSIGNMENT",
+                "160000.0"
+              ],
+              [
+                "21100800350027",
+                "2021-08-30",
+                "ASSIGNMENT",
+                "2000000.0"
+              ],
+              [
+                "22031700210047",
+                "2022-02-28",
+                "DEED OF GRANT OF RIGHT OF WAY AND EASEMENT",
+                null
+              ],
+              [
+                "22031700210029",
+                "2022-02-28",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "880000.0"
+              ],
+              [
+                "22031700210030",
+                "2022-02-28",
+                "ASSIGNMENT",
+                "880000.0"
+              ]
+            ]
+          ],
+          [
+            "DD9 203 S.A SS.9",
+            "Old Schedule Lot",
+            "D5387517",
+            [
+              [
+                "TP620692",
+                "1999-12-08",
+                "ASSIGNMENT",
+                "160000.0"
+              ],
+              [
+                "21100800350027",
+                "2021-08-30",
+                "ASSIGNMENT",
+                "2000000.0"
+              ],
+              [
+                "22031700210047",
+                "2022-02-28",
+                "DEED OF GRANT OF RIGHT OF WAY AND EASEMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD9 203 S.C SS.3",
+            "Old Schedule Lot",
+            "D5387543",
+            [
+              [
+                "TP620922",
+                "1999-12-08",
+                "ASSIGNMENT",
+                "80000.0"
+              ],
+              [
+                "21100800350027",
+                "2021-08-30",
+                "ASSIGNMENT",
+                "2000000.0"
+              ],
+              [
+                "22031700210047",
+                "2022-02-28",
+                "DEED OF GRANT OF RIGHT OF WAY AND EASEMENT",
+                null
+              ],
+              [
+                "25103000370117",
+                "2025-10-09",
+                "DEED OF UNDERTAKING AND COVENANT WITH PLAN",
+                ""
+              ],
+              [
+                "25103000370106",
+                "2025-10-09",
+                "DEED OF UNDERTAKING AND COVENANT WITH PLAN",
+                ""
+              ],
+              [
+                "25103000370094",
+                "2025-10-09",
+                "DEED OF UNDERTAKING AND COVENANT WITH PLAN",
+                ""
+              ]
+            ]
+          ],
+          [
+            "DD9 203 S.C SS.4",
+            "Old Schedule Lot",
+            "D5387558",
+            [
+              [
+                "TP620922",
+                "1999-12-08",
+                "ASSIGNMENT",
+                "80000.0"
+              ],
+              [
+                "21100800350027",
+                "2021-08-30",
+                "ASSIGNMENT",
+                "2000000.0"
+              ],
+              [
+                "22031700210047",
+                "2022-02-28",
+                "DEED OF GRANT OF RIGHT OF WAY AND EASEMENT",
+                null
+              ],
+              [
+                "25103000370117",
+                "2025-10-09",
+                "DEED OF UNDERTAKING AND COVENANT WITH PLAN",
+                ""
+              ],
+              [
+                "25103000370094",
+                "2025-10-09",
+                "DEED OF UNDERTAKING AND COVENANT WITH PLAN",
+                ""
+              ],
+              [
+                "25103000370106",
+                "2025-10-09",
+                "DEED OF UNDERTAKING AND COVENANT WITH PLAN",
+                ""
+              ]
+            ]
+          ],
+          [
+            "DD9 205 S.E SS.1 S.C",
+            "Old Schedule Lot",
+            "D5248642",
+            [
+              [
+                "TP231222",
+                "1985-07-03",
+                "DECLARATION OF YIP CHIU TAI",
+                null
+              ],
+              [
+                "TP687647",
+                "2002-06-24",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "21092801680096",
+                "2021-08-31",
+                "ASSIGNMENT",
+                "80000.0"
+              ],
+              [
+                "21092801680088",
+                "2021-08-31",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "80000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924747154646203,
@@ -918,7 +2968,51 @@
         1106111482,
         null,
         "48G KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 205 S.E SS.1 S.B RP",
+            "Old Schedule Lot",
+            "D5248671",
+            [
+              [
+                "TP231222",
+                "1985-07-03",
+                "DECLARATION OF YIP CHIU TAI",
+                null
+              ],
+              [
+                "09082700780053",
+                "2009-07-29",
+                "ASSENT",
+                null
+              ],
+              [
+                "21101201930029",
+                "2021-09-01",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "21101201930011",
+                "2021-09-01",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "500000.0"
+              ],
+              [
+                "25101700350070",
+                "2025-09-29",
+                "DEED OF CONSENT WITH PLAN",
+                ""
+              ],
+              [
+                "25101700350060",
+                "2025-09-29",
+                "DEED OF CONSENT WITH PLAN",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924724088167791,
@@ -937,7 +3031,76 @@
         1106111484,
         null,
         "49A KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 203 S.A SS.9",
+            "Old Schedule Lot",
+            "D5387517",
+            [
+              [
+                "TP620692",
+                "1999-12-08",
+                "ASSIGNMENT",
+                "160000.0"
+              ],
+              [
+                "21100800350027",
+                "2021-08-30",
+                "ASSIGNMENT",
+                "2000000.0"
+              ],
+              [
+                "22031700210047",
+                "2022-02-28",
+                "DEED OF GRANT OF RIGHT OF WAY AND EASEMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD9 203 S.C SS.4",
+            "Old Schedule Lot",
+            "D5387558",
+            [
+              [
+                "TP620922",
+                "1999-12-08",
+                "ASSIGNMENT",
+                "80000.0"
+              ],
+              [
+                "21100800350027",
+                "2021-08-30",
+                "ASSIGNMENT",
+                "2000000.0"
+              ],
+              [
+                "22031700210047",
+                "2022-02-28",
+                "DEED OF GRANT OF RIGHT OF WAY AND EASEMENT",
+                null
+              ],
+              [
+                "25103000370117",
+                "2025-10-09",
+                "DEED OF UNDERTAKING AND COVENANT WITH PLAN",
+                ""
+              ],
+              [
+                "25103000370094",
+                "2025-10-09",
+                "DEED OF UNDERTAKING AND COVENANT WITH PLAN",
+                ""
+              ],
+              [
+                "25103000370106",
+                "2025-10-09",
+                "DEED OF UNDERTAKING AND COVENANT WITH PLAN",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924745460591426,
@@ -956,7 +3119,51 @@
         1106111488,
         null,
         "50B KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 205 S.E SS.1 S.A RP",
+            "Old Schedule Lot",
+            "D2860657",
+            [
+              [
+                "TP231222",
+                "1985-07-03",
+                "DECLARATION OF YIP CHIU TAI",
+                null
+              ],
+              [
+                "TP508566",
+                "1996-09-05",
+                "BUILDING LICENCE NO. 14/95 (WITH PLAN)",
+                null
+              ],
+              [
+                "09082700780049",
+                "2009-07-29",
+                "ASSENT",
+                null
+              ],
+              [
+                "21092801680042",
+                "2021-08-31",
+                "DEED POLL WITH PLAN",
+                null
+              ],
+              [
+                "24010400550021",
+                "2023-12-14",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "25101700350070",
+                "2025-09-29",
+                "DEED OF CONSENT WITH PLAN",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924720303377856,
@@ -975,7 +3182,76 @@
         1106111493,
         null,
         "49 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 203 S.A SS.9",
+            "Old Schedule Lot",
+            "D5387517",
+            [
+              [
+                "TP620692",
+                "1999-12-08",
+                "ASSIGNMENT",
+                "160000.0"
+              ],
+              [
+                "21100800350027",
+                "2021-08-30",
+                "ASSIGNMENT",
+                "2000000.0"
+              ],
+              [
+                "22031700210047",
+                "2022-02-28",
+                "DEED OF GRANT OF RIGHT OF WAY AND EASEMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD9 203 S.C SS.4",
+            "Old Schedule Lot",
+            "D5387558",
+            [
+              [
+                "TP620922",
+                "1999-12-08",
+                "ASSIGNMENT",
+                "80000.0"
+              ],
+              [
+                "21100800350027",
+                "2021-08-30",
+                "ASSIGNMENT",
+                "2000000.0"
+              ],
+              [
+                "22031700210047",
+                "2022-02-28",
+                "DEED OF GRANT OF RIGHT OF WAY AND EASEMENT",
+                null
+              ],
+              [
+                "25103000370117",
+                "2025-10-09",
+                "DEED OF UNDERTAKING AND COVENANT WITH PLAN",
+                ""
+              ],
+              [
+                "25103000370094",
+                "2025-10-09",
+                "DEED OF UNDERTAKING AND COVENANT WITH PLAN",
+                ""
+              ],
+              [
+                "25103000370106",
+                "2025-10-09",
+                "DEED OF UNDERTAKING AND COVENANT WITH PLAN",
+                ""
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924742926813688,
@@ -994,7 +3270,105 @@
         1106111508,
         null,
         "50 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 210 S.A RP",
+            "Old Schedule Lot",
+            "D2277241",
+            [
+              [
+                "TP205007",
+                "1981-08-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP210371",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KOON LIN",
+                null
+              ],
+              [
+                "TP210374",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LI KWAN TIM & LI AH TIM",
+                null
+              ],
+              [
+                "TP210373",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KWAN YUK",
+                null
+              ],
+              [
+                "TP210372",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KWAN CHOI",
+                null
+              ],
+              [
+                "TP670377",
+                "2001-06-07",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "07072402740093",
+                "2007-07-12",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "10010600130029",
+                "2009-12-07",
+                "ASSENT",
+                null
+              ],
+              [
+                "10010600130017",
+                "2009-12-07",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "10121600040069",
+                "2010-12-06",
+                "ASSENT",
+                null
+              ],
+              [
+                "11040400160066",
+                "2010-12-06",
+                "RE-REGISTRATION OF ASSENT MEM. NO.10121600040069",
+                null
+              ],
+              [
+                "10121600040056",
+                "2010-12-06",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "23020801670036",
+                "2023-01-20",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ],
+              [
+                "23020801670049",
+                "2023-01-20",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ],
+              [
+                "23012700390029",
+                "2023-01-20",
+                "DEED POLL WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924739234937199,
@@ -1013,7 +3387,105 @@
         1106111515,
         null,
         "50 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 210 S.A RP",
+            "Old Schedule Lot",
+            "D2277241",
+            [
+              [
+                "TP205007",
+                "1981-08-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP210371",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KOON LIN",
+                null
+              ],
+              [
+                "TP210374",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LI KWAN TIM & LI AH TIM",
+                null
+              ],
+              [
+                "TP210373",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KWAN YUK",
+                null
+              ],
+              [
+                "TP210372",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KWAN CHOI",
+                null
+              ],
+              [
+                "TP670377",
+                "2001-06-07",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "07072402740093",
+                "2007-07-12",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "10010600130029",
+                "2009-12-07",
+                "ASSENT",
+                null
+              ],
+              [
+                "10010600130017",
+                "2009-12-07",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "10121600040069",
+                "2010-12-06",
+                "ASSENT",
+                null
+              ],
+              [
+                "11040400160066",
+                "2010-12-06",
+                "RE-REGISTRATION OF ASSENT MEM. NO.10121600040069",
+                null
+              ],
+              [
+                "10121600040056",
+                "2010-12-06",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "23020801670036",
+                "2023-01-20",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ],
+              [
+                "23020801670049",
+                "2023-01-20",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ],
+              [
+                "23012700390029",
+                "2023-01-20",
+                "DEED POLL WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924737184307388,
@@ -1032,7 +3504,105 @@
         1106111521,
         null,
         "51 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 210 S.A RP",
+            "Old Schedule Lot",
+            "D2277241",
+            [
+              [
+                "TP205007",
+                "1981-08-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP210371",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KOON LIN",
+                null
+              ],
+              [
+                "TP210374",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LI KWAN TIM & LI AH TIM",
+                null
+              ],
+              [
+                "TP210373",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KWAN YUK",
+                null
+              ],
+              [
+                "TP210372",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KWAN CHOI",
+                null
+              ],
+              [
+                "TP670377",
+                "2001-06-07",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "07072402740093",
+                "2007-07-12",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "10010600130029",
+                "2009-12-07",
+                "ASSENT",
+                null
+              ],
+              [
+                "10010600130017",
+                "2009-12-07",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "10121600040069",
+                "2010-12-06",
+                "ASSENT",
+                null
+              ],
+              [
+                "11040400160066",
+                "2010-12-06",
+                "RE-REGISTRATION OF ASSENT MEM. NO.10121600040069",
+                null
+              ],
+              [
+                "10121600040056",
+                "2010-12-06",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "23020801670036",
+                "2023-01-20",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ],
+              [
+                "23020801670049",
+                "2023-01-20",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ],
+              [
+                "23012700390029",
+                "2023-01-20",
+                "DEED POLL WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992473511494526,
@@ -1051,7 +3621,105 @@
         1106111528,
         null,
         "52 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 210 S.A RP",
+            "Old Schedule Lot",
+            "D2277241",
+            [
+              [
+                "TP205007",
+                "1981-08-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP210371",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KOON LIN",
+                null
+              ],
+              [
+                "TP210374",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LI KWAN TIM & LI AH TIM",
+                null
+              ],
+              [
+                "TP210373",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KWAN YUK",
+                null
+              ],
+              [
+                "TP210372",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KWAN CHOI",
+                null
+              ],
+              [
+                "TP670377",
+                "2001-06-07",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "07072402740093",
+                "2007-07-12",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "10010600130029",
+                "2009-12-07",
+                "ASSENT",
+                null
+              ],
+              [
+                "10010600130017",
+                "2009-12-07",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "10121600040069",
+                "2010-12-06",
+                "ASSENT",
+                null
+              ],
+              [
+                "11040400160066",
+                "2010-12-06",
+                "RE-REGISTRATION OF ASSENT MEM. NO.10121600040069",
+                null
+              ],
+              [
+                "10121600040056",
+                "2010-12-06",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "23020801670036",
+                "2023-01-20",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ],
+              [
+                "23020801670049",
+                "2023-01-20",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ],
+              [
+                "23012700390029",
+                "2023-01-20",
+                "DEED POLL WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924733060463047,
@@ -1070,7 +3738,105 @@
         1106111532,
         null,
         null,
-        []
+        [
+          [
+            "DD9 210 S.A RP",
+            "Old Schedule Lot",
+            "D2277241",
+            [
+              [
+                "TP205007",
+                "1981-08-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP210371",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KOON LIN",
+                null
+              ],
+              [
+                "TP210374",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LI KWAN TIM & LI AH TIM",
+                null
+              ],
+              [
+                "TP210373",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KWAN YUK",
+                null
+              ],
+              [
+                "TP210372",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KWAN CHOI",
+                null
+              ],
+              [
+                "TP670377",
+                "2001-06-07",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "07072402740093",
+                "2007-07-12",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "10010600130029",
+                "2009-12-07",
+                "ASSENT",
+                null
+              ],
+              [
+                "10010600130017",
+                "2009-12-07",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "10121600040069",
+                "2010-12-06",
+                "ASSENT",
+                null
+              ],
+              [
+                "11040400160066",
+                "2010-12-06",
+                "RE-REGISTRATION OF ASSENT MEM. NO.10121600040069",
+                null
+              ],
+              [
+                "10121600040056",
+                "2010-12-06",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "23020801670036",
+                "2023-01-20",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ],
+              [
+                "23020801670049",
+                "2023-01-20",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ],
+              [
+                "23012700390029",
+                "2023-01-20",
+                "DEED POLL WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924744777243057,
@@ -1089,7 +3855,105 @@
         1106111534,
         null,
         "53 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 210 S.A RP",
+            "Old Schedule Lot",
+            "D2277241",
+            [
+              [
+                "TP205007",
+                "1981-08-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP210371",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KOON LIN",
+                null
+              ],
+              [
+                "TP210374",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LI KWAN TIM & LI AH TIM",
+                null
+              ],
+              [
+                "TP210373",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KWAN YUK",
+                null
+              ],
+              [
+                "TP210372",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KWAN CHOI",
+                null
+              ],
+              [
+                "TP670377",
+                "2001-06-07",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "07072402740093",
+                "2007-07-12",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "10010600130029",
+                "2009-12-07",
+                "ASSENT",
+                null
+              ],
+              [
+                "10010600130017",
+                "2009-12-07",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "10121600040069",
+                "2010-12-06",
+                "ASSENT",
+                null
+              ],
+              [
+                "11040400160066",
+                "2010-12-06",
+                "RE-REGISTRATION OF ASSENT MEM. NO.10121600040069",
+                null
+              ],
+              [
+                "10121600040056",
+                "2010-12-06",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "23020801670036",
+                "2023-01-20",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ],
+              [
+                "23020801670049",
+                "2023-01-20",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ],
+              [
+                "23012700390029",
+                "2023-01-20",
+                "DEED POLL WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924731066376813,
@@ -1108,7 +3972,39 @@
         1106111536,
         null,
         "50E KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 227 RP",
+            "Old Schedule Lot",
+            "D2277256",
+            [
+              [
+                "TP656036",
+                "2001-02-02",
+                "ASSENT",
+                null
+              ],
+              [
+                "TP737142",
+                "2005-01-12",
+                "BUILDING LICENCE NO.94/2003 (WITH PLAN)",
+                null
+              ],
+              [
+                "07032300690010",
+                "2007-03-05",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ],
+              [
+                "13111801140016",
+                "2013-11-05",
+                "DEED POLL WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992470304874837,
@@ -1127,7 +4023,99 @@
         1106111541,
         null,
         "54 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 210 S.A SS.1",
+            "Old Schedule Lot",
+            "D5762775",
+            [
+              [
+                "TP205007",
+                "1981-08-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP210373",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KWAN YUK",
+                null
+              ],
+              [
+                "TP210372",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KWAN CHOI",
+                null
+              ],
+              [
+                "TP210374",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LI KWAN TIM & LI AH TIM",
+                null
+              ],
+              [
+                "TP210371",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KOON LIN",
+                null
+              ],
+              [
+                "TP670377",
+                "2001-06-07",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "07072402740093",
+                "2007-07-12",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "10010600130029",
+                "2009-12-07",
+                "ASSENT",
+                null
+              ],
+              [
+                "10010600130017",
+                "2009-12-07",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "10121600040069",
+                "2010-12-06",
+                "ASSENT",
+                null
+              ],
+              [
+                "10121600040056",
+                "2010-12-06",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "11040400160066",
+                "2010-12-06",
+                "RE-REGISTRATION OF ASSENT MEM. NO.10121600040069",
+                null
+              ],
+              [
+                "23022000900032",
+                "2023-01-20",
+                "ASSIGNMENT",
+                "150000.0"
+              ],
+              [
+                "23022000900028",
+                "2023-01-20",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "150000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992472889964177,
@@ -1146,7 +4134,33 @@
         1106111545,
         null,
         null,
-        []
+        [
+          [
+            "DD9 204 RP",
+            "Old Schedule Lot",
+            "C1991366",
+            [
+              [
+                "TP140229",
+                "1959-10-24",
+                "-",
+                "10000.0"
+              ],
+              [
+                "TP737207",
+                "2004-09-21",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "05041100980114",
+                "2005-03-12",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925010141458936,
@@ -1165,7 +4179,33 @@
         1106111554,
         null,
         null,
-        []
+        [
+          [
+            "DD9 204 RP",
+            "Old Schedule Lot",
+            "C1991366",
+            [
+              [
+                "TP140229",
+                "1959-10-24",
+                "-",
+                "10000.0"
+              ],
+              [
+                "TP737207",
+                "2004-09-21",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "05041100980114",
+                "2005-03-12",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925020918904204,
@@ -1184,7 +4224,27 @@
         1106111563,
         null,
         null,
-        []
+        [
+          [
+            "DD9 1443",
+            "New Grant Lot",
+            "C2008090",
+            [
+              [
+                "TP737207",
+                "2004-09-21",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "05041100980114",
+                "2005-03-12",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924972512682653,
@@ -1203,7 +4263,105 @@
         1106111566,
         null,
         "54B KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 210 S.A RP",
+            "Old Schedule Lot",
+            "D2277241",
+            [
+              [
+                "TP205007",
+                "1981-08-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP210371",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KOON LIN",
+                null
+              ],
+              [
+                "TP210374",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LI KWAN TIM & LI AH TIM",
+                null
+              ],
+              [
+                "TP210373",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KWAN YUK",
+                null
+              ],
+              [
+                "TP210372",
+                "1982-10-04",
+                "POWER OF ATTORNEY BY LEE KWAN CHOI",
+                null
+              ],
+              [
+                "TP670377",
+                "2001-06-07",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "07072402740093",
+                "2007-07-12",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "10010600130029",
+                "2009-12-07",
+                "ASSENT",
+                null
+              ],
+              [
+                "10010600130017",
+                "2009-12-07",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "10121600040069",
+                "2010-12-06",
+                "ASSENT",
+                null
+              ],
+              [
+                "11040400160066",
+                "2010-12-06",
+                "RE-REGISTRATION OF ASSENT MEM. NO.10121600040069",
+                null
+              ],
+              [
+                "10121600040056",
+                "2010-12-06",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "23020801670036",
+                "2023-01-20",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ],
+              [
+                "23020801670049",
+                "2023-01-20",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ],
+              [
+                "23012700390029",
+                "2023-01-20",
+                "DEED POLL WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924719763992487,
@@ -1222,7 +4380,33 @@
         1106111576,
         null,
         null,
-        []
+        [
+          [
+            "DD9 204 RP",
+            "Old Schedule Lot",
+            "C1991366",
+            [
+              [
+                "TP140229",
+                "1959-10-24",
+                "-",
+                "10000.0"
+              ],
+              [
+                "TP737207",
+                "2004-09-21",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "05041100980114",
+                "2005-03-12",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992498600048622,
@@ -1241,7 +4425,57 @@
         1106111579,
         null,
         "55 KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 211 RP",
+            "Old Schedule Lot",
+            "C6077792",
+            [
+              [
+                "TP139089",
+                "1959-01-29",
+                "-",
+                "1500.0"
+              ],
+              [
+                "TP334561",
+                "1990-10-24",
+                "STATUTORY DECLARATION OF CHUI WAN ALSO KNOWN AS TSUI WAN",
+                null
+              ],
+              [
+                "TP595772",
+                "1999-02-05",
+                "DEED OF RECTIFICATION (WITH PLAN) OF M/N 407686",
+                null
+              ],
+              [
+                "10101401960041",
+                "2010-10-05",
+                "PROBATE",
+                null
+              ],
+              [
+                "11041100990094",
+                "2011-03-31",
+                "ASSENT",
+                null
+              ],
+              [
+                "12020301990017",
+                "2012-01-17",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "13022102040030",
+                "2013-02-19",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924733859426025,
@@ -1260,7 +4494,33 @@
         1106111581,
         null,
         null,
-        []
+        [
+          [
+            "DD9 204 RP",
+            "Old Schedule Lot",
+            "C1991366",
+            [
+              [
+                "TP140229",
+                "1959-10-24",
+                "-",
+                "10000.0"
+              ],
+              [
+                "TP737207",
+                "2004-09-21",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "05041100980114",
+                "2005-03-12",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924970173270036,
@@ -1279,7 +4539,57 @@
         1106111594,
         null,
         null,
-        []
+        [
+          [
+            "DD9 211 RP",
+            "Old Schedule Lot",
+            "C6077792",
+            [
+              [
+                "TP139089",
+                "1959-01-29",
+                "-",
+                "1500.0"
+              ],
+              [
+                "TP334561",
+                "1990-10-24",
+                "STATUTORY DECLARATION OF CHUI WAN ALSO KNOWN AS TSUI WAN",
+                null
+              ],
+              [
+                "TP595772",
+                "1999-02-05",
+                "DEED OF RECTIFICATION (WITH PLAN) OF M/N 407686",
+                null
+              ],
+              [
+                "10101401960041",
+                "2010-10-05",
+                "PROBATE",
+                null
+              ],
+              [
+                "11041100990094",
+                "2011-03-31",
+                "ASSENT",
+                null
+              ],
+              [
+                "12020301990017",
+                "2012-01-17",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "13022102040030",
+                "2013-02-19",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924729119972882,
@@ -1298,7 +4608,81 @@
         1106111596,
         null,
         "55A KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 213 S.C SS.6",
+            "Old Schedule Lot",
+            "C1991933",
+            [
+              [
+                "TP461062",
+                "1994-07-20",
+                "TOLERATION LETTER",
+                null
+              ],
+              [
+                "TP727916",
+                "1995-06-21",
+                "CERTIFIED COPY CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "TP670378",
+                "2001-07-17",
+                "ASSENT",
+                null
+              ],
+              [
+                "TP737247",
+                "2004-11-25",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "2400000.0"
+              ],
+              [
+                "TP737248",
+                "2004-12-23",
+                "ASSIGNMENT",
+                "2400000.0"
+              ],
+              [
+                "TP737249",
+                "2004-12-23",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "14061900540010",
+                "2014-06-12",
+                "RELEASE",
+                "ALL MONEYS"
+              ],
+              [
+                "15100601410079",
+                "2015-09-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "9800000.0"
+              ],
+              [
+                "15122401310019",
+                "2015-12-15",
+                "ASSIGNMENT",
+                "9800000.0"
+              ],
+              [
+                "15122901810022",
+                "2015-12-15",
+                "SECOND MORTGAGE",
+                "2250000.0"
+              ],
+              [
+                "15121601750198",
+                "2015-12-15",
+                "LEGAL CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924785971428358,
@@ -1317,7 +4701,21 @@
         1106111631,
         null,
         "55B KAU LUNG HANG",
-        []
+        [
+          [
+            "DD9 211 S.C SS.1",
+            "Old Schedule Lot",
+            "D2080433",
+            [
+              [
+                "12021401060019",
+                "2012-01-17",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924725111478854,
@@ -1336,7 +4734,93 @@
         1106111764,
         null,
         null,
-        []
+        [
+          [
+            "DD9 217",
+            "Old Schedule Lot",
+            "C6040932",
+            [
+              [
+                "TP45788",
+                "1920-04-27",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "TP45790",
+                "1920-04-27",
+                "-",
+                "50.0"
+              ],
+              [
+                "TP74195",
+                "1929-11-28",
+                "MORTGAGE",
+                "1500.0"
+              ],
+              [
+                "TP74194",
+                "1929-11-28",
+                "SALE",
+                "2600.0"
+              ],
+              [
+                "TP74886",
+                "1930-01-08",
+                "REDEMPTION",
+                "1500.0"
+              ],
+              [
+                "TP74972",
+                "1930-01-14",
+                "SALE",
+                "1500.0"
+              ],
+              [
+                "TP76413",
+                "1930-05-09",
+                "SALE",
+                "1500.0"
+              ],
+              [
+                "TP115656",
+                "1947-01-20",
+                "-",
+                null
+              ],
+              [
+                "TP125225",
+                "1949-12-19",
+                "-",
+                "1000.0"
+              ],
+              [
+                "15052902640068",
+                "2015-05-27",
+                "CERTIFIED TRUE COPY OF ENFORCEMENT NOTICE ISSUED UNDER SECTION  23(1) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "15120901980039",
+                "2015-12-08",
+                "CERTIFIED TRUE COPY OF NOTICE ISSUED UNDER SECTION 23(8A) OF THE TOWN PLANNING ORDINANCE",
+                null
+              ],
+              [
+                "17120802240037",
+                "2017-11-17",
+                "ASSIGNMENT",
+                "4400000.0"
+              ],
+              [
+                "17112801670026",
+                "2017-11-17",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4400000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992486548642047,
@@ -1355,7 +4839,39 @@
         1106111799,
         null,
         null,
-        []
+        [
+          [
+            "DD9 274",
+            "New Grant Lot",
+            "C1993055",
+            [
+              [
+                "TP77572",
+                "1930-11-07",
+                "MORTGAGE",
+                "2000.0"
+              ],
+              [
+                "TP157781",
+                "1966-05-20",
+                "MORTGAGE",
+                "3500.0"
+              ],
+              [
+                "TP160372",
+                "1967-05-30",
+                "TRANSFER OF MORTGAGE RE 1/2 SHARE",
+                "1750.0"
+              ],
+              [
+                "TP206097",
+                "1981-11-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992468849608099,
@@ -1374,7 +4890,39 @@
         1106111823,
         null,
         null,
-        []
+        [
+          [
+            "DD9 274",
+            "New Grant Lot",
+            "C1993055",
+            [
+              [
+                "TP77572",
+                "1930-11-07",
+                "MORTGAGE",
+                "2000.0"
+              ],
+              [
+                "TP157781",
+                "1966-05-20",
+                "MORTGAGE",
+                "3500.0"
+              ],
+              [
+                "TP160372",
+                "1967-05-30",
+                "TRANSFER OF MORTGAGE RE 1/2 SHARE",
+                "1750.0"
+              ],
+              [
+                "TP206097",
+                "1981-11-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924692288767762,
@@ -1393,7 +4941,39 @@
         1106111831,
         null,
         null,
-        []
+        [
+          [
+            "DD9 274",
+            "New Grant Lot",
+            "C1993055",
+            [
+              [
+                "TP77572",
+                "1930-11-07",
+                "MORTGAGE",
+                "2000.0"
+              ],
+              [
+                "TP157781",
+                "1966-05-20",
+                "MORTGAGE",
+                "3500.0"
+              ],
+              [
+                "TP160372",
+                "1967-05-30",
+                "TRANSFER OF MORTGAGE RE 1/2 SHARE",
+                "1750.0"
+              ],
+              [
+                "TP206097",
+                "1981-11-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924688628235032,
@@ -1412,7 +4992,39 @@
         1106111832,
         null,
         null,
-        []
+        [
+          [
+            "DD9 274",
+            "New Grant Lot",
+            "C1993055",
+            [
+              [
+                "TP77572",
+                "1930-11-07",
+                "MORTGAGE",
+                "2000.0"
+              ],
+              [
+                "TP157781",
+                "1966-05-20",
+                "MORTGAGE",
+                "3500.0"
+              ],
+              [
+                "TP160372",
+                "1967-05-30",
+                "TRANSFER OF MORTGAGE RE 1/2 SHARE",
+                "1750.0"
+              ],
+              [
+                "TP206097",
+                "1981-11-10",
+                "SUCCESSION TO PROPERTY",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924673842796463,
@@ -1469,7 +5081,39 @@
         1106112400,
         "CLOUDY HILL RADIO STATION",
         null,
-        []
+        [
+          [
+            "DD97 16",
+            "New Grant Lot",
+            "C2010500",
+            [
+              [
+                "TP390521",
+                "1992-06-02",
+                "PARTICULAR AND CONDITION OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TP629690",
+                "1994-01-13",
+                "CERTIFIED COPY OF CERTIFICATE OF INCORPORATION OF CHANGE OF NAME",
+                null
+              ],
+              [
+                "TP499245",
+                "1996-06-18",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "TP636127",
+                "1999-03-05",
+                "CERTIFIED COPY OF CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9926223595376011,
@@ -1526,7 +5170,166 @@
         1106137570,
         null,
         null,
-        []
+        [
+          [
+            "DD9 191 S.B SS.3",
+            "Old Schedule Lot",
+            "C1991060",
+            [
+              [
+                "TP98073",
+                "1936-12-16",
+                "-",
+                "145.0"
+              ],
+              [
+                "TP166886",
+                "1970-12-09",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TP437791",
+                "1993-11-09",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "TP502456",
+                "1996-09-16",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "TP659626",
+                "2001-03-06",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "08111800440013",
+                "2008-11-03",
+                "BUILDING LICENCE NO.165/2003 WITH PLAN",
+                null
+              ],
+              [
+                "12062602090021",
+                "2011-11-30",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "12022701230014",
+                "2012-02-02",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "12062602090031",
+                "2012-05-07",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "12070602010049",
+                "2012-06-16",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6000000.0"
+              ],
+              [
+                "12072001660024",
+                "2012-06-26",
+                "ASSIGNMENT",
+                "6000000.0"
+              ],
+              [
+                "12072001660041",
+                "2012-06-26",
+                "ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "12072001660033",
+                "2012-06-26",
+                "LEGAL CHARGE/ MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "13110600860154",
+                "2013-10-29",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD9 192 S.A SS.2",
+            "Old Schedule Lot",
+            "C1991158",
+            [
+              [
+                "TP437791",
+                "1993-11-09",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "TP502450",
+                "1996-09-09",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "08111800440013",
+                "2008-11-03",
+                "BUILDING LICENCE NO.165/2003 WITH PLAN",
+                null
+              ],
+              [
+                "12062602090021",
+                "2011-11-30",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "12022701230014",
+                "2012-02-02",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "12062602090031",
+                "2012-05-07",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "12070602010049",
+                "2012-06-16",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "6000000.0"
+              ],
+              [
+                "12072001660024",
+                "2012-06-26",
+                "ASSIGNMENT",
+                "6000000.0"
+              ],
+              [
+                "12072001660041",
+                "2012-06-26",
+                "ASSIGNMENT OF RENTALS",
+                null
+              ],
+              [
+                "12072001660033",
+                "2012-06-26",
+                "LEGAL CHARGE/ MORTGAGE",
+                "ALL MONIES"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924728556039453,
@@ -1545,7 +5348,51 @@
         1106137571,
         null,
         null,
-        []
+        [
+          [
+            "DD9 192 S.A SS.3",
+            "Old Schedule Lot",
+            "C1991169",
+            [
+              [
+                "TP437791",
+                "1993-11-09",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "TP502451",
+                "1996-09-09",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "08093001730128",
+                "2008-08-20",
+                "BUILDING LICENCE NO.138/2007 WITH PLAN",
+                null
+              ],
+              [
+                "13051502490089",
+                "2011-11-30",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "12022701230014",
+                "2012-02-02",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "13051502490097",
+                "2013-04-15",
+                "CONSENT LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924703798756878,
@@ -1564,7 +5411,129 @@
         1106137572,
         "BEETH OVEN",
         null,
-        []
+        [
+          [
+            "DD9 192 S.A RP",
+            "Old Schedule Lot",
+            "C1991134",
+            [
+              [
+                "TP437791",
+                "1993-11-09",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "09100801580029",
+                "1996-09-09",
+                "RE-REGISTRATION OF DEED OF GIFT MEMORIAL NO.TP502452",
+                null
+              ],
+              [
+                "TP502452",
+                "1996-09-09",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "09071401520014",
+                "2009-02-05",
+                "BUILDING LICENCE NO. 435/2000 WITH PLAN",
+                null
+              ],
+              [
+                "11122101540030",
+                "2011-11-14",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "12022701230014",
+                "2012-02-02",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "14060500460011",
+                "2014-04-29",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "14061700280101",
+                "2014-06-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "5600000.0"
+              ],
+              [
+                "14081800340096",
+                "2014-07-23",
+                "ASSIGNMENT",
+                "5600000.0"
+              ],
+              [
+                "14102400520012",
+                "2014-10-09",
+                "G.N. 5814 DATED 9.10.2014 UNDER ROADS (WORKS, USE AND COMPENSATION) ORDINANCE (CHAPTER 370)*",
+                null
+              ],
+              [
+                "18020600480043",
+                "2018-01-15",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "10000000.0"
+              ],
+              [
+                "18021300360047",
+                "2018-01-29",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "10000000.0"
+              ],
+              [
+                "18040600620120",
+                "2018-03-15",
+                "MORTGAGE",
+                "ALL MONEY"
+              ],
+              [
+                "18040600620112",
+                "2018-03-15",
+                "ASSIGNMENT",
+                "10000000.0"
+              ],
+              [
+                "21102100320202",
+                "2021-09-08",
+                "ORDER NO. \"VHN/E51/100013/21/NT\"  UNDER S. 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "22122900320053",
+                "2022-11-17",
+                "SECOND MORTGAGE",
+                "TO SECURE GENERAL CREDIT FACILITIES TO THE EXTENT OF $2,000,000.00"
+              ],
+              [
+                "23041400450122",
+                "2023-04-11",
+                "LEGAL CHARGE",
+                "ALL SUMS OF MONEY"
+              ],
+              [
+                "23050300520039",
+                "2023-04-11",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "23042500730048",
+                "2023-04-11",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924691143948852,
@@ -1583,7 +5552,33 @@
         1106137573,
         null,
         null,
-        []
+        [
+          [
+            "DD9 192 S.C",
+            "Old Schedule Lot",
+            "C1991180",
+            [
+              [
+                "TP168121",
+                "1971-07-06",
+                "CONVEYANCE ON SALE",
+                "2500.0"
+              ],
+              [
+                "TP420062",
+                "1993-05-28",
+                "-",
+                "60000.0"
+              ],
+              [
+                "TP705499",
+                "2003-06-23",
+                "BUILDING LICENCE NO.231/2002 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924740685236852,
@@ -1602,7 +5597,58 @@
         1106137574,
         null,
         null,
-        []
+        [
+          [
+            "DD9 192 S.D",
+            "Old Schedule Lot",
+            "C1991190",
+            [
+              [
+                "TP168121",
+                "1971-07-06",
+                "CONVEYANCE ON SALE",
+                "2500.0"
+              ],
+              [
+                "TP420063",
+                "1993-05-28",
+                "ASSIGNMENT",
+                "22000.0"
+              ],
+              [
+                "TP732835",
+                "2004-10-26",
+                "BUILDING LICENCE NO.234/2002 WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD9 197 S.A SS.3",
+            "Old Schedule Lot",
+            "C1991256",
+            [
+              [
+                "TP410700",
+                "1992-12-31",
+                "-",
+                "81312.0"
+              ],
+              [
+                "TP420060",
+                "1993-05-28",
+                "ASSIGNMENT",
+                "42000.0"
+              ],
+              [
+                "TP732835",
+                "2004-10-26",
+                "BUILDING LICENCE NO.234/2002 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924749208731922,
@@ -1621,7 +5667,93 @@
         1106137575,
         null,
         null,
-        []
+        [
+          [
+            "DD9 193 S.A",
+            "Old Schedule Lot",
+            "C5956911",
+            [
+              [
+                "TP133828",
+                "1955-10-01",
+                "-",
+                "450.0"
+              ],
+              [
+                "TP166886",
+                "1970-12-09",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TP437791",
+                "1993-11-09",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "TP502459",
+                "1996-09-16",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "05111001690016",
+                "2005-10-24",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "05111001690028",
+                "2005-10-25",
+                "DEED OF CONSENT  WITH PLAN",
+                null
+              ],
+              [
+                "09031900330077",
+                "2009-02-24",
+                "BUILDING LICENCE NO.134/2007 WITH PLAN",
+                null
+              ],
+              [
+                "12060701140021",
+                "2012-05-07",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "12080300990029",
+                "2012-07-11",
+                "ASSIGNMENT",
+                "7000000.0"
+              ],
+              [
+                "12080300990011",
+                "2012-07-11",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7000000.0"
+              ],
+              [
+                "16072001460048",
+                "2016-07-11",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "10200000.0"
+              ],
+              [
+                "16121401860061",
+                "2016-11-30",
+                "ASSIGNMENT",
+                "10200000.0"
+              ],
+              [
+                "16121401860079",
+                "2016-11-30",
+                "MORTGAGE",
+                "ALL MONIES"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924720836500402,
@@ -1640,7 +5772,51 @@
         1106137576,
         null,
         null,
-        []
+        [
+          [
+            "DD9 193 RP",
+            "Old Schedule Lot",
+            "C1991201",
+            [
+              [
+                "TP133828",
+                "1955-10-01",
+                "-",
+                "450.0"
+              ],
+              [
+                "TP166886",
+                "1970-12-09",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TP437791",
+                "1993-11-09",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "TP502459",
+                "1996-09-16",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "05111001690028",
+                "2005-10-25",
+                "DEED OF CONSENT  WITH PLAN",
+                null
+              ],
+              [
+                "09031900330097",
+                "2009-02-27",
+                "BUILDING LICENCE NO.13/2003 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924725737768707,
@@ -1659,7 +5835,69 @@
         1106137578,
         null,
         null,
-        []
+        [
+          [
+            "DD9 209 S.A",
+            "Old Schedule Lot",
+            "C6441918",
+            [
+              [
+                "TP188974",
+                "1978-03-07",
+                "CONVEYANCE ON SALE",
+                "75000.0"
+              ],
+              [
+                "TP449079",
+                "1994-07-01",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TP451283",
+                "1994-08-04",
+                "-",
+                null
+              ],
+              [
+                "TP458586",
+                "1994-12-30",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TP573725",
+                "1998-05-27",
+                "ASSIGNMENT",
+                "150000.0"
+              ],
+              [
+                "TP605838",
+                "1999-06-02",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "TP661834",
+                "2001-04-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "05111802040023",
+                "2005-11-12",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "06052200030016",
+                "2006-04-04",
+                "BUILDING LICENCE NO. 182/2003 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992466274755888,
@@ -1678,7 +5916,57 @@
         1106137579,
         null,
         "170 KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 206 S.B",
+            "Old Schedule Lot",
+            "C1991511",
+            [
+              [
+                "TP698988",
+                "2003-01-08",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "TP698989",
+                "2003-01-20",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "05061801740059",
+                "2005-06-02",
+                "ASSIGNMENT",
+                "150000.0"
+              ],
+              [
+                "10100802480014",
+                "2010-09-27",
+                "BUILDING LICENCE NO. 46/2009 WITH PLAN",
+                null
+              ],
+              [
+                "11070800330031",
+                "2011-06-22",
+                "DEED OF CONSENT AND GRANT OF EASEMENTS WITH PLAN",
+                null
+              ],
+              [
+                "11122000710174",
+                "2011-11-09",
+                "CONSENT LETTER WITH PLAN",
+                null
+              ],
+              [
+                "16031401570072",
+                "2016-02-23",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924702658398319,
@@ -1697,7 +5985,69 @@
         1106137582,
         null,
         "262 KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 209 S.B",
+            "Old Schedule Lot",
+            "C1991564",
+            [
+              [
+                "TP188974",
+                "1978-03-07",
+                "CONVEYANCE ON SALE",
+                "75000.0"
+              ],
+              [
+                "TP449079",
+                "1994-07-01",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "TP451283",
+                "1994-08-04",
+                "-",
+                null
+              ],
+              [
+                "TP458587",
+                "1994-12-30",
+                "-",
+                "100000.0"
+              ],
+              [
+                "TP591449",
+                "1998-12-17",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "TP605838",
+                "1999-06-02",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "TP608306",
+                "1999-06-15",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "TP661834",
+                "2001-04-06",
+                "DEED OF CONSENT",
+                null
+              ],
+              [
+                "08060403120215",
+                "2008-05-16",
+                "BUILDING LICENCE NO. 148/2007 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924668979345341,
@@ -1716,7 +6066,45 @@
         1106137584,
         null,
         "172A KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 206 S.D",
+            "Old Schedule Lot",
+            "C5541188",
+            [
+              [
+                "TP698988",
+                "2003-01-08",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "TP698989",
+                "2003-01-20",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "TP721763",
+                "2004-04-20",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "09052001350127",
+                "2009-05-04",
+                "BUILDING LICENCE NO. 77/2008 WITH PLAN",
+                null
+              ],
+              [
+                "11051700290012",
+                "2011-04-15",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924703983674095,
@@ -1735,7 +6123,82 @@
         1106137588,
         null,
         null,
-        []
+        [
+          [
+            "DD9 229 S.A RP",
+            "Old Schedule Lot",
+            "D2860692",
+            [
+              [
+                "TP476498",
+                "1995-04-19",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TP563286",
+                "1996-04-23",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TP563287",
+                "1998-02-09",
+                "CONFIRMATION LETTER",
+                null
+              ],
+              [
+                "TP563288",
+                "1998-02-26",
+                "ASSIGNMENT",
+                "150000.0"
+              ],
+              [
+                "09120200450042",
+                "2009-11-13",
+                "BUILDING LICENCE NO. 50/2008 WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD9 229 S.B RP",
+            "Old Schedule Lot",
+            "D2860701",
+            [
+              [
+                "TP476498",
+                "1995-04-19",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "TP563286",
+                "1996-04-23",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TP563287",
+                "1998-02-09",
+                "CONFIRMATION LETTER",
+                null
+              ],
+              [
+                "TP563288",
+                "1998-02-26",
+                "ASSIGNMENT",
+                "150000.0"
+              ],
+              [
+                "09120200450042",
+                "2009-11-13",
+                "BUILDING LICENCE NO. 50/2008 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924646659657321,
@@ -1773,7 +6236,45 @@
         1109564252,
         null,
         "171 KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 206 S.A",
+            "Old Schedule Lot",
+            "C6040922",
+            [
+              [
+                "TP698988",
+                "2003-01-08",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "TP698989",
+                "2003-01-20",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "TP721762",
+                "2004-04-20",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "08061300830113",
+                "2008-05-26",
+                "BUILDING LICENCE NO. 217/2007 WITH PLAN",
+                null
+              ],
+              [
+                "08072901870030",
+                "2008-07-23",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992470100228258,
@@ -1792,7 +6293,69 @@
         1109564548,
         null,
         null,
-        []
+        [
+          [
+            "DD9 198 S.A",
+            "Old Schedule Lot",
+            "C1991286",
+            [
+              [
+                "TP31789",
+                "1916-01-03",
+                "-",
+                "70.0"
+              ],
+              [
+                "TP53729",
+                "1922-11-06",
+                "MORTGAGE",
+                "150.0"
+              ],
+              [
+                "TP60808",
+                "1924-09-15",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "TP133298",
+                "1955-06-07",
+                "MORTGAGE",
+                "2000.0"
+              ],
+              [
+                "TP133826",
+                "1955-10-01",
+                "REDEMPTION OF MORTGAGE",
+                null
+              ],
+              [
+                "TP184549",
+                "1976-11-23",
+                "-",
+                "13000.0"
+              ],
+              [
+                "TP551486",
+                "1997-10-31",
+                "RECTIFICATION OF ERROR IN SUCCESSION M/N 94253",
+                null
+              ],
+              [
+                "19071000320034",
+                "2016-03-21",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "19071000320047",
+                "2019-06-28",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924756154207293,
@@ -1811,7 +6374,51 @@
         1810051642,
         null,
         null,
-        []
+        [
+          [
+            "DD9 224 RP",
+            "Old Schedule Lot",
+            "D0904520",
+            [
+              [
+                "TP699681",
+                "2003-02-06",
+                "ASSIGNMENT",
+                "250000.0"
+              ],
+              [
+                "09052501740016",
+                "2009-05-08",
+                "ASSIGNMENT",
+                "150000.0"
+              ],
+              [
+                "10121402870139",
+                "2010-12-03",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ],
+              [
+                "12020101700014",
+                "2012-01-06",
+                "BUILDING LICENCE NO. 125/2010 WITH PLAN",
+                null
+              ],
+              [
+                "13032501170039",
+                "2013-02-27",
+                "DEED OF GRANT OF RIGHT OF WAY",
+                null
+              ],
+              [
+                "14060900810065",
+                "2014-04-30",
+                "CONSENT LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924648474330007,
@@ -1868,7 +6475,45 @@
         1810086452,
         null,
         "177 KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 205 S.A RP",
+            "Old Schedule Lot",
+            "D2860647",
+            [
+              [
+                "TP488485",
+                "1996-05-01",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "06091201640029",
+                "2006-09-08",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "09030201680013",
+                "2009-02-20",
+                "SUPPLEMENTAL DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "13042900550435",
+                "2013-03-25",
+                "BUILDING LICENCE NO. 92/2012 WITH PLAN",
+                null
+              ],
+              [
+                "22112502050041",
+                "2021-03-22",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924743344758011,
@@ -1887,7 +6532,63 @@
         1810103640,
         null,
         "190 KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 194 S.A",
+            "Old Schedule Lot",
+            "D1535789",
+            [
+              [
+                "09060100980024",
+                "2009-05-19",
+                "ASSIGNMENT",
+                "300000.0"
+              ],
+              [
+                "09092402830018",
+                "2009-09-10",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "15081700240024",
+                "2015-08-13",
+                "DEED OF GRANT OF RIGHT",
+                null
+              ],
+              [
+                "15081700240045",
+                "2015-08-13",
+                "DEED OF GRANT OF RIGHT",
+                null
+              ],
+              [
+                "15081700240035",
+                "2015-08-13",
+                "DEED OF GRANT OF RIGHT",
+                null
+              ],
+              [
+                "16081101190078",
+                "2016-07-22",
+                "BUILDING LICENCE NO. 80/2013 WITH PLAN",
+                null
+              ],
+              [
+                "25052202000021",
+                "2025-05-09",
+                "ASSIGNMENT",
+                "9980000.0"
+              ],
+              [
+                "25052202000019",
+                "2025-05-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "9980000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924682138414966,
@@ -1906,7 +6607,166 @@
         1810130491,
         null,
         "185 KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 191 S.B SS.2",
+            "Old Schedule Lot",
+            "C4896221",
+            [
+              [
+                "TP98073",
+                "1936-12-16",
+                "-",
+                "145.0"
+              ],
+              [
+                "TP166886",
+                "1970-12-09",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "TP437791",
+                "1993-11-09",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "TP502455",
+                "1996-09-16",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "08111801390010",
+                "2008-10-29",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "10022202670151",
+                "2010-02-03",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "10070502130040",
+                "2010-06-19",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "12022701230014",
+                "2012-02-02",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "12032700700021",
+                "2012-03-20",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "13110600860154",
+                "2013-10-29",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "14121100950038",
+                "2014-11-26",
+                "BUILDING LICENCE NO. 46/2014 WITH PLAN",
+                null
+              ],
+              [
+                "17052501380151",
+                "2016-05-16",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "17052501380165",
+                "2017-04-12",
+                "CONSENT LETTER",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD9 192 S.A SS.1",
+            "Old Schedule Lot",
+            "C1991146",
+            [
+              [
+                "TP437791",
+                "1993-11-09",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "TP502453",
+                "1996-09-10",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "08111801390010",
+                "2008-10-29",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "10022202670151",
+                "2010-02-03",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "10070502130040",
+                "2010-06-19",
+                "ASSIGNMENT",
+                "600000.0"
+              ],
+              [
+                "11011202920022",
+                "2010-12-30",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "12022701230014",
+                "2012-02-02",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "13110600860154",
+                "2013-10-29",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "14121100950038",
+                "2014-11-26",
+                "BUILDING LICENCE NO. 46/2014 WITH PLAN",
+                null
+              ],
+              [
+                "17052501380151",
+                "2016-05-16",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "17052501380165",
+                "2017-04-12",
+                "CONSENT LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924717934271996,
@@ -1925,7 +6785,51 @@
         1810130933,
         null,
         "191 KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 194 S.B",
+            "Old Schedule Lot",
+            "D1535791",
+            [
+              [
+                "09060100980024",
+                "2009-05-19",
+                "ASSIGNMENT",
+                "300000.0"
+              ],
+              [
+                "11091602200018",
+                "2011-08-23",
+                "ASSIGNMENT",
+                "400000.0"
+              ],
+              [
+                "15081700240045",
+                "2015-08-13",
+                "DEED OF GRANT OF RIGHT",
+                null
+              ],
+              [
+                "15081700240024",
+                "2015-08-13",
+                "DEED OF GRANT OF RIGHT",
+                null
+              ],
+              [
+                "16051800990027",
+                "2016-04-28",
+                "BUILDING LICENCE NO. 71/2014 WITH PLAN",
+                null
+              ],
+              [
+                "24080500270031",
+                "2019-08-01",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924694574445652,
@@ -1944,7 +6848,63 @@
         1810132697,
         null,
         null,
-        []
+        [
+          [
+            "DD9 1380",
+            "New Grant Lot",
+            "C2007917",
+            [
+              [
+                "TP443299",
+                "1994-04-13",
+                "SEALED COPY ORDER (NO.A10410 OF 1993)",
+                null
+              ],
+              [
+                "TP467259",
+                "1995-05-30",
+                "SEALED COPY ORDER (VACATED)",
+                null
+              ],
+              [
+                "TP503288",
+                "1996-09-24",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "TP554793",
+                "1997-12-12",
+                "CERTIFICATE OF CHARGE ON PROPERTY UNDER SECTION 18A(1) AND (3A)",
+                null
+              ],
+              [
+                "TP629570",
+                "2000-05-15",
+                "CERTIFICATE OF SATISFACTION OF CHARGE UNDER S.18A(1) AND (3A)",
+                null
+              ],
+              [
+                "TP699124",
+                "2003-01-24",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "11102102790112",
+                "2011-10-10",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "250000.0"
+              ],
+              [
+                "11112402330012",
+                "2011-11-21",
+                "ASSIGNMENT",
+                "250000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925010197091808,
@@ -1963,7 +6923,57 @@
         1810134329,
         null,
         "192 KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 194 RP",
+            "Old Schedule Lot",
+            "D1535803",
+            [
+              [
+                "09060100980024",
+                "2009-05-19",
+                "ASSIGNMENT",
+                "300000.0"
+              ],
+              [
+                "09110902570017",
+                "2009-11-02",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "11091602200022",
+                "2011-05-18",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "15081700240045",
+                "2015-08-13",
+                "DEED OF GRANT OF RIGHT",
+                null
+              ],
+              [
+                "16030301760057",
+                "2016-02-05",
+                "BUILDING LICENCE NO. 63/2014 WITH PLAN",
+                null
+              ],
+              [
+                "24080500270046",
+                "2019-08-16",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "24080200340076",
+                "2024-07-22",
+                "LOAN AGREEMENT",
+                "AMOUNT OF LOAN: $200,000.00"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924700966573405,
@@ -1982,7 +6992,45 @@
         1810154068,
         null,
         "46 KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 205 S.E RP",
+            "Old Schedule Lot",
+            "C1991433",
+            [
+              [
+                "TP199302",
+                "1980-05-24",
+                "CONVEYANCE ON SALE",
+                null
+              ],
+              [
+                "TP420467",
+                "1993-06-10",
+                "DEED POLL WITH PLAN RE S.E SS.2 & S.E R.P.",
+                null
+              ],
+              [
+                "TP420469",
+                "1993-06-10",
+                "-",
+                null
+              ],
+              [
+                "17101200610064",
+                "2017-09-20",
+                "BUILDING LICENCE NO. 48/2016 WITH PLAN",
+                null
+              ],
+              [
+                "18091000400010",
+                "2018-08-23",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924730099498817,
@@ -2001,7 +7049,87 @@
         1810155498,
         null,
         "45 KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 205 S.F SS.1",
+            "Old Schedule Lot",
+            "D2453502",
+            [
+              [
+                "11102600070012",
+                "2011-10-17",
+                "ASSIGNMENT",
+                "980000.0"
+              ],
+              [
+                "14041000570019",
+                "2014-03-11",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "14050800890076",
+                "2014-05-02",
+                "CONFIRMATORY DEED",
+                null
+              ],
+              [
+                "14121000160012",
+                "2014-11-25",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1450000.0"
+              ],
+              [
+                "14121000160029",
+                "2014-11-25",
+                "ASSIGNMENT",
+                "1450000.0"
+              ],
+              [
+                "17080700320011",
+                "2017-07-04",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "17080800190014",
+                "2017-07-27",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "17121100930040",
+                "2017-11-28",
+                "BUILDING LICENCE NO. 49/2016 WITH PLAN",
+                null
+              ],
+              [
+                "18051400990031",
+                "2018-04-18",
+                "REVOCATION OF BUILDING LICENCE NO. 774/52",
+                null
+              ],
+              [
+                "19041800450014",
+                "2019-04-16",
+                "DEED OF UNDERTAKING AND COVENANT WITH PLANS",
+                null
+              ],
+              [
+                "21020400220017",
+                "2020-11-04",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "21021801370066",
+                "2021-01-26",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924732096451818,
@@ -2020,7 +7148,93 @@
         1810155499,
         null,
         "43 KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 205 S.F SS.2 S.A",
+            "Old Schedule Lot",
+            "D2681993",
+            [
+              [
+                "11102600070012",
+                "2011-10-17",
+                "ASSIGNMENT",
+                "980000.0"
+              ],
+              [
+                "14050800890076",
+                "2014-05-02",
+                "CONFIRMATORY DEED",
+                null
+              ],
+              [
+                "14121000160036",
+                "2014-11-25",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "850000.0"
+              ],
+              [
+                "14121000160046",
+                "2014-11-25",
+                "ASSIGNMENT",
+                "850000.0"
+              ],
+              [
+                "16011100190023",
+                "2015-12-29",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLANS",
+                null
+              ],
+              [
+                "16011100190011",
+                "2015-12-29",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLANS",
+                null
+              ],
+              [
+                "17080800190014",
+                "2017-07-27",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "18020800250028",
+                "2018-01-29",
+                "DEED OF UNDERTAKING AND CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "18051400990031",
+                "2018-04-18",
+                "REVOCATION OF BUILDING LICENCE NO. 774/52",
+                null
+              ],
+              [
+                "18051400990028",
+                "2018-04-18",
+                "BUILDING LICENCE NO. 50/2016 WITH PLAN",
+                null
+              ],
+              [
+                "20112000190013",
+                "2020-11-04",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "21021801370066",
+                "2021-01-26",
+                "DEED OF GRANT OF RIGHT OF WAY WITH PLAN",
+                null
+              ],
+              [
+                "21021801370051",
+                "2021-01-26",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924736188479222,
@@ -2039,7 +7253,39 @@
         1810176666,
         null,
         "47 KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 205 S.E SS.2 S.A",
+            "Old Schedule Lot",
+            "D3260404",
+            [
+              [
+                "16011502060017",
+                "2016-01-11",
+                "ASSIGNMENT",
+                "2250000.0"
+              ],
+              [
+                "17080800190014",
+                "2017-07-27",
+                "DEED OF CONSENT WITH PLAN",
+                null
+              ],
+              [
+                "19071000810024",
+                "2019-06-20",
+                "BUILDING LICENCE NO. 43/2018 WITH PLAN",
+                null
+              ],
+              [
+                "20120100200027",
+                "2020-11-04",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924728170570114,
@@ -2058,7 +7304,76 @@
         1810189321,
         null,
         null,
-        []
+        [
+          [
+            "DD9 210 S.C",
+            "Old Schedule Lot",
+            "D1969324",
+            [
+              [
+                "11052700210080",
+                "2011-05-19",
+                "ASSIGNMENT",
+                "240000.0"
+              ],
+              [
+                "11112802390034",
+                "2011-11-18",
+                "ASSIGNMENT",
+                "400000.0"
+              ],
+              [
+                "20012101240041",
+                "2019-12-17",
+                "BUILDING LICENCE NO. 55/2019 WITH PLAN",
+                null
+              ],
+              [
+                "23020801670049",
+                "2023-01-20",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD9 226 S.C",
+            "Old Schedule Lot",
+            "D1969279",
+            [
+              [
+                "07060100070055",
+                "2007-05-08",
+                "ASSIGNMENT",
+                "1625000.0"
+              ],
+              [
+                "11112802390034",
+                "2011-11-18",
+                "ASSIGNMENT",
+                "400000.0"
+              ],
+              [
+                "20012101240041",
+                "2019-12-17",
+                "BUILDING LICENCE NO. 55/2019 WITH PLAN",
+                null
+              ],
+              [
+                "23020801670049",
+                "2023-01-20",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ],
+              [
+                "23020801670036",
+                "2023-01-20",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924705438660242,
@@ -2077,7 +7392,27 @@
         1810190408,
         null,
         "11 KAU LUNG HANG LO WAI",
-        []
+        [
+          [
+            "DD9 1515",
+            "New Grant Lot",
+            "C6744634",
+            [
+              [
+                "14050502490020",
+                "2014-04-10",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "25090400390018",
+                "2025-08-08",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992472827763904,
@@ -2096,7 +7431,70 @@
         1810190946,
         null,
         null,
-        []
+        [
+          [
+            "DD9 210 S.B",
+            "Old Schedule Lot",
+            "D1969317",
+            [
+              [
+                "11052700210080",
+                "2011-05-19",
+                "ASSIGNMENT",
+                "240000.0"
+              ],
+              [
+                "12020102180018",
+                "2012-01-20",
+                "ASSIGNMENT",
+                "400000.0"
+              ],
+              [
+                "23020901350029",
+                "2023-01-18",
+                "BUILDING LICENCE NO. 65/2019 WITH PLAN",
+                null
+              ],
+              [
+                "23020801670036",
+                "2023-01-20",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD9 226 S.B",
+            "Old Schedule Lot",
+            "D1969262",
+            [
+              [
+                "07060100070055",
+                "2007-05-08",
+                "ASSIGNMENT",
+                "1625000.0"
+              ],
+              [
+                "12020102180018",
+                "2012-01-20",
+                "ASSIGNMENT",
+                "400000.0"
+              ],
+              [
+                "23020901350029",
+                "2023-01-18",
+                "BUILDING LICENCE NO. 65/2019 WITH PLAN",
+                null
+              ],
+              [
+                "23020801670036",
+                "2023-01-20",
+                "DEED OF GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924708892971772,
@@ -2115,7 +7513,75 @@
         1910226234,
         null,
         null,
-        []
+        [
+          [
+            "DD9 169",
+            "Old Schedule Lot",
+            "C4896183",
+            [
+              [
+                "TP37718",
+                "1918-01-22",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "TP66331",
+                "1927-01-17",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "TP89809",
+                "1934-05-14",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "TP99777",
+                "1937-05-10",
+                "APPOINTMENT OF TRUSTEE",
+                null
+              ],
+              [
+                "TP133154",
+                "1955-04-27",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TP138592",
+                "1958-11-03",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TP145668",
+                "1961-11-14",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "TP189704",
+                "1978-05-05",
+                "CANCELLATION OF MANAGER",
+                null
+              ],
+              [
+                "TP210495",
+                "1982-11-08",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "TP210496",
+                "1982-11-08",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924957425450034,

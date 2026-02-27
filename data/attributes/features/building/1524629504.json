@@ -291,7 +291,21 @@
         1106126367,
         null,
         null,
-        []
+        [
+          [
+            "DD284 401 S.A",
+            "New Grant Lot",
+            "C1833169",
+            [
+              [
+                "TP117794",
+                "1947-09-27",
+                "-",
+                "750.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994931785429335,
@@ -310,7 +324,21 @@
         1106126370,
         null,
         "12B LAI CHI CHONG",
-        []
+        [
+          [
+            "DD284 401 S.B",
+            "New Grant Lot",
+            "C5814167",
+            [
+              [
+                "13041000480110",
+                "2013-03-14",
+                "APPROVAL LETTER OF SUCCESSION UNDER S. 17 OF THE N.T. ORDINANCE (CAP. 97)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9949324967762498,
@@ -329,7 +357,27 @@
         1106126392,
         null,
         null,
-        []
+        [
+          [
+            "DD284 409",
+            "New Grant Lot",
+            "C1833191",
+            [
+              [
+                "TP204038",
+                "1981-04-01",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "TP204039",
+                "1981-05-12",
+                "CONVEYANCE ON SALE",
+                "80000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9949250685372681,
@@ -348,7 +396,27 @@
         1106126394,
         null,
         null,
-        []
+        [
+          [
+            "DD284 410",
+            "New Grant Lot",
+            "C1833208",
+            [
+              [
+                "TP204038",
+                "1981-04-01",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "TP204040",
+                "1981-05-12",
+                "CONVEYANCE ON SALE",
+                "80000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9949243643832066,
@@ -367,7 +435,51 @@
         1106126478,
         null,
         null,
-        []
+        [
+          [
+            "DD284 366",
+            "Old Schedule Lot",
+            "C6577531",
+            [
+              [
+                "TP44676",
+                "1920-02-04",
+                "-",
+                null
+              ],
+              [
+                "TP550429",
+                "1997-10-14",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF LI KAN WAI TSO",
+                null
+              ],
+              [
+                "TP550430",
+                "1997-10-22",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "10052802540016",
+                "2010-04-30",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "3801916.8"
+              ],
+              [
+                "10120202650045",
+                "2010-11-17",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "10121502460043",
+                "2010-12-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3801916.8"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9949279544730452,
@@ -386,7 +498,51 @@
         1106126482,
         null,
         null,
-        []
+        [
+          [
+            "DD284 367",
+            "Old Schedule Lot",
+            "C6393901",
+            [
+              [
+                "TP146227",
+                "1962-01-11",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "11110901570019",
+                "2011-10-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1991998.8"
+              ],
+              [
+                "11120101800010",
+                "2011-11-24",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1991998.8"
+              ],
+              [
+                "12020801810013",
+                "2012-01-20",
+                "ASSIGNMENT",
+                "1991998.8"
+              ],
+              [
+                "13042500450121",
+                "2012-10-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "18101500280017",
+                "2018-08-27",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994929937660485,
@@ -405,7 +561,27 @@
         1106126490,
         null,
         "6 LAI CHI CHONG",
-        []
+        [
+          [
+            "DD284 402",
+            "New Grant Lot",
+            "C6620946",
+            [
+              [
+                "TP148830",
+                "1962-12-18",
+                "-",
+                null
+              ],
+              [
+                "13042500450121",
+                "2012-10-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9949347184204596,
@@ -424,7 +600,51 @@
         1106126491,
         null,
         "7A LAI CHI CHONG",
-        []
+        [
+          [
+            "DD284 370",
+            "Old Schedule Lot",
+            "C1833092",
+            [
+              [
+                "TP146227",
+                "1962-01-11",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "11110901570019",
+                "2011-10-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1991998.8"
+              ],
+              [
+                "11120101800010",
+                "2011-11-24",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1991998.8"
+              ],
+              [
+                "12020801810013",
+                "2012-01-20",
+                "ASSIGNMENT",
+                "1991998.8"
+              ],
+              [
+                "13042500450121",
+                "2012-10-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "18101500280017",
+                "2018-08-27",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9949340378081055,
@@ -443,7 +663,51 @@
         1106126494,
         null,
         null,
-        []
+        [
+          [
+            "DD284 370",
+            "Old Schedule Lot",
+            "C1833092",
+            [
+              [
+                "TP146227",
+                "1962-01-11",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "11110901570019",
+                "2011-10-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1991998.8"
+              ],
+              [
+                "11120101800010",
+                "2011-11-24",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1991998.8"
+              ],
+              [
+                "12020801810013",
+                "2012-01-20",
+                "ASSIGNMENT",
+                "1991998.8"
+              ],
+              [
+                "13042500450121",
+                "2012-10-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "18101500280017",
+                "2018-08-27",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994933372645936,
@@ -462,7 +726,51 @@
         1106126496,
         null,
         null,
-        []
+        [
+          [
+            "DD284 367",
+            "Old Schedule Lot",
+            "C6393901",
+            [
+              [
+                "TP146227",
+                "1962-01-11",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "11110901570019",
+                "2011-10-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1991998.8"
+              ],
+              [
+                "11120101800010",
+                "2011-11-24",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1991998.8"
+              ],
+              [
+                "12020801810013",
+                "2012-01-20",
+                "ASSIGNMENT",
+                "1991998.8"
+              ],
+              [
+                "13042500450121",
+                "2012-10-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "18101500280017",
+                "2018-08-27",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9949301879417556,
@@ -481,7 +789,51 @@
         1106126497,
         null,
         null,
-        []
+        [
+          [
+            "DD284 370",
+            "Old Schedule Lot",
+            "C1833092",
+            [
+              [
+                "TP146227",
+                "1962-01-11",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "11110901570019",
+                "2011-10-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1991998.8"
+              ],
+              [
+                "11120101800010",
+                "2011-11-24",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1991998.8"
+              ],
+              [
+                "12020801810013",
+                "2012-01-20",
+                "ASSIGNMENT",
+                "1991998.8"
+              ],
+              [
+                "13042500450121",
+                "2012-10-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "18101500280017",
+                "2018-08-27",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994932719037783,
@@ -500,7 +852,33 @@
         1106126503,
         null,
         "9 LAI CHI CHONG",
-        []
+        [
+          [
+            "DD284 368",
+            "Old Schedule Lot",
+            "C1833072",
+            [
+              [
+                "TP151973",
+                "1964-01-14",
+                "-",
+                null
+              ],
+              [
+                "12030601180041",
+                "2010-11-17",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF HUI SHING FAT TSO",
+                null
+              ],
+              [
+                "12030601180058",
+                "2012-02-20",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF HUI SHING FAT TSO",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9949313675520866,
@@ -519,7 +897,63 @@
         1106126508,
         null,
         "10 LAI CHI CHONG",
-        []
+        [
+          [
+            "DD284 407",
+            "New Grant Lot",
+            "C1833186",
+            [
+              [
+                "TP282207",
+                "1988-03-31",
+                "STATUTORY DECLARATION OF TIN YEUNG LEE ALSO KNOWN AS LI TIN YEUNG",
+                null
+              ],
+              [
+                "TP282208",
+                "1988-04-11",
+                "DECLARATION OF LOSS",
+                null
+              ],
+              [
+                "TP282209",
+                "1988-04-22",
+                "VESTING ASSIGNMENT",
+                null
+              ],
+              [
+                "TP282210",
+                "1988-05-05",
+                "DEED OF GIFT",
+                null
+              ],
+              [
+                "10052602590012",
+                "2010-04-27",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "713510.0"
+              ],
+              [
+                "10120202650035",
+                "2010-11-17",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "10123002160037",
+                "2010-12-10",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "713510.0"
+              ],
+              [
+                "11032202360087",
+                "2011-03-09",
+                "ASSIGNMENT",
+                "713510.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9949275022466941,
@@ -538,7 +972,27 @@
         1106126510,
         null,
         "11 LAI CHI CHONG",
-        []
+        [
+          [
+            "DD284 406",
+            "New Grant Lot",
+            "C1833176",
+            [
+              [
+                "07031201530066",
+                "2007-01-31",
+                "PROBATE",
+                null
+              ],
+              [
+                "11110701590030",
+                "2011-10-17",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9949268112617202,
@@ -557,7 +1011,33 @@
         1106126512,
         null,
         null,
-        []
+        [
+          [
+            "DD284 405 &EXT",
+            "New Grant Lot",
+            "C5726376",
+            [
+              [
+                "TP152136",
+                "1963-12-18",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "07031201530066",
+                "2007-01-31",
+                "PROBATE",
+                null
+              ],
+              [
+                "11110701590030",
+                "2011-10-17",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9949260748243849,
@@ -576,7 +1056,33 @@
         1106126514,
         null,
         null,
-        []
+        [
+          [
+            "DD284 405 &EXT",
+            "New Grant Lot",
+            "C5726376",
+            [
+              [
+                "TP152136",
+                "1963-12-18",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "07031201530066",
+                "2007-01-31",
+                "PROBATE",
+                null
+              ],
+              [
+                "11110701590030",
+                "2011-10-17",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9949253582970843,
@@ -595,7 +1101,51 @@
         1106126515,
         null,
         null,
-        []
+        [
+          [
+            "DD284 366",
+            "Old Schedule Lot",
+            "C6577531",
+            [
+              [
+                "TP44676",
+                "1920-02-04",
+                "-",
+                null
+              ],
+              [
+                "TP550429",
+                "1997-10-14",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF LI KAN WAI TSO",
+                null
+              ],
+              [
+                "TP550430",
+                "1997-10-22",
+                "APPROVAL OF APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "10052802540016",
+                "2010-04-30",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "3801916.8"
+              ],
+              [
+                "10120202650045",
+                "2010-11-17",
+                "CANCELLATION AGREEMENT",
+                null
+              ],
+              [
+                "10121502460043",
+                "2010-12-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3801916.8"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.994929604081564,
@@ -633,7 +1183,51 @@
         1106126550,
         null,
         null,
-        []
+        [
+          [
+            "DD284 398",
+            "New Grant Lot",
+            "C1833145",
+            [
+              [
+                "TP151973",
+                "1964-01-14",
+                "-",
+                null
+              ],
+              [
+                "12030601180041",
+                "2010-11-17",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF HUI SHING FAT TSO",
+                null
+              ],
+              [
+                "12030601180058",
+                "2012-02-20",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF HUI SHING FAT TSO",
+                null
+              ],
+              [
+                "12060402260019",
+                "2012-05-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7220864.0"
+              ],
+              [
+                "14040402320018",
+                "2013-01-09",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "13030702040013",
+                "2013-02-18",
+                "ASSIGNMENT",
+                "7220864.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9949308340967433,
@@ -652,7 +1246,51 @@
         1106126554,
         null,
         null,
-        []
+        [
+          [
+            "DD284 398",
+            "New Grant Lot",
+            "C1833145",
+            [
+              [
+                "TP151973",
+                "1964-01-14",
+                "-",
+                null
+              ],
+              [
+                "12030601180041",
+                "2010-11-17",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF HUI SHING FAT TSO",
+                null
+              ],
+              [
+                "12030601180058",
+                "2012-02-20",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF HUI SHING FAT TSO",
+                null
+              ],
+              [
+                "12060402260019",
+                "2012-05-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7220864.0"
+              ],
+              [
+                "14040402320018",
+                "2013-01-09",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "13030702040013",
+                "2013-02-18",
+                "ASSIGNMENT",
+                "7220864.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9949287872583255,
@@ -671,7 +1309,51 @@
         1106126557,
         null,
         null,
-        []
+        [
+          [
+            "DD284 398",
+            "New Grant Lot",
+            "C1833145",
+            [
+              [
+                "TP151973",
+                "1964-01-14",
+                "-",
+                null
+              ],
+              [
+                "12030601180041",
+                "2010-11-17",
+                "NOTICE OF DEATH AND APPOINTMENT OF MANAGER OF HUI SHING FAT TSO",
+                null
+              ],
+              [
+                "12030601180058",
+                "2012-02-20",
+                "APPROVAL OF APPOINTMENT OF MANAGER OF HUI SHING FAT TSO",
+                null
+              ],
+              [
+                "12060402260019",
+                "2012-05-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7220864.0"
+              ],
+              [
+                "14040402320018",
+                "2013-01-09",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "13030702040013",
+                "2013-02-18",
+                "ASSIGNMENT",
+                "7220864.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9949280793097026,
@@ -690,7 +1372,27 @@
         1106126566,
         null,
         "5 LAI CHI CHONG",
-        []
+        [
+          [
+            "DD284 408",
+            "New Grant Lot",
+            "C4876563",
+            [
+              [
+                "11041402600014",
+                "2011-04-04",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "952000.0"
+              ],
+              [
+                "11062302490104",
+                "2011-06-07",
+                "ASSIGNMENT",
+                "952000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9949256217056353,
@@ -728,7 +1430,63 @@
         1106138324,
         null,
         null,
-        []
+        [
+          [
+            "DD284 201",
+            "Old Schedule Lot",
+            "C1832241",
+            [
+              [
+                "TP145303",
+                "1961-10-06",
+                "-",
+                null
+              ],
+              [
+                "TP415229",
+                "1992-07-15",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "TP455717",
+                "1994-11-24",
+                "-",
+                null
+              ],
+              [
+                "TP652914",
+                "2000-12-19",
+                "BUILDING LICENCE NO.163/98 (WITH PLAN)",
+                null
+              ],
+              [
+                "25051202080174",
+                "2024-08-05",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "25052202000043",
+                "2025-03-25",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "25052700010029",
+                "2025-05-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3890000.0"
+              ],
+              [
+                "25070300010054",
+                "2025-06-11",
+                "ASSIGNMENT",
+                "3890000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9949267261349395,
@@ -747,7 +1505,63 @@
         1106138325,
         null,
         null,
-        []
+        [
+          [
+            "DD284 363",
+            "Old Schedule Lot",
+            "C5871130",
+            [
+              [
+                "TP145303",
+                "1961-10-06",
+                "-",
+                null
+              ],
+              [
+                "TP415229",
+                "1992-07-15",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "TP455716",
+                "1994-11-24",
+                "-",
+                null
+              ],
+              [
+                "09042802510047",
+                "2009-03-26",
+                "BUILDING LICENCE NO. 116/2008  WITH PLAN",
+                null
+              ],
+              [
+                "25051202080160",
+                "2024-08-05",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "25052202000035",
+                "2025-03-25",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "25052700010011",
+                "2025-05-06",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3890000.0"
+              ],
+              [
+                "25070300010036",
+                "2025-06-11",
+                "ASSIGNMENT",
+                "3890000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9949270152907692,

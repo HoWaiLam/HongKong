@@ -6,7 +6,45 @@
         1103043173,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 74 S.B",
+            "Old Schedule Lot",
+            "C5432644",
+            [
+              [
+                "IS75381",
+                "1963-02-26",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "IS261768",
+                "1998-01-03",
+                "ASSIGNMENT",
+                "164634.59"
+              ],
+              [
+                "IS261322",
+                "1998-01-03",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "164634.59"
+              ],
+              [
+                "05092902490021",
+                "2005-09-06",
+                "BUILDING LICENCE NO. 1181 WITH PLAN",
+                null
+              ],
+              [
+                "18041900690039",
+                "2018-01-15",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895070591852744,
@@ -25,7 +63,70 @@
         1103043174,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 165 RP",
+            "Old Schedule Lot",
+            "C6381921",
+            [
+              [
+                "IS75381",
+                "1963-02-26",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "IS261319",
+                "1998-01-03",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "131670.5"
+              ],
+              [
+                "IS261765",
+                "1998-01-03",
+                "ASSIGNMENT",
+                "131670.5"
+              ],
+              [
+                "07112201950124",
+                "2007-11-02",
+                "BUILDING LICENCE NO. 1190 WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD333 LL 167 S.B",
+            "Old Schedule Lot",
+            "C4203746",
+            [
+              [
+                "IS75381",
+                "1963-02-26",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "IS261319",
+                "1998-01-03",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "131670.5"
+              ],
+              [
+                "IS261765",
+                "1998-01-03",
+                "ASSIGNMENT",
+                "131670.5"
+              ],
+              [
+                "07112201950124",
+                "2007-11-02",
+                "BUILDING LICENCE NO. 1190 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895114425736937,
@@ -44,7 +145,51 @@
         1103043175,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 67 S.A",
+            "Old Schedule Lot",
+            "C5175506",
+            [
+              [
+                "IS301629",
+                "1990-10-16",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS306588",
+                "2002-07-22",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "176441.81"
+              ],
+              [
+                "IS306598",
+                "2002-07-22",
+                "ASSIGNMENT",
+                "176441.81"
+              ],
+              [
+                "07112100510107",
+                "2007-11-02",
+                "BUILDING LICENCE NO 1183 WITH PLAN",
+                null
+              ],
+              [
+                "13122401520175",
+                "2013-12-16",
+                "DEED OF DEDICATION AND GRANT WITH PLAN",
+                null
+              ],
+              [
+                "22042901570016",
+                "2021-12-16",
+                "PROBATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895033459446305,
@@ -63,7 +208,106 @@
         1103043176,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 73 RP",
+            "Old Schedule Lot",
+            "C4203196",
+            [
+              [
+                "IS48065",
+                "1946-11-05",
+                "-",
+                null
+              ],
+              [
+                "IS301628",
+                "2000-04-26",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS306593",
+                "2002-07-11",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "61015.73"
+              ],
+              [
+                "IS306603",
+                "2002-07-11",
+                "ASSIGNMENT",
+                "61015.73"
+              ],
+              [
+                "07112201460014",
+                "2007-11-02",
+                "BUILDING LICENCE NO. 1191 WITH PLAN",
+                null
+              ],
+              [
+                "13122401520175",
+                "2013-12-16",
+                "DEED OF DEDICATION AND GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD333 LL 74 S.A",
+            "Old Schedule Lot",
+            "C5714763",
+            [
+              [
+                "IS75381",
+                "1963-02-26",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "IS261769",
+                "1998-01-03",
+                "ASSIGNMENT",
+                "142752.78"
+              ],
+              [
+                "IS261323",
+                "1998-01-03",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "142752.78"
+              ],
+              [
+                "IS311138",
+                "2002-03-25",
+                "PROBATE",
+                null
+              ],
+              [
+                "IS336654",
+                "2004-07-28",
+                "ASSENT",
+                null
+              ],
+              [
+                "IS336653",
+                "2004-07-28",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "07112201460014",
+                "2007-11-02",
+                "BUILDING LICENCE NO. 1191 WITH PLAN",
+                null
+              ],
+              [
+                "13122401520175",
+                "2013-12-16",
+                "DEED OF DEDICATION AND GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895059099556995,
@@ -82,7 +326,125 @@
         1103043177,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 67 RP",
+            "Old Schedule Lot",
+            "C4203155",
+            [
+              [
+                "IS301629",
+                "1990-10-16",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS306597",
+                "2002-07-22",
+                "ASSIGNMENT",
+                "55691.75"
+              ],
+              [
+                "IS306587",
+                "2002-07-22",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "55691.75"
+              ],
+              [
+                "07112100510091",
+                "2007-11-02",
+                "BUILDING LICENCE NO. 1182 WITH PLAN",
+                null
+              ],
+              [
+                "13122401520175",
+                "2013-12-16",
+                "DEED OF DEDICATION AND GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD333 LL 73 S.A",
+            "Old Schedule Lot",
+            "C5349143",
+            [
+              [
+                "IS48065",
+                "1946-11-05",
+                "-",
+                null
+              ],
+              [
+                "IS301628",
+                "2000-04-26",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS306594",
+                "2002-07-11",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "108858.19"
+              ],
+              [
+                "IS306604",
+                "2002-07-11",
+                "ASSIGNMENT",
+                "108858.19"
+              ],
+              [
+                "07112100510091",
+                "2007-11-02",
+                "BUILDING LICENCE NO. 1182 WITH PLAN",
+                null
+              ],
+              [
+                "13122401520175",
+                "2013-12-16",
+                "DEED OF DEDICATION AND GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD333 LL 74 RP",
+            "Old Schedule Lot",
+            "C4203209",
+            [
+              [
+                "IS75381",
+                "1963-02-26",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "IS261770",
+                "1998-01-03",
+                "ASSIGNMENT",
+                "19344.79"
+              ],
+              [
+                "IS261324",
+                "1998-01-03",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "19344.79"
+              ],
+              [
+                "07112100510091",
+                "2007-11-02",
+                "BUILDING LICENCE NO. 1182 WITH PLAN",
+                null
+              ],
+              [
+                "13122401520175",
+                "2013-12-16",
+                "DEED OF DEDICATION AND GRANT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895049586665017,
@@ -101,7 +463,39 @@
         1103054737,
         null,
         "33 SHAP LONG SAN TSUEN",
-        []
+        [
+          [
+            "DD333 LL 612",
+            "Old Schedule Lot",
+            "C4207325",
+            [
+              [
+                "IS37625",
+                "1935-02-21",
+                "-",
+                null
+              ],
+              [
+                "IS74057",
+                "1962-04-11",
+                "-",
+                null
+              ],
+              [
+                "IS94622",
+                "1978-07-06",
+                "STATUTORY DECLARATION BY CHEUNG FAT ALIAS CHEUNG WUN FAT",
+                null
+              ],
+              [
+                "17082202450034",
+                "2017-07-25",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895523199275276,
@@ -120,7 +514,39 @@
         1103054746,
         null,
         "32 SHAP LONG SAN TSUEN",
-        []
+        [
+          [
+            "DD333 LL 612",
+            "Old Schedule Lot",
+            "C4207325",
+            [
+              [
+                "IS37625",
+                "1935-02-21",
+                "-",
+                null
+              ],
+              [
+                "IS74057",
+                "1962-04-11",
+                "-",
+                null
+              ],
+              [
+                "IS94622",
+                "1978-07-06",
+                "STATUTORY DECLARATION BY CHEUNG FAT ALIAS CHEUNG WUN FAT",
+                null
+              ],
+              [
+                "17082202450034",
+                "2017-07-25",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895521259080182,
@@ -139,7 +565,33 @@
         1103054748,
         null,
         "18 SHAP LONG SAN TSUEN",
-        []
+        [
+          [
+            "DD333 LL 609",
+            "Old Schedule Lot",
+            "C4207314",
+            [
+              [
+                "IS75381",
+                "1963-02-26",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "07020801260059",
+                "2006-10-17",
+                "PROBATE",
+                null
+              ],
+              [
+                "07020801260068",
+                "2006-12-10",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895535306020722,
@@ -158,7 +610,45 @@
         1103054752,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 607",
+            "Old Schedule Lot",
+            "C4207294",
+            [
+              [
+                "IS73145",
+                "1961-10-04",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS99568",
+                "1980-01-07",
+                "-",
+                "6000.0"
+              ],
+              [
+                "IS134303",
+                "1987-07-30",
+                "-",
+                null
+              ],
+              [
+                "IS304608",
+                "2002-04-22",
+                "ASSENT",
+                null
+              ],
+              [
+                "10092201810018",
+                "2010-09-06",
+                "ASSIGNMENT",
+                "50000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989554466407683,
@@ -196,7 +686,82 @@
         1103054761,
         null,
         "31 SHAP LONG SAN TSUEN",
-        []
+        [
+          [
+            "DD333 LL 611",
+            "Old Schedule Lot",
+            "C5432683",
+            [
+              [
+                "IS49918",
+                "1947-12-09",
+                "-",
+                null
+              ],
+              [
+                "IS63180",
+                "1955-10-10",
+                "MORTGAGE",
+                "600.0"
+              ],
+              [
+                "IS64125",
+                "1956-03-16",
+                "SECOND MORTGAGE",
+                "400.0"
+              ],
+              [
+                "IS65525",
+                "1957-02-19",
+                "-",
+                "2050.0"
+              ],
+              [
+                "IS65524",
+                "1957-02-19",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS85748",
+                "1972-12-12",
+                "CONVEYANCE ON SALE",
+                "2615.0"
+              ]
+            ]
+          ],
+          [
+            "DD333 LL 612",
+            "Old Schedule Lot",
+            "C4207325",
+            [
+              [
+                "IS37625",
+                "1935-02-21",
+                "-",
+                null
+              ],
+              [
+                "IS74057",
+                "1962-04-11",
+                "-",
+                null
+              ],
+              [
+                "IS94622",
+                "1978-07-06",
+                "STATUTORY DECLARATION BY CHEUNG FAT ALIAS CHEUNG WUN FAT",
+                null
+              ],
+              [
+                "17082202450034",
+                "2017-07-25",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895513456598712,
@@ -215,7 +780,58 @@
         1103054769,
         null,
         "7 SHAP LONG SAN TSUEN",
-        []
+        [
+          [
+            "DD333 LL 607",
+            "Old Schedule Lot",
+            "C4207294",
+            [
+              [
+                "IS73145",
+                "1961-10-04",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS99568",
+                "1980-01-07",
+                "-",
+                "6000.0"
+              ],
+              [
+                "IS134303",
+                "1987-07-30",
+                "-",
+                null
+              ],
+              [
+                "IS304608",
+                "2002-04-22",
+                "ASSENT",
+                null
+              ],
+              [
+                "10092201810018",
+                "2010-09-06",
+                "ASSIGNMENT",
+                "50000.0"
+              ]
+            ]
+          ],
+          [
+            "DD333 LL 608",
+            "Old Schedule Lot",
+            "C4207307",
+            [
+              [
+                "IS73146",
+                "1961-10-04",
+                "SUCCESSION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895535686284682,
@@ -234,7 +850,51 @@
         1103054771,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 611",
+            "Old Schedule Lot",
+            "C5432683",
+            [
+              [
+                "IS49918",
+                "1947-12-09",
+                "-",
+                null
+              ],
+              [
+                "IS63180",
+                "1955-10-10",
+                "MORTGAGE",
+                "600.0"
+              ],
+              [
+                "IS64125",
+                "1956-03-16",
+                "SECOND MORTGAGE",
+                "400.0"
+              ],
+              [
+                "IS65525",
+                "1957-02-19",
+                "-",
+                "2050.0"
+              ],
+              [
+                "IS65524",
+                "1957-02-19",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS85748",
+                "1972-12-12",
+                "CONVEYANCE ON SALE",
+                "2615.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895512628284233,
@@ -253,7 +913,76 @@
         1103054778,
         null,
         "30 SHAP LONG SAN TSUEN",
-        []
+        [
+          [
+            "DD333 LL 609",
+            "Old Schedule Lot",
+            "C4207314",
+            [
+              [
+                "IS75381",
+                "1963-02-26",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "07020801260059",
+                "2006-10-17",
+                "PROBATE",
+                null
+              ],
+              [
+                "07020801260068",
+                "2006-12-10",
+                "ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD333 LL 611",
+            "Old Schedule Lot",
+            "C5432683",
+            [
+              [
+                "IS49918",
+                "1947-12-09",
+                "-",
+                null
+              ],
+              [
+                "IS63180",
+                "1955-10-10",
+                "MORTGAGE",
+                "600.0"
+              ],
+              [
+                "IS64125",
+                "1956-03-16",
+                "SECOND MORTGAGE",
+                "400.0"
+              ],
+              [
+                "IS65525",
+                "1957-02-19",
+                "-",
+                "2050.0"
+              ],
+              [
+                "IS65524",
+                "1957-02-19",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS85748",
+                "1972-12-12",
+                "CONVEYANCE ON SALE",
+                "2615.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989550940385338,
@@ -272,7 +1001,14 @@
         1103054782,
         null,
         "18 SHAP LONG SAN TSUEN",
-        []
+        [
+          [
+            "DD333 LL 661",
+            "New Grant Lot",
+            "C4207730",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9895413238165585,
@@ -291,7 +1027,76 @@
         1103054785,
         null,
         "29 SHAP LONG SAN TSUEN",
-        []
+        [
+          [
+            "DD333 LL 609",
+            "Old Schedule Lot",
+            "C4207314",
+            [
+              [
+                "IS75381",
+                "1963-02-26",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "07020801260059",
+                "2006-10-17",
+                "PROBATE",
+                null
+              ],
+              [
+                "07020801260068",
+                "2006-12-10",
+                "ASSENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD333 LL 611",
+            "Old Schedule Lot",
+            "C5432683",
+            [
+              [
+                "IS49918",
+                "1947-12-09",
+                "-",
+                null
+              ],
+              [
+                "IS63180",
+                "1955-10-10",
+                "MORTGAGE",
+                "600.0"
+              ],
+              [
+                "IS64125",
+                "1956-03-16",
+                "SECOND MORTGAGE",
+                "400.0"
+              ],
+              [
+                "IS65525",
+                "1957-02-19",
+                "-",
+                "2050.0"
+              ],
+              [
+                "IS65524",
+                "1957-02-19",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS85748",
+                "1972-12-12",
+                "CONVEYANCE ON SALE",
+                "2615.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895508389736016,
@@ -310,7 +1115,21 @@
         1103054791,
         null,
         "17 SHAP LONG SAN TSUEN",
-        []
+        [
+          [
+            "DD333 LL 665",
+            "New Grant Lot",
+            "C4207775",
+            [
+              [
+                "17082202450034",
+                "2017-07-25",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989549240839594,
@@ -329,7 +1148,33 @@
         1103054793,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 609",
+            "Old Schedule Lot",
+            "C4207314",
+            [
+              [
+                "IS75381",
+                "1963-02-26",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "07020801260059",
+                "2006-10-17",
+                "PROBATE",
+                null
+              ],
+              [
+                "07020801260068",
+                "2006-12-10",
+                "ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895509050675053,
@@ -348,7 +1193,21 @@
         1103054797,
         null,
         "28 SHAP LONG SAN TSUEN",
-        []
+        [
+          [
+            "DD333 LL 662",
+            "New Grant Lot",
+            "C4207742",
+            [
+              [
+                "17031500920013",
+                "2017-03-01",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895508455718756,
@@ -424,7 +1283,69 @@
         1103054818,
         null,
         "20 SHAP LONG SAN TSUEN",
-        []
+        [
+          [
+            "DD333 LL 658",
+            "New Grant Lot",
+            "C4207715",
+            [
+              [
+                "IS96884",
+                "1979-04-03",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "IS195122",
+                "1992-08-14",
+                "-",
+                null
+              ],
+              [
+                "IS195011",
+                "1992-08-14",
+                "STATUTORY DECLARATION OF TSANG PO-DAI ALIAS TSANG PAK-TAI",
+                null
+              ],
+              [
+                "IS197811",
+                "1992-08-14",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ],
+              [
+                "IS304323",
+                "2002-03-21",
+                "SEALED COPY OF BANKRUPTCY ORDER ON DEBTOR'S PETITION",
+                null
+              ],
+              [
+                "14092301690030",
+                "2014-08-28",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "337500.0"
+              ],
+              [
+                "14100601810019",
+                "2014-09-11",
+                "ASSIGNMENT",
+                "337500.0"
+              ],
+              [
+                "23080701400016",
+                "2023-07-11",
+                "ASSIGNMENT",
+                null
+              ],
+              [
+                "24021901430022",
+                "2024-01-24",
+                "DEED OF GIFT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989541466310174,
@@ -443,7 +1364,21 @@
         1103054820,
         null,
         "21 SHAP LONG SAN TSUEN",
-        []
+        [
+          [
+            "DD333 LL 657",
+            "New Grant Lot",
+            "C5432691",
+            [
+              [
+                "IS301627",
+                "2000-03-13",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895402689102712,
@@ -462,7 +1397,21 @@
         1103054824,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 657",
+            "New Grant Lot",
+            "C5432691",
+            [
+              [
+                "IS301627",
+                "2000-03-13",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895391685111585,
@@ -614,7 +1563,45 @@
         1103055005,
         null,
         "18B SHAP LONG CHUNG HAU",
-        []
+        [
+          [
+            "DD333 LL 689",
+            "New Grant Lot",
+            "C4207900",
+            [
+              [
+                "06101000930041",
+                "1989-06-05",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "06092600260014",
+                "2006-08-02",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "06100601360029",
+                "2006-09-22",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2000000.0"
+              ],
+              [
+                "06111502240038",
+                "2006-10-23",
+                "ASSIGNMENT",
+                "2000000.0"
+              ],
+              [
+                "12020601180222",
+                "2011-12-28",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895974293779963,
@@ -652,7 +1639,27 @@
         1103055009,
         null,
         "26 SHAP LONG KAU TSUEN",
-        []
+        [
+          [
+            "DD333 LL 686",
+            "New Grant Lot",
+            "C5432706",
+            [
+              [
+                "16053000290064",
+                "2013-09-24",
+                "Please refer to the NatureDescriptionCHN Field.",
+                null
+              ],
+              [
+                "16060800200092",
+                "2016-05-23",
+                "DEED OF ASSENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9894987300515539,
@@ -690,7 +1697,27 @@
         1103055013,
         null,
         "18A SHAP LONG CHUNG HAU",
-        []
+        [
+          [
+            "DD333 LL 688",
+            "New Grant Lot",
+            "C6657882",
+            [
+              [
+                "11092701140543",
+                "2011-08-02",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12011600850076",
+                "2011-11-30",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895981388686887,
@@ -766,7 +1793,33 @@
         1103055020,
         null,
         "18 SHAP LONG CHUNG HAU",
-        []
+        [
+          [
+            "DD333 LL 660",
+            "New Grant Lot",
+            "C4207724",
+            [
+              [
+                "IS195004",
+                "1992-08-01",
+                "ASSIGNMENT",
+                "1.0"
+              ],
+              [
+                "05080502240013",
+                "2005-07-20",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "2500000.0"
+              ],
+              [
+                "05120301390025",
+                "2005-11-08",
+                "ASSIGNMENT",
+                "2500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989599058862422,
@@ -880,7 +1933,39 @@
         1103055033,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 504/2 RP",
+            "Old Schedule Lot",
+            "C6382278",
+            [
+              [
+                "08042300870014",
+                "2008-04-02",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "14121201290525",
+                "2014-11-01",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "20000.0"
+              ],
+              [
+                "14121601430083",
+                "2014-11-01",
+                "ASSIGNMENT",
+                "20000.0"
+              ],
+              [
+                "18080200070035",
+                "2018-07-03",
+                "DEED POLL WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895911257819638,
@@ -1108,7 +2193,93 @@
         1103055074,
         null,
         "25 SHAP LONG CHUNG HAU",
-        []
+        [
+          [
+            "DD333 LL 672",
+            "New Grant Lot",
+            "C4207800",
+            [
+              [
+                "IS116743",
+                "1983-09-29",
+                "-",
+                "350000.0"
+              ],
+              [
+                "IS205775",
+                "1993-10-02",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3400000.0"
+              ],
+              [
+                "IS205776",
+                "1993-10-07",
+                "-",
+                "3400000.0"
+              ],
+              [
+                "IS205777",
+                "1993-10-07",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "IS330846",
+                "2004-02-26",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "2000000.0"
+              ],
+              [
+                "IS330845",
+                "2004-03-05",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS330850",
+                "2004-03-05",
+                "ASSIGNMENT",
+                "2000000.0"
+              ],
+              [
+                "IS330851",
+                "2004-03-05",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "09072201730020",
+                "2009-07-03",
+                "ASSIGNMENT",
+                "4000000.0"
+              ],
+              [
+                "09072201730015",
+                "2009-07-03",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "09072201730036",
+                "2009-07-03",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "13011702490044",
+                "2011-05-03",
+                "CERTIFICATE OF CHANGE OF NAME",
+                null
+              ],
+              [
+                "13031102310084",
+                "2013-02-27",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9896219841900689,
@@ -1146,7 +2317,63 @@
         1103055083,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 45",
+            "Old Schedule Lot",
+            "C4202995",
+            [
+              [
+                "IS11324",
+                "1916-09-20",
+                "-",
+                null
+              ],
+              [
+                "IS64153",
+                "1956-03-22",
+                "MORTGAGE OF THEIR INTEREST BY CHEUNG SHU YAU AND CHEUNG TAI YAU",
+                "700.0"
+              ],
+              [
+                "IS64869",
+                "1956-09-12",
+                "SECOND MORTGAGE OF THEIR INTEREST BY CHEUNG SHU YAU & CHEUNG TAI YAU",
+                "800.0"
+              ],
+              [
+                "IS66167",
+                "1957-08-28",
+                "-",
+                "3600.0"
+              ],
+              [
+                "IS66166",
+                "1957-08-28",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS73273",
+                "1961-10-25",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS218885",
+                "1994-12-12",
+                "-",
+                null
+              ],
+              [
+                "10043002170086",
+                "2010-04-20",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989499352464379,
@@ -1165,7 +2392,63 @@
         1103055086,
         null,
         "12 SHAP LONG KAU TSUEN",
-        []
+        [
+          [
+            "DD333 LL 667",
+            "New Grant Lot",
+            "C4207785",
+            [
+              [
+                "IS96255",
+                "1978-08-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS109876",
+                "1982-02-19",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS110908",
+                "1982-05-25",
+                "LETTER OF CONSENT",
+                null
+              ],
+              [
+                "IS110911",
+                "1982-06-03",
+                "MORTGAGE",
+                "500000.0"
+              ],
+              [
+                "IS110910",
+                "1982-06-03",
+                "SALE",
+                "950000.0"
+              ],
+              [
+                "IS110909",
+                "1982-06-03",
+                "REVOCATION OF POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS130359",
+                "1986-12-10",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "21093001830020",
+                "2021-09-23",
+                "CERTIFIED COPY OF DEATH CERTIFICATE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9894796936716375,
@@ -1184,7 +2467,33 @@
         1103055087,
         null,
         "10 SHAP LONG KAU TSUEN",
-        []
+        [
+          [
+            "DD333 LL 671",
+            "New Grant Lot",
+            "C5935249",
+            [
+              [
+                "IS96258",
+                "1978-08-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS121249",
+                "1983-05-17",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS121250",
+                "1985-06-21",
+                "-",
+                "450000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9894762807235764,
@@ -1279,7 +2588,57 @@
         1103055098,
         null,
         "11 SHAP LONG KAU TSUEN",
-        []
+        [
+          [
+            "DD333 LL 666",
+            "New Grant Lot",
+            "C6520011",
+            [
+              [
+                "IS97239",
+                "1978-08-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS109875",
+                "1982-02-19",
+                "LETTER BY DISTRICT OFFICER, ISLANDS",
+                null
+              ],
+              [
+                "IS110905",
+                "1982-05-25",
+                "LETTER OF CONSENT",
+                null
+              ],
+              [
+                "IS110907",
+                "1982-06-03",
+                "-",
+                "950000.0"
+              ],
+              [
+                "IS110906",
+                "1982-06-03",
+                "REVOCATION OF POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS113633",
+                "1983-02-24",
+                "MORTGAGE",
+                "300000.0"
+              ],
+              [
+                "IS134488",
+                "1987-07-29",
+                "RELEASE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989478225720459,
@@ -1298,7 +2657,33 @@
         1103055100,
         null,
         "9 SHAP LONG KAU TSUEN",
-        []
+        [
+          [
+            "DD333 LL 670",
+            "New Grant Lot",
+            "C5761998",
+            [
+              [
+                "IS96257",
+                "1978-08-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "IS122950",
+                "1983-05-17",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS122951",
+                "1985-10-09",
+                "-",
+                "450000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9894748141647736,
@@ -1317,7 +2702,33 @@
         1103055101,
         null,
         "21 SHAP LONG KAU TSUEN",
-        []
+        [
+          [
+            "DD333 LL 42",
+            "Old Schedule Lot",
+            "C5266240",
+            [
+              [
+                "IS75381",
+                "1963-02-26",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "IS78933",
+                "1965-04-10",
+                "-",
+                "785.0"
+              ],
+              [
+                "IS259117",
+                "1997-10-28",
+                "ASSIGNMENT",
+                "120000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9894956816356282,
@@ -1355,7 +2766,63 @@
         1103055108,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 678",
+            "New Grant Lot",
+            "C5175957",
+            [
+              [
+                "IS102111",
+                "1980-08-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ],
+              [
+                "IS103240",
+                "1980-11-21",
+                "-",
+                "900000.0"
+              ],
+              [
+                "IS113339",
+                "1983-02-08",
+                "LETTERS OF MODIFICATION",
+                null
+              ],
+              [
+                "IS114612",
+                "1983-04-29",
+                "-",
+                "1000000.0"
+              ],
+              [
+                "13042500870078",
+                "2013-04-08",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "8500000.0"
+              ],
+              [
+                "13051402580080",
+                "2013-05-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "8500000.0"
+              ],
+              [
+                "13062700990078",
+                "2013-06-17",
+                "ASSIGNMENT",
+                "8500000.0"
+              ],
+              [
+                "17061301470060",
+                "2017-05-29",
+                "DEED OF RECTIFICATION WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9894766070236733,
@@ -1374,7 +2841,75 @@
         1103055113,
         null,
         "4 SHAP LONG CHUNG HAU",
-        []
+        [
+          [
+            "DD333 LL 692 &EXT",
+            "New Grant Lot",
+            "C4207916",
+            [
+              [
+                "IS276564",
+                "1997-05-19",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF DRAINAGE WORKS",
+                null
+              ],
+              [
+                "IS276563",
+                "1997-05-19",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF BUILDINGS WORKS",
+                null
+              ],
+              [
+                "IS267196",
+                "1998-12-11",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "IS276054",
+                "1999-09-22",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "IS276565",
+                "1999-10-25",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "IS326706",
+                "2003-12-17",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "IS327768",
+                "2004-01-08",
+                "EXTENSION LETTER WITH PLANS",
+                null
+              ],
+              [
+                "IS328248",
+                "2004-01-08",
+                "LEGAL CHARGE/MORTGAGE RE EXTENSION",
+                null
+              ],
+              [
+                "10111801680030",
+                "2010-11-04",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ],
+              [
+                "10111801680041",
+                "2010-11-04",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONIES"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989587261100936,
@@ -1412,7 +2947,105 @@
         1103055118,
         null,
         "14 SHAP LONG KAU TSUEN",
-        []
+        [
+          [
+            "DD333 LL 663 &EXT",
+            "New Grant Lot",
+            "C4207759",
+            [
+              [
+                "IS90609",
+                "1976-09-02",
+                "-",
+                "100000.0"
+              ],
+              [
+                "IS90889",
+                "1976-10-02",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "160000.0"
+              ],
+              [
+                "IS91372",
+                "1976-12-01",
+                "-",
+                "160000.0"
+              ],
+              [
+                "IS91373",
+                "1976-12-01",
+                "MORTGAGE",
+                "90000.0"
+              ],
+              [
+                "IS135511",
+                "1987-09-02",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "IS135510",
+                "1987-09-02",
+                "-",
+                "800000.0"
+              ],
+              [
+                "IS135509",
+                "1987-09-02",
+                "RELEASE",
+                null
+              ],
+              [
+                "IS290051",
+                "2001-02-15",
+                "RELEASE",
+                null
+              ],
+              [
+                "IS290052",
+                "2001-02-15",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "IS337211",
+                "2004-07-29",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "IS337212",
+                "2004-07-29",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "06012101540023",
+                "2006-01-06",
+                "DEED OF VARIATION AND FURTHER CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "11060202490057",
+                "2011-05-25",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "9100000.0"
+              ],
+              [
+                "11071202520094",
+                "2011-06-23",
+                "DEED OF RELEASE",
+                null
+              ],
+              [
+                "11071202520100",
+                "2011-06-23",
+                "ASSIGNMENT",
+                "9100000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9894850364525398,
@@ -1431,7 +3064,153 @@
         1103055121,
         null,
         "18 - 19 SHAP LONG KAU TSUEN",
-        []
+        [
+          [
+            "DD333 LL 25 RP",
+            "Old Schedule Lot",
+            "C5714729",
+            [
+              [
+                "IS73147",
+                "1961-10-04",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS73273",
+                "1961-10-25",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS73274",
+                "1961-10-25",
+                "SUCCESSION",
+                null
+              ],
+              [
+                "IS74803",
+                "1962-10-13",
+                "CONVEYANCE ON SALE",
+                "1560.4"
+              ],
+              [
+                "IS255462",
+                "1997-08-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3300000.0"
+              ],
+              [
+                "IS255463",
+                "1997-08-21",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2700000.0"
+              ],
+              [
+                "IS257355",
+                "1997-09-13",
+                "AGREEMENT FOR SUB-SALE AND SUB-PURCHASE",
+                "4700000.0"
+              ],
+              [
+                "IS258341",
+                "1997-10-08",
+                "ASSIGNMENT WITH PLANS RE G/F, 1/F, 2/F AND ROOF",
+                "4700000.0"
+              ],
+              [
+                "IS258600",
+                "1997-10-08",
+                "ASSIGNMENT WITH PLANS",
+                "4000000.0"
+              ],
+              [
+                "IS258601",
+                "1997-10-08",
+                "MORTGAGE BY BALL GERRARD MATHEW",
+                null
+              ],
+              [
+                "IS258177",
+                "1997-10-08",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "IS258652",
+                "1997-10-08",
+                "DEED OF MUTUAL COVENANT WITH PLAN",
+                null
+              ],
+              [
+                "05051201970022",
+                "2005-04-18",
+                "SPECIAL POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "05051201970011",
+                "2005-04-29",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4000000.0"
+              ],
+              [
+                "05092701430077",
+                "2005-09-01",
+                "ASSIGNMENT",
+                "4000000.0"
+              ],
+              [
+                "05092701430063",
+                "2005-09-01",
+                "RELEASE",
+                "ALL MONIES"
+              ],
+              [
+                "06052401580024",
+                "2005-09-01",
+                "RE-REGISTRATION OF RELEASE RE 19 SHAP LONG KAU TSUEN",
+                "ALL MONIES"
+              ],
+              [
+                "09122802040210",
+                "2009-12-08",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "5050000.0"
+              ],
+              [
+                "10042103290149",
+                "2010-03-31",
+                "ASSIGNMENT",
+                "5050000.0"
+              ],
+              [
+                "10042103290135",
+                "2010-03-31",
+                "RELEASE",
+                null
+              ],
+              [
+                "13062401010030",
+                "2013-05-31",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "5001875.0"
+              ],
+              [
+                "13070201830026",
+                "2013-06-19",
+                "ASSIGNMENT",
+                "5001875.0"
+              ],
+              [
+                "18042602480164",
+                "2018-04-13",
+                "LEGAL CHARGE/MORTGAGE RE NO. 19 SHAP LONG KAU TSUEN (CONSISTING OF THE G/F , 1/F & 2/F & ROOF)",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9894966570535464,
@@ -1564,7 +3343,57 @@
         1103055166,
         null,
         "29A SHAP LONG KAU TSUEN",
-        []
+        [
+          [
+            "DD333 LL 691 S.A",
+            "New Grant Lot",
+            "D0169863",
+            [
+              [
+                "IS217978",
+                "1994-12-05",
+                "-",
+                "900000.0"
+              ],
+              [
+                "05051101750178",
+                "1995-03-30",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "05031101330173",
+                "2005-01-25",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1965000.0"
+              ],
+              [
+                "05040601320113",
+                "2005-03-11",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "2500000.0"
+              ],
+              [
+                "05042802360265",
+                "2005-04-12",
+                "AGREEMENT FOR SUB-SALE AND PURCHASE",
+                "2500000.0"
+              ],
+              [
+                "05053102520426",
+                "2005-05-09",
+                "ASSIGNMENT",
+                "2500000.0"
+              ],
+              [
+                "05053102520436",
+                "2005-05-09",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895142550236404,
@@ -1621,7 +3450,93 @@
         1103055172,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 691 RP",
+            "New Grant Lot",
+            "D0169876",
+            [
+              [
+                "IS217978",
+                "1994-12-05",
+                "-",
+                "900000.0"
+              ],
+              [
+                "05051101750178",
+                "1995-03-30",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "05031101330187",
+                "2005-01-25",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1965000.0"
+              ],
+              [
+                "05051000860101",
+                "2005-04-19",
+                "AGREEMENT FOR SUB-SALE AND PURCHASE",
+                "2500000.0"
+              ],
+              [
+                "05060800280320",
+                "2005-05-09",
+                "MORTGAGE",
+                "ALL MONIES"
+              ],
+              [
+                "05060800280318",
+                "2005-05-09",
+                "ASSIGNMENT",
+                "2500000.0"
+              ],
+              [
+                "11090502390037",
+                "2011-08-07",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "8600000.0"
+              ],
+              [
+                "11102802140092",
+                "2011-09-30",
+                "RELEASE",
+                "ALL MONEYS"
+              ],
+              [
+                "11102802140109",
+                "2011-09-30",
+                "ASSIGNMENT",
+                "8600000.0"
+              ],
+              [
+                "11102802140117",
+                "2011-09-30",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "18091902090019",
+                "2018-09-11",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "18103002230010",
+                "2018-10-10",
+                "ASSIGNMENT",
+                "9500000.0"
+              ],
+              [
+                "18102601280014",
+                "2018-10-10",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "9500000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895153950347324,
@@ -1678,7 +3593,99 @@
         1103055180,
         null,
         "30 SHAP LONG KAU TSUEN",
-        []
+        [
+          [
+            "DD333 LL 102",
+            "Old Schedule Lot",
+            "C6657845",
+            [
+              [
+                "IS48065",
+                "1946-11-05",
+                "-",
+                null
+              ],
+              [
+                "IS72072",
+                "1961-04-10",
+                "MORTGAGE",
+                "1300.0"
+              ],
+              [
+                "IS75093",
+                "1962-12-15",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS76907",
+                "1964-02-07",
+                "MORTGAGE",
+                "1000.0"
+              ],
+              [
+                "IS77796",
+                "1964-07-23",
+                "MORTGAGE",
+                "1500.0"
+              ],
+              [
+                "IS77793",
+                "1964-07-24",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS79755",
+                "1965-11-05",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "IS79756",
+                "1965-11-05",
+                "MORTGAGE",
+                "2500.0"
+              ],
+              [
+                "IS82811",
+                "1969-07-18",
+                "-",
+                "4000.0"
+              ],
+              [
+                "IS82810",
+                "1969-07-18",
+                "REDEMPTION",
+                null
+              ],
+              [
+                "21050501960108",
+                "2020-11-26",
+                "PROBATE",
+                null
+              ],
+              [
+                "21081200770037",
+                "2021-07-30",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4000000.0"
+              ],
+              [
+                "21093000640073",
+                "2021-09-24",
+                "ASSIGNMENT",
+                "4000000.0"
+              ],
+              [
+                "24050300930174",
+                "2023-09-13",
+                "ORDER NO. \"VHN/A41/500726/23/NT\" UNDER S.24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895135703780669,
@@ -2970,7 +4977,64 @@
         1103056097,
         null,
         null,
-        []
+        [
+          [
+            "DD339 LL 26",
+            "Old Schedule Lot",
+            "C4212391",
+            [
+              [
+                "IS73162",
+                "1961-10-05",
+                "-",
+                null
+              ],
+              [
+                "IS106941",
+                "1981-07-15",
+                "STATUTORY DECLARATION CHEUNG AH KIN",
+                null
+              ],
+              [
+                "IS106942",
+                "1981-07-15",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD339 LL 31",
+            "Old Schedule Lot",
+            "C4212429",
+            [
+              [
+                "IS66883",
+                "1958-03-03",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "IS77273",
+                "1964-05-01",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "IS86244",
+                "1973-05-08",
+                "STATUTORY DECLARATION BY LAU YAU ALIAS CHEUNG YAU",
+                null
+              ],
+              [
+                "IS86245",
+                "1973-05-08",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989754200834675,
@@ -2989,7 +5053,39 @@
         1103056098,
         null,
         null,
-        []
+        [
+          [
+            "DD339 LL 31",
+            "Old Schedule Lot",
+            "C4212429",
+            [
+              [
+                "IS66883",
+                "1958-03-03",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "IS77273",
+                "1964-05-01",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "IS86244",
+                "1973-05-08",
+                "STATUTORY DECLARATION BY LAU YAU ALIAS CHEUNG YAU",
+                null
+              ],
+              [
+                "IS86245",
+                "1973-05-08",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9897555357448302,
@@ -3008,7 +5104,33 @@
         1103056100,
         null,
         null,
-        []
+        [
+          [
+            "DD339 LL 29",
+            "Old Schedule Lot",
+            "C4212417",
+            [
+              [
+                "IS73162",
+                "1961-10-05",
+                "-",
+                null
+              ],
+              [
+                "IS106941",
+                "1981-07-15",
+                "STATUTORY DECLARATION CHEUNG AH KIN",
+                null
+              ],
+              [
+                "IS106942",
+                "1981-07-15",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9897538689349725,
@@ -3027,7 +5149,64 @@
         1103056101,
         null,
         null,
-        []
+        [
+          [
+            "DD339 LL 28",
+            "Old Schedule Lot",
+            "C5917505",
+            [
+              [
+                "IS66883",
+                "1958-03-03",
+                "SUCCESSION TO PROPERTY",
+                null
+              ],
+              [
+                "IS77273",
+                "1964-05-01",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "IS86244",
+                "1973-05-08",
+                "STATUTORY DECLARATION BY LAU YAU ALIAS CHEUNG YAU",
+                null
+              ],
+              [
+                "IS86245",
+                "1973-05-08",
+                "-",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD339 LL 29",
+            "Old Schedule Lot",
+            "C4212417",
+            [
+              [
+                "IS73162",
+                "1961-10-05",
+                "-",
+                null
+              ],
+              [
+                "IS106941",
+                "1981-07-15",
+                "STATUTORY DECLARATION CHEUNG AH KIN",
+                null
+              ],
+              [
+                "IS106942",
+                "1981-07-15",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9897535966466557,
@@ -3046,7 +5225,33 @@
         1103056103,
         null,
         null,
-        []
+        [
+          [
+            "DD339 LL 29",
+            "Old Schedule Lot",
+            "C4212417",
+            [
+              [
+                "IS73162",
+                "1961-10-05",
+                "-",
+                null
+              ],
+              [
+                "IS106941",
+                "1981-07-15",
+                "STATUTORY DECLARATION CHEUNG AH KIN",
+                null
+              ],
+              [
+                "IS106942",
+                "1981-07-15",
+                "-",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9897543076454922,
@@ -3065,7 +5270,118 @@
         1103056104,
         null,
         null,
-        []
+        [
+          [
+            "DD339 LL 41",
+            "Old Schedule Lot",
+            "C4212463",
+            [
+              [
+                "IS49511",
+                "1947-09-25",
+                "-",
+                null
+              ],
+              [
+                "IS73354",
+                "1961-11-08",
+                "-",
+                null
+              ],
+              [
+                "IS92513",
+                "1977-08-11",
+                "-",
+                "1744.0"
+              ],
+              [
+                "IS92509",
+                "1977-08-11",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD339 LL 42",
+            "Old Schedule Lot",
+            "C4212474",
+            [
+              [
+                "IS66816",
+                "1958-02-07",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS67943",
+                "1958-10-22",
+                "-",
+                "2000.0"
+              ],
+              [
+                "IS85503",
+                "1972-09-12",
+                "-",
+                null
+              ],
+              [
+                "IS103260",
+                "1980-11-25",
+                "-",
+                null
+              ],
+              [
+                "IS292413",
+                "2001-03-12",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS301570",
+                "2001-12-28",
+                "ASSENT",
+                null
+              ],
+              [
+                "IS301569",
+                "2001-12-28",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "IS311830",
+                "2002-11-29",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "14072102060086",
+                "2014-07-02",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "17010301590085",
+                "2016-11-30",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "18122701750026",
+                "2018-03-09",
+                "PROBATE",
+                null
+              ],
+              [
+                "21080302130030",
+                "2021-07-20",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9897552617562881,
@@ -3084,7 +5400,87 @@
         1103056107,
         null,
         null,
-        []
+        [
+          [
+            "DD339 LL 42",
+            "Old Schedule Lot",
+            "C4212474",
+            [
+              [
+                "IS66816",
+                "1958-02-07",
+                "APPOINTMENT OF MANAGER",
+                null
+              ],
+              [
+                "IS67943",
+                "1958-10-22",
+                "-",
+                "2000.0"
+              ],
+              [
+                "IS85503",
+                "1972-09-12",
+                "-",
+                null
+              ],
+              [
+                "IS103260",
+                "1980-11-25",
+                "-",
+                null
+              ],
+              [
+                "IS292413",
+                "2001-03-12",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS301570",
+                "2001-12-28",
+                "ASSENT",
+                null
+              ],
+              [
+                "IS301569",
+                "2001-12-28",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "IS311830",
+                "2002-11-29",
+                "ASSIGNMENT",
+                "200000.0"
+              ],
+              [
+                "14072102060086",
+                "2014-07-02",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "17010301590085",
+                "2016-11-30",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "18122701750026",
+                "2018-03-09",
+                "PROBATE",
+                null
+              ],
+              [
+                "21080302130030",
+                "2021-07-20",
+                "ASSIGNMENT (BY WAY OF GIFT)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9897546807538236,
@@ -3141,7 +5537,45 @@
         1103056134,
         null,
         null,
-        []
+        [
+          [
+            "DD339 LL 127",
+            "Old Schedule Lot",
+            "C4212913",
+            [
+              [
+                "IS59340",
+                "1953-05-13",
+                "-",
+                null
+              ],
+              [
+                "IS75009",
+                "1962-11-27",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "IS86997",
+                "1974-01-21",
+                "-",
+                null
+              ],
+              [
+                "IS118072",
+                "1984-04-28",
+                "-",
+                null
+              ],
+              [
+                "IS331635",
+                "2004-03-15",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9898094352898612,
@@ -3160,7 +5594,45 @@
         1103056199,
         null,
         null,
-        []
+        [
+          [
+            "DD339 LL 111",
+            "Old Schedule Lot",
+            "C5176641",
+            [
+              [
+                "IS59340",
+                "1953-05-13",
+                "-",
+                null
+              ],
+              [
+                "IS75009",
+                "1962-11-27",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "IS86997",
+                "1974-01-21",
+                "-",
+                null
+              ],
+              [
+                "IS118072",
+                "1984-04-28",
+                "-",
+                null
+              ],
+              [
+                "IS331635",
+                "2004-03-15",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9898251989013882,
@@ -3179,7 +5651,33 @@
         1109185756,
         null,
         "15 - 17 SHAP LONG KAU TSUEN",
-        []
+        [
+          [
+            "DD333 LL 680",
+            "New Grant Lot",
+            "C4207861",
+            [
+              [
+                "IS97924",
+                "1979-07-24",
+                "AGREEMENT FOR SALE & PURCHASE",
+                "250000.0"
+              ],
+              [
+                "IS98479",
+                "1979-08-20",
+                "-",
+                "250000.0"
+              ],
+              [
+                "IS100790",
+                "1980-04-23",
+                "RECTIFICATION OF BOUNDARIES",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9894879274425477,
@@ -3198,7 +5696,14 @@
         1109187065,
         null,
         "4A SHAP LONG CHUNG HAU",
-        []
+        [
+          [
+            "DD333 LL 687",
+            "New Grant Lot",
+            "C6382269",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9895889536841675,
@@ -3255,7 +5760,153 @@
         1109815088,
         null,
         "31 SHAP LONG KAU TSUEN",
-        []
+        [
+          [
+            "DD333 LL 108",
+            "Old Schedule Lot",
+            "C5175517",
+            [
+              [
+                "IS70057",
+                "1960-01-25",
+                "-",
+                null
+              ],
+              [
+                "IS74057",
+                "1962-04-11",
+                "-",
+                null
+              ],
+              [
+                "IS84890",
+                "1971-11-16",
+                "-",
+                "2800.0"
+              ],
+              [
+                "IS223433",
+                "1995-01-19",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "IS249015",
+                "1997-07-25",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "830000.0"
+              ],
+              [
+                "IS254207",
+                "1997-08-25",
+                "ASSIGNMENT",
+                "830000.0"
+              ],
+              [
+                "12091400600045",
+                "2012-08-13",
+                "DEED OF GRANT",
+                "1.0"
+              ],
+              [
+                "13031100910029",
+                "2012-12-10",
+                "NO OBJECTION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "14011302270048",
+                "2013-11-22",
+                "NO OBJECTION LETTER",
+                null
+              ],
+              [
+                "14011302270059",
+                "2014-01-02",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "16101100590030",
+                "2016-09-19",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "4500000.0"
+              ],
+              [
+                "16110901190026",
+                "2016-10-19",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ],
+              [
+                "16110901190036",
+                "2016-10-19",
+                "ASSIGNMENT",
+                "4500000.0"
+              ],
+              [
+                "16110901190045",
+                "2016-10-19",
+                "MORTGAGE",
+                "TO SECURE ALL MONEYS IN RESPECT OF GENERAL BANKING FACILITIES"
+              ],
+              [
+                "18052102480014",
+                "2018-04-24",
+                "PROVISIONAL AGREEMENT FOR SALE AND PURCHASE",
+                "7500000.0"
+              ],
+              [
+                "18052402510224",
+                "2018-05-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "7500000.0"
+              ],
+              [
+                "18062902290233",
+                "2018-06-01",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "18061302480034",
+                "2018-06-01",
+                "ASSIGNMENT",
+                "7500000.0"
+              ],
+              [
+                "18061302480044",
+                "2018-06-01",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "22042000130036",
+                "2022-03-21",
+                "PRELIMINARY AGREEMENT FOR SALE AND PURCHASE",
+                "7828000.0"
+              ],
+              [
+                "22071101750030",
+                "2022-06-17",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "22071101750026",
+                "2022-06-17",
+                "ASSIGNMENT",
+                "7828000.0"
+              ],
+              [
+                "22071101750015",
+                "2022-06-17",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                "ALL MONEYS"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989512239039293,
@@ -3369,7 +6020,27 @@
         1109815151,
         null,
         "24 SHAP LONG CHUNG HAU",
-        []
+        [
+          [
+            "DD333 LL 677",
+            "New Grant Lot",
+            "C4207848",
+            [
+              [
+                "IS105855",
+                "1981-05-12",
+                "RECTIFICATION OF BOUNDARIES",
+                null
+              ],
+              [
+                "06102001140028",
+                "2006-05-09",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989616437503744,
@@ -3578,7 +6249,63 @@
         1810100845,
         null,
         "28A SHAP LONG KAU TSUEN",
-        []
+        [
+          [
+            "DD333 LL 694",
+            "New Grant Lot",
+            "D0156982",
+            [
+              [
+                "07072002240544",
+                "2007-07-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2850000.0"
+              ],
+              [
+                "07090301340190",
+                "2007-08-09",
+                "ASSIGNMENT",
+                "2850000.0"
+              ],
+              [
+                "10090602980659",
+                "2010-07-23",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF BUILDING WORKS",
+                null
+              ],
+              [
+                "10090602980641",
+                "2010-08-03",
+                "APPROVAL LETTER FOR OPENING OF SIDE WINDOWS AND/OR OPENINGS IN SMALL HOUSE(S) WITH PLAN",
+                null
+              ],
+              [
+                "12072703000085",
+                "2012-06-01",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF DRAINAGE WORKS",
+                null
+              ],
+              [
+                "12091700590014",
+                "2012-08-15",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "13031100910029",
+                "2012-12-10",
+                "NO OBJECTION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "13071902620100",
+                "2013-07-15",
+                "CERTIFICATE OF COMPLIANCE IN RESPECT OF HOUSES ERECTED PURSUANT TO NEW GRANT 20034",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895113982022872,
@@ -3597,7 +6324,63 @@
         1810100846,
         null,
         "28B SHAP LONG KAU TSUEN",
-        []
+        [
+          [
+            "DD333 LL 694",
+            "New Grant Lot",
+            "D0156982",
+            [
+              [
+                "07072002240544",
+                "2007-07-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "2850000.0"
+              ],
+              [
+                "07090301340190",
+                "2007-08-09",
+                "ASSIGNMENT",
+                "2850000.0"
+              ],
+              [
+                "10090602980659",
+                "2010-07-23",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF BUILDING WORKS",
+                null
+              ],
+              [
+                "10090602980641",
+                "2010-08-03",
+                "APPROVAL LETTER FOR OPENING OF SIDE WINDOWS AND/OR OPENINGS IN SMALL HOUSE(S) WITH PLAN",
+                null
+              ],
+              [
+                "12072703000085",
+                "2012-06-01",
+                "CERTIFICATE OF EXEMPTION IN RESPECT OF DRAINAGE WORKS",
+                null
+              ],
+              [
+                "12091700590014",
+                "2012-08-15",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "13031100910029",
+                "2012-12-10",
+                "NO OBJECTION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "13071902620100",
+                "2013-07-15",
+                "CERTIFICATE OF COMPLIANCE IN RESPECT OF HOUSES ERECTED PURSUANT TO NEW GRANT 20034",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989512316373817,
@@ -3616,7 +6399,57 @@
         1810103267,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 87",
+            "Old Schedule Lot",
+            "C4203333",
+            [
+              [
+                "IS75381",
+                "1963-02-26",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "IS261320",
+                "1998-01-03",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "169890.5"
+              ],
+              [
+                "IS261766",
+                "1998-01-03",
+                "ASSIGNMENT",
+                "169890.5"
+              ],
+              [
+                "07042501450030",
+                "2007-03-29",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12010900580160",
+                "2012-01-03",
+                "SEALED COPY ORDER",
+                null
+              ],
+              [
+                "12032100260035",
+                "2012-02-27",
+                "ASSIGNMENT",
+                "169884.0"
+              ],
+              [
+                "13122000870076",
+                "2013-12-06",
+                "BUILDING LICENCE NO.1297 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895110198413326,
@@ -3635,7 +6468,63 @@
         1810121215,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 684",
+            "New Grant Lot",
+            "C4207891",
+            [
+              [
+                "IS301628",
+                "2000-04-26",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12110801060018",
+                "2012-07-09",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "12110801060020",
+                "2012-11-02",
+                "DEED OF FAMILY ARRANGEMENT",
+                null
+              ],
+              [
+                "12110801060036",
+                "2012-11-02",
+                "DEED OF ASSENT",
+                null
+              ],
+              [
+                "20010900920019",
+                "2017-11-15",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "20040100600016",
+                "2019-12-19",
+                "CONSENT LETTER",
+                null
+              ],
+              [
+                "20012401400032",
+                "2020-01-10",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "10000000.0"
+              ],
+              [
+                "20020300960042",
+                "2020-01-17",
+                "ASSIGNMENT",
+                "10000000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895004576674173,
@@ -3654,7 +6543,70 @@
         1810142134,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 523 S.E",
+            "Old Schedule Lot",
+            "C4206109",
+            [
+              [
+                "IS195004",
+                "1992-08-01",
+                "ASSIGNMENT",
+                "1.0"
+              ],
+              [
+                "IS261735",
+                "1998-01-03",
+                "ASSIGNMENT",
+                "131046.15"
+              ],
+              [
+                "IS261289",
+                "1998-01-03",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "131046.15"
+              ],
+              [
+                "17051202840051",
+                "2017-04-26",
+                "BUILDING LICENCE NO. 1336 WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD333 LL 530 S.A",
+            "Old Schedule Lot",
+            "C4206249",
+            [
+              [
+                "IS75381",
+                "1963-02-26",
+                "REMOVAL OF TRUSTEESHIP",
+                null
+              ],
+              [
+                "IS261290",
+                "1998-01-03",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "187781.57"
+              ],
+              [
+                "IS261736",
+                "1998-01-03",
+                "ASSIGNMENT",
+                "187781.57"
+              ],
+              [
+                "17051202840051",
+                "2017-04-26",
+                "BUILDING LICENCE NO. 1336 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895474046565054,
@@ -3673,7 +6625,51 @@
         1810142135,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 523 S.C",
+            "Old Schedule Lot",
+            "C5432671",
+            [
+              [
+                "IS195004",
+                "1992-08-01",
+                "ASSIGNMENT",
+                "1.0"
+              ],
+              [
+                "IS261732",
+                "1998-01-03",
+                "ASSIGNMENT",
+                "221864.7"
+              ],
+              [
+                "12091802080026",
+                "1998-01-03",
+                "RE-REGISTRATION OF ASSIGNMENT MEMORIAL NO. IS261732",
+                "221864.7"
+              ],
+              [
+                "12091802080019",
+                "1998-01-03",
+                "RE-REGISTRATION OF AGREEMENT FOR SALE AND PURCHASE MEMORIAL NO. IS261286",
+                "221864.7"
+              ],
+              [
+                "IS261286",
+                "1998-01-03",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "221864.7"
+              ],
+              [
+                "15111701340066",
+                "2015-11-04",
+                "BUILDING LICENCE NO. 1338 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895494969793661,
@@ -3692,7 +6688,58 @@
         1810160325,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 169 S.B",
+            "Old Schedule Lot",
+            "D1333393",
+            [
+              [
+                "08112102220183",
+                "2008-11-14",
+                "ASSIGNMENT",
+                "1302260.0"
+              ],
+              [
+                "09031600790036",
+                "2009-02-25",
+                "ASSIGNMENT",
+                "80000.0"
+              ],
+              [
+                "17072400700027",
+                "2017-07-13",
+                "BUILDING LICENCE NO. 1370 WITH PLAN",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD333 LL 171 S.A",
+            "Old Schedule Lot",
+            "D1333665",
+            [
+              [
+                "08112102220174",
+                "2008-11-14",
+                "ASSIGNMENT",
+                "1101930.0"
+              ],
+              [
+                "09031600790048",
+                "2009-02-25",
+                "ASSIGNMENT",
+                "340000.0"
+              ],
+              [
+                "17072400700027",
+                "2017-07-13",
+                "BUILDING LICENCE NO. 1370 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895125654748542,
@@ -3711,7 +6758,39 @@
         1810160326,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 169 S.A",
+            "Old Schedule Lot",
+            "D1333351",
+            [
+              [
+                "08112102220183",
+                "2008-11-14",
+                "ASSIGNMENT",
+                "1302260.0"
+              ],
+              [
+                "09031600790075",
+                "2009-02-25",
+                "ASSIGNMENT",
+                "500000.0"
+              ],
+              [
+                "17061500940024",
+                "2017-06-13",
+                "LETTER OF CONSENT",
+                null
+              ],
+              [
+                "17121301540015",
+                "2017-11-28",
+                "BUILDING LICENCE NO. 1369 WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895104457037,
@@ -3730,7 +6809,117 @@
         1810163249,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 656",
+            "New Grant Lot",
+            "C4207705",
+            [
+              [
+                "IS88332",
+                "1975-04-23",
+                "-",
+                null
+              ],
+              [
+                "IS110711",
+                "1981-06-09",
+                "-",
+                "150000.0"
+              ],
+              [
+                "IS205775",
+                "1993-10-02",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "3400000.0"
+              ],
+              [
+                "IS205776",
+                "1993-10-07",
+                "-",
+                "3400000.0"
+              ],
+              [
+                "IS205777",
+                "1993-10-07",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "IS330846",
+                "2004-02-26",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "2000000.0"
+              ],
+              [
+                "IS330850",
+                "2004-03-05",
+                "ASSIGNMENT",
+                "2000000.0"
+              ],
+              [
+                "IS330851",
+                "2004-03-05",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "IS330845",
+                "2004-03-05",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "09072201730020",
+                "2009-07-03",
+                "ASSIGNMENT",
+                "4000000.0"
+              ],
+              [
+                "09072201730036",
+                "2009-07-03",
+                "MORTGAGE",
+                "ALL MONEYS"
+              ],
+              [
+                "09072201730015",
+                "2009-07-03",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "11090702500049",
+                "2011-08-12",
+                "MEMORANDUM FOR SALE AND PURCHASE",
+                "100000.0"
+              ],
+              [
+                "11090702500037",
+                "2011-08-12",
+                "PARTIAL RELEASE",
+                "ALL MONIES"
+              ],
+              [
+                "11090702500055",
+                "2011-08-12",
+                "ASSIGNMENT",
+                "100000.0"
+              ],
+              [
+                "19011700670014",
+                "2018-11-26",
+                "WARNING LETTER WITH PLAN",
+                null
+              ],
+              [
+                "24073100640102",
+                "2024-06-24",
+                "CANCELLATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9896296271500802,
@@ -3749,7 +6938,63 @@
         1810189329,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 103",
+            "Old Schedule Lot",
+            "C5714793",
+            [
+              [
+                "IS70057",
+                "1960-01-25",
+                "-",
+                null
+              ],
+              [
+                "IS74057",
+                "1962-04-11",
+                "-",
+                null
+              ],
+              [
+                "IS92506",
+                "1977-08-11",
+                "-",
+                "30000.0"
+              ],
+              [
+                "IS97259",
+                "1979-05-14",
+                "-",
+                "20000.0"
+              ],
+              [
+                "IS133152",
+                "1987-03-30",
+                "-",
+                null
+              ],
+              [
+                "10113000280121",
+                "2010-11-01",
+                "ASSIGNMENT",
+                "1138000.0"
+              ],
+              [
+                "11020101620017",
+                "2011-01-20",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1750000.0"
+              ],
+              [
+                "11030801460059",
+                "2011-02-28",
+                "ASSIGNMENT",
+                "1750000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895131090146512,
@@ -3768,7 +7013,45 @@
         1810196447,
         null,
         null,
-        []
+        [
+          [
+            "DD333 LL 504/2 S.A",
+            "Old Schedule Lot",
+            "C4207926",
+            [
+              [
+                "IS39213",
+                "1936-06-30",
+                "-",
+                null
+              ],
+              [
+                "IS76976",
+                "1964-02-26",
+                "-",
+                null
+              ],
+              [
+                "07072600270015",
+                "2007-07-10",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "11092701140543",
+                "2011-08-02",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12011600850090",
+                "2011-11-30",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895894177030988,
@@ -3787,7 +7070,58 @@
         1810196449,
         null,
         "13 SHAP LONG CHUNG HAU",
-        []
+        [
+          [
+            "DD333 LL 504/2 S.A",
+            "Old Schedule Lot",
+            "C4207926",
+            [
+              [
+                "IS39213",
+                "1936-06-30",
+                "-",
+                null
+              ],
+              [
+                "IS76976",
+                "1964-02-26",
+                "-",
+                null
+              ],
+              [
+                "07072600270015",
+                "2007-07-10",
+                "APPROVAL LETTER OF SUCCESSION",
+                null
+              ],
+              [
+                "11092701140543",
+                "2011-08-02",
+                "LETTERS OF ADMINISTRATION",
+                null
+              ],
+              [
+                "12011600850090",
+                "2011-11-30",
+                "ASSIGNMENT",
+                null
+              ]
+            ]
+          ],
+          [
+            "DD333 LL 504/2 S.B",
+            "Old Schedule Lot",
+            "D4212846",
+            [
+              [
+                "14121601430083",
+                "2014-11-01",
+                "ASSIGNMENT",
+                "20000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9895900578848331,

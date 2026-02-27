@@ -6,7 +6,21 @@
         1103119328,
         null,
         "188 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1195",
+            "New Grant Lot",
+            "D3104081",
+            [
+              [
+                "15080402260016",
+                "2015-07-31",
+                "WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992783044111808,
@@ -25,7 +39,63 @@
         1103119337,
         null,
         "3 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 421",
+            "New Grant Lot",
+            "C4764959",
+            [
+              [
+                "UB6002929",
+                "1994-05-11",
+                "MEMORANDUM WITH CAR PARKING SPACES LAY-OUT PLANS ANNEXED",
+                null
+              ],
+              [
+                "UB6446846",
+                "1995-07-10",
+                "UNDERTAKING BY THE FUJI BANK LIMITED (HONG KONG BRANCH)",
+                null
+              ],
+              [
+                "UB6401835",
+                "1995-09-18",
+                "MEMORANDUM",
+                null
+              ],
+              [
+                "UB6437207",
+                "1995-10-05",
+                "CERTIFIED TRUE COPY MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB6420838",
+                "1995-10-06",
+                "OCCUPATION PERMIT NO.H72/95",
+                null
+              ],
+              [
+                "UB6446847",
+                "1995-11-10",
+                "UNDERTAKING BY THE FUJI BANK LIMITED (HONG KONG BRANCH)",
+                null
+              ],
+              [
+                "UB6446848",
+                "1995-11-15",
+                "STATUTORY DECLARATION BY NG HON YING",
+                null
+              ],
+              [
+                "UB6446849",
+                "1995-11-15",
+                "STATUTORY DECLARATION BY NG HON YING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992571420074156,
@@ -44,7 +114,14 @@
         1103119371,
         "ABERDEEN BOAT CLUB SQUASH COURTS",
         "20 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 473",
+            "New Grant Lot",
+            "D5972416",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9925339548867271,
@@ -63,7 +140,39 @@
         1103119377,
         null,
         "11 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 435",
+            "New Grant Lot",
+            "C6102895",
+            [
+              [
+                "UB7449954",
+                "1998-03-30",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "UB7858191",
+                "1999-08-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB8228570",
+                "2000-10-30",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB8302407",
+                "2001-02-06",
+                "STATUTORY DECLARATION OF CHAN SUK HUNG (RE RESIDENTIAL UNITS)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992541470879815,
@@ -82,7 +191,39 @@
         1103119381,
         null,
         "11 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 435",
+            "New Grant Lot",
+            "C6102895",
+            [
+              [
+                "UB7449954",
+                "1998-03-30",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "UB7858191",
+                "1999-08-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB8228570",
+                "2000-10-30",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB8302407",
+                "2001-02-06",
+                "STATUTORY DECLARATION OF CHAN SUK HUNG (RE RESIDENTIAL UNITS)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925518490909964,
@@ -101,7 +242,81 @@
         1103119387,
         "MANLY VILLA A2",
         "38 OCEAN PARK ROAD",
-        []
+        [
+          [
+            "RBL 853",
+            "New Grant Lot",
+            "C4717769",
+            [
+              [
+                "UB494163",
+                "1965-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633935",
+                "1968-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633934",
+                "1968-07-12",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB713235",
+                "1969-12-31",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1902161",
+                "1980-05-27",
+                "-",
+                null
+              ],
+              [
+                "UB1920361",
+                "1980-07-26",
+                "-",
+                null
+              ],
+              [
+                "UB2050893",
+                "1981-03-14",
+                "BUILDING MORTGAGE",
+                "6000000.0"
+              ],
+              [
+                "UB2050894",
+                "1981-03-14",
+                "SECOND MORTGAGE TO SECURE CREDIT FACILITIES",
+                "4000000.0"
+              ],
+              [
+                "UB2181816",
+                "1981-12-01",
+                "FURTHER CHARGE ON BUILDING MORTGAGE MEM.NO.2050893",
+                "13000000.0"
+              ],
+              [
+                "UB2181815",
+                "1981-12-01",
+                "DEED OF VARIATION ON MEM.NO. 2050893",
+                null
+              ],
+              [
+                "UB2388142",
+                "1983-04-07",
+                "LETTER WITH CERTIFIED COPY OF A CAR PARK LAY-OUT PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992752427179248,
@@ -120,7 +335,81 @@
         1103119390,
         "MANLY VILLA A3",
         "38 OCEAN PARK ROAD",
-        []
+        [
+          [
+            "RBL 853",
+            "New Grant Lot",
+            "C4717769",
+            [
+              [
+                "UB494163",
+                "1965-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633935",
+                "1968-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633934",
+                "1968-07-12",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB713235",
+                "1969-12-31",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1902161",
+                "1980-05-27",
+                "-",
+                null
+              ],
+              [
+                "UB1920361",
+                "1980-07-26",
+                "-",
+                null
+              ],
+              [
+                "UB2050893",
+                "1981-03-14",
+                "BUILDING MORTGAGE",
+                "6000000.0"
+              ],
+              [
+                "UB2050894",
+                "1981-03-14",
+                "SECOND MORTGAGE TO SECURE CREDIT FACILITIES",
+                "4000000.0"
+              ],
+              [
+                "UB2181816",
+                "1981-12-01",
+                "FURTHER CHARGE ON BUILDING MORTGAGE MEM.NO.2050893",
+                "13000000.0"
+              ],
+              [
+                "UB2181815",
+                "1981-12-01",
+                "DEED OF VARIATION ON MEM.NO. 2050893",
+                null
+              ],
+              [
+                "UB2388142",
+                "1983-04-07",
+                "LETTER WITH CERTIFIED COPY OF A CAR PARK LAY-OUT PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927551649733906,
@@ -139,7 +428,81 @@
         1103119391,
         "MANLY VILLA A4",
         "38 OCEAN PARK ROAD",
-        []
+        [
+          [
+            "RBL 853",
+            "New Grant Lot",
+            "C4717769",
+            [
+              [
+                "UB494163",
+                "1965-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633935",
+                "1968-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633934",
+                "1968-07-12",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB713235",
+                "1969-12-31",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1902161",
+                "1980-05-27",
+                "-",
+                null
+              ],
+              [
+                "UB1920361",
+                "1980-07-26",
+                "-",
+                null
+              ],
+              [
+                "UB2050893",
+                "1981-03-14",
+                "BUILDING MORTGAGE",
+                "6000000.0"
+              ],
+              [
+                "UB2050894",
+                "1981-03-14",
+                "SECOND MORTGAGE TO SECURE CREDIT FACILITIES",
+                "4000000.0"
+              ],
+              [
+                "UB2181816",
+                "1981-12-01",
+                "FURTHER CHARGE ON BUILDING MORTGAGE MEM.NO.2050893",
+                "13000000.0"
+              ],
+              [
+                "UB2181815",
+                "1981-12-01",
+                "DEED OF VARIATION ON MEM.NO. 2050893",
+                null
+              ],
+              [
+                "UB2388142",
+                "1983-04-07",
+                "LETTER WITH CERTIFIED COPY OF A CAR PARK LAY-OUT PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927570436450934,
@@ -158,7 +521,81 @@
         1103119392,
         "MANLY VILLA A5",
         "38 OCEAN PARK ROAD",
-        []
+        [
+          [
+            "RBL 853",
+            "New Grant Lot",
+            "C4717769",
+            [
+              [
+                "UB494163",
+                "1965-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633935",
+                "1968-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633934",
+                "1968-07-12",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB713235",
+                "1969-12-31",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1902161",
+                "1980-05-27",
+                "-",
+                null
+              ],
+              [
+                "UB1920361",
+                "1980-07-26",
+                "-",
+                null
+              ],
+              [
+                "UB2050893",
+                "1981-03-14",
+                "BUILDING MORTGAGE",
+                "6000000.0"
+              ],
+              [
+                "UB2050894",
+                "1981-03-14",
+                "SECOND MORTGAGE TO SECURE CREDIT FACILITIES",
+                "4000000.0"
+              ],
+              [
+                "UB2181816",
+                "1981-12-01",
+                "FURTHER CHARGE ON BUILDING MORTGAGE MEM.NO.2050893",
+                "13000000.0"
+              ],
+              [
+                "UB2181815",
+                "1981-12-01",
+                "DEED OF VARIATION ON MEM.NO. 2050893",
+                null
+              ],
+              [
+                "UB2388142",
+                "1983-04-07",
+                "LETTER WITH CERTIFIED COPY OF A CAR PARK LAY-OUT PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927588693715659,
@@ -177,7 +614,81 @@
         1103119393,
         "MANLY VILLA A6",
         "38 OCEAN PARK ROAD",
-        []
+        [
+          [
+            "RBL 853",
+            "New Grant Lot",
+            "C4717769",
+            [
+              [
+                "UB494163",
+                "1965-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633935",
+                "1968-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633934",
+                "1968-07-12",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB713235",
+                "1969-12-31",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1902161",
+                "1980-05-27",
+                "-",
+                null
+              ],
+              [
+                "UB1920361",
+                "1980-07-26",
+                "-",
+                null
+              ],
+              [
+                "UB2050893",
+                "1981-03-14",
+                "BUILDING MORTGAGE",
+                "6000000.0"
+              ],
+              [
+                "UB2050894",
+                "1981-03-14",
+                "SECOND MORTGAGE TO SECURE CREDIT FACILITIES",
+                "4000000.0"
+              ],
+              [
+                "UB2181816",
+                "1981-12-01",
+                "FURTHER CHARGE ON BUILDING MORTGAGE MEM.NO.2050893",
+                "13000000.0"
+              ],
+              [
+                "UB2181815",
+                "1981-12-01",
+                "DEED OF VARIATION ON MEM.NO. 2050893",
+                null
+              ],
+              [
+                "UB2388142",
+                "1983-04-07",
+                "LETTER WITH CERTIFIED COPY OF A CAR PARK LAY-OUT PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927606110439777,
@@ -196,7 +707,81 @@
         1103119395,
         "MANLY VILLA A7",
         "38 OCEAN PARK ROAD",
-        []
+        [
+          [
+            "RBL 853",
+            "New Grant Lot",
+            "C4717769",
+            [
+              [
+                "UB494163",
+                "1965-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633935",
+                "1968-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633934",
+                "1968-07-12",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB713235",
+                "1969-12-31",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1902161",
+                "1980-05-27",
+                "-",
+                null
+              ],
+              [
+                "UB1920361",
+                "1980-07-26",
+                "-",
+                null
+              ],
+              [
+                "UB2050893",
+                "1981-03-14",
+                "BUILDING MORTGAGE",
+                "6000000.0"
+              ],
+              [
+                "UB2050894",
+                "1981-03-14",
+                "SECOND MORTGAGE TO SECURE CREDIT FACILITIES",
+                "4000000.0"
+              ],
+              [
+                "UB2181816",
+                "1981-12-01",
+                "FURTHER CHARGE ON BUILDING MORTGAGE MEM.NO.2050893",
+                "13000000.0"
+              ],
+              [
+                "UB2181815",
+                "1981-12-01",
+                "DEED OF VARIATION ON MEM.NO. 2050893",
+                null
+              ],
+              [
+                "UB2388142",
+                "1983-04-07",
+                "LETTER WITH CERTIFIED COPY OF A CAR PARK LAY-OUT PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992763092835555,
@@ -215,7 +800,81 @@
         1103119396,
         null,
         "38 OCEAN PARK ROAD",
-        []
+        [
+          [
+            "RBL 853",
+            "New Grant Lot",
+            "C4717769",
+            [
+              [
+                "UB494163",
+                "1965-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633935",
+                "1968-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633934",
+                "1968-07-12",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB713235",
+                "1969-12-31",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1902161",
+                "1980-05-27",
+                "-",
+                null
+              ],
+              [
+                "UB1920361",
+                "1980-07-26",
+                "-",
+                null
+              ],
+              [
+                "UB2050893",
+                "1981-03-14",
+                "BUILDING MORTGAGE",
+                "6000000.0"
+              ],
+              [
+                "UB2050894",
+                "1981-03-14",
+                "SECOND MORTGAGE TO SECURE CREDIT FACILITIES",
+                "4000000.0"
+              ],
+              [
+                "UB2181816",
+                "1981-12-01",
+                "FURTHER CHARGE ON BUILDING MORTGAGE MEM.NO.2050893",
+                "13000000.0"
+              ],
+              [
+                "UB2181815",
+                "1981-12-01",
+                "DEED OF VARIATION ON MEM.NO. 2050893",
+                null
+              ],
+              [
+                "UB2388142",
+                "1983-04-07",
+                "LETTER WITH CERTIFIED COPY OF A CAR PARK LAY-OUT PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927507161081628,
@@ -234,7 +893,87 @@
         1103119397,
         null,
         "32 NAM LONG SHAN ROAD",
-        []
+        [
+          [
+            "AIL 307 &EXT",
+            "New Grant Lot",
+            "C4274567",
+            [
+              [
+                "UB755521",
+                "1970-08-10",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "UB854889",
+                "1971-11-10",
+                "LETTER",
+                null
+              ],
+              [
+                "UB1140800",
+                "1973-01-23",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB2508924",
+                "1983-11-29",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB7127461",
+                "1997-06-04",
+                "ORDER NO.DH57/HK/97/C UNDER SECTION 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "UB8945709",
+                "2003-04-04",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "UB8981414",
+                "2003-07-28",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB9032285",
+                "2003-09-22",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "UB9096248",
+                "2003-11-20",
+                "ORDER NO.DH0117/HK/03/C UNDER SEC. 27(A) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "09031001400018",
+                "2009-01-05",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "09051301630011",
+                "2009-04-07",
+                "ORDER NO. DH0046/HK/09/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "11042900720143",
+                "2011-04-12",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925926267210188,
@@ -272,7 +1011,39 @@
         1103119402,
         null,
         "11 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 435",
+            "New Grant Lot",
+            "C6102895",
+            [
+              [
+                "UB7449954",
+                "1998-03-30",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "UB7858191",
+                "1999-08-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB8228570",
+                "2000-10-30",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB8302407",
+                "2001-02-06",
+                "STATUTORY DECLARATION OF CHAN SUK HUNG (RE RESIDENTIAL UNITS)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925682623299796,
@@ -329,7 +1100,51 @@
         1103119410,
         null,
         "36 NAM LONG SHAN ROAD",
-        []
+        [
+          [
+            "AIL 417",
+            "New Grant Lot",
+            "C4764940",
+            [
+              [
+                "UB7738685",
+                "1998-01-05",
+                "CERTIFICATE OF INCORPORATION ON CHANGE OF NAME (CERTIFIED COPY)",
+                null
+              ],
+              [
+                "UB7738687",
+                "1999-03-26",
+                "MORTGAGE",
+                "66591000.0"
+              ],
+              [
+                "UB7738686",
+                "1999-03-26",
+                "LOAN AGREEMENT",
+                "66591000.0"
+              ],
+              [
+                "UB7793717",
+                "1999-05-31",
+                "SUPPLEMENTAL DEED TO LOAN AGREEMENT RECTIFYING M/N 7738686",
+                null
+              ],
+              [
+                "UB9436198",
+                "2004-12-30",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "13020501440019",
+                "2013-01-07",
+                "RELEASE AND/OR REASSIGNMENT",
+                "ALL MONIES"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925870108216104,
@@ -348,7 +1163,51 @@
         1103119416,
         null,
         null,
-        []
+        [
+          [
+            "AIL 398",
+            "New Grant Lot",
+            "C4764919",
+            [
+              [
+                "UB3450261",
+                "1987-07-22",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB8773912",
+                "2002-06-21",
+                "ORDER NO.DH070/HK/02/C UNDER S.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "09111002530010",
+                "2008-06-10",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "09032500500307",
+                "2009-01-23",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "10021100500204",
+                "2009-12-07",
+                "LETTER OF COMPLETION",
+                null
+              ],
+              [
+                "11102002710028",
+                "2011-10-17",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925984156227439,
@@ -367,7 +1226,14 @@
         1103119544,
         "UPPER CABLE CAR TERMINAL",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926820187375534,
@@ -386,7 +1252,351 @@
         1103138599,
         "MARINA TOWER",
         "8 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AML 13",
+            "New Grant Lot",
+            "C4275742",
+            [
+              [
+                "UB2051224",
+                "1980-05-02",
+                "-",
+                null
+              ],
+              [
+                "UB2546820",
+                "1984-03-06",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YEARS FROM 9.2.84",
+                null
+              ],
+              [
+                "UB2548984",
+                "1984-03-06",
+                "TENANCY AGREEMENT WITH PLAN FOR 5 YRS. FORM 10.12.83",
+                null
+              ],
+              [
+                "UB2560858",
+                "1984-03-29",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 6.3.84",
+                null
+              ],
+              [
+                "UB2626767",
+                "1984-07-10",
+                "LICENCE AGREEMENT FOR 4 YRS. 9 MTHS. 30 DAYS FROM 2.3.84 WITH PLAN",
+                null
+              ],
+              [
+                "UB2626768",
+                "1984-07-17",
+                "LICENCE AGREEMENT FOR 4 YRS. 11 MTHS & 12 DAYS FROM 20.1.84",
+                null
+              ],
+              [
+                "UB2641414",
+                "1984-09-03",
+                "TENANCY AGREEMENT FOR 3 YRS. FROM 11.8.84 TO 10.8.87 WITH PLAN",
+                null
+              ],
+              [
+                "UB2664193",
+                "1984-10-08",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB2700611",
+                "1984-12-28",
+                "TENANCY AGREEMENT FOR 3 YRS. FROM 19. 7.84 WITH PLANS",
+                null
+              ],
+              [
+                "UB2694151",
+                "1984-12-28",
+                "DEED OF SURRENDER",
+                null
+              ],
+              [
+                "UB2726103",
+                "1985-01-03",
+                "COPY CONSENT LETTER",
+                null
+              ],
+              [
+                "UB2726105",
+                "1985-02-08",
+                "DEBENTURE AND GUARANTEE",
+                null
+              ],
+              [
+                "UB2726104",
+                "1985-02-08",
+                "UNDERTAKING BY THE FIRST NATIONAL BANK OF CHICAGO",
+                null
+              ],
+              [
+                "UB2733501",
+                "1985-03-07",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 5. 2.85",
+                null
+              ],
+              [
+                "UB2730907",
+                "1985-03-13",
+                "LETTER WITH CAR PARK LAYOUT PLANS",
+                null
+              ],
+              [
+                "UB2779545",
+                "1985-05-20",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 1. 4.85",
+                null
+              ],
+              [
+                "UB3026962",
+                "1985-06-27",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "UB2812980",
+                "1985-07-01",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 17.6.85",
+                null
+              ],
+              [
+                "UB2813922",
+                "1985-07-04",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB3026963",
+                "1985-08-05",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "UB2876361",
+                "1985-09-09",
+                "TENANCY AGREEMENT FOR 2 YRS. FROM 22. 7.85 WITH PLAN",
+                null
+              ],
+              [
+                "UB2903937",
+                "1985-10-21",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 14.10.85",
+                null
+              ],
+              [
+                "UB2932446",
+                "1985-11-26",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 28.10.85",
+                null
+              ],
+              [
+                "UB2988891",
+                "1986-01-24",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 16.10.85",
+                null
+              ],
+              [
+                "UB2988892",
+                "1986-01-24",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 9.10.85",
+                null
+              ],
+              [
+                "UB3005552",
+                "1986-02-20",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 26.2.86",
+                null
+              ],
+              [
+                "UB3005551",
+                "1986-03-11",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 21.12.85",
+                null
+              ],
+              [
+                "UB3026964",
+                "1986-04-10",
+                "SUPPLEMENT TO DEBENTURE",
+                null
+              ],
+              [
+                "UB3078176",
+                "1986-06-10",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 10.6.86 TO 9.6.88",
+                null
+              ],
+              [
+                "UB3225018",
+                "1986-11-24",
+                "SUPPLEMENTAL AGREEMENT TO LICENCE AGREEMENT MEM.NO.2626767",
+                null
+              ],
+              [
+                "UB3263258",
+                "1986-12-17",
+                "TENANCY AGREEMENT WTIH PLAN FOR 2 YRS. FROM 1. 9.86 TO 31.8.88",
+                null
+              ],
+              [
+                "UB3361873",
+                "1987-04-01",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 6.3.87 TO 5. 3. 90",
+                null
+              ],
+              [
+                "UB3441959",
+                "1987-07-06",
+                "DEED OF VARIATION OF LEASE",
+                null
+              ],
+              [
+                "UB3501411",
+                "1987-07-30",
+                "SUPPLEMENTAL AGREEMENT TO LICENCE AGREEMENT FROM 1.1.87 TO 31.12.88",
+                null
+              ],
+              [
+                "UB3557868",
+                "1987-11-19",
+                "RELEASE",
+                null
+              ],
+              [
+                "UB3562323",
+                "1987-11-27",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "UB4062186",
+                "1989-03-29",
+                "SUPPLEMENT AGREEMENT TO MEMORIAL NOS.2626767 & 3225018",
+                null
+              ],
+              [
+                "UB4608479",
+                "1990-10-01",
+                "TENANCY AGREEMENT FOR 6 YEARS FROM 1/10/90 WITH PLAN",
+                null
+              ],
+              [
+                "UB4608478",
+                "1990-10-01",
+                "TERMINATION AGREEMENT WITH PLANS",
+                null
+              ],
+              [
+                "UB4625052",
+                "1990-11-06",
+                "COUNTERPART OF SUB-TENANCY AGREEMENT FOR 3 YRS. FROM 8/10/90",
+                null
+              ],
+              [
+                "UB4638367",
+                "1990-12-07",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB4889931",
+                "1991-06-28",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 10.7.91",
+                null
+              ],
+              [
+                "UB4889932",
+                "1991-06-28",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 10.7.91",
+                null
+              ],
+              [
+                "UB5233245",
+                "1991-12-30",
+                "DUPLICATE TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 19.7.91",
+                null
+              ],
+              [
+                "UB5533787",
+                "1992-12-31",
+                "MORTGAGE",
+                "50000000.0"
+              ],
+              [
+                "UB5533786",
+                "1992-12-31",
+                "RELEASE",
+                null
+              ],
+              [
+                "UB5583823",
+                "1993-02-24",
+                "SUB-TENANCY AGREEMENT RE PORTION ON 8/F & PORTION ON 9/F WITH PLANS",
+                null
+              ],
+              [
+                "UB5987018",
+                "1994-04-18",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT 7 ON G/F",
+                null
+              ],
+              [
+                "UB6942548",
+                "1997-01-31",
+                "RELEASE",
+                null
+              ],
+              [
+                "UB7966043",
+                "2000-01-14",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB9277915",
+                "2004-07-12",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT NOS.7, 8 & 11 ON G/F FOR 2 YEARS",
+                null
+              ],
+              [
+                "07082001800050",
+                "2007-08-13",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT 9 ON GROUND FLOOR OF ABERDEEN MARINA TOWER",
+                "THE RENT IS $82,500.00 PER MONTH"
+              ],
+              [
+                "08081101770018",
+                "2008-08-04",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT NO. 5 ON G/F OF ABERDEEN MARINA TOWER",
+                "THE RENT IS $23,621.00 PER MONTH"
+              ],
+              [
+                "14101000420027",
+                "2014-09-01",
+                "DUPLICATE TENANCY AGREEMENT WITH PLAN RE UNIT NO. 9 ON G/F",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "19021202030461",
+                "2019-01-18",
+                "ORDER NO. \"C/TA/000255/19/HK\" BY THE BUILDING AUTHORITY UNDER S. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "22082300450026",
+                "2022-07-04",
+                "COUNTERPART OF TENANCY AGREEMENT WITH PLAN RE UNIT NO. 9 ON G/F OF ABERDEEN MARINA TOWER",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925537931538417,
@@ -405,7 +1615,21 @@
         1103138616,
         null,
         "188 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1195",
+            "New Grant Lot",
+            "D3104081",
+            [
+              [
+                "15080402260016",
+                "2015-07-31",
+                "WAIVER LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992788002456345,
@@ -424,7 +1648,33 @@
         1103138635,
         "SINGAPORE INTERNATIONAL SCHOOL",
         "23 NAM LONG SHAN ROAD",
-        []
+        [
+          [
+            "AIL 428",
+            "New Grant Lot",
+            "C4275242",
+            [
+              [
+                "UB6650204",
+                "1996-05-23",
+                "CERTIFICATE OF COMPLIANCE FROM DISTRICT LANDS OFFICE",
+                null
+              ],
+              [
+                "07072300840014",
+                "2007-06-12",
+                "WAIVER LETTER",
+                null
+              ],
+              [
+                "11120802030011",
+                "2011-12-06",
+                "DEED OF GRANT OF EASEMENT WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925943597599547,
@@ -443,7 +1693,93 @@
         1103138642,
         "ISLAND VIEW BLOCK 4",
         "2 ISLAND ROAD",
-        []
+        [
+          [
+            "RBL 543",
+            "New Grant Lot",
+            "C4818942",
+            [
+              [
+                "UB199816",
+                "1950-07-20",
+                "-",
+                "405000.0"
+              ],
+              [
+                "UB2085745",
+                "1981-05-18",
+                "HEADS OF AGREEMENT WITH PLANS BY NEW WORLD DEVELOPMENT CO. LTD.",
+                null
+              ],
+              [
+                "UB2266500",
+                "1982-05-18",
+                "-",
+                "5000000.0"
+              ],
+              [
+                "UB2824067",
+                "1985-07-05",
+                "DEED OF VARIATION OF CROWN LEASE WITH PLAN",
+                null
+              ],
+              [
+                "UB3530875",
+                "1987-10-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "17000000.0"
+              ],
+              [
+                "UB3530876",
+                "1987-10-21",
+                "AGREEMENT FOR SALE AND PURCHASE BY WARDLEY SERVICES LIMITED",
+                "39500000.0"
+              ],
+              [
+                "UB3558382",
+                "1987-11-04",
+                "SUPPLEMENTAL AGREEMENT TO AGREEMENT FOR SALE AND PURCHASE M/N 3530875",
+                "0.01"
+              ],
+              [
+                "UB3621037",
+                "1988-01-20",
+                "UNDERTAKING BY WARDLEY SERVICES COMPANY AND AMIBELLE LIMITED",
+                null
+              ],
+              [
+                "UB3621038",
+                "1988-01-20",
+                "-",
+                "39500000.0"
+              ],
+              [
+                "UB3755912",
+                "1988-06-29",
+                "DEBENTURE INCORPORATING A BUILDING MORTGAGE AND A FLOATING CHARGE",
+                "30000000.0"
+              ],
+              [
+                "UB4093942",
+                "1989-05-26",
+                "LETTER WITH CERTIFIED COPY OF CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "UB4382573",
+                "1990-04-06",
+                "RELEASE",
+                null
+              ],
+              [
+                "UB4438216",
+                "1990-06-02",
+                "STATUTORY DECLARATION OF TIMOTHY KIT CHAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927973524202096,
@@ -462,7 +1798,93 @@
         1103138649,
         "ISLAND VIEW BLOCK 5",
         "2 ISLAND ROAD",
-        []
+        [
+          [
+            "RBL 543",
+            "New Grant Lot",
+            "C4818942",
+            [
+              [
+                "UB199816",
+                "1950-07-20",
+                "-",
+                "405000.0"
+              ],
+              [
+                "UB2085745",
+                "1981-05-18",
+                "HEADS OF AGREEMENT WITH PLANS BY NEW WORLD DEVELOPMENT CO. LTD.",
+                null
+              ],
+              [
+                "UB2266500",
+                "1982-05-18",
+                "-",
+                "5000000.0"
+              ],
+              [
+                "UB2824067",
+                "1985-07-05",
+                "DEED OF VARIATION OF CROWN LEASE WITH PLAN",
+                null
+              ],
+              [
+                "UB3530875",
+                "1987-10-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "17000000.0"
+              ],
+              [
+                "UB3530876",
+                "1987-10-21",
+                "AGREEMENT FOR SALE AND PURCHASE BY WARDLEY SERVICES LIMITED",
+                "39500000.0"
+              ],
+              [
+                "UB3558382",
+                "1987-11-04",
+                "SUPPLEMENTAL AGREEMENT TO AGREEMENT FOR SALE AND PURCHASE M/N 3530875",
+                "0.01"
+              ],
+              [
+                "UB3621037",
+                "1988-01-20",
+                "UNDERTAKING BY WARDLEY SERVICES COMPANY AND AMIBELLE LIMITED",
+                null
+              ],
+              [
+                "UB3621038",
+                "1988-01-20",
+                "-",
+                "39500000.0"
+              ],
+              [
+                "UB3755912",
+                "1988-06-29",
+                "DEBENTURE INCORPORATING A BUILDING MORTGAGE AND A FLOATING CHARGE",
+                "30000000.0"
+              ],
+              [
+                "UB4093942",
+                "1989-05-26",
+                "LETTER WITH CERTIFIED COPY OF CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "UB4382573",
+                "1990-04-06",
+                "RELEASE",
+                null
+              ],
+              [
+                "UB4438216",
+                "1990-06-02",
+                "STATUTORY DECLARATION OF TIMOTHY KIT CHAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992796550880487,
@@ -481,7 +1903,14 @@
         1103138654,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927756968935866,
@@ -500,7 +1929,93 @@
         1103138659,
         "ISLAND VIEW BLOCK 6",
         "2 ISLAND ROAD",
-        []
+        [
+          [
+            "RBL 543",
+            "New Grant Lot",
+            "C4818942",
+            [
+              [
+                "UB199816",
+                "1950-07-20",
+                "-",
+                "405000.0"
+              ],
+              [
+                "UB2085745",
+                "1981-05-18",
+                "HEADS OF AGREEMENT WITH PLANS BY NEW WORLD DEVELOPMENT CO. LTD.",
+                null
+              ],
+              [
+                "UB2266500",
+                "1982-05-18",
+                "-",
+                "5000000.0"
+              ],
+              [
+                "UB2824067",
+                "1985-07-05",
+                "DEED OF VARIATION OF CROWN LEASE WITH PLAN",
+                null
+              ],
+              [
+                "UB3530875",
+                "1987-10-14",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "17000000.0"
+              ],
+              [
+                "UB3530876",
+                "1987-10-21",
+                "AGREEMENT FOR SALE AND PURCHASE BY WARDLEY SERVICES LIMITED",
+                "39500000.0"
+              ],
+              [
+                "UB3558382",
+                "1987-11-04",
+                "SUPPLEMENTAL AGREEMENT TO AGREEMENT FOR SALE AND PURCHASE M/N 3530875",
+                "0.01"
+              ],
+              [
+                "UB3621037",
+                "1988-01-20",
+                "UNDERTAKING BY WARDLEY SERVICES COMPANY AND AMIBELLE LIMITED",
+                null
+              ],
+              [
+                "UB3621038",
+                "1988-01-20",
+                "-",
+                "39500000.0"
+              ],
+              [
+                "UB3755912",
+                "1988-06-29",
+                "DEBENTURE INCORPORATING A BUILDING MORTGAGE AND A FLOATING CHARGE",
+                "30000000.0"
+              ],
+              [
+                "UB4093942",
+                "1989-05-26",
+                "LETTER WITH CERTIFIED COPY OF CAR PARK LAYOUT PLAN",
+                null
+              ],
+              [
+                "UB4382573",
+                "1990-04-06",
+                "RELEASE",
+                null
+              ],
+              [
+                "UB4438216",
+                "1990-06-02",
+                "STATUTORY DECLARATION OF TIMOTHY KIT CHAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927957786814827,
@@ -519,7 +2034,14 @@
         1103138661,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992776045823179,
@@ -538,7 +2060,14 @@
         1103138662,
         "DISCOVERY OF ANCIENT WORLD",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927527159050902,
@@ -557,7 +2086,14 @@
         1103138669,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927762690955135,
@@ -576,7 +2112,14 @@
         1103138674,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992772861448853,
@@ -595,7 +2138,14 @@
         1103138675,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927753438673281,
@@ -614,7 +2164,14 @@
         1103138678,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927740888702912,
@@ -633,7 +2190,14 @@
         1103138679,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927767530179785,
@@ -652,7 +2216,14 @@
         1103138680,
         "MERRY-GO-ROUND",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927686909653504,
@@ -671,7 +2242,14 @@
         1103138686,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927629380774798,
@@ -690,7 +2268,63 @@
         1103138694,
         "SOUTH WAVE COURT BLOCK 1",
         "3 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 421",
+            "New Grant Lot",
+            "C4764959",
+            [
+              [
+                "UB6002929",
+                "1994-05-11",
+                "MEMORANDUM WITH CAR PARKING SPACES LAY-OUT PLANS ANNEXED",
+                null
+              ],
+              [
+                "UB6446846",
+                "1995-07-10",
+                "UNDERTAKING BY THE FUJI BANK LIMITED (HONG KONG BRANCH)",
+                null
+              ],
+              [
+                "UB6401835",
+                "1995-09-18",
+                "MEMORANDUM",
+                null
+              ],
+              [
+                "UB6437207",
+                "1995-10-05",
+                "CERTIFIED TRUE COPY MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB6420838",
+                "1995-10-06",
+                "OCCUPATION PERMIT NO.H72/95",
+                null
+              ],
+              [
+                "UB6446847",
+                "1995-11-10",
+                "UNDERTAKING BY THE FUJI BANK LIMITED (HONG KONG BRANCH)",
+                null
+              ],
+              [
+                "UB6446848",
+                "1995-11-15",
+                "STATUTORY DECLARATION BY NG HON YING",
+                null
+              ],
+              [
+                "UB6446849",
+                "1995-11-15",
+                "STATUTORY DECLARATION BY NG HON YING",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925707386432305,
@@ -709,7 +2343,14 @@
         1103138699,
         "DISCOVERY OF ANCIENT WORLD",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992754984488248,
@@ -728,7 +2369,14 @@
         1103138709,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927645468666384,
@@ -747,7 +2395,351 @@
         1103138718,
         null,
         "8 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AML 13",
+            "New Grant Lot",
+            "C4275742",
+            [
+              [
+                "UB2051224",
+                "1980-05-02",
+                "-",
+                null
+              ],
+              [
+                "UB2546820",
+                "1984-03-06",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YEARS FROM 9.2.84",
+                null
+              ],
+              [
+                "UB2548984",
+                "1984-03-06",
+                "TENANCY AGREEMENT WITH PLAN FOR 5 YRS. FORM 10.12.83",
+                null
+              ],
+              [
+                "UB2560858",
+                "1984-03-29",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 6.3.84",
+                null
+              ],
+              [
+                "UB2626767",
+                "1984-07-10",
+                "LICENCE AGREEMENT FOR 4 YRS. 9 MTHS. 30 DAYS FROM 2.3.84 WITH PLAN",
+                null
+              ],
+              [
+                "UB2626768",
+                "1984-07-17",
+                "LICENCE AGREEMENT FOR 4 YRS. 11 MTHS & 12 DAYS FROM 20.1.84",
+                null
+              ],
+              [
+                "UB2641414",
+                "1984-09-03",
+                "TENANCY AGREEMENT FOR 3 YRS. FROM 11.8.84 TO 10.8.87 WITH PLAN",
+                null
+              ],
+              [
+                "UB2664193",
+                "1984-10-08",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB2700611",
+                "1984-12-28",
+                "TENANCY AGREEMENT FOR 3 YRS. FROM 19. 7.84 WITH PLANS",
+                null
+              ],
+              [
+                "UB2694151",
+                "1984-12-28",
+                "DEED OF SURRENDER",
+                null
+              ],
+              [
+                "UB2726103",
+                "1985-01-03",
+                "COPY CONSENT LETTER",
+                null
+              ],
+              [
+                "UB2726105",
+                "1985-02-08",
+                "DEBENTURE AND GUARANTEE",
+                null
+              ],
+              [
+                "UB2726104",
+                "1985-02-08",
+                "UNDERTAKING BY THE FIRST NATIONAL BANK OF CHICAGO",
+                null
+              ],
+              [
+                "UB2733501",
+                "1985-03-07",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 5. 2.85",
+                null
+              ],
+              [
+                "UB2730907",
+                "1985-03-13",
+                "LETTER WITH CAR PARK LAYOUT PLANS",
+                null
+              ],
+              [
+                "UB2779545",
+                "1985-05-20",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 1. 4.85",
+                null
+              ],
+              [
+                "UB3026962",
+                "1985-06-27",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "UB2812980",
+                "1985-07-01",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 17.6.85",
+                null
+              ],
+              [
+                "UB2813922",
+                "1985-07-04",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB3026963",
+                "1985-08-05",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "UB2876361",
+                "1985-09-09",
+                "TENANCY AGREEMENT FOR 2 YRS. FROM 22. 7.85 WITH PLAN",
+                null
+              ],
+              [
+                "UB2903937",
+                "1985-10-21",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 14.10.85",
+                null
+              ],
+              [
+                "UB2932446",
+                "1985-11-26",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 28.10.85",
+                null
+              ],
+              [
+                "UB2988891",
+                "1986-01-24",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 16.10.85",
+                null
+              ],
+              [
+                "UB2988892",
+                "1986-01-24",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 9.10.85",
+                null
+              ],
+              [
+                "UB3005552",
+                "1986-02-20",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 26.2.86",
+                null
+              ],
+              [
+                "UB3005551",
+                "1986-03-11",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 21.12.85",
+                null
+              ],
+              [
+                "UB3026964",
+                "1986-04-10",
+                "SUPPLEMENT TO DEBENTURE",
+                null
+              ],
+              [
+                "UB3078176",
+                "1986-06-10",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 10.6.86 TO 9.6.88",
+                null
+              ],
+              [
+                "UB3225018",
+                "1986-11-24",
+                "SUPPLEMENTAL AGREEMENT TO LICENCE AGREEMENT MEM.NO.2626767",
+                null
+              ],
+              [
+                "UB3263258",
+                "1986-12-17",
+                "TENANCY AGREEMENT WTIH PLAN FOR 2 YRS. FROM 1. 9.86 TO 31.8.88",
+                null
+              ],
+              [
+                "UB3361873",
+                "1987-04-01",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 6.3.87 TO 5. 3. 90",
+                null
+              ],
+              [
+                "UB3441959",
+                "1987-07-06",
+                "DEED OF VARIATION OF LEASE",
+                null
+              ],
+              [
+                "UB3501411",
+                "1987-07-30",
+                "SUPPLEMENTAL AGREEMENT TO LICENCE AGREEMENT FROM 1.1.87 TO 31.12.88",
+                null
+              ],
+              [
+                "UB3557868",
+                "1987-11-19",
+                "RELEASE",
+                null
+              ],
+              [
+                "UB3562323",
+                "1987-11-27",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "UB4062186",
+                "1989-03-29",
+                "SUPPLEMENT AGREEMENT TO MEMORIAL NOS.2626767 & 3225018",
+                null
+              ],
+              [
+                "UB4608479",
+                "1990-10-01",
+                "TENANCY AGREEMENT FOR 6 YEARS FROM 1/10/90 WITH PLAN",
+                null
+              ],
+              [
+                "UB4608478",
+                "1990-10-01",
+                "TERMINATION AGREEMENT WITH PLANS",
+                null
+              ],
+              [
+                "UB4625052",
+                "1990-11-06",
+                "COUNTERPART OF SUB-TENANCY AGREEMENT FOR 3 YRS. FROM 8/10/90",
+                null
+              ],
+              [
+                "UB4638367",
+                "1990-12-07",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB4889931",
+                "1991-06-28",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 10.7.91",
+                null
+              ],
+              [
+                "UB4889932",
+                "1991-06-28",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 10.7.91",
+                null
+              ],
+              [
+                "UB5233245",
+                "1991-12-30",
+                "DUPLICATE TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 19.7.91",
+                null
+              ],
+              [
+                "UB5533787",
+                "1992-12-31",
+                "MORTGAGE",
+                "50000000.0"
+              ],
+              [
+                "UB5533786",
+                "1992-12-31",
+                "RELEASE",
+                null
+              ],
+              [
+                "UB5583823",
+                "1993-02-24",
+                "SUB-TENANCY AGREEMENT RE PORTION ON 8/F & PORTION ON 9/F WITH PLANS",
+                null
+              ],
+              [
+                "UB5987018",
+                "1994-04-18",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT 7 ON G/F",
+                null
+              ],
+              [
+                "UB6942548",
+                "1997-01-31",
+                "RELEASE",
+                null
+              ],
+              [
+                "UB7966043",
+                "2000-01-14",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB9277915",
+                "2004-07-12",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT NOS.7, 8 & 11 ON G/F FOR 2 YEARS",
+                null
+              ],
+              [
+                "07082001800050",
+                "2007-08-13",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT 9 ON GROUND FLOOR OF ABERDEEN MARINA TOWER",
+                "THE RENT IS $82,500.00 PER MONTH"
+              ],
+              [
+                "08081101770018",
+                "2008-08-04",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT NO. 5 ON G/F OF ABERDEEN MARINA TOWER",
+                "THE RENT IS $23,621.00 PER MONTH"
+              ],
+              [
+                "14101000420027",
+                "2014-09-01",
+                "DUPLICATE TENANCY AGREEMENT WITH PLAN RE UNIT NO. 9 ON G/F",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "19021202030461",
+                "2019-01-18",
+                "ORDER NO. \"C/TA/000255/19/HK\" BY THE BUILDING AUTHORITY UNDER S. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "22082300450026",
+                "2022-07-04",
+                "COUNTERPART OF TENANCY AGREEMENT WITH PLAN RE UNIT NO. 9 ON G/F OF ABERDEEN MARINA TOWER",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925455947360262,
@@ -766,7 +2758,14 @@
         1103138732,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927824060928399,
@@ -785,7 +2784,14 @@
         1103138773,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927785119781798,
@@ -804,7 +2810,351 @@
         1103138800,
         null,
         "8 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AML 13",
+            "New Grant Lot",
+            "C4275742",
+            [
+              [
+                "UB2051224",
+                "1980-05-02",
+                "-",
+                null
+              ],
+              [
+                "UB2546820",
+                "1984-03-06",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YEARS FROM 9.2.84",
+                null
+              ],
+              [
+                "UB2548984",
+                "1984-03-06",
+                "TENANCY AGREEMENT WITH PLAN FOR 5 YRS. FORM 10.12.83",
+                null
+              ],
+              [
+                "UB2560858",
+                "1984-03-29",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 6.3.84",
+                null
+              ],
+              [
+                "UB2626767",
+                "1984-07-10",
+                "LICENCE AGREEMENT FOR 4 YRS. 9 MTHS. 30 DAYS FROM 2.3.84 WITH PLAN",
+                null
+              ],
+              [
+                "UB2626768",
+                "1984-07-17",
+                "LICENCE AGREEMENT FOR 4 YRS. 11 MTHS & 12 DAYS FROM 20.1.84",
+                null
+              ],
+              [
+                "UB2641414",
+                "1984-09-03",
+                "TENANCY AGREEMENT FOR 3 YRS. FROM 11.8.84 TO 10.8.87 WITH PLAN",
+                null
+              ],
+              [
+                "UB2664193",
+                "1984-10-08",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB2700611",
+                "1984-12-28",
+                "TENANCY AGREEMENT FOR 3 YRS. FROM 19. 7.84 WITH PLANS",
+                null
+              ],
+              [
+                "UB2694151",
+                "1984-12-28",
+                "DEED OF SURRENDER",
+                null
+              ],
+              [
+                "UB2726103",
+                "1985-01-03",
+                "COPY CONSENT LETTER",
+                null
+              ],
+              [
+                "UB2726105",
+                "1985-02-08",
+                "DEBENTURE AND GUARANTEE",
+                null
+              ],
+              [
+                "UB2726104",
+                "1985-02-08",
+                "UNDERTAKING BY THE FIRST NATIONAL BANK OF CHICAGO",
+                null
+              ],
+              [
+                "UB2733501",
+                "1985-03-07",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 5. 2.85",
+                null
+              ],
+              [
+                "UB2730907",
+                "1985-03-13",
+                "LETTER WITH CAR PARK LAYOUT PLANS",
+                null
+              ],
+              [
+                "UB2779545",
+                "1985-05-20",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 1. 4.85",
+                null
+              ],
+              [
+                "UB3026962",
+                "1985-06-27",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "UB2812980",
+                "1985-07-01",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 17.6.85",
+                null
+              ],
+              [
+                "UB2813922",
+                "1985-07-04",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB3026963",
+                "1985-08-05",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "UB2876361",
+                "1985-09-09",
+                "TENANCY AGREEMENT FOR 2 YRS. FROM 22. 7.85 WITH PLAN",
+                null
+              ],
+              [
+                "UB2903937",
+                "1985-10-21",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 14.10.85",
+                null
+              ],
+              [
+                "UB2932446",
+                "1985-11-26",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 28.10.85",
+                null
+              ],
+              [
+                "UB2988891",
+                "1986-01-24",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 16.10.85",
+                null
+              ],
+              [
+                "UB2988892",
+                "1986-01-24",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 9.10.85",
+                null
+              ],
+              [
+                "UB3005552",
+                "1986-02-20",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 26.2.86",
+                null
+              ],
+              [
+                "UB3005551",
+                "1986-03-11",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 21.12.85",
+                null
+              ],
+              [
+                "UB3026964",
+                "1986-04-10",
+                "SUPPLEMENT TO DEBENTURE",
+                null
+              ],
+              [
+                "UB3078176",
+                "1986-06-10",
+                "TENANCY AGREEMENT WITH PLAN FOR 2 YRS. FROM 10.6.86 TO 9.6.88",
+                null
+              ],
+              [
+                "UB3225018",
+                "1986-11-24",
+                "SUPPLEMENTAL AGREEMENT TO LICENCE AGREEMENT MEM.NO.2626767",
+                null
+              ],
+              [
+                "UB3263258",
+                "1986-12-17",
+                "TENANCY AGREEMENT WTIH PLAN FOR 2 YRS. FROM 1. 9.86 TO 31.8.88",
+                null
+              ],
+              [
+                "UB3361873",
+                "1987-04-01",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 6.3.87 TO 5. 3. 90",
+                null
+              ],
+              [
+                "UB3441959",
+                "1987-07-06",
+                "DEED OF VARIATION OF LEASE",
+                null
+              ],
+              [
+                "UB3501411",
+                "1987-07-30",
+                "SUPPLEMENTAL AGREEMENT TO LICENCE AGREEMENT FROM 1.1.87 TO 31.12.88",
+                null
+              ],
+              [
+                "UB3557868",
+                "1987-11-19",
+                "RELEASE",
+                null
+              ],
+              [
+                "UB3562323",
+                "1987-11-27",
+                "MORTGAGE TO SECURE GENERAL BANKING FACILITIES",
+                null
+              ],
+              [
+                "UB4062186",
+                "1989-03-29",
+                "SUPPLEMENT AGREEMENT TO MEMORIAL NOS.2626767 & 3225018",
+                null
+              ],
+              [
+                "UB4608479",
+                "1990-10-01",
+                "TENANCY AGREEMENT FOR 6 YEARS FROM 1/10/90 WITH PLAN",
+                null
+              ],
+              [
+                "UB4608478",
+                "1990-10-01",
+                "TERMINATION AGREEMENT WITH PLANS",
+                null
+              ],
+              [
+                "UB4625052",
+                "1990-11-06",
+                "COUNTERPART OF SUB-TENANCY AGREEMENT FOR 3 YRS. FROM 8/10/90",
+                null
+              ],
+              [
+                "UB4638367",
+                "1990-12-07",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB4889931",
+                "1991-06-28",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 10.7.91",
+                null
+              ],
+              [
+                "UB4889932",
+                "1991-06-28",
+                "TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 10.7.91",
+                null
+              ],
+              [
+                "UB5233245",
+                "1991-12-30",
+                "DUPLICATE TENANCY AGREEMENT WITH PLAN FOR 3 YRS. FROM 19.7.91",
+                null
+              ],
+              [
+                "UB5533787",
+                "1992-12-31",
+                "MORTGAGE",
+                "50000000.0"
+              ],
+              [
+                "UB5533786",
+                "1992-12-31",
+                "RELEASE",
+                null
+              ],
+              [
+                "UB5583823",
+                "1993-02-24",
+                "SUB-TENANCY AGREEMENT RE PORTION ON 8/F & PORTION ON 9/F WITH PLANS",
+                null
+              ],
+              [
+                "UB5987018",
+                "1994-04-18",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT 7 ON G/F",
+                null
+              ],
+              [
+                "UB6942548",
+                "1997-01-31",
+                "RELEASE",
+                null
+              ],
+              [
+                "UB7966043",
+                "2000-01-14",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB9277915",
+                "2004-07-12",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT NOS.7, 8 & 11 ON G/F FOR 2 YEARS",
+                null
+              ],
+              [
+                "07082001800050",
+                "2007-08-13",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT 9 ON GROUND FLOOR OF ABERDEEN MARINA TOWER",
+                "THE RENT IS $82,500.00 PER MONTH"
+              ],
+              [
+                "08081101770018",
+                "2008-08-04",
+                "TENANCY AGREEMENT WITH PLAN RE UNIT NO. 5 ON G/F OF ABERDEEN MARINA TOWER",
+                "THE RENT IS $23,621.00 PER MONTH"
+              ],
+              [
+                "14101000420027",
+                "2014-09-01",
+                "DUPLICATE TENANCY AGREEMENT WITH PLAN RE UNIT NO. 9 ON G/F",
+                "FOR RENT SEE MEMORIAL"
+              ],
+              [
+                "19021202030461",
+                "2019-01-18",
+                "ORDER NO. \"C/TA/000255/19/HK\" BY THE BUILDING AUTHORITY UNDER S. 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "22082300450026",
+                "2022-07-04",
+                "COUNTERPART OF TENANCY AGREEMENT WITH PLAN RE UNIT NO. 9 ON G/F OF ABERDEEN MARINA TOWER",
+                "FOR RENT SEE MEMORIAL"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925335204903531,
@@ -823,7 +3173,14 @@
         1103138804,
         "EXPLORER R",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927793482172544,
@@ -899,7 +3256,75 @@
         1103138842,
         null,
         "30 NAM LONG SHAN ROAD",
-        []
+        [
+          [
+            "RBL 861 &EXT",
+            "New Grant Lot",
+            "C4717829",
+            [
+              [
+                "UB3006829",
+                "1986-03-12",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB6977657",
+                "1997-02-15",
+                "ORDER NO.DH 8/HK/97/C UNDER SEC.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "UB8770106",
+                "2002-06-06",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "18010401680029",
+                "2017-12-13",
+                "NOTICE NO. \"DH0027/HK/17/C\" UNDER  S. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "18010401680019",
+                "2017-12-13",
+                "NOTICE NO. \"DH0026/HK/17/C\" UNDER  S. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "21070200820250",
+                "2021-06-02",
+                "ORDER NO. \"DH0017/HK/21/C\" UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "21070801870123",
+                "2021-06-02",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0027/HK/17/C\")",
+                null
+              ],
+              [
+                "24061300600012",
+                "2024-03-07",
+                "ORDER NO. \"DH0025/HK/24/C\" BY THE BUILDING AUTHORITY UNDER  S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24052900930016",
+                "2024-03-07",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0026/HK/17/C\")",
+                null
+              ],
+              [
+                "24061700600204",
+                "2024-03-18",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0017/HK/21/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925535123988067,
@@ -918,7 +3343,75 @@
         1103138849,
         null,
         "30 NAM LONG SHAN ROAD",
-        []
+        [
+          [
+            "RBL 861 &EXT",
+            "New Grant Lot",
+            "C4717829",
+            [
+              [
+                "UB3006829",
+                "1986-03-12",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB6977657",
+                "1997-02-15",
+                "ORDER NO.DH 8/HK/97/C UNDER SEC.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "UB8770106",
+                "2002-06-06",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "18010401680029",
+                "2017-12-13",
+                "NOTICE NO. \"DH0027/HK/17/C\" UNDER  S. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "18010401680019",
+                "2017-12-13",
+                "NOTICE NO. \"DH0026/HK/17/C\" UNDER  S. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "21070200820250",
+                "2021-06-02",
+                "ORDER NO. \"DH0017/HK/21/C\" UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "21070801870123",
+                "2021-06-02",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0027/HK/17/C\")",
+                null
+              ],
+              [
+                "24061300600012",
+                "2024-03-07",
+                "ORDER NO. \"DH0025/HK/24/C\" BY THE BUILDING AUTHORITY UNDER  S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24052900930016",
+                "2024-03-07",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0026/HK/17/C\")",
+                null
+              ],
+              [
+                "24061700600204",
+                "2024-03-18",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0017/HK/21/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925549837308063,
@@ -937,7 +3430,14 @@
         1103138858,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927863964283896,
@@ -956,7 +3456,75 @@
         1103138862,
         null,
         "30 NAM LONG SHAN ROAD",
-        []
+        [
+          [
+            "RBL 861 &EXT",
+            "New Grant Lot",
+            "C4717829",
+            [
+              [
+                "UB3006829",
+                "1986-03-12",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB6977657",
+                "1997-02-15",
+                "ORDER NO.DH 8/HK/97/C UNDER SEC.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "UB8770106",
+                "2002-06-06",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "18010401680029",
+                "2017-12-13",
+                "NOTICE NO. \"DH0027/HK/17/C\" UNDER  S. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "18010401680019",
+                "2017-12-13",
+                "NOTICE NO. \"DH0026/HK/17/C\" UNDER  S. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "21070200820250",
+                "2021-06-02",
+                "ORDER NO. \"DH0017/HK/21/C\" UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "21070801870123",
+                "2021-06-02",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0027/HK/17/C\")",
+                null
+              ],
+              [
+                "24061300600012",
+                "2024-03-07",
+                "ORDER NO. \"DH0025/HK/24/C\" BY THE BUILDING AUTHORITY UNDER  S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24052900930016",
+                "2024-03-07",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0026/HK/17/C\")",
+                null
+              ],
+              [
+                "24061700600204",
+                "2024-03-18",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0017/HK/21/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925643694634854,
@@ -975,7 +3543,14 @@
         1103138871,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927832865020023,
@@ -994,7 +3569,75 @@
         1103138877,
         null,
         "30 NAM LONG SHAN ROAD",
-        []
+        [
+          [
+            "RBL 861 &EXT",
+            "New Grant Lot",
+            "C4717829",
+            [
+              [
+                "UB3006829",
+                "1986-03-12",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB6977657",
+                "1997-02-15",
+                "ORDER NO.DH 8/HK/97/C UNDER SEC.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "UB8770106",
+                "2002-06-06",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "18010401680029",
+                "2017-12-13",
+                "NOTICE NO. \"DH0027/HK/17/C\" UNDER  S. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "18010401680019",
+                "2017-12-13",
+                "NOTICE NO. \"DH0026/HK/17/C\" UNDER  S. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "21070200820250",
+                "2021-06-02",
+                "ORDER NO. \"DH0017/HK/21/C\" UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "21070801870123",
+                "2021-06-02",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0027/HK/17/C\")",
+                null
+              ],
+              [
+                "24061300600012",
+                "2024-03-07",
+                "ORDER NO. \"DH0025/HK/24/C\" BY THE BUILDING AUTHORITY UNDER  S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24052900930016",
+                "2024-03-07",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0026/HK/17/C\")",
+                null
+              ],
+              [
+                "24061700600204",
+                "2024-03-18",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0017/HK/21/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925613486406104,
@@ -1013,7 +3656,14 @@
         1103138878,
         "ABERDEEN BOAT CLUB SQUASH COURTS",
         "20 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 473",
+            "New Grant Lot",
+            "D5972416",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9925358660895347,
@@ -1032,7 +3682,14 @@
         1103138879,
         "OCEAN PARK VETERINARY HOSPITAL",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992786336341021,
@@ -1070,7 +3727,75 @@
         1103138884,
         null,
         "30 NAM LONG SHAN ROAD",
-        []
+        [
+          [
+            "RBL 861 &EXT",
+            "New Grant Lot",
+            "C4717829",
+            [
+              [
+                "UB3006829",
+                "1986-03-12",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB6977657",
+                "1997-02-15",
+                "ORDER NO.DH 8/HK/97/C UNDER SEC.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "UB8770106",
+                "2002-06-06",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "18010401680029",
+                "2017-12-13",
+                "NOTICE NO. \"DH0027/HK/17/C\" UNDER  S. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "18010401680019",
+                "2017-12-13",
+                "NOTICE NO. \"DH0026/HK/17/C\" UNDER  S. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "21070200820250",
+                "2021-06-02",
+                "ORDER NO. \"DH0017/HK/21/C\" UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "21070801870123",
+                "2021-06-02",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0027/HK/17/C\")",
+                null
+              ],
+              [
+                "24061300600012",
+                "2024-03-07",
+                "ORDER NO. \"DH0025/HK/24/C\" BY THE BUILDING AUTHORITY UNDER  S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24052900930016",
+                "2024-03-07",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0026/HK/17/C\")",
+                null
+              ],
+              [
+                "24061700600204",
+                "2024-03-18",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0017/HK/21/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925670476893982,
@@ -1108,7 +3833,81 @@
         1103138905,
         null,
         "38 OCEAN PARK ROAD",
-        []
+        [
+          [
+            "RBL 853",
+            "New Grant Lot",
+            "C4717769",
+            [
+              [
+                "UB494163",
+                "1965-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633935",
+                "1968-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633934",
+                "1968-07-12",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB713235",
+                "1969-12-31",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1902161",
+                "1980-05-27",
+                "-",
+                null
+              ],
+              [
+                "UB1920361",
+                "1980-07-26",
+                "-",
+                null
+              ],
+              [
+                "UB2050893",
+                "1981-03-14",
+                "BUILDING MORTGAGE",
+                "6000000.0"
+              ],
+              [
+                "UB2050894",
+                "1981-03-14",
+                "SECOND MORTGAGE TO SECURE CREDIT FACILITIES",
+                "4000000.0"
+              ],
+              [
+                "UB2181816",
+                "1981-12-01",
+                "FURTHER CHARGE ON BUILDING MORTGAGE MEM.NO.2050893",
+                "13000000.0"
+              ],
+              [
+                "UB2181815",
+                "1981-12-01",
+                "DEED OF VARIATION ON MEM.NO. 2050893",
+                null
+              ],
+              [
+                "UB2388142",
+                "1983-04-07",
+                "LETTER WITH CERTIFIED COPY OF A CAR PARK LAY-OUT PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927478228644842,
@@ -1127,7 +3926,14 @@
         1103138912,
         null,
         "20 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 473",
+            "New Grant Lot",
+            "D5972416",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9925340131342144,
@@ -1146,7 +3952,81 @@
         1103138920,
         null,
         "38 OCEAN PARK ROAD",
-        []
+        [
+          [
+            "RBL 853",
+            "New Grant Lot",
+            "C4717769",
+            [
+              [
+                "UB494163",
+                "1965-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633935",
+                "1968-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633934",
+                "1968-07-12",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB713235",
+                "1969-12-31",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1902161",
+                "1980-05-27",
+                "-",
+                null
+              ],
+              [
+                "UB1920361",
+                "1980-07-26",
+                "-",
+                null
+              ],
+              [
+                "UB2050893",
+                "1981-03-14",
+                "BUILDING MORTGAGE",
+                "6000000.0"
+              ],
+              [
+                "UB2050894",
+                "1981-03-14",
+                "SECOND MORTGAGE TO SECURE CREDIT FACILITIES",
+                "4000000.0"
+              ],
+              [
+                "UB2181816",
+                "1981-12-01",
+                "FURTHER CHARGE ON BUILDING MORTGAGE MEM.NO.2050893",
+                "13000000.0"
+              ],
+              [
+                "UB2181815",
+                "1981-12-01",
+                "DEED OF VARIATION ON MEM.NO. 2050893",
+                null
+              ],
+              [
+                "UB2388142",
+                "1983-04-07",
+                "LETTER WITH CERTIFIED COPY OF A CAR PARK LAY-OUT PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992749092280107,
@@ -1165,7 +4045,39 @@
         1103138922,
         "BROADVIEW COURT BLOCK 1",
         "11 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 435",
+            "New Grant Lot",
+            "C6102895",
+            [
+              [
+                "UB7449954",
+                "1998-03-30",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "UB7858191",
+                "1999-08-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB8228570",
+                "2000-10-30",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB8302407",
+                "2001-02-06",
+                "STATUTORY DECLARATION OF CHAN SUK HUNG (RE RESIDENTIAL UNITS)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925492963141258,
@@ -1203,7 +4115,87 @@
         1103138932,
         null,
         "32 NAM LONG SHAN ROAD",
-        []
+        [
+          [
+            "AIL 307 &EXT",
+            "New Grant Lot",
+            "C4274567",
+            [
+              [
+                "UB755521",
+                "1970-08-10",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "UB854889",
+                "1971-11-10",
+                "LETTER",
+                null
+              ],
+              [
+                "UB1140800",
+                "1973-01-23",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB2508924",
+                "1983-11-29",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB7127461",
+                "1997-06-04",
+                "ORDER NO.DH57/HK/97/C UNDER SECTION 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "UB8945709",
+                "2003-04-04",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "UB8981414",
+                "2003-07-28",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB9032285",
+                "2003-09-22",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "UB9096248",
+                "2003-11-20",
+                "ORDER NO.DH0117/HK/03/C UNDER SEC. 27(A) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "09031001400018",
+                "2009-01-05",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "09051301630011",
+                "2009-04-07",
+                "ORDER NO. DH0046/HK/09/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "11042900720143",
+                "2011-04-12",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925810993094502,
@@ -1241,7 +4233,39 @@
         1103138936,
         null,
         "11 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 435",
+            "New Grant Lot",
+            "C6102895",
+            [
+              [
+                "UB7449954",
+                "1998-03-30",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "UB7858191",
+                "1999-08-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB8228570",
+                "2000-10-30",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB8302407",
+                "2001-02-06",
+                "STATUTORY DECLARATION OF CHAN SUK HUNG (RE RESIDENTIAL UNITS)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925450466897041,
@@ -1260,7 +4284,87 @@
         1103138937,
         "MARYCOVE THE MARY STANTON CENTRE FOR GIRLS GOOD SHEPHERD SISTERS",
         "32 NAM LONG SHAN ROAD",
-        []
+        [
+          [
+            "AIL 307 &EXT",
+            "New Grant Lot",
+            "C4274567",
+            [
+              [
+                "UB755521",
+                "1970-08-10",
+                "EXTENSION LETTER",
+                null
+              ],
+              [
+                "UB854889",
+                "1971-11-10",
+                "LETTER",
+                null
+              ],
+              [
+                "UB1140800",
+                "1973-01-23",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB2508924",
+                "1983-11-29",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB7127461",
+                "1997-06-04",
+                "ORDER NO.DH57/HK/97/C UNDER SECTION 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "UB8945709",
+                "2003-04-04",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "UB8981414",
+                "2003-07-28",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB9032285",
+                "2003-09-22",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "UB9096248",
+                "2003-11-20",
+                "ORDER NO.DH0117/HK/03/C UNDER SEC. 27(A) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "09031001400018",
+                "2009-01-05",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "09051301630011",
+                "2009-04-07",
+                "ORDER NO. DH0046/HK/09/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "11042900720143",
+                "2011-04-12",
+                "LETTER OF COMPLIANCE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925842611196378,
@@ -1279,7 +4383,75 @@
         1103138938,
         null,
         "30 NAM LONG SHAN ROAD",
-        []
+        [
+          [
+            "RBL 861 &EXT",
+            "New Grant Lot",
+            "C4717829",
+            [
+              [
+                "UB3006829",
+                "1986-03-12",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB6977657",
+                "1997-02-15",
+                "ORDER NO.DH 8/HK/97/C UNDER SEC.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "UB8770106",
+                "2002-06-06",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "18010401680029",
+                "2017-12-13",
+                "NOTICE NO. \"DH0027/HK/17/C\" UNDER  S. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "18010401680019",
+                "2017-12-13",
+                "NOTICE NO. \"DH0026/HK/17/C\" UNDER  S. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "21070200820250",
+                "2021-06-02",
+                "ORDER NO. \"DH0017/HK/21/C\" UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "21070801870123",
+                "2021-06-02",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0027/HK/17/C\")",
+                null
+              ],
+              [
+                "24061300600012",
+                "2024-03-07",
+                "ORDER NO. \"DH0025/HK/24/C\" BY THE BUILDING AUTHORITY UNDER  S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24052900930016",
+                "2024-03-07",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0026/HK/17/C\")",
+                null
+              ],
+              [
+                "24061700600204",
+                "2024-03-18",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0017/HK/21/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992567072301259,
@@ -1298,7 +4470,81 @@
         1103138942,
         "MANLY VILLA A2",
         "38 OCEAN PARK ROAD",
-        []
+        [
+          [
+            "RBL 853",
+            "New Grant Lot",
+            "C4717769",
+            [
+              [
+                "UB494163",
+                "1965-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633935",
+                "1968-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633934",
+                "1968-07-12",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB713235",
+                "1969-12-31",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1902161",
+                "1980-05-27",
+                "-",
+                null
+              ],
+              [
+                "UB1920361",
+                "1980-07-26",
+                "-",
+                null
+              ],
+              [
+                "UB2050893",
+                "1981-03-14",
+                "BUILDING MORTGAGE",
+                "6000000.0"
+              ],
+              [
+                "UB2050894",
+                "1981-03-14",
+                "SECOND MORTGAGE TO SECURE CREDIT FACILITIES",
+                "4000000.0"
+              ],
+              [
+                "UB2181816",
+                "1981-12-01",
+                "FURTHER CHARGE ON BUILDING MORTGAGE MEM.NO.2050893",
+                "13000000.0"
+              ],
+              [
+                "UB2181815",
+                "1981-12-01",
+                "DEED OF VARIATION ON MEM.NO. 2050893",
+                null
+              ],
+              [
+                "UB2388142",
+                "1983-04-07",
+                "LETTER WITH CERTIFIED COPY OF A CAR PARK LAY-OUT PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992753731441137,
@@ -1317,7 +4563,39 @@
         1103138944,
         "BROADVIEW COURT BLOCK 2",
         "11 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 435",
+            "New Grant Lot",
+            "C6102895",
+            [
+              [
+                "UB7449954",
+                "1998-03-30",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "UB7858191",
+                "1999-08-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB8228570",
+                "2000-10-30",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB8302407",
+                "2001-02-06",
+                "STATUTORY DECLARATION OF CHAN SUK HUNG (RE RESIDENTIAL UNITS)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992556692954764,
@@ -1336,7 +4614,81 @@
         1103138947,
         "MANLY VILLA A7",
         "38 OCEAN PARK ROAD",
-        []
+        [
+          [
+            "RBL 853",
+            "New Grant Lot",
+            "C4717769",
+            [
+              [
+                "UB494163",
+                "1965-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633935",
+                "1968-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633934",
+                "1968-07-12",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB713235",
+                "1969-12-31",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1902161",
+                "1980-05-27",
+                "-",
+                null
+              ],
+              [
+                "UB1920361",
+                "1980-07-26",
+                "-",
+                null
+              ],
+              [
+                "UB2050893",
+                "1981-03-14",
+                "BUILDING MORTGAGE",
+                "6000000.0"
+              ],
+              [
+                "UB2050894",
+                "1981-03-14",
+                "SECOND MORTGAGE TO SECURE CREDIT FACILITIES",
+                "4000000.0"
+              ],
+              [
+                "UB2181816",
+                "1981-12-01",
+                "FURTHER CHARGE ON BUILDING MORTGAGE MEM.NO.2050893",
+                "13000000.0"
+              ],
+              [
+                "UB2181815",
+                "1981-12-01",
+                "DEED OF VARIATION ON MEM.NO. 2050893",
+                null
+              ],
+              [
+                "UB2388142",
+                "1983-04-07",
+                "LETTER WITH CERTIFIED COPY OF A CAR PARK LAY-OUT PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992762655184704,
@@ -1355,7 +4707,81 @@
         1103138948,
         "MANLY VILLA A3",
         "38 OCEAN PARK ROAD",
-        []
+        [
+          [
+            "RBL 853",
+            "New Grant Lot",
+            "C4717769",
+            [
+              [
+                "UB494163",
+                "1965-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633935",
+                "1968-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633934",
+                "1968-07-12",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB713235",
+                "1969-12-31",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1902161",
+                "1980-05-27",
+                "-",
+                null
+              ],
+              [
+                "UB1920361",
+                "1980-07-26",
+                "-",
+                null
+              ],
+              [
+                "UB2050893",
+                "1981-03-14",
+                "BUILDING MORTGAGE",
+                "6000000.0"
+              ],
+              [
+                "UB2050894",
+                "1981-03-14",
+                "SECOND MORTGAGE TO SECURE CREDIT FACILITIES",
+                "4000000.0"
+              ],
+              [
+                "UB2181816",
+                "1981-12-01",
+                "FURTHER CHARGE ON BUILDING MORTGAGE MEM.NO.2050893",
+                "13000000.0"
+              ],
+              [
+                "UB2181815",
+                "1981-12-01",
+                "DEED OF VARIATION ON MEM.NO. 2050893",
+                null
+              ],
+              [
+                "UB2388142",
+                "1983-04-07",
+                "LETTER WITH CERTIFIED COPY OF A CAR PARK LAY-OUT PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927556663722128,
@@ -1374,7 +4800,81 @@
         1103138955,
         "MANLY VILLA A4",
         "38 OCEAN PARK ROAD",
-        []
+        [
+          [
+            "RBL 853",
+            "New Grant Lot",
+            "C4717769",
+            [
+              [
+                "UB494163",
+                "1965-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633935",
+                "1968-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633934",
+                "1968-07-12",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB713235",
+                "1969-12-31",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1902161",
+                "1980-05-27",
+                "-",
+                null
+              ],
+              [
+                "UB1920361",
+                "1980-07-26",
+                "-",
+                null
+              ],
+              [
+                "UB2050893",
+                "1981-03-14",
+                "BUILDING MORTGAGE",
+                "6000000.0"
+              ],
+              [
+                "UB2050894",
+                "1981-03-14",
+                "SECOND MORTGAGE TO SECURE CREDIT FACILITIES",
+                "4000000.0"
+              ],
+              [
+                "UB2181816",
+                "1981-12-01",
+                "FURTHER CHARGE ON BUILDING MORTGAGE MEM.NO.2050893",
+                "13000000.0"
+              ],
+              [
+                "UB2181815",
+                "1981-12-01",
+                "DEED OF VARIATION ON MEM.NO. 2050893",
+                null
+              ],
+              [
+                "UB2388142",
+                "1983-04-07",
+                "LETTER WITH CERTIFIED COPY OF A CAR PARK LAY-OUT PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927575266026982,
@@ -1393,7 +4893,81 @@
         1103138957,
         "MANLY VILLA A6",
         "38 OCEAN PARK ROAD",
-        []
+        [
+          [
+            "RBL 853",
+            "New Grant Lot",
+            "C4717769",
+            [
+              [
+                "UB494163",
+                "1965-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633935",
+                "1968-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633934",
+                "1968-07-12",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB713235",
+                "1969-12-31",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1902161",
+                "1980-05-27",
+                "-",
+                null
+              ],
+              [
+                "UB1920361",
+                "1980-07-26",
+                "-",
+                null
+              ],
+              [
+                "UB2050893",
+                "1981-03-14",
+                "BUILDING MORTGAGE",
+                "6000000.0"
+              ],
+              [
+                "UB2050894",
+                "1981-03-14",
+                "SECOND MORTGAGE TO SECURE CREDIT FACILITIES",
+                "4000000.0"
+              ],
+              [
+                "UB2181816",
+                "1981-12-01",
+                "FURTHER CHARGE ON BUILDING MORTGAGE MEM.NO.2050893",
+                "13000000.0"
+              ],
+              [
+                "UB2181815",
+                "1981-12-01",
+                "DEED OF VARIATION ON MEM.NO. 2050893",
+                null
+              ],
+              [
+                "UB2388142",
+                "1983-04-07",
+                "LETTER WITH CERTIFIED COPY OF A CAR PARK LAY-OUT PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927610046385178,
@@ -1412,7 +4986,81 @@
         1103138959,
         "MANLY VILLA A5",
         "38 OCEAN PARK ROAD",
-        []
+        [
+          [
+            "RBL 853",
+            "New Grant Lot",
+            "C4717769",
+            [
+              [
+                "UB494163",
+                "1965-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633935",
+                "1968-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633934",
+                "1968-07-12",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB713235",
+                "1969-12-31",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1902161",
+                "1980-05-27",
+                "-",
+                null
+              ],
+              [
+                "UB1920361",
+                "1980-07-26",
+                "-",
+                null
+              ],
+              [
+                "UB2050893",
+                "1981-03-14",
+                "BUILDING MORTGAGE",
+                "6000000.0"
+              ],
+              [
+                "UB2050894",
+                "1981-03-14",
+                "SECOND MORTGAGE TO SECURE CREDIT FACILITIES",
+                "4000000.0"
+              ],
+              [
+                "UB2181816",
+                "1981-12-01",
+                "FURTHER CHARGE ON BUILDING MORTGAGE MEM.NO.2050893",
+                "13000000.0"
+              ],
+              [
+                "UB2181815",
+                "1981-12-01",
+                "DEED OF VARIATION ON MEM.NO. 2050893",
+                null
+              ],
+              [
+                "UB2388142",
+                "1983-04-07",
+                "LETTER WITH CERTIFIED COPY OF A CAR PARK LAY-OUT PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927592593744123,
@@ -1469,7 +5117,81 @@
         1103138966,
         "MANLY VILLA A1",
         "38 OCEAN PARK ROAD",
-        []
+        [
+          [
+            "RBL 853",
+            "New Grant Lot",
+            "C4717769",
+            [
+              [
+                "UB494163",
+                "1965-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633935",
+                "1968-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633934",
+                "1968-07-12",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB713235",
+                "1969-12-31",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1902161",
+                "1980-05-27",
+                "-",
+                null
+              ],
+              [
+                "UB1920361",
+                "1980-07-26",
+                "-",
+                null
+              ],
+              [
+                "UB2050893",
+                "1981-03-14",
+                "BUILDING MORTGAGE",
+                "6000000.0"
+              ],
+              [
+                "UB2050894",
+                "1981-03-14",
+                "SECOND MORTGAGE TO SECURE CREDIT FACILITIES",
+                "4000000.0"
+              ],
+              [
+                "UB2181816",
+                "1981-12-01",
+                "FURTHER CHARGE ON BUILDING MORTGAGE MEM.NO.2050893",
+                "13000000.0"
+              ],
+              [
+                "UB2181815",
+                "1981-12-01",
+                "DEED OF VARIATION ON MEM.NO. 2050893",
+                null
+              ],
+              [
+                "UB2388142",
+                "1983-04-07",
+                "LETTER WITH CERTIFIED COPY OF A CAR PARK LAY-OUT PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992750476655272,
@@ -1507,7 +5229,39 @@
         1103138974,
         null,
         "11 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 435",
+            "New Grant Lot",
+            "C6102895",
+            [
+              [
+                "UB7449954",
+                "1998-03-30",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "UB7858191",
+                "1999-08-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB8228570",
+                "2000-10-30",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB8302407",
+                "2001-02-06",
+                "STATUTORY DECLARATION OF CHAN SUK HUNG (RE RESIDENTIAL UNITS)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925598838338108,
@@ -1526,7 +5280,39 @@
         1103138980,
         null,
         "11 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 435",
+            "New Grant Lot",
+            "C6102895",
+            [
+              [
+                "UB7449954",
+                "1998-03-30",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "UB7858191",
+                "1999-08-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB8228570",
+                "2000-10-30",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB8302407",
+                "2001-02-06",
+                "STATUTORY DECLARATION OF CHAN SUK HUNG (RE RESIDENTIAL UNITS)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925647047556976,
@@ -1545,7 +5331,39 @@
         1103138984,
         null,
         "11 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 435",
+            "New Grant Lot",
+            "C6102895",
+            [
+              [
+                "UB7449954",
+                "1998-03-30",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "UB7858191",
+                "1999-08-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB8228570",
+                "2000-10-30",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB8302407",
+                "2001-02-06",
+                "STATUTORY DECLARATION OF CHAN SUK HUNG (RE RESIDENTIAL UNITS)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925554228617275,
@@ -1564,7 +5382,39 @@
         1103138985,
         "BROADVIEW COURT BLOCK 3",
         "11 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 435",
+            "New Grant Lot",
+            "C6102895",
+            [
+              [
+                "UB7449954",
+                "1998-03-30",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "UB7858191",
+                "1999-08-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB8228570",
+                "2000-10-30",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB8302407",
+                "2001-02-06",
+                "STATUTORY DECLARATION OF CHAN SUK HUNG (RE RESIDENTIAL UNITS)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925668241034544,
@@ -1621,7 +5471,81 @@
         1103138990,
         "MANLY VILLA B1",
         "38 OCEAN PARK ROAD",
-        []
+        [
+          [
+            "RBL 853",
+            "New Grant Lot",
+            "C4717769",
+            [
+              [
+                "UB494163",
+                "1965-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633935",
+                "1968-07-12",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "UB633934",
+                "1968-07-12",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB713235",
+                "1969-12-31",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "UB1902161",
+                "1980-05-27",
+                "-",
+                null
+              ],
+              [
+                "UB1920361",
+                "1980-07-26",
+                "-",
+                null
+              ],
+              [
+                "UB2050893",
+                "1981-03-14",
+                "BUILDING MORTGAGE",
+                "6000000.0"
+              ],
+              [
+                "UB2050894",
+                "1981-03-14",
+                "SECOND MORTGAGE TO SECURE CREDIT FACILITIES",
+                "4000000.0"
+              ],
+              [
+                "UB2181816",
+                "1981-12-01",
+                "FURTHER CHARGE ON BUILDING MORTGAGE MEM.NO.2050893",
+                "13000000.0"
+              ],
+              [
+                "UB2181815",
+                "1981-12-01",
+                "DEED OF VARIATION ON MEM.NO. 2050893",
+                null
+              ],
+              [
+                "UB2388142",
+                "1983-04-07",
+                "LETTER WITH CERTIFIED COPY OF A CAR PARK LAY-OUT PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927498501592433,
@@ -1640,7 +5564,51 @@
         1103139003,
         "CANADIAN INTERNATIONAL SCHOOL",
         "36 NAM LONG SHAN ROAD",
-        []
+        [
+          [
+            "AIL 417",
+            "New Grant Lot",
+            "C4764940",
+            [
+              [
+                "UB7738685",
+                "1998-01-05",
+                "CERTIFICATE OF INCORPORATION ON CHANGE OF NAME (CERTIFIED COPY)",
+                null
+              ],
+              [
+                "UB7738687",
+                "1999-03-26",
+                "MORTGAGE",
+                "66591000.0"
+              ],
+              [
+                "UB7738686",
+                "1999-03-26",
+                "LOAN AGREEMENT",
+                "66591000.0"
+              ],
+              [
+                "UB7793717",
+                "1999-05-31",
+                "SUPPLEMENTAL DEED TO LOAN AGREEMENT RECTIFYING M/N 7738686",
+                null
+              ],
+              [
+                "UB9436198",
+                "2004-12-30",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "13020501440019",
+                "2013-01-07",
+                "RELEASE AND/OR REASSIGNMENT",
+                "ALL MONIES"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925936278687744,
@@ -1735,7 +5703,39 @@
         1103139018,
         null,
         "11 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 435",
+            "New Grant Lot",
+            "C6102895",
+            [
+              [
+                "UB7449954",
+                "1998-03-30",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "UB7858191",
+                "1999-08-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB8228570",
+                "2000-10-30",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB8302407",
+                "2001-02-06",
+                "STATUTORY DECLARATION OF CHAN SUK HUNG (RE RESIDENTIAL UNITS)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925621089220347,
@@ -1773,7 +5773,39 @@
         1103139023,
         "BROADVIEW COURT BLOCK 4",
         "11 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 435",
+            "New Grant Lot",
+            "C6102895",
+            [
+              [
+                "UB7449954",
+                "1998-03-30",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "UB7858191",
+                "1999-08-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB8228570",
+                "2000-10-30",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB8302407",
+                "2001-02-06",
+                "STATUTORY DECLARATION OF CHAN SUK HUNG (RE RESIDENTIAL UNITS)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925725893330217,
@@ -1792,7 +5824,14 @@
         1103139036,
         "VICTORIA SHANGHAI ACADEMY",
         "19 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 475",
+            "New Grant Lot",
+            "D6434188",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9925811274448695,
@@ -1811,7 +5850,39 @@
         1103139046,
         null,
         "11 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 435",
+            "New Grant Lot",
+            "C6102895",
+            [
+              [
+                "UB7449954",
+                "1998-03-30",
+                "DEBENTURE AND MORTGAGE",
+                null
+              ],
+              [
+                "UB7858191",
+                "1999-08-25",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB8228570",
+                "2000-10-30",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "UB8302407",
+                "2001-02-06",
+                "STATUTORY DECLARATION OF CHAN SUK HUNG (RE RESIDENTIAL UNITS)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925710213445416,
@@ -1830,7 +5901,14 @@
         1103139055,
         null,
         "19 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 475",
+            "New Grant Lot",
+            "D6434188",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9925759801043716,
@@ -1849,7 +5927,51 @@
         1103139061,
         "LEO LEE ARTS CENTRE",
         null,
-        []
+        [
+          [
+            "AIL 417",
+            "New Grant Lot",
+            "C4764940",
+            [
+              [
+                "UB7738685",
+                "1998-01-05",
+                "CERTIFICATE OF INCORPORATION ON CHANGE OF NAME (CERTIFIED COPY)",
+                null
+              ],
+              [
+                "UB7738687",
+                "1999-03-26",
+                "MORTGAGE",
+                "66591000.0"
+              ],
+              [
+                "UB7738686",
+                "1999-03-26",
+                "LOAN AGREEMENT",
+                "66591000.0"
+              ],
+              [
+                "UB7793717",
+                "1999-05-31",
+                "SUPPLEMENTAL DEED TO LOAN AGREEMENT RECTIFYING M/N 7738686",
+                null
+              ],
+              [
+                "UB9436198",
+                "2004-12-30",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "13020501440019",
+                "2013-01-07",
+                "RELEASE AND/OR REASSIGNMENT",
+                "ALL MONIES"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925956289993927,
@@ -1868,7 +5990,14 @@
         1103139066,
         null,
         "19 SHUM WAN ROAD",
-        []
+        [
+          [
+            "AIL 475",
+            "New Grant Lot",
+            "D6434188",
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9925735693720104,
@@ -1906,7 +6035,51 @@
         1103139081,
         null,
         null,
-        []
+        [
+          [
+            "AIL 398",
+            "New Grant Lot",
+            "C4764919",
+            [
+              [
+                "UB3450261",
+                "1987-07-22",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB8773912",
+                "2002-06-21",
+                "ORDER NO.DH070/HK/02/C UNDER S.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "09111002530010",
+                "2008-06-10",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "09032500500307",
+                "2009-01-23",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "10021100500204",
+                "2009-12-07",
+                "LETTER OF COMPLETION",
+                null
+              ],
+              [
+                "11102002710028",
+                "2011-10-17",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992593627031598,
@@ -1925,7 +6098,45 @@
         1103139087,
         null,
         null,
-        []
+        [
+          [
+            "RBL 1089",
+            "New Grant Lot",
+            "C5278773",
+            [
+              [
+                "UB7912451",
+                "1999-03-15",
+                "WAIVER LETTER",
+                null
+              ],
+              [
+                "UB8547983",
+                "1999-07-21",
+                "CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ],
+              [
+                "UB8547984",
+                "2001-02-21",
+                "CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ],
+              [
+                "UB8980816",
+                "2003-06-27",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ],
+              [
+                "05082400480108",
+                "2005-05-23",
+                "WAIVER LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9927032448689823,
@@ -1963,7 +6174,51 @@
         1103139092,
         "HONG KONG JUVENILE CARE CENTRE CHAN NAM CHEONG MEMORIAL SCHOOL",
         "38 NAM LONG SHAN ROAD",
-        []
+        [
+          [
+            "AIL 398",
+            "New Grant Lot",
+            "C4764919",
+            [
+              [
+                "UB3450261",
+                "1987-07-22",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB8773912",
+                "2002-06-21",
+                "ORDER NO.DH070/HK/02/C UNDER S.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "09111002530010",
+                "2008-06-10",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "09032500500307",
+                "2009-01-23",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "10021100500204",
+                "2009-12-07",
+                "LETTER OF COMPLETION",
+                null
+              ],
+              [
+                "11102002710028",
+                "2011-10-17",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925976617421932,
@@ -2020,7 +6275,51 @@
         1103139153,
         "HONG KONG JUVENILE CARE CENTRE SUBSTATION",
         null,
-        []
+        [
+          [
+            "AIL 398",
+            "New Grant Lot",
+            "C4764919",
+            [
+              [
+                "UB3450261",
+                "1987-07-22",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB8773912",
+                "2002-06-21",
+                "ORDER NO.DH070/HK/02/C UNDER S.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "09111002530010",
+                "2008-06-10",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "09032500500307",
+                "2009-01-23",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "10021100500204",
+                "2009-12-07",
+                "LETTER OF COMPLETION",
+                null
+              ],
+              [
+                "11102002710028",
+                "2011-10-17",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9926013939329674,
@@ -2153,7 +6452,14 @@
         1103139589,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927337141008932,
@@ -2172,7 +6478,14 @@
         1103139618,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926926820338247,
@@ -2191,7 +6504,14 @@
         1103139628,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927320381901732,
@@ -2210,7 +6530,14 @@
         1103139635,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927133884587087,
@@ -2229,7 +6556,14 @@
         1103139980,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926511586291054,
@@ -2248,7 +6582,14 @@
         1103140017,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926288378026265,
@@ -2267,7 +6608,14 @@
         1103140021,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926279002512681,
@@ -2286,7 +6634,14 @@
         1103140033,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926301615839912,
@@ -2305,7 +6660,14 @@
         1103140052,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926296396621517,
@@ -2324,7 +6686,14 @@
         1103140066,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926188888359324,
@@ -2343,7 +6712,14 @@
         1103140116,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926206332762957,
@@ -2362,7 +6738,14 @@
         1103140200,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926159743206373,
@@ -2381,7 +6764,14 @@
         1103140205,
         "UPPER CABLE CAR TERMINAL",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926856302303715,
@@ -2400,7 +6790,14 @@
         1103140230,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926462814237533,
@@ -2419,7 +6816,14 @@
         1103140244,
         "OCEANARIUM HEADLAND SITE SUBSTATION",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926690110341831,
@@ -2438,7 +6842,14 @@
         1103140248,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926419318369548,
@@ -2457,7 +6868,14 @@
         1103140253,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926474471957534,
@@ -2476,7 +6894,14 @@
         1103140255,
         "PACIFIC CHANDLERS",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926341278175723,
@@ -2495,7 +6920,14 @@
         1103140259,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.99261024908085,
@@ -2514,7 +6946,14 @@
         1103140270,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926730864436792,
@@ -2533,7 +6972,14 @@
         1103140275,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926419300164484,
@@ -2552,7 +6998,14 @@
         1103140279,
         "BOARDWALK CAFE",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926342930635763,
@@ -2571,7 +7024,14 @@
         1103140282,
         "MARITIME POINT",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992638866858717,
@@ -2590,7 +7050,14 @@
         1103140300,
         "OCEAN PARADISE",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992670809991577,
@@ -2609,7 +7076,14 @@
         1103140328,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926666214590416,
@@ -2628,7 +7102,14 @@
         1103140332,
         "WAVE COVE",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926289634678944,
@@ -2647,7 +7128,14 @@
         1103140333,
         "CHINESE STURGEON AQUARIUM YANGTZE EXPLORATION",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926823524912316,
@@ -2666,7 +7154,14 @@
         1103140349,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926325177223498,
@@ -2685,7 +7180,14 @@
         1103140359,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926334050208052,
@@ -2704,7 +7206,14 @@
         1103140360,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992630937705772,
@@ -2723,7 +7232,14 @@
         1103140365,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926634474908993,
@@ -2742,7 +7258,14 @@
         1103140405,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992673617099717,
@@ -2761,7 +7284,14 @@
         1103140409,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992678009317225,
@@ -2780,7 +7310,14 @@
         1103140411,
         "SHARK MYSTIQUE",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926888295261127,
@@ -2799,7 +7336,14 @@
         1103140414,
         "OCEAN PARK HONG KONG VET CENTRE",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926481300351222,
@@ -2818,7 +7362,14 @@
         1103140436,
         "MARINE MAMMAL BREEDING AND RESEARCH CENTRE",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992641411290974,
@@ -2837,7 +7388,14 @@
         1103140439,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926855564360917,
@@ -2856,7 +7414,14 @@
         1103140440,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926824656986577,
@@ -2875,7 +7440,14 @@
         1103140449,
         "OCEAN PARK HEADLAND RIDES SUBSTATION",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926766619081206,
@@ -2894,7 +7466,14 @@
         1103140452,
         "CAFE OCEAN",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926704617227329,
@@ -2913,7 +7492,14 @@
         1103140453,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926800402281446,
@@ -2932,7 +7518,14 @@
         1103140457,
         "OCEAN PARK VETERINARY CENTRE SUBSTATION",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926304150404301,
@@ -2951,7 +7544,14 @@
         1103140459,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992676607906845,
@@ -2970,7 +7570,14 @@
         1103140462,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926827850762836,
@@ -2989,7 +7596,14 @@
         1103140468,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926837861268327,
@@ -3008,7 +7622,14 @@
         1103140469,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926778010269237,
@@ -3027,7 +7648,14 @@
         1103140477,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926830434397664,
@@ -3046,7 +7674,14 @@
         1103140508,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926808259159032,
@@ -3065,7 +7700,14 @@
         1109346702,
         "OCEAN EXPRESS SUMMIT STATION",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926568997407363,
@@ -3084,7 +7726,75 @@
         1109347595,
         null,
         "30 NAM LONG SHAN ROAD",
-        []
+        [
+          [
+            "RBL 861 &EXT",
+            "New Grant Lot",
+            "C4717829",
+            [
+              [
+                "UB3006829",
+                "1986-03-12",
+                "EXTENSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "UB6977657",
+                "1997-02-15",
+                "ORDER NO.DH 8/HK/97/C UNDER SEC.27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "UB8770106",
+                "2002-06-06",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "18010401680029",
+                "2017-12-13",
+                "NOTICE NO. \"DH0027/HK/17/C\" UNDER  S. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "18010401680019",
+                "2017-12-13",
+                "NOTICE NO. \"DH0026/HK/17/C\" UNDER  S. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "21070200820250",
+                "2021-06-02",
+                "ORDER NO. \"DH0017/HK/21/C\" UNDER S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "21070801870123",
+                "2021-06-02",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0027/HK/17/C\")",
+                null
+              ],
+              [
+                "24061300600012",
+                "2024-03-07",
+                "ORDER NO. \"DH0025/HK/24/C\" BY THE BUILDING AUTHORITY UNDER  S. 27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "24052900930016",
+                "2024-03-07",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0026/HK/17/C\")",
+                null
+              ],
+              [
+                "24061700600204",
+                "2024-03-18",
+                "LETTER OF COMPLIANCE (ORDER NO. \"DH0017/HK/21/C\")",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925579249358571,
@@ -3103,7 +7813,189 @@
         1810054462,
         "LARVOTTO TOWER 1",
         "8 AP LEI CHAU PRAYA ROAD",
-        []
+        [
+          [
+            "APIL 129",
+            "New Grant Lot",
+            "C5434893",
+            [
+              [
+                "UB6471480",
+                "1995-11-24",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "UB6471475",
+                "1995-11-24",
+                "UNDERTAKING BY INTERNATIONAL BANK OF ASIA LIMITED",
+                null
+              ],
+              [
+                "UB6471476",
+                "1995-11-24",
+                "DEBENTURE",
+                null
+              ],
+              [
+                "UB6471479",
+                "1995-11-24",
+                "ASSIGNMENT OF SALE PROCEEDS",
+                null
+              ],
+              [
+                "UB7058594",
+                "1997-03-27",
+                "RELEASE OF ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "UB7058595",
+                "1997-03-27",
+                "DEBENTURE",
+                "126000000.0"
+              ],
+              [
+                "UB7058597",
+                "1997-03-27",
+                "ASSIGNMENT OF SALE PROCEEDS",
+                null
+              ],
+              [
+                "UB7058593",
+                "1997-03-27",
+                "RELEASE OF ASSIGNMENT OF SALE PROCEEDS",
+                null
+              ],
+              [
+                "UB7866544",
+                "1997-03-27",
+                "RELEASE OF DEBENTURE (PREVIOUSLY REGD. BY 7058592)",
+                null
+              ],
+              [
+                "UB7058592",
+                "1997-03-27",
+                "RELEASE OF DEBENTURE",
+                null
+              ],
+              [
+                "UB7058596",
+                "1997-03-27",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "UB7482375",
+                "1998-04-25",
+                "ASSIGNMENT OF SALE PROCEEDS",
+                null
+              ],
+              [
+                "UB7482372",
+                "1998-04-25",
+                "RELEASE OF ASSIGNMENT OF SALE PROCEEDS",
+                null
+              ],
+              [
+                "UB7482374",
+                "1998-04-25",
+                "DEBENTURE",
+                "114000000.0"
+              ],
+              [
+                "UB7482371",
+                "1998-04-25",
+                "RELEASE OF DEBENTURE",
+                null
+              ],
+              [
+                "UB7482373",
+                "1998-04-25",
+                "RELEASE OF ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "UB7482376",
+                "1998-04-25",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "UB7495628",
+                "1998-05-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7880622",
+                "1999-09-14",
+                "DEED OF RELEASE OF ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "UB7880620",
+                "1999-09-14",
+                "DEED OF RELEASE OF DEBENTURE",
+                null
+              ],
+              [
+                "UB7880621",
+                "1999-09-14",
+                "DEED OF RELEASE OF ASSIGNMENT OF SALE PROCEEDS",
+                null
+              ],
+              [
+                "05111500180018",
+                "2005-11-09",
+                "MODIFICATION LETTER WITH PLANS",
+                null
+              ],
+              [
+                "07032801150821",
+                "2006-09-12",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "07030100250018",
+                "2007-02-27",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "09082702750070",
+                "2009-08-21",
+                "MEMORANDUM FOR PLAN INDICATING THE LOCATION, NATURE AND EXTENT OF THE LANDSLIP HAZARDS STUDY AREAS",
+                null
+              ],
+              [
+                "10040102760230",
+                "2010-03-24",
+                "LETTER",
+                null
+              ],
+              [
+                "10071302820527",
+                "2010-06-10",
+                "BANK UNDERTAKING",
+                null
+              ],
+              [
+                "10071302820518",
+                "2010-06-21",
+                "BANK UNDERTAKING",
+                null
+              ],
+              [
+                "10071302820533",
+                "2010-07-09",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924679960773788,
@@ -3122,7 +8014,189 @@
         1810054464,
         "LARVOTTO TOWER 2",
         "8 AP LEI CHAU PRAYA ROAD",
-        []
+        [
+          [
+            "APIL 129",
+            "New Grant Lot",
+            "C5434893",
+            [
+              [
+                "UB6471480",
+                "1995-11-24",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "UB6471475",
+                "1995-11-24",
+                "UNDERTAKING BY INTERNATIONAL BANK OF ASIA LIMITED",
+                null
+              ],
+              [
+                "UB6471476",
+                "1995-11-24",
+                "DEBENTURE",
+                null
+              ],
+              [
+                "UB6471479",
+                "1995-11-24",
+                "ASSIGNMENT OF SALE PROCEEDS",
+                null
+              ],
+              [
+                "UB7058594",
+                "1997-03-27",
+                "RELEASE OF ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "UB7058595",
+                "1997-03-27",
+                "DEBENTURE",
+                "126000000.0"
+              ],
+              [
+                "UB7058597",
+                "1997-03-27",
+                "ASSIGNMENT OF SALE PROCEEDS",
+                null
+              ],
+              [
+                "UB7058593",
+                "1997-03-27",
+                "RELEASE OF ASSIGNMENT OF SALE PROCEEDS",
+                null
+              ],
+              [
+                "UB7866544",
+                "1997-03-27",
+                "RELEASE OF DEBENTURE (PREVIOUSLY REGD. BY 7058592)",
+                null
+              ],
+              [
+                "UB7058592",
+                "1997-03-27",
+                "RELEASE OF DEBENTURE",
+                null
+              ],
+              [
+                "UB7058596",
+                "1997-03-27",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "UB7482375",
+                "1998-04-25",
+                "ASSIGNMENT OF SALE PROCEEDS",
+                null
+              ],
+              [
+                "UB7482372",
+                "1998-04-25",
+                "RELEASE OF ASSIGNMENT OF SALE PROCEEDS",
+                null
+              ],
+              [
+                "UB7482374",
+                "1998-04-25",
+                "DEBENTURE",
+                "114000000.0"
+              ],
+              [
+                "UB7482371",
+                "1998-04-25",
+                "RELEASE OF DEBENTURE",
+                null
+              ],
+              [
+                "UB7482373",
+                "1998-04-25",
+                "RELEASE OF ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "UB7482376",
+                "1998-04-25",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "UB7495628",
+                "1998-05-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7880622",
+                "1999-09-14",
+                "DEED OF RELEASE OF ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "UB7880620",
+                "1999-09-14",
+                "DEED OF RELEASE OF DEBENTURE",
+                null
+              ],
+              [
+                "UB7880621",
+                "1999-09-14",
+                "DEED OF RELEASE OF ASSIGNMENT OF SALE PROCEEDS",
+                null
+              ],
+              [
+                "05111500180018",
+                "2005-11-09",
+                "MODIFICATION LETTER WITH PLANS",
+                null
+              ],
+              [
+                "07032801150821",
+                "2006-09-12",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "07030100250018",
+                "2007-02-27",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "09082702750070",
+                "2009-08-21",
+                "MEMORANDUM FOR PLAN INDICATING THE LOCATION, NATURE AND EXTENT OF THE LANDSLIP HAZARDS STUDY AREAS",
+                null
+              ],
+              [
+                "10040102760230",
+                "2010-03-24",
+                "LETTER",
+                null
+              ],
+              [
+                "10071302820527",
+                "2010-06-10",
+                "BANK UNDERTAKING",
+                null
+              ],
+              [
+                "10071302820518",
+                "2010-06-21",
+                "BANK UNDERTAKING",
+                null
+              ],
+              [
+                "10071302820533",
+                "2010-07-09",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924700645666702,
@@ -3141,7 +8215,189 @@
         1810054466,
         "LARVOTTO TOWER 3",
         "8 AP LEI CHAU PRAYA ROAD",
-        []
+        [
+          [
+            "APIL 129",
+            "New Grant Lot",
+            "C5434893",
+            [
+              [
+                "UB6471480",
+                "1995-11-24",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "UB6471475",
+                "1995-11-24",
+                "UNDERTAKING BY INTERNATIONAL BANK OF ASIA LIMITED",
+                null
+              ],
+              [
+                "UB6471476",
+                "1995-11-24",
+                "DEBENTURE",
+                null
+              ],
+              [
+                "UB6471479",
+                "1995-11-24",
+                "ASSIGNMENT OF SALE PROCEEDS",
+                null
+              ],
+              [
+                "UB7058594",
+                "1997-03-27",
+                "RELEASE OF ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "UB7058595",
+                "1997-03-27",
+                "DEBENTURE",
+                "126000000.0"
+              ],
+              [
+                "UB7058597",
+                "1997-03-27",
+                "ASSIGNMENT OF SALE PROCEEDS",
+                null
+              ],
+              [
+                "UB7058593",
+                "1997-03-27",
+                "RELEASE OF ASSIGNMENT OF SALE PROCEEDS",
+                null
+              ],
+              [
+                "UB7866544",
+                "1997-03-27",
+                "RELEASE OF DEBENTURE (PREVIOUSLY REGD. BY 7058592)",
+                null
+              ],
+              [
+                "UB7058592",
+                "1997-03-27",
+                "RELEASE OF DEBENTURE",
+                null
+              ],
+              [
+                "UB7058596",
+                "1997-03-27",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "UB7482375",
+                "1998-04-25",
+                "ASSIGNMENT OF SALE PROCEEDS",
+                null
+              ],
+              [
+                "UB7482372",
+                "1998-04-25",
+                "RELEASE OF ASSIGNMENT OF SALE PROCEEDS",
+                null
+              ],
+              [
+                "UB7482374",
+                "1998-04-25",
+                "DEBENTURE",
+                "114000000.0"
+              ],
+              [
+                "UB7482371",
+                "1998-04-25",
+                "RELEASE OF DEBENTURE",
+                null
+              ],
+              [
+                "UB7482373",
+                "1998-04-25",
+                "RELEASE OF ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "UB7482376",
+                "1998-04-25",
+                "ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "UB7495628",
+                "1998-05-20",
+                "UNDERTAKING",
+                null
+              ],
+              [
+                "UB7880622",
+                "1999-09-14",
+                "DEED OF RELEASE OF ASSIGNMENT OF RENTAL",
+                null
+              ],
+              [
+                "UB7880620",
+                "1999-09-14",
+                "DEED OF RELEASE OF DEBENTURE",
+                null
+              ],
+              [
+                "UB7880621",
+                "1999-09-14",
+                "DEED OF RELEASE OF ASSIGNMENT OF SALE PROCEEDS",
+                null
+              ],
+              [
+                "05111500180018",
+                "2005-11-09",
+                "MODIFICATION LETTER WITH PLANS",
+                null
+              ],
+              [
+                "07032801150821",
+                "2006-09-12",
+                "PERMISSION LETTER WITH PLAN",
+                null
+              ],
+              [
+                "07030100250018",
+                "2007-02-27",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "09082702750070",
+                "2009-08-21",
+                "MEMORANDUM FOR PLAN INDICATING THE LOCATION, NATURE AND EXTENT OF THE LANDSLIP HAZARDS STUDY AREAS",
+                null
+              ],
+              [
+                "10040102760230",
+                "2010-03-24",
+                "LETTER",
+                null
+              ],
+              [
+                "10071302820527",
+                "2010-06-10",
+                "BANK UNDERTAKING",
+                null
+              ],
+              [
+                "10071302820518",
+                "2010-06-21",
+                "BANK UNDERTAKING",
+                null
+              ],
+              [
+                "10071302820533",
+                "2010-07-09",
+                "STATUTORY DECLARATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9924659142993746,
@@ -3160,7 +8416,14 @@
         1810069655,
         "OCEAN EXPRESS SUMMIT STATION",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926565049928657,
@@ -3179,7 +8442,14 @@
         1810069666,
         "RAINFOREST GIFT SHOP",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992661250403194,
@@ -3198,7 +8468,14 @@
         1810069667,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926619403521626,
@@ -3217,7 +8494,14 @@
         1810069771,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926827822781779,
@@ -3236,7 +8520,14 @@
         1810069784,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.99268354358952,
@@ -3255,7 +8546,14 @@
         1810076218,
         "RAINFOREST BAZAAR",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926682811864913,
@@ -3274,7 +8572,14 @@
         1810076233,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926759331239194,
@@ -3293,7 +8598,14 @@
         1810076234,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926776574997314,
@@ -3312,7 +8624,14 @@
         1810076263,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926699421421463,
@@ -3331,7 +8650,14 @@
         1810076269,
         "CHALLENGE ZONE",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992669429498742,
@@ -3350,7 +8676,14 @@
         1810076279,
         "CLOWN CORNER",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926668406701336,
@@ -3369,7 +8702,14 @@
         1810076287,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926744954178313,
@@ -3388,7 +8728,14 @@
         1810076325,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926840246887672,
@@ -3407,7 +8754,14 @@
         1810082637,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992671458361539,
@@ -3426,7 +8780,14 @@
         1810082638,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926764513926993,
@@ -3445,7 +8806,14 @@
         1810086535,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.99266986394553,
@@ -3464,7 +8832,14 @@
         1810086543,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926727941620734,
@@ -3483,7 +8858,14 @@
         1810086545,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926689838821536,
@@ -3502,7 +8884,14 @@
         1810098767,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926937824666746,
@@ -3521,7 +8910,14 @@
         1810098799,
         "BRICK HILL",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926724925319526,
@@ -3540,7 +8936,14 @@
         1810124794,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926680225146418,
@@ -3559,7 +8962,14 @@
         1810125476,
         "OCEAN PARK MARINE WORLD SUBSTATION",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926708848777583,
@@ -3578,7 +8988,14 @@
         1810125613,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926575129210644,
@@ -3597,7 +9014,14 @@
         1810125667,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927616112317863,
@@ -3616,7 +9040,14 @@
         1810125668,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9927635693724568,
@@ -3635,7 +9066,14 @@
         1810125733,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926727816328444,
@@ -3654,7 +9092,69 @@
         1810147588,
         null,
         null,
-        []
+        [
+          [
+            "AIL 330",
+            "New Grant Lot",
+            "C4274624",
+            [
+              [
+                "UB8479246",
+                "2001-08-03",
+                "ORDER NO.DH104/HK/01/C UNDER SEC. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "UB9116219",
+                "2003-12-03",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "UB9360592",
+                "2004-09-18",
+                "COMPLETION LETTER RELATING TO ORDER NO.DH104/HK/01/C",
+                null
+              ],
+              [
+                "06090601920064",
+                "2006-08-11",
+                "ORDER NO. DH0025/HK/06/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "06090601920079",
+                "2006-08-11",
+                "ORDER NO.DH0026/HK/06/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "13080701240073",
+                "2013-07-24",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "16120201030199",
+                "2016-09-12",
+                "LETTER OF COMPLETION",
+                null
+              ],
+              [
+                "19010702040047",
+                "2018-07-17",
+                "LETTER OF APPROVAL OF BUILDING PLAN SUBMISSION",
+                null
+              ],
+              [
+                "19010702040057",
+                "2018-12-18",
+                "MEMORANDUM OF ARCHITECT'S CERTIFIED COPY FOR THE REVISED LAYOUT PLAN FOR CAR PARKING SPACES",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925822528437636,
@@ -3673,7 +9173,69 @@
         1810147589,
         "TUNG WAH GROUP OF HOSPITALS JOCKEY CLUB SUNSHINE COMPLEX FOR THE ELDERLY",
         "29 NAM LONG SHAN ROAD",
-        []
+        [
+          [
+            "AIL 330",
+            "New Grant Lot",
+            "C4274624",
+            [
+              [
+                "UB8479246",
+                "2001-08-03",
+                "ORDER NO.DH104/HK/01/C UNDER SEC. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "UB9116219",
+                "2003-12-03",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "UB9360592",
+                "2004-09-18",
+                "COMPLETION LETTER RELATING TO ORDER NO.DH104/HK/01/C",
+                null
+              ],
+              [
+                "06090601920064",
+                "2006-08-11",
+                "ORDER NO. DH0025/HK/06/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "06090601920079",
+                "2006-08-11",
+                "ORDER NO.DH0026/HK/06/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "13080701240073",
+                "2013-07-24",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "16120201030199",
+                "2016-09-12",
+                "LETTER OF COMPLETION",
+                null
+              ],
+              [
+                "19010702040047",
+                "2018-07-17",
+                "LETTER OF APPROVAL OF BUILDING PLAN SUBMISSION",
+                null
+              ],
+              [
+                "19010702040057",
+                "2018-12-18",
+                "MEMORANDUM OF ARCHITECT'S CERTIFIED COPY FOR THE REVISED LAYOUT PLAN FOR CAR PARKING SPACES",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925774484683625,
@@ -3692,7 +9254,69 @@
         1810147645,
         "TUNG WAH GROUP OF HOSPITALS JOCKEY CLUB SUNSHINE COMPLEX FOR THE ELDERLY",
         null,
-        []
+        [
+          [
+            "AIL 330",
+            "New Grant Lot",
+            "C4274624",
+            [
+              [
+                "UB8479246",
+                "2001-08-03",
+                "ORDER NO.DH104/HK/01/C UNDER SEC. 27A OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "UB9116219",
+                "2003-12-03",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "UB9360592",
+                "2004-09-18",
+                "COMPLETION LETTER RELATING TO ORDER NO.DH104/HK/01/C",
+                null
+              ],
+              [
+                "06090601920064",
+                "2006-08-11",
+                "ORDER NO. DH0025/HK/06/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "06090601920079",
+                "2006-08-11",
+                "ORDER NO.DH0026/HK/06/C BY THE BUILDING AUTHORITY UNDER S.27A OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "13080701240073",
+                "2013-07-24",
+                "LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "16120201030199",
+                "2016-09-12",
+                "LETTER OF COMPLETION",
+                null
+              ],
+              [
+                "19010702040047",
+                "2018-07-17",
+                "LETTER OF APPROVAL OF BUILDING PLAN SUBMISSION",
+                null
+              ],
+              [
+                "19010702040057",
+                "2018-12-18",
+                "MEMORANDUM OF ARCHITECT'S CERTIFIED COPY FOR THE REVISED LAYOUT PLAN FOR CAR PARKING SPACES",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9925777623713212,
@@ -3711,7 +9335,14 @@
         1810152840,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926878882833494,
@@ -3730,7 +9361,14 @@
         1810179632,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992775412267539,
@@ -3901,7 +9539,14 @@
         1810201582,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992561492422436,
@@ -3920,7 +9565,14 @@
         1810201583,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.992573420449043,
@@ -3939,7 +9591,14 @@
         1810201590,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9925660438063562,
@@ -3958,7 +9617,14 @@
         1910207817,
         "HORIZON COVE",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926110566250492,
@@ -3977,7 +9643,14 @@
         1910214470,
         "HORIZON COVE",
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9926123128531628,
@@ -3996,7 +9669,14 @@
         1910221690,
         null,
         "180 WONG CHUK HANG ROAD",
-        []
+        [
+          [
+            "RBL 1020 RP &EXT",
+            "New Grant Lot",
+            null,
+            []
+          ]
+        ]
       ],
       "coordinate": [
         1.9925510688901977,

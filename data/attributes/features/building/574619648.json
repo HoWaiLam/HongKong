@@ -25,7 +25,39 @@
         1108526240,
         null,
         null,
-        []
+        [
+          [
+            "DD377 188",
+            "New Grant Lot",
+            "C2303960",
+            [
+              [
+                "TM571196",
+                "1992-10-30",
+                "DEED OF RECTIFICATION",
+                null
+              ],
+              [
+                "TM593059",
+                "1993-05-25",
+                "PARTIONLARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "TM937206",
+                "1994-01-13",
+                "CERTIFIED COPY OF CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ],
+              [
+                "TM951134",
+                "1999-03-05",
+                "CERTIFIED COPY OF CERTIFICATE OF INCORPORATION ON CHANGE OF NAME",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.989587404576833,

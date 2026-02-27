@@ -120,7 +120,69 @@
         1102451188,
         null,
         null,
-        []
+        [
+          [
+            "DD182 850",
+            "New Grant Lot",
+            "C4908340",
+            [
+              [
+                "ST160759",
+                "1967-09-04",
+                "-",
+                "12196.0"
+              ],
+              [
+                "ST180940",
+                "1977-01-07",
+                "MORTGAGE",
+                "100000.0"
+              ],
+              [
+                "ST196983",
+                "1980-11-05",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "1300000.0"
+              ],
+              [
+                "ST197744",
+                "1980-11-29",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "ST201897",
+                "1981-07-20",
+                "-",
+                "1300000.0"
+              ],
+              [
+                "ST488764",
+                "1989-08-07",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "50000.0"
+              ],
+              [
+                "ST492282",
+                "1989-09-04",
+                "-",
+                "50000.0"
+              ],
+              [
+                "ST573758",
+                "1991-03-15",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "800000.0"
+              ],
+              [
+                "ST577228",
+                "1991-04-04",
+                "-",
+                "800000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.992897514272812,
@@ -139,7 +201,27 @@
         1102451964,
         null,
         "8 SHAP YI WAT",
-        []
+        [
+          [
+            "DDSYWL 37",
+            "New Grant Lot",
+            "C4920244",
+            [
+              [
+                "ST228420",
+                "1983-05-05",
+                "DEED OF DIVISION",
+                null
+              ],
+              [
+                "19092301630025",
+                "2019-09-12",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9930966030448811,
@@ -177,7 +259,27 @@
         1102451971,
         null,
         "7 SHAP YI WAT",
-        []
+        [
+          [
+            "DDSYWL 36",
+            "New Grant Lot",
+            "C5555680",
+            [
+              [
+                "ST228420",
+                "1983-05-05",
+                "DEED OF DIVISION",
+                null
+              ],
+              [
+                "19092301630017",
+                "2019-09-12",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993096169791095,
@@ -196,7 +298,69 @@
         1102451978,
         null,
         "6 SHAP YI WAT",
-        []
+        [
+          [
+            "DDSYWL 35",
+            "New Grant Lot",
+            "C6221975",
+            [
+              [
+                "ST228420",
+                "1983-05-05",
+                "DEED OF DIVISION",
+                null
+              ],
+              [
+                "ST229238",
+                "1983-05-31",
+                "-",
+                null
+              ],
+              [
+                "ST338532",
+                "1986-07-05",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "480000.0"
+              ],
+              [
+                "ST343268",
+                "1986-10-01",
+                "-",
+                "480000.0"
+              ],
+              [
+                "ST896856",
+                "1996-01-15",
+                "CERTIFIED TRUE COPY OF DEATH CERTIFICATE OF FUNG FO \"DECEASED\"",
+                null
+              ],
+              [
+                "ST896857",
+                "1996-09-25",
+                "CERTIFICATE OF EXEMPTION",
+                null
+              ],
+              [
+                "ST1030405",
+                "1998-02-24",
+                "MEMORANDUM OF AGREEMENT FOR SALE AND PURCHASE",
+                "250000.0"
+              ],
+              [
+                "ST1030406",
+                "1998-02-24",
+                "ASSIGNMENT",
+                "250000.0"
+              ],
+              [
+                "25040701410274",
+                "2024-12-06",
+                "ORDER NO. VVS/R34/100142/24/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993095700504486,
@@ -215,7 +379,75 @@
         1102451981,
         null,
         "5 SHAP YI WAT",
-        []
+        [
+          [
+            "DDSYWL 34",
+            "New Grant Lot",
+            "C2175582",
+            [
+              [
+                "ST228420",
+                "1983-05-05",
+                "DEED OF DIVISION",
+                null
+              ],
+              [
+                "ST229238",
+                "1983-05-31",
+                "-",
+                null
+              ],
+              [
+                "ST417433",
+                "1984-08-17",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "ST357445",
+                "1987-01-09",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "ST400137",
+                "1987-10-24",
+                "SUB-MORTGAGE INCORPORATING SUPPLEMENT",
+                null
+              ],
+              [
+                "ST456626",
+                "1987-10-24",
+                "SUB-MORTGAGE BY FAR EAST BANK LIMITED",
+                null
+              ],
+              [
+                "ST417434",
+                "1988-02-29",
+                "REASSIGNMENT",
+                null
+              ],
+              [
+                "ST417436",
+                "1988-02-29",
+                "-",
+                "100000.0"
+              ],
+              [
+                "ST417435",
+                "1988-02-29",
+                "-",
+                "100000.0"
+              ],
+              [
+                "25040701410122",
+                "2024-12-06",
+                "ORDER NO.VVS/R34/100141/24/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9930952738152434,
@@ -234,7 +466,45 @@
         1102451983,
         null,
         "4 SHAP YI WAT",
-        []
+        [
+          [
+            "DDSYWL 33",
+            "New Grant Lot",
+            "C2175577",
+            [
+              [
+                "ST228420",
+                "1983-05-05",
+                "DEED OF DIVISION",
+                null
+              ],
+              [
+                "ST409909",
+                "1988-01-04",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "ST412351",
+                "1988-01-06",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST409910",
+                "1988-01-09",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "490000.0"
+              ],
+              [
+                "ST412352",
+                "1988-01-30",
+                "-",
+                "490000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993093910269718,
@@ -253,7 +523,69 @@
         1102451987,
         null,
         "3 SHAP YI WAT",
-        []
+        [
+          [
+            "DDSYWL 32",
+            "New Grant Lot",
+            "C2175567",
+            [
+              [
+                "ST228420",
+                "1983-05-05",
+                "DEED OF DIVISION",
+                null
+              ],
+              [
+                "ST409907",
+                "1988-01-04",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "ST412348",
+                "1988-01-06",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST409908",
+                "1988-01-10",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "480000.0"
+              ],
+              [
+                "ST412350",
+                "1988-01-30",
+                "TRIPARTITE LEGAL CHARGE/MORTGAGE",
+                null
+              ],
+              [
+                "ST412349",
+                "1988-01-30",
+                "-",
+                "480000.0"
+              ],
+              [
+                "ST449351",
+                "1988-11-07",
+                "RECEIPT ON DISCHARGE",
+                null
+              ],
+              [
+                "ST975664",
+                "1997-08-07",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "07110101730395",
+                "2007-10-22",
+                "RELEASE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9930931184980503,
@@ -291,7 +623,39 @@
         1102451993,
         null,
         "2 SHAP YI WAT",
-        []
+        [
+          [
+            "DDSYWL 31",
+            "New Grant Lot",
+            "C2175554",
+            [
+              [
+                "ST228420",
+                "1983-05-05",
+                "DEED OF DIVISION",
+                null
+              ],
+              [
+                "ST413030",
+                "1988-01-04",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "ST413031",
+                "1988-02-11",
+                "-",
+                "500000.0"
+              ],
+              [
+                "12030101190046",
+                "2012-02-03",
+                "ASSIGNMENT",
+                "1950000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9930921529543684,
@@ -329,7 +693,39 @@
         1102451995,
         null,
         "1 SHAP YI WAT",
-        []
+        [
+          [
+            "DDSYWL 30",
+            "New Grant Lot",
+            "C2175546",
+            [
+              [
+                "ST228420",
+                "1983-05-05",
+                "DEED OF DIVISION",
+                null
+              ],
+              [
+                "ST413028",
+                "1988-01-04",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "ST413029",
+                "1988-02-11",
+                "-",
+                "500000.0"
+              ],
+              [
+                "25040701410266",
+                "2024-12-06",
+                "ORDER NO. VVS/R34/100140/24/NT UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9930913149191987,
@@ -367,7 +763,21 @@
         1102452056,
         null,
         "12 SHAP YI WAT",
-        []
+        [
+          [
+            "DDSYWL 24",
+            "New Grant Lot",
+            "C2175491",
+            [
+              [
+                "ST184617",
+                "1978-08-14",
+                "MODIFICATION LETTER",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9931410251432469,
@@ -386,7 +796,142 @@
         1102452057,
         null,
         "9 SHAP YI WAT",
-        []
+        [
+          [
+            "DDSYWL 25",
+            "New Grant Lot",
+            "C2175504",
+            [
+              [
+                "ST181586",
+                "1977-05-26",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST187048",
+                "1978-12-22",
+                "-",
+                "260000.0"
+              ],
+              [
+                "ST187049",
+                "1978-12-22",
+                "MORTGAGE",
+                "222300.0"
+              ],
+              [
+                "ST345239",
+                "1986-10-02",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "ST345238",
+                "1986-10-02",
+                "RELEASE",
+                null
+              ],
+              [
+                "ST854286",
+                "1996-03-06",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "ST1366864",
+                "2004-04-30",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "15032601250013",
+                "2015-03-03",
+                "RELEASE",
+                "ALL MONIES"
+              ]
+            ]
+          ],
+          [
+            "DDSYWL 29",
+            "New Grant Lot",
+            "C2175537",
+            [
+              [
+                "ST181587",
+                "1977-05-26",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST183222",
+                "1977-11-08",
+                "DEVELOPMENT AGREEMENT",
+                null
+              ],
+              [
+                "ST326453",
+                "1978-10-14",
+                "COPY OF LETTER OF COMPLIANCE",
+                null
+              ],
+              [
+                "ST188837",
+                "1979-06-13",
+                "-",
+                "208000.0"
+              ],
+              [
+                "ST212800",
+                "1982-05-13",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "900000.0"
+              ],
+              [
+                "ST214406",
+                "1982-06-15",
+                "-",
+                "900000.0"
+              ],
+              [
+                "ST214407",
+                "1982-06-15",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "ST214405",
+                "1982-06-15",
+                "NOMINATION",
+                null
+              ],
+              [
+                "ST326455",
+                "1986-03-12",
+                "POWER OF ATTORNEY BY OH BAK CHUA",
+                null
+              ],
+              [
+                "ST326457",
+                "1986-04-16",
+                "MORTGAGE RE SHAP YI WAT LOT NO.29",
+                null
+              ],
+              [
+                "ST326456",
+                "1986-04-16",
+                "-",
+                "840000.0"
+              ],
+              [
+                "ST326454",
+                "1986-04-16",
+                "RELEASE",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9931395700067125,
@@ -405,7 +950,39 @@
         1102452059,
         null,
         "13 SHAP YI WAT",
-        []
+        [
+          [
+            "DDSYWL 28",
+            "New Grant Lot",
+            "C2175523",
+            [
+              [
+                "ST181598",
+                "1977-05-27",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST183223",
+                "1978-01-30",
+                "DEVELOPMENT AGREEMENT",
+                null
+              ],
+              [
+                "ST188321",
+                "1979-03-12",
+                "-",
+                "210000.0"
+              ],
+              [
+                "ST188320",
+                "1979-03-12",
+                "NOMINATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9931410743248514,
@@ -424,7 +1001,94 @@
         1102452061,
         null,
         "10 SHAP YI WAT",
-        []
+        [
+          [
+            "DDSYWL 25",
+            "New Grant Lot",
+            "C2175504",
+            [
+              [
+                "ST181586",
+                "1977-05-26",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST187048",
+                "1978-12-22",
+                "-",
+                "260000.0"
+              ],
+              [
+                "ST187049",
+                "1978-12-22",
+                "MORTGAGE",
+                "222300.0"
+              ],
+              [
+                "ST345239",
+                "1986-10-02",
+                "LEGAL CHARGE",
+                null
+              ],
+              [
+                "ST345238",
+                "1986-10-02",
+                "RELEASE",
+                null
+              ],
+              [
+                "ST854286",
+                "1996-03-06",
+                "RECEIPT ON DISCHARGE OF A CHARGE",
+                null
+              ],
+              [
+                "ST1366864",
+                "2004-04-30",
+                "MORTGAGE",
+                null
+              ],
+              [
+                "15032601250013",
+                "2015-03-03",
+                "RELEASE",
+                "ALL MONIES"
+              ]
+            ]
+          ],
+          [
+            "DDSYWL 28",
+            "New Grant Lot",
+            "C2175523",
+            [
+              [
+                "ST181598",
+                "1977-05-27",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST183223",
+                "1978-01-30",
+                "DEVELOPMENT AGREEMENT",
+                null
+              ],
+              [
+                "ST188321",
+                "1979-03-12",
+                "-",
+                "210000.0"
+              ],
+              [
+                "ST188320",
+                "1979-03-12",
+                "NOMINATION",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9931396624521158,
@@ -443,7 +1107,111 @@
         1102452063,
         null,
         "14 SHAP YI WAT",
-        []
+        [
+          [
+            "DDSYWL 26",
+            "New Grant Lot",
+            "C5555675",
+            [
+              [
+                "ST181972",
+                "1977-07-27",
+                "-",
+                null
+              ],
+              [
+                "ST182116",
+                "1977-08-24",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST182583",
+                "1977-10-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST182584",
+                "1977-10-10",
+                "DEVELOPMENT AGREEMENT",
+                "80000.0"
+              ],
+              [
+                "ST455127",
+                "1978-10-14",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "ST185681",
+                "1978-11-16",
+                "-",
+                "180000.0"
+              ],
+              [
+                "ST186520",
+                "1978-11-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "500000.0"
+              ],
+              [
+                "ST187020",
+                "1978-12-30",
+                "-",
+                "500000.0"
+              ],
+              [
+                "ST455128",
+                "1988-12-06",
+                "CHARGE",
+                null
+              ],
+              [
+                "ST455126",
+                "1988-12-06",
+                "-",
+                "1000000.0"
+              ],
+              [
+                "ST597040",
+                "1991-08-12",
+                "RELEASE",
+                null
+              ],
+              [
+                "ST597041",
+                "1991-08-12",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "ST1063984",
+                "1998-11-30",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "ST1063027",
+                "1998-11-30",
+                "MEMORANDUM FOR SALE AND PURCHASE",
+                "1500000.0"
+              ],
+              [
+                "11100601360258",
+                "2011-08-26",
+                "ORDER NO. C/TC/002381/11/NT BY THE BUILDING AUTHORITY UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "13032202100013",
+                "2013-02-07",
+                "LETTER OF WITHDRAWAL",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9931411444126177,
@@ -462,7 +1230,148 @@
         1102452064,
         null,
         "11 SHAP YI WAT",
-        []
+        [
+          [
+            "DDSYWL 26",
+            "New Grant Lot",
+            "C5555675",
+            [
+              [
+                "ST181972",
+                "1977-07-27",
+                "-",
+                null
+              ],
+              [
+                "ST182116",
+                "1977-08-24",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST182583",
+                "1977-10-10",
+                "POWER OF ATTORNEY",
+                null
+              ],
+              [
+                "ST182584",
+                "1977-10-10",
+                "DEVELOPMENT AGREEMENT",
+                "80000.0"
+              ],
+              [
+                "ST455127",
+                "1978-10-14",
+                "CERTIFICATE OF COMPLIANCE",
+                null
+              ],
+              [
+                "ST185681",
+                "1978-11-16",
+                "-",
+                "180000.0"
+              ],
+              [
+                "ST186520",
+                "1978-11-23",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "500000.0"
+              ],
+              [
+                "ST187020",
+                "1978-12-30",
+                "-",
+                "500000.0"
+              ],
+              [
+                "ST455128",
+                "1988-12-06",
+                "CHARGE",
+                null
+              ],
+              [
+                "ST455126",
+                "1988-12-06",
+                "-",
+                "1000000.0"
+              ],
+              [
+                "ST597040",
+                "1991-08-12",
+                "RELEASE",
+                null
+              ],
+              [
+                "ST597041",
+                "1991-08-12",
+                "STATUTORY DECLARATION",
+                null
+              ],
+              [
+                "ST1063984",
+                "1998-11-30",
+                "ASSIGNMENT",
+                "1500000.0"
+              ],
+              [
+                "ST1063027",
+                "1998-11-30",
+                "MEMORANDUM FOR SALE AND PURCHASE",
+                "1500000.0"
+              ],
+              [
+                "11100601360258",
+                "2011-08-26",
+                "ORDER NO. C/TC/002381/11/NT BY THE BUILDING AUTHORITY UNDER SECTION 24(1) OF THE BUILDINGS ORDINANCE",
+                null
+              ],
+              [
+                "13032202100013",
+                "2013-02-07",
+                "LETTER OF WITHDRAWAL",
+                null
+              ]
+            ]
+          ],
+          [
+            "DDSYWL 27",
+            "New Grant Lot",
+            "C2175511",
+            [
+              [
+                "ST181973",
+                "1977-07-27",
+                "MODIFICATION LETTER",
+                null
+              ],
+              [
+                "ST189003",
+                "1979-07-27",
+                "AGREEMENT FOR SALE AND PURCHASE",
+                "480000.0"
+              ],
+              [
+                "ST189254",
+                "1979-08-16",
+                "NOMINATION",
+                null
+              ],
+              [
+                "ST189255",
+                "1979-08-23",
+                "-",
+                "480000.0"
+              ],
+              [
+                "ST189366",
+                "1979-09-01",
+                "MORTGAGE RE SHAP YI WAT LOT NO.27",
+                "300000.0"
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9931397264060398,
@@ -481,7 +1390,39 @@
         1102452103,
         null,
         null,
-        []
+        [
+          [
+            "DDSYWL 23",
+            "New Grant Lot",
+            "C6488635",
+            [
+              [
+                "ST694135",
+                "1993-05-03",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "ST1047090",
+                "1998-08-04",
+                "ORDER NO. DH 70/K/98/C UNDER S.27A OF THE BUILDING ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "ST1222190",
+                "2001-03-28",
+                "LETTER OF COMPLIANCE TO ORDER NO. DH70/K/98/C UNDER SECTION 27A",
+                null
+              ],
+              [
+                "ST1319270",
+                "2003-02-04",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9931406123065447,
@@ -500,7 +1441,39 @@
         1102452105,
         null,
         null,
-        []
+        [
+          [
+            "DDSYWL 23",
+            "New Grant Lot",
+            "C6488635",
+            [
+              [
+                "ST694135",
+                "1993-05-03",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "ST1047090",
+                "1998-08-04",
+                "ORDER NO. DH 70/K/98/C UNDER S.27A OF THE BUILDING ORDINANCE WITH PLAN",
+                null
+              ],
+              [
+                "ST1222190",
+                "2001-03-28",
+                "LETTER OF COMPLIANCE TO ORDER NO. DH70/K/98/C UNDER SECTION 27A",
+                null
+              ],
+              [
+                "ST1319270",
+                "2003-02-04",
+                "MODIFICATION LETTER WITH PLAN",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9931476292829458,
@@ -576,7 +1549,39 @@
         1108219885,
         null,
         "400 SHATIN PASS ROAD",
-        []
+        [
+          [
+            "SD 1970",
+            "Old Schedule Lot",
+            "C3916802",
+            [
+              [
+                "SK111597",
+                "1985-03-25",
+                "-",
+                null
+              ],
+              [
+                "SK186329",
+                "1991-09-27",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "SK216466",
+                "1994-03-08",
+                "THE CERTIFIED TRUE COPY ELECTRICITY NETWORKS (STATUTORY EASEMENTS)",
+                null
+              ],
+              [
+                "21033001040037",
+                "2021-01-12",
+                "CERTIFICATE OF COLUMBARIUM USE - EXEMPTION UNDER S.46(1) OF THE PRIVATE COLUMBARIA ORDINANCE (CAP.630)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993162684458942,
@@ -595,7 +1600,39 @@
         1108219886,
         null,
         "400 SHATIN PASS ROAD",
-        []
+        [
+          [
+            "SD 1970",
+            "Old Schedule Lot",
+            "C3916802",
+            [
+              [
+                "SK111597",
+                "1985-03-25",
+                "-",
+                null
+              ],
+              [
+                "SK186329",
+                "1991-09-27",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "SK216466",
+                "1994-03-08",
+                "THE CERTIFIED TRUE COPY ELECTRICITY NETWORKS (STATUTORY EASEMENTS)",
+                null
+              ],
+              [
+                "21033001040037",
+                "2021-01-12",
+                "CERTIFICATE OF COLUMBARIUM USE - EXEMPTION UNDER S.46(1) OF THE PRIVATE COLUMBARIA ORDINANCE (CAP.630)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.99315594945294,
@@ -614,7 +1651,39 @@
         1108219887,
         null,
         "400 SHATIN PASS ROAD",
-        []
+        [
+          [
+            "SD 1970",
+            "Old Schedule Lot",
+            "C3916802",
+            [
+              [
+                "SK111597",
+                "1985-03-25",
+                "-",
+                null
+              ],
+              [
+                "SK186329",
+                "1991-09-27",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "SK216466",
+                "1994-03-08",
+                "THE CERTIFIED TRUE COPY ELECTRICITY NETWORKS (STATUTORY EASEMENTS)",
+                null
+              ],
+              [
+                "21033001040037",
+                "2021-01-12",
+                "CERTIFICATE OF COLUMBARIUM USE - EXEMPTION UNDER S.46(1) OF THE PRIVATE COLUMBARIA ORDINANCE (CAP.630)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9931666501031367,
@@ -633,7 +1702,39 @@
         1108219888,
         "TSZ WAN SHAN KWUN YUM TEMPLE",
         "400 SHATIN PASS ROAD",
-        []
+        [
+          [
+            "SD 1970",
+            "Old Schedule Lot",
+            "C3916802",
+            [
+              [
+                "SK111597",
+                "1985-03-25",
+                "-",
+                null
+              ],
+              [
+                "SK186329",
+                "1991-09-27",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "SK216466",
+                "1994-03-08",
+                "THE CERTIFIED TRUE COPY ELECTRICITY NETWORKS (STATUTORY EASEMENTS)",
+                null
+              ],
+              [
+                "21033001040037",
+                "2021-01-12",
+                "CERTIFICATE OF COLUMBARIUM USE - EXEMPTION UNDER S.46(1) OF THE PRIVATE COLUMBARIA ORDINANCE (CAP.630)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993160793389301,
@@ -671,7 +1772,39 @@
         1810135876,
         null,
         "400 SHATIN PASS ROAD",
-        []
+        [
+          [
+            "SD 1970",
+            "Old Schedule Lot",
+            "C3916802",
+            [
+              [
+                "SK111597",
+                "1985-03-25",
+                "-",
+                null
+              ],
+              [
+                "SK186329",
+                "1991-09-27",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "SK216466",
+                "1994-03-08",
+                "THE CERTIFIED TRUE COPY ELECTRICITY NETWORKS (STATUTORY EASEMENTS)",
+                null
+              ],
+              [
+                "21033001040037",
+                "2021-01-12",
+                "CERTIFICATE OF COLUMBARIUM USE - EXEMPTION UNDER S.46(1) OF THE PRIVATE COLUMBARIA ORDINANCE (CAP.630)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.9931635658488829,
@@ -690,7 +1823,39 @@
         1810135877,
         null,
         "400 SHATIN PASS ROAD",
-        []
+        [
+          [
+            "SD 1970",
+            "Old Schedule Lot",
+            "C3916802",
+            [
+              [
+                "SK111597",
+                "1985-03-25",
+                "-",
+                null
+              ],
+              [
+                "SK186329",
+                "1991-09-27",
+                "PARTICULARS AND CONDITIONS OF EXTENSION OF LEASE TERM",
+                null
+              ],
+              [
+                "SK216466",
+                "1994-03-08",
+                "THE CERTIFIED TRUE COPY ELECTRICITY NETWORKS (STATUTORY EASEMENTS)",
+                null
+              ],
+              [
+                "21033001040037",
+                "2021-01-12",
+                "CERTIFICATE OF COLUMBARIUM USE - EXEMPTION UNDER S.46(1) OF THE PRIVATE COLUMBARIA ORDINANCE (CAP.630)",
+                null
+              ]
+            ]
+          ]
+        ]
       ],
       "coordinate": [
         1.993161709277688,
