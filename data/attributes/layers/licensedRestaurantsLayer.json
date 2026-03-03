@@ -14,7 +14,7 @@
     {
       "linkHeader": 1,
       "name": "licensedRestaurantCount",
-      "label": "Restaurant Licenses",
+      "label": "Number of Restaurant Licenses",
       "type": "SCALAR",
       "componentType": "UINT8",
       "noData": 0,
