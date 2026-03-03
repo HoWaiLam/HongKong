@@ -809,7 +809,7 @@
     {
       "attributes": [
         1231028242,
-        4,
+        3,
         [
           [
             2211157111,
@@ -826,14 +826,6 @@
             "SHOP NO. 1, G/F., HOI KWONG COURT, 13-15 HOI KWONG STREET, QUARRY BAY, HONG KONG",
             null,
             "2027-03-12"
-          ],
-          [
-            2211808909,
-            0,
-            "JIKKA",
-            "G/F., 22 HOI KWONG STREET, QUARRY BAY, HONG KONG",
-            null,
-            "2026-05-19"
           ],
           [
             3111800587,
@@ -911,76 +903,6 @@
     {
       "attributes": [
         1231028244,
-        1,
-        [
-          [
-            2211810164,
-            0,
-            "Tong Chong Kitchen",
-            "2/F., FWD TOWER, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
-            null,
-            "2026-09-13"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1231028279
-        ]
-      ],
-      "coordinate": [
-        1.9933589248165924,
-        0.3889853331566358,
-        7.949999809265137
-      ],
-      "halfSize": [
-        42.638499999884516,
-        20.594499999657273,
-        3.8500001430511475
-      ]
-    },
-    {
-      "attributes": [
-        1231028245,
-        2,
-        [
-          [
-            2211803384,
-            0,
-            "Frites Belgium on Tap",
-            "G/F., OXFORD HOUSE, TAIKOO PLACE, 979 KING'S ROAD, ISLAND EAST, HONG KONG",
-            null,
-            "2026-06-01"
-          ],
-          [
-            2211809948,
-            0,
-            "LA FAVORITA HONJOKKO TMK FUNK & ROLLS",
-            "2/F, OXFORD HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
-            null,
-            "2026-04-10"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1231028281
-        ]
-      ],
-      "coordinate": [
-        1.9934010496074301,
-        0.3889839925934369,
-        9.699999809265137
-      ],
-      "halfSize": [
-        22.52199999988079,
-        22.882999999448657,
-        5.5
-      ]
-    },
-    {
-      "attributes": [
-        1231028246,
         3,
         [
           [
@@ -1027,46 +949,7 @@
     },
     {
       "attributes": [
-        1231028247,
-        2,
-        [
-          [
-            3111803896,
-            1,
-            "PRET A MANGER",
-            "SHOP C & D, 1ST FLOOR, DEVON HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
-            null,
-            "2026-04-22"
-          ],
-          [
-            3111804358,
-            1,
-            "OMUSUBI",
-            "SHOP E, 1ST FLOOR, DEVON HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
-            null,
-            "2026-05-29"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1231028283
-        ]
-      ],
-      "coordinate": [
-        1.993375499228652,
-        0.38898317247049036,
-        12.09999942779541
-      ],
-      "halfSize": [
-        42.5679999999702,
-        22.28500000014901,
-        7.699999809265137
-      ]
-    },
-    {
-      "attributes": [
-        1231028248,
+        1231028245,
         5,
         [
           [
@@ -1129,7 +1012,134 @@
     },
     {
       "attributes": [
-        1231028249,
+        1231028246,
+        13,
+        [
+          [
+            2211803384,
+            0,
+            "Frites Belgium on Tap",
+            "G/F., OXFORD HOUSE, TAIKOO PLACE, 979 KING'S ROAD, ISLAND EAST, HONG KONG",
+            null,
+            "2026-06-01"
+          ],
+          [
+            2211807492,
+            0,
+            "Blueprint 2.0",
+            "3/F (PORTION A & PORTION B), DORSET HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-10-19"
+          ],
+          [
+            2211809948,
+            0,
+            "LA FAVORITA HONJOKKO TMK FUNK & ROLLS",
+            "2/F, OXFORD HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-04-10"
+          ],
+          [
+            2211810164,
+            0,
+            "Tong Chong Kitchen",
+            "2/F., FWD TOWER, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-09-13"
+          ],
+          [
+            2211810474,
+            0,
+            "PICI",
+            "OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT OF GROUND FLOOR SHOP, GROUND FLOOR SHOP AND ADJOINING SEATING AREA, G/F., LINCOLN HOUSE, TAIKOO PLACE, 979 KING'S ROAD, HONG KONG",
+            null,
+            "2026-03-27"
+          ],
+          [
+            2211811097,
+            0,
+            "ASK FOR ALONZO",
+            "SHOP 6, G/F, PCCW TOWER, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-06-26"
+          ],
+          [
+            2211811121,
+            0,
+            "Sage & Salt",
+            "SHOP NO. 5, GROUND FLOOR, PCCW TOWER, TAIKOO PLACE, 979 KING'S ROAD, HONG KONG",
+            null,
+            "2026-07-25"
+          ],
+          [
+            2211811291,
+            0,
+            "Yung's Bistro",
+            "SHOPS 1&2 AND THE OUTSIDE SEATING ACCOMMODATION AT SIDE, G/F, DORSET HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2027-01-27"
+          ],
+          [
+            3111803780,
+            1,
+            "FUEL ESPRESSO",
+            "AREA A, G/F., ONE TAIKOO PLACE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-12-22"
+          ],
+          [
+            3111803887,
+            1,
+            "Maison Eric Kayser",
+            "PORTION A AND PORTION B, 1/F., DORSET HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-04-20"
+          ],
+          [
+            3111803896,
+            1,
+            "PRET A MANGER",
+            "SHOP C & D, 1ST FLOOR, DEVON HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-04-22"
+          ],
+          [
+            3111804358,
+            1,
+            "OMUSUBI",
+            "SHOP E, 1ST FLOOR, DEVON HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-29"
+          ],
+          [
+            3111804561,
+            1,
+            "FINEPRINT",
+            "SHOP 7, G/F, PCCW TOWER, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-07-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028288
+        ]
+      ],
+      "coordinate": [
+        1.9933560460914366,
+        0.3889790560940938,
+        13.300000190734863
+      ],
+      "halfSize": [
+        28.94150000018999,
+        18.311499999836087,
+        8.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1231028247,
         4,
         [
           [
@@ -1184,7 +1194,7 @@
     },
     {
       "attributes": [
-        1231028250,
+        1231028248,
         3,
         [
           [
@@ -1231,7 +1241,7 @@
     },
     {
       "attributes": [
-        1231028251,
+        1231028249,
         1,
         [
           [
@@ -1262,7 +1272,7 @@
     },
     {
       "attributes": [
-        1231028252,
+        1231028250,
         39,
         [
           [
@@ -1597,7 +1607,7 @@
     },
     {
       "attributes": [
-        1231028253,
+        1231028251,
         6,
         [
           [
@@ -1668,7 +1678,7 @@
     },
     {
       "attributes": [
-        1231028254,
+        1231028252,
         3,
         [
           [
@@ -1715,7 +1725,7 @@
     },
     {
       "attributes": [
-        1231028255,
+        1231028253,
         2,
         [
           [
@@ -1754,7 +1764,7 @@
     },
     {
       "attributes": [
-        1231028256,
+        1231028254,
         1,
         [
           [
@@ -1785,7 +1795,7 @@
     },
     {
       "attributes": [
-        1231028257,
+        1231028255,
         1,
         [
           [
@@ -1816,7 +1826,7 @@
     },
     {
       "attributes": [
-        1231028258,
+        1231028256,
         3,
         [
           [
@@ -1863,8 +1873,8 @@
     },
     {
       "attributes": [
-        1231028259,
-        6,
+        1231028257,
+        2,
         [
           [
             2211801689,
@@ -1875,44 +1885,12 @@
             "2026-06-17"
           ],
           [
-            2211802761,
-            0,
-            "Yu Sum Vietnamese Restaurant",
-            "GROUND FLOOR, BLOCK D-4 RITZ GARDEN APARTMENTS, NO. 909 KING'S ROAD, HONG KONG",
-            null,
-            "2026-05-10"
-          ],
-          [
-            2211809984,
-            0,
-            "KYOICHI",
-            "G/F., NO. 939 KING'S ROAD, QUARRY BAY, HONG KONG",
-            null,
-            "2026-05-04"
-          ],
-          [
-            2211810021,
-            0,
-            "\u6649\u65fa\u98ef\u5e97",
-            "G/F, 911 KING'S ROAD, QUARRY BAY, HONG KONG",
-            null,
-            "2026-05-30"
-          ],
-          [
             2211811477,
             0,
             "KAVYA'S KITCHEN",
             "G/F BLOCK A-2, RITZ GARDEN APARTMENTS, 923 KING'S ROAD, HONG KONG",
             null,
             "2026-06-23"
-          ],
-          [
-            3111803586,
-            1,
-            "\u597d\u597d\u4fbf\u7576",
-            "SHOP C, G/F., BLOCK D-1, RITZ GARDEN APARTMENTS, NO. 937 KING'S ROAD, NORTH POINT, HONG KONG",
-            null,
-            "2026-12-06"
           ]
         ]
       ],
@@ -1934,7 +1912,7 @@
     },
     {
       "attributes": [
-        1231028260,
+        1231028258,
         1,
         [
           [
@@ -1965,7 +1943,62 @@
     },
     {
       "attributes": [
-        1231028261,
+        1231028259,
+        4,
+        [
+          [
+            2211802761,
+            0,
+            "Yu Sum Vietnamese Restaurant",
+            "GROUND FLOOR, BLOCK D-4 RITZ GARDEN APARTMENTS, NO. 909 KING'S ROAD, HONG KONG",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2211809984,
+            0,
+            "KYOICHI",
+            "G/F., NO. 939 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-04"
+          ],
+          [
+            2211810021,
+            0,
+            "\u6649\u65fa\u98ef\u5e97",
+            "G/F, 911 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-30"
+          ],
+          [
+            3111803586,
+            1,
+            "\u597d\u597d\u4fbf\u7576",
+            "SHOP C, G/F., BLOCK D-1, RITZ GARDEN APARTMENTS, NO. 937 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-12-06"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028507
+        ]
+      ],
+      "coordinate": [
+        1.9933397230707373,
+        0.3890199261348858,
+        22.350000381469727
+      ],
+      "halfSize": [
+        16.10990499984473,
+        12.926025000400841,
+        17.94999885559082
+      ]
+    },
+    {
+      "attributes": [
+        1231028260,
         1,
         [
           [
@@ -1996,7 +2029,7 @@
     },
     {
       "attributes": [
-        1231028262,
+        1231028261,
         2,
         [
           [
@@ -2035,8 +2068,8 @@
     },
     {
       "attributes": [
-        1231028263,
-        5,
+        1231028262,
+        6,
         [
           [
             2211147590,
@@ -2045,6 +2078,14 @@
             "G/F, 6 HOI KWONG STREET, HONG KONG",
             null,
             "2026-06-25"
+          ],
+          [
+            2211808909,
+            0,
+            "JIKKA",
+            "G/F., 22 HOI KWONG STREET, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-19"
           ],
           [
             3111088222,
@@ -2098,7 +2139,7 @@
     },
     {
       "attributes": [
-        1231028264,
+        1231028263,
         1,
         [
           [
@@ -2129,7 +2170,7 @@
     },
     {
       "attributes": [
-        1231028265,
+        1231028264,
         5,
         [
           [
@@ -2192,7 +2233,7 @@
     },
     {
       "attributes": [
-        1231028266,
+        1231028265,
         1,
         [
           [
@@ -2223,38 +2264,7 @@
     },
     {
       "attributes": [
-        1231028267,
-        1,
-        [
-          [
-            2211810474,
-            0,
-            "PICI",
-            "OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT OF GROUND FLOOR SHOP, GROUND FLOOR SHOP AND ADJOINING SEATING AREA, G/F., LINCOLN HOUSE, TAIKOO PLACE, 979 KING'S ROAD, HONG KONG",
-            null,
-            "2026-03-27"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1231028572
-        ]
-      ],
-      "coordinate": [
-        1.9933795250087216,
-        0.3889935915106571,
-        55.150001525878906
-      ],
-      "halfSize": [
-        17.674704999662936,
-        23.45352500025183,
-        51.150001525878906
-      ]
-    },
-    {
-      "attributes": [
-        1231028268,
+        1231028266,
         4,
         [
           [
@@ -2309,7 +2319,7 @@
     },
     {
       "attributes": [
-        1231028269,
+        1231028267,
         1,
         [
           [
@@ -2340,7 +2350,7 @@
     },
     {
       "attributes": [
-        1231028270,
+        1231028268,
         2,
         [
           [
@@ -2379,7 +2389,7 @@
     },
     {
       "attributes": [
-        1231028271,
+        1231028269,
         2,
         [
           [
@@ -2418,7 +2428,7 @@
     },
     {
       "attributes": [
-        1231028272,
+        1231028270,
         2,
         [
           [
@@ -2457,7 +2467,7 @@
     },
     {
       "attributes": [
-        1231028273,
+        1231028271,
         1,
         [
           [
@@ -2488,78 +2498,7 @@
     },
     {
       "attributes": [
-        1231028274,
-        6,
-        [
-          [
-            2211807492,
-            0,
-            "Blueprint 2.0",
-            "3/F (PORTION A & PORTION B), DORSET HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
-            null,
-            "2026-10-19"
-          ],
-          [
-            2211811097,
-            0,
-            "ASK FOR ALONZO",
-            "SHOP 6, G/F, PCCW TOWER, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
-            null,
-            "2026-06-26"
-          ],
-          [
-            2211811121,
-            0,
-            "Sage & Salt",
-            "SHOP NO. 5, GROUND FLOOR, PCCW TOWER, TAIKOO PLACE, 979 KING'S ROAD, HONG KONG",
-            null,
-            "2026-07-25"
-          ],
-          [
-            2211811291,
-            0,
-            "Yung's Bistro",
-            "SHOPS 1&2 AND THE OUTSIDE SEATING ACCOMMODATION AT SIDE, G/F, DORSET HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
-            null,
-            "2027-01-27"
-          ],
-          [
-            3111803887,
-            1,
-            "Maison Eric Kayser",
-            "PORTION A AND PORTION B, 1/F., DORSET HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
-            null,
-            "2026-04-20"
-          ],
-          [
-            3111804561,
-            1,
-            "FINEPRINT",
-            "SHOP 7, G/F, PCCW TOWER, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
-            null,
-            "2026-07-02"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1231028614
-        ]
-      ],
-      "coordinate": [
-        1.9933754979328977,
-        0.3889830823380856,
-        86.14999389648438
-      ],
-      "halfSize": [
-        42.56835999991745,
-        22.285155000165105,
-        81.75
-      ]
-    },
-    {
-      "attributes": [
-        1231028275,
+        1231028272,
         2,
         [
           [
@@ -2598,7 +2537,7 @@
     },
     {
       "attributes": [
-        1231028276,
+        1231028273,
         1,
         [
           [
@@ -2629,7 +2568,7 @@
     },
     {
       "attributes": [
-        1231028277,
+        1231028274,
         1,
         [
           [
@@ -2660,7 +2599,7 @@
     },
     {
       "attributes": [
-        1231028278,
+        1231028275,
         5,
         [
           [
@@ -2723,7 +2662,7 @@
     },
     {
       "attributes": [
-        1231028279,
+        1231028276,
         2,
         [
           [
@@ -2762,7 +2701,7 @@
     },
     {
       "attributes": [
-        1231028280,
+        1231028277,
         1,
         [
           [
@@ -2793,7 +2732,7 @@
     },
     {
       "attributes": [
-        1231028281,
+        1231028278,
         2,
         [
           [
@@ -2832,7 +2771,7 @@
     },
     {
       "attributes": [
-        1231028282,
+        1231028279,
         2,
         [
           [
@@ -2871,7 +2810,7 @@
     },
     {
       "attributes": [
-        1231028283,
+        1231028280,
         2,
         [
           [
@@ -2910,7 +2849,7 @@
     },
     {
       "attributes": [
-        1231028284,
+        1231028281,
         1,
         [
           [
@@ -2941,7 +2880,7 @@
     },
     {
       "attributes": [
-        1231028285,
+        1231028282,
         1,
         [
           [
@@ -2972,7 +2911,7 @@
     },
     {
       "attributes": [
-        1231028286,
+        1231028283,
         1,
         [
           [
@@ -3003,7 +2942,7 @@
     },
     {
       "attributes": [
-        1231028287,
+        1231028284,
         1,
         [
           [
@@ -3034,7 +2973,7 @@
     },
     {
       "attributes": [
-        1231028288,
+        1231028285,
         1,
         [
           [
@@ -3065,7 +3004,7 @@
     },
     {
       "attributes": [
-        1231028289,
+        1231028286,
         2,
         [
           [
@@ -3104,7 +3043,7 @@
     },
     {
       "attributes": [
-        1231028290,
+        1231028287,
         1,
         [
           [
@@ -3135,7 +3074,7 @@
     },
     {
       "attributes": [
-        1231028291,
+        1231028288,
         4,
         [
           [
@@ -3190,7 +3129,7 @@
     },
     {
       "attributes": [
-        1231028292,
+        1231028289,
         1,
         [
           [
@@ -3221,7 +3160,7 @@
     },
     {
       "attributes": [
-        1231028293,
+        1231028290,
         3,
         [
           [
@@ -3268,7 +3207,7 @@
     },
     {
       "attributes": [
-        1231028294,
+        1231028291,
         1,
         [
           [
@@ -3299,38 +3238,7 @@
     },
     {
       "attributes": [
-        1231028295,
-        1,
-        [
-          [
-            3111803780,
-            1,
-            "FUEL ESPRESSO",
-            "AREA A, G/F., ONE TAIKOO PLACE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
-            null,
-            "2026-12-22"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1231028778
-        ]
-      ],
-      "coordinate": [
-        1.9933885130544338,
-        0.3889912941671655,
-        114.80000305175781
-      ],
-      "halfSize": [
-        20.24331000028178,
-        31.698414999991655,
-        110.80000305175781
-      ]
-    },
-    {
-      "attributes": [
-        1231028296,
+        1231028292,
         4,
         [
           [

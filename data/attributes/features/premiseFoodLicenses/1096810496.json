@@ -2301,7 +2301,7 @@
     {
       "attributes": [
         1096810542,
-        1,
+        30,
         [
           [
             2161004006,
@@ -2310,69 +2310,7 @@
             "UNIT E, PORTION OF LEVEL 0, REGENT HONG KONG, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
             null,
             "2026-12-31"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1096810909
-        ]
-      ],
-      "coordinate": [
-        1.9927115667091528,
-        0.3890975540991981,
-        19.799999237060547
-      ],
-      "halfSize": [
-        67.48549999995157,
-        69.65649999957532,
-        15.799999237060547
-      ]
-    },
-    {
-      "attributes": [
-        1096810543,
-        2,
-        [
-          [
-            2961810883,
-            4,
-            "Rosewood Hong Kong",
-            "40/F (PORTION A), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-08-07"
           ],
-          [
-            2961811105,
-            4,
-            "Rosewood Hong Kong",
-            "53/F (PORTION A), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-11-06"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1096810934
-        ]
-      ],
-      "coordinate": [
-        1.9927427100588337,
-        0.38911928814670593,
-        151.5500030517578
-      ],
-      "halfSize": [
-        26.258519999682903,
-        33.024695000611246,
-        113.05000305175781
-      ]
-    },
-    {
-      "attributes": [
-        1096810544,
-        29,
-        [
           [
             2961809764,
             4,
@@ -2390,12 +2328,28 @@
             "2026-08-07"
           ],
           [
+            2961810883,
+            4,
+            "Rosewood Hong Kong",
+            "40/F (PORTION A), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-07"
+          ],
+          [
             2961810892,
             4,
             "Rosewood Hong Kong",
             "B1/F (PORTION A), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
             null,
             "2026-08-18"
+          ],
+          [
+            2961811105,
+            4,
+            "Rosewood Hong Kong",
+            "53/F (PORTION A), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-11-06"
           ],
           [
             2961811248,
@@ -2502,14 +2456,6 @@
             "2026-11-25"
           ],
           [
-            2961812205,
-            4,
-            "LEGOLAND DISCOVERY CENTRE HONG KONG",
-            "PORTION C OF UNIT A, LEVEL B1 PAM , K11 MUSEA, VICTORIA DOCKSIDE, 12 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-07-07"
-          ],
-          [
             2961812393,
             4,
             "NOOD FOOD",
@@ -2596,6 +2542,37 @@
             "MINOR PORTION OF SHOP NO. K06 ON LEVEL 0 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
             null,
             "2026-10-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810909
+        ]
+      ],
+      "coordinate": [
+        1.9927115667091528,
+        0.3890975540991981,
+        19.799999237060547
+      ],
+      "halfSize": [
+        67.48549999995157,
+        69.65649999957532,
+        15.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1096810543,
+        2,
+        [
+          [
+            2961812205,
+            4,
+            "LEGOLAND DISCOVERY CENTRE HONG KONG",
+            "PORTION C OF UNIT A, LEVEL B1 PAM , K11 MUSEA, VICTORIA DOCKSIDE, 12 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-07-07"
           ],
           [
             3261801027,
@@ -2625,7 +2602,7 @@
     },
     {
       "attributes": [
-        1096810545,
+        1096810544,
         1,
         [
           [

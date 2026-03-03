@@ -857,6 +857,37 @@
         1,
         [
           [
+            3861825081,
+            0,
+            "No Record",
+            "MAJOR PORTION OF SHOP A2, G/F, 27A CHATHAM ROAD SOUTH, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-07-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810612
+        ]
+      ],
+      "coordinate": [
+        1.9927358134226003,
+        0.3891698570559483,
+        29.80000114440918
+      ],
+      "halfSize": [
+        14.871439999900758,
+        5.730729999952018,
+        22.100000381469727
+      ]
+    },
+    {
+      "attributes": [
+        1096810518,
+        1,
+        [
+          [
             3161811142,
             1,
             "Hefu Noodles",
@@ -884,7 +915,7 @@
     },
     {
       "attributes": [
-        1096810518,
+        1096810519,
         2,
         [
           [
@@ -923,7 +954,7 @@
     },
     {
       "attributes": [
-        1096810519,
+        1096810520,
         1,
         [
           [
@@ -954,7 +985,7 @@
     },
     {
       "attributes": [
-        1096810520,
+        1096810521,
         2,
         [
           [
@@ -993,7 +1024,7 @@
     },
     {
       "attributes": [
-        1096810521,
+        1096810522,
         4,
         [
           [
@@ -1048,7 +1079,7 @@
     },
     {
       "attributes": [
-        1096810522,
+        1096810523,
         1,
         [
           [
@@ -1079,7 +1110,7 @@
     },
     {
       "attributes": [
-        1096810523,
+        1096810524,
         2,
         [
           [
@@ -1118,7 +1149,7 @@
     },
     {
       "attributes": [
-        1096810524,
+        1096810525,
         2,
         [
           [
@@ -1157,7 +1188,7 @@
     },
     {
       "attributes": [
-        1096810525,
+        1096810526,
         1,
         [
           [
@@ -1188,9 +1219,17 @@
     },
     {
       "attributes": [
-        1096810526,
-        2,
+        1096810527,
+        4,
         [
+          [
+            3161013933,
+            1,
+            "D G Club",
+            "BASEMENT & G/F (PORTION), 36 MODY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
           [
             3161806003,
             1,
@@ -1198,6 +1237,14 @@
             "PORTION B, SHOP A ON THE GROUND FLOOR OF LYTON BUILDING, NOS.32-48 MODY ROAD & NO.1 BLENHEIM AVENUE, TSIM SHA TSUI, KOWLOON",
             null,
             "2026-12-21"
+          ],
+          [
+            3161806100,
+            1,
+            "N1 Coffee & Co. by Barista Academy",
+            "G/F, NO. 34 MODY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-03"
           ],
           [
             3161811063,
@@ -1227,7 +1274,7 @@
     },
     {
       "attributes": [
-        1096810527,
+        1096810528,
         2,
         [
           [
@@ -1266,7 +1313,7 @@
     },
     {
       "attributes": [
-        1096810528,
+        1096810529,
         1,
         [
           [
@@ -1297,7 +1344,7 @@
     },
     {
       "attributes": [
-        1096810529,
+        1096810530,
         4,
         [
           [
@@ -1352,7 +1399,7 @@
     },
     {
       "attributes": [
-        1096810530,
+        1096810531,
         1,
         [
           [
@@ -1383,7 +1430,7 @@
     },
     {
       "attributes": [
-        1096810531,
+        1096810532,
         1,
         [
           [
@@ -1414,7 +1461,7 @@
     },
     {
       "attributes": [
-        1096810532,
+        1096810533,
         1,
         [
           [
@@ -1445,7 +1492,7 @@
     },
     {
       "attributes": [
-        1096810533,
+        1096810534,
         3,
         [
           [
@@ -1492,7 +1539,7 @@
     },
     {
       "attributes": [
-        1096810534,
+        1096810535,
         4,
         [
           [
@@ -1547,7 +1594,7 @@
     },
     {
       "attributes": [
-        1096810535,
+        1096810536,
         4,
         [
           [
@@ -1602,7 +1649,7 @@
     },
     {
       "attributes": [
-        1096810536,
+        1096810537,
         1,
         [
           [
@@ -1633,7 +1680,7 @@
     },
     {
       "attributes": [
-        1096810537,
+        1096810538,
         1,
         [
           [
@@ -1664,7 +1711,7 @@
     },
     {
       "attributes": [
-        1096810538,
+        1096810539,
         1,
         [
           [
@@ -1695,7 +1742,7 @@
     },
     {
       "attributes": [
-        1096810539,
+        1096810540,
         2,
         [
           [
@@ -1734,7 +1781,7 @@
     },
     {
       "attributes": [
-        1096810540,
+        1096810541,
         1,
         [
           [
@@ -1765,7 +1812,7 @@
     },
     {
       "attributes": [
-        1096810541,
+        1096810542,
         1,
         [
           [
@@ -1796,7 +1843,7 @@
     },
     {
       "attributes": [
-        1096810542,
+        1096810543,
         1,
         [
           [
@@ -1827,7 +1874,7 @@
     },
     {
       "attributes": [
-        1096810543,
+        1096810544,
         1,
         [
           [
@@ -1858,7 +1905,7 @@
     },
     {
       "attributes": [
-        1096810544,
+        1096810545,
         1,
         [
           [
@@ -1889,7 +1936,7 @@
     },
     {
       "attributes": [
-        1096810545,
+        1096810546,
         1,
         [
           [
@@ -1920,7 +1967,7 @@
     },
     {
       "attributes": [
-        1096810546,
+        1096810547,
         1,
         [
           [
@@ -1951,7 +1998,7 @@
     },
     {
       "attributes": [
-        1096810547,
+        1096810548,
         1,
         [
           [
@@ -1982,7 +2029,7 @@
     },
     {
       "attributes": [
-        1096810548,
+        1096810549,
         4,
         [
           [
@@ -2037,7 +2084,7 @@
     },
     {
       "attributes": [
-        1096810549,
+        1096810550,
         2,
         [
           [
@@ -2076,7 +2123,7 @@
     },
     {
       "attributes": [
-        1096810550,
+        1096810551,
         3,
         [
           [
@@ -2123,7 +2170,7 @@
     },
     {
       "attributes": [
-        1096810551,
+        1096810552,
         1,
         [
           [
@@ -2154,7 +2201,7 @@
     },
     {
       "attributes": [
-        1096810552,
+        1096810553,
         7,
         [
           [
@@ -2233,7 +2280,7 @@
     },
     {
       "attributes": [
-        1096810553,
+        1096810554,
         19,
         [
           [
@@ -2408,7 +2455,7 @@
     },
     {
       "attributes": [
-        1096810554,
+        1096810555,
         5,
         [
           [
@@ -2471,7 +2518,7 @@
     },
     {
       "attributes": [
-        1096810555,
+        1096810556,
         4,
         [
           [
@@ -2522,37 +2569,6 @@
         47.66338999988511,
         29.623824999667704,
         18.799999237060547
-      ]
-    },
-    {
-      "attributes": [
-        1096810556,
-        1,
-        [
-          [
-            3161809941,
-            1,
-            "PACIFIC COFFEE",
-            "FOYER CAFE, LEVEL 1, AUDITORIA BUILDING, HONG KONG CULTURAL CENTRE, 10 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-08-23"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1096810783
-        ]
-      ],
-      "coordinate": [
-        1.9926483192496338,
-        0.3891004647792104,
-        32.29999923706055
-      ],
-      "halfSize": [
-        66.46931500034407,
-        57.800929999910295,
-        28.200000762939453
       ]
     },
     {
@@ -5191,7 +5207,7 @@
     {
       "attributes": [
         1096810596,
-        5,
+        2,
         [
           [
             2261810549,
@@ -5208,30 +5224,6 @@
             "MAJOR PORTION OF SHOP C, G/F, 21-27A CHATHAM ROAD SOUTH, TSIM SHA TSUI , KOWLOON",
             null,
             "2026-12-16"
-          ],
-          [
-            3861825081,
-            0,
-            "No Record",
-            "MAJOR PORTION OF SHOP A2, G/F, 27A CHATHAM ROAD SOUTH, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-07-12"
-          ],
-          [
-            3161013933,
-            1,
-            "D G Club",
-            "BASEMENT & G/F (PORTION), 36 MODY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-06-30"
-          ],
-          [
-            3161806100,
-            1,
-            "N1 Coffee & Co. by Barista Academy",
-            "G/F, NO. 34 MODY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2027-02-03"
           ]
         ]
       ],
@@ -7016,6 +7008,61 @@
     {
       "attributes": [
         1096810627,
+        4,
+        [
+          [
+            2261151668,
+            0,
+            "Serenade",
+            "PODIUM FLOOR 1/F&2/F, RESTAURANT BLOCK, THE HK CULTURAL CENTRE, 10 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2261818464,
+            0,
+            "MOA DINING AND INK",
+            "G/F. & 1/F, HONG KONG MUSEUM OF ART, 10 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-05-21"
+          ],
+          [
+            2261821534,
+            0,
+            "LEMNA OF THE ALCHMIST",
+            "G/F, RESTAURANT BLOCK, HONG KONG CULTURAL CENTRE, 10 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-12-22"
+          ],
+          [
+            3161809941,
+            1,
+            "PACIFIC COFFEE",
+            "FOYER CAFE, LEVEL 1, AUDITORIA BUILDING, HONG KONG CULTURAL CENTRE, 10 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-23"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1096810893
+        ]
+      ],
+      "coordinate": [
+        1.9926612943397624,
+        0.38910287025250506,
+        6.199999809265137
+      ],
+      "halfSize": [
+        46.16800000006333,
+        53.86050000041723,
+        2.1000001430511475
+      ]
+    },
+    {
+      "attributes": [
+        1096810628,
         11,
         [
           [
@@ -7126,8 +7173,8 @@
     },
     {
       "attributes": [
-        1096810628,
-        5,
+        1096810629,
+        53,
         [
           [
             2261070695,
@@ -7146,6 +7193,246 @@
             "2027-01-22"
           ],
           [
+            2261817203,
+            0,
+            "Rosewood Hong Kong",
+            "2/F (PORTION A), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-11"
+          ],
+          [
+            2261817212,
+            0,
+            "Rosewood Hong Kong",
+            "3/F (PORTION A) AND 4/F (PORTION A), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-12"
+          ],
+          [
+            2261817595,
+            0,
+            "Rosewood Hong Kong",
+            "5/F (PORTION A), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-11-18"
+          ],
+          [
+            2261817869,
+            0,
+            "TAKANO RAMEN",
+            "SHOP NO. 220, LEVEL 2, K11 MUSEA VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-12"
+          ],
+          [
+            2261817896,
+            0,
+            "KIKI NOODLE BAR",
+            "SHOP 406 ON LEVEL 4, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-16"
+          ],
+          [
+            2261817920,
+            0,
+            "SORA TEMPURA / OPPA KOREAN TOFU HOUSE/ BEFF BA/ HONG KONG TEA CAFE",
+            "SHOP K, J, I AND SEATING AREA, LEVEL B2, K11 MUSEA, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-19"
+          ],
+          [
+            2261817939,
+            0,
+            "Chatterbox Cafe",
+            "SHOP NO. B110 ON LEVEL B1 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-20"
+          ],
+          [
+            2261817948,
+            0,
+            "KAIYO / VELO",
+            "SHOP NOS. 103 & 103A, LEVEL 1, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-24"
+          ],
+          [
+            2261817984,
+            0,
+            "Greyhound Cafe Galleria",
+            "SHOP 327 A AND C, 3/F, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-03-02"
+          ],
+          [
+            2261817993,
+            0,
+            "TOKACHI MILKY",
+            "SHOP 008 AND SHOP 008A, LEVEL 0, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-03-05"
+          ],
+          [
+            2261818020,
+            0,
+            "ELEPHANT GROUNDS",
+            "SHOP NO. 705, LEVEL 7, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-03-11"
+          ],
+          [
+            2261818039,
+            0,
+            "FIVE GUYS",
+            "SHOPS 301B-302, LEVEL 3, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-03-12"
+          ],
+          [
+            2261818127,
+            0,
+            "Rosewood Hong Kong",
+            "6/F (PORTION A), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-01"
+          ],
+          [
+            2261818242,
+            0,
+            "Rosewood Hong Kong",
+            "5/F (PORTION B), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-23"
+          ],
+          [
+            2261818358,
+            0,
+            "DENG G Sichuan",
+            "SHOP NO. 412 & 413 ON LEVEL 4 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-28"
+          ],
+          [
+            2261818385,
+            0,
+            "\u93de\u93de \u85dd\u5690\u9928",
+            "SHOP NO. 701, ON LEVEL 7, K11 ARTUS, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-05-05"
+          ],
+          [
+            2261818613,
+            0,
+            "FORTNUM & MASON",
+            "SHOP 022 ON LEVEL 0 AND SHOP 122 ON LEVEL 1 OF, K11 ATELIER, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-06-04"
+          ],
+          [
+            2261818923,
+            0,
+            "YE SHANGHAI",
+            "SHOP NO. 601 ON LEVEL 6 AND SHOP NO. 702 ON LEVEL 7, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-10-13"
+          ],
+          [
+            2261819166,
+            0,
+            "Glasshouse Greenery",
+            "SHOP NO. 501, LEVEL 5, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-18"
+          ],
+          [
+            2261819184,
+            0,
+            "Kilo Steakhouse",
+            "SHOP NO. 602 ON LEVEL 6 OF K11 MUSEA,VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-02-24"
+          ],
+          [
+            2261819193,
+            0,
+            "\u6e4a\u6e4a\ufe52\u8336\u7c73\u8336",
+            "SHOP NOS. 608 & 609, 6/F, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-02-28"
+          ],
+          [
+            2261819546,
+            0,
+            "Maison Gaia / G Room",
+            "SHOP NO. 503 AND THE OUTSIDE SEATING ACCOMMODATION AT FLAT ROOF AT SIDE OF SHOP NO. 503, LEVEL 5, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-07-01"
+          ],
+          [
+            2261819591,
+            0,
+            "YAKINIKU LUIGI SOMA TEA & MOCKTAIL",
+            "SHOP 603, 6/F, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-04"
+          ],
+          [
+            2261819892,
+            0,
+            "Sushi Wadatsumi",
+            "SHOP NO. 607, LEVEL 6, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-11-14"
+          ],
+          [
+            2261819962,
+            0,
+            "WK Prestige Limited",
+            "10/F (PORTION C AND PORTION D), K11 ARTUS, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-11-25"
+          ],
+          [
+            2261819980,
+            0,
+            "VICTORIA CAFE",
+            "10/F (PORTION A AND PORTION B), K11 ARTUS, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-12-06"
+          ],
+          [
+            2261820577,
+            0,
+            "DAB-PA ARTISAN",
+            "SHOP NO. B111, B1/F, K11 MUSEA VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-03-20"
+          ],
+          [
+            2261820629,
+            0,
+            "The Mussels",
+            "SHOP NO.034 & KIOSK 032B, LEVEL 0, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-13"
+          ],
+          [
+            2261821312,
+            0,
+            "Rosewood Hong Kong",
+            "G/F (PORTION A), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-11-01"
+          ],
+          [
+            2261821428,
+            0,
+            "CANNUBI ENOTECA.CUCINA & TUBER ITALIAN RESTAURANT",
+            "SHOP NO.113A ON LEVEL 1 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-12-04"
+          ],
+          [
             2261822005,
             0,
             "EXECUTIVE LOUNGE",
@@ -7162,12 +7449,156 @@
             "2026-05-17"
           ],
           [
+            2261823752,
+            0,
+            "GOLDEN BLOSSOMS",
+            "SHOP NOS. 401 & 401A, LEVEL 4, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-03-05"
+          ],
+          [
+            3861825115,
+            0,
+            "UNAGI YONDAIME KIKUKAWA K11 MUSEA",
+            "SHOP NO. 219 ON LEVEL 2 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-07-20"
+          ],
+          [
             3161014042,
             1,
             "REGENT HONG KONG",
             "PORTION OF ROOF GARDEN AT L3 & L2 (TOILETS), REGENT HONG KONG, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
             null,
             "2026-06-30"
+          ],
+          [
+            3161808425,
+            1,
+            "(no record found)",
+            "11/F (PORTION A), K11 ARTUS, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-02"
+          ],
+          [
+            3161808443,
+            1,
+            "G BAR",
+            "SHOP O AND SEATING AREA, LEVEL B2, K11 MUSEA, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-12"
+          ],
+          [
+            3161808498,
+            1,
+            "Blooms Coffee",
+            "SHOP 221, 2/F., K11 MUSEA, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-02-26"
+          ],
+          [
+            3161808513,
+            1,
+            "GC K11 Musea 2",
+            "SHOP B205, B206A & B207 ON LEVEL B2 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-03-09"
+          ],
+          [
+            3161808568,
+            1,
+            "BLOOMS COFFEE",
+            "SHOP NO. 327 ON LEVEL 3 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-03-16"
+          ],
+          [
+            3161808920,
+            1,
+            "No Record",
+            "PORTIONS A, B, C & D OF CINEMA AT PORTION OF LEVEL 4, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-20"
+          ],
+          [
+            3161809057,
+            1,
+            "SAKE MOMENT",
+            "UNIT 15 & 16 OF SHOP NO. B201 ON BASEMENT 2 OF K11 MUSEA, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-12-20"
+          ],
+          [
+            3161809136,
+            1,
+            "KOFFEE MAMEYA",
+            "SHOP B217, LEVEL B2, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-18"
+          ],
+          [
+            3161809321,
+            1,
+            "Red Room By Lubuds",
+            "SHOP NO. 606 ON LEVEL 6 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-07-01"
+          ],
+          [
+            3161809987,
+            1,
+            "MAK'S NOODLE",
+            "UNIT 28 & 29 OF SHOP B201, BASEMENT 2, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-10-09"
+          ],
+          [
+            3161810158,
+            1,
+            "Ukiyo",
+            "SHOP NO. 610, LEVEL 6, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-03"
+          ],
+          [
+            3161810194,
+            1,
+            "SUNNY BOWL",
+            "UNIT 5-6 OF SHOP NO. B201, BASEMENT 2 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-04-25"
+          ],
+          [
+            3161811221,
+            1,
+            "DRINKS TO GO",
+            "PORTION OF SHOP NOS. 020 & 021, LEVEL 0, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-07-08"
+          ],
+          [
+            3161811382,
+            1,
+            "Starbucks Coffee",
+            "SHOP B107A, LEVEL B1, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2027-02-09"
+          ],
+          [
+            3961812286,
+            1,
+            "No Record",
+            "UNIT 19 & 20 OF SHOP B201 ON BASEMENT 2 OF K11 MUSEA,VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-06-15"
+          ],
+          [
+            3961812392,
+            1,
+            "No Record",
+            "SHOP NO. B216, BASEMENT 2, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
+            null,
+            "2026-08-11"
           ]
         ]
       ],
@@ -7185,53 +7616,6 @@
         67.48549999995157,
         69.65649999957532,
         15.799999237060547
-      ]
-    },
-    {
-      "attributes": [
-        1096810629,
-        3,
-        [
-          [
-            2261151668,
-            0,
-            "Serenade",
-            "PODIUM FLOOR 1/F&2/F, RESTAURANT BLOCK, THE HK CULTURAL CENTRE, 10 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-06-30"
-          ],
-          [
-            2261818464,
-            0,
-            "MOA DINING AND INK",
-            "G/F. & 1/F, HONG KONG MUSEUM OF ART, 10 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-05-21"
-          ],
-          [
-            2261821534,
-            0,
-            "LEMNA OF THE ALCHMIST",
-            "G/F, RESTAURANT BLOCK, HONG KONG CULTURAL CENTRE, 10 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-12-22"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1096810918
-        ]
-      ],
-      "coordinate": [
-        1.992676420399413,
-        0.389095186264705,
-        17.80000114440918
-      ],
-      "halfSize": [
-        70.87684000004083,
-        32.70057500060648,
-        13.90000057220459
       ]
     },
     {
@@ -7433,459 +7817,6 @@
     {
       "attributes": [
         1096810634,
-        6,
-        [
-          [
-            2261817203,
-            0,
-            "Rosewood Hong Kong",
-            "2/F (PORTION A), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-08-11"
-          ],
-          [
-            2261817212,
-            0,
-            "Rosewood Hong Kong",
-            "3/F (PORTION A) AND 4/F (PORTION A), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-08-12"
-          ],
-          [
-            2261817595,
-            0,
-            "Rosewood Hong Kong",
-            "5/F (PORTION A), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-11-18"
-          ],
-          [
-            2261818127,
-            0,
-            "Rosewood Hong Kong",
-            "6/F (PORTION A), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-04-01"
-          ],
-          [
-            2261818242,
-            0,
-            "Rosewood Hong Kong",
-            "5/F (PORTION B), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-04-23"
-          ],
-          [
-            2261821312,
-            0,
-            "Rosewood Hong Kong",
-            "G/F (PORTION A), ROSEWOOD HONG KONG, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-11-01"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1096810934
-        ]
-      ],
-      "coordinate": [
-        1.9927427100588337,
-        0.38911928814670593,
-        151.5500030517578
-      ],
-      "halfSize": [
-        26.258519999682903,
-        33.024695000611246,
-        113.05000305175781
-      ]
-    },
-    {
-      "attributes": [
-        1096810635,
-        4,
-        [
-          [
-            2261818385,
-            0,
-            "\u93de\u93de \u85dd\u5690\u9928",
-            "SHOP NO. 701, ON LEVEL 7, K11 ARTUS, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-05-05"
-          ],
-          [
-            2261819962,
-            0,
-            "WK Prestige Limited",
-            "10/F (PORTION C AND PORTION D), K11 ARTUS, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-11-25"
-          ],
-          [
-            2261819980,
-            0,
-            "VICTORIA CAFE",
-            "10/F (PORTION A AND PORTION B), K11 ARTUS, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-12-06"
-          ],
-          [
-            3161808425,
-            1,
-            "(no record found)",
-            "11/F (PORTION A), K11 ARTUS, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2027-02-02"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1096810936
-        ]
-      ],
-      "coordinate": [
-        1.9927244298572238,
-        0.38910571864296795,
-        74.25
-      ],
-      "halfSize": [
-        81.56141635775566,
-        33.80153857450932,
-        25.75
-      ]
-    },
-    {
-      "attributes": [
-        1096810636,
-        38,
-        [
-          [
-            2261817869,
-            0,
-            "TAKANO RAMEN",
-            "SHOP NO. 220, LEVEL 2, K11 MUSEA VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2027-02-12"
-          ],
-          [
-            2261817896,
-            0,
-            "KIKI NOODLE BAR",
-            "SHOP 406 ON LEVEL 4, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2027-02-16"
-          ],
-          [
-            2261817920,
-            0,
-            "SORA TEMPURA / OPPA KOREAN TOFU HOUSE/ BEFF BA/ HONG KONG TEA CAFE",
-            "SHOP K, J, I AND SEATING AREA, LEVEL B2, K11 MUSEA, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2027-02-19"
-          ],
-          [
-            2261817939,
-            0,
-            "Chatterbox Cafe",
-            "SHOP NO. B110 ON LEVEL B1 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2027-02-20"
-          ],
-          [
-            2261817948,
-            0,
-            "KAIYO / VELO",
-            "SHOP NOS. 103 & 103A, LEVEL 1, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2027-02-24"
-          ],
-          [
-            2261817984,
-            0,
-            "Greyhound Cafe Galleria",
-            "SHOP 327 A AND C, 3/F, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-03-02"
-          ],
-          [
-            2261817993,
-            0,
-            "TOKACHI MILKY",
-            "SHOP 008 AND SHOP 008A, LEVEL 0, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-03-05"
-          ],
-          [
-            2261818020,
-            0,
-            "ELEPHANT GROUNDS",
-            "SHOP NO. 705, LEVEL 7, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-03-11"
-          ],
-          [
-            2261818039,
-            0,
-            "FIVE GUYS",
-            "SHOPS 301B-302, LEVEL 3, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-03-12"
-          ],
-          [
-            2261818358,
-            0,
-            "DENG G Sichuan",
-            "SHOP NO. 412 & 413 ON LEVEL 4 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-04-28"
-          ],
-          [
-            2261818613,
-            0,
-            "FORTNUM & MASON",
-            "SHOP 022 ON LEVEL 0 AND SHOP 122 ON LEVEL 1 OF, K11 ATELIER, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-06-04"
-          ],
-          [
-            2261818923,
-            0,
-            "YE SHANGHAI",
-            "SHOP NO. 601 ON LEVEL 6 AND SHOP NO. 702 ON LEVEL 7, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-10-13"
-          ],
-          [
-            2261819166,
-            0,
-            "Glasshouse Greenery",
-            "SHOP NO. 501, LEVEL 5, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2027-02-18"
-          ],
-          [
-            2261819184,
-            0,
-            "Kilo Steakhouse",
-            "SHOP NO. 602 ON LEVEL 6 OF K11 MUSEA,VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-02-24"
-          ],
-          [
-            2261819193,
-            0,
-            "\u6e4a\u6e4a\ufe52\u8336\u7c73\u8336",
-            "SHOP NOS. 608 & 609, 6/F, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-02-28"
-          ],
-          [
-            2261819546,
-            0,
-            "Maison Gaia / G Room",
-            "SHOP NO. 503 AND THE OUTSIDE SEATING ACCOMMODATION AT FLAT ROOF AT SIDE OF SHOP NO. 503, LEVEL 5, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-07-01"
-          ],
-          [
-            2261819591,
-            0,
-            "YAKINIKU LUIGI SOMA TEA & MOCKTAIL",
-            "SHOP 603, 6/F, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-08-04"
-          ],
-          [
-            2261819892,
-            0,
-            "Sushi Wadatsumi",
-            "SHOP NO. 607, LEVEL 6, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-11-14"
-          ],
-          [
-            2261820577,
-            0,
-            "DAB-PA ARTISAN",
-            "SHOP NO. B111, B1/F, K11 MUSEA VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-03-20"
-          ],
-          [
-            2261820629,
-            0,
-            "The Mussels",
-            "SHOP NO.034 & KIOSK 032B, LEVEL 0, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-04-13"
-          ],
-          [
-            2261821428,
-            0,
-            "CANNUBI ENOTECA.CUCINA & TUBER ITALIAN RESTAURANT",
-            "SHOP NO.113A ON LEVEL 1 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-12-04"
-          ],
-          [
-            2261823752,
-            0,
-            "GOLDEN BLOSSOMS",
-            "SHOP NOS. 401 & 401A, LEVEL 4, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-03-05"
-          ],
-          [
-            3861825115,
-            0,
-            "UNAGI YONDAIME KIKUKAWA K11 MUSEA",
-            "SHOP NO. 219 ON LEVEL 2 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-07-20"
-          ],
-          [
-            3161808443,
-            1,
-            "G BAR",
-            "SHOP O AND SEATING AREA, LEVEL B2, K11 MUSEA, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2027-02-12"
-          ],
-          [
-            3161808498,
-            1,
-            "Blooms Coffee",
-            "SHOP 221, 2/F., K11 MUSEA, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-02-26"
-          ],
-          [
-            3161808513,
-            1,
-            "GC K11 Musea 2",
-            "SHOP B205, B206A & B207 ON LEVEL B2 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-03-09"
-          ],
-          [
-            3161808568,
-            1,
-            "BLOOMS COFFEE",
-            "SHOP NO. 327 ON LEVEL 3 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-03-16"
-          ],
-          [
-            3161808920,
-            1,
-            "No Record",
-            "PORTIONS A, B, C & D OF CINEMA AT PORTION OF LEVEL 4, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-08-20"
-          ],
-          [
-            3161809057,
-            1,
-            "SAKE MOMENT",
-            "UNIT 15 & 16 OF SHOP NO. B201 ON BASEMENT 2 OF K11 MUSEA, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-12-20"
-          ],
-          [
-            3161809136,
-            1,
-            "KOFFEE MAMEYA",
-            "SHOP B217, LEVEL B2, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2027-02-18"
-          ],
-          [
-            3161809321,
-            1,
-            "Red Room By Lubuds",
-            "SHOP NO. 606 ON LEVEL 6 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-07-01"
-          ],
-          [
-            3161809987,
-            1,
-            "MAK'S NOODLE",
-            "UNIT 28 & 29 OF SHOP B201, BASEMENT 2, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-10-09"
-          ],
-          [
-            3161810158,
-            1,
-            "Ukiyo",
-            "SHOP NO. 610, LEVEL 6, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-04-03"
-          ],
-          [
-            3161810194,
-            1,
-            "SUNNY BOWL",
-            "UNIT 5-6 OF SHOP NO. B201, BASEMENT 2 OF K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-04-25"
-          ],
-          [
-            3161811221,
-            1,
-            "DRINKS TO GO",
-            "PORTION OF SHOP NOS. 020 & 021, LEVEL 0, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-07-08"
-          ],
-          [
-            3161811382,
-            1,
-            "Starbucks Coffee",
-            "SHOP B107A, LEVEL B1, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2027-02-09"
-          ],
-          [
-            3961812286,
-            1,
-            "No Record",
-            "UNIT 19 & 20 OF SHOP B201 ON BASEMENT 2 OF K11 MUSEA,VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-06-15"
-          ],
-          [
-            3961812392,
-            1,
-            "No Record",
-            "SHOP NO. B216, BASEMENT 2, K11 MUSEA, VICTORIA DOCKSIDE, 18 SALISBURY ROAD, TSIM SHA TSUI, KOWLOON",
-            null,
-            "2026-08-11"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1096810937
-        ]
-      ],
-      "coordinate": [
-        1.992726765960266,
-        0.38910926925392175,
-        27.0
-      ],
-      "halfSize": [
-        87.79022512823576,
-        60.59056141128531,
-        21.5
-      ]
-    },
-    {
-      "attributes": [
-        1096810637,
         2,
         [
           [
@@ -7924,7 +7855,7 @@
     },
     {
       "attributes": [
-        1096810638,
+        1096810635,
         9,
         [
           [
@@ -8019,7 +7950,7 @@
     },
     {
       "attributes": [
-        1096810639,
+        1096810636,
         5,
         [
           [

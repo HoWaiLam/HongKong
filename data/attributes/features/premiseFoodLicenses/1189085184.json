@@ -886,7 +886,7 @@
     {
       "attributes": [
         1189085205,
-        4,
+        5,
         [
           [
             2895800028,
@@ -919,6 +919,14 @@
             "G/F, BLOCK 1, 8 DAI FU STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
             null,
             "2026-08-28"
+          ],
+          [
+            2995804678,
+            4,
+            "Nissin Foods Company Limited",
+            "G/F.(PORTION), 1/F.(PORTION), U1/F.(PORTION) & 2/F.(PORTION), NO. 21-23 DAI SHING STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
+            null,
+            "2027-03-22"
           ]
         ]
       ],
@@ -1131,45 +1139,6 @@
         30.119500000029802,
         30.132999999448657,
         13.59999942779541
-      ]
-    },
-    {
-      "attributes": [
-        1189085211,
-        2,
-        [
-          [
-            2995804678,
-            4,
-            "Nissin Foods Company Limited",
-            "G/F.(PORTION), 1/F.(PORTION), U1/F.(PORTION) & 2/F.(PORTION), NO. 21-23 DAI SHING STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
-            null,
-            "2027-03-22"
-          ],
-          [
-            2995805033,
-            4,
-            "Nissin Foods Company Ltd.",
-            "3/F, NO. 21-23 DAI SHING STREET, TAI PO INDUSTRIAL ESTATE, TAI PO, NEW TERRITORIES",
-            null,
-            "2026-09-01"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1189085471
-        ]
-      ],
-      "coordinate": [
-        1.9928914728823723,
-        0.3919376714111768,
-        20.649999618530273
-      ],
-      "halfSize": [
-        14.933094999752939,
-        49.99265500064939,
-        15.050000190734863
       ]
     }
   ]

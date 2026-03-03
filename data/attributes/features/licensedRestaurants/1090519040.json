@@ -169,6 +169,37 @@
         1,
         [
           [
+            2215801377,
+            0,
+            "i-Care Kitchen",
+            "CANTEEN, G85, G/F., BLOCK B, WONG CHUK HANG COMPLEX FOR THE ELDERLY, 2 WONG CHUK HANG PATH, WONG CHUK HANG, HONG KONG",
+            null,
+            "2026-07-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1090519132
+        ]
+      ],
+      "coordinate": [
+        1.9927813632319407,
+        0.3883873139761422,
+        28.75
+      ],
+      "halfSize": [
+        2.404999999795109,
+        3.1715000001713634,
+        2.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1090519046,
+        1,
+        [
+          [
             2215800675,
             0,
             "Hong Kong Academy of Medicine",
@@ -192,37 +223,6 @@
         47.95822999998927,
         21.046354999765754,
         3.1999998092651367
-      ]
-    },
-    {
-      "attributes": [
-        1090519046,
-        1,
-        [
-          [
-            2215801377,
-            0,
-            "i-Care Kitchen",
-            "CANTEEN, G85, G/F., BLOCK B, WONG CHUK HANG COMPLEX FOR THE ELDERLY, 2 WONG CHUK HANG PATH, WONG CHUK HANG, HONG KONG",
-            null,
-            "2026-07-15"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1090519207
-        ]
-      ],
-      "coordinate": [
-        1.9927422139907864,
-        0.3883478092064993,
-        25.700000762939453
-      ],
-      "halfSize": [
-        51.25035500014201,
-        20.584959999658167,
-        15.200000762939453
       ]
     },
     {
@@ -376,69 +376,6 @@
     {
       "attributes": [
         1090519051,
-        5,
-        [
-          [
-            2215801100,
-            0,
-            "Tuxedos",
-            "UPPER GROUND FLOOR (PORTION), POLAR ADVENTURE AT SUMMIT, 180 WONG CHUK HANG ROAD, OCEAN PARK, HONG KONG",
-            null,
-            "2026-12-26"
-          ],
-          [
-            2215802176,
-            0,
-            "Prohibition",
-            "G/F. (PORTION C) AT CLUB WING, HONG KONG OCEAN PARK MARRIOTT HOTEL, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
-            null,
-            "2026-03-21"
-          ],
-          [
-            2215802185,
-            0,
-            "Canton Bistro",
-            "G/F. (PORTION B) AT CLUB WING, HONG KONG OCEAN PARK MARRIOTT HOTEL, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
-            null,
-            "2026-03-21"
-          ],
-          [
-            2215802194,
-            0,
-            "Grand Ballroom/Pier Lounge/Pier Bar",
-            "B/F. (PORTION A) AT PODIUM AND, G/F. (PORTION A) AT PIER WING, HONG KONG OCEAN PARK MARRIOTT HOTEL, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
-            null,
-            "2026-04-01"
-          ],
-          [
-            2215802200,
-            0,
-            "Marina Kitchen/Marina Caf\u00e9",
-            "G/F. (PORTION D) AT MARINA WING, HONG KONG OCEAN PARK MARRIOTT HOTEL, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
-            null,
-            "2026-04-03"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1090519692
-        ]
-      ],
-      "coordinate": [
-        1.9927242981332562,
-        0.3882834466988883,
-        12.300000190734863
-      ],
-      "halfSize": [
-        72.01137499976903,
-        126.30648000072688,
-        4.199999809265137
-      ]
-    },
-    {
-      "attributes": [
-        1090519052,
         1,
         [
           [
@@ -469,7 +406,7 @@
     },
     {
       "attributes": [
-        1090519053,
+        1090519052,
         2,
         [
           [
@@ -508,7 +445,7 @@
     },
     {
       "attributes": [
-        1090519054,
+        1090519053,
         1,
         [
           [
@@ -539,7 +476,7 @@
     },
     {
       "attributes": [
-        1090519055,
+        1090519054,
         1,
         [
           [
@@ -570,7 +507,7 @@
     },
     {
       "attributes": [
-        1090519056,
+        1090519055,
         2,
         [
           [
@@ -609,7 +546,7 @@
     },
     {
       "attributes": [
-        1090519057,
+        1090519056,
         1,
         [
           [
@@ -640,7 +577,7 @@
     },
     {
       "attributes": [
-        1090519058,
+        1090519057,
         1,
         [
           [
@@ -671,7 +608,7 @@
     },
     {
       "attributes": [
-        1090519059,
+        1090519058,
         1,
         [
           [
@@ -702,7 +639,7 @@
     },
     {
       "attributes": [
-        1090519060,
+        1090519059,
         2,
         [
           [
@@ -741,7 +678,7 @@
     },
     {
       "attributes": [
-        1090519061,
+        1090519060,
         31,
         [
           [

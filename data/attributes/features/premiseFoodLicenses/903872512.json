@@ -230,7 +230,7 @@
     {
       "attributes": [
         903872517,
-        4,
+        7,
         [
           [
             2991809170,
@@ -241,12 +241,28 @@
             "2026-10-07"
           ],
           [
+            2991813775,
+            4,
+            "\u592a\u597d\u5473",
+            "MAJOR PORTION OF SHOP NO. 104, G/F, COMMERCIAL CENTRE NO. 1, CHEUNG HONG ESTATE, 12 CHING HONG ROAD , TSING YI, NEW TERRITORIES",
+            null,
+            "2026-08-24"
+          ],
+          [
             2991816066,
             4,
             "\u624b\u4f5c\u529f\u592b\u8336",
             "STALL NO. M5, G/F, HONG WO HOUSE, CHEUNG HONG ESTATE, NO. 12 CHING HONG ROAD, TSING YI, NEW TERRITORIES",
             null,
             "2026-12-08"
+          ],
+          [
+            3691801969,
+            5,
+            "PARKNSHOP",
+            "PORTIONS OF SHOP NOS.308, 309, 310, 311 AND 312C, LEVEL 3, COMMERCIAL CENTRE NO. 2, CHEUNG HONG ESTATE, 12 CHING HONG ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-05-24"
           ],
           [
             3691802953,
@@ -263,23 +279,31 @@
             "STALL NO. M4 (FRONT PORTION), G/F, HONG WO HOUSE, CHEUNG HONG MARKET, CHEUNG HONG ESTATE, NO. 12 CHING HONG ROAD, TSING YI, NEW TERRITORIES",
             null,
             "2026-10-07"
+          ],
+          [
+            3591800600,
+            8,
+            "\u592a\u597d\u5473",
+            "MINOR PORTION OF SHOP NO. 104, G/F, COMMERCIAL CENTRE NO. 1, CHEUNG HONG ESTATE, 12 CHING HONG ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-11-21"
           ]
         ]
       ],
       "links": [
         [
-          903872936
+          903872962
         ]
       ],
       "coordinate": [
-        1.9915047426603434,
-        0.3900721204617954,
-        62.650001525878906
+        1.9915247783713101,
+        0.3900631569704289,
+        44.79999923706055
       ],
       "halfSize": [
-        16.93650000030175,
-        46.08085499983281,
-        26.150001525878906
+        23.820465000346303,
+        31.411000000312924,
+        7.799999237060547
       ]
     },
     {
@@ -434,7 +458,7 @@
     {
       "attributes": [
         903872521,
-        12,
+        10,
         [
           [
             2191000322,
@@ -467,14 +491,6 @@
             "SHOP NO. 12, G/F, MARKET II, CHEUNG HONG ESTATE, TSING YI, NEW TERRITORIES",
             null,
             "2026-04-29"
-          ],
-          [
-            2991813775,
-            4,
-            "\u592a\u597d\u5473",
-            "MAJOR PORTION OF SHOP NO. 104, G/F, COMMERCIAL CENTRE NO. 1, CHEUNG HONG ESTATE, 12 CHING HONG ROAD , TSING YI, NEW TERRITORIES",
-            null,
-            "2026-08-24"
           ],
           [
             3691000566,
@@ -523,14 +539,6 @@
             "SHOPSTALL NO. 25, MARKET II, CHEUNG HONG ESTATE, TSING YI, NEW TERRITORIES",
             null,
             "2026-07-14"
-          ],
-          [
-            3591800600,
-            8,
-            "\u592a\u597d\u5473",
-            "MINOR PORTION OF SHOP NO. 104, G/F, COMMERCIAL CENTRE NO. 1, CHEUNG HONG ESTATE, 12 CHING HONG ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-11-21"
           ]
         ]
       ],
@@ -553,37 +561,6 @@
     {
       "attributes": [
         903872522,
-        1,
-        [
-          [
-            3691801969,
-            5,
-            "PARKNSHOP",
-            "PORTIONS OF SHOP NOS.308, 309, 310, 311 AND 312C, LEVEL 3, COMMERCIAL CENTRE NO. 2, CHEUNG HONG ESTATE, 12 CHING HONG ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-05-24"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          903873067
-        ]
-      ],
-      "coordinate": [
-        1.9913957136104998,
-        0.39007774302885406,
-        62.25
-      ],
-      "halfSize": [
-        63.178000000305474,
-        22.2417800007388,
-        4.650001525878906
-      ]
-    },
-    {
-      "attributes": [
-        903872523,
         3,
         [
           [
@@ -630,7 +607,7 @@
     },
     {
       "attributes": [
-        903872524,
+        903872523,
         3,
         [
           [
@@ -677,7 +654,7 @@
     },
     {
       "attributes": [
-        903872525,
+        903872524,
         5,
         [
           [
@@ -740,7 +717,7 @@
     },
     {
       "attributes": [
-        903872526,
+        903872525,
         11,
         [
           [
@@ -851,7 +828,7 @@
     },
     {
       "attributes": [
-        903872527,
+        903872526,
         2,
         [
           [
@@ -890,7 +867,7 @@
     },
     {
       "attributes": [
-        903872528,
+        903872527,
         1,
         [
           [
@@ -921,7 +898,7 @@
     },
     {
       "attributes": [
-        903872529,
+        903872528,
         3,
         [
           [

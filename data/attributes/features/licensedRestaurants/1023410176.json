@@ -65,7 +65,7 @@
     {
       "attributes": [
         1023410178,
-        2,
+        1,
         [
           [
             2215800240,
@@ -74,14 +74,6 @@
             "SHOP 3B, G/F., KA WO BUILDING, 14-22 KA WO STREET, TIN WAN, HONG KONG",
             null,
             "2026-10-16"
-          ],
-          [
-            2215801669,
-            0,
-            "\u7530\u7063\u51b0\u5ba4\u5c0f\u5eda",
-            "SHOP A1, G/F., KA WO BUILDING, NO. 12-14 KA WO STREET, TIN WAN, ABERDEEN, HONG KONG",
-            null,
-            "2026-05-30"
           ]
         ]
       ],
@@ -166,7 +158,7 @@
     {
       "attributes": [
         1023410181,
-        1,
+        2,
         [
           [
             2215801049,
@@ -175,6 +167,14 @@
             "SHOP 3, GROUND FLOOR, KA FOOK COURT, NOS. 2, 6, 8 & 10 KA WO STREET & NOS. 1 & 3 TIN WAN STREET, HONG KONG",
             null,
             "2026-09-26"
+          ],
+          [
+            2215801669,
+            0,
+            "\u7530\u7063\u51b0\u5ba4\u5c0f\u5eda",
+            "SHOP A1, G/F., KA WO BUILDING, NO. 12-14 KA WO STREET, TIN WAN, ABERDEEN, HONG KONG",
+            null,
+            "2026-05-30"
           ]
         ]
       ],

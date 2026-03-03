@@ -193,7 +193,7 @@
     {
       "attributes": [
         442499074,
-        9,
+        15,
         [
           [
             2293000576,
@@ -228,6 +228,30 @@
             "2026-07-01"
           ],
           [
+            2293803179,
+            0,
+            "Nam Kee Roast Goose Gourmet Kitchen",
+            "COOKED FOOD STALL NOS. 1-4 AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, G/F, SHAN KING ESTATE, 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-26"
+          ],
+          [
+            2293806406,
+            0,
+            "Cafe de Coral & Super Super",
+            "SHOP NOS. 121 AND 121A, LOWER GROUND FLOOR, CAR PARK/ COMMERCIAL COMPLEX (ALSO KNOWN AS SHAN KING SHOPPING CENTRE), SHAN KING ESTATE, NO. 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-20"
+          ],
+          [
+            2293806424,
+            0,
+            "Moon Cafe, Soup Plus",
+            "SHOP NO. 120, LG/F, CAR PARK/ COMMERCIAL COMPLEX (ALSO KNOWN AS SHAN KING SHOPPING CENTRE), SHAN KING ESTATE, NO. 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-07-03"
+          ],
+          [
             2293806512,
             0,
             "\u9038\u7fe0\u8ed2",
@@ -252,12 +276,36 @@
             "2026-04-07"
           ],
           [
+            2293808004,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "STALL NOS. T-SK9, T-SK10, T-SK11, T-SK12, T-SK19 AND T-SK20, G/F, MARKET PLACE OF SHAN KING SHOPPING CENTRE, SHAN KING ESTATE, NO.1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-09"
+          ],
+          [
             2296002209,
             0,
             "\u9d3b\u904b\u9910\u5ef3\u5c0f\u5eda",
             "SHOP NO 16-19, G/F, COMMERCIAL COMPLEX, TSUI LAI GARDEN, SHEUNG SHUI, NEW TERRITORIES",
             null,
             "2026-06-30"
+          ],
+          [
+            3893808115,
+            0,
+            "WING FUNG CAFE",
+            "STALL NOS. T-SK13, T-SK14, T-SK15, T-SK16, T-SK17 AND T-SK18, GROUND FLOOR, MARKET PLACE OF SHAN KING SHOPPING CENTRE, SHAN KING ESTATE, NO. 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-21"
+          ],
+          [
+            3193802068,
+            1,
+            "\u6f6e\u9e97\u5712",
+            "STALL T-SK 227, G/F, SHAN KING MARKET, 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-08"
           ],
           [
             3193802712,
@@ -283,77 +331,6 @@
         60.12792500015348,
         37.60300000011921,
         6.15000057220459
-      ]
-    },
-    {
-      "attributes": [
-        442499075,
-        6,
-        [
-          [
-            2293803179,
-            0,
-            "Nam Kee Roast Goose Gourmet Kitchen",
-            "COOKED FOOD STALL NOS. 1-4 AND THE OUTSIDE SEATING ACCOMMODATION AT SHOP FRONT, G/F, SHAN KING ESTATE, 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2026-03-26"
-          ],
-          [
-            2293806406,
-            0,
-            "Cafe de Coral & Super Super",
-            "SHOP NOS. 121 AND 121A, LOWER GROUND FLOOR, CAR PARK/ COMMERCIAL COMPLEX (ALSO KNOWN AS SHAN KING SHOPPING CENTRE), SHAN KING ESTATE, NO. 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2026-06-20"
-          ],
-          [
-            2293806424,
-            0,
-            "Moon Cafe, Soup Plus",
-            "SHOP NO. 120, LG/F, CAR PARK/ COMMERCIAL COMPLEX (ALSO KNOWN AS SHAN KING SHOPPING CENTRE), SHAN KING ESTATE, NO. 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2026-07-03"
-          ],
-          [
-            2293808004,
-            0,
-            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
-            "STALL NOS. T-SK9, T-SK10, T-SK11, T-SK12, T-SK19 AND T-SK20, G/F, MARKET PLACE OF SHAN KING SHOPPING CENTRE, SHAN KING ESTATE, NO.1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2026-06-09"
-          ],
-          [
-            3893808115,
-            0,
-            "WING FUNG CAFE",
-            "STALL NOS. T-SK13, T-SK14, T-SK15, T-SK16, T-SK17 AND T-SK18, GROUND FLOOR, MARKET PLACE OF SHAN KING SHOPPING CENTRE, SHAN KING ESTATE, NO. 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2026-06-21"
-          ],
-          [
-            3193802068,
-            1,
-            "\u6f6e\u9e97\u5712",
-            "STALL T-SK 227, G/F, SHAN KING MARKET, 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2026-12-08"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          442499397
-        ]
-      ],
-      "coordinate": [
-        1.9890925133953845,
-        0.39089504472611813,
-        14.800000190734863
-      ],
-      "halfSize": [
-        27.991834999993443,
-        29.409164999611676,
-        4.699999809265137
       ]
     }
   ]

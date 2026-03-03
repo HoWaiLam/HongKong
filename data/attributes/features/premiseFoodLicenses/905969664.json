@@ -525,213 +525,6 @@
     {
       "attributes": [
         905969670,
-        23,
-        [
-          [
-            2191800245,
-            1,
-            "BAKE & BITE",
-            "PORTION A OF SHOP 201A, 2/F, CHEUNG FAT PLAZA,CHEUNG FAT ESTATE, 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-03-23"
-          ],
-          [
-            2991808177,
-            4,
-            "SAINT HONORE CAKE SHOP",
-            "SHOP NO. 114E, GROUND FLOOR (ALSO KNOWN AS LEVEL 1), CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-11-14"
-          ],
-          [
-            2991808308,
-            4,
-            "Pizza Hut",
-            "SHOP NO. 202A, SECOND FLOOR, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-12-27"
-          ],
-          [
-            2991808548,
-            4,
-            "SUSHI TAKE-OUT",
-            "SHOP NO. 4, GROUND FLOOR, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2027-02-21"
-          ],
-          [
-            2991809125,
-            4,
-            "\u677e\u8a18\u751c\u54c1(\u5916\u8ce3\u5e97)",
-            "SHOP 6, G/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-09-26"
-          ],
-          [
-            2991811159,
-            4,
-            "\u624b\u4f5c\u529f\u592b\u8336",
-            "SHOP NO. 5, G/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-11-08"
-          ],
-          [
-            2991811797,
-            4,
-            "\u6e2f\u5473\u9053",
-            "SHOP NOS. T-CF 2, TSING YI MARKET, G/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2027-04-11"
-          ],
-          [
-            2991811885,
-            4,
-            "\u5927\u6c60\u8a18",
-            "SHOP NO. 128, G/F, CHEUNG FAT MARKET, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-04-25"
-          ],
-          [
-            2991812125,
-            4,
-            "Chill Sweet",
-            "STALL T-CF1, G/F, CHEUNG FAT MARKET, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-06-13"
-          ],
-          [
-            2991812772,
-            4,
-            "TSUI HING LAU",
-            "SHOP NOS.415 AND 416, FOURTH FLOOR, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-12-12"
-          ],
-          [
-            2991815276,
-            4,
-            "\u5927\u5e2b\u5085\u7ca5\u54c1",
-            "SHOP NOS. 136 & 137, G/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO.6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-07-29"
-          ],
-          [
-            2991815425,
-            4,
-            "\u6cf0\u975a\u624b\u6495\u96de",
-            "STALL T-CF51, CHEUNG FAT MARKET, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO.6 TAM KON SHAN ROAD, TSING YI, KWAI TSING, NEW TERRITORIES",
-            null,
-            "2026-12-04"
-          ],
-          [
-            2991815601,
-            4,
-            "HAPPY SWEET POTATO",
-            "SHOP NOS. 106 & 107, G/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-03-23"
-          ],
-          [
-            2991816093,
-            4,
-            "\u8c50\u76db\u71d2\u5473",
-            "PORTION B OF CF16, G/F, CHEUNG FAT MARKET, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2027-01-15"
-          ],
-          [
-            3691801084,
-            5,
-            "Park'N Shop",
-            "STALL NO.6, 7 AND PORTION OF SHOP 320, 321A, 321B,321D, 321E, 321F AND 321G, 3/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-08-01"
-          ],
-          [
-            3691802768,
-            5,
-            "\u725b\u820d",
-            "STALL T-CF69, G/F, CHEUNG FAT MARKET, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2027-01-25"
-          ],
-          [
-            3691802795,
-            5,
-            "\u51cd\u8089\u4ed4",
-            "STALL T-CF 114 & 122, G/F, CHEUNG FAT MARKET,CHEUNG FAT PLAZA, CHEUNG FAT ESTATE,NO.6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2027-02-27"
-          ],
-          [
-            3691802810,
-            5,
-            "\u5065\u5eb7\u8fb2\u5834",
-            "STALL T-CF56, G/F, CHEUNG FAT MARKET, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2027-03-16"
-          ],
-          [
-            3691803178,
-            5,
-            "\u73cd\u73cd\u9bae\u9b5a",
-            "STALL T-CF107, G/F., CHEUNG FAT MARKET, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-06-19"
-          ],
-          [
-            3691803196,
-            5,
-            "S-MART FOOD",
-            "SHOP NOS. 63-65, G/F, CHEUNG FAT MARKET, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-08-27"
-          ],
-          [
-            3691803202,
-            5,
-            "\u9999\u6e2f\u5730\u98df\u54c1",
-            "SHOP NO. 131, G/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-09-05"
-          ],
-          [
-            3591800585,
-            8,
-            "\u6f6e\u6c55\u6ef7\u6c34",
-            "SHOP NO. 52, G/F, CHEUNG FAT MARKET, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-09-27"
-          ],
-          [
-            3591800655,
-            8,
-            "\u8c50\u76db\u71d2\u5473",
-            "PORTION A OF CF16, G/F, CHEUNG FAT MARKET, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2027-01-15"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          905969737
-        ]
-      ],
-      "coordinate": [
-        1.9914891046074588,
-        0.3902891978580655,
-        55.25
-      ],
-      "halfSize": [
-        31.54299999959767,
-        34.767605000175536,
-        49.25
-      ]
-    },
-    {
-      "attributes": [
-        905969671,
         1,
         [
           [
@@ -762,7 +555,7 @@
     },
     {
       "attributes": [
-        905969672,
+        905969671,
         2,
         [
           [
@@ -801,7 +594,7 @@
     },
     {
       "attributes": [
-        905969673,
+        905969672,
         1,
         [
           [
@@ -828,6 +621,53 @@
         10.40021499991417,
         9.531639999710023,
         3.25
+      ]
+    },
+    {
+      "attributes": [
+        905969673,
+        3,
+        [
+          [
+            2991801796,
+            4,
+            "7 - ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. 6 , G/F, COMMERCIAL CENTRE, TIVOLI GARDEN , 75 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-07-12"
+          ],
+          [
+            3691802397,
+            5,
+            "Wellcome",
+            "SHOP NO. 7 (PORTIONS), G/F, TIVOLI GARDEN, NO. 75 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-07-27"
+          ],
+          [
+            3291800166,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. 6, G/F, COMMERCIAL CENTRE, TIVOLI GARDEN, 75 TSING KING ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-07-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905970122
+        ]
+      ],
+      "coordinate": [
+        1.9915536271799426,
+        0.39015932424823657,
+        13.75
+      ],
+      "halfSize": [
+        24.890000000130385,
+        30.50499999988824,
+        8.049999237060547
       ]
     },
     {
@@ -1083,6 +923,53 @@
     {
       "attributes": [
         905969680,
+        3,
+        [
+          [
+            2991816093,
+            4,
+            "\u8c50\u76db\u71d2\u5473",
+            "PORTION B OF CF16, G/F, CHEUNG FAT MARKET, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-01-15"
+          ],
+          [
+            3691801084,
+            5,
+            "Park'N Shop",
+            "STALL NO.6, 7 AND PORTION OF SHOP 320, 321A, 321B,321D, 321E, 321F AND 321G, 3/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-08-01"
+          ],
+          [
+            3591800655,
+            8,
+            "\u8c50\u76db\u71d2\u5473",
+            "PORTION A OF CF16, G/F, CHEUNG FAT MARKET, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-01-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          905970350
+        ]
+      ],
+      "coordinate": [
+        1.9914789626272549,
+        0.3902987465321627,
+        10.649999618530273
+      ],
+      "halfSize": [
+        85.30050000036135,
+        46.381000000052154,
+        5.849999904632568
+      ]
+    },
+    {
+      "attributes": [
+        905969681,
         2,
         [
           [
@@ -1121,7 +1008,7 @@
     },
     {
       "attributes": [
-        905969681,
+        905969682,
         4,
         [
           [
@@ -1176,7 +1063,7 @@
     },
     {
       "attributes": [
-        905969682,
+        905969683,
         2,
         [
           [
@@ -1215,7 +1102,7 @@
     },
     {
       "attributes": [
-        905969683,
+        905969684,
         1,
         [
           [
@@ -1246,7 +1133,7 @@
     },
     {
       "attributes": [
-        905969684,
+        905969685,
         22,
         [
           [
@@ -1445,7 +1332,7 @@
     },
     {
       "attributes": [
-        905969685,
+        905969686,
         15,
         [
           [
@@ -1588,7 +1475,7 @@
     },
     {
       "attributes": [
-        905969686,
+        905969687,
         1,
         [
           [
@@ -1615,53 +1502,6 @@
         63.91800000006333,
         87.16499999910593,
         3.9499998092651367
-      ]
-    },
-    {
-      "attributes": [
-        905969687,
-        3,
-        [
-          [
-            2991801796,
-            4,
-            "7 - ELEVEN FOOD STORE",
-            "PORTION B OF SHOP NO. 6 , G/F, COMMERCIAL CENTRE, TIVOLI GARDEN , 75 TSING KING ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-07-12"
-          ],
-          [
-            3691802397,
-            5,
-            "Wellcome",
-            "SHOP NO. 7 (PORTIONS), G/F, TIVOLI GARDEN, NO. 75 TSING KING ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-07-27"
-          ],
-          [
-            3291800166,
-            6,
-            "7-ELEVEN FOOD STORE",
-            "PORTION A OF SHOP NO. 6, G/F, COMMERCIAL CENTRE, TIVOLI GARDEN, 75 TSING KING ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-07-12"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          905970366
-        ]
-      ],
-      "coordinate": [
-        1.9915634506051567,
-        0.390161519654548,
-        8.100000381469727
-      ],
-      "halfSize": [
-        24.29819000000134,
-        30.611669999547303,
-        2.299999713897705
       ]
     },
     {
@@ -1878,8 +1718,16 @@
     {
       "attributes": [
         905969693,
-        5,
+        25,
         [
+          [
+            2191800245,
+            1,
+            "BAKE & BITE",
+            "PORTION A OF SHOP 201A, 2/F, CHEUNG FAT PLAZA,CHEUNG FAT ESTATE, 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-03-23"
+          ],
           [
             2991803330,
             4,
@@ -1895,6 +1743,38 @@
             "STALL NO. 10, SHOP 320, 321A, 321B, 321D, 321E,321F AND 321G, 3/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, TSING YI, NEW TERRITORIES",
             null,
             "2026-11-01"
+          ],
+          [
+            2991808177,
+            4,
+            "SAINT HONORE CAKE SHOP",
+            "SHOP NO. 114E, GROUND FLOOR (ALSO KNOWN AS LEVEL 1), CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-11-14"
+          ],
+          [
+            2991808308,
+            4,
+            "Pizza Hut",
+            "SHOP NO. 202A, SECOND FLOOR, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-12-27"
+          ],
+          [
+            2991808548,
+            4,
+            "SUSHI TAKE-OUT",
+            "SHOP NO. 4, GROUND FLOOR, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-02-21"
+          ],
+          [
+            2991809125,
+            4,
+            "\u677e\u8a18\u751c\u54c1(\u5916\u8ce3\u5e97)",
+            "SHOP 6, G/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-09-26"
           ],
           [
             2991809143,
@@ -1913,12 +1793,132 @@
             "2026-09-29"
           ],
           [
+            2991811159,
+            4,
+            "\u624b\u4f5c\u529f\u592b\u8336",
+            "SHOP NO. 5, G/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-11-08"
+          ],
+          [
+            2991811797,
+            4,
+            "\u6e2f\u5473\u9053",
+            "SHOP NOS. T-CF 2, TSING YI MARKET, G/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-04-11"
+          ],
+          [
+            2991811885,
+            4,
+            "\u5927\u6c60\u8a18",
+            "SHOP NO. 128, G/F, CHEUNG FAT MARKET, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-04-25"
+          ],
+          [
+            2991812125,
+            4,
+            "Chill Sweet",
+            "STALL T-CF1, G/F, CHEUNG FAT MARKET, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-13"
+          ],
+          [
+            2991812772,
+            4,
+            "TSUI HING LAU",
+            "SHOP NOS.415 AND 416, FOURTH FLOOR, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ],
+          [
+            2991815276,
+            4,
+            "\u5927\u5e2b\u5085\u7ca5\u54c1",
+            "SHOP NOS. 136 & 137, G/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO.6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-07-29"
+          ],
+          [
+            2991815425,
+            4,
+            "\u6cf0\u975a\u624b\u6495\u96de",
+            "STALL T-CF51, CHEUNG FAT MARKET, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO.6 TAM KON SHAN ROAD, TSING YI, KWAI TSING, NEW TERRITORIES",
+            null,
+            "2026-12-04"
+          ],
+          [
+            2991815601,
+            4,
+            "HAPPY SWEET POTATO",
+            "SHOP NOS. 106 & 107, G/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-03-23"
+          ],
+          [
+            3691802768,
+            5,
+            "\u725b\u820d",
+            "STALL T-CF69, G/F, CHEUNG FAT MARKET, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-01-25"
+          ],
+          [
+            3691802795,
+            5,
+            "\u51cd\u8089\u4ed4",
+            "STALL T-CF 114 & 122, G/F, CHEUNG FAT MARKET,CHEUNG FAT PLAZA, CHEUNG FAT ESTATE,NO.6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-02-27"
+          ],
+          [
+            3691802810,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "STALL T-CF56, G/F, CHEUNG FAT MARKET, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-03-16"
+          ],
+          [
+            3691803178,
+            5,
+            "\u73cd\u73cd\u9bae\u9b5a",
+            "STALL T-CF107, G/F., CHEUNG FAT MARKET, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-06-19"
+          ],
+          [
+            3691803196,
+            5,
+            "S-MART FOOD",
+            "SHOP NOS. 63-65, G/F, CHEUNG FAT MARKET, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-08-27"
+          ],
+          [
+            3691803202,
+            5,
+            "\u9999\u6e2f\u5730\u98df\u54c1",
+            "SHOP NO. 131, G/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-09-05"
+          ],
+          [
             3591800257,
             8,
             "Park'N Shop",
             "STALL NO. 9, SHOP 320, 321A, 321B, 321D, 321E,321F AND 321G, 3/F, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, TSING YI, NEW TERRITORIES",
             null,
             "2026-11-01"
+          ],
+          [
+            3591800585,
+            8,
+            "\u6f6e\u6c55\u6ef7\u6c34",
+            "SHOP NO. 52, G/F, CHEUNG FAT MARKET, CHEUNG FAT PLAZA, CHEUNG FAT ESTATE, NO. 6 TAM KON SHAN ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-09-27"
           ]
         ]
       ],

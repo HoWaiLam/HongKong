@@ -34,16 +34,8 @@
     {
       "attributes": [
         771751937,
-        3,
+        1,
         [
-          [
-            2992803230,
-            4,
-            "7-ELEVEN FOOD STORE",
-            "PORTION B OF SHOP NO. S5 & S6 ON LEVEL 1, PARK ISLAND-PIER, PARK ISLAND, MA WAN, TSUEN WAN, NEW TERRITORIES",
-            null,
-            "2027-01-17"
-          ],
           [
             2992810524,
             4,
@@ -51,14 +43,6 @@
             "SHOP NO. P3, LEVEL 1, PARK ISLAND PIER, PARK ISLAND, LOT NO. 392, MA WAN, TSUEN WAN, NEW TERRITORIES",
             null,
             "2027-01-22"
-          ],
-          [
-            3292800516,
-            6,
-            "7-ELEVEN FOOD STORE",
-            "PORTION A OF SHOP NO. S5 & S6 ON LEVEL 1, PARK ISLAND - PIER, PARK ISLAND, MA WAN, TSUEN WAN, NEW TERRITORIES",
-            null,
-            "2026-09-12"
           ]
         ]
       ],
@@ -112,8 +96,16 @@
     {
       "attributes": [
         771751939,
-        5,
+        7,
         [
+          [
+            2992803230,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. S5 & S6 ON LEVEL 1, PARK ISLAND-PIER, PARK ISLAND, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2027-01-17"
+          ],
           [
             2992804710,
             4,
@@ -145,6 +137,14 @@
             "STALL NO. 13, 14 & PORTIONS OF SHOP NO. S7, LEVEL 1, PARK ISLAND, MA WAN, TSUEN WAN, NEW TERRITORIES",
             null,
             "2026-05-26"
+          ],
+          [
+            3292800516,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. S5 & S6 ON LEVEL 1, PARK ISLAND - PIER, PARK ISLAND, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-09-12"
           ],
           [
             3592800397,

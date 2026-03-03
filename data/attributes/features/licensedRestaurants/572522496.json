@@ -3,6 +3,61 @@
     {
       "attributes": [
         572522496,
+        4,
+        [
+          [
+            2293001180,
+            0,
+            "\u8046\u6e22\u5496\u5561\u5ba4",
+            "LG/F, COFFEE SHOP, GOLD COAST HOTEL, CASTLE PEAK BAY, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2293001214,
+            0,
+            "Yue",
+            "LOWER G/F & LOBBY FLOOR, GOLD COAST HOTEL, CASTLE PEAK BAY, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2293801216,
+            0,
+            "SATAY INN",
+            "LOBBY FLOOR, GOLD COAST HOTEL, 1 CASTLE PEAK ROAD, CASTLE PEAK BAY , TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-05-06"
+          ],
+          [
+            2293803869,
+            0,
+            "(no record found)",
+            "LOBBY, LOUNGE ATRIUM BAR, GOLD COAST HOTEL, 1 CASTLE PEAK ROAD, CASTLE PEAK BAY, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          572522868
+        ]
+      ],
+      "coordinate": [
+        1.9894934296922697,
+        0.3904622615227003,
+        15.75
+      ],
+      "halfSize": [
+        75.16837999969721,
+        63.08712000027299,
+        10.049999237060547
+      ]
+    },
+    {
+      "attributes": [
+        572522497,
         13,
         [
           [
@@ -113,23 +168,23 @@
       ],
       "links": [
         [
-          572522868
+          572523358
         ]
       ],
       "coordinate": [
-        1.9894934296922697,
-        0.3904622615227003,
-        15.75
+        1.9895516741796984,
+        0.3903760418625333,
+        6.75
       ],
       "halfSize": [
-        75.16837999969721,
-        63.08712000027299,
-        10.049999237060547
+        46.87469500023872,
+        44.65990999992937,
+        3.3500001430511475
       ]
     },
     {
       "attributes": [
-        572522497,
+        572522498,
         2,
         [
           [
@@ -168,7 +223,7 @@
     },
     {
       "attributes": [
-        572522498,
+        572522499,
         1,
         [
           [
@@ -199,7 +254,7 @@
     },
     {
       "attributes": [
-        572522499,
+        572522500,
         1,
         [
           [

@@ -3,37 +3,6 @@
     {
       "attributes": [
         723517440,
-        1,
-        [
-          [
-            2994808743,
-            4,
-            "Chicken Factory",
-            "SHOP NO. 5 & 6, G/F, BLOCK A, FAIRVIEW PARK TOWN CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
-            null,
-            "2027-03-31"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          723520906
-        ]
-      ],
-      "coordinate": [
-        1.9904683049385066,
-        0.3923079005469608,
-        8.800000190734863
-      ],
-      "halfSize": [
-        16.584999999962747,
-        17.972000000067055,
-        4.300000190734863
-      ]
-    },
-    {
-      "attributes": [
-        723517441,
         9,
         [
           [
@@ -61,20 +30,20 @@
             "2026-07-14"
           ],
           [
+            2994808743,
+            4,
+            "Chicken Factory",
+            "SHOP NO. 5 & 6, G/F, BLOCK A, FAIRVIEW PARK TOWN CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-31"
+          ],
+          [
             2994811947,
             4,
             "HUNG FOOK TONG",
             "SHOP C1, G/F, BLOCK B, TOWN CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
             null,
             "2026-10-09"
-          ],
-          [
-            3694000105,
-            5,
-            "\u6052\u8a18",
-            "SHOPSTALL NO. 23, GROUND FLOOR, BLOCK A, COMMERCIAL CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
-            null,
-            "2027-03-31"
           ],
           [
             3694000406,
@@ -107,6 +76,37 @@
             "STALL NO. 22, G/F, BLOCK A, MARKET PLACE, TOWN CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
             null,
             "2026-07-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          723520906
+        ]
+      ],
+      "coordinate": [
+        1.9904683049385066,
+        0.3923079005469608,
+        8.800000190734863
+      ],
+      "halfSize": [
+        16.584999999962747,
+        17.972000000067055,
+        4.300000190734863
+      ]
+    },
+    {
+      "attributes": [
+        723517441,
+        1,
+        [
+          [
+            3694000105,
+            5,
+            "\u6052\u8a18",
+            "SHOPSTALL NO. 23, GROUND FLOOR, BLOCK A, COMMERCIAL CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-03-31"
           ]
         ]
       ],

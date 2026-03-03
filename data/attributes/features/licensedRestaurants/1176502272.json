@@ -332,38 +332,7 @@
     {
       "attributes": [
         1176502279,
-        1,
-        [
-          [
-            3197802206,
-            1,
-            "\u91d1\u98ef\u7897\u7c89\u9eb5",
-            "STALL NO. S-CS 10, GROUND FLOOR, MARKET PLACE OF CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
-            null,
-            "2026-05-02"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1176502813
-        ]
-      ],
-      "coordinate": [
-        1.992931889047538,
-        0.3904933081216123,
-        12.350000381469727
-      ],
-      "halfSize": [
-        48.158824999816716,
-        35.092000000178814,
-        7.049999713897705
-      ]
-    },
-    {
-      "attributes": [
-        1176502280,
-        5,
+        3,
         [
           [
             2297800433,
@@ -374,28 +343,12 @@
             "2026-06-12"
           ],
           [
-            2297805173,
-            0,
-            "McDonald's Restaurant",
-            "SHOPS 8 AND 9, GROUND FLOOR , CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
-            null,
-            "2026-06-19"
-          ],
-          [
             2297808312,
             0,
             "Cafe 100%",
             "SHOP NO. 2-3, G/F, CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, SHA TIN, NEW TERRITORIES",
             null,
             "2026-11-21"
-          ],
-          [
-            2297808473,
-            0,
-            "\u767e\u6085\u8ed2",
-            "SHOP NO. 17A, G/F, CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
-            null,
-            "2027-02-10"
           ],
           [
             2297808604,
@@ -421,6 +374,53 @@
         41.07849999982864,
         37.35444499924779,
         7.550000190734863
+      ]
+    },
+    {
+      "attributes": [
+        1176502280,
+        3,
+        [
+          [
+            2297805173,
+            0,
+            "McDonald's Restaurant",
+            "SHOPS 8 AND 9, GROUND FLOOR , CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-06-19"
+          ],
+          [
+            2297808473,
+            0,
+            "\u767e\u6085\u8ed2",
+            "SHOP NO. 17A, G/F, CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-10"
+          ],
+          [
+            3197802206,
+            1,
+            "\u91d1\u98ef\u7897\u7c89\u9eb5",
+            "STALL NO. S-CS 10, GROUND FLOOR, MARKET PLACE OF CHUN SHEK SHOPPING CENTRE, CHUN SHEK ESTATE, 1 SHING TIN STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-05-02"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1176503038
+        ]
+      ],
+      "coordinate": [
+        1.992940930537287,
+        0.3904724896521324,
+        19.299999237060547
+      ],
+      "halfSize": [
+        40.93677500030026,
+        41.03091500047594,
+        10.40000057220459
       ]
     },
     {

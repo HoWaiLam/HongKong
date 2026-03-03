@@ -34,38 +34,7 @@
     {
       "attributes": [
         1302331393,
-        1,
-        [
-          [
-            2251802091,
-            0,
-            "Maxim's",
-            "SECOND BASEMENT FLOOR, BLOCK S, UNITED CHRISTIAN HOSPITAL, 130 HIP WO STREET, KWUN TONG, KOWLOON",
-            null,
-            "2027-01-31"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1302331690
-        ]
-      ],
-      "coordinate": [
-        1.9936528782946525,
-        0.38961480023513545,
-        75.39999389648438
-      ],
-      "halfSize": [
-        17.83714500023052,
-        20.657465000636876,
-        14.799999237060547
-      ]
-    },
-    {
-      "attributes": [
-        1302331394,
-        17,
+        9,
         [
           [
             2251281898,
@@ -84,22 +53,6 @@
             "2026-04-29"
           ],
           [
-            2251802268,
-            0,
-            "Cafe'de Coral",
-            "SHOP NO. 101, 1/F, SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-06-09"
-          ],
-          [
-            2251803225,
-            0,
-            "GENKI SUSHI",
-            "SHOP NO. 3, GROUND FLOOR, SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-06-18"
-          ],
-          [
             2251805920,
             0,
             "\u516d\u548c\u51b0\u5ba4",
@@ -108,36 +61,12 @@
             "2026-08-29"
           ],
           [
-            2251807315,
-            0,
-            "YLK Restaurant",
-            "SHOP NO. 2, GROUND FLOOR, SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-08-15"
-          ],
-          [
-            2251808239,
-            0,
-            "KFC",
-            "SHOP NO. 114, 1/F, SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2027-01-27"
-          ],
-          [
             2251809597,
             0,
             "SATAY KING",
             "SHOP 218, 2/F, SAU MAU PING SHOPPING CENTRE, SAU MAU PING ESTATE, SAU MAU PING, KOWLOON",
             null,
             "2026-07-03"
-          ],
-          [
-            2251809612,
-            0,
-            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
-            "SHOP 310A AND SEATING AREA NEXT TO SHOP 310A, 3/F, SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-08-08"
           ],
           [
             2251809621,
@@ -156,36 +85,12 @@
             "2027-01-12"
           ],
           [
-            2251810184,
-            0,
-            "\u5ca1\u5c71\u4e00\u756a\u5e97",
-            "SHOP 308-309 AND SEATING AREA IN FRONT OF SHOP 308-309, 3/F, SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2027-01-16"
-          ],
-          [
             2251810494,
             0,
             "YAKINIKU YAMAGYU",
             "SHOP 18B, G/F, SAU MAU PING SHOPPING CENTRE, SAU MAU PING ESTATE, SAU MING ROAD, KWUN TONG, KOWLOON",
             null,
             "2026-11-09"
-          ],
-          [
-            3851810888,
-            0,
-            "\u9047\u898b\u5c0f\u9eb5\u79c0\u8302\u576a\u5e97",
-            "SHOP NO. 119, 1/F, SAU MAU PING SHOPPING CENTRE, SAU MAU PING ESTATE, NO. 101 SAU MING ROAD, SAU MAU PING, KWUN TONG, KOWLOON",
-            null,
-            "2026-03-11"
-          ],
-          [
-            3151802363,
-            1,
-            "Ten Ren's Tea",
-            "SHOP NO. 23, G/F., SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-04-08"
           ],
           [
             3151803524,
@@ -223,7 +128,7 @@
     },
     {
       "attributes": [
-        1302331395,
+        1302331394,
         1,
         [
           [
@@ -254,7 +159,7 @@
     },
     {
       "attributes": [
-        1302331396,
+        1302331395,
         1,
         [
           [
@@ -285,7 +190,7 @@
     },
     {
       "attributes": [
-        1302331397,
+        1302331396,
         1,
         [
           [
@@ -316,7 +221,7 @@
     },
     {
       "attributes": [
-        1302331398,
+        1302331397,
         3,
         [
           [
@@ -363,7 +268,7 @@
     },
     {
       "attributes": [
-        1302331399,
+        1302331398,
         4,
         [
           [
@@ -418,7 +323,7 @@
     },
     {
       "attributes": [
-        1302331400,
+        1302331399,
         3,
         [
           [
@@ -465,7 +370,7 @@
     },
     {
       "attributes": [
-        1302331401,
+        1302331400,
         2,
         [
           [
@@ -504,7 +409,7 @@
     },
     {
       "attributes": [
-        1302331402,
+        1302331401,
         1,
         [
           [
@@ -535,7 +440,7 @@
     },
     {
       "attributes": [
-        1302331403,
+        1302331402,
         1,
         [
           [
@@ -566,7 +471,7 @@
     },
     {
       "attributes": [
-        1302331404,
+        1302331403,
         1,
         [
           [
@@ -597,7 +502,7 @@
     },
     {
       "attributes": [
-        1302331405,
+        1302331404,
         1,
         [
           [
@@ -628,7 +533,7 @@
     },
     {
       "attributes": [
-        1302331406,
+        1302331405,
         29,
         [
           [
@@ -879,6 +784,37 @@
         34.849584999959916,
         30.70867499988526,
         59.599998474121094
+      ]
+    },
+    {
+      "attributes": [
+        1302331406,
+        1,
+        [
+          [
+            2251802091,
+            0,
+            "Maxim's",
+            "SECOND BASEMENT FLOOR, BLOCK S, UNITED CHRISTIAN HOSPITAL, 130 HIP WO STREET, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-31"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1302332108
+        ]
+      ],
+      "coordinate": [
+        1.9936490105123712,
+        0.3895989403524872,
+        60.55000305175781
+      ],
+      "halfSize": [
+        58.715499999932945,
+        52.472069999203086,
+        15.350000381469727
       ]
     },
     {
@@ -1660,6 +1596,116 @@
     {
       "attributes": [
         1302331423,
+        2,
+        [
+          [
+            2251809612,
+            0,
+            "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
+            "SHOP 310A AND SEATING AREA NEXT TO SHOP 310A, 3/F, SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-08"
+          ],
+          [
+            2251810184,
+            0,
+            "\u5ca1\u5c71\u4e00\u756a\u5e97",
+            "SHOP 308-309 AND SEATING AREA IN FRONT OF SHOP 308-309, 3/F, SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1302332228
+        ]
+      ],
+      "coordinate": [
+        1.9937175985110072,
+        0.38952478354770215,
+        122.69999694824219
+      ],
+      "halfSize": [
+        20.982600000221282,
+        28.491224999539554,
+        27.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1302331424,
+        6,
+        [
+          [
+            2251802268,
+            0,
+            "Cafe'de Coral",
+            "SHOP NO. 101, 1/F, SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-09"
+          ],
+          [
+            2251803225,
+            0,
+            "GENKI SUSHI",
+            "SHOP NO. 3, GROUND FLOOR, SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-18"
+          ],
+          [
+            2251807315,
+            0,
+            "YLK Restaurant",
+            "SHOP NO. 2, GROUND FLOOR, SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-15"
+          ],
+          [
+            2251808239,
+            0,
+            "KFC",
+            "SHOP NO. 114, 1/F, SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-27"
+          ],
+          [
+            3851810888,
+            0,
+            "\u9047\u898b\u5c0f\u9eb5\u79c0\u8302\u576a\u5e97",
+            "SHOP NO. 119, 1/F, SAU MAU PING SHOPPING CENTRE, SAU MAU PING ESTATE, NO. 101 SAU MING ROAD, SAU MAU PING, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-11"
+          ],
+          [
+            3151802363,
+            1,
+            "Ten Ren's Tea",
+            "SHOP NO. 23, G/F., SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-08"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1302332229
+        ]
+      ],
+      "coordinate": [
+        1.9937173320965798,
+        0.3895245315470546,
+        92.75
+      ],
+      "halfSize": [
+        26.56772999977693,
+        36.77726500015706,
+        2.6500015258789062
+      ]
+    },
+    {
+      "attributes": [
+        1302331425,
         15,
         [
           [
@@ -1802,7 +1848,7 @@
     },
     {
       "attributes": [
-        1302331424,
+        1302331426,
         2,
         [
           [

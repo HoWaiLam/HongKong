@@ -137,7 +137,7 @@
     {
       "attributes": [
         509607938,
-        4,
+        6,
         [
           [
             2993804911,
@@ -154,6 +154,22 @@
             "SHOP NO. L104, G/F, TAI HING SHOPPING CENTRE, TAI HING ESTATE, TUEN MUN, NEW TERRITORIES",
             null,
             "2026-08-12"
+          ],
+          [
+            3693800359,
+            5,
+            "WELLCOME SUPERMARKET",
+            "SHOP 43-53 (PORTION B), 1/F, SHOPPING CENTRE, PHASE 2, TAI HING ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-07"
+          ],
+          [
+            3693801237,
+            5,
+            "\u5927\u8208\u9bae\u9b5a",
+            "STALL NO. 55, MARKET, TAI HING ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-11"
           ],
           [
             3693801547,
@@ -279,45 +295,6 @@
     {
       "attributes": [
         509607940,
-        2,
-        [
-          [
-            3693800359,
-            5,
-            "WELLCOME SUPERMARKET",
-            "SHOP 43-53 (PORTION B), 1/F, SHOPPING CENTRE, PHASE 2, TAI HING ESTATE, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2026-09-07"
-          ],
-          [
-            3693801237,
-            5,
-            "\u5927\u8208\u9bae\u9b5a",
-            "STALL NO. 55, MARKET, TAI HING ESTATE, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2026-06-11"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          509608169
-        ]
-      ],
-      "coordinate": [
-        1.9891540726957693,
-        0.3909927781434084,
-        12.5
-      ],
-      "halfSize": [
-        31.350405000150204,
-        52.37999999988824,
-        3.3000001907348633
-      ]
-    },
-    {
-      "attributes": [
-        509607941,
         12,
         [
           [
@@ -436,7 +413,7 @@
     },
     {
       "attributes": [
-        509607942,
+        509607941,
         1,
         [
           [
@@ -463,6 +440,77 @@
         32.04550000000745,
         29.85300000011921,
         59.45000457763672
+      ]
+    },
+    {
+      "attributes": [
+        509607942,
+        6,
+        [
+          [
+            2993805844,
+            4,
+            "\u65b0\u83ef\u71d2\u5473\u9928",
+            "SHOP 3 (REAR PORTION), G/F, GREENLAND GARDEN, 15 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-14"
+          ],
+          [
+            2993807585,
+            4,
+            "\u9999\u9ea5\u7530\u9eb5\u5305\u897f\u9905",
+            "SHOP 1H, G/F, GREENLAND GARDEN, 15 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-12-21"
+          ],
+          [
+            2993809299,
+            4,
+            "\u5bb6\u4e4b\u5473\u7f8e\u98df",
+            "SHOP 04, G/F, GREENLAND GARDEN, 15 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-06-12"
+          ],
+          [
+            2993810725,
+            4,
+            "\u4f73\u574a\u4e4b\u5473",
+            "SHOP 1A, G/F, GREENLAND GARDEN, 15 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-16"
+          ],
+          [
+            3693803853,
+            5,
+            "\u751f\u9bae\u8a18",
+            "REAR PORTION OF SHOP 1E, G/F, GREENLAND GARDEN, 15 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-18"
+          ],
+          [
+            3593800437,
+            8,
+            "\u65b0\u83ef\u71d2\u5473\u9928",
+            "SHOP 3 (FRONT PORTION), G/F, GREENLAND GARDEN, 15 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-14"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509608388
+        ]
+      ],
+      "coordinate": [
+        1.9891866905804674,
+        0.3909605752842869,
+        20.149999618530273
+      ],
+      "halfSize": [
+        8.82949999999255,
+        7.313500000163913,
+        2.6499996185302734
       ]
     },
     {
@@ -670,7 +718,7 @@
     {
       "attributes": [
         509607949,
-        7,
+        5,
         [
           [
             2993802623,
@@ -679,22 +727,6 @@
             "SHOP 3, G/F, MEI HANG BUILDING, 15-45 KAI MAN PATH, TUEN MUN, NEW TERRITORIES",
             null,
             "2026-09-06"
-          ],
-          [
-            2993805604,
-            4,
-            "\u5b78\u5229\u9b5a\u86cb",
-            "SHOP 6 (PORTION A) , G/F, MEI HANG BUILDING, 27 KAI MAN PATH, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2026-08-15"
-          ],
-          [
-            3693802090,
-            5,
-            "\u5b78\u5229\u9b5a\u86cb",
-            "SHOP 6 (PORTION B), G/F , MEI HANG BUILDING, 27 KAI MAN PATH, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2026-08-13"
           ],
           [
             3693802443,
@@ -835,6 +867,45 @@
     {
       "attributes": [
         509607952,
+        2,
+        [
+          [
+            2993805604,
+            4,
+            "\u5b78\u5229\u9b5a\u86cb",
+            "SHOP 6 (PORTION A) , G/F, MEI HANG BUILDING, 27 KAI MAN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-15"
+          ],
+          [
+            3693802090,
+            5,
+            "\u5b78\u5229\u9b5a\u86cb",
+            "SHOP 6 (PORTION B), G/F , MEI HANG BUILDING, 27 KAI MAN PATH, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-08-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          509609022
+        ]
+      ],
+      "coordinate": [
+        1.9892394262128579,
+        0.39088949346365126,
+        15.450000762939453
+      ],
+      "halfSize": [
+        7.857679999899119,
+        9.638469999656081,
+        10.75
+      ]
+    },
+    {
+      "attributes": [
+        509607953,
         7,
         [
           [
@@ -913,7 +984,7 @@
     },
     {
       "attributes": [
-        509607953,
+        509607954,
         2,
         [
           [
@@ -952,7 +1023,7 @@
     },
     {
       "attributes": [
-        509607954,
+        509607955,
         2,
         [
           [
@@ -991,7 +1062,7 @@
     },
     {
       "attributes": [
-        509607955,
+        509607956,
         2,
         [
           [
@@ -1030,7 +1101,7 @@
     },
     {
       "attributes": [
-        509607956,
+        509607957,
         1,
         [
           [
@@ -1061,7 +1132,7 @@
     },
     {
       "attributes": [
-        509607957,
+        509607958,
         29,
         [
           [
@@ -1316,7 +1387,7 @@
     },
     {
       "attributes": [
-        509607958,
+        509607959,
         1,
         [
           [
@@ -1347,7 +1418,7 @@
     },
     {
       "attributes": [
-        509607959,
+        509607960,
         7,
         [
           [
@@ -1426,7 +1497,7 @@
     },
     {
       "attributes": [
-        509607960,
+        509607961,
         1,
         [
           [
@@ -1457,7 +1528,7 @@
     },
     {
       "attributes": [
-        509607961,
+        509607962,
         5,
         [
           [
@@ -1520,7 +1591,7 @@
     },
     {
       "attributes": [
-        509607962,
+        509607963,
         2,
         [
           [
@@ -1559,7 +1630,7 @@
     },
     {
       "attributes": [
-        509607963,
+        509607964,
         4,
         [
           [
@@ -1614,7 +1685,7 @@
     },
     {
       "attributes": [
-        509607964,
+        509607965,
         2,
         [
           [
@@ -1653,7 +1724,7 @@
     },
     {
       "attributes": [
-        509607965,
+        509607966,
         3,
         [
           [
@@ -1700,7 +1771,7 @@
     },
     {
       "attributes": [
-        509607966,
+        509607967,
         5,
         [
           [
@@ -1763,7 +1834,7 @@
     },
     {
       "attributes": [
-        509607967,
+        509607968,
         1,
         [
           [
@@ -1794,7 +1865,7 @@
     },
     {
       "attributes": [
-        509607968,
+        509607969,
         5,
         [
           [
@@ -1857,7 +1928,7 @@
     },
     {
       "attributes": [
-        509607969,
+        509607970,
         3,
         [
           [
@@ -1904,7 +1975,7 @@
     },
     {
       "attributes": [
-        509607970,
+        509607971,
         3,
         [
           [
@@ -1951,7 +2022,7 @@
     },
     {
       "attributes": [
-        509607971,
+        509607972,
         2,
         [
           [
@@ -1990,7 +2061,7 @@
     },
     {
       "attributes": [
-        509607972,
+        509607973,
         1,
         [
           [
@@ -2021,7 +2092,7 @@
     },
     {
       "attributes": [
-        509607973,
+        509607974,
         3,
         [
           [
@@ -2068,7 +2139,7 @@
     },
     {
       "attributes": [
-        509607974,
+        509607975,
         1,
         [
           [
@@ -2095,77 +2166,6 @@
         13.464350000023842,
         14.3445999994874,
         3.6500000953674316
-      ]
-    },
-    {
-      "attributes": [
-        509607975,
-        6,
-        [
-          [
-            2993805844,
-            4,
-            "\u65b0\u83ef\u71d2\u5473\u9928",
-            "SHOP 3 (REAR PORTION), G/F, GREENLAND GARDEN, 15 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2027-02-14"
-          ],
-          [
-            2993807585,
-            4,
-            "\u9999\u9ea5\u7530\u9eb5\u5305\u897f\u9905",
-            "SHOP 1H, G/F, GREENLAND GARDEN, 15 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2026-12-21"
-          ],
-          [
-            2993809299,
-            4,
-            "\u5bb6\u4e4b\u5473\u7f8e\u98df",
-            "SHOP 04, G/F, GREENLAND GARDEN, 15 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2026-06-12"
-          ],
-          [
-            2993810725,
-            4,
-            "\u4f73\u574a\u4e4b\u5473",
-            "SHOP 1A, G/F, GREENLAND GARDEN, 15 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2027-01-16"
-          ],
-          [
-            3693803853,
-            5,
-            "\u751f\u9bae\u8a18",
-            "REAR PORTION OF SHOP 1E, G/F, GREENLAND GARDEN, 15 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2027-02-18"
-          ],
-          [
-            3593800437,
-            8,
-            "\u65b0\u83ef\u71d2\u5473\u9928",
-            "SHOP 3 (FRONT PORTION), G/F, GREENLAND GARDEN, 15 SHEK PAI TAU ROAD, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2027-02-14"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          509609199
-        ]
-      ],
-      "coordinate": [
-        1.989189239603356,
-        0.39096831528616255,
-        19.899999618530273
-      ],
-      "halfSize": [
-        73.54550000000745,
-        35.49049999937415,
-        7.099999904632568
       ]
     },
     {

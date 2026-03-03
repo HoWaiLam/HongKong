@@ -567,76 +567,6 @@
     {
       "attributes": [
         1231028236,
-        1,
-        [
-          [
-            2911811845,
-            4,
-            "HAVN",
-            "KIOSK A, 1/F, OXFORD HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
-            null,
-            "2026-12-16"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1231028281
-        ]
-      ],
-      "coordinate": [
-        1.9934010496074301,
-        0.3889839925934369,
-        9.699999809265137
-      ],
-      "halfSize": [
-        22.52199999988079,
-        22.882999999448657,
-        5.5
-      ]
-    },
-    {
-      "attributes": [
-        1231028237,
-        2,
-        [
-          [
-            2911811960,
-            4,
-            "Lady M",
-            "SHOP F, 1/F, DEVON HOUSE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
-            null,
-            "2027-01-18"
-          ],
-          [
-            2911815209,
-            4,
-            "Karui Bento",
-            "SHOP A, G/F, DEVON HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
-            null,
-            "2026-11-30"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1231028283
-        ]
-      ],
-      "coordinate": [
-        1.993375499228652,
-        0.38898317247049036,
-        12.09999942779541
-      ],
-      "halfSize": [
-        42.5679999999702,
-        22.28500000014901,
-        7.699999809265137
-      ]
-    },
-    {
-      "attributes": [
-        1231028238,
         21,
         [
           [
@@ -827,7 +757,94 @@
     },
     {
       "attributes": [
-        1231028239,
+        1231028237,
+        8,
+        [
+          [
+            2911807259,
+            4,
+            "TREEHOUSE",
+            "PORTION A, 1/F., LINCOLN HOUSE, TAIKOO PLACE, NO. 979 KING'S ROAD, HONG KONG",
+            null,
+            "2027-03-28"
+          ],
+          [
+            2911807994,
+            4,
+            "NOOD FOOD",
+            "PORTION OF 5/F, PCCW TOWER, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-08"
+          ],
+          [
+            2911809246,
+            4,
+            "SALADSTOP",
+            "SHOP A, 1/F., DORSET HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-10-28"
+          ],
+          [
+            2911811845,
+            4,
+            "HAVN",
+            "KIOSK A, 1/F, OXFORD HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-12-16"
+          ],
+          [
+            2911811960,
+            4,
+            "Lady M",
+            "SHOP F, 1/F, DEVON HOUSE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2027-01-18"
+          ],
+          [
+            2911814279,
+            4,
+            "Heybo",
+            "SHOP 3, G/F, DORSET HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-05-12"
+          ],
+          [
+            2911815209,
+            4,
+            "Karui Bento",
+            "SHOP A, G/F, DEVON HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-11-30"
+          ],
+          [
+            4911815720,
+            4,
+            "Paul Lafayet",
+            "SHOP 4, GROUND FLOOR, PCCW TOWER, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
+            null,
+            "2026-06-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028288
+        ]
+      ],
+      "coordinate": [
+        1.9933560460914366,
+        0.3889790560940938,
+        13.300000190734863
+      ],
+      "halfSize": [
+        28.94150000018999,
+        18.311499999836087,
+        8.699999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1231028238,
         11,
         [
           [
@@ -938,7 +955,7 @@
     },
     {
       "attributes": [
-        1231028240,
+        1231028239,
         3,
         [
           [
@@ -985,7 +1002,7 @@
     },
     {
       "attributes": [
-        1231028241,
+        1231028240,
         26,
         [
           [
@@ -1216,7 +1233,7 @@
     },
     {
       "attributes": [
-        1231028242,
+        1231028241,
         2,
         [
           [
@@ -1255,7 +1272,7 @@
     },
     {
       "attributes": [
-        1231028243,
+        1231028242,
         6,
         [
           [
@@ -1326,7 +1343,7 @@
     },
     {
       "attributes": [
-        1231028244,
+        1231028243,
         1,
         [
           [
@@ -1357,7 +1374,7 @@
     },
     {
       "attributes": [
-        1231028245,
+        1231028244,
         1,
         [
           [
@@ -1388,7 +1405,7 @@
     },
     {
       "attributes": [
-        1231028246,
+        1231028245,
         1,
         [
           [
@@ -1419,7 +1436,7 @@
     },
     {
       "attributes": [
-        1231028247,
+        1231028246,
         3,
         [
           [
@@ -1466,7 +1483,7 @@
     },
     {
       "attributes": [
-        1231028248,
+        1231028247,
         3,
         [
           [
@@ -1513,7 +1530,7 @@
     },
     {
       "attributes": [
-        1231028249,
+        1231028248,
         1,
         [
           [
@@ -1544,8 +1561,8 @@
     },
     {
       "attributes": [
-        1231028250,
-        2,
+        1231028249,
+        1,
         [
           [
             2911809866,
@@ -1554,14 +1571,6 @@
             "SHOP B, G/F., RITZ GARDEN APARTMENTS, 927 KING'S ROAD, HONG KONG",
             null,
             "2026-08-08"
-          ],
-          [
-            2911812617,
-            4,
-            "misugu bento",
-            "SHOP B, G/F., BLOCK D-1, RITZ GARDEN APARTMENTS, NO. 937 KING'S ROAD, NORTH POINT, HONG KONG",
-            null,
-            "2026-09-12"
           ]
         ]
       ],
@@ -1579,6 +1588,37 @@
         16.173495000228286,
         12.880625000223517,
         18.149999618530273
+      ]
+    },
+    {
+      "attributes": [
+        1231028250,
+        1,
+        [
+          [
+            2911812617,
+            4,
+            "misugu bento",
+            "SHOP B, G/F., BLOCK D-1, RITZ GARDEN APARTMENTS, NO. 937 KING'S ROAD, NORTH POINT, HONG KONG",
+            null,
+            "2026-09-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1231028507
+        ]
+      ],
+      "coordinate": [
+        1.9933397230707373,
+        0.3890199261348858,
+        22.350000381469727
+      ],
+      "halfSize": [
+        16.10990499984473,
+        12.926025000400841,
+        17.94999885559082
       ]
     },
     {
@@ -1834,37 +1874,6 @@
     {
       "attributes": [
         1231028257,
-        1,
-        [
-          [
-            2911807259,
-            4,
-            "TREEHOUSE",
-            "PORTION A, 1/F., LINCOLN HOUSE, TAIKOO PLACE, NO. 979 KING'S ROAD, HONG KONG",
-            null,
-            "2027-03-28"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1231028572
-        ]
-      ],
-      "coordinate": [
-        1.9933795250087216,
-        0.3889935915106571,
-        55.150001525878906
-      ],
-      "halfSize": [
-        17.674704999662936,
-        23.45352500025183,
-        51.150001525878906
-      ]
-    },
-    {
-      "attributes": [
-        1231028258,
         3,
         [
           [
@@ -1911,7 +1920,7 @@
     },
     {
       "attributes": [
-        1231028259,
+        1231028258,
         1,
         [
           [
@@ -1942,7 +1951,7 @@
     },
     {
       "attributes": [
-        1231028260,
+        1231028259,
         1,
         [
           [
@@ -1973,62 +1982,7 @@
     },
     {
       "attributes": [
-        1231028261,
-        4,
-        [
-          [
-            2911807994,
-            4,
-            "NOOD FOOD",
-            "PORTION OF 5/F, PCCW TOWER, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
-            null,
-            "2026-05-08"
-          ],
-          [
-            2911809246,
-            4,
-            "SALADSTOP",
-            "SHOP A, 1/F., DORSET HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
-            null,
-            "2026-10-28"
-          ],
-          [
-            2911814279,
-            4,
-            "Heybo",
-            "SHOP 3, G/F, DORSET HOUSE, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
-            null,
-            "2026-05-12"
-          ],
-          [
-            4911815720,
-            4,
-            "Paul Lafayet",
-            "SHOP 4, GROUND FLOOR, PCCW TOWER, TAIKOO PLACE, 979 KING'S ROAD, QUARRY BAY, HONG KONG",
-            null,
-            "2026-06-07"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1231028614
-        ]
-      ],
-      "coordinate": [
-        1.9933754979328977,
-        0.3889830823380856,
-        86.14999389648438
-      ],
-      "halfSize": [
-        42.56835999991745,
-        22.285155000165105,
-        81.75
-      ]
-    },
-    {
-      "attributes": [
-        1231028262,
+        1231028260,
         2,
         [
           [
@@ -2067,7 +2021,7 @@
     },
     {
       "attributes": [
-        1231028263,
+        1231028261,
         1,
         [
           [
@@ -2098,7 +2052,7 @@
     },
     {
       "attributes": [
-        1231028264,
+        1231028262,
         2,
         [
           [
@@ -2137,7 +2091,7 @@
     },
     {
       "attributes": [
-        1231028265,
+        1231028263,
         1,
         [
           [
@@ -2168,7 +2122,7 @@
     },
     {
       "attributes": [
-        1231028266,
+        1231028264,
         1,
         [
           [
@@ -2199,7 +2153,7 @@
     },
     {
       "attributes": [
-        1231028267,
+        1231028265,
         1,
         [
           [
@@ -2230,7 +2184,7 @@
     },
     {
       "attributes": [
-        1231028268,
+        1231028266,
         1,
         [
           [
@@ -2261,7 +2215,7 @@
     },
     {
       "attributes": [
-        1231028269,
+        1231028267,
         6,
         [
           [
@@ -2332,7 +2286,7 @@
     },
     {
       "attributes": [
-        1231028270,
+        1231028268,
         2,
         [
           [
@@ -2371,7 +2325,7 @@
     },
     {
       "attributes": [
-        1231028271,
+        1231028269,
         2,
         [
           [
@@ -2410,7 +2364,7 @@
     },
     {
       "attributes": [
-        1231028272,
+        1231028270,
         1,
         [
           [

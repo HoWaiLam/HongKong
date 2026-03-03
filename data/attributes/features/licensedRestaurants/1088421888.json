@@ -3,15 +3,47 @@
     {
       "attributes": [
         1088421888,
-        1,
+        5,
         [
           [
-            2215802820,
+            2215801100,
             0,
-            "Cavern's Kitchen",
-            "FOOD COURT, LEVEL 2, WATER WORLD, OCEAN PARK, TAI SHUE WAN, HONG KONG",
+            "Tuxedos",
+            "UPPER GROUND FLOOR (PORTION), POLAR ADVENTURE AT SUMMIT, 180 WONG CHUK HANG ROAD, OCEAN PARK, HONG KONG",
             null,
-            "2027-02-15"
+            "2026-12-26"
+          ],
+          [
+            2215802176,
+            0,
+            "Prohibition",
+            "G/F. (PORTION C) AT CLUB WING, HONG KONG OCEAN PARK MARRIOTT HOTEL, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-03-21"
+          ],
+          [
+            2215802185,
+            0,
+            "Canton Bistro",
+            "G/F. (PORTION B) AT CLUB WING, HONG KONG OCEAN PARK MARRIOTT HOTEL, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-03-21"
+          ],
+          [
+            2215802194,
+            0,
+            "Grand Ballroom/Pier Lounge/Pier Bar",
+            "B/F. (PORTION A) AT PODIUM AND, G/F. (PORTION A) AT PIER WING, HONG KONG OCEAN PARK MARRIOTT HOTEL, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-04-01"
+          ],
+          [
+            2215802200,
+            0,
+            "Marina Kitchen/Marina Caf\u00e9",
+            "G/F. (PORTION D) AT MARINA WING, HONG KONG OCEAN PARK MARRIOTT HOTEL, 180 WONG CHUK HANG ROAD, ABERDEEN, HONG KONG",
+            null,
+            "2026-04-03"
           ]
         ]
       ],

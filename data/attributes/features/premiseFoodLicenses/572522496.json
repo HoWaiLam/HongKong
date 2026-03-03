@@ -3,39 +3,15 @@
     {
       "attributes": [
         572522496,
-        4,
+        1,
         [
           [
-            2993807479,
+            2993803352,
             4,
-            "HEATO & COFFEE CO",
-            "SHOP 18, G/F, GOLD COAST PIAZZA, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            "Gold Coast Hotel",
+            "LG/F (PORTION), GOLD COAST HOTEL, 1 CASTLE PEAK ROAD, CASTLE PEAK BAY, TUEN MUN, NEW TERRITORIES",
             null,
-            "2026-09-23"
-          ],
-          [
-            2993810804,
-            4,
-            "7-ELEVEN FOOD STORE",
-            "PORTION C OF SHOP NOS.15, 16 & 17, G/F, MARINA MAGIC SHOPPING MALL, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2027-02-15"
-          ],
-          [
-            3693803279,
-            5,
-            "Chef's Cuts",
-            "PORTION B, SHOP NO. 11&12, G/F, GOLD COAST PIAZZA, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2027-04-11"
-          ],
-          [
-            3293800531,
-            6,
-            "7-ELEVEN FOOD STORE",
-            "PORTION D OF SHOP NOS.15, 16 & 17, G/F, MARINA MAGIC SHOPPING MALL, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2027-02-15"
+            "2026-03-20"
           ]
         ]
       ],
@@ -89,6 +65,61 @@
     {
       "attributes": [
         572522498,
+        4,
+        [
+          [
+            2993807479,
+            4,
+            "HEATO & COFFEE CO",
+            "SHOP 18, G/F, GOLD COAST PIAZZA, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-23"
+          ],
+          [
+            2993810804,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION C OF SHOP NOS.15, 16 & 17, G/F, MARINA MAGIC SHOPPING MALL, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-15"
+          ],
+          [
+            3693803279,
+            5,
+            "Chef's Cuts",
+            "PORTION B, SHOP NO. 11&12, G/F, GOLD COAST PIAZZA, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-04-11"
+          ],
+          [
+            3293800531,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION D OF SHOP NOS.15, 16 & 17, G/F, MARINA MAGIC SHOPPING MALL, HONG KONG GOLD COAST, 1 CASTLE PEAK ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-02-15"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          572523358
+        ]
+      ],
+      "coordinate": [
+        1.9895516741796984,
+        0.3903760418625333,
+        6.75
+      ],
+      "halfSize": [
+        46.87469500023872,
+        44.65990999992937,
+        3.3500001430511475
+      ]
+    },
+    {
+      "attributes": [
+        572522499,
         1,
         [
           [
@@ -119,7 +150,7 @@
     },
     {
       "attributes": [
-        572522499,
+        572522500,
         1,
         [
           [

@@ -3,7 +3,7 @@
     {
       "attributes": [
         1369440256,
-        2,
+        1,
         [
           [
             2298000793,
@@ -12,14 +12,6 @@
             "SHOP NO. 102, SHOPPING CENTRE, PO LAM ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
             null,
             "2026-06-30"
-          ],
-          [
-            2298803068,
-            0,
-            "CAFE 100%",
-            "SHOP 123 & 124, G/F, BLOCK 6, PO KAN HOUSE, PO LAM ESTATE, 18 PO LAM ROAD NORTH, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
-            null,
-            "2026-08-24"
           ]
         ]
       ],
@@ -1303,61 +1295,6 @@
     {
       "attributes": [
         1369440268,
-        4,
-        [
-          [
-            2298800500,
-            0,
-            "Taste Full Kitchen",
-            "SHOP NO. 10, G/F, MARITIME BAY, 18 PUI SHING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
-            null,
-            "2026-04-19"
-          ],
-          [
-            2298801318,
-            0,
-            "McDonald's Restaurant",
-            "SHOP NO. 9 ON GROUND FLOOR, MARITIME BAY, 18 PUI SHING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
-            null,
-            "2026-06-28"
-          ],
-          [
-            2298802515,
-            0,
-            "\u725b\u5976\u51b0\u5ba4",
-            "SHOP NO. G1, G/F, MARITIME BAY SHOPPING CENTRE, 18 PUI SHING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
-            null,
-            "2026-11-13"
-          ],
-          [
-            3198800553,
-            1,
-            "HANOLULU CAF\u00c9",
-            "SHOP 3, 4 & 5 (MINOR PORTION), G/F., MARITIME BAY, 18 PUI SHING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
-            null,
-            "2026-07-11"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1369440278
-        ]
-      ],
-      "coordinate": [
-        1.9943112657036512,
-        0.3894633883079667,
-        13.549999237060547
-      ],
-      "halfSize": [
-        48.78500000014901,
-        51.260094999335706,
-        7.849999904632568
-      ]
-    },
-    {
-      "attributes": [
-        1369440269,
         3,
         [
           [
@@ -1404,8 +1341,8 @@
     },
     {
       "attributes": [
-        1369440270,
-        6,
+        1369440269,
+        7,
         [
           [
             2298001787,
@@ -1414,6 +1351,14 @@
             "SHOP NO. 103, G/F., PO LAM SHOPPING CENTRE, PO LAM ESTATE, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
             null,
             "2026-04-26"
+          ],
+          [
+            2298803068,
+            0,
+            "CAFE 100%",
+            "SHOP 123 & 124, G/F, BLOCK 6, PO KAN HOUSE, PO LAM ESTATE, 18 PO LAM ROAD NORTH, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-08-24"
           ],
           [
             2298803457,
@@ -1475,7 +1420,7 @@
     },
     {
       "attributes": [
-        1369440271,
+        1369440270,
         1,
         [
           [
@@ -1506,7 +1451,7 @@
     },
     {
       "attributes": [
-        1369440272,
+        1369440271,
         5,
         [
           [
@@ -1569,7 +1514,7 @@
     },
     {
       "attributes": [
-        1369440273,
+        1369440272,
         1,
         [
           [
@@ -1600,7 +1545,7 @@
     },
     {
       "attributes": [
-        1369440274,
+        1369440273,
         4,
         [
           [
@@ -1655,7 +1600,7 @@
     },
     {
       "attributes": [
-        1369440275,
+        1369440274,
         1,
         [
           [
@@ -1686,7 +1631,7 @@
     },
     {
       "attributes": [
-        1369440276,
+        1369440275,
         18,
         [
           [
@@ -1849,6 +1794,61 @@
         77.60962999984622,
         53.52999499998987,
         9.75
+      ]
+    },
+    {
+      "attributes": [
+        1369440276,
+        4,
+        [
+          [
+            2298800500,
+            0,
+            "Taste Full Kitchen",
+            "SHOP NO. 10, G/F, MARITIME BAY, 18 PUI SHING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-04-19"
+          ],
+          [
+            2298801318,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NO. 9 ON GROUND FLOOR, MARITIME BAY, 18 PUI SHING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-06-28"
+          ],
+          [
+            2298802515,
+            0,
+            "\u725b\u5976\u51b0\u5ba4",
+            "SHOP NO. G1, G/F, MARITIME BAY SHOPPING CENTRE, 18 PUI SHING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-11-13"
+          ],
+          [
+            3198800553,
+            1,
+            "HANOLULU CAF\u00c9",
+            "SHOP 3, 4 & 5 (MINOR PORTION), G/F., MARITIME BAY, 18 PUI SHING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440846
+        ]
+      ],
+      "coordinate": [
+        1.9943063885619428,
+        0.3894633183469891,
+        81.9000015258789
+      ],
+      "halfSize": [
+        15.10113999992609,
+        16.40213999990374,
+        65.0999984741211
       ]
     }
   ]

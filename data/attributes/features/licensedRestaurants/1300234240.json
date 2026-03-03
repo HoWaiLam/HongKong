@@ -136,8 +136,16 @@
     {
       "attributes": [
         1300234243,
-        3,
+        7,
         [
+          [
+            2251803146,
+            0,
+            "Super Super",
+            "SHOP NO. 303, THIRD FLOOR, TAK TIN SHOPPING CENTRE, 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-04-01"
+          ],
           [
             2251809144,
             0,
@@ -147,12 +155,36 @@
             "2026-08-16"
           ],
           [
+            2251809357,
+            0,
+            "\u5bcc\u570b\u5cf6",
+            "STALL NO. M70, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-26"
+          ],
+          [
+            2251809393,
+            0,
+            "\u5275\u69ae\u9910\u5ef3",
+            "STALL NO. M90, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-02-23"
+          ],
+          [
             2251809746,
             0,
             "CHEUNG HONG YUEN RESTAURANT",
             "SHOP NO.219, 2/F, TAK TIN PLAZA , TAK TIN ESTATE, 223 PIK WAN ROAD, LAM TIN, KOWLOON",
             null,
             "2027-01-08"
+          ],
+          [
+            3151803232,
+            1,
+            "\u6a02\u5712\u9b5a\u65e6\u5c08\u5bb6",
+            "STALL NO. M50 & 65, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-15"
           ],
           [
             3951803902,
@@ -166,18 +198,18 @@
       ],
       "links": [
         [
-          1300234332
+          1300234344
         ]
       ],
       "coordinate": [
-        1.993828486860508,
-        0.38938815500759066,
-        103.25
+        1.993835620945856,
+        0.38938690882420723,
+        127.0
       ],
       "halfSize": [
-        39.109375,
-        66.00586000084877,
-        11.550003051757812
+        20.595704999752343,
+        36.40715999994427,
+        29.39999771118164
       ]
     },
     {
@@ -1301,7 +1333,7 @@
     {
       "attributes": [
         1300234262,
-        7,
+        3,
         [
           [
             2251171083,
@@ -1326,38 +1358,6 @@
             "SHOP G2B, G/F, TAK TIN SHOPPING CENTRE, TAK TIN ESTATE, LAM TIN, KOWLOON",
             null,
             "2026-03-29"
-          ],
-          [
-            2251803146,
-            0,
-            "Super Super",
-            "SHOP NO. 303, THIRD FLOOR, TAK TIN SHOPPING CENTRE, 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2026-04-01"
-          ],
-          [
-            2251809357,
-            0,
-            "\u5bcc\u570b\u5cf6",
-            "STALL NO. M70, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-01-26"
-          ],
-          [
-            2251809393,
-            0,
-            "\u5275\u69ae\u9910\u5ef3",
-            "STALL NO. M90, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2026-02-23"
-          ],
-          [
-            3151803232,
-            1,
-            "\u6a02\u5712\u9b5a\u65e6\u5c08\u5bb6",
-            "STALL NO. M50 & 65, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-01-15"
           ]
         ]
       ],

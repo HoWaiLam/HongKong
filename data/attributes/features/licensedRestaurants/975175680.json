@@ -1408,6 +1408,37 @@
     {
       "attributes": [
         975175715,
+        1,
+        [
+          [
+            2292801866,
+            0,
+            "\u5fb7\u767c\u9f8d\u7ca5\u9eb5\u5e97",
+            "G/F, 11 SZE PEI SQUARE, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-12-30"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177388
+        ]
+      ],
+      "coordinate": [
+        1.9917276730386773,
+        0.3904251887363782,
+        20.450000762939453
+      ],
+      "halfSize": [
+        7.344000000040978,
+        5.881005000323057,
+        15.950000762939453
+      ]
+    },
+    {
+      "attributes": [
+        975175716,
         5,
         [
           [
@@ -1470,7 +1501,7 @@
     },
     {
       "attributes": [
-        975175716,
+        975175717,
         1,
         [
           [
@@ -1501,8 +1532,8 @@
     },
     {
       "attributes": [
-        975175717,
-        2,
+        975175718,
+        1,
         [
           [
             2292001217,
@@ -1511,14 +1542,6 @@
             "9B, G/F., SZE PEI SQUARE, TSUEN WAN, NEW TERRITORIES",
             null,
             "2026-06-30"
-          ],
-          [
-            2292801866,
-            0,
-            "\u5fb7\u767c\u9f8d\u7ca5\u9eb5\u5e97",
-            "G/F, 11 SZE PEI SQUARE, TSUEN WAN, NEW TERRITORIES",
-            null,
-            "2026-12-30"
           ]
         ]
       ],
@@ -1540,7 +1563,7 @@
     },
     {
       "attributes": [
-        975175718,
+        975175719,
         1,
         [
           [
@@ -1571,7 +1594,7 @@
     },
     {
       "attributes": [
-        975175719,
+        975175720,
         1,
         [
           [
@@ -1602,7 +1625,7 @@
     },
     {
       "attributes": [
-        975175720,
+        975175721,
         1,
         [
           [
@@ -1633,7 +1656,7 @@
     },
     {
       "attributes": [
-        975175721,
+        975175722,
         2,
         [
           [
@@ -1672,7 +1695,7 @@
     },
     {
       "attributes": [
-        975175722,
+        975175723,
         1,
         [
           [
@@ -1703,7 +1726,7 @@
     },
     {
       "attributes": [
-        975175723,
+        975175724,
         1,
         [
           [
@@ -1734,7 +1757,7 @@
     },
     {
       "attributes": [
-        975175724,
+        975175725,
         1,
         [
           [
@@ -1765,7 +1788,7 @@
     },
     {
       "attributes": [
-        975175725,
+        975175726,
         3,
         [
           [
@@ -1812,7 +1835,7 @@
     },
     {
       "attributes": [
-        975175726,
+        975175727,
         1,
         [
           [
@@ -1843,7 +1866,7 @@
     },
     {
       "attributes": [
-        975175727,
+        975175728,
         3,
         [
           [
@@ -1890,7 +1913,7 @@
     },
     {
       "attributes": [
-        975175728,
+        975175729,
         1,
         [
           [
@@ -1921,7 +1944,7 @@
     },
     {
       "attributes": [
-        975175729,
+        975175730,
         1,
         [
           [
@@ -1952,7 +1975,7 @@
     },
     {
       "attributes": [
-        975175730,
+        975175731,
         2,
         [
           [
@@ -1991,7 +2014,7 @@
     },
     {
       "attributes": [
-        975175731,
+        975175732,
         1,
         [
           [
@@ -2022,7 +2045,7 @@
     },
     {
       "attributes": [
-        975175732,
+        975175733,
         1,
         [
           [
@@ -2053,7 +2076,7 @@
     },
     {
       "attributes": [
-        975175733,
+        975175734,
         2,
         [
           [
@@ -2092,7 +2115,7 @@
     },
     {
       "attributes": [
-        975175734,
+        975175735,
         1,
         [
           [
@@ -2123,7 +2146,7 @@
     },
     {
       "attributes": [
-        975175735,
+        975175736,
         2,
         [
           [
@@ -2162,7 +2185,7 @@
     },
     {
       "attributes": [
-        975175736,
+        975175737,
         1,
         [
           [
@@ -2193,7 +2216,7 @@
     },
     {
       "attributes": [
-        975175737,
+        975175738,
         2,
         [
           [
@@ -2232,7 +2255,7 @@
     },
     {
       "attributes": [
-        975175738,
+        975175739,
         3,
         [
           [
@@ -2279,7 +2302,7 @@
     },
     {
       "attributes": [
-        975175739,
+        975175740,
         2,
         [
           [
@@ -2318,7 +2341,7 @@
     },
     {
       "attributes": [
-        975175740,
+        975175741,
         1,
         [
           [
@@ -2349,7 +2372,7 @@
     },
     {
       "attributes": [
-        975175741,
+        975175742,
         2,
         [
           [
@@ -2388,7 +2411,7 @@
     },
     {
       "attributes": [
-        975175742,
+        975175743,
         1,
         [
           [
@@ -2419,7 +2442,7 @@
     },
     {
       "attributes": [
-        975175743,
+        975175744,
         3,
         [
           [
@@ -2466,7 +2489,7 @@
     },
     {
       "attributes": [
-        975175744,
+        975175745,
         1,
         [
           [
@@ -2497,7 +2520,7 @@
     },
     {
       "attributes": [
-        975175745,
+        975175746,
         1,
         [
           [
@@ -2528,7 +2551,7 @@
     },
     {
       "attributes": [
-        975175746,
+        975175747,
         1,
         [
           [
@@ -2559,7 +2582,7 @@
     },
     {
       "attributes": [
-        975175747,
+        975175748,
         4,
         [
           [
@@ -2614,7 +2637,7 @@
     },
     {
       "attributes": [
-        975175748,
+        975175749,
         2,
         [
           [
@@ -2653,7 +2676,7 @@
     },
     {
       "attributes": [
-        975175749,
+        975175750,
         6,
         [
           [
@@ -2724,7 +2747,7 @@
     },
     {
       "attributes": [
-        975175750,
+        975175751,
         5,
         [
           [
@@ -2787,7 +2810,7 @@
     },
     {
       "attributes": [
-        975175751,
+        975175752,
         14,
         [
           [
@@ -2922,7 +2945,7 @@
     },
     {
       "attributes": [
-        975175752,
+        975175753,
         6,
         [
           [
@@ -2993,7 +3016,7 @@
     },
     {
       "attributes": [
-        975175753,
+        975175754,
         16,
         [
           [
@@ -3144,7 +3167,7 @@
     },
     {
       "attributes": [
-        975175754,
+        975175755,
         6,
         [
           [
@@ -3215,7 +3238,7 @@
     },
     {
       "attributes": [
-        975175755,
+        975175756,
         5,
         [
           [
@@ -3278,7 +3301,7 @@
     },
     {
       "attributes": [
-        975175756,
+        975175757,
         15,
         [
           [
@@ -3421,7 +3444,7 @@
     },
     {
       "attributes": [
-        975175757,
+        975175758,
         2,
         [
           [
@@ -3460,7 +3483,7 @@
     },
     {
       "attributes": [
-        975175758,
+        975175759,
         2,
         [
           [
@@ -3499,7 +3522,7 @@
     },
     {
       "attributes": [
-        975175759,
+        975175760,
         1,
         [
           [
@@ -3530,7 +3553,7 @@
     },
     {
       "attributes": [
-        975175760,
+        975175761,
         7,
         [
           [
@@ -3609,7 +3632,78 @@
     },
     {
       "attributes": [
-        975175761,
+        975175762,
+        6,
+        [
+          [
+            2291801771,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP NO. A07, G/F, TAI WO HAU COMMERCIAL CENTRE (I), TAI WO HAU ESTATE, TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-12"
+          ],
+          [
+            2291804071,
+            0,
+            "CHAP SHING",
+            "SHOP NO. C15, SECOND FLOOR, COMMERCIAL/ CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE I), TAI WO HAU ESTATE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-29"
+          ],
+          [
+            2291804354,
+            0,
+            "Cafe de Coral",
+            "SHOP NO. B05, FIRST FLOOR, TAI WO HAU COMMERCIAL CENTRE(I), TAI WO HAU ESTATE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-03-01"
+          ],
+          [
+            2291804390,
+            0,
+            "\u71d2\u9d5d\u5927\u4ea8\u8336\u9910\u5ef3",
+            "SHOP NO. B03 & B04, 1/F, TAI WO HAU COMMERCIAL CENTRE (I), TAI WO HAU ESTATE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ],
+          [
+            2291804488,
+            0,
+            "\u661f\u6167\u5c0f\u9928",
+            "SHOP NOS. C02A, C02, C03 & C04, 2/F, TAI WO HAU COMMERCIAL CENTRE(I), TAI WO HAU ESTATE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-08-02"
+          ],
+          [
+            3191801876,
+            1,
+            "\u69ae\u6d77\u725b\u8169\u7c89\u9eb5",
+            "STALL NOS. 27-28, 1/F, MARKET, COMMERCIAL/ CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (I)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-29"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177821
+        ]
+      ],
+      "coordinate": [
+        1.9918337175042242,
+        0.3904042498389887,
+        11.950000762939453
+      ],
+      "halfSize": [
+        60.51543000014499,
+        42.06577999982983,
+        4.650000095367432
+      ]
+    },
+    {
+      "attributes": [
+        975175763,
         4,
         [
           [
@@ -3664,7 +3758,7 @@
     },
     {
       "attributes": [
-        975175762,
+        975175764,
         1,
         [
           [
@@ -3695,7 +3789,7 @@
     },
     {
       "attributes": [
-        975175763,
+        975175765,
         1,
         [
           [
@@ -3726,46 +3820,7 @@
     },
     {
       "attributes": [
-        975175764,
-        2,
-        [
-          [
-            2291804071,
-            0,
-            "CHAP SHING",
-            "SHOP NO. C15, SECOND FLOOR, COMMERCIAL/ CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE I), TAI WO HAU ESTATE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-04-29"
-          ],
-          [
-            2291804488,
-            0,
-            "\u661f\u6167\u5c0f\u9928",
-            "SHOP NOS. C02A, C02, C03 & C04, 2/F, TAI WO HAU COMMERCIAL CENTRE(I), TAI WO HAU ESTATE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-08-02"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          975177830
-        ]
-      ],
-      "coordinate": [
-        1.9918466958822016,
-        0.3903964079157505,
-        16.649999618530273
-      ],
-      "halfSize": [
-        43.23356499988586,
-        32.364719999954104,
-        4.450000286102295
-      ]
-    },
-    {
-      "attributes": [
-        975175765,
+        975175766,
         1,
         [
           [
@@ -3796,7 +3851,7 @@
     },
     {
       "attributes": [
-        975175766,
+        975175767,
         7,
         [
           [
@@ -3875,61 +3930,6 @@
     },
     {
       "attributes": [
-        975175767,
-        4,
-        [
-          [
-            2291801771,
-            0,
-            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
-            "SHOP NO. A07, G/F, TAI WO HAU COMMERCIAL CENTRE (I), TAI WO HAU ESTATE, TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2027-01-12"
-          ],
-          [
-            2291804354,
-            0,
-            "Cafe de Coral",
-            "SHOP NO. B05, FIRST FLOOR, TAI WO HAU COMMERCIAL CENTRE(I), TAI WO HAU ESTATE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-03-01"
-          ],
-          [
-            2291804390,
-            0,
-            "\u71d2\u9d5d\u5927\u4ea8\u8336\u9910\u5ef3",
-            "SHOP NO. B03 & B04, 1/F, TAI WO HAU COMMERCIAL CENTRE (I), TAI WO HAU ESTATE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-04-22"
-          ],
-          [
-            3191801876,
-            1,
-            "\u69ae\u6d77\u725b\u8169\u7c89\u9eb5",
-            "STALL NOS. 27-28, 1/F, MARKET, COMMERCIAL/ CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (I)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2027-01-29"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          975177836
-        ]
-      ],
-      "coordinate": [
-        1.991859360165839,
-        0.3903910717243825,
-        18.350000381469727
-      ],
-      "halfSize": [
-        37.768639999907464,
-        34.382354999892414,
-        2.8500003814697266
-      ]
-    },
-    {
-      "attributes": [
         975175768,
         3,
         [
@@ -3978,7 +3978,7 @@
     {
       "attributes": [
         975175769,
-        2,
+        1,
         [
           [
             2292802717,
@@ -3987,14 +3987,6 @@
             "SHOP NO. 1 (PORTION) & NO. 3, G/F, BLOCK 2, HARMONY GARDEN, 28 LUEN YAN STREET, TSUEN WAN, NEW TERRITORIES",
             null,
             "2027-02-17"
-          ],
-          [
-            2292808423,
-            0,
-            "\u80a5\u4ed4\u5927\u6392\u6a94",
-            "SHOP NO. 6 & 7, G/F, BLOCK 1 OF HARMONY GARDEN, NO. 89 HAM TIN STREET, TSUEN WAN, NEW TERRITORIES",
-            null,
-            "2027-02-16"
           ]
         ]
       ],

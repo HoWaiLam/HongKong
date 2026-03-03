@@ -1334,16 +1334,8 @@
     {
       "attributes": [
         1369440269,
-        4,
+        3,
         [
-          [
-            2198800156,
-            1,
-            "HONOLULU CAF\u00c9",
-            "SHOP 3, 4 & 5 (MAJOR PORTION), G/F, MARITIME BAY, 18 PUI SHING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
-            null,
-            "2026-07-11"
-          ],
           [
             2998804156,
             4,
@@ -2304,6 +2296,37 @@
         77.60962999984622,
         53.52999499998987,
         9.75
+      ]
+    },
+    {
+      "attributes": [
+        1369440278,
+        1,
+        [
+          [
+            2198800156,
+            1,
+            "HONOLULU CAF\u00c9",
+            "SHOP 3, 4 & 5 (MAJOR PORTION), G/F, MARITIME BAY, 18 PUI SHING ROAD, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            null,
+            "2026-07-11"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1369440846
+        ]
+      ],
+      "coordinate": [
+        1.9943063885619428,
+        0.3894633183469891,
+        81.9000015258789
+      ],
+      "halfSize": [
+        15.10113999992609,
+        16.40213999990374,
+        65.0999984741211
       ]
     }
   ]

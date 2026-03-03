@@ -34,7 +34,7 @@
     {
       "attributes": [
         587202561,
-        26,
+        29,
         [
           [
             2994000288,
@@ -61,12 +61,28 @@
             "2027-02-28"
           ],
           [
+            2994804626,
+            4,
+            "MAXIM'S CAKES",
+            "SHOP NO. 1, GROUND FLOOR, COMMERCIAL BLOCK (ALSO KNOWN AS TIN CHAK SHOPPING CENTRE), TIN CHAK ESTATE, 71, 73, 75 AND 77 TIN SHUI ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-12-01"
+          ],
+          [
             2994804635,
             4,
             "HUNG FOOK TONG",
             "PORTIONS OF SHOP NO. 2, G/F, TIN CHAK SHOPPING CENTRE, TIN CHAK ESTATE, NOS. 71, 73, 75 & 77 TIN SHUI ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
             null,
             "2026-12-01"
+          ],
+          [
+            2994805188,
+            4,
+            "TONG KEE BAO DIM",
+            "SHOP NO. 5, G/F, COMMERCIAL BLOCK (ALSO KNOWN AS TIN CHAK SHOPPING CENTRE), TIN CHAK ESTATE, 71, 73, 75 AND 77 TIN SHUI ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-06"
           ],
           [
             2994806279,
@@ -211,6 +227,14 @@
             "SHOPSTALL NO. TC40, G/F, TIN CHAK CHINESE MARKET, TIN CHAK SHOPPING CENTRE, TIN CHAK ESTATE, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
             null,
             "2026-06-08"
+          ],
+          [
+            4694804047,
+            5,
+            "\u5929\u6fa4\u5065\u8a18\u9bae\u9b5a",
+            "STALL NO. TC52 IN THE MARKET PLACE, G/F, COMMERCIAL BLOCK (ALSO KNOWN AS TIN CHAK SHOPPING CENTRE), TIN CHAK ESTATE, NOS. 71, 73, 75 AND 77 TIN SHUI ROAD, TIN SHUI WAI, NEW TERRITORIES",
+            null,
+            "2026-07-29"
           ],
           [
             3294000226,
@@ -454,7 +478,7 @@
     {
       "attributes": [
         587202565,
-        37,
+        39,
         [
           [
             2994803784,
@@ -471,6 +495,14 @@
             "PORTION B OF SHOP NOS. NG09 AND NG10, G/F, T TOWN NORTH, TIN YUET ESTATE, 33 AND 39 TIN WAH ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
             null,
             "2026-08-17"
+          ],
+          [
+            2994806312,
+            4,
+            "MAXIM'S CAKES",
+            "SHOP NG11, T-TOWN NORTH, TIN YUET ESTATE, 33 & 39 TIN WAH ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-01"
           ],
           [
             2994806817,
@@ -615,6 +647,14 @@
             "SHOP NO. NG13, G/F, T TOWN NORTH, 33 & 39 TIN WAH ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
             null,
             "2026-08-28"
+          ],
+          [
+            2994810698,
+            4,
+            "CHEZ CHOUX",
+            "SHOP NG12, GROUND FLOOR, T-TOWN NORTH, TIN YUET ESTATE, 33 & 39 TIN WAH ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-10-16"
           ],
           [
             2994811053,
@@ -940,45 +980,6 @@
         2,
         [
           [
-            2994806312,
-            4,
-            "MAXIM'S CAKES",
-            "SHOP NG11, T-TOWN NORTH, TIN YUET ESTATE, 33 & 39 TIN WAH ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
-            null,
-            "2026-11-01"
-          ],
-          [
-            2994810698,
-            4,
-            "CHEZ CHOUX",
-            "SHOP NG12, GROUND FLOOR, T-TOWN NORTH, TIN YUET ESTATE, 33 & 39 TIN WAH ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
-            null,
-            "2026-10-16"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          587203303
-        ]
-      ],
-      "coordinate": [
-        1.9896880356312576,
-        0.3920413812221738,
-        9.100000381469727
-      ],
-      "halfSize": [
-        44.03199000004679,
-        20.16821500007063,
-        2.299999713897705
-      ]
-    },
-    {
-      "attributes": [
-        587202571,
-        2,
-        [
-          [
             2994801070,
             4,
             "7-ELEVEN",
@@ -1014,7 +1015,7 @@
     },
     {
       "attributes": [
-        587202572,
+        587202571,
         1,
         [
           [
@@ -1045,54 +1046,7 @@
     },
     {
       "attributes": [
-        587202573,
-        3,
-        [
-          [
-            2994804626,
-            4,
-            "MAXIM'S CAKES",
-            "SHOP NO. 1, GROUND FLOOR, COMMERCIAL BLOCK (ALSO KNOWN AS TIN CHAK SHOPPING CENTRE), TIN CHAK ESTATE, 71, 73, 75 AND 77 TIN SHUI ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
-            null,
-            "2026-12-01"
-          ],
-          [
-            2994805188,
-            4,
-            "TONG KEE BAO DIM",
-            "SHOP NO. 5, G/F, COMMERCIAL BLOCK (ALSO KNOWN AS TIN CHAK SHOPPING CENTRE), TIN CHAK ESTATE, 71, 73, 75 AND 77 TIN SHUI ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
-            null,
-            "2027-01-06"
-          ],
-          [
-            4694804047,
-            5,
-            "\u5929\u6fa4\u5065\u8a18\u9bae\u9b5a",
-            "STALL NO. TC52 IN THE MARKET PLACE, G/F, COMMERCIAL BLOCK (ALSO KNOWN AS TIN CHAK SHOPPING CENTRE), TIN CHAK ESTATE, NOS. 71, 73, 75 AND 77 TIN SHUI ROAD, TIN SHUI WAI, NEW TERRITORIES",
-            null,
-            "2026-07-29"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          587203441
-        ]
-      ],
-      "coordinate": [
-        1.9896427702060089,
-        0.3921567635474046,
-        8.200000762939453
-      ],
-      "halfSize": [
-        25.11498499987647,
-        26.293905000202358,
-        1.9000000953674316
-      ]
-    },
-    {
-      "attributes": [
-        587202574,
+        587202572,
         16,
         [
           [
@@ -1243,7 +1197,7 @@
     },
     {
       "attributes": [
-        587202575,
+        587202573,
         11,
         [
           [
@@ -1354,7 +1308,7 @@
     },
     {
       "attributes": [
-        587202576,
+        587202574,
         1,
         [
           [
@@ -1385,7 +1339,7 @@
     },
     {
       "attributes": [
-        587202577,
+        587202575,
         2,
         [
           [
@@ -1424,7 +1378,7 @@
     },
     {
       "attributes": [
-        587202578,
+        587202576,
         1,
         [
           [

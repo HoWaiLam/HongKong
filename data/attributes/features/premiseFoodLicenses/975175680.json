@@ -2131,6 +2131,37 @@
     {
       "attributes": [
         975175720,
+        1,
+        [
+          [
+            2192000347,
+            1,
+            "NICE BAKERY",
+            "G/F, 44 HAM TIN STREET, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-05-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177394
+        ]
+      ],
+      "coordinate": [
+        1.9917312853768778,
+        0.390424898084112,
+        10.449999809265137
+      ],
+      "halfSize": [
+        7.661565000191331,
+        5.09334500040859,
+        5.949999809265137
+      ]
+    },
+    {
+      "attributes": [
+        975175721,
         2,
         [
           [
@@ -2169,7 +2200,7 @@
     },
     {
       "attributes": [
-        975175721,
+        975175722,
         1,
         [
           [
@@ -2196,37 +2227,6 @@
         18.78833999997005,
         17.647164999507368,
         24.30000114440918
-      ]
-    },
-    {
-      "attributes": [
-        975175722,
-        1,
-        [
-          [
-            2192000347,
-            1,
-            "NICE BAKERY",
-            "G/F, 44 HAM TIN STREET, TSUEN WAN, NEW TERRITORIES",
-            null,
-            "2026-05-03"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          975177409
-        ]
-      ],
-      "coordinate": [
-        1.9917301160976435,
-        0.39042305822450196,
-        10.350000381469727
-      ],
-      "halfSize": [
-        7.311495000030845,
-        5.803499999456108,
-        5.850000381469727
       ]
     },
     {
@@ -4267,16 +4267,8 @@
     {
       "attributes": [
         975175760,
-        2,
+        1,
         [
-          [
-            2991805080,
-            4,
-            "\u5927\u962a\u9eb5\u98fd\u897f\u9905(Osaka)",
-            "SHOP 9B, G/F, KWAI HING SHOPPING CENTRE, KWAI HING ESTATE, 2 WO KWAI LANE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-09-13"
-          ],
           [
             3691801394,
             5,
@@ -6121,6 +6113,229 @@
     {
       "attributes": [
         975175794,
+        25,
+        [
+          [
+            2991000560,
+            4,
+            "Appolo (Magic House) Superstore Ltd.",
+            "SHOP 2, PHASE 2, SHOPPING CENTRE, TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-04"
+          ],
+          [
+            2991001554,
+            4,
+            "7-Eleven",
+            "PORTION B OF SHOP NO. 1, COMMERCIAL CENTRE 2, TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-11-10"
+          ],
+          [
+            2991808274,
+            4,
+            "\u738b\u6ef7\u592a",
+            "STALL NO. 35 (REAR PORTION), 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE(1)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-12-17"
+          ],
+          [
+            2991809587,
+            4,
+            "\u56db\u5b63\u7f8e\u98df",
+            "STALL NO. 30, 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK(ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (I)),TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-05"
+          ],
+          [
+            2991809684,
+            4,
+            "\u57ce\u8a18\u7f8e\u98df",
+            "STALL NO. 31, 1/F, MARKET, COMMERCIAL/ CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE(I)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-04-22"
+          ],
+          [
+            2991810916,
+            4,
+            "SUSHI TAKE-OUT",
+            "SHOP NO. C06A, 2/F, TAI WO HAU SHOPPING CENTRE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-09-02"
+          ],
+          [
+            2991811177,
+            4,
+            "Natural Bakery",
+            "SHOP NO. C05A, 2/F, TAI WO HAU COMMERCIAL CENTRE (I), TAI WO HAU ESTATE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-11-10"
+          ],
+          [
+            2991815984,
+            4,
+            "\u6674\u665e\u9905\u5e97",
+            "STALL NOS. 32 & 33, 1/F, MARKET, COMMERCIAL /CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE(1)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-10-09"
+          ],
+          [
+            2991816118,
+            4,
+            "\u73fe\u5305\u9903\u5b50",
+            "STALL NO. 46, 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (I)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-22"
+          ],
+          [
+            2991816172,
+            4,
+            "YEUNG'S KITCHEN",
+            "MARKET STALL NO.34, FIRST FLOOR, TAI WO HAU COMMERCIAL CENTRE (I), TAI WO HAU ESTATE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-02-10"
+          ],
+          [
+            4991816499,
+            4,
+            "\u9178\u706b\u706b",
+            "STALL NO. 3, 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (I)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-11"
+          ],
+          [
+            4991816587,
+            4,
+            "\u4e09\u59b9",
+            "STALL NO. 20, 1/F, MARKET, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (1)), TAI WO HAU ESTATE, KWAI CHUNG, KWAI TSING, NEW TERRITORIES",
+            null,
+            "2026-08-02"
+          ],
+          [
+            3691001453,
+            5,
+            "WELLCOME SUPERMARKET",
+            "SHOP NO. C7 (PORTION), 2/F., COMMERCIAL CENTRE, TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-05-28"
+          ],
+          [
+            3691801987,
+            5,
+            "\u65b0\u9686\u6e90\u68e7",
+            "SHOP STALL NOS. 4-5, 1/F, MARKET, TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-06-03"
+          ],
+          [
+            3691802087,
+            5,
+            "\u5eb7\u6cf0\u96de\u9d28\u9d5d",
+            "STALL NO.40, 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (1)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-11-05"
+          ],
+          [
+            3691802096,
+            5,
+            "\u51a0\u8208\u51cd\u8089",
+            "SHOP 36, 1/F, FRESH MARKET, TAI WO HAU COMMERCIAL CENTRE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-11-28"
+          ],
+          [
+            3691802102,
+            5,
+            "\u5eb7\u6cf0\u725b\u8089",
+            "STALL NO. 41, 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (1)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-12-03"
+          ],
+          [
+            3691802120,
+            5,
+            "\u4fca\u5091\u9bae\u9b5a",
+            "STALL NOS. 52 & 54, , 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (1)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-12-16"
+          ],
+          [
+            3691802148,
+            5,
+            "\u660e\u5bcc\u8089\u67b1",
+            "STALL NO. 53, 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (1)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-01-10"
+          ],
+          [
+            3691802175,
+            5,
+            "\u6d77\u81e3\u6d77\u9bae\u5cf6",
+            "STALL NOS. 57 & 58, 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (1)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2027-02-20"
+          ],
+          [
+            3691802555,
+            5,
+            "Kai Bo Food Supermarket",
+            "PORTIONS OF SHOP NOS. C16 & C17, 2/F., TAI WO HAU COMMERCIAL CENTRE I, TAI WO HAU ESTATE, NO. 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-27"
+          ],
+          [
+            3691802865,
+            5,
+            "\u5e0c\u5b87\u6d77\u7522",
+            "STALL NO. 37, 1/F, TAI WO HAU COMMERCIAL CENTRE (1), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-07-05"
+          ],
+          [
+            3691803114,
+            5,
+            "\u5bcc\u8c6a\u8089\u67b1",
+            "STALL NO. 44, 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (1)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-12-04"
+          ],
+          [
+            3291000146,
+            6,
+            "7-Eleven",
+            "PORTION A OF SHOP NO.1, COMMERCIAL CENTRE 2, TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-08-04"
+          ],
+          [
+            3591800451,
+            8,
+            "\u738b\u6ef7\u592a",
+            "STALL NO. 35 (FRONT PORTION), 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE(1)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-12-17"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177821
+        ]
+      ],
+      "coordinate": [
+        1.9918337175042242,
+        0.3904042498389887,
+        11.950000762939453
+      ],
+      "halfSize": [
+        60.51543000014499,
+        42.06577999982983,
+        4.650000095367432
+      ]
+    },
+    {
+      "attributes": [
+        975175795,
         1,
         [
           [
@@ -6151,7 +6366,7 @@
     },
     {
       "attributes": [
-        975175795,
+        975175796,
         2,
         [
           [
@@ -6190,7 +6405,7 @@
     },
     {
       "attributes": [
-        975175796,
+        975175797,
         1,
         [
           [
@@ -6221,7 +6436,7 @@
     },
     {
       "attributes": [
-        975175797,
+        975175798,
         3,
         [
           [
@@ -6264,61 +6479,6 @@
         26.33653499977663,
         25.97417000029236,
         4.5
-      ]
-    },
-    {
-      "attributes": [
-        975175798,
-        4,
-        [
-          [
-            2991810916,
-            4,
-            "SUSHI TAKE-OUT",
-            "SHOP NO. C06A, 2/F, TAI WO HAU SHOPPING CENTRE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-09-02"
-          ],
-          [
-            2991811177,
-            4,
-            "Natural Bakery",
-            "SHOP NO. C05A, 2/F, TAI WO HAU COMMERCIAL CENTRE (I), TAI WO HAU ESTATE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-11-10"
-          ],
-          [
-            3691001453,
-            5,
-            "WELLCOME SUPERMARKET",
-            "SHOP NO. C7 (PORTION), 2/F., COMMERCIAL CENTRE, TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-05-28"
-          ],
-          [
-            3691802555,
-            5,
-            "Kai Bo Food Supermarket",
-            "PORTIONS OF SHOP NOS. C16 & C17, 2/F., TAI WO HAU COMMERCIAL CENTRE I, TAI WO HAU ESTATE, NO. 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-07-27"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          975177830
-        ]
-      ],
-      "coordinate": [
-        1.9918466958822016,
-        0.3903964079157505,
-        16.649999618530273
-      ],
-      "halfSize": [
-        43.23356499988586,
-        32.364719999954104,
-        4.450000286102295
       ]
     },
     {
@@ -6602,197 +6762,6 @@
     {
       "attributes": [
         975175801,
-        21,
-        [
-          [
-            2991000560,
-            4,
-            "Appolo (Magic House) Superstore Ltd.",
-            "SHOP 2, PHASE 2, SHOPPING CENTRE, TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2027-01-04"
-          ],
-          [
-            2991001554,
-            4,
-            "7-Eleven",
-            "PORTION B OF SHOP NO. 1, COMMERCIAL CENTRE 2, TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-11-10"
-          ],
-          [
-            2991808274,
-            4,
-            "\u738b\u6ef7\u592a",
-            "STALL NO. 35 (REAR PORTION), 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE(1)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-12-17"
-          ],
-          [
-            2991809587,
-            4,
-            "\u56db\u5b63\u7f8e\u98df",
-            "STALL NO. 30, 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK(ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (I)),TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-04-05"
-          ],
-          [
-            2991809684,
-            4,
-            "\u57ce\u8a18\u7f8e\u98df",
-            "STALL NO. 31, 1/F, MARKET, COMMERCIAL/ CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE(I)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-04-22"
-          ],
-          [
-            2991815984,
-            4,
-            "\u6674\u665e\u9905\u5e97",
-            "STALL NOS. 32 & 33, 1/F, MARKET, COMMERCIAL /CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE(1)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-10-09"
-          ],
-          [
-            2991816118,
-            4,
-            "\u73fe\u5305\u9903\u5b50",
-            "STALL NO. 46, 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (I)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2027-01-22"
-          ],
-          [
-            2991816172,
-            4,
-            "YEUNG'S KITCHEN",
-            "MARKET STALL NO.34, FIRST FLOOR, TAI WO HAU COMMERCIAL CENTRE (I), TAI WO HAU ESTATE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2027-02-10"
-          ],
-          [
-            4991816499,
-            4,
-            "\u9178\u706b\u706b",
-            "STALL NO. 3, 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (I)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-06-11"
-          ],
-          [
-            4991816587,
-            4,
-            "\u4e09\u59b9",
-            "STALL NO. 20, 1/F, MARKET, COMMERCIAL / CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (1)), TAI WO HAU ESTATE, KWAI CHUNG, KWAI TSING, NEW TERRITORIES",
-            null,
-            "2026-08-02"
-          ],
-          [
-            3691801987,
-            5,
-            "\u65b0\u9686\u6e90\u68e7",
-            "SHOP STALL NOS. 4-5, 1/F, MARKET, TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-06-03"
-          ],
-          [
-            3691802087,
-            5,
-            "\u5eb7\u6cf0\u96de\u9d28\u9d5d",
-            "STALL NO.40, 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (1)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-11-05"
-          ],
-          [
-            3691802096,
-            5,
-            "\u51a0\u8208\u51cd\u8089",
-            "SHOP 36, 1/F, FRESH MARKET, TAI WO HAU COMMERCIAL CENTRE, 15 TAI WO HAU ROAD, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-11-28"
-          ],
-          [
-            3691802102,
-            5,
-            "\u5eb7\u6cf0\u725b\u8089",
-            "STALL NO. 41, 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (1)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-12-03"
-          ],
-          [
-            3691802120,
-            5,
-            "\u4fca\u5091\u9bae\u9b5a",
-            "STALL NOS. 52 & 54, , 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (1)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-12-16"
-          ],
-          [
-            3691802148,
-            5,
-            "\u660e\u5bcc\u8089\u67b1",
-            "STALL NO. 53, 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (1)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2027-01-10"
-          ],
-          [
-            3691802175,
-            5,
-            "\u6d77\u81e3\u6d77\u9bae\u5cf6",
-            "STALL NOS. 57 & 58, 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (1)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2027-02-20"
-          ],
-          [
-            3691802865,
-            5,
-            "\u5e0c\u5b87\u6d77\u7522",
-            "STALL NO. 37, 1/F, TAI WO HAU COMMERCIAL CENTRE (1), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-07-05"
-          ],
-          [
-            3691803114,
-            5,
-            "\u5bcc\u8c6a\u8089\u67b1",
-            "STALL NO. 44, 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE (1)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-12-04"
-          ],
-          [
-            3291000146,
-            6,
-            "7-Eleven",
-            "PORTION A OF SHOP NO.1, COMMERCIAL CENTRE 2, TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-08-04"
-          ],
-          [
-            3591800451,
-            8,
-            "\u738b\u6ef7\u592a",
-            "STALL NO. 35 (FRONT PORTION), 1/F, MARKET, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS TAI WO HAU COMMERCIAL CENTRE(1)), TAI WO HAU ESTATE, KWAI CHUNG, NEW TERRITORIES",
-            null,
-            "2026-12-17"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          975177836
-        ]
-      ],
-      "coordinate": [
-        1.991859360165839,
-        0.3903910717243825,
-        18.350000381469727
-      ],
-      "halfSize": [
-        37.768639999907464,
-        34.382354999892414,
-        2.8500003814697266
-      ]
-    },
-    {
-      "attributes": [
-        975175802,
         1,
         [
           [
@@ -6823,7 +6792,7 @@
     },
     {
       "attributes": [
-        975175803,
+        975175802,
         13,
         [
           [
@@ -6950,7 +6919,7 @@
     },
     {
       "attributes": [
-        975175804,
+        975175803,
         1,
         [
           [
@@ -6981,7 +6950,7 @@
     },
     {
       "attributes": [
-        975175805,
+        975175804,
         2,
         [
           [
@@ -7020,7 +6989,7 @@
     },
     {
       "attributes": [
-        975175806,
+        975175805,
         2,
         [
           [
@@ -7059,7 +7028,7 @@
     },
     {
       "attributes": [
-        975175807,
+        975175806,
         1,
         [
           [
@@ -7090,7 +7059,7 @@
     },
     {
       "attributes": [
-        975175808,
+        975175807,
         2,
         [
           [
@@ -7129,7 +7098,7 @@
     },
     {
       "attributes": [
-        975175809,
+        975175808,
         1,
         [
           [
@@ -7160,7 +7129,7 @@
     },
     {
       "attributes": [
-        975175810,
+        975175809,
         1,
         [
           [
@@ -7187,6 +7156,37 @@
         33.160834999755025,
         29.327200000174344,
         2.6500000953674316
+      ]
+    },
+    {
+      "attributes": [
+        975175810,
+        1,
+        [
+          [
+            2991805080,
+            4,
+            "\u5927\u962a\u9eb5\u98fd\u897f\u9905(Osaka)",
+            "SHOP 9B, G/F, KWAI HING SHOPPING CENTRE, KWAI HING ESTATE, 2 WO KWAI LANE, KWAI CHUNG, NEW TERRITORIES",
+            null,
+            "2026-09-13"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          975177855
+        ]
+      ],
+      "coordinate": [
+        1.9919927462504348,
+        0.3903764105599285,
+        10.850000381469727
+      ],
+      "halfSize": [
+        35.0937449997291,
+        14.328499999828637,
+        2.450000286102295
       ]
     },
     {

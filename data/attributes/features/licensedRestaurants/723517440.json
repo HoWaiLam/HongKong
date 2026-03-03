@@ -3,8 +3,24 @@
     {
       "attributes": [
         723517440,
-        1,
+        5,
         [
+          [
+            2294001734,
+            0,
+            "\u661f\u6eff\u6a13\u5bb4\u6703\u5ef3\u56cd\u6085\u8ed2",
+            "G/F(MINOR PORTION), 1/F, BLOCK B, TOWN CENTRE, DD 104, LOT 4665, FAIRVIEW PARK, TAI SANG WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-30"
+          ],
+          [
+            2294802492,
+            0,
+            "Caf'e de Coral",
+            "SHOP A, G/F, BLOCK B, TOWN CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2027-01-10"
+          ],
           [
             2294809208,
             0,
@@ -12,6 +28,22 @@
             "SHOP NO. 4, G/F, BLOCK C, FAIRVIEW PARK TOWN CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
             null,
             "2027-02-02"
+          ],
+          [
+            3894811909,
+            0,
+            "McDonald's Restaurant",
+            "SHOP NOS.8-14 AND 14A, GROUND FLOOR, BLOCK E, TOWN CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-06-14"
+          ],
+          [
+            3194801169,
+            1,
+            "PACIFIC COFFEE COMPANY",
+            "SHOP B, GROUND FLOOR, BLOCK B, TOWN CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-03-07"
           ]
         ]
       ],
@@ -34,24 +66,8 @@
     {
       "attributes": [
         723517441,
-        5,
+        1,
         [
-          [
-            2294001734,
-            0,
-            "\u661f\u6eff\u6a13\u5bb4\u6703\u5ef3\u56cd\u6085\u8ed2",
-            "G/F(MINOR PORTION), 1/F, BLOCK B, TOWN CENTRE, DD 104, LOT 4665, FAIRVIEW PARK, TAI SANG WAI, YUEN LONG, NEW TERRITORIES",
-            null,
-            "2026-06-30"
-          ],
-          [
-            2294802492,
-            0,
-            "Caf'e de Coral",
-            "SHOP A, G/F, BLOCK B, TOWN CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
-            null,
-            "2027-01-10"
-          ],
           [
             2294809217,
             0,
@@ -59,22 +75,6 @@
             "SHOP 1, 1A & 2, G/F, BLOCK E, FAIRVIEW PARK TOWN CENTRE PLAZA, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
             null,
             "2026-03-03"
-          ],
-          [
-            3894811909,
-            0,
-            "McDonald's Restaurant",
-            "SHOP NOS.8-14 AND 14A, GROUND FLOOR, BLOCK E, TOWN CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
-            null,
-            "2026-06-14"
-          ],
-          [
-            3194801169,
-            1,
-            "PACIFIC COFFEE COMPANY",
-            "SHOP B, GROUND FLOOR, BLOCK B, TOWN CENTRE, FAIRVIEW PARK, YUEN LONG, NEW TERRITORIES",
-            null,
-            "2026-03-07"
           ]
         ]
       ],

@@ -65,16 +65,39 @@
     {
       "attributes": [
         1430257666,
-        7,
+        1,
         [
           [
-            2998000198,
-            4,
-            "\u5361\u6a02B",
-            "G/F (PORTION), TSEUNG KWAN O INDUSTRIAL ESTATE, 9 CHUN CHEONG STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
+            2598000060,
+            3,
+            "Asia Pacific",
+            "G/F (PORTION), ADMINISTRATION BUILDING, AIRCRAFT OVERHAUL FACILITIES (PHASE II), HONG KONG AERO ENGINE SERVICES LIMITED (HAESL), 70 CHUN CHOI STREET, TSEUNG KWAN O INDUSTRIAL ESTATE, SECTION G, TOWN LOT NO.39, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
             null,
-            "2026-07-25"
-          ],
+            "2027-01-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1430257695
+        ]
+      ],
+      "coordinate": [
+        1.9944174987947552,
+        0.3888859024963798,
+        13.699999809265137
+      ],
+      "halfSize": [
+        98.06443500006571,
+        103.63609999977052,
+        8.199999809265137
+      ]
+    },
+    {
+      "attributes": [
+        1430257667,
+        2,
+        [
           [
             2998802460,
             4,
@@ -90,7 +113,30 @@
             "G/F, PAT CHUN BUILDING, TSEUNG KWAN O INDUSTRIAL ESTATE, 18 CHUN WANG STREET, TSEUNG KWAN O, SAI KUNG, NEW TERRITORIES",
             null,
             "2027-02-05"
-          ],
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1430257751
+        ]
+      ],
+      "coordinate": [
+        1.9943774474845384,
+        0.3889239698160272,
+        9.899999618530273
+      ],
+      "halfSize": [
+        27.940349999815226,
+        31.557814999483526,
+        5.400000095367432
+      ]
+    },
+    {
+      "attributes": [
+        1430257668,
+        4,
+        [
           [
             2998803454,
             4,

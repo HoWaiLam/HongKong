@@ -112,38 +112,7 @@
     {
       "attributes": [
         903872515,
-        1,
-        [
-          [
-            2291803999,
-            0,
-            "Fairwood Fast Food",
-            "SHOP 1,2,3,4 , GROUND FLOOR, HONG WO HOUSE, CHEUNG HONG ESTATE, 12 CHING HONG ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-03-10"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          903872936
-        ]
-      ],
-      "coordinate": [
-        1.9915047426603434,
-        0.3900721204617954,
-        62.650001525878906
-      ],
-      "halfSize": [
-        16.93650000030175,
-        46.08085499983281,
-        26.150001525878906
-      ]
-    },
-    {
-      "attributes": [
-        903872516,
-        1,
+        5,
         [
           [
             2291801656,
@@ -152,37 +121,22 @@
             "COOKED FOOD STALL NOS. 1, 3 AND 4, G/F, CHEUNG HONG COMMERCIAL CENTRE NO. 1, CHEUNG HONG ESTATE, TSING YI, NEW TERRITORIES",
             null,
             "2026-08-01"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          903872962
-        ]
-      ],
-      "coordinate": [
-        1.9915247783713101,
-        0.3900631569704289,
-        44.79999923706055
-      ],
-      "halfSize": [
-        23.820465000346303,
-        31.411000000312924,
-        7.799999237060547
-      ]
-    },
-    {
-      "attributes": [
-        903872517,
-        3,
-        [
+          ],
           [
-            2291804637,
+            2291803999,
             0,
-            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
-            "SHOP 2-4, G/F, HONG KWAI HOUSE, COMMERCIAL CENTRE NO. 1, CHEUNG HONG ESTATE, 12 TSING HONG ROAD, TSING YI, NEW TERRITORIES",
+            "Fairwood Fast Food",
+            "SHOP 1,2,3,4 , GROUND FLOOR, HONG WO HOUSE, CHEUNG HONG ESTATE, 12 CHING HONG ROAD, TSING YI, NEW TERRITORIES",
             null,
-            "2027-01-18"
+            "2026-03-10"
+          ],
+          [
+            2291804150,
+            0,
+            "Meet Point",
+            "SHOP NOS. 104 & 105, LEVEL 1, COMMERCIAL CENTRE NO. 2, CHEUNG HONG ESTATE, 12 CHING HONG ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-07-02"
           ],
           [
             2291805490,
@@ -204,6 +158,37 @@
       ],
       "links": [
         [
+          903872962
+        ]
+      ],
+      "coordinate": [
+        1.9915247783713101,
+        0.3900631569704289,
+        44.79999923706055
+      ],
+      "halfSize": [
+        23.820465000346303,
+        31.411000000312924,
+        7.799999237060547
+      ]
+    },
+    {
+      "attributes": [
+        903872516,
+        1,
+        [
+          [
+            2291804637,
+            0,
+            "\u8b5a\u4ed4\u4e09\u54e5\u7c73\u7dda",
+            "SHOP 2-4, G/F, HONG KWAI HOUSE, COMMERCIAL CENTRE NO. 1, CHEUNG HONG ESTATE, 12 TSING HONG ROAD, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-01-18"
+          ]
+        ]
+      ],
+      "links": [
+        [
           903872968
         ]
       ],
@@ -220,7 +205,7 @@
     },
     {
       "attributes": [
-        903872518,
+        903872517,
         12,
         [
           [
@@ -339,7 +324,7 @@
     },
     {
       "attributes": [
-        903872519,
+        903872518,
         7,
         [
           [
@@ -418,7 +403,7 @@
     },
     {
       "attributes": [
-        903872520,
+        903872519,
         4,
         [
           [
@@ -438,12 +423,12 @@
             "2027-01-13"
           ],
           [
-            2291804150,
+            2291803096,
             0,
-            "Meet Point",
-            "SHOP NOS. 104 & 105, LEVEL 1, COMMERCIAL CENTRE NO. 2, CHEUNG HONG ESTATE, 12 CHING HONG ROAD, TSING YI, NEW TERRITORIES",
+            "\u4e09\u6085\u51b0\u5ba4",
+            "SHOP NOS. 108-110, LEVEL 1, COMMERCIAL CENTRE NO. 2, CHEUNG HONG ESTATE, 12 TSING HONG ROAD, TSING YI, NEW TERRITORIES",
             null,
-            "2026-07-02"
+            "2026-10-09"
           ],
           [
             3191801964,
@@ -473,54 +458,7 @@
     },
     {
       "attributes": [
-        903872521,
-        3,
-        [
-          [
-            2291001353,
-            0,
-            "\u91d1\u8c50\u7c89\u9eb5\u5496\u5561\u5e97",
-            "SHOP 1, LEVEL 3, COMMERCIAL CENTRE, NO. 2 HONG SHUN HOUSE J/O HONG MEI HOUSE, CHEUNG HONG ESTATE, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-05-30"
-          ],
-          [
-            2291800811,
-            0,
-            "\u7fe0\u6e56\u8336\u9910\u5ef3",
-            "SHOP 306 AND 307, 3/F, COMMERCIAL CENTRE II, CHEUNG HONG ESTATE, TSING YI ISLAND, TSING YI, NEW TERRITORIES",
-            null,
-            "2027-01-03"
-          ],
-          [
-            2291803096,
-            0,
-            "\u4e09\u6085\u51b0\u5ba4",
-            "SHOP NOS. 108-110, LEVEL 1, COMMERCIAL CENTRE NO. 2, CHEUNG HONG ESTATE, 12 TSING HONG ROAD, TSING YI, NEW TERRITORIES",
-            null,
-            "2026-10-09"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          903873067
-        ]
-      ],
-      "coordinate": [
-        1.9913957136104998,
-        0.39007774302885406,
-        62.25
-      ],
-      "halfSize": [
-        63.178000000305474,
-        22.2417800007388,
-        4.650001525878906
-      ]
-    },
-    {
-      "attributes": [
-        903872522,
+        903872520,
         2,
         [
           [
@@ -559,7 +497,7 @@
     },
     {
       "attributes": [
-        903872523,
+        903872521,
         2,
         [
           [
@@ -598,7 +536,46 @@
     },
     {
       "attributes": [
-        903872524,
+        903872522,
+        2,
+        [
+          [
+            2291001353,
+            0,
+            "\u91d1\u8c50\u7c89\u9eb5\u5496\u5561\u5e97",
+            "SHOP 1, LEVEL 3, COMMERCIAL CENTRE, NO. 2 HONG SHUN HOUSE J/O HONG MEI HOUSE, CHEUNG HONG ESTATE, TSING YI, NEW TERRITORIES",
+            null,
+            "2026-05-30"
+          ],
+          [
+            2291800811,
+            0,
+            "\u7fe0\u6e56\u8336\u9910\u5ef3",
+            "SHOP 306 AND 307, 3/F, COMMERCIAL CENTRE II, CHEUNG HONG ESTATE, TSING YI ISLAND, TSING YI, NEW TERRITORIES",
+            null,
+            "2027-01-03"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          903873082
+        ]
+      ],
+      "coordinate": [
+        1.9914344367644368,
+        0.39008009414292627,
+        59.0
+      ],
+      "halfSize": [
+        12.532569999806583,
+        12.376000000163913,
+        4.900001525878906
+      ]
+    },
+    {
+      "attributes": [
+        903872523,
         1,
         [
           [
@@ -629,7 +606,7 @@
     },
     {
       "attributes": [
-        903872525,
+        903872524,
         3,
         [
           [

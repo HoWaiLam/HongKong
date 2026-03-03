@@ -3,6 +3,37 @@
     {
       "attributes": [
         1298137088,
+        1,
+        [
+          [
+            3151228882,
+            1,
+            "\u69b6\u610f\u6cf0\u5f0f\u7c89\u9eb5",
+            "FLAT G6, G7, KA FAT ARCADE, YAU TONG CENTRE, 3-7 KA WING STREET, KOWLOON",
+            null,
+            "2026-11-24"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137278
+        ]
+      ],
+      "coordinate": [
+        1.9938351147237787,
+        0.3891164281352843,
+        41.75
+      ],
+      "halfSize": [
+        15.987015000078827,
+        11.540259999223053,
+        9.450000762939453
+      ]
+    },
+    {
+      "attributes": [
+        1298137089,
         10,
         [
           [
@@ -105,9 +136,25 @@
     },
     {
       "attributes": [
-        1298137089,
-        2,
+        1298137090,
+        4,
         [
+          [
+            2251806950,
+            0,
+            "\u54c1\u5473\u71d2\u9d5d\u9910\u5ba4",
+            "SHOP G31D, G/F, KA WAH SHOPPING ARCADE, YAU TONG CENTRE, 2-4 KA WING STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-03-03"
+          ],
+          [
+            2251806987,
+            0,
+            "\u65b0\u6e90\u8336\u9910\u5ef3",
+            "SHOP 2 & SHOP 6, G/F, TAI PING MARKET, NO. G31B, KA WAH SHOPPING CENTRE, 2-4 KA WING STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-03-21"
+          ],
           [
             2251810263,
             0,
@@ -144,8 +191,8 @@
     },
     {
       "attributes": [
-        1298137090,
-        5,
+        1298137091,
+        1,
         [
           [
             2251803173,
@@ -154,38 +201,6 @@
             "G/F, NOS 37-42G & NOS 30-33, KA FAT ARCADE, YAU TONG CENTRE, YAU TONG, KOWLOON",
             null,
             "2026-05-29"
-          ],
-          [
-            2251804884,
-            0,
-            "\u91d1\u52a0\u5229\u51b0\u5ba4",
-            "SHOP 138-140 & 142-146, 1/F, KA FU SHOPPING ARCADE, TOWN 4, YAU TONG CENTRE, 1 KA WING STREET, YAU TONG, KOWLOON",
-            null,
-            "2026-09-07"
-          ],
-          [
-            2251806950,
-            0,
-            "\u54c1\u5473\u71d2\u9d5d\u9910\u5ba4",
-            "SHOP G31D, G/F, KA WAH SHOPPING ARCADE, YAU TONG CENTRE, 2-4 KA WING STREET, YAU TONG, KOWLOON",
-            null,
-            "2026-03-03"
-          ],
-          [
-            2251806987,
-            0,
-            "\u65b0\u6e90\u8336\u9910\u5ef3",
-            "SHOP 2 & SHOP 6, G/F, TAI PING MARKET, NO. G31B, KA WAH SHOPPING CENTRE, 2-4 KA WING STREET, YAU TONG, KOWLOON",
-            null,
-            "2026-03-21"
-          ],
-          [
-            3151228882,
-            1,
-            "\u69b6\u610f\u6cf0\u5f0f\u7c89\u9eb5",
-            "FLAT G6, G7, KA FAT ARCADE, YAU TONG CENTRE, 3-7 KA WING STREET, KOWLOON",
-            null,
-            "2026-11-24"
           ]
         ]
       ],
@@ -207,7 +222,38 @@
     },
     {
       "attributes": [
-        1298137091,
+        1298137092,
+        1,
+        [
+          [
+            2251804884,
+            0,
+            "\u91d1\u52a0\u5229\u51b0\u5ba4",
+            "SHOP 138-140 & 142-146, 1/F, KA FU SHOPPING ARCADE, TOWN 4, YAU TONG CENTRE, 1 KA WING STREET, YAU TONG, KOWLOON",
+            null,
+            "2026-09-07"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1298137792
+        ]
+      ],
+      "coordinate": [
+        1.9938467412623049,
+        0.3891162879169945,
+        28.549999237060547
+      ],
+      "halfSize": [
+        14.060500000137836,
+        20.009999999776483,
+        3.75
+      ]
+    },
+    {
+      "attributes": [
+        1298137093,
         2,
         [
           [
@@ -246,7 +292,7 @@
     },
     {
       "attributes": [
-        1298137092,
+        1298137094,
         2,
         [
           [
@@ -285,7 +331,7 @@
     },
     {
       "attributes": [
-        1298137093,
+        1298137095,
         4,
         [
           [
@@ -340,7 +386,7 @@
     },
     {
       "attributes": [
-        1298137094,
+        1298137096,
         26,
         [
           [
@@ -571,7 +617,7 @@
     },
     {
       "attributes": [
-        1298137095,
+        1298137097,
         1,
         [
           [

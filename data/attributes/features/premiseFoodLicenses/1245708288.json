@@ -1152,7 +1152,7 @@
     {
       "attributes": [
         1245708307,
-        12,
+        16,
         [
           [
             2997802913,
@@ -1185,6 +1185,30 @@
             "MARKET STALL 2 & 3, G/F, YU CHUI COMMERCIAL COMPLEX, 2 NGAU PEI SHA STREET, SHA TIN, NEW TERRITORIES",
             null,
             "2026-11-09"
+          ],
+          [
+            2997812455,
+            4,
+            "\u6842\u5ddd\u98a8\u5473",
+            "STALL NO. 25, THE MARKET PLACE, G/F, COMMERCIAL COMPLEX - OFFICE AND COMMERCIAL AREAS (AS KNOWN AS YU CHUI SHOPPING CENTRE), YU CHUI COURT, 2, 6, 8 NGAU PEI SHA STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-02-01"
+          ],
+          [
+            2997813148,
+            4,
+            "\u5927\u6c60\u8a18",
+            "STALL NO. 1 IN THE MARKET PLACE, G/F, COMMERCIAL COMPLEX - OFFICE AND COMMERCIAL AREAS (ALSO KNOWN AS YU CHUI SHOPPING CENTRE), YU CHUI COURT, 2, 6, 8, NGAU PEI SHA STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-09-08"
+          ],
+          [
+            2997815205,
+            4,
+            "\u5927\u6c60\u8a18",
+            "STALL NO. 7 IN THE MARKET PLACE, G/F, COMMERCIAL COMPLEX - OFFICE AND COMMERCIAL AREAS (ALSO KNOWN AS YU CHUI SHOPPING CENTRE), YU CHUI COURT, 2, 6, 8, NGAU PEI SHA STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2027-01-22"
           ],
           [
             3697800056,
@@ -1225,6 +1249,14 @@
             "STALL NO. 17-18, G/F, MARKET, YU CHUI SHOPPING CENTRE, YU CHUI COURT, SHA TIN, NEW TERRITORIES",
             null,
             "2026-09-09"
+          ],
+          [
+            3697804313,
+            5,
+            "\u8c5a\u4e4b\u738b",
+            "STALL NO. 26, G/F, MARKET, COMMERCIAL COMPLEX-OFFICE AND COMMERCIAL AREAS(ALSO KNOWN AS YU CHUI SHOPPING CENTRE),YU CHUI COURT, 2, 6, 8, NGAU PEI SHA STREET, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-04-07"
           ],
           [
             3697805556,
@@ -1349,7 +1381,7 @@
     {
       "attributes": [
         1245708310,
-        5,
+        1,
         [
           [
             2997002638,
@@ -1358,38 +1390,6 @@
             "STALL NO.4, G/F, SHOPPING CENTRE (MARKET) 2, YU CHUI COURT, NGAU PEI SHA STREET, SHA TIN, NEW TERRITORIES",
             null,
             "2026-06-19"
-          ],
-          [
-            2997812455,
-            4,
-            "\u6842\u5ddd\u98a8\u5473",
-            "STALL NO. 25, THE MARKET PLACE, G/F, COMMERCIAL COMPLEX - OFFICE AND COMMERCIAL AREAS (AS KNOWN AS YU CHUI SHOPPING CENTRE), YU CHUI COURT, 2, 6, 8 NGAU PEI SHA STREET, SHA TIN, NEW TERRITORIES",
-            null,
-            "2027-02-01"
-          ],
-          [
-            2997813148,
-            4,
-            "\u5927\u6c60\u8a18",
-            "STALL NO. 1 IN THE MARKET PLACE, G/F, COMMERCIAL COMPLEX - OFFICE AND COMMERCIAL AREAS (ALSO KNOWN AS YU CHUI SHOPPING CENTRE), YU CHUI COURT, 2, 6, 8, NGAU PEI SHA STREET, SHA TIN, NEW TERRITORIES",
-            null,
-            "2026-09-08"
-          ],
-          [
-            2997815205,
-            4,
-            "\u5927\u6c60\u8a18",
-            "STALL NO. 7 IN THE MARKET PLACE, G/F, COMMERCIAL COMPLEX - OFFICE AND COMMERCIAL AREAS (ALSO KNOWN AS YU CHUI SHOPPING CENTRE), YU CHUI COURT, 2, 6, 8, NGAU PEI SHA STREET, SHA TIN, NEW TERRITORIES",
-            null,
-            "2027-01-22"
-          ],
-          [
-            3697804313,
-            5,
-            "\u8c5a\u4e4b\u738b",
-            "STALL NO. 26, G/F, MARKET, COMMERCIAL COMPLEX-OFFICE AND COMMERCIAL AREAS(ALSO KNOWN AS YU CHUI SHOPPING CENTRE),YU CHUI COURT, 2, 6, 8, NGAU PEI SHA STREET, SHA TIN, NEW TERRITORIES",
-            null,
-            "2026-04-07"
           ]
         ]
       ],

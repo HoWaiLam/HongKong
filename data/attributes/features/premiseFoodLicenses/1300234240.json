@@ -334,7 +334,7 @@
     {
       "attributes": [
         1300234245,
-        5,
+        13,
         [
           [
             2551022641,
@@ -343,6 +343,54 @@
             "FLAT A, 7/F, KWUN TONG INDUSTRIAL CENTRE, PHASE 3, 448-458 KWUN TONG ROAD, KWUN TONG, KOWLOON",
             null,
             "2026-03-31"
+          ],
+          [
+            2551167278,
+            3,
+            "\u597d\u904b\u98df\u5802",
+            "UNIT E, G/F, BLOCK 3, KWUN TONG INDUSTRIAL CTR, 448-458 KWUN TONG ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-08"
+          ],
+          [
+            2551182381,
+            3,
+            "GOLDEN LUCK",
+            "SHOP C-1 (G/F) & SHOP E-1 (1/F), PHASE 1, KWUN TONG INDUSTRIAL CENTRE, 436-484 KWUN TONG ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-24"
+          ],
+          [
+            2551226793,
+            3,
+            "\u5df7\u4ed4\u5167",
+            "UNIT C, 1/F, PHASE 4, KWUN TONG INDUSTRIAL CTR, 436-446 KWUN TONG ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-10"
+          ],
+          [
+            2951192599,
+            4,
+            "D & T FOOD PROCESSING LIMITED",
+            "FLAT M4 & N4, 1/F, PHASE 4, KWUN TONG INDUSTRIAL CTR, 436-446 KWUN TONG ROAD, KOWLOON",
+            null,
+            "2027-03-01"
+          ],
+          [
+            2951807464,
+            4,
+            "Tatin Bakery Limited",
+            "MAJOR PORTION OF UNIT Q4, 13/F, BLOCK 4, KWUN TONG INDUSTRIAL CENTRE, 436-446 KWUN TONG ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-10"
+          ],
+          [
+            2951808722,
+            4,
+            "H.EDIBLE ART LIMITED",
+            "WORKSHOP B (MINOR PORTION), 10/F, PHASE 4, KWUN TONG INDUSTRIAL CENTRE, 436-446 KWUN TONG ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-10-30"
           ],
           [
             2951814891,
@@ -375,6 +423,22 @@
             "FLAT V, 8/F, PHASE 3, KWUN TONG INDUSTRIAL CENTRE, 448-458 KWUN TONG ROAD, KWUN TONG, KOWLOON",
             null,
             "2027-01-18"
+          ],
+          [
+            2951819425,
+            4,
+            "\u98df\u98f2\u7793",
+            "ROOM F1, 11/F, BLOCK 3, KWUN TONG INDUSTRIAL CENTRE, 448-458 KWUN TONG ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-25"
+          ],
+          [
+            2951819832,
+            4,
+            "ROYAL HEALTH PHARMACEUTICAL LIMITED",
+            "PORTION M1 OF FLAT M, 6/F, BLOCK 3, KWUN TONG INDUSTRIAL CENTRE, 448-458 KWUN TONG ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-12"
           ]
         ]
       ],
@@ -397,7 +461,7 @@
     {
       "attributes": [
         1300234246,
-        25,
+        14,
         [
           [
             2551021912,
@@ -416,52 +480,12 @@
             "2026-03-31"
           ],
           [
-            2551167278,
-            3,
-            "\u597d\u904b\u98df\u5802",
-            "UNIT E, G/F, BLOCK 3, KWUN TONG INDUSTRIAL CTR, 448-458 KWUN TONG ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2027-01-08"
-          ],
-          [
-            2551226793,
-            3,
-            "\u5df7\u4ed4\u5167",
-            "UNIT C, 1/F, PHASE 4, KWUN TONG INDUSTRIAL CTR, 436-446 KWUN TONG ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-10-10"
-          ],
-          [
-            2551263655,
-            3,
-            "\u5927\u7687\u9910\u5ba4 (\u5b98\u5858\u5e97)",
-            "SHOP D, G/F, BLOCK 1, KWUN TONG INDUSTRIAL CENTRE, 472-484 KWUN TONG RD, KWUN TONG, KOWLOON",
-            null,
-            "2026-06-26"
-          ],
-          [
-            2951192599,
-            4,
-            "D & T FOOD PROCESSING LIMITED",
-            "FLAT M4 & N4, 1/F, PHASE 4, KWUN TONG INDUSTRIAL CTR, 436-446 KWUN TONG ROAD, KOWLOON",
-            null,
-            "2027-03-01"
-          ],
-          [
             2951804119,
             4,
             "No Record",
             "FLT N, 2/F., PHASE 2, KWUN TONG INDUSTRIAL CENTRE, 460-470 KWUN TONG ROAD, KWUN TONG, KOWLOON",
             null,
             "2026-09-19"
-          ],
-          [
-            2951807464,
-            4,
-            "Tatin Bakery Limited",
-            "MAJOR PORTION OF UNIT Q4, 13/F, BLOCK 4, KWUN TONG INDUSTRIAL CENTRE, 436-446 KWUN TONG ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-05-10"
           ],
           [
             2951808652,
@@ -472,28 +496,12 @@
             "2026-09-11"
           ],
           [
-            2951808722,
-            4,
-            "H.EDIBLE ART LIMITED",
-            "WORKSHOP B (MINOR PORTION), 10/F, PHASE 4, KWUN TONG INDUSTRIAL CENTRE, 436-446 KWUN TONG ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-10-30"
-          ],
-          [
             2951809822,
             4,
             "SAMMI'S FARM",
             "FLAT G, 2/F, PHASE 2, KWUN TONG INDUSTRIAL CENTRE, 460-470 KWUN TONG ROAD, KWUN TONG, KOWLOON",
             null,
             "2026-09-11"
-          ],
-          [
-            2951810738,
-            4,
-            "\u4ea8\u9c7b",
-            "WORKSHOP N, 5/F, PHASE 1, KWUN TONG INDUSTRIAL CENTRE, 472-484 KWUN TONG ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-06-03"
           ],
           [
             2951811634,
@@ -520,14 +528,6 @@
             "2026-12-06"
           ],
           [
-            2951817739,
-            4,
-            "MEAL PREPARED MASTER",
-            "UNIT R1, 10/F, BLOCK 1, KWUN TONG INDUSTRIAL CENTRE, 472-484 KWUN TONG ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2027-03-10"
-          ],
-          [
             2951817872,
             4,
             "(NO RECORD FOUND)",
@@ -544,22 +544,6 @@
             "2026-10-30"
           ],
           [
-            2951818583,
-            4,
-            "VIETNAM FANS",
-            "WORKSHOP A, G/F, PHASE 1, KWUN TONG INDUSTRIAL CENTRE, 472-484 KWUN TONG ROAD, KOWLOON",
-            null,
-            "2026-12-12"
-          ],
-          [
-            2951819425,
-            4,
-            "\u98df\u98f2\u7793",
-            "ROOM F1, 11/F, BLOCK 3, KWUN TONG INDUSTRIAL CENTRE, 448-458 KWUN TONG ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-09-25"
-          ],
-          [
             2951819814,
             4,
             "\u6cf0\u5e73",
@@ -574,14 +558,6 @@
             "PORTION B OF UNIT F2 (MAJOR PORTION), G/F, KWUN TONG INDUSTRIAL CENTRE BLOCK 3, 448-458 KWUN TONG ROAD, KWUN TONG, KOWLOON",
             null,
             "2027-01-06"
-          ],
-          [
-            2951819832,
-            4,
-            "ROYAL HEALTH PHARMACEUTICAL LIMITED",
-            "PORTION M1 OF FLAT M, 6/F, BLOCK 3, KWUN TONG INDUSTRIAL CENTRE, 448-458 KWUN TONG ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2027-01-12"
           ],
           [
             3251800890,
@@ -746,70 +722,23 @@
     {
       "attributes": [
         1300234249,
-        4,
+        17,
         [
           [
-            2951802317,
-            4,
-            "7-ELEVEN FOOD STORE",
-            "PORTION B OF SHOP NO. G1B, G/F., TAK TIN PLAZA, 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-03-28"
-          ],
-          [
-            2951809354,
-            4,
-            "TONG KEE BAO DIM",
-            "SHOP 105, 1/F, TAK TIN PLAZA, TAK TIN ESTATE, 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2026-05-01"
-          ],
-          [
-            4651803865,
-            5,
-            "(NO RECORD FOUND)",
-            "STALL NO. M33, G/F, MARKET, TAK TIN PLAZA, TAK TIN ESTATE, 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2026-07-27"
-          ],
-          [
-            3251800270,
-            6,
-            "7-ELEVEN FOOD STORE",
-            "PORTION A OF SHOP NO. G1B, G/F., TAK TIN PLAZA, 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-03-28"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1300234332
-        ]
-      ],
-      "coordinate": [
-        1.993828486860508,
-        0.38938815500759066,
-        103.25
-      ],
-      "halfSize": [
-        39.109375,
-        66.00586000084877,
-        11.550003051757812
-      ]
-    },
-    {
-      "attributes": [
-        1300234250,
-        14,
-        [
-          [
-            2551182381,
+            2551263655,
             3,
-            "GOLDEN LUCK",
-            "SHOP C-1 (G/F) & SHOP E-1 (1/F), PHASE 1, KWUN TONG INDUSTRIAL CENTRE, 436-484 KWUN TONG ROAD, KWUN TONG, KOWLOON",
+            "\u5927\u7687\u9910\u5ba4 (\u5b98\u5858\u5e97)",
+            "SHOP D, G/F, BLOCK 1, KWUN TONG INDUSTRIAL CENTRE, 472-484 KWUN TONG RD, KWUN TONG, KOWLOON",
             null,
-            "2026-05-24"
+            "2026-06-26"
+          ],
+          [
+            2951810738,
+            4,
+            "\u4ea8\u9c7b",
+            "WORKSHOP N, 5/F, PHASE 1, KWUN TONG INDUSTRIAL CENTRE, 472-484 KWUN TONG ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-03"
           ],
           [
             2951811698,
@@ -908,6 +837,22 @@
             "2026-05-24"
           ],
           [
+            2951817739,
+            4,
+            "MEAL PREPARED MASTER",
+            "UNIT R1, 10/F, BLOCK 1, KWUN TONG INDUSTRIAL CENTRE, 472-484 KWUN TONG ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-03-10"
+          ],
+          [
+            2951818583,
+            4,
+            "VIETNAM FANS",
+            "WORKSHOP A, G/F, PHASE 1, KWUN TONG INDUSTRIAL CENTRE, 472-484 KWUN TONG ROAD, KOWLOON",
+            null,
+            "2026-12-12"
+          ],
+          [
             2951819595,
             4,
             "(NO RECORD FOUND)",
@@ -935,7 +880,7 @@
     },
     {
       "attributes": [
-        1300234251,
+        1300234250,
         1,
         [
           [
@@ -962,6 +907,53 @@
         20.98569000000134,
         23.168610000051558,
         13.90000057220459
+      ]
+    },
+    {
+      "attributes": [
+        1300234251,
+        3,
+        [
+          [
+            2551800937,
+            3,
+            "URBAN CAFE",
+            "UNIT A AND PORTION OF UNIT B, 6/F., BLOCK 1, CAMEL PAINT BUILDING, 62 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-07-24"
+          ],
+          [
+            2551800955,
+            3,
+            "ADD SOME THAI",
+            "UNIT D, 9/F., BLOCK 1, CAMEL PAINT BUILDING, 62 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-02"
+          ],
+          [
+            2951816550,
+            4,
+            "Salt Farm",
+            "PORTION A OF ROOM B, 10/F, BLOCK 2, CAMELPAINT BUILDING, NO. 62 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-03-26"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234337
+        ]
+      ],
+      "coordinate": [
+        1.9936050456519356,
+        0.3893913328787805,
+        34.75
+      ],
+      "halfSize": [
+        24.306410000193864,
+        25.039309999905527,
+        15.950000762939453
       ]
     },
     {
@@ -1086,23 +1078,294 @@
     {
       "attributes": [
         1300234253,
-        29,
+        32,
         [
           [
-            2551800937,
-            3,
-            "URBAN CAFE",
-            "UNIT A AND PORTION OF UNIT B, 6/F., BLOCK 1, CAMEL PAINT BUILDING, 62 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            2951802317,
+            4,
+            "7-ELEVEN FOOD STORE",
+            "PORTION B OF SHOP NO. G1B, G/F., TAK TIN PLAZA, 223 PIK WAN ROAD, LAM TIN, KOWLOON",
             null,
-            "2026-07-24"
+            "2027-03-28"
           ],
           [
-            2551800955,
-            3,
-            "ADD SOME THAI",
-            "UNIT D, 9/F., BLOCK 1, CAMEL PAINT BUILDING, 62 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            2951809354,
+            4,
+            "TONG KEE BAO DIM",
+            "SHOP 105, 1/F, TAK TIN PLAZA, TAK TIN ESTATE, 223 PIK WAN ROAD, LAM TIN, KOWLOON",
             null,
-            "2026-09-02"
+            "2026-05-01"
+          ],
+          [
+            2951816037,
+            4,
+            "\u8178\u7c89\u738b",
+            "STALL NO. M63, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-12-22"
+          ],
+          [
+            2951816046,
+            4,
+            "\u9ebb\u8c46\u5e97\u5c0f\u4e8c",
+            "STALL NO. M64, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-12-22"
+          ],
+          [
+            2951816073,
+            4,
+            "\u4e09\u591a\u00ae",
+            "STALL NO. M66, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-12-29"
+          ],
+          [
+            2951816091,
+            4,
+            "\u660e\u8208\u7f8e\u98df",
+            "STALL NO. M77 & 78, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-02"
+          ],
+          [
+            2951816116,
+            4,
+            "\u7de3\u574a\u5c0f\u68e7",
+            "STALL NO. M60, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-04"
+          ],
+          [
+            2951816125,
+            4,
+            "\u624b\u4f5c\u529f\u592b\u8336",
+            "STALL NO. M59, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-04"
+          ],
+          [
+            2951816152,
+            4,
+            "\u65b0\u8208\u8eca\u4ed4\u9eb5",
+            "STALL NO. M69, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-08"
+          ],
+          [
+            2951816170,
+            4,
+            "\u5305\u9ede\u6599\u7406",
+            "STALL NO. M91, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-10"
+          ],
+          [
+            2951816240,
+            4,
+            "\u5275\u69ae\u71d2\u81d8",
+            "STALL NO. M71 (PORTION A), G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-25"
+          ],
+          [
+            2951816277,
+            4,
+            "\u7cd6\u829d\u8c46",
+            "STALL NO. M62, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-02-05"
+          ],
+          [
+            4951821439,
+            4,
+            "(NO RECORD FOUND)",
+            "STALL NO. M68 IN THE MARKET PLACE, GROUND FLOOR, COMMERCIAL BLOCK (ALSO KNOWN AS TAK TIN PLAZA), TAK TIN ESTATE, 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-03-18"
+          ],
+          [
+            3651803811,
+            5,
+            "\u555f\u7965",
+            "STALL NO. M72 IN THE MARKET PLACE, GROUND FLOOR, COMMERCIAL BLOCK, TAK TIN ESTATE, 223 PIK WAN ROAD, KOWLOON",
+            null,
+            "2026-07-27"
+          ],
+          [
+            3651803866,
+            5,
+            "\u6046\u660c\u8089\u67b1",
+            "STALL NO. M31, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-11-24"
+          ],
+          [
+            3651803875,
+            5,
+            "\u5ee3\u6771\u8c6c\u8089",
+            "STALL NO. M30, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-11-24"
+          ],
+          [
+            3651803884,
+            5,
+            "\u9999\u6e2f\u5730\u98df\u54c1",
+            "STALL NO. M81-82, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-11-29"
+          ],
+          [
+            3651803909,
+            5,
+            "\u5929\u5bf6\u4ed4",
+            "STALL NO. M39, 40 & 41, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-12-22"
+          ],
+          [
+            3651803936,
+            5,
+            "\u9806\u666f\u9b5a\u6a94",
+            "STALL NO. M38 & 43, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-02"
+          ],
+          [
+            3651803945,
+            5,
+            "\u5065\u5eb7\u8fb2\u5834",
+            "STALL NO. M18, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-08"
+          ],
+          [
+            3651803954,
+            5,
+            "\u9818\u9bae",
+            "STALL NO. M28, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-08"
+          ],
+          [
+            3651803963,
+            5,
+            "\u69ae\u76db\u512a\u9bae\u8c6c",
+            "STALL NO. M20, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-08"
+          ],
+          [
+            3651803972,
+            5,
+            "\u69ae\u76db\u9bae\u8089",
+            "STALL NO. M29, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-08"
+          ],
+          [
+            3651803981,
+            5,
+            "\u6f01\u5e02",
+            "STALL NO. M37, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-11"
+          ],
+          [
+            3651803990,
+            5,
+            "\u74b0\u7403\u6d77\u7522",
+            "STALL NO. M44-45, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-11"
+          ],
+          [
+            3651804018,
+            5,
+            "\u5bcc\u57fa\u51cd\u8089",
+            "STALL NO. M73-74, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-18"
+          ],
+          [
+            3651804027,
+            5,
+            "\u5fd7\u8a18\u725b\u8089",
+            "STALL NO. M32, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-19"
+          ],
+          [
+            4651803731,
+            5,
+            "(NO RECORD FOUND)",
+            "STALL NO. M42, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-04-09"
+          ],
+          [
+            4651803865,
+            5,
+            "(NO RECORD FOUND)",
+            "STALL NO. M33, G/F, MARKET, TAK TIN PLAZA, TAK TIN ESTATE, 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2026-07-27"
+          ],
+          [
+            3251800270,
+            6,
+            "7-ELEVEN FOOD STORE",
+            "PORTION A OF SHOP NO. G1B, G/F., TAK TIN PLAZA, 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-03-28"
+          ],
+          [
+            3551800778,
+            8,
+            "\u69ae\u5fe0\u71d2\u81d8",
+            "STALL NO. M83, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-15"
+          ],
+          [
+            3551800796,
+            8,
+            "\u5275\u69ae\u71d2\u81d8",
+            "STALL NO. M71 (PORTION B), G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
+            null,
+            "2027-01-25"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1300234344
+        ]
+      ],
+      "coordinate": [
+        1.993835620945856,
+        0.38938690882420723,
+        127.0
+      ],
+      "halfSize": [
+        20.595704999752343,
+        36.40715999994427,
+        29.39999771118164
+      ]
+    },
+    {
+      "attributes": [
+        1300234254,
+        44,
+        [
+          [
+            2551800982,
+            3,
+            "\u5c71\u7530\u6d77",
+            "FLAT U, 3/F, BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-06"
           ],
           [
             2951806142,
@@ -1113,6 +1376,14 @@
             "2026-03-09"
           ],
           [
+            2951806939,
+            4,
+            "No Record",
+            "WORKSHOP I, 1/F, BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-06"
+          ],
+          [
             2951809062,
             4,
             "Gingko House Bakery",
@@ -1121,12 +1392,36 @@
             "2027-02-12"
           ],
           [
+            2951809372,
+            4,
+            "Oda Ramen",
+            "(MINOR PORTION) OF UNIT J, 1/F., BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-05-02"
+          ],
+          [
+            2951809868,
+            4,
+            "\u6162\u716e",
+            "WORKSHOP NO. U01, 4/F, BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-09-20"
+          ],
+          [
             2951810288,
             4,
             "\u5477\u516b\u5473",
             "FLAT G, 3/F, BLOCK III, CAMELPAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
             null,
             "2027-01-29"
+          ],
+          [
+            2951810330,
+            4,
+            "THE FAT OYSTER",
+            "UNIT N, 4/F, BLOCK 3, CAMELPAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-03-04"
           ],
           [
             2951810783,
@@ -1169,6 +1464,22 @@
             "2027-03-22"
           ],
           [
+            2951811847,
+            4,
+            "CALL ME CHEF",
+            "UNIT T, 4/F, BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-28"
+          ],
+          [
+            2951812150,
+            4,
+            "\u4e8c\u6487\u96de",
+            "FLAT O, 4/F., BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-23"
+          ],
+          [
             2951812460,
             4,
             "(NO RECORD FOUND)",
@@ -1199,6 +1510,14 @@
             "FLAT G, 6/F., BLOCK III, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
             null,
             "2026-02-22"
+          ],
+          [
+            2951812831,
+            4,
+            "BREEZE FOOD (HONG KONG)",
+            "FLAT F, 1/F, BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-25"
           ],
           [
             2951813038,
@@ -1233,6 +1552,14 @@
             "2026-10-27"
           ],
           [
+            2951814378,
+            4,
+            "This This Ramen",
+            "FLAT A2, 3/F, BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-16"
+          ],
+          [
             2951815405,
             4,
             "FOOD LANE",
@@ -1257,12 +1584,28 @@
             "2026-09-22"
           ],
           [
-            2951816550,
+            2951815919,
             4,
-            "Salt Farm",
-            "PORTION A OF ROOM B, 10/F, BLOCK 2, CAMELPAINT BUILDING, NO. 62 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            "\u9189\u9999\u5c0f\u98df\u96de\u86cb\u4ed4\u5927\u5751\u8eca\u4ed4\u9eb5",
+            "SHOP NO. 1A1, G/F, BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
             null,
-            "2026-03-26"
+            "2026-11-08"
+          ],
+          [
+            2951815982,
+            4,
+            "\u61f7\u820a\u725b\u96dc",
+            "UNIT 1A2, G/F., BLOCK 3, CAMEL PAINT BUILDING, NO. 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-12-05"
+          ],
+          [
+            2951816347,
+            4,
+            "\u91d1\u5510\u723a\u723a - \u6f6e\u6c55\u7c89\u9eb5\u9928/\u7279\u7522\u5c02\u9580\u5e97",
+            "FLAT G, 1/F, BLOCK 3, CAMELPAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-02-15"
           ],
           [
             2951816815,
@@ -1281,6 +1624,38 @@
             "2026-05-21"
           ],
           [
+            2951817012,
+            4,
+            "\u963f\u674f\u98ef\u5718(\u89c0\u5858\u5e97\uff09",
+            "UNIT 1A4, G/F., BLOCK 3, CAMEL PAINT BUILDING, NO. 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-06-05"
+          ],
+          [
+            2951817191,
+            4,
+            "\u591c\u6afb\u7f8e\u98df",
+            "PORTION A OF UNIT B3, G/F, BLOCK 3, CAMELPAINT BUILDINGS, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-03"
+          ],
+          [
+            2951817298,
+            4,
+            "\u5927\u6f01\u8c4a\u4f5c",
+            "PORTION OF UNIT T, 2/F, BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-08-29"
+          ],
+          [
+            2951817508,
+            4,
+            "\u820c\u4e3c",
+            "FLAT R, 1/F., BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-28"
+          ],
+          [
             2951817517,
             4,
             "Day One Cafe",
@@ -1289,12 +1664,28 @@
             "2026-12-03"
           ],
           [
+            2951817784,
+            4,
+            "FREE D COFFEE",
+            "UNIT 1A3, G/F., BLOCK 3, CAMEL PAINT BUILDING, NO. 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-04-16"
+          ],
+          [
             2951817906,
             4,
             "\u8d64\u5c4b\u4e2d\u83ef\u65e5\u5f0f\u6599\u7406\u623f",
             "FLAT F, 3/F, BLOCK III, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
             null,
             "2026-05-19"
+          ],
+          [
+            2951818431,
+            4,
+            "CASABAKE",
+            "FLAT A1, 4/F., BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-11-05"
           ],
           [
             2951818626,
@@ -1340,7 +1731,7 @@
     },
     {
       "attributes": [
-        1300234254,
+        1300234255,
         1,
         [
           [
@@ -1371,7 +1762,7 @@
     },
     {
       "attributes": [
-        1300234255,
+        1300234256,
         22,
         [
           [
@@ -1570,7 +1961,7 @@
     },
     {
       "attributes": [
-        1300234256,
+        1300234257,
         12,
         [
           [
@@ -1689,7 +2080,7 @@
     },
     {
       "attributes": [
-        1300234257,
+        1300234258,
         1,
         [
           [
@@ -1720,7 +2111,7 @@
     },
     {
       "attributes": [
-        1300234258,
+        1300234259,
         1,
         [
           [
@@ -1751,7 +2142,7 @@
     },
     {
       "attributes": [
-        1300234259,
+        1300234260,
         6,
         [
           [
@@ -1822,7 +2213,7 @@
     },
     {
       "attributes": [
-        1300234260,
+        1300234261,
         11,
         [
           [
@@ -1933,7 +2324,7 @@
     },
     {
       "attributes": [
-        1300234261,
+        1300234262,
         2,
         [
           [
@@ -1972,7 +2363,7 @@
     },
     {
       "attributes": [
-        1300234262,
+        1300234263,
         11,
         [
           [
@@ -2083,7 +2474,7 @@
     },
     {
       "attributes": [
-        1300234263,
+        1300234264,
         13,
         [
           [
@@ -2210,7 +2601,7 @@
     },
     {
       "attributes": [
-        1300234264,
+        1300234265,
         1,
         [
           [
@@ -2241,7 +2632,7 @@
     },
     {
       "attributes": [
-        1300234265,
+        1300234266,
         6,
         [
           [
@@ -2312,7 +2703,7 @@
     },
     {
       "attributes": [
-        1300234266,
+        1300234267,
         3,
         [
           [
@@ -2359,7 +2750,7 @@
     },
     {
       "attributes": [
-        1300234267,
+        1300234268,
         7,
         [
           [
@@ -2438,7 +2829,7 @@
     },
     {
       "attributes": [
-        1300234268,
+        1300234269,
         3,
         [
           [
@@ -2485,7 +2876,7 @@
     },
     {
       "attributes": [
-        1300234269,
+        1300234270,
         1,
         [
           [
@@ -2516,7 +2907,7 @@
     },
     {
       "attributes": [
-        1300234270,
+        1300234271,
         1,
         [
           [
@@ -2547,7 +2938,7 @@
     },
     {
       "attributes": [
-        1300234271,
+        1300234272,
         11,
         [
           [
@@ -2658,7 +3049,7 @@
     },
     {
       "attributes": [
-        1300234272,
+        1300234273,
         1,
         [
           [
@@ -2689,7 +3080,7 @@
     },
     {
       "attributes": [
-        1300234273,
+        1300234274,
         5,
         [
           [
@@ -2752,7 +3143,7 @@
     },
     {
       "attributes": [
-        1300234274,
+        1300234275,
         2,
         [
           [
@@ -2791,7 +3182,7 @@
     },
     {
       "attributes": [
-        1300234275,
+        1300234276,
         3,
         [
           [
@@ -2838,7 +3229,7 @@
     },
     {
       "attributes": [
-        1300234276,
+        1300234277,
         1,
         [
           [
@@ -2869,7 +3260,7 @@
     },
     {
       "attributes": [
-        1300234277,
+        1300234278,
         1,
         [
           [
@@ -2900,7 +3291,7 @@
     },
     {
       "attributes": [
-        1300234278,
+        1300234279,
         7,
         [
           [
@@ -2979,7 +3370,7 @@
     },
     {
       "attributes": [
-        1300234279,
+        1300234280,
         1,
         [
           [
@@ -3010,7 +3401,7 @@
     },
     {
       "attributes": [
-        1300234280,
+        1300234281,
         2,
         [
           [
@@ -3049,7 +3440,7 @@
     },
     {
       "attributes": [
-        1300234281,
+        1300234282,
         12,
         [
           [
@@ -3168,7 +3559,7 @@
     },
     {
       "attributes": [
-        1300234282,
+        1300234283,
         2,
         [
           [
@@ -3207,7 +3598,7 @@
     },
     {
       "attributes": [
-        1300234283,
+        1300234284,
         18,
         [
           [
@@ -3374,17 +3765,9 @@
     },
     {
       "attributes": [
-        1300234284,
-        25,
+        1300234285,
+        7,
         [
-          [
-            2551800982,
-            3,
-            "\u5c71\u7530\u6d77",
-            "FLAT U, 3/F, BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-12-06"
-          ],
           [
             2551801116,
             3,
@@ -3402,38 +3785,6 @@
             "2026-03-11"
           ],
           [
-            2951806939,
-            4,
-            "No Record",
-            "WORKSHOP I, 1/F, BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-12-06"
-          ],
-          [
-            2951809372,
-            4,
-            "Oda Ramen",
-            "(MINOR PORTION) OF UNIT J, 1/F., BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-05-02"
-          ],
-          [
-            2951809868,
-            4,
-            "\u6162\u716e",
-            "WORKSHOP NO. U01, 4/F, BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-09-20"
-          ],
-          [
-            2951810330,
-            4,
-            "THE FAT OYSTER",
-            "UNIT N, 4/F, BLOCK 3, CAMELPAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2027-03-04"
-          ],
-          [
             2951810710,
             4,
             "\u842c\u6ce2",
@@ -3448,110 +3799,6 @@
             "FACTORY A2(G), GROUND FLOOR, BLOCK 1, CAMEL PAINT BUILDING, NO. 62 HOI YUEN ROAD, KWUN TONG, KOWLOON",
             null,
             "2026-06-11"
-          ],
-          [
-            2951811847,
-            4,
-            "CALL ME CHEF",
-            "UNIT T, 4/F, BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-04-28"
-          ],
-          [
-            2951812150,
-            4,
-            "\u4e8c\u6487\u96de",
-            "FLAT O, 4/F., BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-08-23"
-          ],
-          [
-            2951812831,
-            4,
-            "BREEZE FOOD (HONG KONG)",
-            "FLAT F, 1/F, BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2027-02-25"
-          ],
-          [
-            2951814378,
-            4,
-            "This This Ramen",
-            "FLAT A2, 3/F, BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2027-01-16"
-          ],
-          [
-            2951815919,
-            4,
-            "\u9189\u9999\u5c0f\u98df\u96de\u86cb\u4ed4\u5927\u5751\u8eca\u4ed4\u9eb5",
-            "SHOP NO. 1A1, G/F, BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-11-08"
-          ],
-          [
-            2951815982,
-            4,
-            "\u61f7\u820a\u725b\u96dc",
-            "UNIT 1A2, G/F., BLOCK 3, CAMEL PAINT BUILDING, NO. 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-12-05"
-          ],
-          [
-            2951816347,
-            4,
-            "\u91d1\u5510\u723a\u723a - \u6f6e\u6c55\u7c89\u9eb5\u9928/\u7279\u7522\u5c02\u9580\u5e97",
-            "FLAT G, 1/F, BLOCK 3, CAMELPAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2027-02-15"
-          ],
-          [
-            2951817012,
-            4,
-            "\u963f\u674f\u98ef\u5718(\u89c0\u5858\u5e97\uff09",
-            "UNIT 1A4, G/F., BLOCK 3, CAMEL PAINT BUILDING, NO. 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-06-05"
-          ],
-          [
-            2951817191,
-            4,
-            "\u591c\u6afb\u7f8e\u98df",
-            "PORTION A OF UNIT B3, G/F, BLOCK 3, CAMELPAINT BUILDINGS, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-08-03"
-          ],
-          [
-            2951817298,
-            4,
-            "\u5927\u6f01\u8c4a\u4f5c",
-            "PORTION OF UNIT T, 2/F, BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-08-29"
-          ],
-          [
-            2951817508,
-            4,
-            "\u820c\u4e3c",
-            "FLAT R, 1/F., BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-11-28"
-          ],
-          [
-            2951817784,
-            4,
-            "FREE D COFFEE",
-            "UNIT 1A3, G/F., BLOCK 3, CAMEL PAINT BUILDING, NO. 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-04-16"
-          ],
-          [
-            2951818431,
-            4,
-            "CASABAKE",
-            "FLAT A1, 4/F., BLOCK 3, CAMEL PAINT BUILDING, 60 HOI YUEN ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-11-05"
           ],
           [
             2963810382,
@@ -3597,7 +3844,7 @@
     },
     {
       "attributes": [
-        1300234285,
+        1300234286,
         31,
         [
           [
@@ -3868,7 +4115,7 @@
     },
     {
       "attributes": [
-        1300234286,
+        1300234287,
         3,
         [
           [
@@ -3915,7 +4162,7 @@
     },
     {
       "attributes": [
-        1300234287,
+        1300234288,
         1,
         [
           [
@@ -3946,7 +4193,7 @@
     },
     {
       "attributes": [
-        1300234288,
+        1300234289,
         1,
         [
           [
@@ -3977,7 +4224,7 @@
     },
     {
       "attributes": [
-        1300234289,
+        1300234290,
         40,
         [
           [
@@ -4320,7 +4567,7 @@
     },
     {
       "attributes": [
-        1300234290,
+        1300234291,
         29,
         [
           [
@@ -4571,253 +4818,6 @@
         176.80450000008568,
         167.55900000035763,
         11.40000057220459
-      ]
-    },
-    {
-      "attributes": [
-        1300234291,
-        28,
-        [
-          [
-            2951816037,
-            4,
-            "\u8178\u7c89\u738b",
-            "STALL NO. M63, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2026-12-22"
-          ],
-          [
-            2951816046,
-            4,
-            "\u9ebb\u8c46\u5e97\u5c0f\u4e8c",
-            "STALL NO. M64, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2026-12-22"
-          ],
-          [
-            2951816073,
-            4,
-            "\u4e09\u591a\u00ae",
-            "STALL NO. M66, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2026-12-29"
-          ],
-          [
-            2951816091,
-            4,
-            "\u660e\u8208\u7f8e\u98df",
-            "STALL NO. M77 & 78, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-01-02"
-          ],
-          [
-            2951816116,
-            4,
-            "\u7de3\u574a\u5c0f\u68e7",
-            "STALL NO. M60, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-01-04"
-          ],
-          [
-            2951816125,
-            4,
-            "\u624b\u4f5c\u529f\u592b\u8336",
-            "STALL NO. M59, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-01-04"
-          ],
-          [
-            2951816152,
-            4,
-            "\u65b0\u8208\u8eca\u4ed4\u9eb5",
-            "STALL NO. M69, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-01-08"
-          ],
-          [
-            2951816170,
-            4,
-            "\u5305\u9ede\u6599\u7406",
-            "STALL NO. M91, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-01-10"
-          ],
-          [
-            2951816240,
-            4,
-            "\u5275\u69ae\u71d2\u81d8",
-            "STALL NO. M71 (PORTION A), G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-01-25"
-          ],
-          [
-            2951816277,
-            4,
-            "\u7cd6\u829d\u8c46",
-            "STALL NO. M62, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-02-05"
-          ],
-          [
-            4951821439,
-            4,
-            "(NO RECORD FOUND)",
-            "STALL NO. M68 IN THE MARKET PLACE, GROUND FLOOR, COMMERCIAL BLOCK (ALSO KNOWN AS TAK TIN PLAZA), TAK TIN ESTATE, 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2026-03-18"
-          ],
-          [
-            3651803811,
-            5,
-            "\u555f\u7965",
-            "STALL NO. M72 IN THE MARKET PLACE, GROUND FLOOR, COMMERCIAL BLOCK, TAK TIN ESTATE, 223 PIK WAN ROAD, KOWLOON",
-            null,
-            "2026-07-27"
-          ],
-          [
-            3651803866,
-            5,
-            "\u6046\u660c\u8089\u67b1",
-            "STALL NO. M31, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2026-11-24"
-          ],
-          [
-            3651803875,
-            5,
-            "\u5ee3\u6771\u8c6c\u8089",
-            "STALL NO. M30, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2026-11-24"
-          ],
-          [
-            3651803884,
-            5,
-            "\u9999\u6e2f\u5730\u98df\u54c1",
-            "STALL NO. M81-82, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2026-11-29"
-          ],
-          [
-            3651803909,
-            5,
-            "\u5929\u5bf6\u4ed4",
-            "STALL NO. M39, 40 & 41, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2026-12-22"
-          ],
-          [
-            3651803936,
-            5,
-            "\u9806\u666f\u9b5a\u6a94",
-            "STALL NO. M38 & 43, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-01-02"
-          ],
-          [
-            3651803945,
-            5,
-            "\u5065\u5eb7\u8fb2\u5834",
-            "STALL NO. M18, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-01-08"
-          ],
-          [
-            3651803954,
-            5,
-            "\u9818\u9bae",
-            "STALL NO. M28, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-01-08"
-          ],
-          [
-            3651803963,
-            5,
-            "\u69ae\u76db\u512a\u9bae\u8c6c",
-            "STALL NO. M20, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-01-08"
-          ],
-          [
-            3651803972,
-            5,
-            "\u69ae\u76db\u9bae\u8089",
-            "STALL NO. M29, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-01-08"
-          ],
-          [
-            3651803981,
-            5,
-            "\u6f01\u5e02",
-            "STALL NO. M37, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-01-11"
-          ],
-          [
-            3651803990,
-            5,
-            "\u74b0\u7403\u6d77\u7522",
-            "STALL NO. M44-45, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-01-11"
-          ],
-          [
-            3651804018,
-            5,
-            "\u5bcc\u57fa\u51cd\u8089",
-            "STALL NO. M73-74, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-01-18"
-          ],
-          [
-            3651804027,
-            5,
-            "\u5fd7\u8a18\u725b\u8089",
-            "STALL NO. M32, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-01-19"
-          ],
-          [
-            4651803731,
-            5,
-            "(NO RECORD FOUND)",
-            "STALL NO. M42, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2026-04-09"
-          ],
-          [
-            3551800778,
-            8,
-            "\u69ae\u5fe0\u71d2\u81d8",
-            "STALL NO. M83, G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-01-15"
-          ],
-          [
-            3551800796,
-            8,
-            "\u5275\u69ae\u71d2\u81d8",
-            "STALL NO. M71 (PORTION B), G/F, IN THE MARKET PLACE OF COMMERCIAL BLOCK, TAK TIN ESTATE, NO. 223 PIK WAN ROAD, LAM TIN, KOWLOON",
-            null,
-            "2027-01-25"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1300234949
-        ]
-      ],
-      "coordinate": [
-        1.9938459302760183,
-        0.3893506414730312,
-        115.30000305175781
-      ],
-      "halfSize": [
-        34.70849999971688,
-        37.44799999985844,
-        5.0
       ]
     },
     {

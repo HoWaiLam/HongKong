@@ -3,7 +3,7 @@
     {
       "attributes": [
         587202560,
-        12,
+        13,
         [
           [
             2294001257,
@@ -100,6 +100,14 @@
             "SHOP 115A & B, 1/F, TIN CHAK SHOPPING CENTRE, TIN CHAK ESTATE, 71, 73, 75 & 77 TIN SHUI ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
             null,
             "2026-08-15"
+          ],
+          [
+            3194803217,
+            1,
+            "\u5927\u56cd\u725b\u96dc\u7c89\u9eb5",
+            "SHOP NO. 13, G/F, COMMERCIAL BLOCK (ALSO KNOWN AS TIN CHAK SHOPPING CENTRE), TIN CHAK ESTATE, 71, 73, 75 AND 77 TIN SHUI ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-11-24"
           ]
         ]
       ],
@@ -161,8 +169,16 @@
     {
       "attributes": [
         587202562,
-        10,
+        11,
         [
+          [
+            2294807567,
+            0,
+            "Aroi Thai",
+            "SHOP NO. N211, T TOWN NORTH, TIN YUET ESTATE, 33 AND 39 TIN WAH ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
+            null,
+            "2026-07-02"
+          ],
           [
             2294807576,
             0,
@@ -476,68 +492,6 @@
     {
       "attributes": [
         587202567,
-        1,
-        [
-          [
-            2294807567,
-            0,
-            "Aroi Thai",
-            "SHOP NO. N211, T TOWN NORTH, TIN YUET ESTATE, 33 AND 39 TIN WAH ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
-            null,
-            "2026-07-02"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          587203303
-        ]
-      ],
-      "coordinate": [
-        1.9896880356312576,
-        0.3920413812221738,
-        9.100000381469727
-      ],
-      "halfSize": [
-        44.03199000004679,
-        20.16821500007063,
-        2.299999713897705
-      ]
-    },
-    {
-      "attributes": [
-        587202568,
-        1,
-        [
-          [
-            3194803217,
-            1,
-            "\u5927\u56cd\u725b\u96dc\u7c89\u9eb5",
-            "SHOP NO. 13, G/F, COMMERCIAL BLOCK (ALSO KNOWN AS TIN CHAK SHOPPING CENTRE), TIN CHAK ESTATE, 71, 73, 75 AND 77 TIN SHUI ROAD, TIN SHUI WAI, YUEN LONG, NEW TERRITORIES",
-            null,
-            "2026-11-24"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          587203441
-        ]
-      ],
-      "coordinate": [
-        1.9896427702060089,
-        0.3921567635474046,
-        8.200000762939453
-      ],
-      "halfSize": [
-        25.11498499987647,
-        26.293905000202358,
-        1.9000000953674316
-      ]
-    },
-    {
-      "attributes": [
-        587202569,
         6,
         [
           [
@@ -608,7 +562,7 @@
     },
     {
       "attributes": [
-        587202570,
+        587202568,
         18,
         [
           [
@@ -775,7 +729,7 @@
     },
     {
       "attributes": [
-        587202571,
+        587202569,
         7,
         [
           [
@@ -854,7 +808,7 @@
     },
     {
       "attributes": [
-        587202572,
+        587202570,
         6,
         [
           [
@@ -925,7 +879,7 @@
     },
     {
       "attributes": [
-        587202573,
+        587202571,
         2,
         [
           [

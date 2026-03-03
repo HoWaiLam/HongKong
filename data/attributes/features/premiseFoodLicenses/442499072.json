@@ -242,7 +242,7 @@
     {
       "attributes": [
         442499073,
-        3,
+        2,
         [
           [
             2993800876,
@@ -251,14 +251,6 @@
             "PORTION B OF SHOP NOS. 8-9, G/F, COMMERCIAL CENTRE, SHAN KING ESTATE, TUEN MUN, NEW TERRITORIES",
             null,
             "2026-06-09"
-          ],
-          [
-            2993808931,
-            4,
-            "Fresh Fresh Bakery",
-            "SHOP 208, G/F SHAN KING ESTATE COMMERCIAL CENTRE, SHAN KING ESTATE, NO. 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2026-03-28"
           ],
           [
             3293000034,
@@ -289,7 +281,7 @@
     {
       "attributes": [
         442499074,
-        14,
+        29,
         [
           [
             2193000098,
@@ -364,69 +356,6 @@
             "2026-05-01"
           ],
           [
-            2993809606,
-            4,
-            "Sushi Take Out",
-            "SHOP NO. 125C, LG/F, SHAN KING SHOPPING CENTRE, SHAN KING ESTATE, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2026-09-20"
-          ],
-          [
-            3693002210,
-            5,
-            "\u5bec\u8a18\u6d77\u7522",
-            "SHOP S-1 (PORTION), COMMERCIAL COMPLEX, SAM SHING ESTATE, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2026-09-12"
-          ],
-          [
-            3693801990,
-            5,
-            "\u7f8e\u800c\u5ec9\u51cd\u8089\u516c\u53f8",
-            "SHOP NO.16, G/F , COMMERCIAL COMPLEX, PRIME VIEW GARDEN, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2027-01-22"
-          ],
-          [
-            3693803172,
-            5,
-            "Wellcome",
-            "STALL NO. T-SK73 (PORTION A & PORTIONS), G/F, SHAN KING SHOPPING CENTRE, SHAN KING ESTATE, NO. 1 MING KUM RD, TUEN MUN, NEW TERRITORIES",
-            null,
-            "2026-11-18"
-          ],
-          [
-            3696000631,
-            5,
-            "Wellcome",
-            "PORTION OF SHOP NOS 25-29, G/F COMMERCIAL COMPLEX, TSUI LAI GARDEN, SHEUNG SHUI, NEW TERRITORIES",
-            null,
-            "2027-03-31"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          442499128
-        ]
-      ],
-      "coordinate": [
-        1.9890851210354792,
-        0.39089320469393596,
-        21.549999237060547
-      ],
-      "halfSize": [
-        60.12792500015348,
-        37.60300000011921,
-        6.15000057220459
-      ]
-    },
-    {
-      "attributes": [
-        442499075,
-        14,
-        [
-          [
             2993808241,
             4,
             "\u83ef\u82b3\u5ddd",
@@ -491,12 +420,44 @@
             "2026-11-16"
           ],
           [
+            2993808931,
+            4,
+            "Fresh Fresh Bakery",
+            "SHOP 208, G/F SHAN KING ESTATE COMMERCIAL CENTRE, SHAN KING ESTATE, NO. 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-03-28"
+          ],
+          [
+            2993809606,
+            4,
+            "Sushi Take Out",
+            "SHOP NO. 125C, LG/F, SHAN KING SHOPPING CENTRE, SHAN KING ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-20"
+          ],
+          [
             4993812330,
             4,
             "10\u868a\u7cd6\u6c34\u8216",
             "STALL T-SK229, G/F, IN THE MARKET PLACE OF CAR PARK/ COMMERCIAL COMPLEX (ALSO KNOWN AS SHAN KING SHOPPING CENTRE), SHAN KING ESTATE, 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
             null,
             "2026-07-25"
+          ],
+          [
+            3693002210,
+            5,
+            "\u5bec\u8a18\u6d77\u7522",
+            "SHOP S-1 (PORTION), COMMERCIAL COMPLEX, SAM SHING ESTATE, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-09-12"
+          ],
+          [
+            3693801990,
+            5,
+            "\u7f8e\u800c\u5ec9\u51cd\u8089\u516c\u53f8",
+            "SHOP NO.16, G/F , COMMERCIAL COMPLEX, PRIME VIEW GARDEN, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2027-01-22"
           ],
           [
             3693803011,
@@ -513,6 +474,22 @@
             "STALL T-SK 27, G/F, SHAN KING MARKET, 1 MING KUM ROAD, TUEN MUN, NEW TERRITORIES",
             null,
             "2026-09-08"
+          ],
+          [
+            3693803172,
+            5,
+            "Wellcome",
+            "STALL NO. T-SK73 (PORTION A & PORTIONS), G/F, SHAN KING SHOPPING CENTRE, SHAN KING ESTATE, NO. 1 MING KUM RD, TUEN MUN, NEW TERRITORIES",
+            null,
+            "2026-11-18"
+          ],
+          [
+            3696000631,
+            5,
+            "Wellcome",
+            "PORTION OF SHOP NOS 25-29, G/F COMMERCIAL COMPLEX, TSUI LAI GARDEN, SHEUNG SHUI, NEW TERRITORIES",
+            null,
+            "2027-03-31"
           ],
           [
             4693803764,
@@ -542,18 +519,18 @@
       ],
       "links": [
         [
-          442499397
+          442499128
         ]
       ],
       "coordinate": [
-        1.9890925133953845,
-        0.39089504472611813,
-        14.800000190734863
+        1.9890851210354792,
+        0.39089320469393596,
+        21.549999237060547
       ],
       "halfSize": [
-        27.991834999993443,
-        29.409164999611676,
-        4.699999809265137
+        60.12792500015348,
+        37.60300000011921,
+        6.15000057220459
       ]
     }
   ]

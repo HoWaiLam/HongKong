@@ -42,7 +42,7 @@
     {
       "attributes": [
         1302331393,
-        26,
+        24,
         [
           [
             2951270457,
@@ -93,28 +93,12 @@
             "2027-03-14"
           ],
           [
-            2951814633,
-            4,
-            "A-1 Bakery",
-            "SHOP NO. 104, 1/F, SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2026-02-27"
-          ],
-          [
             2951818228,
             4,
             "58 \u7f8e\u98df",
             "MARKET STALL NO. 51, G/F, SAU MAU PING SHOPPING CENTRE, SAU MAU PING ESTATE, KWUN TONG, KOWLOON",
             null,
             "2026-09-16"
-          ],
-          [
-            2951818750,
-            4,
-            "Hung Fook Tong",
-            "UNIT NO, 101A, 1/F, SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, KWUN TONG, KOWLOON",
-            null,
-            "2027-03-12"
           ],
           [
             2951819221,
@@ -1903,16 +1887,8 @@
     {
       "attributes": [
         1302331420,
-        8,
+        6,
         [
-          [
-            2951806601,
-            4,
-            "\u539a\u8208\u745c\u8a18",
-            "SHOP 31, G/F, SAU MAU PING MARKET, SAU MAU PING ESTATE, 101 SAU MING ROAD, SAU MAU PING, KOWLOON",
-            null,
-            "2026-07-02"
-          ],
           [
             2951811148,
             4,
@@ -1920,14 +1896,6 @@
             "SHOP NO. 18A, G/F, COMMERCIAL/CAR PARK BLOCK (ALSO KNOWN AS SAU MAU PING SHOPPING CENTRE), SAU MAU PING ESTATE, SAU MING ROAD, SAU MAU PING, KOWLOON",
             null,
             "2026-10-09"
-          ],
-          [
-            2951818705,
-            4,
-            "SHARETEA",
-            "NO. 302, 3/F, SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, SAU MAU PING, KWUN TONG, KOWLOON",
-            null,
-            "2027-01-16"
           ],
           [
             3651267541,
@@ -2471,6 +2439,84 @@
         1,
         [
           [
+            2951818705,
+            4,
+            "SHARETEA",
+            "NO. 302, 3/F, SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, SAU MAU PING, KWUN TONG, KOWLOON",
+            null,
+            "2027-01-16"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1302332228
+        ]
+      ],
+      "coordinate": [
+        1.9937175985110072,
+        0.38952478354770215,
+        122.69999694824219
+      ],
+      "halfSize": [
+        20.982600000221282,
+        28.491224999539554,
+        27.299999237060547
+      ]
+    },
+    {
+      "attributes": [
+        1302331432,
+        3,
+        [
+          [
+            2951806601,
+            4,
+            "\u539a\u8208\u745c\u8a18",
+            "SHOP 31, G/F, SAU MAU PING MARKET, SAU MAU PING ESTATE, 101 SAU MING ROAD, SAU MAU PING, KOWLOON",
+            null,
+            "2026-07-02"
+          ],
+          [
+            2951814633,
+            4,
+            "A-1 Bakery",
+            "SHOP NO. 104, 1/F, SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2026-02-27"
+          ],
+          [
+            2951818750,
+            4,
+            "Hung Fook Tong",
+            "UNIT NO, 101A, 1/F, SAU MAU PING SHOPPING CENTRE, 101 SAU MING ROAD, KWUN TONG, KOWLOON",
+            null,
+            "2027-03-12"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1302332229
+        ]
+      ],
+      "coordinate": [
+        1.9937173320965798,
+        0.3895245315470546,
+        92.75
+      ],
+      "halfSize": [
+        26.56772999977693,
+        36.77726500015706,
+        2.6500015258789062
+      ]
+    },
+    {
+      "attributes": [
+        1302331433,
+        1,
+        [
+          [
             2951813560,
             4,
             "St. James' Settlement",
@@ -2498,7 +2544,7 @@
     },
     {
       "attributes": [
-        1302331432,
+        1302331434,
         11,
         [
           [
@@ -2609,7 +2655,7 @@
     },
     {
       "attributes": [
-        1302331433,
+        1302331435,
         3,
         [
           [

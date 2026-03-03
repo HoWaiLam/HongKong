@@ -344,16 +344,8 @@
     {
       "attributes": [
         769654795,
-        2,
+        1,
         [
-          [
-            2292802090,
-            0,
-            "\u8c50\u76db\u95a3",
-            "LG/F (PORTION A), & OUTSIDE SEATING ACCOMMODATION, NOAH'S ARK RESORT, MA WAN PARK, PAK YAN ROAD, MA WAN, TSUEN WAN, NEW TERRITORIES",
-            null,
-            "2026-08-10"
-          ],
           [
             3192801448,
             1,
@@ -378,6 +370,37 @@
         57.67956500034779,
         52.38869499973953,
         10.350000381469727
+      ]
+    },
+    {
+      "attributes": [
+        769654796,
+        1,
+        [
+          [
+            2292802090,
+            0,
+            "\u8c50\u76db\u95a3",
+            "LG/F (PORTION A), & OUTSIDE SEATING ACCOMMODATION, NOAH'S ARK RESORT, MA WAN PARK, PAK YAN ROAD, MA WAN, TSUEN WAN, NEW TERRITORIES",
+            null,
+            "2026-08-10"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          769655216
+        ]
+      ],
+      "coordinate": [
+        1.9907016521909529,
+        0.39003317918696856,
+        22.149999618530273
+      ],
+      "halfSize": [
+        21.869140000082552,
+        20.290595000609756,
+        6.25
       ]
     }
   ]

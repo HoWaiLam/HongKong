@@ -1021,8 +1021,24 @@
     {
       "attributes": [
         1319108622,
-        4,
+        5,
         [
+          [
+            2197800070,
+            1,
+            "Bread City",
+            "SHOP G15 & G16, G/F, SADDLE RIDGE COMMERCIAL COMPLEX, SADDLE RIDGE GARDEN, 6 KAM YING ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-12"
+          ],
+          [
+            2997002221,
+            4,
+            "\u597d\u4f73\u574a\u6709\u9650\u516c\u53f8",
+            "SHOP G25 & G26, G/F, SADDLE RIDGE GARDEN, 6 KAM YING ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-12-17"
+          ],
           [
             2997803633,
             4,
@@ -1032,13 +1048,44 @@
             "2026-07-18"
           ],
           [
+            2997804991,
+            4,
+            "\u8c50\u5473\u5802",
+            "SHOP G19, G/F, THE COMMERCIAL CENTRE, SADDLE RIDGE GARDEN, 6 KAM YING ROAD, SHA TIN, NEW TERRITORIES",
+            null,
+            "2026-07-02"
+          ],
+          [
             4997815799,
             4,
             "\u6ef7\u9ede\u8eca\u4ed4\u9eb5",
             "SHOP G5, G/F, SADDLE RIDGE GARDEN COMMERCIAL CENTRE, 6 KAM YING ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
             null,
             "2026-05-25"
-          ],
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1319109051
+        ]
+      ],
+      "coordinate": [
+        1.9938328877431994,
+        0.3913909037323662,
+        29.700000762939453
+      ],
+      "halfSize": [
+        24.329470000229776,
+        8.19651500042528,
+        3.8000001907348633
+      ]
+    },
+    {
+      "attributes": [
+        1319108623,
+        2,
+        [
           [
             3697001710,
             5,
@@ -1075,17 +1122,9 @@
     },
     {
       "attributes": [
-        1319108623,
-        4,
+        1319108624,
+        1,
         [
-          [
-            2197800070,
-            1,
-            "Bread City",
-            "SHOP G15 & G16, G/F, SADDLE RIDGE COMMERCIAL COMPLEX, SADDLE RIDGE GARDEN, 6 KAM YING ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
-            null,
-            "2026-12-12"
-          ],
           [
             2997001097,
             4,
@@ -1093,22 +1132,6 @@
             "SHOP NO G6, G/F, WET MARKET, SADDLE RIDGE GARDEN COMM CENTRE, STTL 352, SADDLE RIDGE GARDEN, MA ON SHAN, SHA TIN, NEW TERRITORIES",
             null,
             "2026-08-14"
-          ],
-          [
-            2997002221,
-            4,
-            "\u597d\u4f73\u574a\u6709\u9650\u516c\u53f8",
-            "SHOP G25 & G26, G/F, SADDLE RIDGE GARDEN, 6 KAM YING ROAD, MA ON SHAN, SHA TIN, NEW TERRITORIES",
-            null,
-            "2026-12-17"
-          ],
-          [
-            2997804991,
-            4,
-            "\u8c50\u5473\u5802",
-            "SHOP G19, G/F, THE COMMERCIAL CENTRE, SADDLE RIDGE GARDEN, 6 KAM YING ROAD, SHA TIN, NEW TERRITORIES",
-            null,
-            "2026-07-02"
           ]
         ]
       ],
@@ -1130,7 +1153,7 @@
     },
     {
       "attributes": [
-        1319108624,
+        1319108625,
         5,
         [
           [
@@ -1193,7 +1216,7 @@
     },
     {
       "attributes": [
-        1319108625,
+        1319108626,
         25,
         [
           [
@@ -1416,7 +1439,7 @@
     },
     {
       "attributes": [
-        1319108626,
+        1319108627,
         5,
         [
           [
@@ -1479,7 +1502,7 @@
     },
     {
       "attributes": [
-        1319108627,
+        1319108628,
         18,
         [
           [
@@ -1646,7 +1669,7 @@
     },
     {
       "attributes": [
-        1319108628,
+        1319108629,
         6,
         [
           [

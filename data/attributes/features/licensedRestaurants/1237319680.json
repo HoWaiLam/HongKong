@@ -546,7 +546,7 @@
     {
       "attributes": [
         1237319697,
-        10,
+        1,
         [
           [
             2253071422,
@@ -555,78 +555,6 @@
             "STAGE IIB, CHOI WAN COMMERCIAL CTR, CHOI WAN ESTATE, WONG TAI SIN, KOWLOON",
             null,
             "2026-06-30"
-          ],
-          [
-            2253802323,
-            0,
-            "Fairwood Fast Food",
-            "SHOP NO. B205, SECOND FLOOR, COMMERCIAL/CAR PARK BLOCK 2, CHOI WAN (I) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
-            null,
-            "2026-07-01"
-          ],
-          [
-            2253803353,
-            0,
-            "\u963f\u4e00\u71d2\u5473",
-            "STALL NO. 4 & 5, IN THE MARKET PLACE OF COMMERCIAL/CAR PARK BLOCK 2, CHOI WAN (I) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
-            null,
-            "2026-08-15"
-          ],
-          [
-            2253804107,
-            0,
-            "\u6f6e\u5473\u5de5\u623f",
-            "SHOP NOS. B104 AND B104A, G/F., CHOI WAN SHOPPING CENTRE (PHASE 3), CHOI WAN (1) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
-            null,
-            "2026-09-02"
-          ],
-          [
-            2253804499,
-            0,
-            "Yu Mai",
-            "SHOP NOS. B106, B106A, B106BAND B106C, G/F, CHOI WAN SHOPPING CENTRE (PHASE 3), CHOI WAN (I) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
-            null,
-            "2026-09-17"
-          ],
-          [
-            2253804985,
-            0,
-            "\u5cb1\u6c11",
-            "COOKED FOOD STALL NOS. 1, 2, 3 AND 4, COMMERCIAL BLOCK 2 (FORMING PART OF COMMERCIAL BLOCKS), CHOI WAN (I) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
-            null,
-            "2026-07-25"
-          ],
-          [
-            2253805003,
-            0,
-            "\u5cb1\u6c11",
-            "COOKED FOOD STALL NOS. 5 AND 6, COMMERCIAL BLOCK 2 (FORMING PART OF COMMERCIAL BLOCKS), CHOI WAN (I) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
-            null,
-            "2026-07-27"
-          ],
-          [
-            3153800653,
-            1,
-            "\u516b\u65b9\u96f2\u96c6",
-            "SHOP NOS. B102 & B103, G/F, COMMERCIAL/CAR PARK BLOCK 2, (FORMING PART OF COMMERCIAL/CAR PARK BLOCKS)) (ALSO KNOWN AS CHOI WAN SHOPPING CENTRE (PHASE 3)), CHOI WAN (1) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
-            null,
-            "2026-11-04"
-          ],
-          [
-            3153801045,
-            1,
-            "\u8868\u59d0\u7d05\u85af\u7c89",
-            "STALL NO. 35 IN THE MARKET PLACE OF COMMERCIAL/CAR PARK, BLOCK 2, CHOI WAN (I) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
-            null,
-            "2026-08-01"
-          ],
-          [
-            3153801382,
-            1,
-            "\u6f6e\u5dde\u4eba(\u5764\u8a18\u9eb5\u5bb6)",
-            "STALL NOS. S40, S41 AND S42 IN THE MARKET PLACE, G/F, COMMERCIAL/CAR PARK BLOCK 2 (FORMING PART OF COMMERCIAL/CAR PARK BLOCKS), (ALSO KNOWN AS CHOI WAN SHOPPING CENTRE (PHASE 3)), CHOI WAN (1) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
-            null,
-            "2026-09-20"
           ]
         ]
       ],
@@ -680,8 +608,40 @@
     {
       "attributes": [
         1237319699,
-        1,
+        7,
         [
+          [
+            2251183804,
+            0,
+            "Fairwood Fast Food",
+            "UNIT 108, 1/F, COMMERCIAL & GARAGE BLOCK, RICHLAND GARDENS, 80 WANG KWONG RD, KOWLOON",
+            null,
+            "2026-08-17"
+          ],
+          [
+            2251266703,
+            0,
+            "McDonald's",
+            "UNIT 218-1, RICHLAND GARDENS COMMERCIAL & GARAGE BLOCK, 80 WANG KWONG RD, KLN BAY, KOWLOON",
+            null,
+            "2026-09-29"
+          ],
+          [
+            2251803003,
+            0,
+            "Full Kitchen",
+            "UNIT 133, 1/F, RICHLAND GARDENS, 80 WANG KWONG ROAD, KOWLOON BAY, KOWLOON",
+            null,
+            "2026-11-24"
+          ],
+          [
+            2251803854,
+            0,
+            "\u6b61\u6a02\u51b0\u5ba4",
+            "SHOP G2A OF UNIT G2 ON G/F, RICHLAND GARDENS (COMMERCIAL AND GARAGE BLOCK), NO. 80 WANG KWONG ROAD, KOWLOON BAY, KOWLOON",
+            null,
+            "2026-11-26"
+          ],
           [
             2251805090,
             0,
@@ -689,6 +649,22 @@
             "SHOP 203, 204, 205, 2/F, RICHLAND GARDENS, 80 WANG KWONG ROAD, KOWLOON BAY, KOWLOON",
             null,
             "2027-02-04"
+          ],
+          [
+            2251810272,
+            0,
+            "\u6cf0\u4e4b\u5473",
+            "SHOP G7(PORTION A) & G8, G/F., RICHLAND GARDENS, (COMMERCIAL AND GARAGE BLOCK), 80 WANG KWONG ROAD, KOWLOON BAY, KOWLOON",
+            null,
+            "2026-03-23"
+          ],
+          [
+            3151803445,
+            1,
+            "\u69ae\u57fa\u725b\u96dc\u7c89\u9eb5",
+            "UNIT G10, G/F, RICHLAND GARDENS (COMMERCIAL AND GARAGE BLOCK), NO. 80 WANG KWONG ROAD, KOWLOON BAY, KOWLOON",
+            null,
+            "2026-07-28"
           ]
         ]
       ],
@@ -961,7 +937,7 @@
     {
       "attributes": [
         1237319706,
-        8,
+        17,
         [
           [
             2253235543,
@@ -980,6 +956,14 @@
             "2026-06-25"
           ],
           [
+            2253802323,
+            0,
+            "Fairwood Fast Food",
+            "SHOP NO. B205, SECOND FLOOR, COMMERCIAL/CAR PARK BLOCK 2, CHOI WAN (I) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
+            null,
+            "2026-07-01"
+          ],
+          [
             2253802420,
             0,
             "Itamomo Cafe",
@@ -996,12 +980,28 @@
             "2027-01-26"
           ],
           [
+            2253803353,
+            0,
+            "\u963f\u4e00\u71d2\u5473",
+            "STALL NO. 4 & 5, IN THE MARKET PLACE OF COMMERCIAL/CAR PARK BLOCK 2, CHOI WAN (I) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
+            null,
+            "2026-08-15"
+          ],
+          [
             2253803502,
             0,
             "PIZZA HUT",
             "SHOP NO. A103, UPPER GROUND FLOOR, CHOI WAN SHOPPING CENTRE(PHASE 2), CHOI WAN (1) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
             null,
             "2026-10-19"
+          ],
+          [
+            2253804107,
+            0,
+            "\u6f6e\u5473\u5de5\u623f",
+            "SHOP NOS. B104 AND B104A, G/F., CHOI WAN SHOPPING CENTRE (PHASE 3), CHOI WAN (1) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
+            null,
+            "2026-09-02"
           ],
           [
             2253804408,
@@ -1020,12 +1020,60 @@
             "2026-06-03"
           ],
           [
+            2253804499,
+            0,
+            "Yu Mai",
+            "SHOP NOS. B106, B106A, B106BAND B106C, G/F, CHOI WAN SHOPPING CENTRE (PHASE 3), CHOI WAN (I) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
+            null,
+            "2026-09-17"
+          ],
+          [
+            2253804985,
+            0,
+            "\u5cb1\u6c11",
+            "COOKED FOOD STALL NOS. 1, 2, 3 AND 4, COMMERCIAL BLOCK 2 (FORMING PART OF COMMERCIAL BLOCKS), CHOI WAN (I) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
+            null,
+            "2026-07-25"
+          ],
+          [
+            2253805003,
+            0,
+            "\u5cb1\u6c11",
+            "COOKED FOOD STALL NOS. 5 AND 6, COMMERCIAL BLOCK 2 (FORMING PART OF COMMERCIAL BLOCKS), CHOI WAN (I) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
+            null,
+            "2026-07-27"
+          ],
+          [
             2253805058,
             0,
             "\u8b5a\u4ed4\u96f2\u5357\u7c73\u7dda",
             "SHOP NO. A317, 3/F, CHOI WAN SHOPPING CENTRE (PHASE 2), CHOI WAN (I) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
             null,
             "2026-12-29"
+          ],
+          [
+            3153800653,
+            1,
+            "\u516b\u65b9\u96f2\u96c6",
+            "SHOP NOS. B102 & B103, G/F, COMMERCIAL/CAR PARK BLOCK 2, (FORMING PART OF COMMERCIAL/CAR PARK BLOCKS)) (ALSO KNOWN AS CHOI WAN SHOPPING CENTRE (PHASE 3)), CHOI WAN (1) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
+            null,
+            "2026-11-04"
+          ],
+          [
+            3153801045,
+            1,
+            "\u8868\u59d0\u7d05\u85af\u7c89",
+            "STALL NO. 35 IN THE MARKET PLACE OF COMMERCIAL/CAR PARK, BLOCK 2, CHOI WAN (I) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
+            null,
+            "2026-08-01"
+          ],
+          [
+            3153801382,
+            1,
+            "\u6f6e\u5dde\u4eba(\u5764\u8a18\u9eb5\u5bb6)",
+            "STALL NOS. S40, S41 AND S42 IN THE MARKET PLACE, G/F, COMMERCIAL/CAR PARK BLOCK 2 (FORMING PART OF COMMERCIAL/CAR PARK BLOCKS), (ALSO KNOWN AS CHOI WAN SHOPPING CENTRE (PHASE 3)), CHOI WAN (1) ESTATE, 45 CLEAR WATER BAY ROAD, NGAU CHI WAN, KOWLOON",
+            null,
+            "2026-09-20"
           ]
         ]
       ],
@@ -1095,77 +1143,6 @@
     {
       "attributes": [
         1237319708,
-        6,
-        [
-          [
-            2251183804,
-            0,
-            "Fairwood Fast Food",
-            "UNIT 108, 1/F, COMMERCIAL & GARAGE BLOCK, RICHLAND GARDENS, 80 WANG KWONG RD, KOWLOON",
-            null,
-            "2026-08-17"
-          ],
-          [
-            2251266703,
-            0,
-            "McDonald's",
-            "UNIT 218-1, RICHLAND GARDENS COMMERCIAL & GARAGE BLOCK, 80 WANG KWONG RD, KLN BAY, KOWLOON",
-            null,
-            "2026-09-29"
-          ],
-          [
-            2251803003,
-            0,
-            "Full Kitchen",
-            "UNIT 133, 1/F, RICHLAND GARDENS, 80 WANG KWONG ROAD, KOWLOON BAY, KOWLOON",
-            null,
-            "2026-11-24"
-          ],
-          [
-            2251803854,
-            0,
-            "\u6b61\u6a02\u51b0\u5ba4",
-            "SHOP G2A OF UNIT G2 ON G/F, RICHLAND GARDENS (COMMERCIAL AND GARAGE BLOCK), NO. 80 WANG KWONG ROAD, KOWLOON BAY, KOWLOON",
-            null,
-            "2026-11-26"
-          ],
-          [
-            2251810272,
-            0,
-            "\u6cf0\u4e4b\u5473",
-            "SHOP G7(PORTION A) & G8, G/F., RICHLAND GARDENS, (COMMERCIAL AND GARAGE BLOCK), 80 WANG KWONG ROAD, KOWLOON BAY, KOWLOON",
-            null,
-            "2026-03-23"
-          ],
-          [
-            3151803445,
-            1,
-            "\u69ae\u57fa\u725b\u96dc\u7c89\u9eb5",
-            "UNIT G10, G/F, RICHLAND GARDENS (COMMERCIAL AND GARAGE BLOCK), NO. 80 WANG KWONG ROAD, KOWLOON BAY, KOWLOON",
-            null,
-            "2026-07-28"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1237320308
-        ]
-      ],
-      "coordinate": [
-        1.9933014322754339,
-        0.3897156600167898,
-        6.75
-      ],
-      "halfSize": [
-        45.48649999964982,
-        20.718500000424683,
-        1.9499998092651367
-      ]
-    },
-    {
-      "attributes": [
-        1237319709,
         9,
         [
           [
@@ -1260,7 +1237,7 @@
     },
     {
       "attributes": [
-        1237319710,
+        1237319709,
         15,
         [
           [
@@ -1403,7 +1380,7 @@
     },
     {
       "attributes": [
-        1237319711,
+        1237319710,
         1,
         [
           [
@@ -1434,7 +1411,7 @@
     },
     {
       "attributes": [
-        1237319712,
+        1237319711,
         4,
         [
           [
@@ -1489,7 +1466,7 @@
     },
     {
       "attributes": [
-        1237319713,
+        1237319712,
         5,
         [
           [
@@ -1552,7 +1529,7 @@
     },
     {
       "attributes": [
-        1237319714,
+        1237319713,
         4,
         [
           [
@@ -1607,7 +1584,7 @@
     },
     {
       "attributes": [
-        1237319715,
+        1237319714,
         10,
         [
           [
@@ -1710,7 +1687,7 @@
     },
     {
       "attributes": [
-        1237319716,
+        1237319715,
         2,
         [
           [
@@ -1749,7 +1726,7 @@
     },
     {
       "attributes": [
-        1237319717,
+        1237319716,
         1,
         [
           [
@@ -1780,7 +1757,7 @@
     },
     {
       "attributes": [
-        1237319718,
+        1237319717,
         1,
         [
           [
@@ -1811,7 +1788,7 @@
     },
     {
       "attributes": [
-        1237319719,
+        1237319718,
         3,
         [
           [

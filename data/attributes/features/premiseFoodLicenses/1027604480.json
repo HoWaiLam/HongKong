@@ -3,7 +3,7 @@
     {
       "attributes": [
         1027604480,
-        2,
+        6,
         [
           [
             2918806796,
@@ -12,6 +12,38 @@
             "MAJOR PORTION OF SHOP 2029, 2/F., INTERNATIONAL FINANCE CENTRE, 1 HARBOUR VIEW STREET, CENTRAL, HONG KONG",
             null,
             "2026-05-16"
+          ],
+          [
+            2918809883,
+            4,
+            "OMOTESANDO KOFFEE",
+            "SHOP NO. 1032, PODIUM LEVEL 1, IFC MALL, 1 HARBOUR VIEW STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-04-25"
+          ],
+          [
+            2918809926,
+            4,
+            "Cova Pasticceria - Confetteria",
+            "SHOP 1023, PODIUM LEVEL ONE, IFC MALL, 1 HARBOUR VIEW STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-05-03"
+          ],
+          [
+            2918810975,
+            4,
+            "Pata Negra House",
+            "SHOP NO. 3012, PODIUM LEVEL 3, IFC MALL, 1 HARBOUR VIEW STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-11-07"
+          ],
+          [
+            4918813051,
+            4,
+            "TRUFFLE BAKERY",
+            "KIOSK LICENSED AREA 13, PODIUM LEVEL 1 OF IFC MALL, 1 HARBOUR VIEW STREET, CENTRAL, HONG KONG",
+            null,
+            "2026-07-08"
           ],
           [
             3218800550,
@@ -1225,7 +1257,7 @@
     {
       "attributes": [
         1027604514,
-        23,
+        19,
         [
           [
             2118800356,
@@ -1340,22 +1372,6 @@
             "2026-07-02"
           ],
           [
-            2918809883,
-            4,
-            "OMOTESANDO KOFFEE",
-            "SHOP NO. 1032, PODIUM LEVEL 1, IFC MALL, 1 HARBOUR VIEW STREET, CENTRAL, HONG KONG",
-            null,
-            "2026-04-25"
-          ],
-          [
-            2918809926,
-            4,
-            "Cova Pasticceria - Confetteria",
-            "SHOP 1023, PODIUM LEVEL ONE, IFC MALL, 1 HARBOUR VIEW STREET, CENTRAL, HONG KONG",
-            null,
-            "2026-05-03"
-          ],
-          [
             2918810407,
             4,
             "Le Gourmet",
@@ -1372,14 +1388,6 @@
             "2026-11-05"
           ],
           [
-            2918810975,
-            4,
-            "Pata Negra House",
-            "SHOP NO. 3012, PODIUM LEVEL 3, IFC MALL, 1 HARBOUR VIEW STREET, CENTRAL, HONG KONG",
-            null,
-            "2026-11-07"
-          ],
-          [
             2918811084,
             4,
             "Bacha Coffee",
@@ -1394,14 +1402,6 @@
             "SHOP 1105A, PODIUM LEVEL ONE, IFC MALL, 8 FINANCE STREET, CENTRAL, HONG KONG",
             null,
             "2027-03-23"
-          ],
-          [
-            4918813051,
-            4,
-            "TRUFFLE BAKERY",
-            "KIOSK LICENSED AREA 13, PODIUM LEVEL 1 OF IFC MALL, 1 HARBOUR VIEW STREET, CENTRAL, HONG KONG",
-            null,
-            "2026-07-08"
           ],
           [
             3618801122,
@@ -4413,6 +4413,37 @@
         1,
         [
           [
+            3613140781,
+            5,
+            "JCC RETAIL SHOP",
+            "LEVEL 5, JEWISH COMMUNITY CENTRE, ONE ROBINSON PLACE, 70 ROBINSON ROAD, CENTRAL, HONG KONG",
+            null,
+            "2026-11-05"
+          ]
+        ]
+      ],
+      "links": [
+        [
+          1027605953
+        ]
+      ],
+      "coordinate": [
+        1.9922728484968883,
+        0.38889148005953317,
+        121.69999694824219
+      ],
+      "halfSize": [
+        17.61151499999687,
+        8.793704999610782,
+        5.399997711181641
+      ]
+    },
+    {
+      "attributes": [
+        1027604602,
+        1,
+        [
+          [
             2918810850,
             4,
             "VISSION BAKERY",
@@ -4440,7 +4471,7 @@
     },
     {
       "attributes": [
-        1027604602,
+        1027604603,
         1,
         [
           [
@@ -4471,7 +4502,7 @@
     },
     {
       "attributes": [
-        1027604603,
+        1027604604,
         3,
         [
           [
@@ -4518,7 +4549,7 @@
     },
     {
       "attributes": [
-        1027604604,
+        1027604605,
         3,
         [
           [
@@ -4565,7 +4596,7 @@
     },
     {
       "attributes": [
-        1027604605,
+        1027604606,
         4,
         [
           [
@@ -4620,7 +4651,7 @@
     },
     {
       "attributes": [
-        1027604606,
+        1027604607,
         6,
         [
           [
@@ -4691,7 +4722,7 @@
     },
     {
       "attributes": [
-        1027604607,
+        1027604608,
         1,
         [
           [
@@ -4722,7 +4753,7 @@
     },
     {
       "attributes": [
-        1027604608,
+        1027604609,
         1,
         [
           [
@@ -4753,7 +4784,7 @@
     },
     {
       "attributes": [
-        1027604609,
+        1027604610,
         3,
         [
           [
@@ -4800,7 +4831,7 @@
     },
     {
       "attributes": [
-        1027604610,
+        1027604611,
         1,
         [
           [
@@ -4831,7 +4862,7 @@
     },
     {
       "attributes": [
-        1027604611,
+        1027604612,
         1,
         [
           [
@@ -4862,7 +4893,7 @@
     },
     {
       "attributes": [
-        1027604612,
+        1027604613,
         1,
         [
           [
@@ -4893,7 +4924,7 @@
     },
     {
       "attributes": [
-        1027604613,
+        1027604614,
         2,
         [
           [
@@ -4932,7 +4963,7 @@
     },
     {
       "attributes": [
-        1027604614,
+        1027604615,
         1,
         [
           [
@@ -4963,7 +4994,7 @@
     },
     {
       "attributes": [
-        1027604615,
+        1027604616,
         1,
         [
           [
@@ -4994,7 +5025,7 @@
     },
     {
       "attributes": [
-        1027604616,
+        1027604617,
         1,
         [
           [
@@ -5025,7 +5056,7 @@
     },
     {
       "attributes": [
-        1027604617,
+        1027604618,
         1,
         [
           [
@@ -5056,7 +5087,7 @@
     },
     {
       "attributes": [
-        1027604618,
+        1027604619,
         1,
         [
           [
@@ -5087,7 +5118,7 @@
     },
     {
       "attributes": [
-        1027604619,
+        1027604620,
         1,
         [
           [
@@ -5118,7 +5149,7 @@
     },
     {
       "attributes": [
-        1027604620,
+        1027604621,
         1,
         [
           [
@@ -5149,7 +5180,7 @@
     },
     {
       "attributes": [
-        1027604621,
+        1027604622,
         1,
         [
           [
@@ -5180,7 +5211,7 @@
     },
     {
       "attributes": [
-        1027604622,
+        1027604623,
         1,
         [
           [
@@ -5211,7 +5242,7 @@
     },
     {
       "attributes": [
-        1027604623,
+        1027604624,
         1,
         [
           [
@@ -5242,7 +5273,7 @@
     },
     {
       "attributes": [
-        1027604624,
+        1027604625,
         1,
         [
           [
@@ -5273,7 +5304,7 @@
     },
     {
       "attributes": [
-        1027604625,
+        1027604626,
         1,
         [
           [
@@ -5304,7 +5335,7 @@
     },
     {
       "attributes": [
-        1027604626,
+        1027604627,
         1,
         [
           [
@@ -5335,7 +5366,7 @@
     },
     {
       "attributes": [
-        1027604627,
+        1027604628,
         2,
         [
           [
@@ -5374,7 +5405,7 @@
     },
     {
       "attributes": [
-        1027604628,
+        1027604629,
         1,
         [
           [
@@ -5405,7 +5436,7 @@
     },
     {
       "attributes": [
-        1027604629,
+        1027604630,
         1,
         [
           [
@@ -5436,7 +5467,7 @@
     },
     {
       "attributes": [
-        1027604630,
+        1027604631,
         2,
         [
           [
@@ -5475,7 +5506,7 @@
     },
     {
       "attributes": [
-        1027604631,
+        1027604632,
         1,
         [
           [
@@ -5502,37 +5533,6 @@
         18.947000000160187,
         15.072999999858439,
         3.799999237060547
-      ]
-    },
-    {
-      "attributes": [
-        1027604632,
-        1,
-        [
-          [
-            3613140781,
-            5,
-            "JCC RETAIL SHOP",
-            "LEVEL 5, JEWISH COMMUNITY CENTRE, ONE ROBINSON PLACE, 70 ROBINSON ROAD, CENTRAL, HONG KONG",
-            null,
-            "2026-11-05"
-          ]
-        ]
-      ],
-      "links": [
-        [
-          1027606920
-        ]
-      ],
-      "coordinate": [
-        1.99228203347069,
-        0.3888884957208891,
-        116.5
-      ],
-      "halfSize": [
-        44.05899999989197,
-        50.875,
-        16.39999771118164
       ]
     },
     {
