@@ -16,13 +16,6 @@ body::selection {
   background-color: transparent;
 }
 
-canvas {
-   border: none;
-}
-
-a {
-  color: rgb(0, 255, 255);
-}
 
 input[type="radio"] + .fa-check:before {
 	content: "\f096";
@@ -458,7 +451,6 @@ input[type="checkbox"]:checked + .fa-check:before {
 .label {
 	flex-grow: 1;
 	flex-shrink: 1;
-	text-indent: 1em each-line;
 }
 
 .sub-label {
